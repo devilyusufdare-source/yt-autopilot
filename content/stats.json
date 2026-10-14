@@ -1,0 +1,33 @@
+{
+  "updated_at": "2026-10-14T18:49:43+00:00",
+  "total_videos": 1,
+  "total_views": 0,
+  "by_topic": {
+    "psychology": {
+      "videos": 1,
+      "avg_views": 0,
+      "best_views": 0
+    }
+  },
+  "top_videos": [
+    {
+      "title": "Why You Forget Why You Walked Into a Room",
+      "topic": "psychology",
+      "views": 0,
+      "hook": "Your brain wipes part of your memory every time you walk through a doorway."
+    }
+  ],
+  "videos": {
+    "GmLlv8BjIu8": {
+      "title": "Why You Forget Why You Walked Into a Room",
+      "topic": "psychology",
+      "hook": "Your brain wipes part of your memory every time you walk through a doorway.",
+      "published_at": "2026-10-14T18:49:37Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/GmLlv8BjIu8"
+    }
+  }
+}
