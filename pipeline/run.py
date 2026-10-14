@@ -105,7 +105,12 @@ def build_video(pkg: dict, cfg, outdir: Path) -> dict:
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", "1", "-i", str(final), "-frames:v", "1", str(frame)], check=False)
         thumb = make_thumbnail(pkg.get("thumbnail_text") or pkg["scenes"][0]["text"], cfg.get("channel.name", "") or "NEW FACT",
                                cfg, outdir / "thumbnail.jpg", frame if frame.exists() else None)
-    return {"video": final, "thumbnail": thumb, "duration": total, "tts_engine": engine, "words": sum(len(w) for w in words)}
+    footage = {}
+    for c in vis.credits:
+        footage[c["provider"]] = footage.get(c["provider"], 0) + 1
+    footage["animated-background"] = len(clips) - len(vis.credits)
+    return {"video": final, "thumbnail": thumb, "duration": total, "tts_engine": engine,
+            "words": sum(len(w) for w in words), "footage": footage}
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -141,7 +146,7 @@ def main(argv: list[str] | None = None) -> int:
 
     summary = {
         "id": pkg["id"], "title": pkg["title"], "duration_seconds": round(result["duration"], 1),
-        "tts_engine": result["tts_engine"], "video": str(result["video"]),
+        "voice": result["tts_engine"], "footage": result["footage"], "video": str(result["video"]),
     }
     print(f"[run] rendered {result['video']} ({result['duration']:.1f}s, voice={result['tts_engine']})")
 

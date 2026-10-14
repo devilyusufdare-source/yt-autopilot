@@ -59,6 +59,7 @@ jobs:
           key: tts-cache-${{ runner.os }}-${{ hashFiles('channel.yml') }}
 
       - name: Make and publish today's video
+        id: make
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
@@ -85,6 +86,24 @@ jobs:
             output/summary.json
           if-no-files-found: ignore
           retention-days: 14
+
+      - name: Summarise the run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ github.event_name }}
+          OUTCOME: ${{ steps.make.outcome }}
+        run: |
+          if [ -f output/summary.json ]; then
+            SUMMARY=$(python -c "import json; d=json.load(open('output/summary.json')); print('\n'.join(f'- {k}: {v}' for k,v in d.items()))")
+          else
+            SUMMARY="- the run failed before a video was rendered (see the step log above)"
+          fi
+          printf '### yt-autopilot run %s (%s, %s)\n%s\n' "$GITHUB_RUN_NUMBER" "$EVENT" "$OUTCOME" "$SUMMARY" >> "$GITHUB_STEP_SUMMARY"
+          if [ "$EVENT" != "schedule" ] || [ "$OUTCOME" != "success" ]; then
+            gh api "repos/$GITHUB_REPOSITORY/commits/$GITHUB_SHA/comments" \
+              -f body="$(printf 'yt-autopilot run #%s (%s, %s)\n\n%s\n\n%s' "$GITHUB_RUN_NUMBER" "$EVENT" "$OUTCOME" "$SUMMARY" "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID")" > /dev/null || true
+          fi
 
       - name: Record the result in the repository
         if: ${{ always() && github.event_name != 'push' && inputs.dry_run != true }}
