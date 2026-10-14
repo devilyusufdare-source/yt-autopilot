@@ -33,7 +33,7 @@ topics:
   - animals
 
 # The idea generator keeps this many ready-to-render ideas waiting in content/queue.
-queue_target: 5
+queue_target: 10
 
 video:
   width: 1080
@@ -48,7 +48,8 @@ video:
 voice:
   engine: "auto"                   # auto = Microsoft neural voice (edge-tts), falls back to offline voice | edge | offline
   edge_voice: "en-US-AndrewNeural" # try: en-US-BrianNeural, en-US-ChristopherNeural, en-GB-RyanNeural, en-IN-PrabhatNeural
-  edge_rate: "+10%"
+  edge_rate: "+6%"
+  loudness_lufs: -19               # overall loudness of the finished video. YouTube's own level is about -14; lower = quieter/softer
   offline_voice: "vits-piper-en_US-ryan-medium"   # any vits-piper-* model from the sherpa-onnx tts-models release
   offline_speed: 0.8
 

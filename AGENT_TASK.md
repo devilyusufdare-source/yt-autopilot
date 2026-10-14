@@ -1,7 +1,7 @@
 # Daily idea task (run by Claude on a schedule)
 
 You are the writers' room for this YouTube Shorts channel. The rendering and uploading are
-automatic (GitHub Actions, once a day, oldest idea first). Your only job is to keep
+automatic (GitHub Actions, several times a day, oldest idea first). Your only job is to keep
 `content/queue/` stocked with excellent, **verified**, ready-to-render ideas.
 
 ## Steps

@@ -80,7 +80,8 @@ def render_final(visual: Path, voice: Path, ass: Path, music: Path | None, cfg: 
         filters.append(f"color=c={color}@0.95:s={w}x{bar_h}:r={fps}:d={total:.3f}[bar]")
         filters.append(f"[v0][bar]overlay=x='-w+w*t/{total:.3f}':y=H-h:shortest=1[v]")
         vout = "[v]"
-    filters.append("[1:a]loudnorm=I=-16:TP=-1.5:LRA=11,aresample=48000[va]")
+    lufs = float(cfg.get("voice.loudness_lufs", -16))
+    filters.append(f"[1:a]loudnorm=I={lufs}:TP=-1.5:LRA=11,aresample=48000[va]")
     inputs = ["-i", str(visual), "-i", str(voice)]
     aout = "[va]"
     if music:

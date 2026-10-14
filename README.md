@@ -98,7 +98,7 @@ Quota: the default allowance is far above what one upload per day needs.
 | `content/stats.json` | Views/likes per video and per topic, refreshed after every upload. The idea task reads it. |
 | `output/` (in the Actions artifact) | The rendered MP4, thumbnail and captions of the latest run. |
 
-- **Change the posting time**: the `cron` line in `.github/workflows/daily.yml` (UTC), or set
+- **Change how often / when videos go out**: the `cron` lines in `.github/workflows/daily.yml` (UTC; one line per upload per day), or set
   `schedule.schedule_time` in `channel.yml` to upload early and go public at a fixed local time.
 - **Change the voice**: `voice.edge_voice` (`en-US-BrianNeural`, `en-GB-RyanNeural`, `en-IN-PrabhatNeural`, …).
   If Microsoft's free voice service is ever unreachable the job automatically uses an offline voice.

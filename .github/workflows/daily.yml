@@ -2,8 +2,11 @@ name: Daily video
 
 on:
   schedule:
-    # 12:00 UTC = 17:30 IST every day. Edit the time here; GitHub may start it up to ~15 minutes late.
-    - cron: "0 12 * * *"
+    # Three uploads a day: 08:00, 14:00 and 20:00 IST (times are in UTC here; GitHub may start up to ~15 min late).
+    # Add or remove lines to change how many videos go out per day.
+    - cron: "30 2 * * *"
+    - cron: "30 8 * * *"
+    - cron: "30 14 * * *"
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
     paths:
