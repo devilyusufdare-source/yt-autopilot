@@ -144,7 +144,13 @@ def main(argv: list[str] | None = None) -> int:
     slots: list[str | None] = [None] * count
     if not args.dry_run:
         from .upload import publish_slots, youtube_client
-        yt = youtube_client(cfg)
+        try:
+            yt = youtube_client(cfg)
+        except Exception as e:  # noqa: BLE001
+            msg = f"could not sign in to YouTube: {type(e).__name__}: {e}"
+            print(f"[run] {msg}")
+            _write_summary([], 1, error=msg)
+            return 2
         slots = publish_slots(count, cfg)
 
     summaries: list[dict] = []
@@ -171,6 +177,7 @@ def main(argv: list[str] | None = None) -> int:
         except Exception as e:  # noqa: BLE001
             traceback.print_exc()
             failures += 1
+            summaries.append({"id": pkg["id"], "title": pkg["title"], "status": f"render failed: {type(e).__name__}: {e}"[:300]})
             if not args.dry_run and path.parent == QUEUE_DIR:
                 _note_attempt(path, pkg, str(e))
             continue
@@ -194,6 +201,7 @@ def main(argv: list[str] | None = None) -> int:
         except Exception as e:  # noqa: BLE001
             traceback.print_exc()
             failures += 1
+            summaries.append({"id": pkg["id"], "title": pkg["title"], "status": f"upload failed: {type(e).__name__}: {e}"[:300]})
             if path.parent == QUEUE_DIR:
                 _note_attempt(path, pkg, str(e))
             continue
@@ -228,10 +236,12 @@ def main(argv: list[str] | None = None) -> int:
     return 0 if done and not failures else (1 if failures else 3)
 
 
-def _write_summary(summaries: list[dict], failures: int) -> None:
+def _write_summary(summaries: list[dict], failures: int, error: str | None = None) -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    (OUTPUT_DIR / "summary.json").write_text(
-        json.dumps({"videos": summaries, "failed": failures}, indent=2, ensure_ascii=False), encoding="utf-8")
+    data = {"videos": summaries, "failed": failures}
+    if error:
+        data["error"] = error
+    (OUTPUT_DIR / "summary.json").write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 if __name__ == "__main__":

@@ -113,6 +113,8 @@ jobs:
               lines.append(f"- {v.get('status')}: **{v.get('title')}** ({v.get('duration_seconds')}s, voice={v.get('voice')}, footage={v.get('footage')})"
                            + (f" -> {v['url']} public at {v.get('goes_public_at')}" if v.get("url") else ""))
           lines.append(f"- failed: {d.get('failed', 0)}")
+          if d.get("error"):
+              lines.append(f"- error: {d['error']}")
           print("\n".join(lines))
           PY
           )
