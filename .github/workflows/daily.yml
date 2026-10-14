@@ -29,6 +29,10 @@ on:
         description: "How many videos to make this run (optional; default = release.videos_per_run in channel.yml)"
         type: string
         default: ""
+      publish_now:
+        description: "Publish immediately instead of scheduling hourly slots"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -77,8 +81,10 @@ jobs:
           DRY_RUN: ${{ (github.event_name == 'push' || inputs.dry_run == true) && 'true' || 'false' }}
           PACKAGE: ${{ inputs.package }}
           COUNT: ${{ inputs.count }}
+          NOW: ${{ inputs.publish_now == true && 'true' || 'false' }}
         run: |
           ARGS=""
+          if [ "$NOW" = "true" ]; then ARGS="$ARGS --now"; fi
           if [ "$DRY_RUN" = "true" ]; then ARGS="$ARGS --dry-run"; fi
           if [ -n "$PACKAGE" ]; then ARGS="$ARGS --package $PACKAGE"; fi
           if [ -n "$COUNT" ]; then ARGS="$ARGS --count $COUNT"; fi

@@ -133,6 +133,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--count", type=int, help="how many videos to make this run (default: release.videos_per_run)")
     ap.add_argument("--package", type=Path, help="render this package first instead of the oldest queued one")
     ap.add_argument("--no-stats", action="store_true", help="skip refreshing content/stats.json")
+    ap.add_argument("--now", action="store_true", help="publish immediately instead of scheduling hourly slots")
     args = ap.parse_args(argv)
 
     ensure_dirs()
@@ -151,7 +152,7 @@ def main(argv: list[str] | None = None) -> int:
             print(f"[run] {msg}")
             _write_summary([], 1, error=msg)
             return 2
-        slots = publish_slots(count, cfg)
+        slots = [None] * count if args.now else publish_slots(count, cfg)
 
     summaries: list[dict] = []
     tried: set[str] = set()
