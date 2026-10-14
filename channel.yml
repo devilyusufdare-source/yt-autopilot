@@ -1,0 +1,79 @@
+# ---------------------------------------------------------------------------
+# Channel settings. Edit freely; the daily job reads this file every run.
+# ---------------------------------------------------------------------------
+
+channel:
+  name: "Mind Unlocked"            # small label shown at the top of every video
+  niche: >
+    Mind-blowing, verified facts about psychology, the human body, space,
+    science, history and animals — told as 30-50 second Shorts with a strong
+    hook in the first 2 seconds.
+  language: "en"                   # BCP-47 language of the voice/captions
+  default_category_id: "27"        # 27 Education | 28 Science & Tech | 24 Entertainment | 22 People & Blogs
+  privacy: "public"                # public | unlisted | private  (read README: "Why are my uploads private?")
+  made_for_kids: false
+  title_suffix: ""                 # e.g. " #Shorts" — appended to every title
+  description_footer: |
+    Follow for a new mind-blowing fact every day.
+    Stock footage: Pixabay / Pexels.
+
+# Optional: publish at a fixed local time instead of the moment the job runs.
+# Leave schedule_time empty to publish immediately with the privacy above.
+schedule:
+  schedule_time: ""                # "18:00" -> uploads as private, goes public at 18:00 (timezone below)
+  timezone: "Asia/Kolkata"
+
+# Sub-topics the idea generator rotates through (it avoids repeating the last few).
+topics:
+  - psychology
+  - human body
+  - space
+  - science
+  - history
+  - animals
+
+# The idea generator keeps this many ready-to-render ideas waiting in content/queue.
+queue_target: 5
+
+video:
+  width: 1080
+  height: 1920
+  fps: 30
+  max_seconds: 58                  # hard cap; Shorts can be up to 3 min but 30-50 s performs best
+  gap_seconds: 0.25                # silence between scenes
+  zoom: 0.08                       # slow push-in per scene (0 = off)
+  progress_bar: true               # thin bar along the bottom that fills over the video
+  crf: 20                          # quality (lower = better/bigger). 18-23 is sensible.
+
+voice:
+  engine: "auto"                   # auto = Microsoft neural voice (edge-tts), falls back to offline voice | edge | offline
+  edge_voice: "en-US-AndrewNeural" # try: en-US-BrianNeural, en-US-ChristopherNeural, en-GB-RyanNeural, en-IN-PrabhatNeural
+  edge_rate: "+10%"
+  offline_voice: "vits-piper-en_US-ryan-medium"   # any vits-piper-* model from the sherpa-onnx tts-models release
+  offline_speed: 0.8
+
+captions:
+  font_file: "assets/fonts/Poppins-ExtraBold.ttf"
+  font_name: "Poppins ExtraBold"
+  font_size: 104
+  uppercase: true
+  words_per_group: 3
+  max_chars_per_line: 14
+  text_color: "#FFFFFF"
+  highlight_color: "#FFD400"       # the word currently being spoken
+  outline_px: 8
+  y_percent: 56                    # vertical centre of the captions (0 = top, 100 = bottom)
+  show_top_label: true             # "MIND UNLOCKED • PSYCHOLOGY" pill near the top
+
+music:
+  enabled: true                    # uses a random file from assets/music/ (mp3/m4a/wav); silent if the folder is empty
+  volume: 0.10
+
+cta:
+  spoken: true
+  text: "Follow for a new fact every day."
+
+thumbnail:
+  enabled: true                    # generated 1080x1920 image; YouTube needs a phone-verified channel to accept it (non-fatal)
+  background: "#0B1020"
+  accent: "#FFD400"

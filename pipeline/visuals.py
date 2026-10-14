@@ -1,0 +1,258 @@
+"""Background footage for each scene.
+
+Providers, tried in this order for every scene (each needs its key in the environment):
+  1. Pixabay videos   (PIXABAY_API_KEY  - free, instant at pixabay.com/api/docs)
+  2. Pexels videos    (PEXELS_API_KEY   - free, but new keys are sometimes paused)
+  3. Pixabay photos   (PIXABAY_API_KEY  - a vertical photo with a slow push-in)
+  4. Animated gradient background in a palette chosen by topic (no key needed)
+
+Downloads are cached in .cache/. Output is always a silent H.264 clip of exactly the scene's
+duration at the configured size (1080x1920 by default).
+"""
+from __future__ import annotations
+
+import json
+import os
+import random
+import subprocess
+from dataclasses import dataclass
+from pathlib import Path
+
+import requests
+
+from .config import CACHE_DIR, Config
+
+PEXELS_SEARCH = "https://api.pexels.com/videos/search"
+PIXABAY_VIDEOS = "https://pixabay.com/api/videos/"
+PIXABAY_PHOTOS = "https://pixabay.com/api/"
+MAX_DOWNLOAD_MB = 80
+
+# Generic searches to try when the scene's own keywords return nothing.
+TOPIC_FALLBACK_QUERIES = {
+    "psychology": ["brain", "thinking person", "crowd walking"],
+    "human body": ["human body", "heartbeat", "running athlete"],
+    "space": ["galaxy", "stars night sky", "planet"],
+    "science": ["laboratory", "science experiment", "nature macro"],
+    "history": ["ancient ruins", "old map", "castle"],
+    "animals": ["wildlife", "ocean animals", "forest"],
+}
+GENERIC_QUERIES = ["abstract background", "dark texture", "clouds timelapse"]
+
+# Palettes for the procedural fallback: three colours per topic.
+TOPIC_PALETTES = {
+    "psychology": ("#2b1055", "#0d0520", "#7597de"),
+    "human body": ("#4a0f1f", "#1a0509", "#c03a52"),
+    "space": ("#050a1f", "#000000", "#1d3a8a"),
+    "science": ("#083344", "#020b10", "#0e9f9f"),
+    "history": ("#3d2a0b", "#140d03", "#b07a2a"),
+    "animals": ("#0b3d1f", "#031208", "#2a9d5c"),
+}
+DEFAULT_PALETTE = ("#1b2a4a", "#0b1020", "#243b6b")
+
+
+@dataclass
+class Candidate:
+    provider: str          # pixabay-video | pexels-video | pixabay-photo
+    uid: str               # provider-unique id, used to avoid repeats within one video
+    file_url: str
+    width: int
+    height: int
+    duration: float        # 0 for photos
+    page_url: str = ""
+    author: str = ""
+    kind: str = "video"    # video | image
+
+    @property
+    def portrait(self) -> bool:
+        return self.height > self.width
+
+
+def _get_json(url: str, params: dict, headers: dict | None = None) -> dict | None:
+    try:
+        r = requests.get(url, params=params, headers=headers or {}, timeout=30)
+        if r.status_code != 200:
+            print(f"[visuals] {url.split('/')[2]} answered {r.status_code} for '{params.get('q') or params.get('query')}'")
+            return None
+        return r.json()
+    except Exception as e:  # noqa: BLE001
+        print(f"[visuals] request failed ({url.split('/')[2]}): {e}")
+        return None
+
+
+class Visuals:
+    def __init__(self, cfg: Config, workdir: Path, seed: str, topic: str):
+        self.cfg = cfg
+        self.workdir = workdir
+        self.rng = random.Random(seed)
+        self.topic = (topic or "").lower()
+        self.used: set[str] = set()
+        self.workdir.mkdir(parents=True, exist_ok=True)
+        self.cache = CACHE_DIR / "footage"
+        self.cache.mkdir(parents=True, exist_ok=True)
+        self.credits: list[dict] = []
+        self.pixabay_key = os.environ.get("PIXABAY_API_KEY") or None
+        self.pexels_key = cfg.pexels_key
+
+    # ------------------------------------------------------------------ providers
+    def _pixabay_videos(self, query: str) -> list[Candidate]:
+        if not self.pixabay_key:
+            return []
+        data = _get_json(PIXABAY_VIDEOS, {"key": self.pixabay_key, "q": query[:100], "per_page": 20,
+                                          "safesearch": "true", "video_type": "film"})
+        out: list[Candidate] = []
+        for hit in (data or {}).get("hits", []):
+            files = hit.get("videos") or {}
+            # Prefer the largest rendition that is not absurdly big to download.
+            for size in ("large", "medium", "small"):
+                f = files.get(size) or {}
+                if f.get("url") and f.get("width") and f.get("height") and (f.get("size") or 0) < MAX_DOWNLOAD_MB * 1024 * 1024:
+                    out.append(Candidate("pixabay-video", f"pxb{hit['id']}", f["url"], int(f["width"]), int(f["height"]),
+                                         float(hit.get("duration", 0)), hit.get("pageURL", ""), hit.get("user", "")))
+                    break
+        return out
+
+    def _pexels_videos(self, query: str) -> list[Candidate]:
+        if not self.pexels_key:
+            return []
+        data = _get_json(PEXELS_SEARCH, {"query": query, "orientation": "portrait", "size": "medium", "per_page": 15},
+                         headers={"Authorization": self.pexels_key})
+        out: list[Candidate] = []
+        for v in (data or {}).get("videos", []):
+            files = [f for f in v.get("video_files", []) if f.get("link") and f.get("width") and f.get("height")]
+            portrait = [f for f in files if f["height"] > f["width"]]
+            pool = portrait or files
+            if not pool:
+                continue
+            pool.sort(key=lambda f: (abs(f["height"] - 1920), -f["height"]))
+            f = pool[0]
+            out.append(Candidate("pexels-video", f"pex{v['id']}", f["link"], int(f["width"]), int(f["height"]),
+                                 float(v.get("duration", 0)), v.get("url", ""), (v.get("user") or {}).get("name", "")))
+        return out
+
+    def _pixabay_photos(self, query: str) -> list[Candidate]:
+        if not self.pixabay_key:
+            return []
+        data = _get_json(PIXABAY_PHOTOS, {"key": self.pixabay_key, "q": query[:100], "per_page": 20, "safesearch": "true",
+                                          "image_type": "photo", "orientation": "vertical", "min_height": 1280})
+        out: list[Candidate] = []
+        for hit in (data or {}).get("hits", []):
+            url = hit.get("largeImageURL")
+            if url:
+                out.append(Candidate("pixabay-photo", f"pxp{hit['id']}", url, int(hit.get("imageWidth", 0)),
+                                     int(hit.get("imageHeight", 0)), 0.0, hit.get("pageURL", ""), hit.get("user", ""), kind="image"))
+        return out
+
+    # ------------------------------------------------------------------ choosing + downloading
+    def _pick(self, cands: list[Candidate], min_duration: float) -> Candidate | None:
+        cands = [c for c in cands if c.uid not in self.used]
+        if not cands:
+            return None
+        # Portrait first, then long enough to avoid looping, then top results (most relevant).
+        portrait = [c for c in cands if c.portrait]
+        pool = portrait or cands
+        long_enough = [c for c in pool if c.kind == "image" or c.duration >= min_duration]
+        pool = (long_enough or pool)[:8]
+        return self.rng.choice(pool)
+
+    def _download(self, c: Candidate) -> Path | None:
+        ext = ".jpg" if c.kind == "image" else ".mp4"
+        dst = self.cache / f"{c.uid}{ext}"
+        if dst.exists() and dst.stat().st_size > 10_000:
+            return dst
+        try:
+            with requests.get(c.file_url, stream=True, timeout=120) as r:
+                r.raise_for_status()
+                size = 0
+                with open(dst, "wb") as f:
+                    for chunk in r.iter_content(chunk_size=1 << 16):
+                        f.write(chunk)
+                        size += len(chunk)
+                        if size > MAX_DOWNLOAD_MB * 1024 * 1024:
+                            raise RuntimeError("file too large")
+            return dst
+        except Exception as e:  # noqa: BLE001
+            print(f"[visuals] download failed ({c.provider}): {e}")
+            dst.unlink(missing_ok=True)
+            return None
+
+    def _find_source(self, keywords: str, duration: float) -> tuple[Path, Candidate] | None:
+        if not (self.pixabay_key or self.pexels_key):
+            return None
+        # Specific query first across all providers, so a relevant photo beats a generic video.
+        queries = [keywords] + TOPIC_FALLBACK_QUERIES.get(self.topic, [])[:2] + GENERIC_QUERIES[:1]
+        providers = (self._pixabay_videos, self._pexels_videos, self._pixabay_photos)
+        for q in queries:
+            for provider in providers:
+                picked = self._pick(provider(q), duration)
+                if not picked:
+                    continue
+                path = self._download(picked)
+                if path:
+                    self.used.add(picked.uid)
+                    self.credits.append({"query": q, "provider": picked.provider, "url": picked.page_url, "author": picked.author})
+                    return path, picked
+        return None
+
+    # ------------------------------------------------------------------ rendering
+    def _zoom_filter(self, duration: float, zoom: float | None = None) -> str:
+        z = float(self.cfg.get("video.zoom", 0.08)) if zoom is None else zoom
+        if z <= 0:
+            return ""
+        d = max(duration, 0.1)
+        return (f",scale=w='trunc(iw*(1+{z}*t/{d:.3f})/2)*2':h='trunc(ih*(1+{z}*t/{d:.3f})/2)*2':eval=frame,"
+                f"crop={self.cfg.width}:{self.cfg.height}")
+
+    def _fit_filter(self, duration: float, zoom: float | None = None) -> str:
+        w, h, fps = self.cfg.width, self.cfg.height, self.cfg.fps
+        return (f"scale={w}:{h}:force_original_aspect_ratio=increase,crop={w}:{h}"
+                f"{self._zoom_filter(duration, zoom)},fps={fps},format=yuv420p")
+
+    def _render_video(self, src: Path, duration: float, out: Path) -> None:
+        subprocess.run(
+            ["ffmpeg", "-y", "-loglevel", "error", "-stream_loop", "-1", "-i", str(src), "-t", f"{duration:.3f}",
+             "-an", "-vf", self._fit_filter(duration), "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", str(out)],
+            check=True,
+        )
+
+    def _render_image(self, src: Path, duration: float, out: Path) -> None:
+        zoom = max(float(self.cfg.get("video.zoom", 0.08)), 0.10)  # a still needs visible motion
+        subprocess.run(
+            ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", str(self.cfg.fps), "-i", str(src),
+             "-t", f"{duration:.3f}", "-vf", self._fit_filter(duration, zoom), "-c:v", "libx264", "-preset", "veryfast",
+             "-crf", "18", str(out)],
+            check=True,
+        )
+
+    def _render_procedural(self, duration: float, out: Path, index: int) -> None:
+        w, h, fps = self.cfg.width, self.cfg.height, self.cfg.fps
+        c0, c1, c2 = TOPIC_PALETTES.get(self.topic, DEFAULT_PALETTE)
+        # A different gradient direction for every scene so cuts are visible.
+        corners = [(0, 0, w, h), (w, 0, 0, h), (0, h, w, 0), (w, h, 0, 0), (w // 2, 0, w // 2, h), (0, h // 2, w, h // 2)]
+        x0, y0, x1, y1 = corners[index % len(corners)]
+        src = (f"gradients=s={w}x{h}:c0={c0}:c1={c1}:c2={c2}:nb_colors=3:speed=0.03:"
+               f"duration={duration:.3f}:rate={fps}:x0={x0}:y0={y0}:x1={x1}:y1={y1}")
+        vf = "noise=alls=5:allf=t+u,vignette=PI/5,format=yuv420p"
+        subprocess.run(
+            ["ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i", src, "-t", f"{duration:.3f}",
+             "-vf", vf, "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", str(out)],
+            check=True,
+        )
+
+    def scene_clip(self, index: int, keywords: str, duration: float) -> Path:
+        out = self.workdir / f"scene{index:02d}.mp4"
+        found = self._find_source(keywords, duration)
+        if found:
+            src, cand = found
+            try:
+                if cand.kind == "image":
+                    self._render_image(src, duration, out)
+                else:
+                    self._render_video(src, duration, out)
+                return out
+            except subprocess.CalledProcessError as e:
+                print(f"[visuals] ffmpeg failed on {cand.provider} file ({e}); using procedural background")
+        self._render_procedural(duration, out, index)
+        return out
+
+    def save_credits(self, path: Path) -> None:
+        path.write_text(json.dumps(self.credits, indent=2), encoding="utf-8")

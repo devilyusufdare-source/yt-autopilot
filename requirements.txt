@@ -1,0 +1,12 @@
+# Core
+pyyaml>=6.0
+numpy>=1.26
+Pillow>=10.0
+requests>=2.31
+# Voices
+edge-tts>=7.0
+sherpa-onnx>=1.10
+# YouTube
+google-api-python-client>=2.120
+google-auth>=2.29
+google-auth-httplib2>=0.2

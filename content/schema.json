@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Content package",
+  "description": "One ready-to-render video idea. Files live in content/queue/<id>.json. The daily job renders the oldest one (by file name), uploads it and moves it to content/published/.",
+  "type": "object",
+  "required": ["id", "topic", "title", "scenes", "description", "tags"],
+  "additionalProperties": true,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]{3,60}$",
+      "description": "Date the idea was created + slug, e.g. 2026-10-15-doorway-effect. Also the file name."
+    },
+    "topic": { "type": "string", "description": "One of the topics listed in channel.yml" },
+    "title": {
+      "type": "string", "minLength": 10, "maxLength": 90,
+      "description": "Curiosity-driven title, under 70 characters is ideal. No < or > characters (YouTube rejects them)."
+    },
+    "scenes": {
+      "type": "array", "minItems": 3, "maxItems": 10,
+      "description": "Spoken script, one entry per visual scene. Scene 1 is the hook (max ~12 words, must create an open loop). Total length 60-130 words.",
+      "items": {
+        "type": "object",
+        "required": ["text", "keywords"],
+        "properties": {
+          "text": { "type": "string", "minLength": 4, "maxLength": 220, "description": "Exactly what the voice says. One or two short sentences." },
+          "keywords": { "type": "string", "minLength": 2, "maxLength": 60, "description": "2-4 concrete, visual words for stock-footage search, e.g. 'brain neurons glowing', 'octopus underwater', 'city street night'." }
+        }
+      }
+    },
+    "description": { "type": "string", "minLength": 20, "maxLength": 3000, "description": "2-5 lines. First line restates the hook. Hashtags and footer are appended automatically." },
+    "tags": {
+      "type": "array", "minItems": 5, "maxItems": 20,
+      "items": { "type": "string", "minLength": 2, "maxLength": 30 },
+      "description": "Plain search tags. All tags together must stay under 500 characters."
+    },
+    "hashtags": {
+      "type": "array", "maxItems": 6,
+      "items": { "type": "string", "pattern": "^#[A-Za-z0-9_]+$" },
+      "description": "Added to the description. YouTube shows the first three above the title. #shorts is added if missing."
+    },
+    "sources": {
+      "type": "array", "maxItems": 5,
+      "items": { "type": "string", "format": "uri" },
+      "description": "Where the fact was verified. Listed at the end of the description."
+    },
+    "category_id": { "type": "string", "description": "Overrides channel.default_category_id" },
+    "privacy": { "type": "string", "enum": ["public", "unlisted", "private"] },
+    "voice": { "type": "string", "description": "Overrides voice.edge_voice for this video" },
+    "cta": { "type": ["string", "null"], "description": "Overrides cta.text; empty string disables the spoken call-to-action for this video" },
+    "thumbnail_text": { "type": "string", "maxLength": 60, "description": "Big text on the generated thumbnail; defaults to the hook" }
+  }
+}

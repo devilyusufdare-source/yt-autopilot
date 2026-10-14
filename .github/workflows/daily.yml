@@ -1,0 +1,102 @@
+name: Daily video
+
+on:
+  schedule:
+    # 12:00 UTC = 17:30 IST every day. Edit the time here; GitHub may start it up to ~15 minutes late.
+    - cron: "0 12 * * *"
+  push:
+    # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
+    paths:
+      - "pipeline/**"
+      - "channel.yml"
+      - "assets/**"
+      - ".github/workflows/daily.yml"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Render only - do not upload, keep the idea in the queue"
+        type: boolean
+        default: false
+      package:
+        description: "Specific idea file to render (optional), e.g. content/queue/2026-10-15-doorway-effect.json"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-video
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg > /dev/null
+          ffmpeg -version | head -n 1
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Cache the offline voice model
+        uses: actions/cache@v4
+        with:
+          path: .cache/tts
+          key: tts-cache-${{ runner.os }}-${{ hashFiles('channel.yml') }}
+
+      - name: Make and publish today's video
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          DRY_RUN: ${{ (github.event_name == 'push' || inputs.dry_run == true) && 'true' || 'false' }}
+          PACKAGE: ${{ inputs.package }}
+        run: |
+          ARGS=""
+          if [ "$DRY_RUN" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ -n "$PACKAGE" ]; then ARGS="$ARGS --package $PACKAGE"; fi
+          python -m pipeline.run $ARGS
+
+      - name: Keep the rendered video as a downloadable artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: video-${{ github.run_number }}
+          path: |
+            output/*/*.mp4
+            output/*/thumbnail.jpg
+            output/*/captions.ass
+            output/summary.json
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Record the result in the repository
+        if: ${{ always() && github.event_name != 'push' && inputs.dry_run != true }}
+        run: |
+          git config user.name "yt-autopilot"
+          git config user.email "yt-autopilot@users.noreply.github.com"
+          git add content
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            TITLE=$(python -c "import json,sys; print(json.load(open('output/summary.json')).get('title','video'))" 2>/dev/null || echo video)
+            git commit -m "publish: $TITLE"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
