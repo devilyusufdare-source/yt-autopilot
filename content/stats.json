@@ -1,9 +1,14 @@
 {
-  "updated_at": "2026-10-14T18:49:43+00:00",
-  "total_videos": 1,
-  "total_views": 0,
+  "updated_at": "2026-10-14T21:28:43+00:00",
+  "total_videos": 2,
+  "total_views": 173,
   "by_topic": {
     "psychology": {
+      "videos": 1,
+      "avg_views": 173,
+      "best_views": 173
+    },
+    "space": {
       "videos": 1,
       "avg_views": 0,
       "best_views": 0
@@ -13,8 +18,14 @@
     {
       "title": "Why You Forget Why You Walked Into a Room",
       "topic": "psychology",
-      "views": 0,
+      "views": 173,
       "hook": "Your brain wipes part of your memory every time you walk through a doorway."
+    },
+    {
+      "title": "A Day on Venus Is Longer Than Its Year",
+      "topic": "space",
+      "views": 0,
+      "hook": "A day on Venus is longer than its entire year."
     }
   ],
   "videos": {
@@ -22,12 +33,23 @@
       "title": "Why You Forget Why You Walked Into a Room",
       "topic": "psychology",
       "hook": "Your brain wipes part of your memory every time you walk through a doorway.",
-      "published_at": "2026-10-14T18:49:37Z",
-      "privacy": "private",
+      "published_at": "2026-10-14T19:30:35Z",
+      "privacy": "public",
+      "views": 173,
+      "likes": 9,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/GmLlv8BjIu8"
+    },
+    "L1YCXdSWEZ4": {
+      "title": "A Day on Venus Is Longer Than Its Year",
+      "topic": "space",
+      "hook": "A day on Venus is longer than its entire year.",
+      "published_at": "2026-10-14T21:28:40Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/GmLlv8BjIu8"
+      "url": "https://youtube.com/shorts/L1YCXdSWEZ4"
     }
   }
 }
