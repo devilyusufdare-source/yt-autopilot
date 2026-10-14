@@ -38,17 +38,18 @@ def youtube_client(cfg: Config):
     return build("youtube", "v3", credentials=creds, cache_discovery=False)
 
 
-def _publish_at(cfg: Config) -> str | None:
-    t = (cfg.get("schedule.schedule_time") or "").strip()
-    if not t:
-        return None
-    tz = ZoneInfo(cfg.get("schedule.timezone", "UTC"))
-    hh, mm = (int(x) for x in t.split(":"))
-    now = dt.datetime.now(tz)
-    when = now.replace(hour=hh, minute=mm, second=0, microsecond=0)
-    if when <= now + dt.timedelta(minutes=5):
-        when += dt.timedelta(days=1)
-    return when.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+def publish_slots(count: int, cfg: Config) -> list[str | None]:
+    """Publish times (RFC 3339, UTC) for the videos of one run, or None = publish immediately."""
+    per_run = int(cfg.get("release.videos_per_run", 1))
+    if per_run <= 1 and count <= 1:
+        return [None] * count
+    interval = int(cfg.get("release.interval_minutes", 60))
+    lead = int(cfg.get("release.lead_minutes", 20))
+    tz = ZoneInfo(cfg.get("release.timezone", "UTC"))
+    earliest = dt.datetime.now(tz) + dt.timedelta(minutes=lead)
+    first = earliest.replace(minute=0, second=0, microsecond=0) + dt.timedelta(hours=1)
+    return [(first + dt.timedelta(minutes=interval * i)).astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            for i in range(count)]
 
 
 def build_description(pkg: dict, cfg: Config) -> str:
@@ -65,14 +66,13 @@ def build_description(pkg: dict, cfg: Config) -> str:
     return "\n\n".join(p for p in parts if p)[:4900]
 
 
-def build_body(pkg: dict, cfg: Config) -> dict:
+def build_body(pkg: dict, cfg: Config, publish_at: str | None = None) -> dict:
     title = (pkg["title"] + (cfg.get("channel.title_suffix") or "")).strip()[:100]
     lang = cfg.get("channel.language", "en")
     status: dict = {
         "privacyStatus": pkg.get("privacy") or cfg.get("channel.privacy", "public"),
         "selfDeclaredMadeForKids": bool(cfg.get("channel.made_for_kids", False)),
     }
-    publish_at = _publish_at(cfg)
     if publish_at and status["privacyStatus"] == "public":
         status["privacyStatus"] = "private"  # YouTube requires private + publishAt for scheduling
         status["publishAt"] = publish_at

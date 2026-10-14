@@ -2,11 +2,12 @@ name: Daily video
 
 on:
   schedule:
-    # Three uploads a day: 08:00, 14:00 and 20:00 IST (times are in UTC here; GitHub may start up to ~15 min late).
-    # Add or remove lines to change how many videos go out per day.
-    - cron: "30 2 * * *"
-    - cron: "30 8 * * *"
-    - cron: "30 14 * * *"
+    # Four runs a day (05:00, 11:00, 17:00, 23:00 IST; written in UTC). Each run makes
+    # `release.videos_per_run` videos (channel.yml) and schedules them one per hour -> 24 a day.
+    - cron: "30 23 * * *"
+    - cron: "30 5 * * *"
+    - cron: "30 11 * * *"
+    - cron: "30 17 * * *"
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
     paths:
@@ -22,6 +23,10 @@ on:
         default: false
       package:
         description: "Specific idea file to render (optional), e.g. content/queue/2026-10-15-doorway-effect.json"
+        type: string
+        default: ""
+      count:
+        description: "How many videos to make this run (optional; default = release.videos_per_run in channel.yml)"
         type: string
         default: ""
 
@@ -71,10 +76,12 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           DRY_RUN: ${{ (github.event_name == 'push' || inputs.dry_run == true) && 'true' || 'false' }}
           PACKAGE: ${{ inputs.package }}
+          COUNT: ${{ inputs.count }}
         run: |
           ARGS=""
           if [ "$DRY_RUN" = "true" ]; then ARGS="$ARGS --dry-run"; fi
           if [ -n "$PACKAGE" ]; then ARGS="$ARGS --package $PACKAGE"; fi
+          if [ -n "$COUNT" ]; then ARGS="$ARGS --count $COUNT"; fi
           python -m pipeline.run $ARGS
 
       - name: Keep the rendered video as a downloadable artifact
@@ -98,7 +105,17 @@ jobs:
           OUTCOME: ${{ steps.make.outcome }}
         run: |
           if [ -f output/summary.json ]; then
-            SUMMARY=$(python -c "import json; d=json.load(open('output/summary.json')); print('\n'.join(f'- {k}: {v}' for k,v in d.items()))")
+            SUMMARY=$(python - <<'PY'
+          import json
+          d = json.load(open("output/summary.json"))
+          lines = []
+          for v in d.get("videos", []):
+              lines.append(f"- {v.get('status')}: **{v.get('title')}** ({v.get('duration_seconds')}s, voice={v.get('voice')}, footage={v.get('footage')})"
+                           + (f" -> {v['url']} public at {v.get('goes_public_at')}" if v.get("url") else ""))
+          lines.append(f"- failed: {d.get('failed', 0)}")
+          print("\n".join(lines))
+          PY
+          )
           else
             SUMMARY="- the run failed before a video was rendered (see the step log above)"
           fi
@@ -117,7 +134,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "nothing to commit"
           else
-            TITLE=$(python -c "import json,sys; print(json.load(open('output/summary.json')).get('title','video'))" 2>/dev/null || echo video)
+            TITLE=$(python -c "import json; d=json.load(open('output/summary.json')); v=d.get('videos',[]); print(v[0]['title'] if len(v)==1 else f'{len(v)} videos')" 2>/dev/null || echo video)
             git commit -m "publish: $TITLE"
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push

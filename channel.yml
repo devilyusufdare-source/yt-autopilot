@@ -17,10 +17,14 @@ channel:
     Follow for a new mind-blowing fact every day.
     Stock footage: Pixabay / Pexels.
 
-# Optional: publish at a fixed local time instead of the moment the job runs.
-# Leave schedule_time empty to publish immediately with the privacy above.
-schedule:
-  schedule_time: ""                # "18:00" -> uploads as private, goes public at 18:00 (timezone below)
+# How videos are released. Each scheduled run (see .github/workflows/daily.yml) makes
+# `videos_per_run` videos and schedules them to go public one after another, `interval_minutes`
+# apart, starting at the next round hour. 4 runs a day x 6 videos = one video every hour.
+# Set videos_per_run to 1 to publish a single video immediately each run instead.
+release:
+  videos_per_run: 6
+  interval_minutes: 60
+  lead_minutes: 20                 # the first publish time is at least this many minutes after the run starts
   timezone: "Asia/Kolkata"
 
 # Sub-topics the idea generator rotates through (it avoids repeating the last few).
@@ -33,7 +37,7 @@ topics:
   - animals
 
 # The idea generator keeps this many ready-to-render ideas waiting in content/queue.
-queue_target: 10
+queue_target: 40
 
 video:
   width: 1080

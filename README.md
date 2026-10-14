@@ -75,16 +75,13 @@ uploads the oldest idea in `content/queue/` and from then on the schedule does i
 
 ---
 
-## Why are my uploads private?
-Google's docs say videos uploaded through the API by an **unverified API project** are set to
-**private** until the project passes a free compliance audit. Until then, either flip each video to
-public in YouTube Studio (one tap on your phone) or apply for the audit — **APIs & Services →
-YouTube Data API v3 → Quotas & compliance**, or the form at
-https://support.google.com/youtube/contact/yt_api_form — describing this exact use: "uploads my
-own channel's videos on a schedule". Many solo creators are approved within a couple of weeks.
-The job keeps uploading either way; nothing is lost.
+## Privacy of uploads
+Google's current API documentation says videos uploaded through the API are **not** forced to
+private any more, even for unverified projects. If a video still lands as private, check YouTube
+Studio → Settings → Upload defaults, and if needed fill in Google's form at
+https://support.google.com/youtube/contact/yt_api_form (quota extension / compliance).
 
-Quota: the default allowance is far above what one upload per day needs.
+Quota: a new project may upload 100 videos a day through the API — far above what this job needs.
 
 ---
 

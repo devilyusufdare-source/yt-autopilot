@@ -1,7 +1,9 @@
-"""Daily job: take the oldest idea in content/queue, make the video, upload it, record the result.
+"""Scheduled job: take ideas from content/queue (oldest first), make the videos, upload them,
+record the results.
 
-    python -m pipeline.run                 # full run (render + upload)
-    python -m pipeline.run --dry-run       # render only, keep the idea in the queue
+    python -m pipeline.run                 # make `release.videos_per_run` videos and upload them
+    python -m pipeline.run --count 1       # make/upload just one
+    python -m pipeline.run --dry-run       # render one video only, upload nothing, queue untouched
     python -m pipeline.run --package content/queue/2026-10-15-doorway-effect.json
 """
 from __future__ import annotations
@@ -43,7 +45,16 @@ def _fail(path: Path, pkg: dict, reason: str) -> None:
     print(f"[run] moved {path.name} to content/failed: {reason}")
 
 
-def pick_package(cfg, explicit: Path | None) -> tuple[Path, dict] | None:
+def _note_attempt(path: Path, pkg: dict, error: str) -> None:
+    """Count a failure; after MAX_ATTEMPTS the idea is moved out of the queue so it cannot block it."""
+    pkg["_attempts"] = int(pkg.get("_attempts", 0)) + 1
+    if pkg["_attempts"] >= MAX_ATTEMPTS:
+        _fail(path, pkg, f"failed {pkg['_attempts']}x: {error}")
+    else:
+        _save(path, pkg)
+
+
+def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict] | None:
     if explicit:
         pkg = _load(explicit)
         errs = validate_package(pkg, cfg)
@@ -51,6 +62,8 @@ def pick_package(cfg, explicit: Path | None) -> tuple[Path, dict] | None:
             raise SystemExit("package is invalid:\n  - " + "\n  - ".join(errs))
         return explicit, pkg
     for path in sorted(QUEUE_DIR.glob("*.json")):
+        if path.name in skip:
+            continue
         try:
             pkg = _load(path)
         except Exception as e:  # noqa: BLE001
@@ -65,7 +78,7 @@ def pick_package(cfg, explicit: Path | None) -> tuple[Path, dict] | None:
 
 
 def build_video(pkg: dict, cfg, outdir: Path) -> dict:
-    """Render everything for one package into outdir. Returns a dict with file paths and details."""
+    """Render everything for one package into outdir. Returns file paths and details."""
     outdir.mkdir(parents=True, exist_ok=True)
     scenes = [s["text"] for s in pkg["scenes"]]
     keywords = [s["keywords"] for s in pkg["scenes"]]
@@ -97,7 +110,8 @@ def build_video(pkg: dict, cfg, outdir: Path) -> dict:
     ass = build_ass(words, cfg, outdir / "captions.ass", label, total)
 
     print("[run] rendering final video")
-    final = render_final(visual, outdir / "voice.wav", ass, pick_music(cfg, pkg["id"]), cfg, outdir / f"{pkg['id']}.mp4", total)
+    final = render_final(visual, outdir / "voice.wav", ass, pick_music(cfg, pkg["id"]), cfg,
+                         outdir / f"{pkg['id']}.mp4", total)
 
     thumb = None
     if cfg.get("thumbnail.enabled", True):
@@ -105,7 +119,7 @@ def build_video(pkg: dict, cfg, outdir: Path) -> dict:
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", "1", "-i", str(final), "-frames:v", "1", str(frame)], check=False)
         thumb = make_thumbnail(pkg.get("thumbnail_text") or pkg["scenes"][0]["text"], cfg.get("channel.name", "") or "NEW FACT",
                                cfg, outdir / "thumbnail.jpg", frame if frame.exists() else None)
-    footage = {}
+    footage: dict[str, int] = {}
     for c in vis.credits:
         footage[c["provider"]] = footage.get(c["provider"], 0) + 1
     footage["animated-background"] = len(clips) - len(vis.credits)
@@ -116,86 +130,108 @@ def build_video(pkg: dict, cfg, outdir: Path) -> dict:
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--dry-run", action="store_true", help="render only; do not upload or change the queue")
-    ap.add_argument("--package", type=Path, help="render this package instead of the oldest queued one")
+    ap.add_argument("--count", type=int, help="how many videos to make this run (default: release.videos_per_run)")
+    ap.add_argument("--package", type=Path, help="render this package first instead of the oldest queued one")
     ap.add_argument("--no-stats", action="store_true", help="skip refreshing content/stats.json")
     args = ap.parse_args(argv)
 
     ensure_dirs()
     cfg = load_config()
-    picked = pick_package(cfg, args.package)
-    if not picked:
-        print("[run] QUEUE EMPTY - nothing to publish today. Run the idea generator (see AGENT_TASK.md).")
-        return 3
-    path, pkg = picked
-    print(f"[run] package: {path.name}  title: {pkg['title']}")
+    count = args.count or (1 if args.dry_run else int(cfg.get("release.videos_per_run", 1)))
+    count = max(1, count)
 
-    outdir = OUTPUT_DIR / pkg["id"]
-    if outdir.exists():
-        shutil.rmtree(outdir)
-    try:
-        result = build_video(pkg, cfg, outdir)
-    except Exception as e:  # noqa: BLE001
-        traceback.print_exc()
-        if not args.dry_run and not args.package:
-            pkg["_attempts"] = int(pkg.get("_attempts", 0)) + 1
-            if pkg["_attempts"] >= MAX_ATTEMPTS:
-                _fail(path, pkg, f"render failed {pkg['_attempts']}x: {e}")
-            else:
-                _save(path, pkg)
-        return 1
-
-    summary = {
-        "id": pkg["id"], "title": pkg["title"], "duration_seconds": round(result["duration"], 1),
-        "voice": result["tts_engine"], "footage": result["footage"], "video": str(result["video"]),
-    }
-    print(f"[run] rendered {result['video']} ({result['duration']:.1f}s, voice={result['tts_engine']})")
-
-    if args.dry_run:
-        print("[run] dry run: not uploading")
-        (OUTPUT_DIR / "summary.json").write_text(json.dumps(summary, indent=2), encoding="utf-8")
-        return 0
-
-    from .stats import update_stats
-    from .upload import build_body, set_thumbnail, upload_video, youtube_client
-
-    try:
+    yt = None
+    slots: list[str | None] = [None] * count
+    if not args.dry_run:
+        from .upload import publish_slots, youtube_client
         yt = youtube_client(cfg)
-        body = build_body(pkg, cfg)
-        video_id = upload_video(yt, result["video"], body)
-        print(f"[run] uploaded: https://youtube.com/shorts/{video_id}")
-        if result["thumbnail"]:
-            set_thumbnail(yt, video_id, result["thumbnail"])
-    except Exception as e:  # noqa: BLE001
-        traceback.print_exc()
-        if not args.package:
-            pkg["_attempts"] = int(pkg.get("_attempts", 0)) + 1
-            if pkg["_attempts"] >= MAX_ATTEMPTS:
-                _fail(path, pkg, f"upload failed {pkg['_attempts']}x: {e}")
-            else:
-                _save(path, pkg)
-        return 1
+        slots = publish_slots(count, cfg)
 
-    pkg.pop("_attempts", None)
-    pkg["youtube_id"] = video_id
-    pkg["url"] = f"https://youtube.com/shorts/{video_id}"
-    pkg["uploaded_at"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
-    pkg["privacy_requested"] = body["status"]["privacyStatus"]
-    pkg["tts_engine"] = result["tts_engine"]
-    pkg["duration_seconds"] = round(result["duration"], 1)
-    PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
-    _save(PUBLISHED_DIR / path.name, pkg)
-    if path.parent == QUEUE_DIR:
-        path.unlink()
-    summary.update({"youtube_id": video_id, "url": pkg["url"]})
-    (OUTPUT_DIR / "summary.json").write_text(json.dumps(summary, indent=2), encoding="utf-8")
+    summaries: list[dict] = []
+    tried: set[str] = set()
+    failures = 0
+    for i in range(count):
+        picked = pick_package(cfg, args.package if i == 0 else None, tried)
+        if not picked:
+            if i == 0:
+                print("[run] QUEUE EMPTY - nothing to publish. The idea writer needs to run (see AGENT_TASK.md).")
+                _write_summary(summaries, failures)
+                return 3
+            print(f"[run] queue ran out after {i} video(s)")
+            break
+        path, pkg = picked
+        tried.add(path.name)
+        print(f"\n[run] ({i + 1}/{count}) {path.name}  title: {pkg['title']}")
 
-    if not args.no_stats:
+        outdir = OUTPUT_DIR / pkg["id"]
+        if outdir.exists():
+            shutil.rmtree(outdir)
         try:
+            result = build_video(pkg, cfg, outdir)
+        except Exception as e:  # noqa: BLE001
+            traceback.print_exc()
+            failures += 1
+            if not args.dry_run and path.parent == QUEUE_DIR:
+                _note_attempt(path, pkg, str(e))
+            continue
+
+        summary = {"id": pkg["id"], "title": pkg["title"], "duration_seconds": round(result["duration"], 1),
+                   "voice": result["tts_engine"], "footage": result["footage"]}
+        print(f"[run] rendered {result['video'].name} ({result['duration']:.1f}s, voice={result['tts_engine']})")
+        if args.dry_run:
+            summary["status"] = "rendered (dry run)"
+            summaries.append(summary)
+            continue
+
+        from .upload import build_body, set_thumbnail, upload_video
+        try:
+            body = build_body(pkg, cfg, slots[i])
+            video_id = upload_video(yt, result["video"], body)
+            print(f"[run] uploaded: https://youtube.com/shorts/{video_id}  "
+                  f"({'goes public at ' + slots[i] if slots[i] else body['status']['privacyStatus']})")
+            if result["thumbnail"]:
+                set_thumbnail(yt, video_id, result["thumbnail"])
+        except Exception as e:  # noqa: BLE001
+            traceback.print_exc()
+            failures += 1
+            if path.parent == QUEUE_DIR:
+                _note_attempt(path, pkg, str(e))
+            continue
+
+        pkg.pop("_attempts", None)
+        pkg["youtube_id"] = video_id
+        pkg["url"] = f"https://youtube.com/shorts/{video_id}"
+        pkg["uploaded_at"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+        pkg["privacy_requested"] = body["status"]["privacyStatus"]
+        pkg["publish_at"] = slots[i]
+        pkg["tts_engine"] = result["tts_engine"]
+        pkg["duration_seconds"] = round(result["duration"], 1)
+        PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
+        _save(PUBLISHED_DIR / path.name, pkg)
+        if path.parent == QUEUE_DIR:
+            path.unlink()
+        summary.update({"status": "uploaded", "url": pkg["url"], "goes_public_at": slots[i] or "immediately"})
+        summaries.append(summary)
+        shutil.rmtree(outdir / "clips", ignore_errors=True)  # keep the runner's disk small
+        shutil.rmtree(outdir / "tts", ignore_errors=True)
+
+    _write_summary(summaries, failures)
+    if yt and not args.no_stats and summaries:
+        try:
+            from .stats import update_stats
             data = update_stats(yt)
             print(f"[run] stats refreshed: {data['total_videos']} videos, {data['total_views']} views total")
         except Exception as e:  # noqa: BLE001
             print(f"[run] stats refresh failed (non-fatal): {e}")
-    return 0
+    done = len([s for s in summaries if s.get("status", "").startswith(("uploaded", "rendered"))])
+    print(f"\n[run] finished: {done} video(s) done, {failures} failed")
+    return 0 if done and not failures else (1 if failures else 3)
+
+
+def _write_summary(summaries: list[dict], failures: int) -> None:
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    (OUTPUT_DIR / "summary.json").write_text(
+        json.dumps({"videos": summaries, "failed": failures}, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 if __name__ == "__main__":
