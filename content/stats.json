@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-10-14T21:28:43+00:00",
-  "total_videos": 2,
-  "total_views": 173,
+  "updated_at": "2026-10-15T00:06:30+00:00",
+  "total_videos": 8,
+  "total_views": 1084,
   "by_topic": {
     "psychology": {
-      "videos": 1,
-      "avg_views": 173,
-      "best_views": 173
+      "videos": 2,
+      "avg_views": 139,
+      "best_views": 278
     },
     "space": {
+      "videos": 1,
+      "avg_views": 806,
+      "best_views": 806
+    },
+    "history": {
+      "videos": 1,
+      "avg_views": 0,
+      "best_views": 0
+    },
+    "animals": {
+      "videos": 1,
+      "avg_views": 0,
+      "best_views": 0
+    },
+    "human body": {
+      "videos": 2,
+      "avg_views": 0,
+      "best_views": 0
+    },
+    "science": {
       "videos": 1,
       "avg_views": 0,
       "best_views": 0
@@ -16,16 +36,52 @@
   },
   "top_videos": [
     {
+      "title": "A Day on Venus Is Longer Than Its Year",
+      "topic": "space",
+      "views": 806,
+      "hook": "A day on Venus is longer than its entire year."
+    },
+    {
       "title": "Why You Forget Why You Walked Into a Room",
       "topic": "psychology",
-      "views": 173,
+      "views": 278,
       "hook": "Your brain wipes part of your memory every time you walk through a doorway."
     },
     {
-      "title": "A Day on Venus Is Longer Than Its Year",
-      "topic": "space",
+      "title": "Oxford University Is Older Than the Aztec Empire",
+      "topic": "history",
       "views": 0,
-      "hook": "A day on Venus is longer than its entire year."
+      "hook": "Oxford University is older than the Aztec Empire."
+    },
+    {
+      "title": "Why an Octopus Has Three Hearts and Blue Blood",
+      "topic": "animals",
+      "views": 0,
+      "hook": "An octopus has three hearts, and one of them stops every time it swims."
+    },
+    {
+      "title": "You Shrink Every Single Day (Here's Why)",
+      "topic": "human body",
+      "views": 0,
+      "hook": "You are taller right now than you'll be tonight."
+    },
+    {
+      "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
+      "topic": "science",
+      "views": 0,
+      "hook": "There are more trees on Earth than stars in the Milky Way."
+    },
+    {
+      "title": "Nobody Noticed Your Embarrassing Moment. Here's Proof",
+      "topic": "psychology",
+      "views": 0,
+      "hook": "Nobody noticed your embarrassing moment. Science proved it."
+    },
+    {
+      "title": "Your Body Is Glowing Right Now and You Can't See It",
+      "topic": "human body",
+      "views": 0,
+      "hook": "Your body is glowing right now. You just can't see it."
     }
   ],
   "videos": {
@@ -35,8 +91,8 @@
       "hook": "Your brain wipes part of your memory every time you walk through a doorway.",
       "published_at": "2026-10-14T19:30:35Z",
       "privacy": "public",
-      "views": 173,
-      "likes": 9,
+      "views": 278,
+      "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/GmLlv8BjIu8"
     },
@@ -44,12 +100,78 @@
       "title": "A Day on Venus Is Longer Than Its Year",
       "topic": "space",
       "hook": "A day on Venus is longer than its entire year.",
-      "published_at": "2026-10-14T21:28:40Z",
+      "published_at": "2026-10-14T21:29:03Z",
       "privacy": "public",
+      "views": 806,
+      "likes": 45,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/L1YCXdSWEZ4"
+    },
+    "V-ykHcqs_OA": {
+      "title": "Oxford University Is Older Than the Aztec Empire",
+      "topic": "history",
+      "hook": "Oxford University is older than the Aztec Empire.",
+      "published_at": "2026-10-14T23:53:38Z",
+      "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/L1YCXdSWEZ4"
+      "url": "https://youtube.com/shorts/V-ykHcqs_OA"
+    },
+    "FMEjskaXejU": {
+      "title": "Why an Octopus Has Three Hearts and Blue Blood",
+      "topic": "animals",
+      "hook": "An octopus has three hearts, and one of them stops every time it swims.",
+      "published_at": "2026-10-14T23:56:35Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/FMEjskaXejU"
+    },
+    "I75xo-ENbtA": {
+      "title": "You Shrink Every Single Day (Here's Why)",
+      "topic": "human body",
+      "hook": "You are taller right now than you'll be tonight.",
+      "published_at": "2026-10-14T23:58:32Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/I75xo-ENbtA"
+    },
+    "8v2IWv2BlSA": {
+      "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
+      "topic": "science",
+      "hook": "There are more trees on Earth than stars in the Milky Way.",
+      "published_at": "2026-10-15T00:01:23Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/8v2IWv2BlSA"
+    },
+    "EgjZfYUh9jE": {
+      "title": "Nobody Noticed Your Embarrassing Moment. Here's Proof",
+      "topic": "psychology",
+      "hook": "Nobody noticed your embarrassing moment. Science proved it.",
+      "published_at": "2026-10-15T00:03:33Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/EgjZfYUh9jE"
+    },
+    "T00_3CUDt5s": {
+      "title": "Your Body Is Glowing Right Now and You Can't See It",
+      "topic": "human body",
+      "hook": "Your body is glowing right now. You just can't see it.",
+      "published_at": "2026-10-15T00:06:23Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/T00_3CUDt5s"
     }
   }
 }
