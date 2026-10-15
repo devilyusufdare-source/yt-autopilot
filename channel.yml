@@ -19,11 +19,13 @@ channel:
 
 # How videos are released. Each scheduled run (see .github/workflows/daily.yml) makes
 # `videos_per_run` videos and schedules them to go public one after another, `interval_minutes`
-# apart, starting at the next round hour. 4 runs a day x 6 videos = one video every hour.
+# apart, starting at the next round hour. 4 runs a day x 2 videos, 3 h apart = 8 a day.
+# NOTE: YouTube itself refused the 11th upload within 24 h on this channel ("uploadLimitExceeded"),
+# so keep runs_per_day x videos_per_run at or below 8-10 until YouTube raises the channel's limit.
 # Set videos_per_run to 1 to publish a single video immediately each run instead.
 release:
-  videos_per_run: 6
-  interval_minutes: 60
+  videos_per_run: 2
+  interval_minutes: 180
   lead_minutes: 20                 # the first publish time is at least this many minutes after the run starts
   timezone: "Asia/Kolkata"
 

@@ -3,7 +3,8 @@ name: Daily video
 on:
   schedule:
     # Four runs a day (05:00, 11:00, 17:00, 23:00 IST; written in UTC). Each run makes
-    # `release.videos_per_run` videos (channel.yml) and schedules them one per hour -> 24 a day.
+    # `release.videos_per_run` videos (channel.yml) and schedules them `interval_minutes` apart.
+    # Currently 2 per run, 3 h apart = 8 a day (YouTube caps this channel at ~10 uploads / 24 h).
     - cron: "30 23 * * *"
     - cron: "30 5 * * *"
     - cron: "30 11 * * *"
@@ -121,6 +122,8 @@ jobs:
           lines.append(f"- failed: {d.get('failed', 0)}")
           if d.get("error"):
               lines.append(f"- error: {d['error']}")
+          if d.get("note"):
+              lines.append(f"- note: {d['note']}")
           print("\n".join(lines))
           PY
           )

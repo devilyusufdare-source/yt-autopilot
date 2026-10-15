@@ -157,6 +157,7 @@ def main(argv: list[str] | None = None) -> int:
     summaries: list[dict] = []
     tried: set[str] = set()
     failures = 0
+    limit_hit = False
     for i in range(count):
         picked = pick_package(cfg, args.package if i == 0 else None, tried)
         if not picked:
@@ -200,6 +201,13 @@ def main(argv: list[str] | None = None) -> int:
             if result["thumbnail"]:
                 set_thumbnail(yt, video_id, result["thumbnail"])
         except Exception as e:  # noqa: BLE001
+            if "uploadLimitExceeded" in str(e) or "exceeded the number of videos" in str(e):
+                # YouTube's own per-channel daily cap. Keep the idea untouched and stop for this run.
+                note = "YouTube's daily upload limit for this channel is reached; the remaining ideas stay queued for the next run"
+                print(f"[run] {note}")
+                summaries.append({"id": pkg["id"], "title": pkg["title"], "status": "not uploaded: YouTube daily upload limit reached"})
+                limit_hit = True
+                break
             traceback.print_exc()
             failures += 1
             summaries.append({"id": pkg["id"], "title": pkg["title"], "status": f"upload failed: {type(e).__name__}: {e}"[:300]})
@@ -224,7 +232,7 @@ def main(argv: list[str] | None = None) -> int:
         shutil.rmtree(outdir / "clips", ignore_errors=True)  # keep the runner's disk small
         shutil.rmtree(outdir / "tts", ignore_errors=True)
 
-    _write_summary(summaries, failures)
+    _write_summary(summaries, failures, note="YouTube daily upload limit reached" if limit_hit else None)
     if yt and not args.no_stats and summaries:
         try:
             from .stats import update_stats
@@ -237,11 +245,13 @@ def main(argv: list[str] | None = None) -> int:
     return 0 if done and not failures else (1 if failures else 3)
 
 
-def _write_summary(summaries: list[dict], failures: int, error: str | None = None) -> None:
+def _write_summary(summaries: list[dict], failures: int, error: str | None = None, note: str | None = None) -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     data = {"videos": summaries, "failed": failures}
     if error:
         data["error"] = error
+    if note:
+        data["note"] = note
     (OUTPUT_DIR / "summary.json").write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
