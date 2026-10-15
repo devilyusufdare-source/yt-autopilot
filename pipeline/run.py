@@ -242,7 +242,11 @@ def main(argv: list[str] | None = None) -> int:
             print(f"[run] stats refresh failed (non-fatal): {e}")
     done = len([s for s in summaries if s.get("status", "").startswith(("uploaded", "rendered"))])
     print(f"\n[run] finished: {done} video(s) done, {failures} failed")
-    return 0 if done and not failures else (1 if failures else 3)
+    if failures:
+        return 1
+    if limit_hit:
+        return 0  # YouTube's cap is not an error; the ideas wait for the next run
+    return 0 if done else 3
 
 
 def _write_summary(summaries: list[dict], failures: int, error: str | None = None, note: str | None = None) -> None:
