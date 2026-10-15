@@ -50,6 +50,14 @@ jobs:
     steps:
       - name: Check out the repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}   # the branch tip at the moment the job starts, not the run's old snapshot
+
+      - name: Make sure we have the very latest queue and published records
+        run: |
+          git fetch origin "${GITHUB_REF_NAME}"
+          git reset --hard "origin/${GITHUB_REF_NAME}"
+          echo "using $(git rev-parse --short HEAD)"
 
       - name: Set up Python
         uses: actions/setup-python@v5

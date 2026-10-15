@@ -221,6 +221,12 @@ def main(argv: list[str] | None = None) -> int:
             break
         path, pkg = picked
         tried.add(path.name)
+        if (PUBLISHED_DIR / path.name).exists():
+            # Belt and braces: never upload an idea that already has a published record.
+            print(f"[run] {path.name} is already published; removing it from the queue")
+            if path.parent == QUEUE_DIR:
+                path.unlink()
+            continue
         if not args.dry_run:
             wait = seconds_until_slot(cfg)
             if wait > MAX_WAIT_MINUTES * 60:
