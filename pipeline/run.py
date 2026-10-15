@@ -96,6 +96,8 @@ def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict
         if errs:
             raise SystemExit("package is invalid:\n  - " + "\n  - ".join(errs))
         return explicit, pkg
+    # Highest "priority" first (default 0), then oldest file name first.
+    candidates = []
     for path in sorted(QUEUE_DIR.glob("*.json")):
         if path.name in skip:
             continue
@@ -104,6 +106,12 @@ def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict
         except Exception as e:  # noqa: BLE001
             _fail(path, {"id": path.stem}, f"not valid JSON: {e}")
             continue
+        try:
+            prio = int(pkg.get("priority", 0) or 0)
+        except (TypeError, ValueError):
+            prio = 0
+        candidates.append((-prio, path.name, path, pkg))
+    for _, _, path, pkg in sorted(candidates, key=lambda c: (c[0], c[1])):
         errs = validate_package(pkg, cfg)
         if errs:
             _fail(path, pkg, "; ".join(errs))

@@ -34,6 +34,29 @@ automatic (GitHub Actions, several times a day, oldest idea first). Your only jo
 6. **Commit and push**: `git add content/queue && git commit -m "content: add N ideas" && git push`.
 7. **Report** in 3–5 lines: which ideas were added, queue size now, and anything odd in stats.
 
+## What the numbers say (update this section as stats.json grows)
+
+Day 1 (10 videos): the four that broke 1,000 views were all **"the world is weirder than you
+think"** facts — concrete, physical, visual, impossible-sounding: *Wombats poop cubes* (1,160),
+*More trees on Earth than stars in the Milky Way* (1,148), *A day on Venus is longer than its year*
+(1,138), *A planet where it rains glass sideways* (1,006). Everything framed as **"your body /
+your brain does X"** flopped: *Your body is glowing* (148), *You shrink every day* (115),
+*Nobody noticed your embarrassing moment* (216).
+
+So, until the data says otherwise:
+- At least 7 of every 10 ideas: animals, space, science, nature or history-with-a-twist, about
+  a THING out there (an animal, a planet, a place, an object, an event) — not about the viewer.
+- Hooks must state the impossible-sounding fact in plain words with a concrete noun and, where
+  possible, a number or comparison: "Sharks are older than trees." "A cloud weighs a million
+  pounds." "The shortest war in history lasted 38 minutes."
+- Body/psychology facts only when they are interactive or shocking ("Try to hum with your nose
+  closed. You can't.") — never "did you know your body..." trivia.
+- Keep videos 25–38 seconds. The 41-second one did fine, 26–36 did best.
+- Each run, include at least one idea tied to something currently trending or in the news
+  (a new discovery, a viral animal story, a space mission) — search for it; verify it the same way.
+- Give `priority` 5–8 to ideas you are confident will break out (strong hook + great footage
+  available); leave the rest at 0. Priority ideas go out first.
+
 ## Script rules (what the voice says)
 
 - Scene 1 is the hook: ≤ 12 words, creates an open loop, no "did you know". Examples that work:

@@ -48,6 +48,7 @@
     "privacy": { "type": "string", "enum": ["public", "unlisted", "private"] },
     "voice": { "type": "string", "description": "Overrides voice.edge_voice for this video" },
     "cta": { "type": ["string", "null"], "description": "Overrides cta.text; empty string disables the spoken call-to-action for this video" },
-    "thumbnail_text": { "type": "string", "maxLength": 60, "description": "Big text on the generated thumbnail; defaults to the hook" }
+    "thumbnail_text": { "type": "string", "maxLength": 60, "description": "Big text on the generated thumbnail; defaults to the hook" },
+    "priority": { "type": "integer", "minimum": 0, "maximum": 10, "description": "Higher goes out first (default 0). Use 5-10 only for ideas with clear breakout potential." }
   }
 }
