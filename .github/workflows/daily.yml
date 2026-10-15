@@ -2,13 +2,14 @@ name: Daily video
 
 on:
   schedule:
-    # Four runs a day (05:00, 11:00, 17:00, 23:00 IST; written in UTC). Each run makes
-    # `release.videos_per_run` videos (channel.yml) and schedules them `interval_minutes` apart.
-    # Currently 2 per run, 3 h apart = 8 a day (YouTube caps this channel at ~10 uploads / 24 h).
-    - cron: "30 23 * * *"
-    - cron: "30 5 * * *"
-    - cron: "30 11 * * *"
-    - cron: "30 17 * * *"
+    # Five runs a day (04:30, 09:18, 14:06, 18:54, 23:42 IST; written in UTC). Each run makes
+    # `release.videos_per_run` videos (channel.yml) and schedules them `interval_minutes` apart:
+    # 5 x 2 = 10 a day, which is YouTube's upload cap for this channel (release.daily_limit).
+    - cron: "0 23 * * *"
+    - cron: "48 3 * * *"
+    - cron: "36 8 * * *"
+    - cron: "24 13 * * *"
+    - cron: "12 18 * * *"
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
     paths:
@@ -45,7 +46,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 75
     steps:
       - name: Check out the repository
         uses: actions/checkout@v4

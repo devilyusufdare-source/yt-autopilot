@@ -81,7 +81,10 @@ private any more, even for unverified projects. If a video still lands as privat
 Studio → Settings → Upload defaults, and if needed fill in Google's form at
 https://support.google.com/youtube/contact/yt_api_form (quota extension / compliance).
 
-Quota: a new project may upload 100 videos a day through the API — far above what this job needs.
+Quota: the API allows 100 uploads a day, but **YouTube itself caps each channel** (this one: 10 per 24 h,
+seen as `uploadLimitExceeded`). `release.daily_limit` in channel.yml tells the job that cap, and it
+waits for a free slot instead of being refused. Raise it when YouTube raises the channel's limit
+(Studio → Settings → Channel → Feature eligibility → Advanced features).
 
 ---
 

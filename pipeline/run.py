@@ -15,6 +15,7 @@ import os
 import shutil
 import subprocess
 import sys
+import time
 import traceback
 from pathlib import Path
 
@@ -26,6 +27,40 @@ from .validate import validate_package
 from .visuals import Visuals
 
 MAX_ATTEMPTS = 2
+MAX_WAIT_MINUTES = 50      # longest a run will wait for a free upload slot before leaving the rest for the next run
+SAFETY_MINUTES = 6         # extra margin on YouTube's 24 h window
+
+
+def recent_upload_times(hours: float = 24.0) -> list[dt.datetime]:
+    """UTC times of uploads recorded in content/published within the last `hours`."""
+    now = dt.datetime.now(dt.timezone.utc)
+    out: list[dt.datetime] = []
+    for f in PUBLISHED_DIR.glob("*.json"):
+        try:
+            t = json.loads(f.read_text(encoding="utf-8")).get("uploaded_at")
+            if not t:
+                continue
+            when = dt.datetime.fromisoformat(t.replace("Z", "+00:00"))
+            if when.tzinfo is None:
+                when = when.replace(tzinfo=dt.timezone.utc)
+            if now - when < dt.timedelta(hours=hours):
+                out.append(when)
+        except Exception:  # noqa: BLE001
+            continue
+    return sorted(out)
+
+
+def seconds_until_slot(cfg) -> float:
+    """0 if an upload may happen now; otherwise seconds to wait until YouTube's 24 h window frees a slot."""
+    cap = int(cfg.get("release.daily_limit", 0) or 0)
+    if cap <= 0:
+        return 0.0
+    recent = recent_upload_times(24.0)
+    if len(recent) < cap:
+        return 0.0
+    oldest_in_window = recent[len(recent) - cap]
+    free_at = oldest_in_window + dt.timedelta(hours=24, minutes=SAFETY_MINUTES)
+    return max(0.0, (free_at - dt.datetime.now(dt.timezone.utc)).total_seconds())
 
 
 def _load(path: Path) -> dict:
@@ -169,6 +204,14 @@ def main(argv: list[str] | None = None) -> int:
             break
         path, pkg = picked
         tried.add(path.name)
+        if not args.dry_run:
+            wait = seconds_until_slot(cfg)
+            if wait > MAX_WAIT_MINUTES * 60:
+                print(f"[run] YouTube's daily limit ({cfg.get('release.daily_limit')}) is used up for the next "
+                      f"{wait / 60:.0f} min; leaving the remaining ideas for the next run")
+                summaries.append({"id": pkg["id"], "title": pkg["title"], "status": "not uploaded: daily limit window full (waits for next run)"})
+                limit_hit = True
+                break
         print(f"\n[run] ({i + 1}/{count}) {path.name}  title: {pkg['title']}")
 
         outdir = OUTPUT_DIR / pkg["id"]
@@ -193,6 +236,10 @@ def main(argv: list[str] | None = None) -> int:
             continue
 
         from .upload import build_body, set_thumbnail, upload_video
+        wait = seconds_until_slot(cfg)
+        if wait > 0:
+            print(f"[run] waiting {wait / 60:.1f} min for a free upload slot (YouTube 24 h limit)")
+            time.sleep(min(wait, MAX_WAIT_MINUTES * 60))
         try:
             body = build_body(pkg, cfg, slots[i])
             video_id = upload_video(yt, result["video"], body)
