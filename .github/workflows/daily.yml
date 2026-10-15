@@ -46,7 +46,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 75
+    timeout-minutes: 110
     steps:
       - name: Check out the repository
         uses: actions/checkout@v4

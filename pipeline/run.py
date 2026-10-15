@@ -27,7 +27,7 @@ from .validate import validate_package
 from .visuals import Visuals
 
 MAX_ATTEMPTS = 2
-MAX_WAIT_MINUTES = 50      # longest a run will wait for a free upload slot before leaving the rest for the next run
+MAX_WAIT_MINUTES = 70      # longest a run will wait for a free upload slot before leaving the rest for the next run
 SAFETY_MINUTES = 6         # extra margin on YouTube's 24 h window
 
 
@@ -181,7 +181,16 @@ def main(argv: list[str] | None = None) -> int:
 
     ensure_dirs()
     cfg = load_config()
-    count = args.count or (1 if args.dry_run else int(cfg.get("release.videos_per_run", 1)))
+    per_run = int(cfg.get("release.videos_per_run", 1))
+    count = args.count or (1 if args.dry_run else per_run)
+    cap = int(cfg.get("release.daily_limit", 0) or 0)
+    if args.count is None and not args.dry_run and cap > 0:
+        # Catch-up: if YouTube's 24 h window has more room than usual (an earlier run was blocked),
+        # make one extra video this run so the day still reaches the daily total.
+        free_now = max(0, cap - len(recent_upload_times(24.0)))
+        if free_now > per_run:
+            count = min(free_now, per_run + 1)
+            print(f"[run] {free_now} upload slots free in YouTube's 24 h window -> making {count} videos this run")
     count = max(1, count)
 
     yt = None
