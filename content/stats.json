@@ -1,51 +1,63 @@
 {
-  "updated_at": "2026-10-15T06:14:05+00:00",
+  "updated_at": "2026-10-15T08:24:08+00:00",
   "total_videos": 10,
-  "total_views": 2706,
+  "total_views": 3743,
   "by_topic": {
     "psychology": {
       "videos": 2,
-      "avg_views": 182,
+      "avg_views": 270,
       "best_views": 343
     },
     "space": {
       "videos": 2,
-      "avg_views": 556,
-      "best_views": 1113
+      "avg_views": 746,
+      "best_views": 1131
     },
     "history": {
       "videos": 1,
-      "avg_views": 190,
-      "best_views": 190
+      "avg_views": 232,
+      "best_views": 232
     },
     "animals": {
       "videos": 2,
-      "avg_views": 146,
-      "best_views": 291
+      "avg_views": 218,
+      "best_views": 365
     },
     "human body": {
       "videos": 2,
-      "avg_views": 40,
-      "best_views": 64
+      "avg_views": 82,
+      "best_views": 89
     },
     "science": {
       "videos": 1,
-      "avg_views": 669,
-      "best_views": 669
+      "avg_views": 880,
+      "best_views": 880
     }
   },
   "top_videos": [
     {
       "title": "A Day on Venus Is Longer Than Its Year",
       "topic": "space",
-      "views": 1113,
+      "views": 1131,
       "hook": "A day on Venus is longer than its entire year."
     },
     {
       "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
       "topic": "science",
-      "views": 669,
+      "views": 880,
       "hook": "There are more trees on Earth than stars in the Milky Way."
+    },
+    {
+      "title": "Why an Octopus Has Three Hearts and Blue Blood",
+      "topic": "animals",
+      "views": 365,
+      "hook": "An octopus has three hearts, and one of them stops every time it swims."
+    },
+    {
+      "title": "There's a Planet Where It Rains Glass Sideways",
+      "topic": "space",
+      "views": 362,
+      "hook": "There's a planet where it rains glass. Sideways."
     },
     {
       "title": "Why You Forget Why You Walked Into a Room",
@@ -54,45 +66,33 @@
       "hook": "Your brain wipes part of your memory every time you walk through a doorway."
     },
     {
-      "title": "Why an Octopus Has Three Hearts and Blue Blood",
-      "topic": "animals",
-      "views": 291,
-      "hook": "An octopus has three hearts, and one of them stops every time it swims."
-    },
-    {
       "title": "Oxford University Is Older Than the Aztec Empire",
       "topic": "history",
-      "views": 190,
+      "views": 232,
       "hook": "Oxford University is older than the Aztec Empire."
-    },
-    {
-      "title": "You Shrink Every Single Day (Here's Why)",
-      "topic": "human body",
-      "views": 64,
-      "hook": "You are taller right now than you'll be tonight."
     },
     {
       "title": "Nobody Noticed Your Embarrassing Moment. Here's Proof",
       "topic": "psychology",
-      "views": 20,
+      "views": 196,
       "hook": "Nobody noticed your embarrassing moment. Science proved it."
+    },
+    {
+      "title": "You Shrink Every Single Day (Here's Why)",
+      "topic": "human body",
+      "views": 89,
+      "hook": "You are taller right now than you'll be tonight."
     },
     {
       "title": "Your Body Is Glowing Right Now and You Can't See It",
       "topic": "human body",
-      "views": 16,
+      "views": 75,
       "hook": "Your body is glowing right now. You just can't see it."
-    },
-    {
-      "title": "There's a Planet Where It Rains Glass Sideways",
-      "topic": "space",
-      "views": 0,
-      "hook": "There's a planet where it rains glass. Sideways."
     },
     {
       "title": "Wombats Poop Cubes. Scientists Finally Know Why",
       "topic": "animals",
-      "views": 0,
+      "views": 70,
       "hook": "Wombats poop cubes. Scientists finally figured out how."
     }
   ],
@@ -114,7 +114,7 @@
       "hook": "A day on Venus is longer than its entire year.",
       "published_at": "2026-10-14T21:29:03Z",
       "privacy": "public",
-      "views": 1113,
+      "views": 1131,
       "likes": 44,
       "comments": 0,
       "url": "https://youtube.com/shorts/L1YCXdSWEZ4"
@@ -125,7 +125,7 @@
       "hook": "Oxford University is older than the Aztec Empire.",
       "published_at": "2026-10-15T00:30:19Z",
       "privacy": "public",
-      "views": 190,
+      "views": 232,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/V-ykHcqs_OA"
@@ -136,7 +136,7 @@
       "hook": "An octopus has three hearts, and one of them stops every time it swims.",
       "published_at": "2026-10-15T01:30:33Z",
       "privacy": "public",
-      "views": 291,
+      "views": 365,
       "likes": 13,
       "comments": 0,
       "url": "https://youtube.com/shorts/FMEjskaXejU"
@@ -147,8 +147,8 @@
       "hook": "You are taller right now than you'll be tonight.",
       "published_at": "2026-10-15T02:30:20Z",
       "privacy": "public",
-      "views": 64,
-      "likes": 2,
+      "views": 89,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/I75xo-ENbtA"
     },
@@ -158,8 +158,8 @@
       "hook": "There are more trees on Earth than stars in the Milky Way.",
       "published_at": "2026-10-15T03:30:08Z",
       "privacy": "public",
-      "views": 669,
-      "likes": 15,
+      "views": 880,
+      "likes": 19,
       "comments": 0,
       "url": "https://youtube.com/shorts/8v2IWv2BlSA"
     },
@@ -169,8 +169,8 @@
       "hook": "Nobody noticed your embarrassing moment. Science proved it.",
       "published_at": "2026-10-15T04:30:13Z",
       "privacy": "public",
-      "views": 20,
-      "likes": 0,
+      "views": 196,
+      "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/EgjZfYUh9jE"
     },
@@ -180,8 +180,8 @@
       "hook": "Your body is glowing right now. You just can't see it.",
       "published_at": "2026-10-15T05:30:37Z",
       "privacy": "public",
-      "views": 16,
-      "likes": 0,
+      "views": 75,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/T00_3CUDt5s"
     },
@@ -189,10 +189,10 @@
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
       "hook": "There's a planet where it rains glass. Sideways.",
-      "published_at": "2026-10-15T06:02:21Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-10-15T06:30:27Z",
+      "privacy": "public",
+      "views": 362,
+      "likes": 31,
       "comments": 0,
       "url": "https://youtube.com/shorts/_AAxfyJTzHU"
     },
@@ -200,10 +200,10 @@
       "title": "Wombats Poop Cubes. Scientists Finally Know Why",
       "topic": "animals",
       "hook": "Wombats poop cubes. Scientists finally figured out how.",
-      "published_at": "2026-10-15T06:04:37Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-10-15T07:30:08Z",
+      "privacy": "public",
+      "views": 70,
+      "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4"
     }
