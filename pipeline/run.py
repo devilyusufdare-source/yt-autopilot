@@ -89,6 +89,35 @@ def _note_attempt(path: Path, pkg: dict, error: str) -> None:
         _save(path, pkg)
 
 
+_STOP = {"the","a","an","of","in","on","and","or","is","are","was","were","to","for","than","that","this","it","its",
+         "you","your","can","cant","can't","here's","heres","why","how","what","with","from","has","have","be","will",
+         "every","even","only","just","more","not","no","so","if","at","by","as","do","does","did","s"}
+
+
+def _title_words(title: str) -> set[str]:
+    import re
+    words = re.findall(r"[a-z0-9']+", title.lower())
+    return {w for w in words if w not in _STOP and len(w) > 1}
+
+
+def duplicate_of(pkg: dict) -> str | None:
+    """Title of an already-published video that this idea repeats, or None."""
+    mine = _title_words(pkg.get("title", ""))
+    if not mine:
+        return None
+    for f in PUBLISHED_DIR.glob("*.json"):
+        try:
+            other = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            continue
+        if other.get("id") == pkg.get("id"):
+            return other.get("title")
+        theirs = _title_words(other.get("title", ""))
+        if theirs and len(mine & theirs) / min(len(mine), len(theirs)) >= 0.6:
+            return other.get("title")
+    return None
+
+
 def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict] | None:
     if explicit:
         pkg = _load(explicit)
@@ -115,6 +144,10 @@ def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict
         errs = validate_package(pkg, cfg)
         if errs:
             _fail(path, pkg, "; ".join(errs))
+            continue
+        dup = duplicate_of(pkg)
+        if dup:
+            _fail(path, pkg, f"duplicate of an already published video: {dup}")
             continue
         return path, pkg
     return None
