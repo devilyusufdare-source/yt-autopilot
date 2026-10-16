@@ -1,0 +1,12 @@
+{
+  "daily_limit": 10,
+  "last_probe": "2026-10-15T00:00:00+00:00",
+  "history": [
+    {
+      "at": "2026-10-15T06:06:00+00:00",
+      "tried": 11,
+      "accepted": false,
+      "note": "YouTube refused the 11th upload within 24 h (uploadLimitExceeded)"
+    }
+  ]
+}

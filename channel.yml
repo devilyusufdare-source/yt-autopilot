@@ -27,7 +27,8 @@ channel:
 release:
   videos_per_run: 2
   interval_minutes: 144
-  daily_limit: 10
+  daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
+  probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it
   lead_minutes: 20                 # the first publish time is at least this many minutes after the run starts
   timezone: "Asia/Kolkata"
 

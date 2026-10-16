@@ -50,9 +50,48 @@ def recent_upload_times(hours: float = 24.0) -> list[dt.datetime]:
     return sorted(out)
 
 
+LIMITS_FILE = PUBLISHED_DIR.parent / "limits.json"
+PROBE_EVERY_DAYS = 7
+
+
+def load_limits(cfg) -> dict:
+    data = {"daily_limit": int(cfg.get("release.daily_limit", 0) or 0), "last_probe": None, "history": []}
+    if LIMITS_FILE.exists():
+        try:
+            data.update(json.loads(LIMITS_FILE.read_text(encoding="utf-8")))
+        except Exception:  # noqa: BLE001
+            pass
+    return data
+
+
+def save_limits(data: dict) -> None:
+    LIMITS_FILE.write_text(json.dumps(data, indent=2) + "\n", encoding="utf-8")
+
+
+def daily_cap(cfg) -> int:
+    return int(load_limits(cfg).get("daily_limit", 0) or 0)
+
+
+def should_probe(cfg) -> bool:
+    """Once a week, try one upload beyond the known limit to find out whether YouTube raised it."""
+    if not cfg.get("release.probe_limit", True):
+        return False
+    lim = load_limits(cfg)
+    if lim.get("daily_limit", 0) <= 0:
+        return False
+    last = lim.get("last_probe")
+    if not last:
+        return True
+    try:
+        when = dt.datetime.fromisoformat(last.replace("Z", "+00:00"))
+    except ValueError:
+        return True
+    return dt.datetime.now(dt.timezone.utc) - when >= dt.timedelta(days=PROBE_EVERY_DAYS)
+
+
 def seconds_until_slot(cfg) -> float:
     """0 if an upload may happen now; otherwise seconds to wait until YouTube's 24 h window frees a slot."""
-    cap = int(cfg.get("release.daily_limit", 0) or 0)
+    cap = daily_cap(cfg)
     if cap <= 0:
         return 0.0
     recent = recent_upload_times(24.0)
@@ -216,7 +255,8 @@ def main(argv: list[str] | None = None) -> int:
     cfg = load_config()
     per_run = int(cfg.get("release.videos_per_run", 1))
     count = args.count or (1 if args.dry_run else per_run)
-    cap = int(cfg.get("release.daily_limit", 0) or 0)
+    cap = daily_cap(cfg)
+    probe_index = None
     if args.count is None and not args.dry_run and cap > 0:
         # Catch-up: if YouTube's 24 h window has more room than usual (an earlier run was blocked),
         # make one extra video this run so the day still reaches the daily total.
@@ -224,6 +264,12 @@ def main(argv: list[str] | None = None) -> int:
         if free_now > per_run:
             count = min(free_now, per_run + 1)
             print(f"[run] {free_now} upload slots free in YouTube's 24 h window -> making {count} videos this run")
+        elif free_now == 0 and should_probe(cfg):
+            # Weekly probe: the window is full by our count; try ONE extra upload to learn whether
+            # YouTube has raised this channel's limit. Refusal costs nothing but a render.
+            probe_index = 0
+            count = 1
+            print(f"[run] weekly limit probe: trying one upload beyond the known limit of {cap}")
     count = max(1, count)
 
     yt = None
@@ -260,7 +306,7 @@ def main(argv: list[str] | None = None) -> int:
             if path.parent == QUEUE_DIR:
                 path.unlink()
             continue
-        if not args.dry_run:
+        if not args.dry_run and probe_index != i:
             wait = seconds_until_slot(cfg)
             if wait > MAX_WAIT_MINUTES * 60:
                 print(f"[run] YouTube's daily limit ({cfg.get('release.daily_limit')}) is used up for the next "
@@ -292,7 +338,7 @@ def main(argv: list[str] | None = None) -> int:
             continue
 
         from .upload import build_body, set_thumbnail, upload_video
-        wait = seconds_until_slot(cfg)
+        wait = 0.0 if probe_index == i else seconds_until_slot(cfg)
         if wait > 0:
             print(f"[run] waiting {wait / 60:.1f} min for a free upload slot (YouTube 24 h limit)")
             time.sleep(min(wait, MAX_WAIT_MINUTES * 60))
@@ -308,6 +354,12 @@ def main(argv: list[str] | None = None) -> int:
                 # YouTube's own per-channel daily cap. Keep the idea untouched and stop for this run.
                 note = "YouTube's daily upload limit for this channel is reached; the remaining ideas stay queued for the next run"
                 print(f"[run] {note}")
+                if probe_index == i:
+                    lim = load_limits(cfg)
+                    lim["last_probe"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+                    lim.setdefault("history", []).append({"at": lim["last_probe"], "tried": lim["daily_limit"] + 1, "accepted": False})
+                    save_limits(lim)
+                    print(f"[run] probe result: YouTube still limits this channel to {lim['daily_limit']} uploads per 24 h")
                 summaries.append({"id": pkg["id"], "title": pkg["title"], "status": "not uploaded: YouTube daily upload limit reached"})
                 limit_hit = True
                 break
@@ -318,6 +370,14 @@ def main(argv: list[str] | None = None) -> int:
                 _note_attempt(path, pkg, str(e))
             continue
 
+        if probe_index == i:
+            lim = load_limits(cfg)
+            lim["daily_limit"] = int(lim["daily_limit"]) + 1
+            lim["last_probe"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+            lim.setdefault("history", []).append({"at": lim["last_probe"], "tried": lim["daily_limit"], "accepted": True})
+            save_limits(lim)
+            print(f"[run] probe result: YouTube accepted an extra upload -> daily limit raised to {lim['daily_limit']}")
+            summaries.append({"status": f"LIMIT RAISED: YouTube now allows {lim['daily_limit']} uploads per 24 h", "title": pkg["title"]})
         pkg.pop("_attempts", None)
         pkg["youtube_id"] = video_id
         pkg["url"] = f"https://youtube.com/shorts/{video_id}"
