@@ -96,6 +96,12 @@ each; written by the long-form writer task, see `AGENT_LONGFORM.md`). One is mad
 `release.longform_slots` time (10:30 PM IST) and uses one of the day's 10 uploads. Test one without
 uploading: Actions → Daily video → Run workflow → dry_run ✓, package `content/longform/queue/<file>.json`.
 
+Facebook: with the `FB_PAGE_ID` and `FB_PAGE_TOKEN` secrets set, every Short is also posted to the
+Facebook Page as a Reel and every long video as a Page video, scheduled for the same time. Make the
+two values once on your own computer: get a short-lived user token in Meta's Graph API Explorer
+(permissions pages_show_list, pages_read_engagement, pages_manage_posts, publish_video), then run
+`python facebook_setup.py APP_ID APP_SECRET TOKEN` (the file is `pipeline/facebook_setup.py`).
+
 Release window: uploading and going public are separate. The job runs every 2 hours and uploads
 whenever the 24 h window has room; each video is scheduled (`publishAt`) into the next free hourly
 time of its slot list (`release.shorts_slots` / `release.longform_slots`: 1 long video at 10:30 PM,

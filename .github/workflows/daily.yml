@@ -89,6 +89,8 @@ jobs:
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           DRY_RUN: ${{ (github.event_name == 'push' || inputs.dry_run == true) && 'true' || 'false' }}
           PACKAGE: ${{ inputs.package }}
           COUNT: ${{ inputs.count }}
@@ -128,7 +130,8 @@ jobs:
           lines = []
           for v in d.get("videos", []):
               lines.append(f"- {v.get('status')}: **{v.get('title')}** ({v.get('duration_seconds')}s, voice={v.get('voice')}, footage={v.get('footage')})"
-                           + (f" -> {v['url']} public at {v.get('goes_public_at')}" if v.get("url") else ""))
+                           + (f" -> {v['url']} public at {v.get('goes_public_at')}" if v.get("url") else "")
+                           + (f" | facebook: {v['facebook']}" if v.get("facebook") else ""))
           lines.append(f"- failed: {d.get('failed', 0)}")
           if d.get("error"):
               lines.append(f"- error: {d['error']}")

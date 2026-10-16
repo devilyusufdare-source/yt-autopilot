@@ -36,6 +36,15 @@ release:
   lead_minutes: 20                 # a publish time is at least this many minutes after the upload
   timezone: "Asia/Kolkata"
 
+# Facebook Page cross-posting. Every Short also goes up as a Reel and every long video as a
+# Page video, scheduled for the same time as on YouTube. Needs the FB_PAGE_ID and FB_PAGE_TOKEN
+# secrets (made once with pipeline/facebook_setup.py); without them nothing is posted.
+facebook:
+  enabled: true
+  reels: true
+  long_videos: true
+  footer: "Follow Mind Unlocked Facts for a new verified fact every day."
+
 # Long videos (16:9, 8-11 minutes): a themed list of 8-12 verified facts, one chapter each, from
 # content/longform/queue/ (written by the long-form writer task, see AGENT_LONGFORM.md).
 # One is made for every free `longform_slots` time at most `build_hours_ahead` hours ahead.

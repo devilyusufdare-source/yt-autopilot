@@ -619,6 +619,18 @@ def main(argv: list[str] | None = None) -> int:
         pkg["duration_seconds"] = round(result["duration"], 1)
         pkg["style"] = style
         pkg["kind"] = kind
+        try:
+            from .facebook import crosspost, enabled as fb_enabled
+            if fb_enabled(cfg):
+                fb = crosspost(pkg, cfg, result["video"], kind, slot)
+                if fb:
+                    pkg.update(fb)
+                    summary["facebook"] = fb["facebook_url"]
+                else:
+                    pkg["facebook_failed_at"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+                    summary["facebook"] = "failed (see log)"
+        except Exception as e:  # noqa: BLE001
+            print(f"[facebook] skipped: {type(e).__name__}: {e}")
         if cfg.get("cta.first_comment_enabled", True):
             try:
                 if try_first_comment_now(yt, cfg, pkg):
