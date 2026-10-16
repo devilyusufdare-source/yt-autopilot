@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import datetime as dt
+import json
 import random
 import time
 from pathlib import Path
@@ -15,41 +16,125 @@ from googleapiclient.http import MediaFileUpload
 
 from .config import Config
 
+COMMENT_SCOPE = "https://www.googleapis.com/auth/youtube.force-ssl"   # lets the channel post its own first comment
 SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",
     "https://www.googleapis.com/auth/youtube",
+    COMMENT_SCOPE,
 ]
 RETRIABLE_STATUS = {500, 502, 503, 504}
+
+
+class CommentPermissionError(RuntimeError):
+    """The saved YouTube key was created without the comment permission (re-run pipeline.authorize)."""
 
 
 def youtube_client(cfg: Config):
     creds_dict = cfg.yt_credentials
     if not creds_dict:
         raise RuntimeError("YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN are not set (see README step 3)")
+    # No `scopes` here on purpose: the token keeps whatever permissions it was granted, so a key made
+    # before the comment permission existed still uploads fine (it just cannot comment yet).
     creds = Credentials(
         None,
         refresh_token=creds_dict["refresh_token"],
         token_uri="https://oauth2.googleapis.com/token",
         client_id=creds_dict["client_id"],
         client_secret=creds_dict["client_secret"],
-        scopes=SCOPES,
     )
     creds.refresh(Request())
     return build("youtube", "v3", credentials=creds, cache_discovery=False)
 
 
-def publish_slots(count: int, cfg: Config) -> list[str | None]:
-    """Publish times (RFC 3339, UTC) for the videos of one run, or None = publish immediately."""
-    per_run = int(cfg.get("release.videos_per_run", 1))
-    if per_run <= 1 and count <= 1:
-        return [None] * count
-    interval = int(cfg.get("release.interval_minutes", 60))
-    lead = int(cfg.get("release.lead_minutes", 20))
+def can_comment(youtube) -> bool | None:
+    """True/False if the token's granted permissions are known, None if unknown."""
+    try:
+        granted = youtube._http.credentials.granted_scopes  # noqa: SLF001
+    except AttributeError:
+        return None
+    if not granted:
+        return None
+    return COMMENT_SCOPE in granted
+
+
+def _parse_hhmm(text: str, default: str) -> dt.time:
+    try:
+        h, m = str(text or default).split(":")
+        return dt.time(int(h), int(m))
+    except Exception:  # noqa: BLE001
+        h, m = default.split(":")
+        return dt.time(int(h), int(m))
+
+
+def _parse_when(text: str | None) -> dt.datetime | None:
+    if not text:
+        return None
+    try:
+        when = dt.datetime.fromisoformat(text.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    return when if when.tzinfo else when.replace(tzinfo=dt.timezone.utc)
+
+
+def taken_release_times(published_dir: Path) -> list[dt.datetime]:
+    """Publish times already claimed by uploaded videos (UTC), so two never share a slot."""
+    out = []
+    for f in published_dir.glob("*.json"):
+        try:
+            pkg = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            continue
+        if not pkg.get("youtube_id"):
+            continue
+        when = _parse_when(pkg.get("publish_at")) or _parse_when(pkg.get("uploaded_at"))
+        if when:
+            out.append(when)
+    return out
+
+
+def publish_slots(count: int, cfg: Config, taken: list[dt.datetime] | None = None,
+                  now: dt.datetime | None = None) -> list[str | None]:
+    """Publish times (RFC 3339, UTC) for `count` videos, or None = publish immediately.
+
+    With `release.window_start/window_end` set, every video is scheduled into the next free slots
+    of the release window (hourly between those times, release timezone), however early in the
+    day it was uploaded. Slots already claimed by other uploads (`taken`) are skipped.
+    """
     tz = ZoneInfo(cfg.get("release.timezone", "UTC"))
-    earliest = dt.datetime.now(tz) + dt.timedelta(minutes=lead)
-    first = earliest.replace(minute=0, second=0, microsecond=0) + dt.timedelta(hours=1)
-    return [(first + dt.timedelta(minutes=interval * i)).astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-            for i in range(count)]
+    interval = max(5, int(cfg.get("release.interval_minutes", 60)))
+    lead = int(cfg.get("release.lead_minutes", 20))
+    now = (now or dt.datetime.now(dt.timezone.utc)).astimezone(tz)
+    earliest = now + dt.timedelta(minutes=lead)
+    start_txt, end_txt = cfg.get("release.window_start"), cfg.get("release.window_end")
+    if not (start_txt and end_txt):
+        # Old behaviour: hourly from the next round hour (or immediately for a single video).
+        per_run = int(cfg.get("release.videos_per_run", 1))
+        if per_run <= 1 and count <= 1:
+            return [None] * count
+        first = earliest.replace(minute=0, second=0, microsecond=0) + dt.timedelta(hours=1)
+        return [(first + dt.timedelta(minutes=interval * i)).astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+                for i in range(count)]
+
+    start_t, end_t = _parse_hhmm(start_txt, "20:00"), _parse_hhmm(end_txt, "05:00")
+    busy = [t.astimezone(tz) for t in (taken or [])]
+    half = dt.timedelta(minutes=interval / 2)
+    out: list[str | None] = []
+    day = earliest.date() - dt.timedelta(days=1)
+    for _ in range(10):  # at most ten days ahead
+        start = dt.datetime.combine(day, start_t, tzinfo=tz)
+        end = dt.datetime.combine(day, end_t, tzinfo=tz)
+        if end <= start:
+            end += dt.timedelta(days=1)
+        slot = start
+        while slot <= end and len(out) < count:
+            if slot >= earliest and not any(abs(slot - b) < half for b in busy):
+                out.append(slot.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
+                busy.append(slot)
+            slot += dt.timedelta(minutes=interval)
+        if len(out) >= count:
+            break
+        day += dt.timedelta(days=1)
+    return out
 
 
 def build_description(pkg: dict, cfg: Config) -> str:
@@ -125,3 +210,30 @@ def set_thumbnail(youtube, video_id: str, image: Path) -> bool:
     except HttpError as e:
         print(f"[upload] thumbnail not set ({e.resp.status}); verify your channel at youtube.com/verify to enable custom thumbnails")
         return False
+
+
+def post_comment(youtube, video_id: str, text: str) -> str | None:
+    """Post a top-level comment as the channel. Returns the comment id, or None if YouTube refused.
+
+    Raises CommentPermissionError when the saved key simply lacks the comment permission.
+    """
+    try:
+        resp = youtube.commentThreads().insert(
+            part="snippet",
+            body={"snippet": {"videoId": video_id, "topLevelComment": {"snippet": {"textOriginal": text[:9000]}}}},
+        ).execute()
+        return resp.get("id")
+    except HttpError as e:
+        reason = ""
+        try:
+            reason = (e.error_details or [{}])[0].get("reason", "")
+        except Exception:  # noqa: BLE001
+            pass
+        text_err = str(e).lower()
+        if e.resp.status in (401, 403) and ("insufficient" in text_err or "scope" in text_err
+                                            or reason in ("insufficientPermissions", "forbidden", "authError")):
+            raise CommentPermissionError(
+                "the YouTube key has no comment permission: run `python -m pipeline.authorize client_secret.json` "
+                "again (latest code) and replace the YT_REFRESH_TOKEN secret") from e
+        print(f"[comment] not posted on {video_id}: HTTP {e.resp.status} {reason}")
+        return None

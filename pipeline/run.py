@@ -192,7 +192,118 @@ def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict
     return None
 
 
-def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic") -> dict:
+def day_number(cfg, when: dt.datetime | None = None) -> int:
+    """Day N of the channel's streak, counted from the first upload. A "day" runs 6 AM to 6 AM in the
+    release timezone, so the whole 8 PM-5 AM release window carries one number."""
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo(cfg.get("release.timezone", "UTC"))
+    shift = dt.timedelta(hours=6)
+
+    def _day(t: dt.datetime) -> dt.date:
+        return (t.astimezone(tz) - shift).date()
+
+    first = None
+    for f in PUBLISHED_DIR.glob("*.json"):
+        try:
+            t = json.loads(f.read_text(encoding="utf-8")).get("uploaded_at")
+            if t:
+                d = _day(dt.datetime.fromisoformat(t.replace("Z", "+00:00")))
+                first = d if first is None or d < first else first
+        except Exception:  # noqa: BLE001
+            continue
+    today = _day(when or dt.datetime.now(dt.timezone.utc))
+    return 1 if first is None else max(1, (today - first).days + 1)
+
+
+def first_comment_text(pkg: dict, cfg) -> str:
+    """The channel's own first comment: the package's `first_comment`, else the question that ends the description."""
+    text = (pkg.get("first_comment") or "").strip()
+    if not text:
+        lines = [ln.strip() for ln in (pkg.get("description") or "").splitlines() if ln.strip()]
+        if lines and lines[-1].endswith("?"):
+            text = lines[-1]
+    if not text:
+        text = cfg.get("cta.first_comment") or "Which fact should we cover next? 👇"
+    return text
+
+
+MAX_FIRST_COMMENTS_PER_RUN = 4   # clears any backlog gently instead of posting 20 comments in a minute
+FIRST_COMMENT_ATTEMPTS = 3
+
+
+def post_pending_first_comments(youtube, cfg) -> tuple[int, str | None]:
+    """Post the first comment on published videos that are public now and have none yet.
+
+    Returns (how many were posted, a note for the run summary or None).
+    """
+    from .upload import CommentPermissionError, can_comment, post_comment
+    if can_comment(youtube) is False:
+        return 0, ("first comment skipped: the YouTube key has no comment permission - run "
+                   "`python -m pipeline.authorize client_secret.json` again and replace YT_REFRESH_TOKEN")
+    now = dt.datetime.now(dt.timezone.utc)
+    posted = 0
+    for f in sorted(PUBLISHED_DIR.glob("*.json"), reverse=True):   # newest videos first
+        if posted >= MAX_FIRST_COMMENTS_PER_RUN:
+            break
+        try:
+            pkg = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            continue
+        vid = pkg.get("youtube_id")
+        if not vid or pkg.get("first_comment_id") or int(pkg.get("first_comment_attempts", 0)) >= FIRST_COMMENT_ATTEMPTS:
+            continue
+        pub = pkg.get("publish_at") or pkg.get("uploaded_at") or ""
+        try:
+            when = dt.datetime.fromisoformat(pub.replace("Z", "+00:00"))
+        except Exception:  # noqa: BLE001
+            continue
+        if when > now - dt.timedelta(minutes=2):
+            continue  # not public yet; the next run gets it
+        try:
+            cid = post_comment(youtube, vid, first_comment_text(pkg, cfg))
+        except CommentPermissionError as e:
+            return posted, f"first comment skipped: {e}"
+        if cid:
+            pkg["first_comment_id"] = cid
+            pkg["first_comment_at"] = now.isoformat(timespec="seconds")
+            posted += 1
+        else:
+            pkg["first_comment_attempts"] = int(pkg.get("first_comment_attempts", 0)) + 1
+        _save(f, pkg)
+    return posted, None
+
+
+def try_first_comment_now(youtube, cfg, pkg: dict) -> bool:
+    """Right after an upload, try to leave the first comment already (works if YouTube lets the owner
+    comment on a scheduled video). If it does not, the regular pass posts it once the video is public."""
+    from .upload import CommentPermissionError, can_comment, post_comment
+    if can_comment(youtube) is False:
+        return False
+    try:
+        cid = post_comment(youtube, pkg["youtube_id"], first_comment_text(pkg, cfg))
+    except CommentPermissionError:
+        return False
+    if cid:
+        pkg["first_comment_id"] = cid
+        pkg["first_comment_at"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+        return True
+    return False
+
+
+def release_slot(cfg, extra_taken: list[str]) -> str | None:
+    """The next free publish time in the release window, skipping slots claimed earlier in this run."""
+    from .upload import publish_slots, taken_release_times
+    taken = taken_release_times(PUBLISHED_DIR)
+    for t in extra_taken:
+        try:
+            taken.append(dt.datetime.fromisoformat(t.replace("Z", "+00:00")))
+        except ValueError:
+            pass
+    chosen = publish_slots(1, cfg, taken=taken)
+    return chosen[0] if chosen else None
+
+
+def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at: str | None = None) -> dict:
     """Render everything for one package into outdir. Returns file paths and details.
 
     style "classic": word-by-word captions from the first word, spoken call-to-action at the end.
@@ -226,7 +337,16 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic") -> dict:
 
     label = None
     if cfg.get("captions.show_top_label", True):
-        label = f"{cfg.get('channel.name', '')}  •  {pkg.get('topic', '')}".strip(" •")
+        if cfg.get("captions.day_counter", True):
+            when = None
+            if publish_at:
+                try:
+                    when = dt.datetime.fromisoformat(publish_at.replace("Z", "+00:00"))
+                except ValueError:
+                    when = None
+            label = f"Day {day_number(cfg, when)}  •  {pkg.get('topic', '')}".strip(" •")
+        else:
+            label = f"{cfg.get('channel.name', '')}  •  {pkg.get('topic', '')}".strip(" •")
     hook_card = pkg["scenes"][0]["text"] if style == "punch" else None
     end_text = (cfg.get("cta.end_text") or "Follow for more") if style == "punch" else None
     ass = build_ass(words, cfg, outdir / "captions.ass", label, total,
@@ -256,7 +376,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--count", type=int, help="how many videos to make this run (default: release.videos_per_run)")
     ap.add_argument("--package", type=Path, help="render this package first instead of the oldest queued one")
     ap.add_argument("--no-stats", action="store_true", help="skip refreshing content/stats.json")
-    ap.add_argument("--now", action="store_true", help="publish immediately instead of scheduling hourly slots")
+    ap.add_argument("--now", action="store_true", help="publish immediately instead of scheduling into the release window")
     args = ap.parse_args(argv)
 
     ensure_dirs()
@@ -281,9 +401,9 @@ def main(argv: list[str] | None = None) -> int:
     count = max(1, count)
 
     yt = None
-    slots: list[str | None] = [None] * count
+    notes: list[str] = []
     if not args.dry_run:
-        from .upload import publish_slots, youtube_client
+        from .upload import youtube_client
         try:
             yt = youtube_client(cfg)
         except Exception as e:  # noqa: BLE001
@@ -291,12 +411,22 @@ def main(argv: list[str] | None = None) -> int:
             print(f"[run] {msg}")
             _write_summary([], 1, error=msg)
             return 2
-        slots = [None] * count if args.now else publish_slots(count, cfg)
+        if cfg.get("cta.first_comment_enabled", True):
+            try:
+                n, note = post_pending_first_comments(yt, cfg)
+                if n:
+                    print(f"[run] posted the first comment on {n} video(s)")
+                if note:
+                    print(f"[run] {note}")
+                    notes.append(note)
+            except Exception as e:  # noqa: BLE001
+                print(f"[run] first-comment pass failed (non-fatal): {e}")
 
     summaries: list[dict] = []
     tried: set[str] = set()
     failures = 0
     limit_hit = False
+    claimed: list[str] = []   # publish times handed out in this run
     for i in range(count):
         picked = pick_package(cfg, args.package if i == 0 else None, tried)
         if not picked:
@@ -335,8 +465,9 @@ def main(argv: list[str] | None = None) -> int:
             else:
                 style = cfg.get("video.style", "classic")
         print(f"[run] style: {style}")
+        slot = None if (args.dry_run or args.now) else release_slot(cfg, claimed)
         try:
-            result = build_video(pkg, cfg, outdir, style=style)
+            result = build_video(pkg, cfg, outdir, style=style, publish_at=slot)
         except Exception as e:  # noqa: BLE001
             traceback.print_exc()
             failures += 1
@@ -358,11 +489,19 @@ def main(argv: list[str] | None = None) -> int:
         if wait > 0:
             print(f"[run] waiting {wait / 60:.1f} min for a free upload slot (YouTube 24 h limit)")
             time.sleep(min(wait, MAX_WAIT_MINUTES * 60))
+        if slot and not args.now:
+            # Re-pick the slot if the wait pushed us too close to it (publish times must stay in the future).
+            try:
+                lead = dt.timedelta(minutes=max(5, int(cfg.get("release.lead_minutes", 20)) // 2))
+                if dt.datetime.fromisoformat(slot.replace("Z", "+00:00")) < dt.datetime.now(dt.timezone.utc) + lead:
+                    slot = release_slot(cfg, claimed)
+            except ValueError:
+                slot = release_slot(cfg, claimed)
         try:
-            body = build_body(pkg, cfg, slots[i])
+            body = build_body(pkg, cfg, slot)
             video_id = upload_video(yt, result["video"], body)
             print(f"[run] uploaded: https://youtube.com/shorts/{video_id}  "
-                  f"({'goes public at ' + slots[i] if slots[i] else body['status']['privacyStatus']})")
+                  f"({'goes public at ' + slot if slot else body['status']['privacyStatus']})")
             if result["thumbnail"]:
                 set_thumbnail(yt, video_id, result["thumbnail"])
         except Exception as e:  # noqa: BLE001
@@ -399,20 +538,30 @@ def main(argv: list[str] | None = None) -> int:
         pkg["url"] = f"https://youtube.com/shorts/{video_id}"
         pkg["uploaded_at"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
         pkg["privacy_requested"] = body["status"]["privacyStatus"]
-        pkg["publish_at"] = slots[i]
+        pkg["publish_at"] = slot
+        if slot:
+            claimed.append(slot)
         pkg["tts_engine"] = result["tts_engine"]
         pkg["duration_seconds"] = round(result["duration"], 1)
         pkg["style"] = style
+        if cfg.get("cta.first_comment_enabled", True):
+            try:
+                if try_first_comment_now(yt, cfg, pkg):
+                    print("[run] first comment posted")
+            except Exception as e:  # noqa: BLE001
+                print(f"[run] first comment not posted yet ({type(e).__name__}); the next run will do it once the video is public")
         PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
         _save(PUBLISHED_DIR / path.name, pkg)
         if path.parent == QUEUE_DIR:
             path.unlink()
-        summary.update({"status": "uploaded", "url": pkg["url"], "goes_public_at": slots[i] or "immediately"})
+        summary.update({"status": "uploaded", "url": pkg["url"], "goes_public_at": slot or "immediately"})
         summaries.append(summary)
         shutil.rmtree(outdir / "clips", ignore_errors=True)  # keep the runner's disk small
         shutil.rmtree(outdir / "tts", ignore_errors=True)
 
-    _write_summary(summaries, failures, note="YouTube daily upload limit reached" if limit_hit else None)
+    if limit_hit:
+        notes.append("YouTube daily upload limit reached")
+    _write_summary(summaries, failures, note="; ".join(notes) if notes else None)
     if yt and not args.no_stats and summaries:
         try:
             from .stats import update_stats

@@ -2,14 +2,11 @@ name: Daily video
 
 on:
   schedule:
-    # Five runs a day at 19:30, 21:30, 23:30, 01:30 and 03:30 IST (written in UTC). Each run uploads
-    # 2 videos and schedules them to go public 1 hour apart, so releases land every hour from
-    # 8 PM to 5 AM India time (8, 9, 10, 11 PM, 12, 1, 2, 3, 4, 5 AM) and nothing in between.
-    - cron: "0 14 * * *"
-    - cron: "0 16 * * *"
-    - cron: "0 18 * * *"
-    - cron: "0 20 * * *"
-    - cron: "0 22 * * *"
+    # Every 2 hours (UTC). A run uploads only when YouTube's rolling 24 h upload limit has room
+    # (10 per day for this channel) and otherwise exits in seconds, so over a day exactly 10 videos
+    # get uploaded. Uploading and releasing are separate: each video is scheduled to go public at
+    # the next free hourly slot between 8 PM and 5 AM India time (see `release` in channel.yml).
+    - cron: "17 */2 * * *"
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
     paths:
@@ -154,8 +151,8 @@ jobs:
           if git diff --cached --quiet; then
             echo "nothing to commit"
           else
-            TITLE=$(python -c "import json; d=json.load(open('output/summary.json')); v=d.get('videos',[]); print(v[0]['title'] if len(v)==1 else f'{len(v)} videos')" 2>/dev/null || echo video)
-            git commit -m "publish: $TITLE"
+            TITLE=$(python -c "import json; d=json.load(open('output/summary.json')); v=[x for x in d.get('videos',[]) if x.get('status')=='uploaded']; print(('publish: ' + (v[0]['title'] if len(v)==1 else f'{len(v)} videos')) if v else 'records: stats and comments')" 2>/dev/null || echo "records: update")
+            git commit -m "$TITLE"
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push
           fi

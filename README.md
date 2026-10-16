@@ -55,6 +55,11 @@ python -m pipeline.authorize client_secret.json
 A browser window opens → choose the channel's account → "Google hasn't verified this app" →
 **Advanced → Go to … (unsafe)** → **Allow**. The script prints three values.
 
+The permissions asked for are upload, manage videos and **comments** (the channel leaves the first
+comment under every video once it is public). If you authorised before the comment permission was
+added, the job still uploads fine but notes "first comment skipped" - re-run this step with the
+latest code and replace the `YT_REFRESH_TOKEN` secret to switch comments on.
+
 ### 4. Add the secrets to GitHub
 Repository → **Settings → Secrets and variables → Actions → New repository secret**:
 
@@ -85,6 +90,11 @@ Quota: the API allows 100 uploads a day, but **YouTube itself caps each channel*
 seen as `uploadLimitExceeded`). `release.daily_limit` in channel.yml tells the job that cap, and it
 waits for a free slot instead of being refused. Raise it when YouTube raises the channel's limit
 (Studio → Settings → Channel → Feature eligibility → Advanced features).
+
+Release window: uploading and going public are separate. The job runs every 2 hours and uploads
+whenever the 24 h window has room; each video is scheduled (`publishAt`) into the next free hourly
+slot between `release.window_start` and `release.window_end` (8 PM–5 AM India time), so Studio shows
+uploads as **Scheduled** until their slot. 10 slots a night = the daily limit.
 
 ---
 

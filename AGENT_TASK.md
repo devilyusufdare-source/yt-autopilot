@@ -77,6 +77,12 @@ So, until the data says otherwise:
 - Second-to-last scene: why it happens, in one sentence.
 - Last scene: a payoff — a practical takeaway, a twist, or a question that invites comments.
   Do not write the call-to-action; it is added automatically from `channel.yml`.
+- **Loop ending**: the last line should hand the viewer back to the first — a short callback to the hook
+  or a question the hook answers ("So yes: older than trees." / "Now watch it again."), so the video
+  re-plays naturally. Replays count as watch time.
+- **`first_comment`**: write the channel's own first comment for the video — a sharp question that makes
+  people reply ("Would you float on Saturn or sink on Jupiter?") or a bonus fact that extends the video.
+  No hashtags, no "like and subscribe".
 - Every scene has `keywords`: 2–4 **concrete, visual** nouns for stock-footage search
   ("octopus swimming underwater", "ancient stone ruins", "person walking door"). No abstract words
   ("memory", "effect", "concept").
