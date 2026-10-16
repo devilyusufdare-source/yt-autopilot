@@ -87,7 +87,7 @@ cta:
   spoken: true                     # used by the "classic" style only
   text: "Follow for a new fact every day."
   end_text: "Follow for more"      # small label in the last second of a "punch" style video
-  first_comment_enabled: true      # the channel posts the first comment on every video once it is public
+  first_comment_enabled: false     # off: posting comments needs the extra YouTube permission (see README step 3)
   first_comment: "Which fact should we cover next? 👇"   # fallback when an idea has no question of its own
 
 # A/B test of the two video styles (see pipeline/run.py build_video): classic = word-by-word
