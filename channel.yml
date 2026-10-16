@@ -19,15 +19,15 @@ channel:
 
 # How videos are released. Each scheduled run (see .github/workflows/daily.yml) makes
 # `videos_per_run` videos and schedules them to go public one after another, `interval_minutes`
-# apart, starting at the next round hour. 5 runs a day x 2 videos, 2 h apart = 10 a day, released
-# between 4 PM and 9 AM India time (US daytime/evening + Indian evening); see the workflow file.
+# apart, starting at the next round hour. 5 runs a day x 2 videos, 1 h apart = 10 a day, released
+# every hour from 8 PM to 5 AM India time and nothing in between; see the workflow file.
 # `daily_limit` is YouTube's own cap for this channel (it refused the 11th upload in 24 h).
 # Before every upload the job counts the uploads of the last 24 h and waits for a free slot,
 # so the cap is never hit. Raise daily_limit only when YouTube raises the channel's limit.
 # Set videos_per_run to 1 to publish a single video immediately each run instead.
 release:
   videos_per_run: 2
-  interval_minutes: 120
+  interval_minutes: 60
   daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
   probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it
   lead_minutes: 20                 # the first publish time is at least this many minutes after the run starts
@@ -81,8 +81,16 @@ music:
   volume: 0.10
 
 cta:
-  spoken: true
+  spoken: true                     # used by the "classic" style only
   text: "Follow for a new fact every day."
+  end_text: "Follow for more"      # small label in the last second of a "punch" style video
+
+# A/B test of the two video styles (see pipeline/run.py build_video): classic = word-by-word
+# captions from the first word + spoken call-to-action; punch = full hook sentence on screen for
+# the first scene, no spoken CTA, ends on the punchline. Uploads alternate while this is on;
+# content/stats.json shows average views per style under "by_style".
+experiment:
+  alternate_styles: true
 
 thumbnail:
   enabled: true                    # generated 1080x1920 image; YouTube needs a phone-verified channel to accept it (non-fatal)

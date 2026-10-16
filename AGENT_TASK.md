@@ -43,6 +43,14 @@ think"** facts — concrete, physical, visual, impossible-sounding: *Wombats poo
 your brain does X"** flopped: *Your body is glowing* (148), *You shrink every day* (115),
 *Nobody noticed your embarrassing moment* (216).
 
+Day 2 update: six different videos all stopped at ~1,100-1,200 views. That is YouTube's first test
+audience: the ideas get *into* the test, the videos are not *holding* viewers well enough to pass it.
+So the job now alternates two video styles (an A/B test; see `experiment` in channel.yml) and the
+scripts must be tighter: **60-85 words, 25-32 seconds**. Open with the fact itself, no wind-up,
+every sentence adds a new surprise or number, and the last line is the strongest payoff (the
+video should feel finished exactly when it ends, so people re-watch). Weak viewer-centred ideas were
+moved to content/parked/ - do not re-create them, and do not write ideas like them.
+
 So, until the data says otherwise:
 - At least 7 of every 10 ideas: animals, space, science, nature or history-with-a-twist, about
   a THING out there (an animal, a planet, a place, an object, an event) — not about the viewer.
@@ -51,7 +59,7 @@ So, until the data says otherwise:
   pounds." "The shortest war in history lasted 38 minutes."
 - Body/psychology facts only when they are interactive or shocking ("Try to hum with your nose
   closed. You can't.") — never "did you know your body..." trivia.
-- Keep videos 25–38 seconds. The 41-second one did fine, 26–36 did best.
+- Keep videos 25–32 seconds.
 - Each run, include at least one idea tied to something currently trending or in the news
   (a new discovery, a viral animal story, a space mission) — search for it; verify it the same way.
 - Give `priority` 5–8 to ideas you are confident will break out (strong hook + great footage
@@ -63,7 +71,7 @@ So, until the data says otherwise:
   "Your brain deletes memories when you walk through a doorway.",
   "A day on Venus is longer than its year.",
   "Oxford University is older than the Aztec Empire."
-- 4–7 scenes total, 60–120 words total, ~30–45 seconds spoken. Short sentences. Spoken language,
+- 4–6 scenes total, 60–85 words total, ~25–32 seconds spoken. Short sentences. Spoken language,
   contractions, second person ("you") where natural. One idea per scene.
 - Scene 2–3: the surprising detail or the proof (a number, a comparison, the experiment).
 - Second-to-last scene: why it happens, in one sentence.

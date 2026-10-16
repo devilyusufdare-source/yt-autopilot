@@ -75,7 +75,9 @@ def validate_package(pkg: dict, cfg=None) -> list[str]:
             errs.append("scene 1 is the hook: keep it under 18 words")
         total_words = sum(len(s.get("text", "").split()) for s in scenes if isinstance(s, dict))
         if total_words < 40:
-            errs.append(f"script too short ({total_words} words); aim for 60-130")
+            errs.append(f"script too short ({total_words} words); aim for 60-85")
+        if total_words > 135:
+            errs.append(f"script too long ({total_words} words); aim for 60-85 so the video stays under ~32 seconds")
         est = estimate_seconds(pkg, cfg)
         if est > float(cfg.get("video.max_seconds", 58)):
             errs.append(f"script too long: ~{est:.0f}s estimated, max {cfg.get('video.max_seconds', 58)}s (cut words)")

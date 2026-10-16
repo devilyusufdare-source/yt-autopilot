@@ -2,15 +2,14 @@ name: Daily video
 
 on:
   schedule:
-    # Five runs a day at 15:10, 19:10, 23:10, 03:10 and 06:10 IST (written in UTC). Each run uploads
-    # 2 videos and schedules them to go public 2 hours apart, so releases land at
-    # 4 PM, 6 PM, 8 PM, 10 PM, 12 AM, 2 AM, 4 AM, 6 AM, 7 AM and 9 AM India time -
-    # i.e. US daytime + evening and the Indian evening, and nothing while the US sleeps (9 AM-4 PM IST).
-    - cron: "40 9 * * *"
-    - cron: "40 13 * * *"
-    - cron: "40 17 * * *"
-    - cron: "40 21 * * *"
-    - cron: "40 0 * * *"
+    # Five runs a day at 19:30, 21:30, 23:30, 01:30 and 03:30 IST (written in UTC). Each run uploads
+    # 2 videos and schedules them to go public 1 hour apart, so releases land every hour from
+    # 8 PM to 5 AM India time (8, 9, 10, 11 PM, 12, 1, 2, 3, 4, 5 AM) and nothing in between.
+    - cron: "0 14 * * *"
+    - cron: "0 16 * * *"
+    - cron: "0 18 * * *"
+    - cron: "0 20 * * *"
+    - cron: "0 22 * * *"
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
     paths:

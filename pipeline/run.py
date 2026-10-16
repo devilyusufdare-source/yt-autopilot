@@ -192,13 +192,18 @@ def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict
     return None
 
 
-def build_video(pkg: dict, cfg, outdir: Path) -> dict:
-    """Render everything for one package into outdir. Returns file paths and details."""
+def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic") -> dict:
+    """Render everything for one package into outdir. Returns file paths and details.
+
+    style "classic": word-by-word captions from the first word, spoken call-to-action at the end.
+    style "punch":   the whole hook sentence on screen for the first scene, no spoken call-to-action,
+                     a small "follow" label in the last second (ends on the punchline so it loops).
+    """
     outdir.mkdir(parents=True, exist_ok=True)
     scenes = [s["text"] for s in pkg["scenes"]]
     keywords = [s["keywords"] for s in pkg["scenes"]]
     cta = pkg.get("cta") if "cta" in pkg else cfg.get("cta.text", "")
-    if cfg.get("cta.spoken", True) and cta:
+    if style != "punch" and cfg.get("cta.spoken", True) and cta:
         scenes.append(cta)
         keywords.append(keywords[-1])
 
@@ -222,7 +227,10 @@ def build_video(pkg: dict, cfg, outdir: Path) -> dict:
     label = None
     if cfg.get("captions.show_top_label", True):
         label = f"{cfg.get('channel.name', '')}  •  {pkg.get('topic', '')}".strip(" •")
-    ass = build_ass(words, cfg, outdir / "captions.ass", label, total)
+    hook_card = pkg["scenes"][0]["text"] if style == "punch" else None
+    end_text = (cfg.get("cta.end_text") or "Follow for more") if style == "punch" else None
+    ass = build_ass(words, cfg, outdir / "captions.ass", label, total,
+                    hook_card=hook_card, hook_end=durations[0], end_text=end_text)
 
     print("[run] rendering final video")
     final = render_final(visual, outdir / "voice.wav", ass, pick_music(cfg, pkg["id"]), cfg,
@@ -239,7 +247,7 @@ def build_video(pkg: dict, cfg, outdir: Path) -> dict:
         footage[c["provider"]] = footage.get(c["provider"], 0) + 1
     footage["animated-background"] = len(clips) - len(vis.credits)
     return {"video": final, "thumbnail": thumb, "duration": total, "tts_engine": engine,
-            "words": sum(len(w) for w in words), "footage": footage}
+            "words": sum(len(w) for w in words), "footage": footage, "style": style}
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -319,8 +327,16 @@ def main(argv: list[str] | None = None) -> int:
         outdir = OUTPUT_DIR / pkg["id"]
         if outdir.exists():
             shutil.rmtree(outdir)
+        style = pkg.get("style")
+        if style not in ("classic", "punch"):
+            if cfg.get("experiment.alternate_styles", False):
+                n_pub = len(list(PUBLISHED_DIR.glob("*.json")))
+                style = "punch" if (n_pub + i) % 2 == 0 else "classic"
+            else:
+                style = cfg.get("video.style", "classic")
+        print(f"[run] style: {style}")
         try:
-            result = build_video(pkg, cfg, outdir)
+            result = build_video(pkg, cfg, outdir, style=style)
         except Exception as e:  # noqa: BLE001
             traceback.print_exc()
             failures += 1
@@ -330,7 +346,7 @@ def main(argv: list[str] | None = None) -> int:
             continue
 
         summary = {"id": pkg["id"], "title": pkg["title"], "duration_seconds": round(result["duration"], 1),
-                   "voice": result["tts_engine"], "footage": result["footage"]}
+                   "voice": result["tts_engine"], "footage": result["footage"], "style": style}
         print(f"[run] rendered {result['video'].name} ({result['duration']:.1f}s, voice={result['tts_engine']})")
         if args.dry_run:
             summary["status"] = "rendered (dry run)"
@@ -386,6 +402,7 @@ def main(argv: list[str] | None = None) -> int:
         pkg["publish_at"] = slots[i]
         pkg["tts_engine"] = result["tts_engine"]
         pkg["duration_seconds"] = round(result["duration"], 1)
+        pkg["style"] = style
         PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
         _save(PUBLISHED_DIR / path.name, pkg)
         if path.parent == QUEUE_DIR:

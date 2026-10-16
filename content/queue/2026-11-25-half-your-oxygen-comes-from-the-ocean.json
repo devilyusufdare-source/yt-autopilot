@@ -54,5 +54,6 @@
     "https://oceanservice.noaa.gov/facts/ocean-oxygen.html",
     "https://earthsky.org/earth/how-much-oxygen-comes-from-ocean/"
   ],
-  "thumbnail_text": "HALF YOUR OXYGEN COMES FROM HERE"
+  "thumbnail_text": "HALF YOUR OXYGEN COMES FROM HERE",
+  "priority": 3
 }

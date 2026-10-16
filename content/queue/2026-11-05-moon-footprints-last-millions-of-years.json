@@ -54,5 +54,6 @@
     "https://starchild.gsfc.nasa.gov/docs/StarChild/space_level1/apollo11.html",
     "https://www.space.com/35352-eugene-cernan-moon-legacy-footprints.html"
   ],
-  "thumbnail_text": "FOOTPRINTS THAT LAST FOREVER"
+  "thumbnail_text": "FOOTPRINTS THAT LAST FOREVER",
+  "priority": 6
 }

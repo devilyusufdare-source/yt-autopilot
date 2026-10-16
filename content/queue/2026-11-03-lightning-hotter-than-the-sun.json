@@ -53,5 +53,6 @@
     "https://www.weather.gov/safety/lightning-temperature",
     "https://www.weather.gov/safety/lightning-science-thunder"
   ],
-  "thumbnail_text": "HOTTER THAN THE SUN"
+  "thumbnail_text": "HOTTER THAN THE SUN",
+  "priority": 7
 }
