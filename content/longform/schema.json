@@ -29,7 +29,7 @@
         "required": ["heading", "text", "keywords", "sources"],
         "properties": {
           "heading": { "type": "string", "minLength": 3, "maxLength": 60, "description": "Chapter name shown on screen and in the description, e.g. 'It rains glass on HD 189733b'." },
-          "text": { "type": "string", "description": "55-150 words the voice says (25-55 s). First sentence = the fact itself, plain words. Then the proof (number, comparison, who found it), then why, then one line that lands it." },
+          "text": { "type": "string", "description": "120-160 words the voice says (40-55 s). First sentence = the fact itself, plain words. Then the proof (number, comparison, who found it), then why, then one line that lands it." },
           "keywords": {
             "type": "array", "minItems": 2, "maxItems": 3,
             "items": { "type": "string", "minLength": 2, "maxLength": 60 },

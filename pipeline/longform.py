@@ -31,8 +31,10 @@ def longform_config(cfg: Config) -> Config:
         "video.crf": int(lf.get("crf", 21)),
         "video.preset": lf.get("preset", "fast"),
         "video.progress_bar": bool(lf.get("progress_bar", False)),
-        "video.gap_seconds": float(lf.get("gap_seconds", 0.45)),
-        "captions.font_size": int(lf.get("caption_font_size", 66)),
+        "video.gap_seconds": float(lf.get("gap_seconds", 0.7)),
+        "voice.edge_rate": str(lf.get("edge_rate", "+0%")),      # natural pace for long listening
+        "voice.offline_speed": float(lf.get("offline_speed", 0.9)),
+        "captions.font_size": int(lf.get("caption_font_size", 72)),
         "captions.words_per_group": int(lf.get("words_per_group", 4)),
         "captions.max_chars_per_line": int(lf.get("max_chars_per_line", 26)),
         "captions.y_percent": float(lf.get("caption_y_percent", 84)),

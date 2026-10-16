@@ -51,7 +51,7 @@ The Shorts have their own writer (AGENT_TASK.md). Do not touch `content/queue/`.
 - **Intro, 24–60 words (10–20 s):** the theme in one line, the promise ("every one is checked, sources
   in the description"), the teaser for the last fact, "Let's go." No "welcome to the channel", no
   "today we will", no asking for likes.
-- **Each segment, 90–130 words (35–50 s):**
+- **Each segment, 120–160 words (40–55 s):**
   1. First sentence = the fact itself, plain words, concrete noun, a number or a comparison where
      possible ("Saturn would float in water." "A day on Venus is longer than its year.").
   2. The proof: a number, who found it, when, how.
@@ -70,7 +70,9 @@ The Shorts have their own writer (AGENT_TASK.md). Do not touch `content/queue/`.
 - **`keywords`**: 2–3 concrete, visual footage searches per segment, in the order the video should
   show them ("neptune planet blue", "diamonds falling sparkle", "laser laboratory experiment").
   Concrete nouns only — no "amazing", "concept", "science".
-- Total: 900–1,400 words in the segments. The validator estimates the length; aim for 8.5–10 minutes.
+- Total: 1,300–1,600 words in the segments (the voice speaks about 2.85 words a second). The
+  validator estimates the length; it must come out at 8:20 or more, aim for 9–10 minutes. Under 8
+  minutes the video cannot carry mid-roll ads, which is the whole point of the long format.
 
 ## Metadata rules
 

@@ -123,11 +123,14 @@ def is_longform(pkg: dict) -> bool:
     return pkg.get("kind") == "longform" or "segments" in pkg
 
 
+LONGFORM_WORDS_PER_SECOND = 2.85  # measured: Andrew at the natural rate (+0%) in the first long video
+
+
 def estimate_longform_seconds(pkg: dict, cfg=None) -> float:
     cfg = cfg or load_config()
     words = _words(pkg.get("intro", "")) + _words(pkg.get("outro", "")) + sum(_words(s.get("text", "")) for s in pkg.get("segments", []) if isinstance(s, dict))
-    gap = float((cfg.get("longform") or {}).get("gap_seconds", 0.45))
-    return words / WORDS_PER_SECOND + gap * (len(pkg.get("segments", [])) + 2) + 1.0
+    gap = float((cfg.get("longform") or {}).get("gap_seconds", 0.7))
+    return words / LONGFORM_WORDS_PER_SECOND + gap * (len(pkg.get("segments", [])) + 2) + 1.0
 
 
 def validate_longform(pkg: dict, cfg=None) -> list[str]:
@@ -165,8 +168,8 @@ def validate_longform(pkg: dict, cfg=None) -> list[str]:
                 errs.append(f"segment {i}: heading must be 3-60 characters")
             n = _words(sg["text"])
             total += n
-            if not (55 <= n <= 150):
-                errs.append(f"segment {i}: text must be 55-150 words (is {n}); about 25-55 seconds spoken")
+            if not (90 <= n <= 175):
+                errs.append(f"segment {i}: text must be 90-175 words (is {n}); about 30-60 seconds spoken")
             if "<" in sg["text"] or ">" in sg["text"]:
                 errs.append(f"segment {i}: text must not contain < or >")
             kws = sg["keywords"]
@@ -176,13 +179,13 @@ def validate_longform(pkg: dict, cfg=None) -> list[str]:
             srcs = sg.get("sources") or []
             if not srcs or not all(isinstance(u, str) and u.startswith("http") for u in srcs):
                 errs.append(f"segment {i}: needs at least one source URL")
-        if total and not (700 <= total <= 1700):
-            errs.append(f"segments total {total} words; aim for 900-1,400 (8-11 minutes)")
+        if total and not (1150 <= total <= 1900):
+            errs.append(f"segments total {total} words; aim for 1,300-1,600 (9-10 minutes)")
         est = estimate_longform_seconds(pkg, cfg)
         if est > float(lf.get("max_seconds", 900)):
             errs.append(f"too long: ~{est / 60:.1f} min estimated, max {float(lf.get('max_seconds', 900)) / 60:.0f} min")
-        if est < 8 * 60 - 30:
-            errs.append(f"too short for mid-roll ads: ~{est / 60:.1f} min estimated, aim for 8-11 minutes")
+        if est < 8 * 60 + 20:
+            errs.append(f"too short for mid-roll ads: ~{est / 60:.1f} min estimated (needs 8:20+ with margin), aim for 9-10 minutes")
     desc = pkg["description"]
     if not isinstance(desc, str) or not (40 <= len(desc) <= 3000):
         errs.append("description must be 40-3000 characters")
