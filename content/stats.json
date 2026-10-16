@@ -1,69 +1,75 @@
 {
-  "updated_at": "2026-10-16T00:02:44+00:00",
-  "total_videos": 13,
-  "total_views": 7372,
+  "updated_at": "2026-10-16T04:21:06+00:00",
+  "total_videos": 16,
+  "total_views": 8326,
   "by_topic": {
     "psychology": {
       "videos": 2,
-      "avg_views": 320,
-      "best_views": 353
+      "avg_views": 324,
+      "best_views": 357
     },
     "science": {
       "videos": 2,
-      "avg_views": 1120,
-      "best_views": 1178
+      "avg_views": 1180,
+      "best_views": 1180
     },
     "animals": {
-      "videos": 3,
-      "avg_views": 526,
-      "best_views": 1191
+      "videos": 4,
+      "avg_views": 575,
+      "best_views": 1195
     },
     "history": {
       "videos": 2,
-      "avg_views": 150,
-      "best_views": 301
+      "avg_views": 187,
+      "best_views": 314
     },
     "space": {
-      "videos": 2,
-      "avg_views": 1134,
-      "best_views": 1135
+      "videos": 4,
+      "avg_views": 568,
+      "best_views": 1136
     },
     "human body": {
       "videos": 2,
-      "avg_views": 174,
-      "best_views": 176
+      "avg_views": 186,
+      "best_views": 187
     }
   },
   "top_videos": [
     {
       "title": "Wombats Poop Cubes. Scientists Finally Know Why",
       "topic": "animals",
-      "views": 1191,
+      "views": 1195,
       "hook": "Wombats poop cubes. Scientists finally figured out how."
+    },
+    {
+      "title": "A Single Cloud Weighs Over a Million Pounds",
+      "topic": "science",
+      "views": 1180,
+      "hook": "A single cloud can weigh over a million pounds."
     },
     {
       "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
       "topic": "science",
-      "views": 1178,
+      "views": 1180,
       "hook": "There are more trees on Earth than stars in the Milky Way."
     },
     {
       "title": "A Day on Venus Is Longer Than Its Year",
       "topic": "space",
-      "views": 1135,
+      "views": 1136,
       "hook": "A day on Venus is longer than its entire year."
     },
     {
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
-      "views": 1132,
+      "views": 1135,
       "hook": "There's a planet where it rains glass. Sideways."
     },
     {
-      "title": "A Single Cloud Weighs Over a Million Pounds",
-      "topic": "science",
-      "views": 1061,
-      "hook": "A single cloud can weigh over a million pounds."
+      "title": "The Jellyfish That Can Live Forever",
+      "topic": "animals",
+      "views": 720,
+      "hook": "There's a jellyfish that can live forever."
     },
     {
       "title": "Why an Octopus Has Three Hearts and Blue Blood",
@@ -74,26 +80,20 @@
     {
       "title": "Why You Forget Why You Walked Into a Room",
       "topic": "psychology",
-      "views": 353,
+      "views": 357,
       "hook": "Your brain wipes part of your memory every time you walk through a doorway."
     },
     {
       "title": "Oxford University Is Older Than the Aztec Empire",
       "topic": "history",
-      "views": 301,
+      "views": 314,
       "hook": "Oxford University is older than the Aztec Empire."
     },
     {
       "title": "Nobody Noticed Your Embarrassing Moment. Here's Proof",
       "topic": "psychology",
-      "views": 286,
+      "views": 290,
       "hook": "Nobody noticed your embarrassing moment. Science proved it."
-    },
-    {
-      "title": "You Shrink Every Single Day (Here's Why)",
-      "topic": "human body",
-      "views": 176,
-      "hook": "You are taller right now than you'll be tonight."
     }
   ],
   "videos": {
@@ -103,7 +103,7 @@
       "hook": "Your brain wipes part of your memory every time you walk through a doorway.",
       "published_at": "2026-10-14T19:30:35Z",
       "privacy": "public",
-      "views": 353,
+      "views": 357,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/GmLlv8BjIu8"
@@ -114,7 +114,7 @@
       "hook": "A single cloud can weigh over a million pounds.",
       "published_at": "2026-10-15T18:56:15Z",
       "privacy": "public",
-      "views": 1061,
+      "views": 1180,
       "likes": 52,
       "comments": 1,
       "url": "https://youtube.com/shorts/AatgGso0_2I"
@@ -123,10 +123,10 @@
       "title": "The Jellyfish That Can Live Forever",
       "topic": "animals",
       "hook": "There's a jellyfish that can live forever.",
-      "published_at": "2026-10-15T23:59:46Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-10-16T00:30:21Z",
+      "privacy": "public",
+      "views": 720,
+      "likes": 49,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
     },
@@ -134,12 +134,45 @@
       "title": "The Great Pyramid Used to Be Bright White",
       "topic": "history",
       "hook": "The Great Pyramid used to be bright white and shiny.",
-      "published_at": "2026-10-16T00:02:38Z",
+      "published_at": "2026-10-16T02:54:28Z",
+      "privacy": "public",
+      "views": 60,
+      "likes": 6,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/TRY06yZdLIs"
+    },
+    "UaeMKmWXL5w": {
+      "title": "On Neptune, It Rains Diamonds",
+      "topic": "space",
+      "hook": "On Neptune, it rains diamonds.",
+      "published_at": "2026-10-16T04:16:34Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/TRY06yZdLIs"
+      "url": "https://youtube.com/shorts/UaeMKmWXL5w"
+    },
+    "Q6SQw6zTdW8": {
+      "title": "Saturn Would Float in Water",
+      "topic": "space",
+      "hook": "Saturn would float in water.",
+      "published_at": "2026-10-16T04:18:40Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Q6SQw6zTdW8"
+    },
+    "dAX8nRPkNMY": {
+      "title": "Sharks Are Older Than Trees (and the Dinosaurs)",
+      "topic": "animals",
+      "hook": "Sharks are older than trees.",
+      "published_at": "2026-10-16T04:21:02Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/dAX8nRPkNMY"
     },
     "L1YCXdSWEZ4": {
       "title": "A Day on Venus Is Longer Than Its Year",
@@ -147,7 +180,7 @@
       "hook": "A day on Venus is longer than its entire year.",
       "published_at": "2026-10-14T21:29:03Z",
       "privacy": "public",
-      "views": 1135,
+      "views": 1136,
       "likes": 44,
       "comments": 0,
       "url": "https://youtube.com/shorts/L1YCXdSWEZ4"
@@ -158,7 +191,7 @@
       "hook": "Oxford University is older than the Aztec Empire.",
       "published_at": "2026-10-15T00:30:19Z",
       "privacy": "public",
-      "views": 301,
+      "views": 314,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/V-ykHcqs_OA"
@@ -180,7 +213,7 @@
       "hook": "You are taller right now than you'll be tonight.",
       "published_at": "2026-10-15T02:30:20Z",
       "privacy": "public",
-      "views": 176,
+      "views": 186,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/I75xo-ENbtA"
@@ -191,7 +224,7 @@
       "hook": "There are more trees on Earth than stars in the Milky Way.",
       "published_at": "2026-10-15T03:30:08Z",
       "privacy": "public",
-      "views": 1178,
+      "views": 1180,
       "likes": 19,
       "comments": 0,
       "url": "https://youtube.com/shorts/8v2IWv2BlSA"
@@ -202,7 +235,7 @@
       "hook": "Nobody noticed your embarrassing moment. Science proved it.",
       "published_at": "2026-10-15T04:30:13Z",
       "privacy": "public",
-      "views": 286,
+      "views": 290,
       "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/EgjZfYUh9jE"
@@ -213,8 +246,8 @@
       "hook": "Your body is glowing right now. You just can't see it.",
       "published_at": "2026-10-15T05:30:37Z",
       "privacy": "public",
-      "views": 173,
-      "likes": 5,
+      "views": 187,
+      "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/T00_3CUDt5s"
     },
@@ -224,7 +257,7 @@
       "hook": "There's a planet where it rains glass. Sideways.",
       "published_at": "2026-10-15T06:30:27Z",
       "privacy": "public",
-      "views": 1132,
+      "views": 1135,
       "likes": 56,
       "comments": 2,
       "url": "https://youtube.com/shorts/_AAxfyJTzHU"
@@ -235,7 +268,7 @@
       "hook": "Wombats poop cubes. Scientists finally figured out how.",
       "published_at": "2026-10-15T07:30:08Z",
       "privacy": "public",
-      "views": 1191,
+      "views": 1195,
       "likes": 28,
       "comments": 0,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4"
