@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------------------
 
 channel:
-  name: "Mind Unlocked"            # small label shown at the top of every video
+  name: "Mind Unlocked Facts"            # small label shown at the top of every video
   niche: >
     Mind-blowing, verified facts about psychology, the human body, space,
     science, history and animals — told as 30-50 second Shorts with a strong
@@ -58,7 +58,7 @@ longform:
   max_chars_per_line: 26
   caption_y_percent: 84
   caption_outline_px: 6
-  series_label: "Mind Unlocked"    # pill shown during the intro and outro
+  series_label: "Mind Unlocked Facts"   # pill shown during the intro and outro
   thumbnail: true
 
 # Sub-topics the idea generator rotates through (it avoids repeating the last few).
