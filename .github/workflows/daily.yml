@@ -5,7 +5,8 @@ on:
     # Every 2 hours (UTC). A run uploads only when YouTube's rolling 24 h upload limit has room
     # (10 per day for this channel) and otherwise exits in seconds, so over a day exactly 10 videos
     # get uploaded. Uploading and releasing are separate: each video is scheduled to go public at
-    # the next free hourly slot between 8 PM and 5 AM India time (see `release` in channel.yml).
+    # the next free slot of its list in channel.yml (`release.shorts_slots` / `longform_slots`:
+    # 4:30 PM-1:30 AM India time on the half hour, long video at 10:30 PM).
     - cron: "17 */2 * * *"
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.

@@ -93,13 +93,14 @@ waits for a free slot instead of being refused. Raise it when YouTube raises the
 
 Long videos: `content/longform/queue/` holds 8–11 minute, 16:9 list videos (10 facts, one chapter
 each; written by the long-form writer task, see `AGENT_LONGFORM.md`). One is made per day for the
-`release.longform_slots` time (8 PM IST) and uses one of the day's 10 uploads. Test one without
+`release.longform_slots` time (10:30 PM IST) and uses one of the day's 10 uploads. Test one without
 uploading: Actions → Daily video → Run workflow → dry_run ✓, package `content/longform/queue/<file>.json`.
 
 Release window: uploading and going public are separate. The job runs every 2 hours and uploads
 whenever the 24 h window has room; each video is scheduled (`publishAt`) into the next free hourly
-time of its slot list (`release.shorts_slots` / `release.longform_slots`: 1 long video at 8 PM, Shorts
-at 5 PM, 6 PM and 9 PM–3 AM India time), so Studio shows uploads as **Scheduled** until their slot.
+time of its slot list (`release.shorts_slots` / `release.longform_slots`: 1 long video at 10:30 PM,
+Shorts on the half hour from 4:30 PM to 1:30 AM India time, skipping 10:30 PM), so Studio shows
+uploads as **Scheduled** until their slot.
 10 slots a day = the daily limit.
 
 ---

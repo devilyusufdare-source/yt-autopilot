@@ -22,14 +22,15 @@ channel:
 # channel - it refused the 11th upload). Uploading and releasing are separate: every uploaded
 # video is scheduled to go public at the next FREE time in its slot list below (release
 # timezone), so a video uploaded at noon quietly waits as "Scheduled" until its slot.
-# Daily plan = 1 long video (8 PM) + 7 Shorts (9 PM-3 AM) + 2 Shorts (5 PM, 6 PM = US morning) = 10.
+# Release windows (India time): 4:30-6:30 PM, 6:30-9:30 PM and 10:30 PM-1:30 AM, nothing else.
+# Daily plan = 1 long video (10:30 PM) + 9 Shorts on the half hour from 4:30 PM to 1:30 AM = 10.
 # Before every upload the job counts the uploads of the last 24 h and waits for a free slot,
 # so the cap is never hit. Raise daily_limit only when YouTube raises the channel's limit.
 release:
   videos_per_run: 2                # per run; a run makes one extra when earlier runs were blocked (catch-up)
   interval_minutes: 60             # minimum spacing between two releases
-  shorts_slots: ["17:00", "18:00", "21:00", "22:00", "23:00", "00:00", "01:00", "02:00", "03:00"]
-  longform_slots: ["20:00"]        # the long video of the day opens the evening
+  shorts_slots: ["16:30", "17:30", "18:30", "19:30", "20:30", "21:30", "23:30", "00:30", "01:30"]
+  longform_slots: ["22:30"]        # the long video of the day opens the late window
   daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
   probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it
   lead_minutes: 20                 # a publish time is at least this many minutes after the upload

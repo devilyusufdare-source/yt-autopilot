@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Long-form content package",
-  "description": "One ready-to-render LONG video (16:9, 8-11 minutes): a themed list of 8-12 verified facts, one chapter each. Files live in content/longform/queue/<id>.json. The job renders one per day (when the daily 8 PM slot is free), uploads it and moves the record to content/published/ with kind=longform.",
+  "description": "One ready-to-render LONG video (16:9, 9-10 minutes): a themed list of 8-12 verified facts, one chapter each. Files live in content/longform/queue/<id>.json. The job renders one per day (when the daily 10:30 PM slot is free), uploads it and moves the record to content/published/ with kind=longform.",
   "type": "object",
   "required": ["id", "kind", "theme", "title", "intro", "segments", "outro", "description", "tags"],
   "additionalProperties": true,
