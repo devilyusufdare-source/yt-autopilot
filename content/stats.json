@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T20:46:54+00:00",
+  "updated_at": "2026-10-16T22:45:08+00:00",
   "total_videos": 21,
-  "total_views": 12394,
+  "total_views": 12482,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -10,8 +10,8 @@
     },
     "science": {
       "videos": 2,
-      "avg_views": 1296,
-      "best_views": 1399
+      "avg_views": 1299,
+      "best_views": 1403
     },
     "animals": {
       "videos": 5,
@@ -20,24 +20,24 @@
     },
     "human body": {
       "videos": 3,
-      "avg_views": 208,
-      "best_views": 242
+      "avg_views": 219,
+      "best_views": 243
     },
     "history": {
       "videos": 3,
-      "avg_views": 198,
+      "avg_views": 199,
       "best_views": 339
     },
     "space": {
       "videos": 5,
-      "avg_views": 782,
+      "avg_views": 791,
       "best_views": 1353
     }
   },
   "by_style": {
     "classic": {
       "videos": 19,
-      "avg_views": 651,
+      "avg_views": 653,
       "over_1500": 0
     },
     "longform": {
@@ -47,7 +47,7 @@
     },
     "punch": {
       "videos": 1,
-      "avg_views": 32,
+      "avg_views": 76,
       "over_1500": 0
     }
   },
@@ -55,7 +55,7 @@
     {
       "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
       "topic": "science",
-      "views": 1399,
+      "views": 1403,
       "hook": "There are more trees on Earth than stars in the Milky Way."
     },
     {
@@ -79,25 +79,25 @@
     {
       "title": "Wombats Poop Cubes. Scientists Finally Know Why",
       "topic": "animals",
-      "views": 1204,
+      "views": 1201,
       "hook": "Wombats poop cubes. Scientists finally figured out how."
     },
     {
       "title": "A Single Cloud Weighs Over a Million Pounds",
       "topic": "science",
-      "views": 1194,
+      "views": 1195,
       "hook": "A single cloud can weigh over a million pounds."
     },
     {
       "title": "Saturn Would Float in Water",
       "topic": "space",
-      "views": 1078,
+      "views": 1080,
       "hook": "Saturn would float in water."
     },
     {
       "title": "The Jellyfish That Can Live Forever",
       "topic": "animals",
-      "views": 1046,
+      "views": 1044,
       "hook": "There's a jellyfish that can live forever."
     },
     {
@@ -133,7 +133,7 @@
       "hook": "A single cloud can weigh over a million pounds.",
       "published_at": "2026-10-15T18:56:15Z",
       "privacy": "public",
-      "views": 1194,
+      "views": 1195,
       "likes": 52,
       "comments": 1,
       "url": "https://youtube.com/shorts/AatgGso0_2I"
@@ -157,8 +157,8 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 163,
-      "likes": 8,
+      "views": 195,
+      "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
     },
@@ -169,7 +169,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1046,
+      "views": 1044,
       "likes": 49,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -181,7 +181,7 @@
       "hook": "The Great Pyramid used to be bright white and shiny.",
       "published_at": "2026-10-16T02:54:28Z",
       "privacy": "public",
-      "views": 250,
+      "views": 251,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/TRY06yZdLIs"
@@ -193,8 +193,8 @@
       "hook": "On Neptune, it rains diamonds.",
       "published_at": "2026-10-16T05:30:13Z",
       "privacy": "public",
-      "views": 212,
-      "likes": 10,
+      "views": 214,
+      "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/UaeMKmWXL5w"
     },
@@ -205,7 +205,7 @@
       "hook": "Saturn would float in water.",
       "published_at": "2026-10-16T07:54:25Z",
       "privacy": "public",
-      "views": 1078,
+      "views": 1080,
       "likes": 30,
       "comments": 0,
       "url": "https://youtube.com/shorts/Q6SQw6zTdW8"
@@ -217,7 +217,7 @@
       "hook": "Sharks are older than trees.",
       "published_at": "2026-10-16T10:18:30Z",
       "privacy": "public",
-      "views": 108,
+      "views": 113,
       "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/dAX8nRPkNMY"
@@ -229,7 +229,7 @@
       "hook": "The shortest war in history lasted 38 minutes.",
       "published_at": "2026-10-16T14:30:32Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/CsR1AX8J4XU"
@@ -301,7 +301,7 @@
       "hook": "There are more trees on Earth than stars in the Milky Way.",
       "published_at": "2026-10-15T03:30:08Z",
       "privacy": "public",
-      "views": 1399,
+      "views": 1403,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/8v2IWv2BlSA"
@@ -325,7 +325,7 @@
       "hook": "Your body is glowing right now. You just can't see it.",
       "published_at": "2026-10-15T05:30:37Z",
       "privacy": "public",
-      "views": 242,
+      "views": 243,
       "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/T00_3CUDt5s"
@@ -349,7 +349,7 @@
       "hook": "Wombats poop cubes. Scientists finally figured out how.",
       "published_at": "2026-10-15T07:30:08Z",
       "privacy": "public",
-      "views": 1204,
+      "views": 1201,
       "likes": 28,
       "comments": 0,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4"
@@ -361,8 +361,8 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 32,
-      "likes": 3,
+      "views": 76,
+      "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
     }
