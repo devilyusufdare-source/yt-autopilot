@@ -19,14 +19,15 @@ channel:
 
 # How videos are released. Each scheduled run (see .github/workflows/daily.yml) makes
 # `videos_per_run` videos and schedules them to go public one after another, `interval_minutes`
-# apart, starting at the next round hour. 5 runs a day x 2 videos, ~2.4 h apart = 10 a day.
+# apart, starting at the next round hour. 5 runs a day x 2 videos, 2 h apart = 10 a day, released
+# between 4 PM and 9 AM India time (US daytime/evening + Indian evening); see the workflow file.
 # `daily_limit` is YouTube's own cap for this channel (it refused the 11th upload in 24 h).
 # Before every upload the job counts the uploads of the last 24 h and waits for a free slot,
 # so the cap is never hit. Raise daily_limit only when YouTube raises the channel's limit.
 # Set videos_per_run to 1 to publish a single video immediately each run instead.
 release:
   videos_per_run: 2
-  interval_minutes: 144
+  interval_minutes: 120
   daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
   probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it
   lead_minutes: 20                 # the first publish time is at least this many minutes after the run starts
