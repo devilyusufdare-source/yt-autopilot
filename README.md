@@ -91,10 +91,16 @@ seen as `uploadLimitExceeded`). `release.daily_limit` in channel.yml tells the j
 waits for a free slot instead of being refused. Raise it when YouTube raises the channel's limit
 (Studio → Settings → Channel → Feature eligibility → Advanced features).
 
+Long videos: `content/longform/queue/` holds 8–11 minute, 16:9 list videos (10 facts, one chapter
+each; written by the long-form writer task, see `AGENT_LONGFORM.md`). One is made per day for the
+`release.longform_slots` time (8 PM IST) and uses one of the day's 10 uploads. Test one without
+uploading: Actions → Daily video → Run workflow → dry_run ✓, package `content/longform/queue/<file>.json`.
+
 Release window: uploading and going public are separate. The job runs every 2 hours and uploads
 whenever the 24 h window has room; each video is scheduled (`publishAt`) into the next free hourly
-slot between `release.window_start` and `release.window_end` (8 PM–5 AM India time), so Studio shows
-uploads as **Scheduled** until their slot. 10 slots a night = the daily limit.
+time of its slot list (`release.shorts_slots` / `release.longform_slots`: 1 long video at 8 PM, Shorts
+at 5 PM, 6 PM and 9 PM–3 AM India time), so Studio shows uploads as **Scheduled** until their slot.
+10 slots a day = the daily limit.
 
 ---
 

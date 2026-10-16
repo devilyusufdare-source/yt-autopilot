@@ -13,6 +13,9 @@ CONTENT_DIR = ROOT / "content"
 QUEUE_DIR = CONTENT_DIR / "queue"
 PUBLISHED_DIR = CONTENT_DIR / "published"
 FAILED_DIR = CONTENT_DIR / "failed"
+LONGFORM_DIR = CONTENT_DIR / "longform"          # long (16:9, 8-12 min) videos live apart from the Shorts queue
+LONGFORM_QUEUE_DIR = LONGFORM_DIR / "queue"
+LONGFORM_FAILED_DIR = LONGFORM_DIR / "failed"
 STATS_FILE = CONTENT_DIR / "stats.json"
 ASSETS_DIR = ROOT / "assets"
 MUSIC_DIR = ASSETS_DIR / "music"
@@ -67,6 +70,21 @@ class Config:
         return int(self.get("video.fps", 30))
 
 
+def with_overrides(cfg: Config, overrides: dict) -> Config:
+    """A copy of the config with dotted keys replaced, e.g. {"video.width": 1920}."""
+    import copy
+    raw = copy.deepcopy(cfg.raw)
+    for path, value in overrides.items():
+        cur = raw
+        keys = path.split(".")
+        for k in keys[:-1]:
+            if not isinstance(cur.get(k), dict):
+                cur[k] = {}
+            cur = cur[k]
+        cur[keys[-1]] = value
+    return Config(raw=raw)
+
+
 def load_config(path: Path | None = None) -> Config:
     path = path or ROOT / "channel.yml"
     with open(path, "r", encoding="utf-8") as f:
@@ -75,5 +93,5 @@ def load_config(path: Path | None = None) -> Config:
 
 
 def ensure_dirs() -> None:
-    for d in (QUEUE_DIR, PUBLISHED_DIR, FAILED_DIR, OUTPUT_DIR, CACHE_DIR, MUSIC_DIR):
+    for d in (QUEUE_DIR, PUBLISHED_DIR, FAILED_DIR, LONGFORM_QUEUE_DIR, LONGFORM_FAILED_DIR, OUTPUT_DIR, CACHE_DIR, MUSIC_DIR):
         d.mkdir(parents=True, exist_ok=True)

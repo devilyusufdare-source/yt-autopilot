@@ -20,20 +20,45 @@ channel:
 # How videos are released. The job runs every 2 hours (see .github/workflows/daily.yml) and
 # uploads whenever YouTube's rolling 24 h upload limit has room (`daily_limit`, 10 for this
 # channel - it refused the 11th upload). Uploading and releasing are separate: every uploaded
-# video is scheduled to go public at the next FREE slot of the release window - hourly from
-# `window_start` to `window_end` (8 PM to 5 AM India time = 10 slots a day) - and never in
-# between. So a video uploaded at noon quietly waits as "Scheduled" until 8 PM.
+# video is scheduled to go public at the next FREE time in its slot list below (release
+# timezone), so a video uploaded at noon quietly waits as "Scheduled" until its slot.
+# Daily plan = 1 long video (8 PM) + 7 Shorts (9 PM-3 AM) + 2 Shorts (5 PM, 6 PM = US morning) = 10.
 # Before every upload the job counts the uploads of the last 24 h and waits for a free slot,
 # so the cap is never hit. Raise daily_limit only when YouTube raises the channel's limit.
 release:
   videos_per_run: 2                # per run; a run makes one extra when earlier runs were blocked (catch-up)
-  interval_minutes: 60             # one release per hour inside the window
-  window_start: "20:00"            # first release of the night (release timezone)
-  window_end: "05:00"              # last release of the night
+  interval_minutes: 60             # minimum spacing between two releases
+  shorts_slots: ["17:00", "18:00", "21:00", "22:00", "23:00", "00:00", "01:00", "02:00", "03:00"]
+  longform_slots: ["20:00"]        # the long video of the day opens the evening
   daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
   probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it
   lead_minutes: 20                 # a publish time is at least this many minutes after the upload
   timezone: "Asia/Kolkata"
+
+# Long videos (16:9, 8-11 minutes): a themed list of 8-12 verified facts, one chapter each, from
+# content/longform/queue/ (written by the long-form writer task, see AGENT_LONGFORM.md).
+# One is made for every free `longform_slots` time at most `build_hours_ahead` hours ahead.
+longform:
+  enabled: true
+  queue_target: 3                  # the writer keeps this many long videos ready
+  build_hours_ahead: 24
+  min_segments: 8
+  max_segments: 12
+  max_seconds: 900
+  width: 1920
+  height: 1080
+  zoom: 0.05
+  crf: 21
+  preset: fast
+  gap_seconds: 0.45
+  progress_bar: false
+  caption_font_size: 66
+  words_per_group: 4
+  max_chars_per_line: 26
+  caption_y_percent: 84
+  caption_outline_px: 6
+  series_label: "Mind Unlocked"    # pill shown during the intro and outro
+  thumbnail: true
 
 # Sub-topics the idea generator rotates through (it avoids repeating the last few).
 topics:

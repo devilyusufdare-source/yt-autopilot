@@ -93,7 +93,7 @@ def render_final(visual: Path, voice: Path, ass: Path, music: Path | None, cfg: 
         aout = "[a]"
     cmd = ["ffmpeg", "-y", "-loglevel", "error", "-stats_period", "5", *inputs,
            "-filter_complex", ";".join(filters), "-map", vout, "-map", aout,
-           "-c:v", "libx264", "-preset", "medium", "-crf", str(cfg.get("video.crf", 20)), "-pix_fmt", "yuv420p",
+           "-c:v", "libx264", "-preset", str(cfg.get("video.preset", "medium")), "-crf", str(cfg.get("video.crf", 20)), "-pix_fmt", "yuv420p",
            "-r", str(fps), "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart",
            "-t", f"{total:.3f}", str(out)]
     subprocess.run(cmd, check=True)

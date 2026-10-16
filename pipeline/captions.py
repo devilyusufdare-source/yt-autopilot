@@ -76,7 +76,9 @@ def _layout(tokens: list[str], max_chars: int) -> list[list[int]]:
 
 def build_ass(scene_words: list[list[Word]], cfg: Config, out: Path, top_label: str | None,
               total_duration: float, hook_card: str | None = None, hook_end: float = 0.0,
-              end_text: str | None = None) -> Path:
+              end_text: str | None = None, labels: list[tuple[float, float, str]] | None = None) -> Path:
+    """`labels` = timed top pills [(start, end, text), ...] (used by long videos for chapter names);
+    `top_label` is one pill for the whole video."""
     w, h = cfg.width, cfg.height
     font = cfg.get("captions.font_name", "Poppins ExtraBold")
     size = int(cfg.get("captions.font_size", 96))
@@ -101,7 +103,7 @@ YCbCr Matrix: TV.709
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Cap,{font},{size},{text_c},{text_c},&H00000000,&H90000000,-1,0,0,0,100,100,1,0,1,{outline},4,5,80,80,0,1
-Style: Label,{font},{int(size * 0.38)},&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,2,0,3,14,0,8,80,80,{int(h * 0.105)},1
+Style: Label,{font},{int(size * float(cfg.get("captions.label_scale", 0.38)))},&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,2,0,3,14,0,8,80,80,{int(h * 0.105)},1
 Style: Hook,{font},{int(size * 1.12)},{text_c},{text_c},&H00000000,&H90000000,-1,0,0,0,100,100,1,0,1,{outline + 2},5,5,70,70,0,1
 Style: End,{font},{int(size * 0.42)},{hi_c},{hi_c},&H00000000,&HA0000000,-1,0,0,0,100,100,2,0,3,14,0,2,80,80,{int(h * 0.16)},1
 
@@ -112,6 +114,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     if top_label:
         label = _escape(top_label.upper() if upper else top_label)
         lines_out.append(f"Dialogue: 0,{_ts(0)},{_ts(total_duration)},Label,,0,0,0,,{label}\n")
+    for start, end, text in labels or []:
+        if end > start and text:
+            label = _escape(text.upper() if upper else text)
+            lines_out.append(f"Dialogue: 0,{_ts(start)},{_ts(end)},Label,,0,0,0,,{label}\n")
 
     if hook_card and hook_end > 0:
         # Full-sentence hook on screen for the whole first scene; word-by-word captions start at scene 2.

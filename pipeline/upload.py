@@ -93,18 +93,38 @@ def taken_release_times(published_dir: Path) -> list[dt.datetime]:
 
 
 def publish_slots(count: int, cfg: Config, taken: list[dt.datetime] | None = None,
-                  now: dt.datetime | None = None) -> list[str | None]:
+                  now: dt.datetime | None = None, kind: str = "shorts") -> list[str | None]:
     """Publish times (RFC 3339, UTC) for `count` videos, or None = publish immediately.
 
-    With `release.window_start/window_end` set, every video is scheduled into the next free slots
-    of the release window (hourly between those times, release timezone), however early in the
-    day it was uploaded. Slots already claimed by other uploads (`taken`) are skipped.
+    With `release.<kind>_slots` (a list of "HH:MM" times, release timezone) every video is
+    scheduled into the next free slot of that list, however early in the day it was uploaded.
+    Slots already claimed by other uploads (`taken`) are skipped. Without a list, the older
+    `release.window_start/window_end` hourly window is used.
     """
     tz = ZoneInfo(cfg.get("release.timezone", "UTC"))
     interval = max(5, int(cfg.get("release.interval_minutes", 60)))
     lead = int(cfg.get("release.lead_minutes", 20))
     now = (now or dt.datetime.now(dt.timezone.utc)).astimezone(tz)
     earliest = now + dt.timedelta(minutes=lead)
+    busy = [t.astimezone(tz) for t in (taken or [])]
+    half = dt.timedelta(minutes=interval / 2)
+    out: list[str | None] = []
+
+    slot_list = cfg.get(f"release.{kind}_slots")
+    if isinstance(slot_list, list) and slot_list:
+        times = sorted({_parse_hhmm(t, "20:00") for t in slot_list})
+        day = earliest.date() - dt.timedelta(days=1)
+        for _ in range(12):  # at most twelve days ahead
+            for t in times:
+                slot = dt.datetime.combine(day, t, tzinfo=tz)
+                if slot >= earliest and not any(abs(slot - b) < half for b in busy):
+                    out.append(slot.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
+                    busy.append(slot)
+                    if len(out) >= count:
+                        return out
+            day += dt.timedelta(days=1)
+        return out
+
     start_txt, end_txt = cfg.get("release.window_start"), cfg.get("release.window_end")
     if not (start_txt and end_txt):
         # Old behaviour: hourly from the next round hour (or immediately for a single video).
@@ -116,9 +136,6 @@ def publish_slots(count: int, cfg: Config, taken: list[dt.datetime] | None = Non
                 for i in range(count)]
 
     start_t, end_t = _parse_hhmm(start_txt, "20:00"), _parse_hhmm(end_txt, "05:00")
-    busy = [t.astimezone(tz) for t in (taken or [])]
-    half = dt.timedelta(minutes=interval / 2)
-    out: list[str | None] = []
     day = earliest.date() - dt.timedelta(days=1)
     for _ in range(10):  # at most ten days ahead
         start = dt.datetime.combine(day, start_t, tzinfo=tz)
@@ -137,11 +154,16 @@ def publish_slots(count: int, cfg: Config, taken: list[dt.datetime] | None = Non
     return out
 
 
-def build_description(pkg: dict, cfg: Config) -> str:
+def build_description(pkg: dict, cfg: Config, shorts: bool = True) -> str:
     hashtags = list(pkg.get("hashtags") or [])
-    if not any(h.lower() == "#shorts" for h in hashtags):
+    if shorts and not any(h.lower() == "#shorts" for h in hashtags):
         hashtags.append("#shorts")
-    parts = [pkg["description"].strip(), " ".join(hashtags)]
+    if not shorts:
+        hashtags = [h for h in hashtags if h.lower() != "#shorts"]
+    parts = [pkg["description"].strip()]
+    if pkg.get("chapters_text"):
+        parts.append(pkg["chapters_text"].strip())
+    parts.append(" ".join(hashtags))
     footer = (cfg.get("channel.description_footer") or "").strip()
     if footer:
         parts.append(footer)
@@ -151,7 +173,7 @@ def build_description(pkg: dict, cfg: Config) -> str:
     return "\n\n".join(p for p in parts if p)[:4900]
 
 
-def build_body(pkg: dict, cfg: Config, publish_at: str | None = None) -> dict:
+def build_body(pkg: dict, cfg: Config, publish_at: str | None = None, shorts: bool = True) -> dict:
     title = (pkg["title"] + (cfg.get("channel.title_suffix") or "")).strip()[:100]
     lang = cfg.get("channel.language", "en")
     status: dict = {
@@ -164,7 +186,7 @@ def build_body(pkg: dict, cfg: Config, publish_at: str | None = None) -> dict:
     return {
         "snippet": {
             "title": title,
-            "description": build_description(pkg, cfg),
+            "description": build_description(pkg, cfg, shorts=shorts),
             "tags": pkg["tags"],
             "categoryId": str(pkg.get("category_id") or cfg.get("channel.default_category_id", "27")),
             "defaultLanguage": lang,

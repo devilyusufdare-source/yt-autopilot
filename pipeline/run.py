@@ -21,9 +21,10 @@ from pathlib import Path
 
 from . import tts as tts_mod
 from .captions import build_ass
-from .config import FAILED_DIR, OUTPUT_DIR, PUBLISHED_DIR, QUEUE_DIR, ensure_dirs, load_config
+from .config import (FAILED_DIR, LONGFORM_FAILED_DIR, LONGFORM_QUEUE_DIR, OUTPUT_DIR, PUBLISHED_DIR, QUEUE_DIR,
+                     ensure_dirs, load_config)
 from .render import assemble_voice, concat_clips, make_thumbnail, pick_music, render_final
-from .validate import validate_package
+from .validate import is_longform, validate_longform, validate_package
 from .visuals import Visuals
 
 MAX_ATTEMPTS = 2
@@ -113,10 +114,11 @@ def _save(path: Path, pkg: dict) -> None:
 def _fail(path: Path, pkg: dict, reason: str) -> None:
     pkg["_error"] = reason
     pkg["_failed_at"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
-    FAILED_DIR.mkdir(parents=True, exist_ok=True)
-    _save(FAILED_DIR / path.name, pkg)
+    failed_dir = LONGFORM_FAILED_DIR if path.parent == LONGFORM_QUEUE_DIR else FAILED_DIR
+    failed_dir.mkdir(parents=True, exist_ok=True)
+    _save(failed_dir / path.name, pkg)
     path.unlink(missing_ok=True)
-    print(f"[run] moved {path.name} to content/failed: {reason}")
+    print(f"[run] moved {path.name} to {failed_dir.relative_to(failed_dir.parent.parent)}: {reason}")
 
 
 def _note_attempt(path: Path, pkg: dict, error: str) -> None:
@@ -160,7 +162,7 @@ def duplicate_of(pkg: dict) -> str | None:
 def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict] | None:
     if explicit:
         pkg = _load(explicit)
-        errs = validate_package(pkg, cfg)
+        errs = validate_longform(pkg, cfg) if is_longform(pkg) else validate_package(pkg, cfg)
         if errs:
             raise SystemExit("package is invalid:\n  - " + "\n  - ".join(errs))
         return explicit, pkg
@@ -189,6 +191,53 @@ def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict
             _fail(path, pkg, f"duplicate of an already published video: {dup}")
             continue
         return path, pkg
+    return None
+
+
+def pick_longform(cfg, skip: set[str]) -> tuple[Path, dict] | None:
+    """The next valid long-form package (highest priority, then oldest), or None."""
+    candidates = []
+    for path in sorted(LONGFORM_QUEUE_DIR.glob("*.json")):
+        if path.name in skip:
+            continue
+        try:
+            pkg = _load(path)
+        except Exception as e:  # noqa: BLE001
+            _fail(path, {"id": path.stem}, f"not valid JSON: {e}")
+            continue
+        try:
+            prio = int(pkg.get("priority", 0) or 0)
+        except (TypeError, ValueError):
+            prio = 0
+        candidates.append((-prio, path.name, path, pkg))
+    for _, _, path, pkg in sorted(candidates, key=lambda c: (c[0], c[1])):
+        errs = validate_longform(pkg, cfg)
+        if errs:
+            _fail(path, pkg, "; ".join(errs))
+            continue
+        if (PUBLISHED_DIR / path.name).exists():
+            print(f"[run] {path.name} is already published; removing it from the long-form queue")
+            path.unlink()
+            continue
+        return path, pkg
+    return None
+
+
+def longform_due(cfg, claimed: list[str]) -> str | None:
+    """The long video's publish time if one should be made now: the next free long-form slot is
+    less than `longform.build_hours_ahead` hours away (so exactly one long video per slot)."""
+    if not cfg.get("longform.enabled", False) or not cfg.get("release.longform_slots"):
+        return None
+    slot = release_slot(cfg, claimed, kind="longform")
+    if not slot:
+        return None
+    try:
+        when = dt.datetime.fromisoformat(slot.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    ahead = float(cfg.get("longform.build_hours_ahead", 24))
+    if when - dt.datetime.now(dt.timezone.utc) <= dt.timedelta(hours=ahead):
+        return slot
     return None
 
 
@@ -290,8 +339,8 @@ def try_first_comment_now(youtube, cfg, pkg: dict) -> bool:
     return False
 
 
-def release_slot(cfg, extra_taken: list[str]) -> str | None:
-    """The next free publish time in the release window, skipping slots claimed earlier in this run."""
+def release_slot(cfg, extra_taken: list[str], kind: str = "shorts") -> str | None:
+    """The next free publish time for this kind of video, skipping slots claimed earlier in this run."""
     from .upload import publish_slots, taken_release_times
     taken = taken_release_times(PUBLISHED_DIR)
     for t in extra_taken:
@@ -299,7 +348,7 @@ def release_slot(cfg, extra_taken: list[str]) -> str | None:
             taken.append(dt.datetime.fromisoformat(t.replace("Z", "+00:00")))
         except ValueError:
             pass
-    chosen = publish_slots(1, cfg, taken=taken)
+    chosen = publish_slots(1, cfg, taken=taken, kind=kind)
     return chosen[0] if chosen else None
 
 
@@ -428,7 +477,24 @@ def main(argv: list[str] | None = None) -> int:
     limit_hit = False
     claimed: list[str] = []   # publish times handed out in this run
     for i in range(count):
-        picked = pick_package(cfg, args.package if i == 0 else None, tried)
+        kind = "shorts"
+        picked = None
+        long_slot = None
+        if args.package and i == 0:
+            picked = pick_package(cfg, args.package, tried)
+            if picked and is_longform(picked[1]):
+                kind = "longform"
+        else:
+            if not args.dry_run and not args.now:
+                long_slot = longform_due(cfg, claimed)
+                if long_slot:
+                    picked = pick_longform(cfg, tried)
+                    if picked:
+                        kind = "longform"
+                    else:
+                        print("[run] a long video is due but content/longform/queue is empty - making a Short instead")
+            if not picked:
+                picked = pick_package(cfg, None, tried)
         if not picked:
             if i == 0:
                 print("[run] QUEUE EMPTY - nothing to publish. The idea writer needs to run (see AGENT_TASK.md).")
@@ -452,32 +518,40 @@ def main(argv: list[str] | None = None) -> int:
                 summaries.append({"id": pkg["id"], "title": pkg["title"], "status": "not uploaded: daily limit window full (waits for next run)"})
                 limit_hit = True
                 break
-        print(f"\n[run] ({i + 1}/{count}) {path.name}  title: {pkg['title']}")
+        print(f"\n[run] ({i + 1}/{count}) {path.name}  title: {pkg['title']}" + ("  [LONG VIDEO]" if kind == "longform" else ""))
 
         outdir = OUTPUT_DIR / pkg["id"]
         if outdir.exists():
             shutil.rmtree(outdir)
-        style = pkg.get("style")
-        if style not in ("classic", "punch"):
-            if cfg.get("experiment.alternate_styles", False):
-                n_pub = len(list(PUBLISHED_DIR.glob("*.json")))
-                style = "punch" if (n_pub + i) % 2 == 0 else "classic"
-            else:
-                style = cfg.get("video.style", "classic")
+        if kind == "longform":
+            style = "longform"
+            slot = None if (args.dry_run or args.now) else (long_slot or release_slot(cfg, claimed, kind="longform"))
+        else:
+            style = pkg.get("style")
+            if style not in ("classic", "punch"):
+                if cfg.get("experiment.alternate_styles", False):
+                    n_pub = len(list(PUBLISHED_DIR.glob("*.json")))
+                    style = "punch" if (n_pub + i) % 2 == 0 else "classic"
+                else:
+                    style = cfg.get("video.style", "classic")
+            slot = None if (args.dry_run or args.now) else release_slot(cfg, claimed)
         print(f"[run] style: {style}")
-        slot = None if (args.dry_run or args.now) else release_slot(cfg, claimed)
         try:
-            result = build_video(pkg, cfg, outdir, style=style, publish_at=slot)
+            if kind == "longform":
+                from .longform import build_longform
+                result = build_longform(pkg, cfg, outdir, publish_at=slot)
+            else:
+                result = build_video(pkg, cfg, outdir, style=style, publish_at=slot)
         except Exception as e:  # noqa: BLE001
             traceback.print_exc()
             failures += 1
             summaries.append({"id": pkg["id"], "title": pkg["title"], "status": f"render failed: {type(e).__name__}: {e}"[:300]})
-            if not args.dry_run and path.parent == QUEUE_DIR:
+            if not args.dry_run and path.parent in (QUEUE_DIR, LONGFORM_QUEUE_DIR):
                 _note_attempt(path, pkg, str(e))
             continue
 
         summary = {"id": pkg["id"], "title": pkg["title"], "duration_seconds": round(result["duration"], 1),
-                   "voice": result["tts_engine"], "footage": result["footage"], "style": style}
+                   "voice": result["tts_engine"], "footage": result["footage"], "style": style, "kind": kind}
         print(f"[run] rendered {result['video'].name} ({result['duration']:.1f}s, voice={result['tts_engine']})")
         if args.dry_run:
             summary["status"] = "rendered (dry run)"
@@ -494,11 +568,11 @@ def main(argv: list[str] | None = None) -> int:
             try:
                 lead = dt.timedelta(minutes=max(5, int(cfg.get("release.lead_minutes", 20)) // 2))
                 if dt.datetime.fromisoformat(slot.replace("Z", "+00:00")) < dt.datetime.now(dt.timezone.utc) + lead:
-                    slot = release_slot(cfg, claimed)
+                    slot = release_slot(cfg, claimed, kind=kind)
             except ValueError:
-                slot = release_slot(cfg, claimed)
+                slot = release_slot(cfg, claimed, kind=kind)
         try:
-            body = build_body(pkg, cfg, slot)
+            body = build_body(pkg, cfg, slot, shorts=(kind != "longform"))
             video_id = upload_video(yt, result["video"], body)
             print(f"[run] uploaded: https://youtube.com/shorts/{video_id}  "
                   f"({'goes public at ' + slot if slot else body['status']['privacyStatus']})")
@@ -521,7 +595,7 @@ def main(argv: list[str] | None = None) -> int:
             traceback.print_exc()
             failures += 1
             summaries.append({"id": pkg["id"], "title": pkg["title"], "status": f"upload failed: {type(e).__name__}: {e}"[:300]})
-            if path.parent == QUEUE_DIR:
+            if path.parent in (QUEUE_DIR, LONGFORM_QUEUE_DIR):
                 _note_attempt(path, pkg, str(e))
             continue
 
@@ -535,7 +609,7 @@ def main(argv: list[str] | None = None) -> int:
             summaries.append({"status": f"LIMIT RAISED: YouTube now allows {lim['daily_limit']} uploads per 24 h", "title": pkg["title"]})
         pkg.pop("_attempts", None)
         pkg["youtube_id"] = video_id
-        pkg["url"] = f"https://youtube.com/shorts/{video_id}"
+        pkg["url"] = f"https://youtube.com/shorts/{video_id}" if kind == "shorts" else f"https://youtu.be/{video_id}"
         pkg["uploaded_at"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
         pkg["privacy_requested"] = body["status"]["privacyStatus"]
         pkg["publish_at"] = slot
@@ -544,6 +618,7 @@ def main(argv: list[str] | None = None) -> int:
         pkg["tts_engine"] = result["tts_engine"]
         pkg["duration_seconds"] = round(result["duration"], 1)
         pkg["style"] = style
+        pkg["kind"] = kind
         if cfg.get("cta.first_comment_enabled", True):
             try:
                 if try_first_comment_now(yt, cfg, pkg):
@@ -552,9 +627,10 @@ def main(argv: list[str] | None = None) -> int:
                 print(f"[run] first comment not posted yet ({type(e).__name__}); the next run will do it once the video is public")
         PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
         _save(PUBLISHED_DIR / path.name, pkg)
-        if path.parent == QUEUE_DIR:
+        if path.parent in (QUEUE_DIR, LONGFORM_QUEUE_DIR):
             path.unlink()
-        summary.update({"status": "uploaded", "url": pkg["url"], "goes_public_at": slot or "immediately"})
+        summary.update({"status": "uploaded", "url": (pkg["url"] if kind == "shorts" else f"https://youtu.be/{video_id}"),
+                        "goes_public_at": slot or "immediately"})
         summaries.append(summary)
         shutil.rmtree(outdir / "clips", ignore_errors=True)  # keep the runner's disk small
         shutil.rmtree(outdir / "tts", ignore_errors=True)

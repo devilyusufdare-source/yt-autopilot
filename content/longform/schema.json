@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Long-form content package",
+  "description": "One ready-to-render LONG video (16:9, 8-11 minutes): a themed list of 8-12 verified facts, one chapter each. Files live in content/longform/queue/<id>.json. The job renders one per day (when the daily 8 PM slot is free), uploads it and moves the record to content/published/ with kind=longform.",
+  "type": "object",
+  "required": ["id", "kind", "theme", "title", "intro", "segments", "outro", "description", "tags"],
+  "additionalProperties": true,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]{3,60}$",
+      "description": "Date created + slug, e.g. 2026-10-17-space-facts-that-sound-fake. Also the file name."
+    },
+    "kind": { "const": "longform" },
+    "theme": { "type": "string", "description": "One of the topics in channel.yml (space, animals, science, history...) - picks fallback footage and colours." },
+    "title": {
+      "type": "string", "minLength": 15, "maxLength": 100,
+      "description": "Searchable list title with the number in it, e.g. '10 Space Facts That Sound Fake (But Are Real)'. No < or >."
+    },
+    "intro": {
+      "type": "string",
+      "description": "24-60 words the voice says first (10-20 s): state the theme, promise the best one is last, no 'welcome to the channel'. This is chapter 'Intro'."
+    },
+    "segments": {
+      "type": "array", "minItems": 8, "maxItems": 12,
+      "description": "One fact per segment, in order. Put the 2nd-strongest fact first and the strongest LAST (tell people so in the intro).",
+      "items": {
+        "type": "object",
+        "required": ["heading", "text", "keywords", "sources"],
+        "properties": {
+          "heading": { "type": "string", "minLength": 3, "maxLength": 60, "description": "Chapter name shown on screen and in the description, e.g. 'It rains glass on HD 189733b'." },
+          "text": { "type": "string", "description": "55-150 words the voice says (25-55 s). First sentence = the fact itself, plain words. Then the proof (number, comparison, who found it), then why, then one line that lands it." },
+          "keywords": {
+            "type": "array", "minItems": 2, "maxItems": 3,
+            "items": { "type": "string", "minLength": 2, "maxLength": 60 },
+            "description": "2-3 concrete footage searches for this segment, shown one after another, e.g. ['blue planet space', 'glass shards storm', 'telescope observatory night']."
+          },
+          "sources": { "type": "array", "minItems": 1, "items": { "type": "string" }, "description": "1-2 URLs that verify THIS fact (listed in the description)." }
+        }
+      }
+    },
+    "outro": { "type": "string", "description": "15-60 words: the payoff line, a question for the comments, and 'a new fact every evening' (no 'like and subscribe' begging)." },
+    "description": { "type": "string", "minLength": 40, "description": "3-5 lines: what the video covers, the strongest fact as a teaser, a question. Chapters, hashtags, footer and sources are appended automatically." },
+    "tags": { "type": "array", "minItems": 5, "maxItems": 25, "items": { "type": "string" } },
+    "hashtags": { "type": "array", "maxItems": 5, "items": { "type": "string" }, "description": "3-5 hashtags such as #facts #space - never #shorts." },
+    "thumbnail_text": { "type": "string", "minLength": 3, "maxLength": 40, "description": "3-5 huge words for the thumbnail, e.g. 'IT RAINS GLASS'." },
+    "thumbnail_label": { "type": "string", "maxLength": 20, "description": "Small pill on the thumbnail, default '10 FACTS'." },
+    "intro_keywords": { "type": "string", "description": "Optional footage search for the intro (default: first segment's first keyword)." },
+    "outro_keywords": { "type": "string", "description": "Optional footage search for the outro." },
+    "priority": { "type": "integer", "minimum": 0, "maximum": 10 }
+  }
+}

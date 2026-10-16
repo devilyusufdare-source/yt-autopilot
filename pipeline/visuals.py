@@ -92,6 +92,7 @@ class Visuals:
         self.credits: list[dict] = []
         self.pixabay_key = os.environ.get("PIXABAY_API_KEY") or None
         self.pexels_key = cfg.pexels_key
+        self.landscape = cfg.width > cfg.height   # long videos are 16:9; Shorts are portrait
 
     # ------------------------------------------------------------------ providers
     def _pixabay_videos(self, query: str) -> list[Candidate]:
@@ -114,16 +115,21 @@ class Visuals:
     def _pexels_videos(self, query: str) -> list[Candidate]:
         if not self.pexels_key:
             return []
-        data = _get_json(PEXELS_SEARCH, {"query": query, "orientation": "portrait", "size": "medium", "per_page": 15},
+        orientation = "landscape" if self.landscape else "portrait"
+        data = _get_json(PEXELS_SEARCH, {"query": query, "orientation": orientation, "size": "medium", "per_page": 15},
                          headers={"Authorization": self.pexels_key})
         out: list[Candidate] = []
         for v in (data or {}).get("videos", []):
             files = [f for f in v.get("video_files", []) if f.get("link") and f.get("width") and f.get("height")]
-            portrait = [f for f in files if f["height"] > f["width"]]
-            pool = portrait or files
+            if self.landscape:
+                fitting = [f for f in files if f["width"] >= f["height"]]
+            else:
+                fitting = [f for f in files if f["height"] > f["width"]]
+            pool = fitting or files
             if not pool:
                 continue
-            pool.sort(key=lambda f: (abs(f["height"] - 1920), -f["height"]))
+            target = 1080 if self.landscape else 1920
+            pool.sort(key=lambda f: (abs(f["height"] - target), -f["height"]))
             f = pool[0]
             out.append(Candidate("pexels-video", f"pex{v['id']}", f["link"], int(f["width"]), int(f["height"]),
                                  float(v.get("duration", 0)), v.get("url", ""), (v.get("user") or {}).get("name", "")))
@@ -133,7 +139,8 @@ class Visuals:
         if not self.pixabay_key:
             return []
         data = _get_json(PIXABAY_PHOTOS, {"key": self.pixabay_key, "q": query[:100], "per_page": 20, "safesearch": "true",
-                                          "image_type": "photo", "orientation": "vertical", "min_height": 1280})
+                                          "image_type": "photo", "orientation": "horizontal" if self.landscape else "vertical",
+                                          "min_height": 720 if self.landscape else 1280})
         out: list[Candidate] = []
         for hit in (data or {}).get("hits", []):
             url = hit.get("largeImageURL")
@@ -147,9 +154,9 @@ class Visuals:
         cands = [c for c in cands if c.uid not in self.used]
         if not cands:
             return None
-        # Portrait first, then long enough to avoid looping, then top results (most relevant).
-        portrait = [c for c in cands if c.portrait]
-        pool = portrait or cands
+        # Matching orientation first, then long enough to avoid looping, then top results (most relevant).
+        fitting = [c for c in cands if (not c.portrait) == self.landscape]
+        pool = fitting or cands
         long_enough = [c for c in pool if c.kind == "image" or c.duration >= min_duration]
         pool = (long_enough or pool)[:8]
         return self.rng.choice(pool)

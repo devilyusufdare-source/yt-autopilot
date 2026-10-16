@@ -13,6 +13,9 @@ automatic (GitHub Actions, several times a day, oldest idea first). Your only jo
    - `content/schema.json` → the exact file format. `content/queue/2026-10-15-doorway-effect.json`
      and anything in `content/published/` are good examples of tone and length.
    - `content/published/*.json` → every title and hook already used. **Never repeat a fact.**
+     Records with `"kind": "longform"` are long videos: their `segments[].heading` are facts too —
+     do not write a Short about a fact that is a segment in a published or queued
+     (`content/longform/queue/`) long video.
    - `content/stats.json` (if present) → views per video and per topic. When at least 5 videos
      have stats, lean towards the topics and hook styles that get the most views, but keep the
      rotation varied (no topic more than 2 days in a row).
