@@ -163,5 +163,14 @@
   ],
   "thumbnail_text": "IT RAINS GLASS",
   "thumbnail_label": "10 FACTS",
-  "priority": 5
+  "priority": 5,
+  "chapters_text": "Chapters:\n0:00 Intro\n0:17 1. A planet where it rains glass sideways\n1:07 2. A day on Venus is longer than its year\n1:55 3. Saturn would float in water\n2:40 4. It rains diamonds on Neptune\n3:27 5. The red planet has blue sunsets\n4:15 6. A volcano three times taller than Everest\n5:04 7. Footprints on the Moon will last millions of years\n5:49 8. Jupiter doesn't orbit the Sun. Not exactly\n6:36 9. The centre of our galaxy might taste like raspberries\n7:26 10. A sugar cube of this star weighs a billion tons",
+  "youtube_id": "vPc1FlBoFuM",
+  "url": "https://youtu.be/vPc1FlBoFuM",
+  "uploaded_at": "2026-10-16T19:18:00+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-17T17:00:00Z",
+  "tts_engine": "offline",
+  "duration_seconds": 504.0,
+  "style": "longform"
 }
