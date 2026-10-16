@@ -45,6 +45,21 @@ facebook:
   long_videos: true
   footer: "Follow Mind Unlocked Facts for a new verified fact every day."
 
+# Client prospecting (python -m pipeline.prospects / the "Find client prospects" workflow):
+# niches where small creators post Shorts and would buy ready-made ones.
+prospects:
+  queries:
+    - "study tips for students"
+    - "english speaking practice"
+    - "personal finance tips"
+    - "gym workout motivation"
+    - "psychology facts"
+    - "history facts"
+    - "coding tips for beginners"
+    - "productivity tips"
+    - "science facts"
+    - "space facts"
+
 # Long videos (16:9, 8-11 minutes): a themed list of 8-12 verified facts, one chapter each, from
 # content/longform/queue/ (written by the long-form writer task, see AGENT_LONGFORM.md).
 # One is made for every free `longform_slots` time at most `build_hours_ahead` hours ahead.

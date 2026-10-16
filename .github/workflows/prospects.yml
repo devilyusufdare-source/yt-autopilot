@@ -1,0 +1,64 @@
+name: Find client prospects
+
+# Manual: Actions -> Find client prospects -> Run workflow. Searches YouTube (read-only, same key
+# as the uploader) for small, active Shorts channels in the given niches and commits
+# content/prospects.md + content/prospects.csv.
+on:
+  workflow_dispatch:
+    inputs:
+      queries:
+        description: "Search phrases separated by ; (empty = prospects.queries from channel.yml)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-video
+  cancel-in-progress: false
+
+jobs:
+  prospects:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - run: |
+          git fetch origin "${GITHUB_REF_NAME}"
+          git reset --hard "origin/${GITHUB_REF_NAME}"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Search YouTube for prospects
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          QUERIES: ${{ inputs.queries }}
+        run: |
+          if [ -n "$QUERIES" ]; then
+            python - <<'PY'
+          import os, shlex, subprocess, sys
+          qs = [q.strip() for q in os.environ["QUERIES"].split(";") if q.strip()]
+          sys.exit(subprocess.call([sys.executable, "-m", "pipeline.prospects", *qs]))
+          PY
+          else
+            python -m pipeline.prospects --from-config
+          fi
+      - name: Commit the list
+        run: |
+          git config user.name "yt-autopilot"
+          git config user.email "yt-autopilot@users.noreply.github.com"
+          git add content/prospects.md content/prospects.csv
+          if git diff --cached --quiet; then echo "nothing to commit"; else
+            git commit -m "prospects: refresh list"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
+          echo "### Prospects" >> "$GITHUB_STEP_SUMMARY"
+          head -n 40 content/prospects.md >> "$GITHUB_STEP_SUMMARY" || true
