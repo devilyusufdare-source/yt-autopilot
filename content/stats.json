@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T19:19:47+00:00",
+  "updated_at": "2026-10-16T20:46:54+00:00",
   "total_videos": 21,
-  "total_views": 12328,
+  "total_views": 12394,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -10,13 +10,13 @@
     },
     "science": {
       "videos": 2,
-      "avg_views": 1297,
+      "avg_views": 1296,
       "best_views": 1399
     },
     "animals": {
       "videos": 5,
-      "avg_views": 796,
-      "best_views": 1235
+      "avg_views": 797,
+      "best_views": 1239
     },
     "human body": {
       "videos": 3,
@@ -25,19 +25,19 @@
     },
     "history": {
       "videos": 3,
-      "avg_views": 191,
-      "best_views": 337
+      "avg_views": 198,
+      "best_views": 339
     },
     "space": {
       "videos": 5,
-      "avg_views": 773,
-      "best_views": 1348
+      "avg_views": 782,
+      "best_views": 1353
     }
   },
   "by_style": {
     "classic": {
       "videos": 19,
-      "avg_views": 649,
+      "avg_views": 651,
       "over_1500": 0
     },
     "longform": {
@@ -47,7 +47,7 @@
     },
     "punch": {
       "videos": 1,
-      "avg_views": 0,
+      "avg_views": 32,
       "over_1500": 0
     }
   },
@@ -61,13 +61,13 @@
     {
       "title": "A Day on Venus Is Longer Than Its Year",
       "topic": "space",
-      "views": 1348,
+      "views": 1353,
       "hook": "A day on Venus is longer than its entire year."
     },
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1235,
+      "views": 1239,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -85,7 +85,7 @@
     {
       "title": "A Single Cloud Weighs Over a Million Pounds",
       "topic": "science",
-      "views": 1195,
+      "views": 1194,
       "hook": "A single cloud can weigh over a million pounds."
     },
     {
@@ -133,7 +133,7 @@
       "hook": "A single cloud can weigh over a million pounds.",
       "published_at": "2026-10-15T18:56:15Z",
       "privacy": "public",
-      "views": 1195,
+      "views": 1194,
       "likes": 52,
       "comments": 1,
       "url": "https://youtube.com/shorts/AatgGso0_2I"
@@ -145,8 +145,8 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1235,
-      "likes": 53,
+      "views": 1239,
+      "likes": 54,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
     },
@@ -181,8 +181,8 @@
       "hook": "The Great Pyramid used to be bright white and shiny.",
       "published_at": "2026-10-16T02:54:28Z",
       "privacy": "public",
-      "views": 232,
-      "likes": 10,
+      "views": 250,
+      "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/TRY06yZdLIs"
     },
@@ -193,8 +193,8 @@
       "hook": "On Neptune, it rains diamonds.",
       "published_at": "2026-10-16T05:30:13Z",
       "privacy": "public",
-      "views": 207,
-      "likes": 9,
+      "views": 212,
+      "likes": 10,
       "comments": 0,
       "url": "https://youtube.com/shorts/UaeMKmWXL5w"
     },
@@ -217,8 +217,8 @@
       "hook": "Sharks are older than trees.",
       "published_at": "2026-10-16T10:18:30Z",
       "privacy": "public",
-      "views": 107,
-      "likes": 6,
+      "views": 108,
+      "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/dAX8nRPkNMY"
     },
@@ -241,7 +241,7 @@
       "hook": "A day on Venus is longer than its entire year.",
       "published_at": "2026-10-14T21:29:03Z",
       "privacy": "public",
-      "views": 1348,
+      "views": 1353,
       "likes": 49,
       "comments": 0,
       "url": "https://youtube.com/shorts/L1YCXdSWEZ4"
@@ -253,8 +253,8 @@
       "hook": "Oxford University is older than the Aztec Empire.",
       "published_at": "2026-10-15T00:30:19Z",
       "privacy": "public",
-      "views": 337,
-      "likes": 7,
+      "views": 339,
+      "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/V-ykHcqs_OA"
     },
@@ -290,7 +290,7 @@
       "published_at": "2026-10-15T02:30:20Z",
       "privacy": "public",
       "views": 220,
-      "likes": 7,
+      "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/I75xo-ENbtA"
     },
@@ -314,7 +314,7 @@
       "published_at": "2026-10-15T04:30:13Z",
       "privacy": "public",
       "views": 323,
-      "likes": 10,
+      "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/EgjZfYUh9jE"
     },
@@ -359,10 +359,10 @@
       "topic": "space",
       "style": "punch",
       "hook": "A sugar cube of this star would weigh a billion tons.",
-      "published_at": "2026-10-16T19:19:43Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-10-16T20:00:05Z",
+      "privacy": "public",
+      "views": 32,
+      "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
     }
