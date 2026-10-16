@@ -1,0 +1,107 @@
+{
+  "id": "2026-10-20-human-body-facts-that-sound-fake",
+  "kind": "longform",
+  "theme": "human body",
+  "title": "10 Human Body Facts That Sound Fake (But Are 100% Real)",
+  "intro": "Ten facts about your own body that sound made up. Every one is checked against a university, a hospital or a published study, with the sources in the description. We start with an eye that can catch a single particle of light, and we finish with a woman who played the violin while surgeons were inside her brain. Let's go.",
+  "intro_keywords": "eye close up iris macro",
+  "segments": [
+    {
+      "heading": "Your eyes can detect a single photon",
+      "text": "Your eyes can detect a single particle of light. Not a flash, not a glow. One photon, the smallest unit of light there is. In 2016, a team led by Alipasha Vaziri at Rockefeller University in New York fired single photons into the eyes of volunteers sitting in total darkness. They made each photon by splitting one high-energy photon into a pair inside a special crystal, sending one half to a detector and the other half to the eye, so they knew exactly when a photon arrived. Across more than thirty thousand trials, people reported the photon far more often than chance would allow. The old textbooks said you needed five to seven photons before the eye noticed anything. Vaziri pointed out that any man-made detector this sensitive would have to be cooled and shielded from noise. Yours runs warm, inside your head, for free.",
+      "keywords": ["eye close up iris", "dark laboratory laser", "single light beam darkness"],
+      "sources": [
+        "https://www.rockefeller.edu/news/11808-study-suggests-humans-can-detect-even-the-smallest-units-of-light/",
+        "https://www.imp.ac.at/news/humans-can-see-single-photons"
+      ]
+    },
+    {
+      "heading": "Your heart doesn't need your brain to beat",
+      "text": "Your heart doesn't need your brain to beat. It has its own electrical system. According to the US National Heart, Lung and Blood Institute, every beat starts in a cluster of pacemaker cells in the right atrium, called the sinoatrial node. The signal spreads through the heart, pauses for a split second so the lower chambers can fill, then fires the big squeeze. Your brain and your hormones only adjust the speed. The rhythm itself is built in. That's why a heart can keep beating outside the body. Transplant teams now use a device nicknamed the heart in a box. It restarts the donor heart with an electrical pulse and pumps warm, oxygen-rich blood through it, so the heart sits there beating in a case on its way to the operating theatre, surviving nearly twice as long as a heart packed in ice. Your heart is, quite literally, self-starting.",
+      "keywords": ["heart beating animation", "surgeons operating room", "ecg heartbeat monitor"],
+      "sources": [
+        "https://www.nhlbi.nih.gov/health/heart/heart-beats",
+        "https://www.cbsnews.com/sanfrancisco/news/heart-in-a-box-transplant-breakthrough-transmedics-organ-care-device"
+      ]
+    },
+    {
+      "heading": "You replace 330 billion cells a day",
+      "text": "Your body replaces about three hundred and thirty billion cells every single day. That's roughly one percent of everything you're made of, gone and rebuilt before you go to bed. The number comes from Ron Sender and Ron Milo at the Weizmann Institute of Science in Israel, who published it in the journal Nature Medicine in 2021. Nearly all of that turnover is two things. Blood cells, which live between three days and four months, and the cells lining your gut, which usually last less than a week. Fat cells and muscle cells, by contrast, can hang around for decades. Add it up and in about eighty to a hundred days, the cells in you have been replaced by weight, give or take the long-lived ones. Work it out per second, and you are building nearly four million new cells while you blink. Every few months, you are a mostly new person who kept the same memories.",
+      "keywords": ["cells dividing microscope", "red blood cells flowing", "hourglass sand timelapse"],
+      "sources": [
+        "https://www.scientificamerican.com/article/our-bodies-replace-billions-of-cells-every-day/",
+        "https://wis-wander.weizmann.ac.il/node/11205"
+      ]
+    },
+    {
+      "heading": "Half the cells in your body aren't human",
+      "text": "About half the cells in your body aren't human. They're bacteria. For decades, the textbook claim was ten bacteria for every human cell. Then in 2016, Ron Sender, Shai Fuchs and Ron Milo at the Weizmann Institute actually did the sums, organ by organ, and published them in the journal PLOS Biology. Their answer for an average adult man: about thirty trillion human cells and just under forty trillion bacterial cells. That's a ratio much closer to one to one. Most of the bacteria live in your large intestine, which holds more of them than every other organ combined. The old estimate went wrong by assuming bacteria are always a thousand times smaller than human cells, when both come in wildly different sizes. So by headcount, you're roughly half human, half microbe. And since so many of them live in your colon, the authors note that a trip to the bathroom can tip the balance back in your favour for a while.",
+      "keywords": ["bacteria microscope colorful", "petri dish colonies", "intestine 3d animation"],
+      "sources": [
+        "https://wis-wander.weizmann.ac.il/node/7871",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4991899/"
+      ]
+    },
+    {
+      "heading": "You can't tickle yourself",
+      "text": "You cannot tickle yourself, and scientists know exactly why. Neuroscientist Sarah-Jayne Blakemore and her colleagues at University College London put people in brain scanners and tickled them, sometimes by machine, sometimes by their own hand. When someone else did the tickling, two areas lit up: the somatosensory cortex, which handles touch, and the anterior cingulate cortex, which handles pleasant feelings. When people tickled themselves, both areas went much quieter. The culprit is the cerebellum, the fist-sized lump at the back of your brain that monitors your movements. It predicts exactly what your own fingers are about to feel, and it cancels the sensation in advance. The team even built a tickling robot. Add a short delay between your hand moving and the touch arriving, and suddenly it feels ticklish again. The longer the delay, the stronger the tickle. Your brain simply refuses to be surprised by you.",
+      "keywords": ["child laughing tickled", "brain scan mri", "robot arm laboratory"],
+      "sources": [
+        "https://www.scientificamerican.com/article/why-cant-a-person-tickle/",
+        "https://www.ucl.ac.uk/news/headlines/2016/sep/why-cant-i-tickle-myself"
+      ]
+    },
+    {
+      "heading": "The front of your eye breathes air",
+      "text": "The clear window at the front of your eye breathes air. The cornea has no blood vessels at all, and it can't have any, because blood is opaque and the cornea has to stay perfectly transparent or you would be blind. So it gets its oxygen another way: from your tears, and directly from the atmosphere. University of Michigan Health puts it plainly. The cornea has no blood supply of its own, so it takes oxygen only from tears and straight from the air. That is also why contact lenses are a problem if you overdo them. A lens sits on the cornea like a lid, the oxygen supply drops, and the cornea swells. Sleeping in lenses cuts the supply even further. It is one of the very few tissues in you that gets its oxygen without any help from your lungs. Every blink spreads a fresh film of tears so the surface of your eye can take a breath.",
+      "keywords": ["eye macro blink", "contact lens finger", "tears eye closeup"],
+      "sources": [
+        "https://africacheck.org/fact-checks/meta-programme-fact-checks/yes-eyes-cornea-doesnt-have-blood-and-gets-its-oxygen-air"
+      ]
+    },
+    {
+      "heading": "You were born with about 300 bones",
+      "text": "You were born with about three hundred bones, and now you have two hundred and six. None of them fell out. They merged. A newborn's skeleton is partly cartilage, the tough, bendy stuff in your ear, which is what lets a baby fold up in the womb and squeeze through the birth canal. As the child grows, cartilage hardens into bone and neighbouring pieces fuse together. The skull alone starts as around forty-four separate elements, held together by soft spots called fontanelles, and it knits into a solid helmet during roughly the first year. The upper arm bone starts as three or four pieces that take until puberty to finish joining. Most of the merging is done around the teenage years, but the collarbone is a straggler. It isn't completely formed until your early to mid twenties. So an adult skeleton isn't a baby skeleton grown big. It's a baby skeleton, assembled.",
+      "keywords": ["newborn baby hand", "skeleton x-ray", "child growing jumping"],
+      "sources": [
+        "https://www.healthline.com/health/how-many-bones-does-a-baby-have",
+        "https://www.popsci.com/story/health/bones-human-skeleton/"
+      ]
+    },
+    {
+      "heading": "Your gut is the size of a studio flat",
+      "text": "The inside of your gut has the surface area of a small apartment. For years, textbooks said the lining of your digestive tract, with all its folds and tiny finger-like projections, would cover a tennis court, somewhere between one hundred and eighty and three hundred square metres. In 2014, Herbert Helander and Lars Fändriks at the University of Gothenburg in Sweden went back and measured it properly, using modern imaging and microscope data, and published the result in the Scandinavian Journal of Gastroenterology. The real figure is thirty to forty square metres, most of it in the small intestine. That's a studio flat, not a tennis court. It's still astonishing that it fits inside you. The gut manages it by folding, then folding the folds, then covering the folds with microscopic hairs. All of that area exists for one job: pulling nutrients out of lunch. And as you heard earlier, its lining is swapped for new cells every few days.",
+      "keywords": ["intestine villi microscope", "tennis court aerial", "small apartment interior"],
+      "sources": [
+        "https://akademiliv.se/en/2014/04/18427/index.html",
+        "https://www.sciencenordic.com/forskningno-gut-human-body/guts-match-the-surface-area-of-a-studio-apartment/1400373"
+      ]
+    },
+    {
+      "heading": "Your liver grows back",
+      "text": "Your liver can grow itself back. Surgeons can cut out a large part of it, and within weeks it has rebuilt almost all of what was lost. This isn't a lab curiosity. It's how living-donor liver transplants work. According to the Mayo Clinic, surgeons remove a portion of a healthy donor's liver and place it in the patient, and both pieces, the donor's remaining liver and the transplanted part, grow back to full size within a few weeks. Doctor Benjamin Samstein, chief of liver transplantation at NewYork-Presbyterian and Weill Cornell, says regrowth starts within days and can be seen on a scan in about a week. The liver does this because its cells, normally resting, can start dividing on demand when tissue is missing. No other large organ in your body comes close. Kidney, heart, lung: lose a chunk and it's gone. The liver just quietly refills the gap and gets on with filtering your blood.",
+      "keywords": ["liver anatomy 3d", "surgery operating theatre", "hospital corridor"],
+      "sources": [
+        "https://www.mayoclinic.org/living-donor/art-20037234",
+        "https://www.nyp.org/healthmatters/what-you-dont-know-about-your-liver-the-bodys-super-organ"
+      ]
+    },
+    {
+      "heading": "Your brain can't feel pain",
+      "text": "Your brain cannot feel pain. The organ that processes every ache in your body has no pain receptors of its own. The Society for Neuroscience explains that the sensors that detect damage, called nociceptors, sit in your skin, your joints and the membranes wrapped around the brain, but not in the brain tissue itself. That is why surgeons can keep you awake during brain surgery. In 2020, at King's College Hospital in London, a fifty-three-year-old violinist named Dagmar Turner had a tumour removed from near the parts of her brain that control her left hand. The team put her under to open the skull, then woke her up and handed her the violin. She played while they operated, so neurosurgeon Keyoumars Ashkan could tell instantly if he was getting too close. They removed over ninety percent of the tumour, and she kept full use of her hand. Her brain felt none of it. It was too busy keeping time.",
+      "keywords": ["violin playing closeup", "brain surgery operating room", "neurons firing animation"],
+      "sources": [
+        "https://brainfacts.org/thinking-sensing-and-behaving/pain/2021/why-doesnt-the-brain-have-nociceptors-020321",
+        "https://www.wgbh.org/news/national/2020-02-19/musician-plays-her-violin-during-brain-surgery"
+      ]
+    }
+  ],
+  "outro": "So that's an eye that catches single photons, a heart that beats in a box, and a brain that can't feel the surgeon's knife. Which of these are you going to test on someone tomorrow? Tell me in the comments. There's a new fact here every evening.",
+  "outro_keywords": "crowd of people walking city timelapse",
+  "description": "Ten facts about the human body that sound fake but are completely true, from an eye that can detect a single photon and a heart that keeps beating in a box to a liver that grows itself back. We finish with the woman who played the violin while surgeons removed a tumour from her brain, because the brain cannot feel pain. Every fact is checked against a university, a hospital or a published study; the sources are listed below.\nWhich one are you going to test on someone tomorrow?",
+  "tags": ["human body facts", "facts that sound fake", "mind blowing facts", "single photon eye", "heart in a box", "cells replaced every day", "bacteria in human body", "why can't you tickle yourself", "cornea no blood vessels", "babies born with 300 bones", "liver regeneration", "awake brain surgery violin", "brain no pain receptors", "10 facts", "body facts", "mind unlocked"],
+  "hashtags": ["#humanbody", "#facts", "#science", "#biology"],
+  "thumbnail_text": "YOUR BRAIN FEELS NO PAIN",
+  "thumbnail_label": "10 FACTS",
+  "priority": 0
+}
