@@ -1,43 +1,43 @@
 {
-  "updated_at": "2026-10-16T15:36:47+00:00",
+  "updated_at": "2026-10-16T17:04:03+00:00",
   "total_videos": 19,
-  "total_views": 11694,
+  "total_views": 11906,
   "by_topic": {
     "psychology": {
       "videos": 2,
       "avg_views": 342,
-      "best_views": 362
+      "best_views": 363
     },
     "science": {
       "videos": 2,
-      "avg_views": 1288,
-      "best_views": 1391
+      "avg_views": 1290,
+      "best_views": 1395
     },
     "animals": {
       "videos": 5,
-      "avg_views": 775,
-      "best_views": 1195
+      "avg_views": 782,
+      "best_views": 1204
     },
     "human body": {
       "videos": 3,
-      "avg_views": 177,
-      "best_views": 224
+      "avg_views": 209,
+      "best_views": 244
     },
     "history": {
       "videos": 3,
       "avg_views": 173,
-      "best_views": 330
+      "best_views": 332
     },
     "space": {
       "videos": 4,
-      "avg_views": 876,
-      "best_views": 1197
+      "avg_views": 895,
+      "best_views": 1234
     }
   },
   "by_style": {
     "classic": {
       "videos": 19,
-      "avg_views": 615,
+      "avg_views": 627,
       "over_1500": 0
     }
   },
@@ -45,19 +45,19 @@
     {
       "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
       "topic": "science",
-      "views": 1391,
+      "views": 1395,
       "hook": "There are more trees on Earth than stars in the Milky Way."
     },
     {
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
-      "views": 1197,
+      "views": 1234,
       "hook": "There's a planet where it rains glass. Sideways."
     },
     {
       "title": "Wombats Poop Cubes. Scientists Finally Know Why",
       "topic": "animals",
-      "views": 1195,
+      "views": 1204,
       "hook": "Wombats poop cubes. Scientists finally figured out how."
     },
     {
@@ -79,16 +79,16 @@
       "hook": "A day on Venus is longer than its entire year."
     },
     {
-      "title": "The Jellyfish That Can Live Forever",
-      "topic": "animals",
-      "views": 1039,
-      "hook": "There's a jellyfish that can live forever."
-    },
-    {
       "title": "Saturn Would Float in Water",
       "topic": "space",
-      "views": 1010,
+      "views": 1050,
       "hook": "Saturn would float in water."
+    },
+    {
+      "title": "The Jellyfish That Can Live Forever",
+      "topic": "animals",
+      "views": 1046,
+      "hook": "There's a jellyfish that can live forever."
     },
     {
       "title": "Why an Octopus Has Three Hearts and Blue Blood",
@@ -99,7 +99,7 @@
     {
       "title": "Why You Forget Why You Walked Into a Room",
       "topic": "psychology",
-      "views": 362,
+      "views": 363,
       "hook": "Your brain wipes part of your memory every time you walk through a doorway."
     }
   ],
@@ -111,7 +111,7 @@
       "hook": "Your brain wipes part of your memory every time you walk through a doorway.",
       "published_at": "2026-10-14T19:30:35Z",
       "privacy": "public",
-      "views": 362,
+      "views": 363,
       "likes": 12,
       "comments": 0,
       "url": "https://youtube.com/shorts/GmLlv8BjIu8"
@@ -147,8 +147,8 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 88,
-      "likes": 7,
+      "views": 163,
+      "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
     },
@@ -159,7 +159,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1039,
+      "views": 1046,
       "likes": 49,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -171,7 +171,7 @@
       "hook": "The Great Pyramid used to be bright white and shiny.",
       "published_at": "2026-10-16T02:54:28Z",
       "privacy": "public",
-      "views": 190,
+      "views": 186,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/TRY06yZdLIs"
@@ -195,7 +195,7 @@
       "hook": "Saturn would float in water.",
       "published_at": "2026-10-16T07:54:25Z",
       "privacy": "public",
-      "views": 1010,
+      "views": 1050,
       "likes": 30,
       "comments": 0,
       "url": "https://youtube.com/shorts/Q6SQw6zTdW8"
@@ -207,7 +207,7 @@
       "hook": "Sharks are older than trees.",
       "published_at": "2026-10-16T10:18:30Z",
       "privacy": "public",
-      "views": 69,
+      "views": 88,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/dAX8nRPkNMY"
@@ -219,7 +219,7 @@
       "hook": "The shortest war in history lasted 38 minutes.",
       "published_at": "2026-10-16T14:30:32Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/CsR1AX8J4XU"
@@ -243,7 +243,7 @@
       "hook": "Oxford University is older than the Aztec Empire.",
       "published_at": "2026-10-15T00:30:19Z",
       "privacy": "public",
-      "views": 330,
+      "views": 332,
       "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/V-ykHcqs_OA"
@@ -279,7 +279,7 @@
       "hook": "There are more trees on Earth than stars in the Milky Way.",
       "published_at": "2026-10-15T03:30:08Z",
       "privacy": "public",
-      "views": 1391,
+      "views": 1395,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/8v2IWv2BlSA"
@@ -303,7 +303,7 @@
       "hook": "Your body is glowing right now. You just can't see it.",
       "published_at": "2026-10-15T05:30:37Z",
       "privacy": "public",
-      "views": 224,
+      "views": 244,
       "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/T00_3CUDt5s"
@@ -315,7 +315,7 @@
       "hook": "There's a planet where it rains glass. Sideways.",
       "published_at": "2026-10-15T06:30:27Z",
       "privacy": "public",
-      "views": 1197,
+      "views": 1234,
       "likes": 57,
       "comments": 2,
       "url": "https://youtube.com/shorts/_AAxfyJTzHU"
@@ -327,7 +327,7 @@
       "hook": "Wombats poop cubes. Scientists finally figured out how.",
       "published_at": "2026-10-15T07:30:08Z",
       "privacy": "public",
-      "views": 1195,
+      "views": 1204,
       "likes": 28,
       "comments": 0,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4"
