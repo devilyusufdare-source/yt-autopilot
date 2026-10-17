@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T02:45:51+00:00",
-  "total_videos": 23,
-  "total_views": 12602,
+  "updated_at": "2026-10-17T05:32:04+00:00",
+  "total_videos": 26,
+  "total_views": 12709,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -10,44 +10,44 @@
     },
     "science": {
       "videos": 2,
-      "avg_views": 1299,
+      "avg_views": 1300,
       "best_views": 1403
     },
     "animals": {
       "videos": 7,
-      "avg_views": 576,
+      "avg_views": 578,
       "best_views": 1275
     },
     "human body": {
       "videos": 3,
-      "avg_views": 223,
-      "best_views": 244
+      "avg_views": 226,
+      "best_views": 245
     },
     "history": {
-      "videos": 3,
-      "avg_views": 204,
+      "videos": 4,
+      "avg_views": 153,
       "best_views": 343
     },
     "space": {
-      "videos": 5,
-      "avg_views": 800,
+      "videos": 6,
+      "avg_views": 680,
       "best_views": 1353
     }
   },
   "by_style": {
     "classic": {
-      "videos": 19,
-      "avg_views": 658,
+      "videos": 21,
+      "avg_views": 597,
       "over_1500": 0
     },
     "longform": {
-      "videos": 1,
+      "videos": 2,
       "avg_views": 0,
       "over_1500": 0
     },
     "punch": {
       "videos": 3,
-      "avg_views": 36,
+      "avg_views": 58,
       "over_1500": 0
     }
   },
@@ -85,7 +85,7 @@
     {
       "title": "A Single Cloud Weighs Over a Million Pounds",
       "topic": "science",
-      "views": 1195,
+      "views": 1197,
       "hook": "A single cloud can weigh over a million pounds."
     },
     {
@@ -133,7 +133,7 @@
       "hook": "A single cloud can weigh over a million pounds.",
       "published_at": "2026-10-15T18:56:15Z",
       "privacy": "public",
-      "views": 1195,
+      "views": 1197,
       "likes": 53,
       "comments": 1,
       "url": "https://youtube.com/shorts/AatgGso0_2I"
@@ -157,8 +157,8 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 202,
-      "likes": 8,
+      "views": 210,
+      "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
     },
@@ -182,7 +182,7 @@
       "published_at": "2026-10-16T02:54:28Z",
       "privacy": "public",
       "views": 262,
-      "likes": 10,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/TRY06yZdLIs"
     },
@@ -193,7 +193,7 @@
       "hook": "On Neptune, it rains diamonds.",
       "published_at": "2026-10-16T05:30:13Z",
       "privacy": "public",
-      "views": 218,
+      "views": 231,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/UaeMKmWXL5w"
@@ -217,8 +217,8 @@
       "hook": "Sharks are older than trees.",
       "published_at": "2026-10-16T10:18:30Z",
       "privacy": "public",
-      "views": 124,
-      "likes": 8,
+      "views": 139,
+      "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/dAX8nRPkNMY"
     },
@@ -254,7 +254,7 @@
       "published_at": "2026-10-15T00:30:19Z",
       "privacy": "public",
       "views": 343,
-      "likes": 7,
+      "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/V-ykHcqs_OA"
     },
@@ -265,10 +265,22 @@
       "hook": null,
       "published_at": "2026-10-16T19:17:47Z",
       "privacy": "private",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/vPc1FlBoFuM"
+    },
+    "brs3qZJ4Ebc": {
+      "title": "10 Animals With Superpowers That Sound Fake (But Are Real)",
+      "topic": null,
+      "style": "longform",
+      "hook": null,
+      "published_at": "2026-10-17T05:23:49Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/brs3qZJ4Ebc"
     },
     "FMEjskaXejU": {
       "title": "Why an Octopus Has Three Hearts and Blue Blood",
@@ -290,7 +302,7 @@
       "published_at": "2026-10-15T02:30:20Z",
       "privacy": "public",
       "views": 222,
-      "likes": 7,
+      "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/I75xo-ENbtA"
     },
@@ -314,7 +326,7 @@
       "published_at": "2026-10-15T04:30:13Z",
       "privacy": "public",
       "views": 325,
-      "likes": 10,
+      "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/EgjZfYUh9jE"
     },
@@ -325,7 +337,7 @@
       "hook": "Your body is glowing right now. You just can't see it.",
       "published_at": "2026-10-15T05:30:37Z",
       "privacy": "public",
-      "views": 244,
+      "views": 245,
       "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/T00_3CUDt5s"
@@ -361,10 +373,22 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 108,
-      "likes": 11,
+      "views": 175,
+      "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
+    },
+    "vDzFhP-Eo5k": {
+      "title": "Mammoths Were Still Alive When the Pyramids Were Built",
+      "topic": "history",
+      "style": "classic",
+      "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
+      "published_at": "2026-10-17T05:31:55Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
     },
     "2KiDRDAJJWw": {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
@@ -389,6 +413,18 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/WK_pBpY-xpQ"
+    },
+    "SLTRR1243fU": {
+      "title": "Jupiter Doesn't Actually Orbit the Sun (Here's the Catch)",
+      "topic": "space",
+      "style": "classic",
+      "hook": "Jupiter doesn't orbit the Sun. Not exactly.",
+      "published_at": "2026-10-17T05:27:53Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/SLTRR1243fU"
     }
   }
 }
