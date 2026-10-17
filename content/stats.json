@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T19:26:47+00:00",
+  "updated_at": "2026-10-17T20:41:44+00:00",
   "total_videos": 31,
-  "total_views": 19023,
+  "total_views": 19206,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -10,18 +10,18 @@
     },
     "science": {
       "videos": 3,
-      "avg_views": 1419,
-      "best_views": 1581
+      "avg_views": 1426,
+      "best_views": 1596
     },
     "animals": {
       "videos": 9,
-      "avg_views": 718,
+      "avg_views": 722,
       "best_views": 1299
     },
     "human body": {
       "videos": 4,
-      "avg_views": 389,
-      "best_views": 850
+      "avg_views": 420,
+      "best_views": 974
     },
     "history": {
       "videos": 4,
@@ -30,14 +30,14 @@
     },
     "space": {
       "videos": 7,
-      "avg_views": 620,
+      "avg_views": 621,
       "best_views": 1355
     }
   },
   "by_style": {
     "classic": {
       "videos": 24,
-      "avg_views": 680,
+      "avg_views": 686,
       "over_1500": 1
     },
     "longform": {
@@ -47,7 +47,7 @@
     },
     "punch": {
       "videos": 5,
-      "avg_views": 539,
+      "avg_views": 546,
       "over_1500": 0
     }
   },
@@ -55,13 +55,13 @@
     {
       "title": "Lightning Is 5 Times Hotter Than the Sun's Surface",
       "topic": "science",
-      "views": 1581,
+      "views": 1596,
       "hook": "A lightning bolt is five times hotter than the surface of the Sun."
     },
     {
       "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
       "topic": "science",
-      "views": 1443,
+      "views": 1449,
       "hook": "There are more trees on Earth than stars in the Milky Way."
     },
     {
@@ -97,7 +97,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1165,
+      "views": 1201,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -169,7 +169,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1056,
+      "views": 1057,
       "likes": 50,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -193,7 +193,7 @@
       "hook": "On Neptune, it rains diamonds.",
       "published_at": "2026-10-16T05:30:13Z",
       "privacy": "public",
-      "views": 271,
+      "views": 272,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/UaeMKmWXL5w"
@@ -313,7 +313,7 @@
       "hook": "There are more trees on Earth than stars in the Milky Way.",
       "published_at": "2026-10-15T03:30:08Z",
       "privacy": "public",
-      "views": 1443,
+      "views": 1449,
       "likes": 23,
       "comments": 0,
       "url": "https://youtube.com/shorts/8v2IWv2BlSA"
@@ -397,7 +397,7 @@
       "hook": "A lightning bolt is five times hotter than the surface of the Sun.",
       "published_at": "2026-10-17T13:00:24Z",
       "privacy": "public",
-      "views": 1581,
+      "views": 1596,
       "likes": 38,
       "comments": 3,
       "url": "https://youtube.com/shorts/pSgxXZHFEbg"
@@ -409,8 +409,8 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 850,
-      "likes": 50,
+      "views": 974,
+      "likes": 51,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
     },
@@ -421,7 +421,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1165,
+      "views": 1201,
       "likes": 24,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -433,7 +433,7 @@
       "hook": "There's a volcano three times taller than Everest. You could stroll up it.",
       "published_at": "2026-10-17T17:30:38Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/t5IFKjlXUd0"
@@ -457,7 +457,7 @@
       "hook": "Jupiter doesn't orbit the Sun. Not exactly.",
       "published_at": "2026-10-17T07:00:34Z",
       "privacy": "public",
-      "views": 13,
+      "views": 12,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/SLTRR1243fU"
