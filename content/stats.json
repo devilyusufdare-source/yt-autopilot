@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T01:03:27+00:00",
+  "updated_at": "2026-10-17T02:45:51+00:00",
   "total_videos": 23,
-  "total_views": 12578,
+  "total_views": 12602,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -15,13 +15,13 @@
     },
     "animals": {
       "videos": 7,
-      "avg_views": 574,
-      "best_views": 1271
+      "avg_views": 576,
+      "best_views": 1275
     },
     "human body": {
       "videos": 3,
-      "avg_views": 222,
-      "best_views": 243
+      "avg_views": 223,
+      "best_views": 244
     },
     "history": {
       "videos": 3,
@@ -30,14 +30,14 @@
     },
     "space": {
       "videos": 5,
-      "avg_views": 798,
+      "avg_views": 800,
       "best_views": 1353
     }
   },
   "by_style": {
     "classic": {
       "videos": 19,
-      "avg_views": 656,
+      "avg_views": 658,
       "over_1500": 0
     },
     "longform": {
@@ -47,7 +47,7 @@
     },
     "punch": {
       "videos": 3,
-      "avg_views": 35,
+      "avg_views": 36,
       "over_1500": 0
     }
   },
@@ -67,7 +67,7 @@
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1271,
+      "views": 1275,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -91,7 +91,7 @@
     {
       "title": "Saturn Would Float in Water",
       "topic": "space",
-      "views": 1080,
+      "views": 1087,
       "hook": "Saturn would float in water."
     },
     {
@@ -134,7 +134,7 @@
       "published_at": "2026-10-15T18:56:15Z",
       "privacy": "public",
       "views": 1195,
-      "likes": 52,
+      "likes": 53,
       "comments": 1,
       "url": "https://youtube.com/shorts/AatgGso0_2I"
     },
@@ -145,7 +145,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1271,
+      "views": 1275,
       "likes": 54,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -205,7 +205,7 @@
       "hook": "Saturn would float in water.",
       "published_at": "2026-10-16T07:54:25Z",
       "privacy": "public",
-      "views": 1080,
+      "views": 1087,
       "likes": 30,
       "comments": 0,
       "url": "https://youtube.com/shorts/Q6SQw6zTdW8"
@@ -217,8 +217,8 @@
       "hook": "Sharks are older than trees.",
       "published_at": "2026-10-16T10:18:30Z",
       "privacy": "public",
-      "views": 115,
-      "likes": 7,
+      "views": 124,
+      "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/dAX8nRPkNMY"
     },
@@ -229,7 +229,7 @@
       "hook": "The shortest war in history lasted 38 minutes.",
       "published_at": "2026-10-16T14:30:32Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/CsR1AX8J4XU"
@@ -302,7 +302,7 @@
       "published_at": "2026-10-15T03:30:08Z",
       "privacy": "public",
       "views": 1403,
-      "likes": 22,
+      "likes": 23,
       "comments": 0,
       "url": "https://youtube.com/shorts/8v2IWv2BlSA"
     },
@@ -325,7 +325,7 @@
       "hook": "Your body is glowing right now. You just can't see it.",
       "published_at": "2026-10-15T05:30:37Z",
       "privacy": "public",
-      "views": 243,
+      "views": 244,
       "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/T00_3CUDt5s"
@@ -361,7 +361,7 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 106,
+      "views": 108,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
