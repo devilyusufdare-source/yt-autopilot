@@ -530,8 +530,17 @@ def main(argv: list[str] | None = None) -> int:
             style = pkg.get("style")
             if style not in ("classic", "punch"):
                 if cfg.get("experiment.alternate_styles", False):
-                    n_pub = len(list(PUBLISHED_DIR.glob("*.json")))
-                    style = "punch" if (n_pub + i) % 2 == 0 else "classic"
+                    # Keep the A/B test balanced: this video gets the style with fewer published Shorts so far
+                    # (parity on the record count flipped by two per run and froze on one style).
+                    counts = {"classic": 0, "punch": 0}
+                    for f in PUBLISHED_DIR.glob("*.json"):
+                        try:
+                            st = json.loads(f.read_text(encoding="utf-8")).get("style")
+                        except Exception:  # noqa: BLE001
+                            continue
+                        if st in counts:
+                            counts[st] += 1
+                    style = "classic" if counts["classic"] <= counts["punch"] else "punch"
                 else:
                     style = cfg.get("video.style", "classic")
             slot = None if (args.dry_run or args.now) else release_slot(cfg, claimed)
