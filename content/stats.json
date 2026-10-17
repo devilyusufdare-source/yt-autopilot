@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T12:50:38+00:00",
+  "updated_at": "2026-10-17T14:42:14+00:00",
   "total_videos": 29,
-  "total_views": 14260,
+  "total_views": 15793,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -10,34 +10,34 @@
     },
     "science": {
       "videos": 3,
-      "avg_views": 870,
-      "best_views": 1413
+      "avg_views": 1030,
+      "best_views": 1415
     },
     "animals": {
       "videos": 7,
-      "avg_views": 676,
-      "best_views": 1279
+      "avg_views": 794,
+      "best_views": 1282
     },
     "human body": {
       "videos": 4,
-      "avg_views": 172,
+      "avg_views": 173,
       "best_views": 245
     },
     "history": {
       "videos": 4,
-      "avg_views": 340,
-      "best_views": 743
+      "avg_views": 384,
+      "best_views": 919
     },
     "space": {
       "videos": 7,
-      "avg_views": 597,
+      "avg_views": 603,
       "best_views": 1355
     }
   },
   "by_style": {
     "classic": {
       "videos": 23,
-      "avg_views": 583,
+      "avg_views": 612,
       "over_1500": 0
     },
     "longform": {
@@ -47,7 +47,7 @@
     },
     "punch": {
       "videos": 4,
-      "avg_views": 214,
+      "avg_views": 428,
       "over_1500": 0
     }
   },
@@ -55,7 +55,7 @@
     {
       "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
       "topic": "science",
-      "views": 1413,
+      "views": 1415,
       "hook": "There are more trees on Earth than stars in the Milky Way."
     },
     {
@@ -67,49 +67,49 @@
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1279,
+      "views": 1282,
       "hook": "Crows remember your face. For years."
     },
     {
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
-      "views": 1234,
+      "views": 1235,
       "hook": "There's a planet where it rains glass. Sideways."
-    },
-    {
-      "title": "Wombats Poop Cubes. Scientists Finally Know Why",
-      "topic": "animals",
-      "views": 1203,
-      "hook": "Wombats poop cubes. Scientists finally figured out how."
     },
     {
       "title": "A Single Cloud Weighs Over a Million Pounds",
       "topic": "science",
-      "views": 1198,
+      "views": 1233,
       "hook": "A single cloud can weigh over a million pounds."
+    },
+    {
+      "title": "Wombats Poop Cubes. Scientists Finally Know Why",
+      "topic": "animals",
+      "views": 1204,
+      "hook": "Wombats poop cubes. Scientists finally figured out how."
     },
     {
       "title": "Saturn Would Float in Water",
       "topic": "space",
-      "views": 1096,
+      "views": 1099,
       "hook": "Saturn would float in water."
     },
     {
       "title": "The Jellyfish That Can Live Forever",
       "topic": "animals",
-      "views": 1048,
+      "views": 1049,
       "hook": "There's a jellyfish that can live forever."
     },
     {
       "title": "Mammoths Were Still Alive When the Pyramids Were Built",
       "topic": "history",
-      "views": 743,
+      "views": 919,
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old."
     },
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 416,
+      "views": 793,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     }
   ],
@@ -133,7 +133,7 @@
       "hook": "A single cloud can weigh over a million pounds.",
       "published_at": "2026-10-15T18:56:15Z",
       "privacy": "public",
-      "views": 1198,
+      "views": 1233,
       "likes": 54,
       "comments": 1,
       "url": "https://youtube.com/shorts/AatgGso0_2I"
@@ -145,7 +145,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1279,
+      "views": 1282,
       "likes": 54,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -157,7 +157,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 220,
+      "views": 224,
       "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
@@ -169,8 +169,8 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1048,
-      "likes": 49,
+      "views": 1049,
+      "likes": 50,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
     },
@@ -193,7 +193,7 @@
       "hook": "On Neptune, it rains diamonds.",
       "published_at": "2026-10-16T05:30:13Z",
       "privacy": "public",
-      "views": 265,
+      "views": 267,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/UaeMKmWXL5w"
@@ -205,7 +205,7 @@
       "hook": "Saturn would float in water.",
       "published_at": "2026-10-16T07:54:25Z",
       "privacy": "public",
-      "views": 1096,
+      "views": 1099,
       "likes": 30,
       "comments": 0,
       "url": "https://youtube.com/shorts/Q6SQw6zTdW8"
@@ -217,7 +217,7 @@
       "hook": "Sharks are older than trees.",
       "published_at": "2026-10-16T10:18:30Z",
       "privacy": "public",
-      "views": 177,
+      "views": 180,
       "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/dAX8nRPkNMY"
@@ -229,7 +229,7 @@
       "hook": "The shortest war in history lasted 38 minutes.",
       "published_at": "2026-10-16T14:30:32Z",
       "privacy": "public",
-      "views": 8,
+      "views": 10,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/CsR1AX8J4XU"
@@ -253,7 +253,7 @@
       "hook": "Oxford University is older than the Aztec Empire.",
       "published_at": "2026-10-15T00:30:19Z",
       "privacy": "public",
-      "views": 344,
+      "views": 345,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/V-ykHcqs_OA"
@@ -313,7 +313,7 @@
       "hook": "There are more trees on Earth than stars in the Milky Way.",
       "published_at": "2026-10-15T03:30:08Z",
       "privacy": "public",
-      "views": 1413,
+      "views": 1415,
       "likes": 23,
       "comments": 0,
       "url": "https://youtube.com/shorts/8v2IWv2BlSA"
@@ -349,7 +349,7 @@
       "hook": "There's a planet where it rains glass. Sideways.",
       "published_at": "2026-10-15T06:30:27Z",
       "privacy": "public",
-      "views": 1234,
+      "views": 1235,
       "likes": 57,
       "comments": 2,
       "url": "https://youtube.com/shorts/_AAxfyJTzHU"
@@ -361,7 +361,7 @@
       "hook": "Wombats poop cubes. Scientists finally figured out how.",
       "published_at": "2026-10-15T07:30:08Z",
       "privacy": "public",
-      "views": 1203,
+      "views": 1204,
       "likes": 28,
       "comments": 0,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4"
@@ -373,7 +373,7 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 225,
+      "views": 258,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
@@ -385,7 +385,7 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 743,
+      "views": 919,
       "likes": 27,
       "comments": 1,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
@@ -395,11 +395,11 @@
       "topic": "science",
       "style": "classic",
       "hook": "A lightning bolt is five times hotter than the surface of the Sun.",
-      "published_at": "2026-10-17T10:45:08Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-17T13:00:24Z",
+      "privacy": "public",
+      "views": 441,
+      "likes": 11,
+      "comments": 2,
       "url": "https://youtube.com/shorts/pSgxXZHFEbg"
     },
     "UUHeyNuVn8M": {
@@ -421,9 +421,9 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 416,
-      "likes": 14,
-      "comments": 1,
+      "views": 793,
+      "likes": 25,
+      "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
     },
     "t5IFKjlXUd0": {
@@ -445,8 +445,8 @@
       "hook": "There's a shrimp that punches hard enough to smash aquarium glass.",
       "published_at": "2026-10-17T12:00:25Z",
       "privacy": "public",
-      "views": 216,
-      "likes": 5,
+      "views": 659,
+      "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/WK_pBpY-xpQ"
     },
@@ -457,7 +457,7 @@
       "hook": "Jupiter doesn't orbit the Sun. Not exactly.",
       "published_at": "2026-10-17T07:00:34Z",
       "privacy": "public",
-      "views": 5,
+      "views": 10,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/SLTRR1243fU"
