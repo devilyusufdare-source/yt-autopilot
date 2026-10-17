@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T10:51:38+00:00",
+  "updated_at": "2026-10-17T12:50:38+00:00",
   "total_videos": 29,
-  "total_views": 12924,
+  "total_views": 14260,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -10,12 +10,12 @@
     },
     "science": {
       "videos": 3,
-      "avg_views": 869,
-      "best_views": 1410
+      "avg_views": 870,
+      "best_views": 1413
     },
     "animals": {
       "videos": 7,
-      "avg_views": 585,
+      "avg_views": 676,
       "best_views": 1279
     },
     "human body": {
@@ -25,8 +25,8 @@
     },
     "history": {
       "videos": 4,
-      "avg_views": 166,
-      "best_views": 344
+      "avg_views": 340,
+      "best_views": 743
     },
     "space": {
       "videos": 7,
@@ -37,7 +37,7 @@
   "by_style": {
     "classic": {
       "videos": 23,
-      "avg_views": 552,
+      "avg_views": 583,
       "over_1500": 0
     },
     "longform": {
@@ -47,7 +47,7 @@
     },
     "punch": {
       "videos": 4,
-      "avg_views": 56,
+      "avg_views": 214,
       "over_1500": 0
     }
   },
@@ -55,7 +55,7 @@
     {
       "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
       "topic": "science",
-      "views": 1410,
+      "views": 1413,
       "hook": "There are more trees on Earth than stars in the Milky Way."
     },
     {
@@ -79,7 +79,7 @@
     {
       "title": "Wombats Poop Cubes. Scientists Finally Know Why",
       "topic": "animals",
-      "views": 1202,
+      "views": 1203,
       "hook": "Wombats poop cubes. Scientists finally figured out how."
     },
     {
@@ -91,26 +91,26 @@
     {
       "title": "Saturn Would Float in Water",
       "topic": "space",
-      "views": 1093,
+      "views": 1096,
       "hook": "Saturn would float in water."
     },
     {
       "title": "The Jellyfish That Can Live Forever",
       "topic": "animals",
-      "views": 1046,
+      "views": 1048,
       "hook": "There's a jellyfish that can live forever."
     },
     {
-      "title": "Why an Octopus Has Three Hearts and Blue Blood",
-      "topic": "animals",
-      "views": 390,
-      "hook": "An octopus has three hearts, and one of them stops every time it swims."
+      "title": "Mammoths Were Still Alive When the Pyramids Were Built",
+      "topic": "history",
+      "views": 743,
+      "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old."
     },
     {
-      "title": "Why You Forget Why You Walked Into a Room",
-      "topic": "psychology",
-      "views": 365,
-      "hook": "Your brain wipes part of your memory every time you walk through a doorway."
+      "title": "Scientists Threw These Animals Into Open Space. They Survived",
+      "topic": "animals",
+      "views": 416,
+      "hook": "Scientists shot tiny animals into open space. They came back alive."
     }
   ],
   "videos": {
@@ -169,7 +169,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1046,
+      "views": 1048,
       "likes": 49,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -193,7 +193,7 @@
       "hook": "On Neptune, it rains diamonds.",
       "published_at": "2026-10-16T05:30:13Z",
       "privacy": "public",
-      "views": 264,
+      "views": 265,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/UaeMKmWXL5w"
@@ -205,7 +205,7 @@
       "hook": "Saturn would float in water.",
       "published_at": "2026-10-16T07:54:25Z",
       "privacy": "public",
-      "views": 1093,
+      "views": 1096,
       "likes": 30,
       "comments": 0,
       "url": "https://youtube.com/shorts/Q6SQw6zTdW8"
@@ -313,7 +313,7 @@
       "hook": "There are more trees on Earth than stars in the Milky Way.",
       "published_at": "2026-10-15T03:30:08Z",
       "privacy": "public",
-      "views": 1410,
+      "views": 1413,
       "likes": 23,
       "comments": 0,
       "url": "https://youtube.com/shorts/8v2IWv2BlSA"
@@ -361,7 +361,7 @@
       "hook": "Wombats poop cubes. Scientists finally figured out how.",
       "published_at": "2026-10-15T07:30:08Z",
       "privacy": "public",
-      "views": 1202,
+      "views": 1203,
       "likes": 28,
       "comments": 0,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4"
@@ -373,7 +373,7 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 223,
+      "views": 225,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
@@ -385,9 +385,9 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 49,
-      "likes": 0,
-      "comments": 0,
+      "views": 743,
+      "likes": 27,
+      "comments": 1,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
     },
     "pSgxXZHFEbg": {
@@ -419,11 +419,11 @@
       "topic": "animals",
       "style": "punch",
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
-      "published_at": "2026-10-17T01:00:28Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-17T11:00:18Z",
+      "privacy": "public",
+      "views": 416,
+      "likes": 14,
+      "comments": 1,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
     },
     "t5IFKjlXUd0": {
@@ -443,10 +443,10 @@
       "topic": "animals",
       "style": "punch",
       "hook": "There's a shrimp that punches hard enough to smash aquarium glass.",
-      "published_at": "2026-10-17T01:03:22Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-10-17T12:00:25Z",
+      "privacy": "public",
+      "views": 216,
+      "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/WK_pBpY-xpQ"
     },
@@ -457,7 +457,7 @@
       "hook": "Jupiter doesn't orbit the Sun. Not exactly.",
       "published_at": "2026-10-17T07:00:34Z",
       "privacy": "public",
-      "views": 7,
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/SLTRR1243fU"
