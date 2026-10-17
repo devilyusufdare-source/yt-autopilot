@@ -349,7 +349,21 @@ def release_slot(cfg, extra_taken: list[str], kind: str = "shorts") -> str | Non
         except ValueError:
             pass
     chosen = publish_slots(1, cfg, taken=taken, kind=kind)
-    return chosen[0] if chosen else None
+    if not chosen:
+        return None
+    # Never let a finished video wait most of a day for its slot: if the next free time is far away,
+    # publish it shortly after the upload instead (the slot list stays the normal rhythm).
+    max_wait = float(cfg.get("release.max_wait_hours", 10))
+    now = dt.datetime.now(dt.timezone.utc)
+    try:
+        when = dt.datetime.fromisoformat(chosen[0].replace("Z", "+00:00"))
+    except ValueError:
+        return chosen[0]
+    if when - now > dt.timedelta(hours=max_wait):
+        soon = now + dt.timedelta(minutes=int(cfg.get("release.lead_minutes", 20)) + 5)
+        soon = soon.replace(second=0, microsecond=0) + dt.timedelta(minutes=(10 - soon.minute % 10) % 10)
+        return soon.strftime("%Y-%m-%dT%H:%M:%SZ")
+    return chosen[0]
 
 
 def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at: str | None = None) -> dict:

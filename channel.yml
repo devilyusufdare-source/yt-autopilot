@@ -35,6 +35,7 @@ release:
   daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
   probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it
   lead_minutes: 20                 # a publish time is at least this many minutes after the upload
+  max_wait_hours: 10               # if the next free slot is further away than this, publish ~25 min after upload instead
   timezone: "Asia/Kolkata"
 
 # Facebook Page cross-posting. Every Short also goes up as a Reel and every long video as a
