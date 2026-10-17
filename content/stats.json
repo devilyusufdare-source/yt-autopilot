@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T05:32:04+00:00",
+  "updated_at": "2026-10-17T06:54:49+00:00",
   "total_videos": 26,
-  "total_views": 12709,
+  "total_views": 12728,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -15,7 +15,7 @@
     },
     "animals": {
       "videos": 7,
-      "avg_views": 578,
+      "avg_views": 579,
       "best_views": 1275
     },
     "human body": {
@@ -30,7 +30,7 @@
     },
     "space": {
       "videos": 6,
-      "avg_views": 680,
+      "avg_views": 683,
       "best_views": 1353
     }
   },
@@ -47,7 +47,7 @@
     },
     "punch": {
       "videos": 3,
-      "avg_views": 58,
+      "avg_views": 64,
       "over_1500": 0
     }
   },
@@ -97,7 +97,7 @@
     {
       "title": "The Jellyfish That Can Live Forever",
       "topic": "animals",
-      "views": 1045,
+      "views": 1046,
       "hook": "There's a jellyfish that can live forever."
     },
     {
@@ -169,7 +169,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1045,
+      "views": 1046,
       "likes": 49,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -373,8 +373,8 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 175,
-      "likes": 8,
+      "views": 193,
+      "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
     },
