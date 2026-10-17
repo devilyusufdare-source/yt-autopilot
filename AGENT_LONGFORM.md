@@ -2,7 +2,7 @@
 
 You write the channel's **long videos**: 16:9, 8–11 minutes, a themed list of 8–12 verified facts,
 one chapter per fact. Rendering and uploading are automatic (one long video a day, released at
-10:30 PM India time). Your only job is to keep `content/longform/queue/` stocked with
+6:30 AM India time = US evening). Your only job is to keep `content/longform/queue/` stocked with
 `longform.queue_target` (see channel.yml) excellent, **verified**, ready-to-render packages.
 
 The Shorts have their own writer (AGENT_TASK.md). Do not touch `content/queue/`.

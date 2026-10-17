@@ -6,7 +6,7 @@ on:
     # (10 per day for this channel) and otherwise exits in seconds, so over a day exactly 10 videos
     # get uploaded. Uploading and releasing are separate: each video is scheduled to go public at
     # the next free slot of its list in channel.yml (`release.shorts_slots` / `longform_slots`:
-    # 4:30 PM-1:30 AM India time on the half hour, long video at 10:30 PM).
+    # Shorts every ~2.5 h around the clock, long video at 6:30 AM IST).
     - cron: "17 */2 * * *"
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
