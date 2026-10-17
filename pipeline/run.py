@@ -359,7 +359,7 @@ def release_slot(cfg, extra_taken: list[str], kind: str = "shorts") -> str | Non
         when = dt.datetime.fromisoformat(chosen[0].replace("Z", "+00:00"))
     except ValueError:
         return chosen[0]
-    if when - now > dt.timedelta(hours=max_wait):
+    if kind == "shorts" and when - now > dt.timedelta(hours=max_wait):   # long videos keep their one-a-day slot
         soon = now + dt.timedelta(minutes=int(cfg.get("release.lead_minutes", 20)) + 5)
         soon = soon.replace(second=0, microsecond=0) + dt.timedelta(minutes=(10 - soon.minute % 10) % 10)
         return soon.strftime("%Y-%m-%dT%H:%M:%SZ")
