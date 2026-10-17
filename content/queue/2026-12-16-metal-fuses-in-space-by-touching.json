@@ -1,0 +1,61 @@
+{
+  "id": "2026-12-16-metal-fuses-in-space-by-touching",
+  "topic": "space",
+  "title": "In Space, Two Pieces of Metal Can Fuse Just by Touching",
+  "scenes": [
+    {
+      "text": "In space, two pieces of metal can fuse just by touching.",
+      "keywords": "astronaut spacewalk metal tool"
+    },
+    {
+      "text": "No heat, no glue. Clean metal meets clean metal, and the atoms simply bond.",
+      "keywords": "steel parts close up macro"
+    },
+    {
+      "text": "On Earth, almost every metal wears an invisible oxide skin that keeps pieces apart.",
+      "keywords": "rusty metal surface texture"
+    },
+    {
+      "text": "In space there's no air to rebuild it. Scrape it off and it's bare.",
+      "keywords": "satellite orbiting earth sunlight"
+    },
+    {
+      "text": "In 1991, NASA's Galileo probe tried to open its main antenna. Ribs stuck, and engineers blame this.",
+      "keywords": "space probe antenna jupiter"
+    },
+    {
+      "text": "It whispered home through a backup for years. Two bits of metal had touched.",
+      "keywords": "jupiter planet from spacecraft"
+    }
+  ],
+  "description": "In the vacuum of space, two clean pieces of the same metal can weld together just by touching, with no heat at all.\nOn Earth a few-atoms-thick oxide layer stops this, but space has no oxygen to rebuild it. NASA's Galileo probe lost most of its main antenna in 1991 when several ribs stuck, and cold welding is widely blamed; the mission used a weak backup antenna for the rest of its journey to Jupiter.\nWhat other everyday thing do you think would behave completely differently in space?",
+  "tags": [
+    "cold welding",
+    "metal fuses in space",
+    "vacuum of space",
+    "galileo probe",
+    "nasa facts",
+    "space facts",
+    "physics facts",
+    "spacecraft engineering",
+    "jupiter mission",
+    "mind blowing facts",
+    "shorts facts",
+    "did you know",
+    "science facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#nasa",
+    "#science"
+  ],
+  "sources": [
+    "https://www.livescience.com/chemistry/why-does-metal-stick-together-in-space",
+    "https://www.nasa.gov/history/30-years-ago-galileo-off-to-orbit-jupiter/",
+    "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Science_of_friction_keeping_things_moving_in_space"
+  ],
+  "thumbnail_text": "METAL WELDS ITSELF IN SPACE",
+  "priority": 5,
+  "first_comment": "Gold has no oxide skin at all, so it can cold weld even on Earth. That's one reason spacecraft engineers pair it with other metals. What else do you think breaks in space but works fine down here?"
+}
