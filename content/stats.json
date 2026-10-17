@@ -1,43 +1,43 @@
 {
-  "updated_at": "2026-10-17T08:45:13+00:00",
-  "total_videos": 26,
-  "total_views": 12776,
+  "updated_at": "2026-10-17T10:51:38+00:00",
+  "total_videos": 29,
+  "total_views": 12924,
   "by_topic": {
     "psychology": {
       "videos": 2,
       "avg_views": 346,
-      "best_views": 364
+      "best_views": 365
     },
     "science": {
-      "videos": 2,
-      "avg_views": 1304,
+      "videos": 3,
+      "avg_views": 869,
       "best_views": 1410
     },
     "animals": {
       "videos": 7,
-      "avg_views": 579,
-      "best_views": 1277
+      "avg_views": 585,
+      "best_views": 1279
     },
     "human body": {
-      "videos": 3,
-      "avg_views": 227,
+      "videos": 4,
+      "avg_views": 172,
       "best_views": 245
     },
     "history": {
       "videos": 4,
-      "avg_views": 153,
-      "best_views": 343
+      "avg_views": 166,
+      "best_views": 344
     },
     "space": {
-      "videos": 6,
-      "avg_views": 688,
-      "best_views": 1353
+      "videos": 7,
+      "avg_views": 597,
+      "best_views": 1355
     }
   },
   "by_style": {
     "classic": {
-      "videos": 21,
-      "avg_views": 599,
+      "videos": 23,
+      "avg_views": 552,
       "over_1500": 0
     },
     "longform": {
@@ -46,8 +46,8 @@
       "over_1500": 0
     },
     "punch": {
-      "videos": 3,
-      "avg_views": 64,
+      "videos": 4,
+      "avg_views": 56,
       "over_1500": 0
     }
   },
@@ -61,13 +61,13 @@
     {
       "title": "A Day on Venus Is Longer Than Its Year",
       "topic": "space",
-      "views": 1353,
+      "views": 1355,
       "hook": "A day on Venus is longer than its entire year."
     },
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1277,
+      "views": 1279,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -85,13 +85,13 @@
     {
       "title": "A Single Cloud Weighs Over a Million Pounds",
       "topic": "science",
-      "views": 1197,
+      "views": 1198,
       "hook": "A single cloud can weigh over a million pounds."
     },
     {
       "title": "Saturn Would Float in Water",
       "topic": "space",
-      "views": 1089,
+      "views": 1093,
       "hook": "Saturn would float in water."
     },
     {
@@ -103,13 +103,13 @@
     {
       "title": "Why an Octopus Has Three Hearts and Blue Blood",
       "topic": "animals",
-      "views": 389,
+      "views": 390,
       "hook": "An octopus has three hearts, and one of them stops every time it swims."
     },
     {
       "title": "Why You Forget Why You Walked Into a Room",
       "topic": "psychology",
-      "views": 364,
+      "views": 365,
       "hook": "Your brain wipes part of your memory every time you walk through a doorway."
     }
   ],
@@ -121,7 +121,7 @@
       "hook": "Your brain wipes part of your memory every time you walk through a doorway.",
       "published_at": "2026-10-14T19:30:35Z",
       "privacy": "public",
-      "views": 364,
+      "views": 365,
       "likes": 12,
       "comments": 0,
       "url": "https://youtube.com/shorts/GmLlv8BjIu8"
@@ -133,8 +133,8 @@
       "hook": "A single cloud can weigh over a million pounds.",
       "published_at": "2026-10-15T18:56:15Z",
       "privacy": "public",
-      "views": 1197,
-      "likes": 53,
+      "views": 1198,
+      "likes": 54,
       "comments": 1,
       "url": "https://youtube.com/shorts/AatgGso0_2I"
     },
@@ -145,7 +145,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1277,
+      "views": 1279,
       "likes": 54,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -157,7 +157,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 215,
+      "views": 220,
       "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
@@ -181,7 +181,7 @@
       "hook": "The Great Pyramid used to be bright white and shiny.",
       "published_at": "2026-10-16T02:54:28Z",
       "privacy": "public",
-      "views": 262,
+      "views": 264,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/TRY06yZdLIs"
@@ -193,7 +193,7 @@
       "hook": "On Neptune, it rains diamonds.",
       "published_at": "2026-10-16T05:30:13Z",
       "privacy": "public",
-      "views": 258,
+      "views": 264,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/UaeMKmWXL5w"
@@ -205,7 +205,7 @@
       "hook": "Saturn would float in water.",
       "published_at": "2026-10-16T07:54:25Z",
       "privacy": "public",
-      "views": 1089,
+      "views": 1093,
       "likes": 30,
       "comments": 0,
       "url": "https://youtube.com/shorts/Q6SQw6zTdW8"
@@ -217,7 +217,7 @@
       "hook": "Sharks are older than trees.",
       "published_at": "2026-10-16T10:18:30Z",
       "privacy": "public",
-      "views": 139,
+      "views": 177,
       "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/dAX8nRPkNMY"
@@ -241,7 +241,7 @@
       "hook": "A day on Venus is longer than its entire year.",
       "published_at": "2026-10-14T21:29:03Z",
       "privacy": "public",
-      "views": 1353,
+      "views": 1355,
       "likes": 49,
       "comments": 0,
       "url": "https://youtube.com/shorts/L1YCXdSWEZ4"
@@ -253,7 +253,7 @@
       "hook": "Oxford University is older than the Aztec Empire.",
       "published_at": "2026-10-15T00:30:19Z",
       "privacy": "public",
-      "views": 343,
+      "views": 344,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/V-ykHcqs_OA"
@@ -289,7 +289,7 @@
       "hook": "An octopus has three hearts, and one of them stops every time it swims.",
       "published_at": "2026-10-15T01:30:33Z",
       "privacy": "public",
-      "views": 389,
+      "views": 390,
       "likes": 14,
       "comments": 0,
       "url": "https://youtube.com/shorts/FMEjskaXejU"
@@ -325,7 +325,7 @@
       "hook": "Nobody noticed your embarrassing moment. Science proved it.",
       "published_at": "2026-10-15T04:30:13Z",
       "privacy": "public",
-      "views": 327,
+      "views": 328,
       "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/EgjZfYUh9jE"
@@ -373,8 +373,8 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 193,
-      "likes": 9,
+      "views": 223,
+      "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
     },
@@ -383,12 +383,36 @@
       "topic": "history",
       "style": "classic",
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
-      "published_at": "2026-10-17T05:31:55Z",
+      "published_at": "2026-10-17T10:30:38Z",
+      "privacy": "public",
+      "views": 49,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
+    },
+    "pSgxXZHFEbg": {
+      "title": "Lightning Is 5 Times Hotter Than the Sun's Surface",
+      "topic": "science",
+      "style": "classic",
+      "hook": "A lightning bolt is five times hotter than the surface of the Sun.",
+      "published_at": "2026-10-17T10:45:08Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
+      "url": "https://youtube.com/shorts/pSgxXZHFEbg"
+    },
+    "UUHeyNuVn8M": {
+      "title": "Your Stomach Acid Can Eat Through a Razor Blade",
+      "topic": "human body",
+      "style": "classic",
+      "hook": "Your stomach acid is strong enough to eat through a razor blade.",
+      "published_at": "2026-10-17T10:48:26Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/UUHeyNuVn8M"
     },
     "2KiDRDAJJWw": {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
@@ -401,6 +425,18 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
+    },
+    "t5IFKjlXUd0": {
+      "title": "There's a Volcano Three Times Taller Than Mount Everest",
+      "topic": "space",
+      "style": "punch",
+      "hook": "There's a volcano three times taller than Everest. You could stroll up it.",
+      "published_at": "2026-10-17T10:51:30Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/t5IFKjlXUd0"
     },
     "WK_pBpY-xpQ": {
       "title": "This Shrimp Punches So Hard It Breaks Aquarium Glass",
@@ -421,7 +457,7 @@
       "hook": "Jupiter doesn't orbit the Sun. Not exactly.",
       "published_at": "2026-10-17T07:00:34Z",
       "privacy": "public",
-      "views": 2,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/SLTRR1243fU"
