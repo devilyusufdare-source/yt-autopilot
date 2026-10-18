@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-18T16:43:59+00:00",
+  "updated_at": "2026-10-18T19:33:06+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
-    "subscribers": 45,
+    "subscribers": 46,
     "channel_views": 17029,
     "video_count": 38
   },
-  "total_videos": 39,
-  "total_views": 26897,
+  "total_videos": 41,
+  "total_views": 27581,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -15,19 +15,19 @@
       "best_views": 364
     },
     "science": {
-      "videos": 6,
-      "avg_views": 771,
+      "videos": 7,
+      "avg_views": 683,
       "best_views": 1641
     },
     "animals": {
-      "videos": 11,
-      "avg_views": 952,
-      "best_views": 1446
+      "videos": 12,
+      "avg_views": 906,
+      "best_views": 1455
     },
     "human body": {
       "videos": 4,
-      "avg_views": 536,
-      "best_views": 1316
+      "avg_views": 534,
+      "best_views": 1311
     },
     "history": {
       "videos": 4,
@@ -36,14 +36,14 @@
     },
     "space": {
       "videos": 9,
-      "avg_views": 804,
-      "best_views": 1358
+      "avg_views": 819,
+      "best_views": 1359
     }
   },
   "by_style": {
     "classic": {
-      "videos": 28,
-      "avg_views": 746,
+      "videos": 29,
+      "avg_views": 737,
       "over_1500": 1
     },
     "longform": {
@@ -52,8 +52,8 @@
       "over_1500": 0
     },
     "punch": {
-      "videos": 8,
-      "avg_views": 750,
+      "videos": 9,
+      "avg_views": 691,
       "over_1500": 0
     }
   },
@@ -73,25 +73,25 @@
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1446,
+      "views": 1455,
       "hook": "Crows remember your face. For years."
     },
     {
       "title": "A Day on Venus Is Longer Than Its Year",
       "topic": "space",
-      "views": 1358,
+      "views": 1359,
       "hook": "A day on Venus is longer than its entire year."
     },
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1316,
+      "views": 1311,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
-      "views": 1248,
+      "views": 1250,
       "hook": "There's a planet where it rains glass. Sideways."
     },
     {
@@ -109,13 +109,13 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1228,
+      "views": 1229,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
       "title": "There's a Shark That Can Live for 400 Years",
       "topic": "animals",
-      "views": 1224,
+      "views": 1223,
       "hook": "There's a shark that can live for 400 years."
     }
   ],
@@ -151,7 +151,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1446,
+      "views": 1455,
       "likes": 59,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -163,7 +163,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 360,
+      "views": 358,
       "likes": 11,
       "comments": 2,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
@@ -175,7 +175,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1069,
+      "views": 1074,
       "likes": 50,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -223,7 +223,7 @@
       "hook": "Sharks are older than trees.",
       "published_at": "2026-10-16T10:18:30Z",
       "privacy": "public",
-      "views": 188,
+      "views": 187,
       "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/dAX8nRPkNMY"
@@ -247,7 +247,7 @@
       "hook": "A day on Venus is longer than its entire year.",
       "published_at": "2026-10-14T21:29:03Z",
       "privacy": "public",
-      "views": 1358,
+      "views": 1359,
       "likes": 49,
       "comments": 0,
       "url": "https://youtube.com/shorts/L1YCXdSWEZ4"
@@ -367,7 +367,7 @@
       "hook": "There's a planet where it rains glass. Sideways.",
       "published_at": "2026-10-15T06:30:27Z",
       "privacy": "public",
-      "views": 1248,
+      "views": 1250,
       "likes": 60,
       "comments": 2,
       "url": "https://youtube.com/shorts/_AAxfyJTzHU"
@@ -391,7 +391,7 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 669,
+      "views": 678,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
@@ -427,7 +427,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1316,
+      "views": 1311,
       "likes": 47,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -439,7 +439,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1228,
+      "views": 1229,
       "likes": 24,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -451,7 +451,7 @@
       "hook": "There's a volcano three times taller than Everest. You could stroll up it.",
       "published_at": "2026-10-17T17:30:38Z",
       "privacy": "public",
-      "views": 211,
+      "views": 262,
       "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/t5IFKjlXUd0"
@@ -475,7 +475,7 @@
       "hook": "Jupiter doesn't orbit the Sun. Not exactly.",
       "published_at": "2026-10-17T07:00:34Z",
       "privacy": "public",
-      "views": 14,
+      "views": 15,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/SLTRR1243fU"
@@ -487,7 +487,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 956,
+      "views": 958,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -499,7 +499,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1224,
+      "views": 1223,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -511,7 +511,7 @@
       "hook": "The Sahara Desert feeds the Amazon rainforest. Every single year.",
       "published_at": "2026-10-18T02:30:25Z",
       "privacy": "public",
-      "views": 4,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/LEOMS31AQWM"
@@ -523,7 +523,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1203,
+      "views": 1212,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -535,7 +535,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1128,
+      "views": 1195,
       "likes": 15,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -547,7 +547,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 11,
+      "views": 59,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -571,9 +571,9 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 256,
-      "likes": 6,
-      "comments": 0,
+      "views": 361,
+      "likes": 7,
+      "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
     },
     "jNVKvOMi3ko": {
@@ -583,10 +583,34 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 359,
-      "likes": 7,
+      "views": 739,
+      "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
+    },
+    "rTs49HonaXo": {
+      "title": "This Crab's Blue Blood Is Worth $60,000 a Gallon",
+      "topic": "animals",
+      "style": "punch",
+      "hook": "A crab with blood worth sixty thousand dollars a gallon.",
+      "published_at": "2026-10-18T19:30:11Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/rTs49HonaXo"
+    },
+    "oUmGCbVNL3k": {
+      "title": "In 1958, a Wave 1,720 Feet Tall Hit Alaska (Biggest Ever)",
+      "topic": "science",
+      "style": "classic",
+      "hook": "In 1958, a wave 1,720 feet tall hit Alaska.",
+      "published_at": "2026-10-18T19:32:58Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/oUmGCbVNL3k"
     }
   }
 }
