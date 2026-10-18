@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-18T14:42:43+00:00",
+  "updated_at": "2026-10-18T16:43:59+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 45,
-    "channel_views": 13261,
-    "video_count": 41
+    "channel_views": 17029,
+    "video_count": 38
   },
   "total_videos": 39,
-  "total_views": 25842,
+  "total_views": 26897,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,34 +16,34 @@
     },
     "science": {
       "videos": 6,
-      "avg_views": 768,
+      "avg_views": 771,
       "best_views": 1641
     },
     "animals": {
       "videos": 11,
-      "avg_views": 917,
+      "avg_views": 952,
       "best_views": 1446
     },
     "human body": {
       "videos": 4,
-      "avg_views": 530,
-      "best_views": 1313
+      "avg_views": 536,
+      "best_views": 1316
     },
     "history": {
       "videos": 4,
-      "avg_views": 432,
-      "best_views": 1100
+      "avg_views": 433,
+      "best_views": 1101
     },
     "space": {
       "videos": 9,
-      "avg_views": 734,
+      "avg_views": 804,
       "best_views": 1358
     }
   },
   "by_style": {
     "classic": {
       "videos": 28,
-      "avg_views": 710,
+      "avg_views": 746,
       "over_1500": 1
     },
     "longform": {
@@ -53,7 +53,7 @@
     },
     "punch": {
       "videos": 8,
-      "avg_views": 745,
+      "avg_views": 750,
       "over_1500": 0
     }
   },
@@ -85,7 +85,7 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1313,
+      "views": 1316,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -93,6 +93,12 @@
       "topic": "space",
       "views": 1248,
       "hook": "There's a planet where it rains glass. Sideways."
+    },
+    {
+      "title": "Astronauts on the Space Station See 16 Sunrises a Day",
+      "topic": "space",
+      "views": 1238,
+      "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
       "title": "A Single Cloud Weighs Over a Million Pounds",
@@ -103,7 +109,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1234,
+      "views": 1228,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -111,12 +117,6 @@
       "topic": "animals",
       "views": 1224,
       "hook": "There's a shark that can live for 400 years."
-    },
-    {
-      "title": "Wombats Poop Cubes. Scientists Finally Know Why",
-      "topic": "animals",
-      "views": 1211,
-      "hook": "Wombats poop cubes. Scientists finally figured out how."
     }
   ],
   "videos": {
@@ -163,7 +163,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 339,
+      "views": 360,
       "likes": 11,
       "comments": 2,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
@@ -175,7 +175,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1068,
+      "views": 1069,
       "likes": 50,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -368,7 +368,7 @@
       "published_at": "2026-10-15T06:30:27Z",
       "privacy": "public",
       "views": 1248,
-      "likes": 59,
+      "likes": 60,
       "comments": 2,
       "url": "https://youtube.com/shorts/_AAxfyJTzHU"
     },
@@ -391,7 +391,7 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 668,
+      "views": 669,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
@@ -403,7 +403,7 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 1100,
+      "views": 1101,
       "likes": 26,
       "comments": 2,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
@@ -427,7 +427,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1313,
+      "views": 1316,
       "likes": 47,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -439,7 +439,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1234,
+      "views": 1228,
       "likes": 24,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -523,7 +523,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1176,
+      "views": 1203,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -535,7 +535,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 838,
+      "views": 1128,
       "likes": 15,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -547,7 +547,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 12,
+      "views": 11,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -559,7 +559,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 896,
+      "views": 1238,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -571,8 +571,8 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 239,
-      "likes": 4,
+      "views": 256,
+      "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
     },
@@ -581,10 +581,10 @@
       "topic": "animals",
       "style": "classic",
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
-      "published_at": "2026-10-18T12:53:13Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-10-18T15:00:38Z",
+      "privacy": "public",
+      "views": 359,
+      "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
     }
