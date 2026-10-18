@@ -58,8 +58,18 @@ def update_stats(youtube) -> dict:
     style_summary = {k: {"videos": len(vs), "avg_views": round(sum(vs) / len(vs)), "over_1500": sum(1 for x in vs if x >= 1500)}
                      for k, vs in by_style.items()}
     top = sorted(videos.values(), key=lambda v: v["views"], reverse=True)[:10]
+    channel = {}
+    try:
+        ch = youtube.channels().list(part="statistics,snippet", mine=True).execute().get("items", [])
+        if ch:
+            cst = ch[0].get("statistics", {})
+            channel = {"title": ch[0]["snippet"].get("title"), "subscribers": int(cst.get("subscriberCount", 0)),
+                       "channel_views": int(cst.get("viewCount", 0)), "video_count": int(cst.get("videoCount", 0))}
+    except Exception as e:  # noqa: BLE001
+        print(f"[stats] channel statistics unavailable: {e}")
     data = {
         "updated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+        "channel": channel,
         "total_videos": len(videos),
         "total_views": sum(v["views"] for v in videos.values()),
         "by_topic": summary,
