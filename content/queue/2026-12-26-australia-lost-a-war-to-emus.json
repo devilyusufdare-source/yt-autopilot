@@ -42,7 +42,13 @@
     "did you know",
     "history shorts"
   ],
-  "hashtags": ["#shorts", "#history", "#emuwar", "#australia", "#facts"],
+  "hashtags": [
+    "#shorts",
+    "#history",
+    "#emuwar",
+    "#australia",
+    "#facts"
+  ],
   "sources": [
     "https://en.wikipedia.org/wiki/Emu_War",
     "https://www.australiangeographic.com.au/topics/wildlife/2016/10/australias-emu-wars/"

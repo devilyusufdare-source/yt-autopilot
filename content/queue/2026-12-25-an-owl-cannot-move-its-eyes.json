@@ -46,7 +46,13 @@
     "did you know",
     "amazing animals"
   ],
-  "hashtags": ["#shorts", "#owl", "#animalfacts", "#nature", "#facts"],
+  "hashtags": [
+    "#shorts",
+    "#owl",
+    "#animalfacts",
+    "#nature",
+    "#facts"
+  ],
   "sources": [
     "https://www.sciencedaily.com/releases/2013/01/130131144102.htm",
     "https://www.nationalgeographic.com/animals/article/how-owls-twist-heads-almost-360-degrees"

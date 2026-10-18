@@ -3,7 +3,7 @@
   "topic": "space",
   "title": "A Star Is Eating Its Neighbour. The Meal Lasts Billions of Years",
   "thumbnail_text": "A star eating its neighbour",
-  "priority": 6,
+  "priority": 5,
   "scenes": [
     {
       "text": "A star is eating its neighbour. The meal lasts billions of years.",
@@ -47,7 +47,13 @@
     "did you know",
     "universe facts"
   ],
-  "hashtags": ["#shorts", "#space", "#astronomy", "#spacefacts", "#facts"],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#astronomy",
+    "#spacefacts",
+    "#facts"
+  ],
   "sources": [
     "https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005",
     "https://sciencedaily.com/releases/2026/10/261008005240.htm"

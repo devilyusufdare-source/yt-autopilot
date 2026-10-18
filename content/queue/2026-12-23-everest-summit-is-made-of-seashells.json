@@ -47,7 +47,13 @@
     "amazing facts",
     "mountains"
   ],
-  "hashtags": ["#shorts", "#everest", "#geology", "#sciencefacts", "#facts"],
+  "hashtags": [
+    "#shorts",
+    "#everest",
+    "#geology",
+    "#sciencefacts",
+    "#facts"
+  ],
   "sources": [
     "https://iugs-geoheritage.org/?p=3648",
     "https://montana.edu/everest/facts/summit-limestone.html",

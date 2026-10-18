@@ -47,7 +47,13 @@
     "did you know",
     "cute animals"
   ],
-  "hashtags": ["#shorts", "#seaotter", "#animalfacts", "#ocean", "#facts"],
+  "hashtags": [
+    "#shorts",
+    "#seaotter",
+    "#animalfacts",
+    "#ocean",
+    "#facts"
+  ],
   "sources": [
     "https://www.nps.gov/chis/learn/nature/sea-otter.htm",
     "https://www.sheddaquarium.org/animals/southern-sea-otter",

@@ -47,10 +47,17 @@
     "did you know",
     "amazing facts"
   ],
-  "hashtags": ["#shorts", "#nasa", "#earth", "#sciencefacts", "#facts"],
+  "hashtags": [
+    "#shorts",
+    "#nasa",
+    "#earth",
+    "#sciencefacts",
+    "#facts"
+  ],
   "sources": [
     "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/",
     "https://www.sciencedaily.com/releases/2026/10/261005071520.htm"
   ],
-  "first_comment": "Bonus: the two laser satellites, LAGEOS 1 and 2, were launched in 1976 and 1992 and are still being tracked from more than 20 countries. What else do you think is heavy enough to nudge a planet?"
+  "first_comment": "Bonus: the two laser satellites, LAGEOS 1 and 2, were launched in 1976 and 1992 and are still being tracked from more than 20 countries. What else do you think is heavy enough to nudge a planet?",
+  "_parked_reason": "Day-4 rules: abstract / history-comparison / geography-process / interactive or body-trivia hooks flop (<400 views)"
 }
