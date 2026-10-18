@@ -97,9 +97,9 @@ topics:
   - history
   - animals
 
-# The idea generator keeps this many ready-to-render ideas waiting in content/queue (300 = a month in stock,
+# The idea generator keeps this many ready-to-render ideas waiting in content/queue (600 = two months in stock,
 # so uploads continue even when the idea writer is not running).
-queue_target: 300
+queue_target: 600
 
 video:
   width: 1080

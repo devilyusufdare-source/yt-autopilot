@@ -1,8 +1,8 @@
 # Running the channel without Claude
 
 Everything that posts videos runs on GitHub by itself (free, public repository). Nothing here needs
-a Claude subscription. What Claude did on a schedule was only *writing new ideas*; with 300 ideas in
-`content/queue/` there is about a month of videos in stock.
+a Claude subscription. What Claude did on a schedule was only *writing new ideas*; with 600 ideas in
+`content/queue/` there are about two months of videos in stock.
 
 ## What keeps running on its own
 - **Uploads:** `.github/workflows/daily.yml` runs every 2 hours, makes videos from `content/queue/`
