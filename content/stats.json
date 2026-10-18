@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T19:33:06+00:00",
+  "updated_at": "2026-10-18T20:41:43+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 46,
@@ -7,7 +7,7 @@
     "video_count": 38
   },
   "total_videos": 41,
-  "total_views": 27581,
+  "total_views": 27828,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,12 +16,12 @@
     },
     "science": {
       "videos": 7,
-      "avg_views": 683,
-      "best_views": 1641
+      "avg_views": 684,
+      "best_views": 1638
     },
     "animals": {
       "videos": 12,
-      "avg_views": 906,
+      "avg_views": 925,
       "best_views": 1455
     },
     "human body": {
@@ -31,19 +31,19 @@
     },
     "history": {
       "videos": 4,
-      "avg_views": 433,
-      "best_views": 1101
+      "avg_views": 432,
+      "best_views": 1096
     },
     "space": {
       "videos": 9,
-      "avg_views": 819,
+      "avg_views": 821,
       "best_views": 1359
     }
   },
   "by_style": {
     "classic": {
       "videos": 29,
-      "avg_views": 737,
+      "avg_views": 745,
       "over_1500": 1
     },
     "longform": {
@@ -53,7 +53,7 @@
     },
     "punch": {
       "videos": 9,
-      "avg_views": 691,
+      "avg_views": 693,
       "over_1500": 0
     }
   },
@@ -61,7 +61,7 @@
     {
       "title": "Lightning Is 5 Times Hotter Than the Sun's Surface",
       "topic": "science",
-      "views": 1641,
+      "views": 1638,
       "hook": "A lightning bolt is five times hotter than the surface of the Sun."
     },
     {
@@ -89,16 +89,16 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
+      "title": "Astronauts on the Space Station See 16 Sunrises a Day",
+      "topic": "space",
+      "views": 1254,
+      "hook": "Astronauts on the space station see 16 sunrises every single day."
+    },
+    {
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
       "views": 1250,
       "hook": "There's a planet where it rains glass. Sideways."
-    },
-    {
-      "title": "Astronauts on the Space Station See 16 Sunrises a Day",
-      "topic": "space",
-      "views": 1238,
-      "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
       "title": "A Single Cloud Weighs Over a Million Pounds",
@@ -115,7 +115,7 @@
     {
       "title": "There's a Shark That Can Live for 400 Years",
       "topic": "animals",
-      "views": 1223,
+      "views": 1226,
       "hook": "There's a shark that can live for 400 years."
     }
   ],
@@ -391,7 +391,7 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 678,
+      "views": 680,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
@@ -403,7 +403,7 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 1101,
+      "views": 1096,
       "likes": 26,
       "comments": 2,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
@@ -415,7 +415,7 @@
       "hook": "A lightning bolt is five times hotter than the surface of the Sun.",
       "published_at": "2026-10-17T13:00:24Z",
       "privacy": "public",
-      "views": 1641,
+      "views": 1638,
       "likes": 38,
       "comments": 3,
       "url": "https://youtube.com/shorts/pSgxXZHFEbg"
@@ -463,7 +463,7 @@
       "hook": "There's a shrimp that punches hard enough to smash aquarium glass.",
       "published_at": "2026-10-17T12:00:25Z",
       "privacy": "public",
-      "views": 1194,
+      "views": 1193,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/WK_pBpY-xpQ"
@@ -499,7 +499,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1223,
+      "views": 1226,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -559,7 +559,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 1238,
+      "views": 1254,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -571,7 +571,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 361,
+      "views": 372,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -583,7 +583,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 739,
+      "views": 963,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
