@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-18T08:45:21+00:00",
-  "total_videos": 36,
-  "total_views": 22795,
+  "updated_at": "2026-10-18T10:54:42+00:00",
+  "channel": {
+    "title": "MIND UNLOCKED FACTS",
+    "subscribers": 45,
+    "channel_views": 12590,
+    "video_count": 45
+  },
+  "total_videos": 38,
+  "total_views": 23525,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -9,35 +15,35 @@
       "best_views": 364
     },
     "science": {
-      "videos": 5,
-      "avg_views": 868,
-      "best_views": 1626
+      "videos": 6,
+      "avg_views": 724,
+      "best_views": 1628
     },
     "animals": {
       "videos": 10,
-      "avg_views": 922,
-      "best_views": 1371
+      "avg_views": 969,
+      "best_views": 1415
     },
     "human body": {
       "videos": 4,
-      "avg_views": 521,
+      "avg_views": 527,
       "best_views": 1311
     },
     "history": {
       "videos": 4,
-      "avg_views": 431,
-      "best_views": 1094
+      "avg_views": 432,
+      "best_views": 1097
     },
     "space": {
-      "videos": 8,
-      "avg_views": 592,
+      "videos": 9,
+      "avg_views": 552,
       "best_views": 1358
     }
   },
   "by_style": {
     "classic": {
-      "videos": 26,
-      "avg_views": 692,
+      "videos": 27,
+      "avg_views": 677,
       "over_1500": 1
     },
     "longform": {
@@ -46,8 +52,8 @@
       "over_1500": 0
     },
     "punch": {
-      "videos": 7,
-      "avg_views": 685,
+      "videos": 8,
+      "avg_views": 655,
       "over_1500": 0
     }
   },
@@ -55,19 +61,19 @@
     {
       "title": "Lightning Is 5 Times Hotter Than the Sun's Surface",
       "topic": "science",
-      "views": 1626,
+      "views": 1628,
       "hook": "A lightning bolt is five times hotter than the surface of the Sun."
     },
     {
       "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
       "topic": "science",
-      "views": 1474,
+      "views": 1475,
       "hook": "There are more trees on Earth than stars in the Milky Way."
     },
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1371,
+      "views": 1415,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -85,7 +91,7 @@
     {
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
-      "views": 1245,
+      "views": 1246,
       "hook": "There's a planet where it rains glass. Sideways."
     },
     {
@@ -97,20 +103,20 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1229,
+      "views": 1231,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
-    },
-    {
-      "title": "Wombats Poop Cubes. Scientists Finally Know Why",
-      "topic": "animals",
-      "views": 1209,
-      "hook": "Wombats poop cubes. Scientists finally figured out how."
     },
     {
       "title": "There's a Shark That Can Live for 400 Years",
       "topic": "animals",
-      "views": 1203,
+      "views": 1216,
       "hook": "There's a shark that can live for 400 years."
+    },
+    {
+      "title": "Wombats Poop Cubes. Scientists Finally Know Why",
+      "topic": "animals",
+      "views": 1210,
+      "hook": "Wombats poop cubes. Scientists finally figured out how."
     }
   ],
   "videos": {
@@ -145,7 +151,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1371,
+      "views": 1415,
       "likes": 58,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -157,7 +163,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 306,
+      "views": 328,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
@@ -169,7 +175,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1065,
+      "views": 1067,
       "likes": 50,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -205,7 +211,7 @@
       "hook": "Saturn would float in water.",
       "published_at": "2026-10-16T07:54:25Z",
       "privacy": "public",
-      "views": 1098,
+      "views": 1099,
       "likes": 30,
       "comments": 0,
       "url": "https://youtube.com/shorts/Q6SQw6zTdW8"
@@ -325,7 +331,7 @@
       "hook": "There are more trees on Earth than stars in the Milky Way.",
       "published_at": "2026-10-15T03:30:08Z",
       "privacy": "public",
-      "views": 1474,
+      "views": 1475,
       "likes": 23,
       "comments": 0,
       "url": "https://youtube.com/shorts/8v2IWv2BlSA"
@@ -361,7 +367,7 @@
       "hook": "There's a planet where it rains glass. Sideways.",
       "published_at": "2026-10-15T06:30:27Z",
       "privacy": "public",
-      "views": 1245,
+      "views": 1246,
       "likes": 58,
       "comments": 2,
       "url": "https://youtube.com/shorts/_AAxfyJTzHU"
@@ -373,7 +379,7 @@
       "hook": "Wombats poop cubes. Scientists finally figured out how.",
       "published_at": "2026-10-15T07:30:08Z",
       "privacy": "public",
-      "views": 1209,
+      "views": 1210,
       "likes": 28,
       "comments": 0,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4"
@@ -385,8 +391,8 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 596,
-      "likes": 20,
+      "views": 628,
+      "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
     },
@@ -397,7 +403,7 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 1094,
+      "views": 1097,
       "likes": 26,
       "comments": 2,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
@@ -409,7 +415,7 @@
       "hook": "A lightning bolt is five times hotter than the surface of the Sun.",
       "published_at": "2026-10-17T13:00:24Z",
       "privacy": "public",
-      "views": 1626,
+      "views": 1628,
       "likes": 38,
       "comments": 3,
       "url": "https://youtube.com/shorts/pSgxXZHFEbg"
@@ -433,7 +439,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1229,
+      "views": 1231,
       "likes": 24,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -445,7 +451,7 @@
       "hook": "There's a volcano three times taller than Everest. You could stroll up it.",
       "published_at": "2026-10-17T17:30:38Z",
       "privacy": "public",
-      "views": 151,
+      "views": 149,
       "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/t5IFKjlXUd0"
@@ -481,7 +487,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 949,
+      "views": 952,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -493,7 +499,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1203,
+      "views": 1216,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -505,7 +511,7 @@
       "hook": "The Sahara Desert feeds the Amazon rainforest. Every single year.",
       "published_at": "2026-10-18T02:30:25Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/LEOMS31AQWM"
@@ -517,8 +523,8 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 424,
-      "likes": 11,
+      "views": 825,
+      "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
     },
@@ -527,10 +533,10 @@
       "topic": "space",
       "style": "classic",
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
-      "published_at": "2026-10-18T05:32:55Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-10-18T10:30:02Z",
+      "privacy": "public",
+      "views": 202,
+      "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
     },
@@ -545,6 +551,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
+    },
+    "hUG-q54cj-0": {
+      "title": "Astronauts on the Space Station See 16 Sunrises a Day",
+      "topic": "space",
+      "style": "classic",
+      "hook": "Astronauts on the space station see 16 sunrises every single day.",
+      "published_at": "2026-10-18T10:45:27Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/hUG-q54cj-0"
+    },
+    "JgG0vB0x9xY": {
+      "title": "This Glass Drop Stops a Bullet, but a Pinch Destroys It",
+      "topic": "science",
+      "style": "punch",
+      "hook": "A glass drop that stops a bullet, but dies from a pinch.",
+      "published_at": "2026-10-18T10:54:35Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/JgG0vB0x9xY"
     }
   }
 }
