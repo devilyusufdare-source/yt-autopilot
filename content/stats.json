@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-18T05:32:59+00:00",
-  "total_videos": 35,
-  "total_views": 21988,
+  "updated_at": "2026-10-18T06:56:29+00:00",
+  "total_videos": 36,
+  "total_views": 22253,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -9,19 +9,19 @@
       "best_views": 364
     },
     "science": {
-      "videos": 4,
-      "avg_views": 1084,
+      "videos": 5,
+      "avg_views": 867,
       "best_views": 1625
     },
     "animals": {
       "videos": 10,
-      "avg_views": 860,
-      "best_views": 1317
+      "avg_views": 876,
+      "best_views": 1330
     },
     "human body": {
       "videos": 4,
-      "avg_views": 508,
-      "best_views": 1304
+      "avg_views": 516,
+      "best_views": 1305
     },
     "history": {
       "videos": 4,
@@ -30,14 +30,14 @@
     },
     "space": {
       "videos": 8,
-      "avg_views": 576,
-      "best_views": 1357
+      "avg_views": 585,
+      "best_views": 1358
     }
   },
   "by_style": {
     "classic": {
       "videos": 26,
-      "avg_views": 683,
+      "avg_views": 690,
       "over_1500": 1
     },
     "longform": {
@@ -46,8 +46,8 @@
       "over_1500": 0
     },
     "punch": {
-      "videos": 6,
-      "avg_views": 706,
+      "videos": 7,
+      "avg_views": 617,
       "over_1500": 0
     }
   },
@@ -61,25 +61,25 @@
     {
       "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
       "topic": "science",
-      "views": 1473,
+      "views": 1474,
       "hook": "There are more trees on Earth than stars in the Milky Way."
     },
     {
       "title": "A Day on Venus Is Longer Than Its Year",
       "topic": "space",
-      "views": 1357,
+      "views": 1358,
       "hook": "A day on Venus is longer than its entire year."
     },
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1317,
+      "views": 1330,
       "hook": "Crows remember your face. For years."
     },
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1304,
+      "views": 1305,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -107,10 +107,10 @@
       "hook": "Wombats poop cubes. Scientists finally figured out how."
     },
     {
-      "title": "This Shrimp Punches So Hard It Breaks Aquarium Glass",
+      "title": "There's a Shark That Can Live for 400 Years",
       "topic": "animals",
-      "views": 1194,
-      "hook": "There's a shrimp that punches hard enough to smash aquarium glass."
+      "views": 1203,
+      "hook": "There's a shark that can live for 400 years."
     }
   ],
   "videos": {
@@ -145,8 +145,8 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1317,
-      "likes": 56,
+      "views": 1330,
+      "likes": 57,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
     },
@@ -157,9 +157,9 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 262,
+      "views": 292,
       "likes": 9,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
     },
     "irIXXgt4nlo": {
@@ -169,7 +169,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1061,
+      "views": 1065,
       "likes": 50,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -241,7 +241,7 @@
       "hook": "A day on Venus is longer than its entire year.",
       "published_at": "2026-10-14T21:29:03Z",
       "privacy": "public",
-      "views": 1357,
+      "views": 1358,
       "likes": 49,
       "comments": 0,
       "url": "https://youtube.com/shorts/L1YCXdSWEZ4"
@@ -325,7 +325,7 @@
       "hook": "There are more trees on Earth than stars in the Milky Way.",
       "published_at": "2026-10-15T03:30:08Z",
       "privacy": "public",
-      "views": 1473,
+      "views": 1474,
       "likes": 23,
       "comments": 0,
       "url": "https://youtube.com/shorts/8v2IWv2BlSA"
@@ -385,7 +385,7 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 495,
+      "views": 559,
       "likes": 19,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
@@ -421,7 +421,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1304,
+      "views": 1305,
       "likes": 47,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -445,7 +445,7 @@
       "hook": "There's a volcano three times taller than Everest. You could stroll up it.",
       "published_at": "2026-10-17T17:30:38Z",
       "privacy": "public",
-      "views": 126,
+      "views": 133,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/t5IFKjlXUd0"
@@ -481,7 +481,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 817,
+      "views": 948,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -493,8 +493,8 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1192,
-      "likes": 31,
+      "views": 1203,
+      "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
     },
@@ -505,7 +505,7 @@
       "hook": "The Sahara Desert feeds the Amazon rainforest. Every single year.",
       "published_at": "2026-10-18T02:30:25Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/LEOMS31AQWM"
@@ -533,6 +533,18 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
+    },
+    "lbyTt6i2XOo": {
+      "title": "There's a Waterfall in Antarctica That Runs Blood Red",
+      "topic": "science",
+      "style": "punch",
+      "hook": "There's a waterfall in Antarctica that runs blood red.",
+      "published_at": "2026-10-18T06:56:21Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/lbyTt6i2XOo"
     }
   }
 }
