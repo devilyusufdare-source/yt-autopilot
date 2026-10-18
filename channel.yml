@@ -68,7 +68,7 @@ prospects:
 longform:
   enabled: false                   # paused: 0-1 views each on a 20-subscriber channel; switch on again at ~1,000 subscribers
   restart_at_subscribers: 1000
-  queue_target: 3                  # the writer keeps this many long videos ready
+  queue_target: 300                 # a month of ideas in stock, so uploads continue even when the idea writer is not running
   build_hours_ahead: 24
   min_segments: 8
   max_segments: 12
