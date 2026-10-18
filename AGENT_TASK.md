@@ -54,6 +54,27 @@ every sentence adds a new surprise or number, and the last line is the strongest
 video should feel finished exactly when it ends, so people re-watch). Weak viewer-centred ideas were
 moved to content/parked/ - do not re-create them, and do not write ideas like them.
 
+Day 4 update (36 videos, 23K views): the ceiling is still ~1,100-1,600. What separates the top from
+the bottom is now clear:
+- **Every video over 1,000 has a violent or extreme PHYSICAL event with a number, that the first
+  clip can SHOW**: lightning 5x hotter than the Sun (1,628), stomach acid eats a razor blade (1,311),
+  a shrimp smashes aquarium glass (1,194), it rains glass sideways (1,246), a cloud weighs a million
+  pounds (1,236) - or an animal with a superpower: crows remember your face (1,415), a shark lives
+  400 years (1,216), wombats poop cubes (1,210), the immortal jellyfish (1,067), animals survive open
+  space (1,231).
+- **Everything abstract, geographic or "older/taller than" without a dramatic picture flopped**:
+  Jupiter doesn't orbit the Sun (14), the Sahara feeds the Amazon (4), the shortest war (12), sharks
+  older than trees (188), Oxford older than the Aztecs (352), a volcano taller than Everest (149),
+  "your car could drive to space in an hour" (202). Body trivia flopped again (glowing 246, taller in
+  the morning 222, hum with your nose 328) unless it is visceral (stomach acid).
+- Rules from this: (1) the hook names a physical event or extreme number you can see - a strike,
+  a bite, a crash, a punch, something eaten, frozen, crushed, surviving the impossible; (2) scene 1
+  `keywords` must be the single most dramatic footage that exists for the fact (a lightning strike,
+  not "sky"; a mantis shrimp strike, not "shrimp"); (3) at least 4 of every 10 ideas are animals
+  with a superpower; (4) no history-of-institutions, no geography processes, no orbital mechanics,
+  no "did you know your body" trivia, no "try this" interactive facts; (5) every title carries the
+  number or the violent verb; (6) the last line is a twist or a bigger number, never a summary.
+
 So, until the data says otherwise:
 - At least 7 of every 10 ideas: animals, space, science, nature or history-with-a-twist, about
   a THING out there (an animal, a planet, a place, an object, an event) — not about the viewer.

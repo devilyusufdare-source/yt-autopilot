@@ -24,14 +24,14 @@ channel:
 # timezone), so a video uploaded at noon quietly waits as "Scheduled" until its slot.
 # Release times (India time) for a mixed US/India audience: Shorts every 1.5 h from 4 PM to 5 AM IST
 # (= 6:30 AM to 7:30 PM US East); the two India-daytime slots (8 AM, 12:30 PM = US night) flopped and
-# were dropped. The long video at 6:30 AM IST = 9 PM US East prime time. Daily plan = 1 long + 9 Shorts.
+# were dropped. Daily plan = 10 Shorts (long videos paused until the channel has an audience).
 # Before every upload the job counts the uploads of the last 24 h and waits for a free slot,
 # so the cap is never hit. Raise daily_limit only when YouTube raises the channel's limit.
 release:
   videos_per_run: 2                # per run; a run makes one extra when earlier runs were blocked (catch-up)
   interval_minutes: 60             # minimum spacing between two releases
-  shorts_slots: ["16:00", "17:30", "19:00", "20:30", "22:00", "23:30", "01:00", "03:00", "05:00"]
-  longform_slots: ["06:30"]        # 9 PM US East / 6 PM West: long videos get watched in the evening
+  shorts_slots: ["16:00", "17:30", "19:00", "20:30", "22:00", "23:30", "01:00", "02:30", "04:00", "05:30"]
+  longform_slots: ["06:30"]        # used only while longform.enabled is true
   daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
   probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it
   lead_minutes: 20                 # a publish time is at least this many minutes after the upload
@@ -66,7 +66,8 @@ prospects:
 # content/longform/queue/ (written by the long-form writer task, see AGENT_LONGFORM.md).
 # One is made for every free `longform_slots` time at most `build_hours_ahead` hours ahead.
 longform:
-  enabled: true
+  enabled: false                   # paused: 0-1 views each on a 20-subscriber channel; switch on again at ~1,000 subscribers
+  restart_at_subscribers: 1000
   queue_target: 3                  # the writer keeps this many long videos ready
   build_hours_ahead: 24
   min_segments: 8
