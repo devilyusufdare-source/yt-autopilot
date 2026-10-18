@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-18T10:54:42+00:00",
+  "updated_at": "2026-10-18T12:53:23+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 45,
-    "channel_views": 12590,
-    "video_count": 45
+    "channel_views": 13261,
+    "video_count": 46
   },
-  "total_videos": 38,
-  "total_views": 23525,
+  "total_videos": 39,
+  "total_views": 24780,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -20,14 +20,14 @@
       "best_views": 1628
     },
     "animals": {
-      "videos": 10,
-      "avg_views": 969,
-      "best_views": 1415
+      "videos": 11,
+      "avg_views": 914,
+      "best_views": 1418
     },
     "human body": {
       "videos": 4,
-      "avg_views": 527,
-      "best_views": 1311
+      "avg_views": 532,
+      "best_views": 1313
     },
     "history": {
       "videos": 4,
@@ -36,14 +36,14 @@
     },
     "space": {
       "videos": 9,
-      "avg_views": 552,
+      "avg_views": 649,
       "best_views": 1358
     }
   },
   "by_style": {
     "classic": {
-      "videos": 27,
-      "avg_views": 677,
+      "videos": 28,
+      "avg_views": 684,
       "over_1500": 1
     },
     "longform": {
@@ -53,7 +53,7 @@
     },
     "punch": {
       "videos": 8,
-      "avg_views": 655,
+      "avg_views": 705,
       "over_1500": 0
     }
   },
@@ -73,7 +73,7 @@
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1415,
+      "views": 1418,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -85,7 +85,7 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1311,
+      "views": 1313,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -103,7 +103,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1231,
+      "views": 1234,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -115,7 +115,7 @@
     {
       "title": "Wombats Poop Cubes. Scientists Finally Know Why",
       "topic": "animals",
-      "views": 1210,
+      "views": 1211,
       "hook": "Wombats poop cubes. Scientists finally figured out how."
     }
   ],
@@ -151,7 +151,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1415,
+      "views": 1418,
       "likes": 58,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -163,9 +163,9 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 328,
+      "views": 348,
       "likes": 11,
-      "comments": 1,
+      "comments": 2,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
     },
     "irIXXgt4nlo": {
@@ -175,7 +175,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1067,
+      "views": 1068,
       "likes": 50,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -368,7 +368,7 @@
       "published_at": "2026-10-15T06:30:27Z",
       "privacy": "public",
       "views": 1246,
-      "likes": 58,
+      "likes": 59,
       "comments": 2,
       "url": "https://youtube.com/shorts/_AAxfyJTzHU"
     },
@@ -379,7 +379,7 @@
       "hook": "Wombats poop cubes. Scientists finally figured out how.",
       "published_at": "2026-10-15T07:30:08Z",
       "privacy": "public",
-      "views": 1210,
+      "views": 1211,
       "likes": 28,
       "comments": 0,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4"
@@ -427,7 +427,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1311,
+      "views": 1313,
       "likes": 47,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -439,7 +439,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1231,
+      "views": 1234,
       "likes": 24,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -451,7 +451,7 @@
       "hook": "There's a volcano three times taller than Everest. You could stroll up it.",
       "published_at": "2026-10-17T17:30:38Z",
       "privacy": "public",
-      "views": 149,
+      "views": 189,
       "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/t5IFKjlXUd0"
@@ -487,7 +487,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 952,
+      "views": 954,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -523,7 +523,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 825,
+      "views": 1176,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -535,8 +535,8 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 202,
-      "likes": 4,
+      "views": 550,
+      "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
     },
@@ -557,10 +557,10 @@
       "topic": "space",
       "style": "classic",
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
-      "published_at": "2026-10-18T10:45:27Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-10-18T12:00:28Z",
+      "privacy": "public",
+      "views": 484,
+      "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
     },
@@ -575,6 +575,18 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
+    },
+    "jNVKvOMi3ko": {
+      "title": "A New Dinosaur Was Just Discovered. In a Museum Drawer",
+      "topic": "animals",
+      "style": "classic",
+      "hook": "A new dinosaur was just discovered. In a museum drawer.",
+      "published_at": "2026-10-18T12:53:13Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/jNVKvOMi3ko"
     }
   }
 }
