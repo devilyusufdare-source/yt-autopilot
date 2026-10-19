@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-19T14:52:01+00:00",
+  "updated_at": "2026-10-19T16:50:37+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 46,
     "channel_views": 22782,
-    "video_count": 45
+    "video_count": 47
   },
   "total_videos": 49,
-  "total_views": 28771,
+  "total_views": 28839,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,13 +16,13 @@
     },
     "science": {
       "videos": 10,
-      "avg_views": 492,
+      "avg_views": 493,
       "best_views": 1639
     },
     "animals": {
       "videos": 14,
-      "avg_views": 823,
-      "best_views": 1489
+      "avg_views": 826,
+      "best_views": 1491
     },
     "human body": {
       "videos": 4,
@@ -36,14 +36,14 @@
     },
     "space": {
       "videos": 11,
-      "avg_views": 704,
-      "best_views": 1394
+      "avg_views": 705,
+      "best_views": 1400
     }
   },
   "by_style": {
     "classic": {
       "videos": 33,
-      "avg_views": 677,
+      "avg_views": 679,
       "over_1500": 1
     },
     "longform": {
@@ -68,7 +68,7 @@
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1489,
+      "views": 1491,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -80,20 +80,20 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1394,
+      "views": 1400,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
+    },
+    {
+      "title": "Astronauts on the Space Station See 16 Sunrises a Day",
+      "topic": "space",
+      "views": 1365,
+      "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
       "title": "A Day on Venus Is Longer Than Its Year",
       "topic": "space",
       "views": 1359,
       "hook": "A day on Venus is longer than its entire year."
-    },
-    {
-      "title": "Astronauts on the Space Station See 16 Sunrises a Day",
-      "topic": "space",
-      "views": 1355,
-      "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
@@ -155,7 +155,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1489,
+      "views": 1491,
       "likes": 60,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -413,10 +413,10 @@
       "style": "classic",
       "voice": null,
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
-      "published_at": "2026-10-19T10:50:31Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-10-19T16:30:29Z",
+      "privacy": "public",
+      "views": 6,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
     },
@@ -584,8 +584,8 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1394,
-      "likes": 15,
+      "views": 1400,
+      "likes": 16,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
     },
@@ -597,7 +597,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 119,
+      "views": 123,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -623,7 +623,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 1355,
+      "views": 1365,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -636,7 +636,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 422,
+      "views": 423,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -675,7 +675,7 @@
       "hook": "In 1958, a wave 1,720 feet tall hit Alaska.",
       "published_at": "2026-10-18T22:30:27Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/oUmGCbVNL3k"
@@ -688,7 +688,7 @@
       "hook": "A meteor blew up over Russia with 30 times Hiroshima's power.",
       "published_at": "2026-10-19T10:30:01Z",
       "privacy": "public",
-      "views": 2,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/UDcAAirDM9o"
@@ -701,7 +701,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 153,
+      "views": 196,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -714,7 +714,7 @@
       "hook": "In 2022, a volcano fired 2,600 lightning bolts a minute.",
       "published_at": "2026-10-19T12:00:19Z",
       "privacy": "public",
-      "views": 3,
+      "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/YmsVWnGQ7_k"
@@ -727,7 +727,7 @@
       "hook": "One drill hole drained an entire lake in three hours.",
       "published_at": "2026-10-19T13:30:34Z",
       "privacy": "public",
-      "views": 8,
+      "views": 6,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/TtDH4yL4P10"
@@ -738,9 +738,9 @@
       "style": "punch",
       "voice": null,
       "hook": "A robot on Mars broke the off-world driving record.",
-      "published_at": "2026-10-19T07:07:21Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-19T15:00:02Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/T4gdnphQUUE"
