@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-18T22:41:23+00:00",
+  "updated_at": "2026-10-19T01:39:29+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 46,
     "channel_views": 17029,
-    "video_count": 40
+    "video_count": 41
   },
-  "total_videos": 41,
-  "total_views": 28025,
+  "total_videos": 43,
+  "total_views": 28100,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,13 +16,13 @@
     },
     "science": {
       "videos": 7,
-      "avg_views": 688,
+      "avg_views": 691,
       "best_views": 1638
     },
     "animals": {
-      "videos": 12,
-      "avg_views": 929,
-      "best_views": 1467
+      "videos": 13,
+      "avg_views": 860,
+      "best_views": 1477
     },
     "human body": {
       "videos": 4,
@@ -35,15 +35,15 @@
       "best_views": 1097
     },
     "space": {
-      "videos": 9,
-      "avg_views": 833,
+      "videos": 10,
+      "avg_views": 752,
       "best_views": 1359
     }
   },
   "by_style": {
     "classic": {
-      "videos": 29,
-      "avg_views": 750,
+      "videos": 30,
+      "avg_views": 726,
       "over_1500": 1
     },
     "longform": {
@@ -52,8 +52,8 @@
       "over_1500": 0
     },
     "punch": {
-      "videos": 9,
-      "avg_views": 698,
+      "videos": 10,
+      "avg_views": 631,
       "over_1500": 0
     }
   },
@@ -73,7 +73,7 @@
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1467,
+      "views": 1477,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -95,16 +95,16 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
+      "title": "Astronauts on the Space Station See 16 Sunrises a Day",
+      "topic": "space",
+      "views": 1266,
+      "hook": "Astronauts on the space station see 16 sunrises every single day."
+    },
+    {
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
       "views": 1261,
       "hook": "There's a planet where it rains glass. Sideways."
-    },
-    {
-      "title": "Astronauts on the Space Station See 16 Sunrises a Day",
-      "topic": "space",
-      "views": 1254,
-      "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
       "title": "A Single Cloud Weighs Over a Million Pounds",
@@ -151,8 +151,8 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1467,
-      "likes": 59,
+      "views": 1477,
+      "likes": 60,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
     },
@@ -305,8 +305,8 @@
       "topic": null,
       "style": "longform",
       "hook": null,
-      "published_at": "2026-10-18T01:33:04Z",
-      "privacy": "private",
+      "published_at": "2026-10-19T01:00:28Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -355,7 +355,7 @@
       "hook": "Your body is glowing right now. You just can't see it.",
       "published_at": "2026-10-15T05:30:37Z",
       "privacy": "public",
-      "views": 246,
+      "views": 245,
       "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/T00_3CUDt5s"
@@ -391,7 +391,7 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 680,
+      "views": 683,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
@@ -451,8 +451,8 @@
       "hook": "There's a volcano three times taller than Everest. You could stroll up it.",
       "published_at": "2026-10-17T17:30:38Z",
       "privacy": "public",
-      "views": 266,
-      "likes": 9,
+      "views": 269,
+      "likes": 10,
       "comments": 0,
       "url": "https://youtube.com/shorts/t5IFKjlXUd0"
     },
@@ -475,7 +475,7 @@
       "hook": "Jupiter doesn't orbit the Sun. Not exactly.",
       "published_at": "2026-10-17T07:00:34Z",
       "privacy": "public",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/SLTRR1243fU"
@@ -487,7 +487,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 963,
+      "views": 965,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -499,7 +499,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1228,
+      "views": 1230,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -523,7 +523,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1224,
+      "views": 1226,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -547,7 +547,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 62,
+      "views": 83,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -559,7 +559,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 1254,
+      "views": 1266,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -583,7 +583,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 977,
+      "views": 993,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
@@ -607,10 +607,34 @@
       "hook": "In 1958, a wave 1,720 feet tall hit Alaska.",
       "published_at": "2026-10-18T22:30:27Z",
       "privacy": "public",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/oUmGCbVNL3k"
+    },
+    "UDcAAirDM9o": {
+      "title": "A Meteor Blew Up Over Russia With 30 Times the Power of Hiroshima",
+      "topic": "space",
+      "style": "punch",
+      "hook": "A meteor blew up over Russia with 30 times Hiroshima's power.",
+      "published_at": "2026-10-19T01:01:28Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/UDcAAirDM9o"
+    },
+    "GqUvFhc7Slk": {
+      "title": "An Orca Killed a Great White Shark in Under 2 Minutes. Alone",
+      "topic": "animals",
+      "style": "classic",
+      "hook": "An orca killed a great white shark in under two minutes.",
+      "published_at": "2026-10-19T01:39:21Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/GqUvFhc7Slk"
     }
   }
 }
