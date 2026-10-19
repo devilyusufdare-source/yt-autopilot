@@ -1,0 +1,57 @@
+{
+  "id": "2027-11-27-starlink-38-satellites-lost-minor-solar-storm",
+  "topic": "space",
+  "title": "A Minor Solar Storm Destroyed 38 Brand-New Starlink Satellites",
+  "scenes": [
+    {
+      "text": "A minor solar storm destroyed 38 brand-new satellites in days.",
+      "keywords": "satellites orbiting earth"
+    },
+    {
+      "text": "In February 2022, SpaceX launched 49 Starlink satellites.",
+      "keywords": "rocket launch night"
+    },
+    {
+      "text": "A day later, a solar storm hit Earth.",
+      "keywords": "sun solar flare"
+    },
+    {
+      "text": "It heated the upper air, which swelled up and dragged on the satellites.",
+      "keywords": "aurora earth space"
+    },
+    {
+      "text": "Thirty-eight of them fell back and burned up in the atmosphere.",
+      "keywords": "meteor burning atmosphere"
+    },
+    {
+      "text": "The storm was rated minor. Imagine a big one.",
+      "keywords": "solar storm sun"
+    }
+  ],
+  "description": "In February 2022, SpaceX launched 49 Starlink satellites. A minor solar storm struck the next day.\nThe storm swelled Earth's upper air, and 38 satellites were dragged down and burned up.\nWhat would a major storm do?",
+  "tags": [
+    "starlink",
+    "solar storm",
+    "spacex",
+    "satellites",
+    "space weather",
+    "geomagnetic storm",
+    "space facts",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#starlink",
+    "#space",
+    "#sun"
+  ],
+  "sources": [
+    "https://cires.colorado.edu/news/minor-geomagnetic-storm-big-impact-february-2022-starlink-satellite-loss",
+    "https://svs.gsfc.nasa.gov/hyperwall/index/data/a000000/a005100/a005193/cap5193.txt.html"
+  ],
+  "thumbnail_text": "A MINOR STORM KILLED 38 SATELLITES",
+  "priority": 6,
+  "first_comment": "Should we worry about the next big solar storm?"
+}
