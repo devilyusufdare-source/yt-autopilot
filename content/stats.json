@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T19:39:48+00:00",
+  "updated_at": "2026-10-19T20:47:32+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 46,
@@ -7,7 +7,7 @@
     "video_count": 49
   },
   "total_videos": 51,
-  "total_views": 28942,
+  "total_views": 28953,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -21,7 +21,7 @@
     },
     "animals": {
       "videos": 14,
-      "avg_views": 830,
+      "avg_views": 831,
       "best_views": 1493
     },
     "human body": {
@@ -32,18 +32,18 @@
     "history": {
       "videos": 5,
       "avg_views": 349,
-      "best_views": 1099
+      "best_views": 1098
     },
     "space": {
       "videos": 13,
       "avg_views": 598,
-      "best_views": 1401
+      "best_views": 1402
     }
   },
   "by_style": {
     "classic": {
       "videos": 35,
-      "avg_views": 642,
+      "avg_views": 643,
       "over_1500": 1
     },
     "longform": {
@@ -53,7 +53,7 @@
     },
     "punch": {
       "videos": 13,
-      "avg_views": 496,
+      "avg_views": 497,
       "over_1500": 0
     }
   },
@@ -85,13 +85,13 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1401,
+      "views": 1402,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
       "title": "Astronauts on the Space Station See 16 Sunrises a Day",
       "topic": "space",
-      "views": 1369,
+      "views": 1371,
       "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
@@ -115,7 +115,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1249,
+      "views": 1251,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -420,8 +420,8 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 11,
-      "likes": 2,
+      "views": 16,
+      "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
     },
@@ -446,7 +446,7 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 1099,
+      "views": 1098,
       "likes": 26,
       "comments": 2,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
@@ -485,7 +485,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1249,
+      "views": 1251,
       "likes": 25,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -576,7 +576,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1233,
+      "views": 1234,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -589,7 +589,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1401,
+      "views": 1402,
       "likes": 16,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -602,7 +602,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 128,
+      "views": 123,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -615,8 +615,8 @@
       "hook": "Koalas have fingerprints. Almost identical to yours.",
       "published_at": "2026-10-19T18:00:17Z",
       "privacy": "public",
-      "views": 2,
-      "likes": 0,
+      "views": 8,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/XW0IAUHH4EI"
     },
@@ -628,7 +628,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 1369,
+      "views": 1371,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -641,7 +641,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 428,
+      "views": 430,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -654,7 +654,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 1006,
+      "views": 1007,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
@@ -706,7 +706,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 240,
+      "views": 236,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -745,8 +745,8 @@
       "hook": "A robot on Mars broke the off-world driving record.",
       "published_at": "2026-10-19T15:00:02Z",
       "privacy": "public",
-      "views": 8,
-      "likes": 0,
+      "views": 9,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/T4gdnphQUUE"
     },
