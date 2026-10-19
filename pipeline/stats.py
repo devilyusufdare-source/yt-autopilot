@@ -36,6 +36,7 @@ def update_stats(youtube) -> dict:
                 "title": item["snippet"]["title"],
                 "topic": pkg.get("topic"),
                 "style": pkg.get("style", "classic"),
+                "voice": pkg.get("voice_used"),
                 "hook": (pkg.get("scenes") or [{}])[0].get("text"),
                 "published_at": item["snippet"].get("publishedAt"),
                 "privacy": item.get("status", {}).get("privacyStatus"),
@@ -57,6 +58,11 @@ def update_stats(youtube) -> dict:
         by_style[v.get("style") or "classic"].append(v["views"])
     style_summary = {k: {"videos": len(vs), "avg_views": round(sum(vs) / len(vs)), "over_1500": sum(1 for x in vs if x >= 1500)}
                      for k, vs in by_style.items()}
+    by_voice: dict[str, list[int]] = defaultdict(list)
+    for v in videos.values():
+        if v.get("voice"):
+            by_voice[v["voice"]].append(v["views"])
+    voice_summary = {k: {"videos": len(vs), "avg_views": round(sum(vs) / len(vs))} for k, vs in by_voice.items()}
     top = sorted(videos.values(), key=lambda v: v["views"], reverse=True)[:10]
     channel = {}
     try:
@@ -74,6 +80,7 @@ def update_stats(youtube) -> dict:
         "total_views": sum(v["views"] for v in videos.values()),
         "by_topic": summary,
         "by_style": style_summary,
+        "by_voice": voice_summary,
         "top_videos": [{"title": v["title"], "topic": v["topic"], "views": v["views"], "hook": v["hook"]} for v in top],
         "videos": videos,
     }

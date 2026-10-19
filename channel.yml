@@ -47,6 +47,18 @@ facebook:
   long_videos: true
   footer: "Follow Mind Unlocked Facts for a new verified fact every day."
 
+# Per-topic look, so ten videos a day do not share one template (YouTube treats identical-looking
+# uploads as mass-produced). Each topic gets its own caption colour, voice and motion; anything not
+# listed falls back to `default`. Voices: any en-US-*Neural edge-tts voice.
+looks:
+  default:    { highlight_color: "#FFD400", voice: "en-US-AndrewNeural", zoom: 0.08 }
+  space:      { highlight_color: "#7DD3FC", voice: "en-US-AndrewNeural", zoom: 0.06 }
+  animals:    { highlight_color: "#86EFAC", voice: "en-US-BrianNeural",  zoom: 0.10 }
+  science:    { highlight_color: "#FFD400", voice: "en-US-GuyNeural",    zoom: 0.08 }
+  human body: { highlight_color: "#FDA4AF", voice: "en-US-AvaNeural",    zoom: 0.09 }
+  history:    { highlight_color: "#FCD34D", voice: "en-US-ChristopherNeural", zoom: 0.07 }
+  psychology: { highlight_color: "#C4B5FD", voice: "en-US-EmmaNeural",   zoom: 0.08 }
+
 # Client prospecting (python -m pipeline.prospects / the "Find client prospects" workflow):
 # niches where small creators post Shorts and would buy ready-made ones.
 prospects:

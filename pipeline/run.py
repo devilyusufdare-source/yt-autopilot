@@ -366,6 +366,22 @@ def release_slot(cfg, extra_taken: list[str], kind: str = "shorts") -> str | Non
     return chosen[0]
 
 
+def topic_look(cfg, pkg: dict):
+    """Config re-coloured and re-voiced for this video's topic (see `looks` in channel.yml), plus the voice used."""
+    from .config import with_overrides
+    topic = (pkg.get("topic") or "").lower()
+    looks = cfg.get("looks") or {}
+    look = dict(looks.get("default") or {})
+    look.update(looks.get(topic) or {})
+    over = {}
+    if look.get("highlight_color"):
+        over["captions.highlight_color"] = look["highlight_color"]
+    if look.get("zoom") is not None:
+        over["video.zoom"] = float(look["zoom"])
+    voice = pkg.get("voice") or look.get("voice") or cfg.get("voice.edge_voice")
+    return (with_overrides(cfg, over) if over else cfg), voice
+
+
 def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at: str | None = None) -> dict:
     """Render everything for one package into outdir. Returns file paths and details.
 
@@ -374,6 +390,7 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
                      a small "follow" label in the last second (ends on the punchline so it loops).
     """
     outdir.mkdir(parents=True, exist_ok=True)
+    cfg, voice = topic_look(cfg, pkg)
     scenes = [s["text"] for s in pkg["scenes"]]
     keywords = [s["keywords"] for s in pkg["scenes"]]
     cta = pkg.get("cta") if "cta" in pkg else cfg.get("cta.text", "")
@@ -381,8 +398,8 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
         scenes.append(cta)
         keywords.append(keywords[-1])
 
-    print(f"[run] voice: {len(scenes)} scenes")
-    audio, engine = tts_mod.synthesize(scenes, cfg, outdir / "tts", voice=pkg.get("voice"))
+    print(f"[run] voice: {len(scenes)} scenes ({voice})")
+    audio, engine = tts_mod.synthesize(scenes, cfg, outdir / "tts", voice=voice)
     gap = float(cfg.get("video.gap_seconds", 0.25))
     durations, words = assemble_voice(audio, gap, outdir / "voice.wav")
     total_est = sum(durations)
@@ -429,7 +446,8 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
     for c in vis.credits:
         footage[c["provider"]] = footage.get(c["provider"], 0) + 1
     footage["animated-background"] = len(clips) - len(vis.credits)
-    return {"video": final, "thumbnail": thumb, "duration": total, "tts_engine": engine,
+    return {"video": final, "thumbnail": thumb, "duration": total, "tts_engine": engine, "voice": voice,
+            "highlight_color": cfg.get("captions.highlight_color"),
             "words": sum(len(w) for w in words), "footage": footage, "style": style}
 
 
@@ -639,6 +657,8 @@ def main(argv: list[str] | None = None) -> int:
         if slot:
             claimed.append(slot)
         pkg["tts_engine"] = result["tts_engine"]
+        pkg["voice_used"] = result.get("voice")
+        pkg["highlight_color"] = result.get("highlight_color")
         pkg["duration_seconds"] = round(result["duration"], 1)
         pkg["style"] = style
         pkg["kind"] = kind
