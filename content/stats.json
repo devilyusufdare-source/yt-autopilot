@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-19T16:50:37+00:00",
+  "updated_at": "2026-10-19T19:39:48+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 46,
     "channel_views": 22782,
-    "video_count": 47
+    "video_count": 49
   },
-  "total_videos": 49,
-  "total_views": 28839,
+  "total_videos": 51,
+  "total_views": 28942,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,34 +16,34 @@
     },
     "science": {
       "videos": 10,
-      "avg_views": 493,
-      "best_views": 1639
+      "avg_views": 495,
+      "best_views": 1644
     },
     "animals": {
       "videos": 14,
-      "avg_views": 826,
-      "best_views": 1491
+      "avg_views": 830,
+      "best_views": 1493
     },
     "human body": {
       "videos": 4,
       "avg_views": 540,
-      "best_views": 1332
+      "best_views": 1334
     },
     "history": {
       "videos": 5,
-      "avg_views": 347,
-      "best_views": 1098
+      "avg_views": 349,
+      "best_views": 1099
     },
     "space": {
-      "videos": 11,
-      "avg_views": 705,
-      "best_views": 1400
+      "videos": 13,
+      "avg_views": 598,
+      "best_views": 1401
     }
   },
   "by_style": {
     "classic": {
-      "videos": 33,
-      "avg_views": 679,
+      "videos": 35,
+      "avg_views": 642,
       "over_1500": 1
     },
     "longform": {
@@ -53,22 +53,27 @@
     },
     "punch": {
       "videos": 13,
-      "avg_views": 494,
+      "avg_views": 496,
       "over_1500": 0
     }
   },
-  "by_voice": {},
+  "by_voice": {
+    "en-US-AndrewNeural": {
+      "videos": 2,
+      "avg_views": 0
+    }
+  },
   "top_videos": [
     {
       "title": "Lightning Is 5 Times Hotter Than the Sun's Surface",
       "topic": "science",
-      "views": 1639,
+      "views": 1644,
       "hook": "A lightning bolt is five times hotter than the surface of the Sun."
     },
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1491,
+      "views": 1493,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -80,13 +85,13 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1400,
+      "views": 1401,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
       "title": "Astronauts on the Space Station See 16 Sunrises a Day",
       "topic": "space",
-      "views": 1365,
+      "views": 1369,
       "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
@@ -98,7 +103,7 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1332,
+      "views": 1334,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -110,7 +115,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1245,
+      "views": 1249,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -155,7 +160,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1491,
+      "views": 1493,
       "likes": 60,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -415,8 +420,8 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 6,
-      "likes": 1,
+      "views": 11,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
     },
@@ -441,7 +446,7 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 1098,
+      "views": 1099,
       "likes": 26,
       "comments": 2,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
@@ -454,7 +459,7 @@
       "hook": "A lightning bolt is five times hotter than the surface of the Sun.",
       "published_at": "2026-10-17T13:00:24Z",
       "privacy": "public",
-      "views": 1639,
+      "views": 1644,
       "likes": 38,
       "comments": 3,
       "url": "https://youtube.com/shorts/pSgxXZHFEbg"
@@ -467,8 +472,8 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1332,
-      "likes": 49,
+      "views": 1334,
+      "likes": 50,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
     },
@@ -480,7 +485,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1245,
+      "views": 1249,
       "likes": 25,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -584,7 +589,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1400,
+      "views": 1401,
       "likes": 16,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -597,7 +602,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 123,
+      "views": 128,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -608,9 +613,9 @@
       "style": "punch",
       "voice": null,
       "hook": "Koalas have fingerprints. Almost identical to yours.",
-      "published_at": "2026-10-19T11:00:42Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-19T18:00:17Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/XW0IAUHH4EI"
@@ -623,7 +628,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 1365,
+      "views": 1369,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -636,7 +641,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 423,
+      "views": 428,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -688,7 +693,7 @@
       "hook": "A meteor blew up over Russia with 30 times Hiroshima's power.",
       "published_at": "2026-10-19T10:30:01Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/UDcAAirDM9o"
@@ -701,8 +706,8 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 196,
-      "likes": 1,
+      "views": 240,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
     },
@@ -714,7 +719,7 @@
       "hook": "In 2022, a volcano fired 2,600 lightning bolts a minute.",
       "published_at": "2026-10-19T12:00:19Z",
       "privacy": "public",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/YmsVWnGQ7_k"
@@ -727,7 +732,7 @@
       "hook": "One drill hole drained an entire lake in three hours.",
       "published_at": "2026-10-19T13:30:34Z",
       "privacy": "public",
-      "views": 6,
+      "views": 16,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/TtDH4yL4P10"
@@ -740,7 +745,7 @@
       "hook": "A robot on Mars broke the off-world driving record.",
       "published_at": "2026-10-19T15:00:02Z",
       "privacy": "public",
-      "views": 1,
+      "views": 8,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/T4gdnphQUUE"
@@ -751,12 +756,38 @@
       "style": "classic",
       "voice": null,
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
-      "published_at": "2026-10-19T13:02:13Z",
-      "privacy": "private",
+      "published_at": "2026-10-19T19:30:00Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
+    },
+    "6lrpcVotc7I": {
+      "title": "A Spacecraft Launched in 2018 Reaches Mercury This November",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This spacecraft left Earth in 2018 and reaches Mercury in November.",
+      "published_at": "2026-10-19T19:36:18Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/6lrpcVotc7I"
+    },
+    "HS8O59SC0rc": {
+      "title": "Lightning Hit Apollo 12 Twice 52 Seconds After Launch",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Lightning hit a Moon rocket twice in the first 52 seconds.",
+      "published_at": "2026-10-19T19:39:41Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/HS8O59SC0rc"
     }
   }
 }
