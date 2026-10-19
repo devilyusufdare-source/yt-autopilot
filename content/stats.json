@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-19T08:54:14+00:00",
+  "updated_at": "2026-10-19T11:00:51+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 46,
     "channel_views": 22782,
-    "video_count": 42
+    "video_count": 43
   },
-  "total_videos": 46,
-  "total_views": 28386,
+  "total_videos": 48,
+  "total_views": 28671,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -15,14 +15,14 @@
       "best_views": 364
     },
     "science": {
-      "videos": 8,
-      "avg_views": 610,
+      "videos": 9,
+      "avg_views": 544,
       "best_views": 1638
     },
     "animals": {
-      "videos": 13,
-      "avg_views": 867,
-      "best_views": 1481
+      "videos": 14,
+      "avg_views": 820,
+      "best_views": 1483
     },
     "human body": {
       "videos": 4,
@@ -36,14 +36,14 @@
     },
     "space": {
       "videos": 11,
-      "avg_views": 696,
-      "best_views": 1386
+      "avg_views": 702,
+      "best_views": 1393
     }
   },
   "by_style": {
     "classic": {
-      "videos": 31,
-      "avg_views": 710,
+      "videos": 32,
+      "avg_views": 696,
       "over_1500": 1
     },
     "longform": {
@@ -52,8 +52,8 @@
       "over_1500": 0
     },
     "punch": {
-      "videos": 12,
-      "avg_views": 531,
+      "videos": 13,
+      "avg_views": 492,
       "over_1500": 0
     }
   },
@@ -65,21 +65,21 @@
       "hook": "A lightning bolt is five times hotter than the surface of the Sun."
     },
     {
+      "title": "Crows Remember Your Face for Years",
+      "topic": "animals",
+      "views": 1483,
+      "hook": "Crows remember your face. For years."
+    },
+    {
       "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
       "topic": "science",
       "views": 1483,
       "hook": "There are more trees on Earth than stars in the Milky Way."
     },
     {
-      "title": "Crows Remember Your Face for Years",
-      "topic": "animals",
-      "views": 1481,
-      "hook": "Crows remember your face. For years."
-    },
-    {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1386,
+      "views": 1393,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -89,16 +89,16 @@
       "hook": "A day on Venus is longer than its entire year."
     },
     {
+      "title": "Astronauts on the Space Station See 16 Sunrises a Day",
+      "topic": "space",
+      "views": 1346,
+      "hook": "Astronauts on the space station see 16 sunrises every single day."
+    },
+    {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
       "views": 1327,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
-    },
-    {
-      "title": "Astronauts on the Space Station See 16 Sunrises a Day",
-      "topic": "space",
-      "views": 1285,
-      "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
       "title": "There's a Planet Where It Rains Glass Sideways",
@@ -107,16 +107,16 @@
       "hook": "There's a planet where it rains glass. Sideways."
     },
     {
+      "title": "Scientists Threw These Animals Into Open Space. They Survived",
+      "topic": "animals",
+      "views": 1243,
+      "hook": "Scientists shot tiny animals into open space. They came back alive."
+    },
+    {
       "title": "A Single Cloud Weighs Over a Million Pounds",
       "topic": "science",
       "views": 1237,
       "hook": "A single cloud can weigh over a million pounds."
-    },
-    {
-      "title": "Scientists Threw These Animals Into Open Space. They Survived",
-      "topic": "animals",
-      "views": 1235,
-      "hook": "Scientists shot tiny animals into open space. They came back alive."
     }
   ],
   "videos": {
@@ -151,7 +151,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1481,
+      "views": 1483,
       "likes": 60,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -175,7 +175,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1080,
+      "views": 1083,
       "likes": 50,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -199,7 +199,7 @@
       "hook": "On Neptune, it rains diamonds.",
       "published_at": "2026-10-16T05:30:13Z",
       "privacy": "public",
-      "views": 274,
+      "views": 275,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/UaeMKmWXL5w"
@@ -211,7 +211,7 @@
       "hook": "Saturn would float in water.",
       "published_at": "2026-10-16T07:54:25Z",
       "privacy": "public",
-      "views": 1099,
+      "views": 1101,
       "likes": 30,
       "comments": 0,
       "url": "https://youtube.com/shorts/Q6SQw6zTdW8"
@@ -384,6 +384,18 @@
       "comments": 0,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4"
     },
+    "W2Swu8Jkmjs": {
+      "title": "Why Honey Never Goes Bad (Even After Thousands of Years)",
+      "topic": "science",
+      "style": "classic",
+      "hook": "There's a food in your kitchen that can't go bad. Ever.",
+      "published_at": "2026-10-19T10:50:31Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
+    },
     "lrbMTCxwBCU": {
       "title": "A Sugar Cube of This Star Weighs a Billion Tons",
       "topic": "space",
@@ -439,7 +451,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1235,
+      "views": 1243,
       "likes": 25,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -451,7 +463,7 @@
       "hook": "There's a volcano three times taller than Everest. You could stroll up it.",
       "published_at": "2026-10-17T17:30:38Z",
       "privacy": "public",
-      "views": 280,
+      "views": 281,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/t5IFKjlXUd0"
@@ -463,7 +475,7 @@
       "hook": "There's a shrimp that punches hard enough to smash aquarium glass.",
       "published_at": "2026-10-17T12:00:25Z",
       "privacy": "public",
-      "views": 1195,
+      "views": 1196,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/WK_pBpY-xpQ"
@@ -487,7 +499,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 966,
+      "views": 1094,
       "likes": 25,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -499,7 +511,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1231,
+      "views": 1232,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -523,7 +535,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1228,
+      "views": 1232,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -535,7 +547,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1386,
+      "views": 1393,
       "likes": 15,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -547,10 +559,22 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 102,
+      "views": 108,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
+    },
+    "XW0IAUHH4EI": {
+      "title": "Koalas Have Fingerprints Almost Identical to Yours",
+      "topic": "animals",
+      "style": "punch",
+      "hook": "Koalas have fingerprints. Almost identical to yours.",
+      "published_at": "2026-10-19T11:00:42Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/XW0IAUHH4EI"
     },
     "hUG-q54cj-0": {
       "title": "Astronauts on the Space Station See 16 Sunrises a Day",
@@ -559,7 +583,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 1285,
+      "views": 1346,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -571,7 +595,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 411,
+      "views": 417,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -583,7 +607,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 1002,
+      "views": 1004,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
@@ -607,7 +631,7 @@
       "hook": "In 1958, a wave 1,720 feet tall hit Alaska.",
       "published_at": "2026-10-18T22:30:27Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/oUmGCbVNL3k"
@@ -617,8 +641,8 @@
       "topic": "space",
       "style": "punch",
       "hook": "A meteor blew up over Russia with 30 times Hiroshima's power.",
-      "published_at": "2026-10-19T01:01:28Z",
-      "privacy": "private",
+      "published_at": "2026-10-19T10:30:01Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -631,8 +655,8 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 68,
-      "likes": 0,
+      "views": 119,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
     },
