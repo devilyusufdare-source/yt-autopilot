@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-19T05:39:46+00:00",
+  "updated_at": "2026-10-19T07:07:27+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 45,
     "channel_views": 22782,
     "video_count": 42
   },
-  "total_videos": 45,
-  "total_views": 28291,
+  "total_videos": 46,
+  "total_views": 28464,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,18 +16,18 @@
     },
     "science": {
       "videos": 8,
-      "avg_views": 609,
+      "avg_views": 610,
       "best_views": 1638
     },
     "animals": {
       "videos": 13,
-      "avg_views": 863,
+      "avg_views": 874,
       "best_views": 1480
     },
     "human body": {
       "videos": 4,
       "avg_views": 538,
-      "best_views": 1323
+      "best_views": 1324
     },
     "history": {
       "videos": 5,
@@ -35,15 +35,15 @@
       "best_views": 1097
     },
     "space": {
-      "videos": 10,
-      "avg_views": 763,
-      "best_views": 1385
+      "videos": 11,
+      "avg_views": 696,
+      "best_views": 1391
     }
   },
   "by_style": {
     "classic": {
       "videos": 31,
-      "avg_views": 708,
+      "avg_views": 713,
       "over_1500": 1
     },
     "longform": {
@@ -52,8 +52,8 @@
       "over_1500": 0
     },
     "punch": {
-      "videos": 11,
-      "avg_views": 577,
+      "videos": 12,
+      "avg_views": 531,
       "over_1500": 0
     }
   },
@@ -79,7 +79,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1385,
+      "views": 1391,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -91,13 +91,13 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1323,
+      "views": 1324,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
       "title": "Astronauts on the Space Station See 16 Sunrises a Day",
       "topic": "space",
-      "views": 1269,
+      "views": 1285,
       "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
@@ -115,7 +115,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1232,
+      "views": 1234,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     }
   ],
@@ -175,7 +175,7 @@
       "hook": "There's a jellyfish that can live forever.",
       "published_at": "2026-10-16T00:30:21Z",
       "privacy": "public",
-      "views": 1079,
+      "views": 1082,
       "likes": 50,
       "comments": 0,
       "url": "https://youtube.com/shorts/irIXXgt4nlo"
@@ -427,7 +427,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1323,
+      "views": 1324,
       "likes": 48,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -439,7 +439,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1232,
+      "views": 1234,
       "likes": 25,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -451,7 +451,7 @@
       "hook": "There's a volcano three times taller than Everest. You could stroll up it.",
       "published_at": "2026-10-17T17:30:38Z",
       "privacy": "public",
-      "views": 275,
+      "views": 280,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/t5IFKjlXUd0"
@@ -487,7 +487,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 966,
+      "views": 1045,
       "likes": 25,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -523,7 +523,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1227,
+      "views": 1231,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -535,7 +535,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1385,
+      "views": 1391,
       "likes": 15,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -547,7 +547,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 94,
+      "views": 101,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -559,7 +559,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 1269,
+      "views": 1285,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -571,7 +571,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 406,
+      "views": 409,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -583,7 +583,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 996,
+      "views": 1002,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
@@ -595,7 +595,7 @@
       "hook": "A crab with blood worth sixty thousand dollars a gallon.",
       "published_at": "2026-10-18T21:00:26Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/rTs49HonaXo"
@@ -631,7 +631,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 28,
+      "views": 67,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -659,6 +659,18 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/TtDH4yL4P10"
+    },
+    "T4gdnphQUUE": {
+      "title": "A Mars Rover Broke the Off-World Driving Record by 60 Meters",
+      "topic": "space",
+      "style": "punch",
+      "hook": "A robot on Mars broke the off-world driving record.",
+      "published_at": "2026-10-19T07:07:21Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/T4gdnphQUUE"
     }
   }
 }
