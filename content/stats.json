@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T11:07:00+00:00",
+  "updated_at": "2026-10-20T13:08:30+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 48,
     "channel_views": 28834,
-    "video_count": 53
+    "video_count": 54
   },
-  "total_videos": 58,
-  "total_views": 29629,
+  "total_videos": 59,
+  "total_views": 29654,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -15,9 +15,9 @@
       "best_views": 364
     },
     "science": {
-      "videos": 11,
-      "avg_views": 460,
-      "best_views": 1644
+      "videos": 12,
+      "avg_views": 423,
+      "best_views": 1646
     },
     "animals": {
       "videos": 18,
@@ -27,7 +27,7 @@
     "human body": {
       "videos": 4,
       "avg_views": 548,
-      "best_views": 1365
+      "best_views": 1364
     },
     "history": {
       "videos": 7,
@@ -36,14 +36,14 @@
     },
     "space": {
       "videos": 13,
-      "avg_views": 610,
-      "best_views": 1437
+      "avg_views": 611,
+      "best_views": 1440
     }
   },
   "by_style": {
     "classic": {
-      "videos": 42,
-      "avg_views": 549,
+      "videos": 43,
+      "avg_views": 537,
       "over_1500": 2
     },
     "longform": {
@@ -53,14 +53,14 @@
     },
     "punch": {
       "videos": 13,
-      "avg_views": 504,
+      "avg_views": 505,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-GuyNeural": {
-      "videos": 1,
-      "avg_views": 0
+      "videos": 2,
+      "avg_views": 4
     },
     "en-US-ChristopherNeural": {
       "videos": 2,
@@ -72,14 +72,14 @@
     },
     "en-US-AndrewNeural": {
       "videos": 2,
-      "avg_views": 34
+      "avg_views": 33
     }
   },
   "top_videos": [
     {
       "title": "Lightning Is 5 Times Hotter Than the Sun's Surface",
       "topic": "science",
-      "views": 1644,
+      "views": 1646,
       "hook": "A lightning bolt is five times hotter than the surface of the Sun."
     },
     {
@@ -97,7 +97,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1437,
+      "views": 1440,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -109,7 +109,7 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1365,
+      "views": 1364,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -432,7 +432,7 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 79,
+      "views": 84,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
@@ -471,7 +471,7 @@
       "hook": "A lightning bolt is five times hotter than the surface of the Sun.",
       "published_at": "2026-10-17T13:00:24Z",
       "privacy": "public",
-      "views": 1644,
+      "views": 1646,
       "likes": 38,
       "comments": 3,
       "url": "https://youtube.com/shorts/pSgxXZHFEbg"
@@ -484,7 +484,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1365,
+      "views": 1364,
       "likes": 51,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -601,8 +601,8 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1437,
-      "likes": 16,
+      "views": 1440,
+      "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
     },
@@ -614,7 +614,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 140,
+      "views": 141,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -627,7 +627,7 @@
       "hook": "Koalas have fingerprints. Almost identical to yours.",
       "published_at": "2026-10-19T18:00:17Z",
       "privacy": "public",
-      "views": 29,
+      "views": 30,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/XW0IAUHH4EI"
@@ -666,7 +666,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 1004,
+      "views": 1007,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
@@ -690,9 +690,9 @@
       "style": "classic",
       "voice": "en-US-GuyNeural",
       "hook": "The top of Mount Everest is made of seashells.",
-      "published_at": "2026-10-20T05:42:56Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-20T12:00:38Z",
+      "privacy": "public",
+      "views": 8,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -762,6 +762,19 @@
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
     },
+    "BcQ6XKRdqJ4": {
+      "title": "The Loudest Sound in History Was Heard 3,000 Miles Away",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-GuyNeural",
+      "hook": "The loudest sound in history was heard 3,000 miles away.",
+      "published_at": "2026-10-20T13:08:23Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/BcQ6XKRdqJ4"
+    },
     "UDcAAirDM9o": {
       "title": "A Meteor Blew Up Over Russia With 30 Times the Power of Hiroshima",
       "topic": "space",
@@ -783,7 +796,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 518,
+      "views": 516,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -835,7 +848,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 23,
+      "views": 27,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -861,7 +874,7 @@
       "hook": "Lightning hit a Moon rocket twice in the first 52 seconds.",
       "published_at": "2026-10-19T22:30:03Z",
       "privacy": "public",
-      "views": 66,
+      "views": 65,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/HS8O59SC0rc"
@@ -874,8 +887,8 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 8,
-      "likes": 0,
+      "views": 10,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
     },
