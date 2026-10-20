@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-19T22:44:29+00:00",
+  "updated_at": "2026-10-20T01:45:38+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
-    "subscribers": 47,
+    "subscribers": 48,
     "channel_views": 28216,
     "video_count": 51
   },
-  "total_videos": 51,
-  "total_views": 29019,
+  "total_videos": 53,
+  "total_views": 29184,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,34 +16,34 @@
     },
     "science": {
       "videos": 10,
-      "avg_views": 496,
+      "avg_views": 498,
       "best_views": 1644
     },
     "animals": {
-      "videos": 14,
-      "avg_views": 833,
-      "best_views": 1493
+      "videos": 15,
+      "avg_views": 781,
+      "best_views": 1496
     },
     "human body": {
       "videos": 4,
-      "avg_views": 541,
-      "best_views": 1338
+      "avg_views": 546,
+      "best_views": 1357
     },
     "history": {
-      "videos": 5,
-      "avg_views": 350,
+      "videos": 6,
+      "avg_views": 292,
       "best_views": 1099
     },
     "space": {
       "videos": 13,
-      "avg_views": 599,
-      "best_views": 1402
+      "avg_views": 604,
+      "best_views": 1406
     }
   },
   "by_style": {
     "classic": {
-      "videos": 35,
-      "avg_views": 644,
+      "videos": 37,
+      "avg_views": 613,
       "over_1500": 1
     },
     "longform": {
@@ -53,14 +53,22 @@
     },
     "punch": {
       "videos": 13,
-      "avg_views": 497,
+      "avg_views": 500,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 2,
-      "avg_views": 6
+      "avg_views": 22
+    },
+    "en-US-BrianNeural": {
+      "videos": 1,
+      "avg_views": 0
+    },
+    "en-US-ChristopherNeural": {
+      "videos": 1,
+      "avg_views": 0
     }
   },
   "top_videos": [
@@ -73,7 +81,7 @@
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1493,
+      "views": 1496,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -85,13 +93,13 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1402,
+      "views": 1406,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
       "title": "Astronauts on the Space Station See 16 Sunrises a Day",
       "topic": "space",
-      "views": 1372,
+      "views": 1388,
       "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
@@ -103,19 +111,19 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1338,
+      "views": 1357,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
-      "views": 1269,
+      "views": 1268,
       "hook": "There's a planet where it rains glass. Sideways."
     },
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1245,
+      "views": 1259,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -160,8 +168,8 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1493,
-      "likes": 60,
+      "views": 1496,
+      "likes": 61,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
     },
@@ -173,7 +181,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 360,
+      "views": 359,
       "likes": 11,
       "comments": 2,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
@@ -394,7 +402,7 @@
       "hook": "There's a planet where it rains glass. Sideways.",
       "published_at": "2026-10-15T06:30:27Z",
       "privacy": "public",
-      "views": 1269,
+      "views": 1268,
       "likes": 60,
       "comments": 2,
       "url": "https://youtube.com/shorts/_AAxfyJTzHU"
@@ -420,7 +428,7 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 19,
+      "views": 26,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
@@ -433,7 +441,7 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 684,
+      "views": 686,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
@@ -472,7 +480,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1338,
+      "views": 1357,
       "likes": 50,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -485,7 +493,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1245,
+      "views": 1259,
       "likes": 25,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -550,7 +558,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1232,
+      "views": 1234,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -576,7 +584,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1236,
+      "views": 1233,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -589,7 +597,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1402,
+      "views": 1406,
       "likes": 16,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -602,7 +610,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 129,
+      "views": 132,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -615,8 +623,8 @@
       "hook": "Koalas have fingerprints. Almost identical to yours.",
       "published_at": "2026-10-19T18:00:17Z",
       "privacy": "public",
-      "views": 12,
-      "likes": 2,
+      "views": 11,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/XW0IAUHH4EI"
     },
@@ -628,7 +636,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 1372,
+      "views": 1388,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -641,7 +649,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 430,
+      "views": 432,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -706,7 +714,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 272,
+      "views": 310,
       "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -719,7 +727,7 @@
       "hook": "In 2022, a volcano fired 2,600 lightning bolts a minute.",
       "published_at": "2026-10-19T12:00:19Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/YmsVWnGQ7_k"
@@ -732,7 +740,7 @@
       "hook": "One drill hole drained an entire lake in three hours.",
       "published_at": "2026-10-19T13:30:34Z",
       "privacy": "public",
-      "views": 20,
+      "views": 26,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/TtDH4yL4P10"
@@ -745,8 +753,8 @@
       "hook": "A robot on Mars broke the off-world driving record.",
       "published_at": "2026-10-19T15:00:02Z",
       "privacy": "public",
-      "views": 8,
-      "likes": 0,
+      "views": 24,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/T4gdnphQUUE"
     },
@@ -758,7 +766,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 1,
+      "views": 9,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -771,7 +779,7 @@
       "hook": "This spacecraft left Earth in 2018 and reaches Mercury in November.",
       "published_at": "2026-10-19T21:00:02Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/6lrpcVotc7I"
@@ -784,10 +792,36 @@
       "hook": "Lightning hit a Moon rocket twice in the first 52 seconds.",
       "published_at": "2026-10-19T22:30:03Z",
       "privacy": "public",
-      "views": 13,
+      "views": 42,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/HS8O59SC0rc"
+    },
+    "EwlfYEnJaiU": {
+      "title": "Two Orcas Smashed a 2-Ton Fish Into Thousands of Pieces",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "Two orcas rammed a giant fish into thousands of pieces.",
+      "published_at": "2026-10-20T01:01:55Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/EwlfYEnJaiU"
+    },
+    "sSBPt5yFR_c": {
+      "title": "One Bomb's Shockwave Circled the Earth Three Times",
+      "topic": "history",
+      "style": "classic",
+      "voice": "en-US-ChristopherNeural",
+      "hook": "One bomb's shockwave circled the Earth three times.",
+      "published_at": "2026-10-20T01:45:32Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/sSBPt5yFR_c"
     }
   }
 }

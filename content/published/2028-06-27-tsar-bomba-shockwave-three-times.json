@@ -53,5 +53,16 @@
   ],
   "first_comment": "Which historical event do you think left the biggest mark on Earth?",
   "thumbnail_text": "SHOCKWAVE x3 AROUND EARTH",
-  "priority": 8
+  "priority": 8,
+  "youtube_id": "sSBPt5yFR_c",
+  "url": "https://youtube.com/shorts/sSBPt5yFR_c",
+  "uploaded_at": "2026-10-20T01:45:38+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-20T02:10:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-ChristopherNeural",
+  "highlight_color": "#FCD34D",
+  "duration_seconds": 31.3,
+  "style": "classic",
+  "kind": "shorts"
 }
