@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T07:13:36+00:00",
+  "updated_at": "2026-10-20T08:50:49+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 49,
@@ -7,7 +7,7 @@
     "video_count": 52
   },
   "total_videos": 56,
-  "total_views": 29484,
+  "total_views": 29496,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -21,7 +21,7 @@
     },
     "animals": {
       "videos": 16,
-      "avg_views": 742,
+      "avg_views": 743,
       "best_views": 1504
     },
     "human body": {
@@ -37,13 +37,13 @@
     "space": {
       "videos": 13,
       "avg_views": 610,
-      "best_views": 1430
+      "best_views": 1432
     }
   },
   "by_style": {
     "classic": {
       "videos": 40,
-      "avg_views": 573,
+      "avg_views": 574,
       "over_1500": 2
     },
     "longform": {
@@ -53,7 +53,7 @@
     },
     "punch": {
       "videos": 13,
-      "avg_views": 503,
+      "avg_views": 504,
       "over_1500": 0
     }
   },
@@ -64,7 +64,7 @@
     },
     "en-US-ChristopherNeural": {
       "videos": 2,
-      "avg_views": 0
+      "avg_views": 2
     },
     "en-US-BrianNeural": {
       "videos": 2,
@@ -97,7 +97,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1430,
+      "views": 1432,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -588,7 +588,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1235,
+      "views": 1237,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -601,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1430,
+      "views": 1432,
       "likes": 16,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -757,7 +757,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 434,
+      "views": 437,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -783,7 +783,7 @@
       "hook": "One drill hole drained an entire lake in three hours.",
       "published_at": "2026-10-19T13:30:34Z",
       "privacy": "public",
-      "views": 29,
+      "views": 30,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/TtDH4yL4P10"
@@ -796,7 +796,7 @@
       "hook": "A robot on Mars broke the off-world driving record.",
       "published_at": "2026-10-19T15:00:02Z",
       "privacy": "public",
-      "views": 32,
+      "views": 34,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/T4gdnphQUUE"
@@ -861,7 +861,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c"
