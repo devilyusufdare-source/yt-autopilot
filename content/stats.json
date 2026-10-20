@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T05:45:40+00:00",
+  "updated_at": "2026-10-20T07:13:36+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
-    "subscribers": 48,
-    "channel_views": 28216,
+    "subscribers": 49,
+    "channel_views": 28834,
     "video_count": 52
   },
-  "total_videos": 55,
-  "total_views": 29332,
+  "total_videos": 56,
+  "total_views": 29484,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,34 +16,34 @@
     },
     "science": {
       "videos": 11,
-      "avg_views": 457,
+      "avg_views": 458,
       "best_views": 1644
     },
     "animals": {
-      "videos": 15,
-      "avg_views": 785,
-      "best_views": 1501
+      "videos": 16,
+      "avg_views": 742,
+      "best_views": 1504
     },
     "human body": {
       "videos": 4,
-      "avg_views": 546,
-      "best_views": 1358
+      "avg_views": 547,
+      "best_views": 1362
     },
     "history": {
       "videos": 7,
       "avg_views": 252,
-      "best_views": 1100
+      "best_views": 1101
     },
     "space": {
       "videos": 13,
-      "avg_views": 607,
-      "best_views": 1412
+      "avg_views": 610,
+      "best_views": 1430
     }
   },
   "by_style": {
     "classic": {
-      "videos": 39,
-      "avg_views": 585,
+      "videos": 40,
+      "avg_views": 573,
       "over_1500": 2
     },
     "longform": {
@@ -53,7 +53,7 @@
     },
     "punch": {
       "videos": 13,
-      "avg_views": 502,
+      "avg_views": 503,
       "over_1500": 0
     }
   },
@@ -64,15 +64,15 @@
     },
     "en-US-ChristopherNeural": {
       "videos": 2,
-      "avg_views": 1
+      "avg_views": 0
+    },
+    "en-US-BrianNeural": {
+      "videos": 2,
+      "avg_views": 0
     },
     "en-US-AndrewNeural": {
       "videos": 2,
-      "avg_views": 30
-    },
-    "en-US-BrianNeural": {
-      "videos": 1,
-      "avg_views": 0
+      "avg_views": 33
     }
   },
   "top_videos": [
@@ -85,7 +85,7 @@
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1501,
+      "views": 1504,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -97,26 +97,26 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1412,
+      "views": 1430,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
       "title": "Astronauts on the Space Station See 16 Sunrises a Day",
       "topic": "space",
-      "views": 1392,
+      "views": 1396,
       "hook": "Astronauts on the space station see 16 sunrises every single day."
+    },
+    {
+      "title": "Your Stomach Acid Can Eat Through a Razor Blade",
+      "topic": "human body",
+      "views": 1362,
+      "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
       "title": "A Day on Venus Is Longer Than Its Year",
       "topic": "space",
       "views": 1359,
       "hook": "A day on Venus is longer than its entire year."
-    },
-    {
-      "title": "Your Stomach Acid Can Eat Through a Razor Blade",
-      "topic": "human body",
-      "views": 1358,
-      "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
       "title": "There's a Planet Where It Rains Glass Sideways",
@@ -127,7 +127,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1261,
+      "views": 1262,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -172,7 +172,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1501,
+      "views": 1504,
       "likes": 61,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -432,7 +432,7 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 56,
+      "views": 68,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
@@ -445,7 +445,7 @@
       "hook": "A sugar cube of this star would weigh a billion tons.",
       "published_at": "2026-10-16T20:00:05Z",
       "privacy": "public",
-      "views": 686,
+      "views": 687,
       "likes": 22,
       "comments": 0,
       "url": "https://youtube.com/shorts/lrbMTCxwBCU"
@@ -458,7 +458,7 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 1100,
+      "views": 1101,
       "likes": 26,
       "comments": 2,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
@@ -484,8 +484,8 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1358,
-      "likes": 50,
+      "views": 1362,
+      "likes": 51,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
     },
@@ -497,7 +497,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1261,
+      "views": 1262,
       "likes": 25,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -536,7 +536,7 @@
       "hook": "Jupiter doesn't orbit the Sun. Not exactly.",
       "published_at": "2026-10-17T07:00:34Z",
       "privacy": "public",
-      "views": 20,
+      "views": 22,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/SLTRR1243fU"
@@ -549,7 +549,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 1096,
+      "views": 1100,
       "likes": 25,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -562,7 +562,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1234,
+      "views": 1237,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -588,7 +588,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1234,
+      "views": 1235,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -601,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1412,
+      "views": 1430,
       "likes": 16,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -614,7 +614,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 134,
+      "views": 137,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -627,7 +627,7 @@
       "hook": "Koalas have fingerprints. Almost identical to yours.",
       "published_at": "2026-10-19T18:00:17Z",
       "privacy": "public",
-      "views": 26,
+      "views": 28,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/XW0IAUHH4EI"
@@ -640,7 +640,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 1392,
+      "views": 1396,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -653,7 +653,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 433,
+      "views": 434,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -723,6 +723,19 @@
       "comments": 0,
       "url": "https://youtube.com/shorts/oUmGCbVNL3k"
     },
+    "8ZUX5ClQ4so": {
+      "title": "A Crocodile Bites With 3,700 Pounds of Force (Hardest Ever Measured)",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "A crocodile bites with 3,700 pounds of force.",
+      "published_at": "2026-10-20T07:13:27Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
+    },
     "UDcAAirDM9o": {
       "title": "A Meteor Blew Up Over Russia With 30 Times the Power of Hiroshima",
       "topic": "space",
@@ -744,8 +757,8 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 349,
-      "likes": 3,
+      "views": 434,
+      "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
     },
@@ -783,7 +796,7 @@
       "hook": "A robot on Mars broke the off-world driving record.",
       "published_at": "2026-10-19T15:00:02Z",
       "privacy": "public",
-      "views": 31,
+      "views": 32,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/T4gdnphQUUE"
@@ -822,7 +835,7 @@
       "hook": "Lightning hit a Moon rocket twice in the first 52 seconds.",
       "published_at": "2026-10-19T22:30:03Z",
       "privacy": "public",
-      "views": 58,
+      "views": 65,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/HS8O59SC0rc"
@@ -848,7 +861,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 2,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c"
