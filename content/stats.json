@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T19:45:05+00:00",
+  "updated_at": "2026-10-20T20:49:03+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 48,
@@ -7,7 +7,7 @@
     "video_count": 59
   },
   "total_videos": 61,
-  "total_views": 30057,
+  "total_views": 30087,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -21,7 +21,7 @@
     },
     "animals": {
       "videos": 20,
-      "avg_views": 614,
+      "avg_views": 616,
       "best_views": 1507
     },
     "human body": {
@@ -43,7 +43,7 @@
   "by_style": {
     "classic": {
       "videos": 45,
-      "avg_views": 521,
+      "avg_views": 522,
       "over_1500": 2
     },
     "longform": {
@@ -60,7 +60,7 @@
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 2,
-      "avg_views": 22
+      "avg_views": 18
     },
     "en-US-ChristopherNeural": {
       "videos": 2,
@@ -68,7 +68,7 @@
     },
     "en-US-BrianNeural": {
       "videos": 6,
-      "avg_views": 15
+      "avg_views": 19
     },
     "en-US-AndrewNeural": {
       "videos": 2,
@@ -121,7 +121,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1275,
+      "views": 1281,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -432,7 +432,7 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 101,
+      "views": 102,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
@@ -497,8 +497,8 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1275,
-      "likes": 25,
+      "views": 1281,
+      "likes": 26,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
     },
@@ -692,7 +692,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 43,
+      "views": 35,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -731,7 +731,7 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 27,
+      "views": 28,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
@@ -744,7 +744,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 18,
+      "views": 28,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
@@ -757,7 +757,7 @@
       "hook": "A woodpecker slams its head into wood 12,000 times a day.",
       "published_at": "2026-10-20T18:00:31Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
@@ -822,7 +822,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 706,
+      "views": 713,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -861,7 +861,7 @@
       "hook": "A robot on Mars broke the off-world driving record.",
       "published_at": "2026-10-19T15:00:02Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/T4gdnphQUUE"
@@ -874,7 +874,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 44,
+      "views": 45,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -913,7 +913,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 44,
+      "views": 53,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
