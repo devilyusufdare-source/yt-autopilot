@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T20:49:03+00:00",
+  "updated_at": "2026-10-20T22:44:39+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 48,
     "channel_views": 28834,
-    "video_count": 59
+    "video_count": 61
   },
   "total_videos": 61,
-  "total_views": 30087,
+  "total_views": 30162,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,18 +16,18 @@
     },
     "science": {
       "videos": 12,
-      "avg_views": 430,
+      "avg_views": 431,
       "best_views": 1647
     },
     "animals": {
       "videos": 20,
-      "avg_views": 616,
+      "avg_views": 618,
       "best_views": 1507
     },
     "human body": {
       "videos": 4,
-      "avg_views": 549,
-      "best_views": 1371
+      "avg_views": 552,
+      "best_views": 1380
     },
     "history": {
       "videos": 7,
@@ -37,13 +37,13 @@
     "space": {
       "videos": 13,
       "avg_views": 612,
-      "best_views": 1447
+      "best_views": 1449
     }
   },
   "by_style": {
     "classic": {
       "videos": 45,
-      "avg_views": 522,
+      "avg_views": 524,
       "over_1500": 2
     },
     "longform": {
@@ -60,7 +60,7 @@
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 2,
-      "avg_views": 18
+      "avg_views": 26
     },
     "en-US-ChristopherNeural": {
       "videos": 2,
@@ -68,7 +68,7 @@
     },
     "en-US-BrianNeural": {
       "videos": 6,
-      "avg_views": 19
+      "avg_views": 23
     },
     "en-US-AndrewNeural": {
       "videos": 2,
@@ -97,7 +97,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1447,
+      "views": 1449,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -109,7 +109,7 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1371,
+      "views": 1380,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -121,7 +121,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1281,
+      "views": 1278,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -133,7 +133,7 @@
     {
       "title": "There's a Shark That Can Live for 400 Years",
       "topic": "animals",
-      "views": 1241,
+      "views": 1242,
       "hook": "There's a shark that can live for 400 years."
     }
   ],
@@ -185,7 +185,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 359,
+      "views": 360,
       "likes": 11,
       "comments": 2,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
@@ -484,7 +484,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1371,
+      "views": 1380,
       "likes": 52,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -497,7 +497,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1281,
+      "views": 1278,
       "likes": 26,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -562,7 +562,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1241,
+      "views": 1242,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -601,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1447,
+      "views": 1449,
       "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -692,7 +692,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 35,
+      "views": 51,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -731,7 +731,7 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 28,
+      "views": 39,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
@@ -757,7 +757,7 @@
       "hook": "A woodpecker slams its head into wood 12,000 times a day.",
       "published_at": "2026-10-20T18:00:31Z",
       "privacy": "public",
-      "views": 3,
+      "views": 6,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
@@ -781,8 +781,8 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "This frog breaks its own bones to grow claws.",
-      "published_at": "2026-10-20T19:42:28Z",
-      "privacy": "private",
+      "published_at": "2026-10-20T21:00:37Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -794,8 +794,8 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "This animal eats cobras. And it survives the bite.",
-      "published_at": "2026-10-20T19:44:59Z",
-      "privacy": "private",
+      "published_at": "2026-10-20T22:30:27Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -822,7 +822,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 713,
+      "views": 734,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -913,7 +913,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 53,
+      "views": 67,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
