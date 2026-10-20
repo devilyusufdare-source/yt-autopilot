@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T14:49:42+00:00",
+  "updated_at": "2026-10-20T16:47:38+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 48,
     "channel_views": 28834,
-    "video_count": 55
+    "video_count": 57
   },
   "total_videos": 59,
-  "total_views": 29763,
+  "total_views": 29858,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,18 +16,18 @@
     },
     "science": {
       "videos": 12,
-      "avg_views": 426,
-      "best_views": 1646
+      "avg_views": 428,
+      "best_views": 1647
     },
     "animals": {
       "videos": 18,
-      "avg_views": 670,
+      "avg_views": 673,
       "best_views": 1506
     },
     "human body": {
       "videos": 4,
-      "avg_views": 548,
-      "best_views": 1364
+      "avg_views": 549,
+      "best_views": 1370
     },
     "history": {
       "videos": 7,
@@ -36,14 +36,14 @@
     },
     "space": {
       "videos": 13,
-      "avg_views": 611,
-      "best_views": 1440
+      "avg_views": 612,
+      "best_views": 1444
     }
   },
   "by_style": {
     "classic": {
       "videos": 43,
-      "avg_views": 539,
+      "avg_views": 541,
       "over_1500": 2
     },
     "longform": {
@@ -53,22 +53,22 @@
     },
     "punch": {
       "videos": 13,
-      "avg_views": 505,
+      "avg_views": 506,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 2,
-      "avg_views": 8
+      "avg_views": 12
     },
     "en-US-ChristopherNeural": {
       "videos": 2,
-      "avg_views": 2
+      "avg_views": 3
     },
     "en-US-BrianNeural": {
       "videos": 4,
-      "avg_views": 2
+      "avg_views": 7
     },
     "en-US-AndrewNeural": {
       "videos": 2,
@@ -79,7 +79,7 @@
     {
       "title": "Lightning Is 5 Times Hotter Than the Sun's Surface",
       "topic": "science",
-      "views": 1646,
+      "views": 1647,
       "hook": "A lightning bolt is five times hotter than the surface of the Sun."
     },
     {
@@ -97,19 +97,19 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1440,
+      "views": 1444,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
       "title": "Astronauts on the Space Station See 16 Sunrises a Day",
       "topic": "space",
-      "views": 1396,
+      "views": 1398,
       "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1364,
+      "views": 1370,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -121,7 +121,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1270,
+      "views": 1272,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -432,7 +432,7 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 100,
+      "views": 101,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
@@ -471,7 +471,7 @@
       "hook": "A lightning bolt is five times hotter than the surface of the Sun.",
       "published_at": "2026-10-17T13:00:24Z",
       "privacy": "public",
-      "views": 1646,
+      "views": 1647,
       "likes": 38,
       "comments": 3,
       "url": "https://youtube.com/shorts/pSgxXZHFEbg"
@@ -484,8 +484,8 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1364,
-      "likes": 51,
+      "views": 1370,
+      "likes": 52,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
     },
@@ -497,7 +497,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1270,
+      "views": 1272,
       "likes": 25,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -536,7 +536,7 @@
       "hook": "Jupiter doesn't orbit the Sun. Not exactly.",
       "published_at": "2026-10-17T07:00:34Z",
       "privacy": "public",
-      "views": 22,
+      "views": 23,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/SLTRR1243fU"
@@ -549,7 +549,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 1106,
+      "views": 1110,
       "likes": 25,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -601,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1440,
+      "views": 1444,
       "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -614,7 +614,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 141,
+      "views": 146,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -627,7 +627,7 @@
       "hook": "Koalas have fingerprints. Almost identical to yours.",
       "published_at": "2026-10-19T18:00:17Z",
       "privacy": "public",
-      "views": 30,
+      "views": 34,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/XW0IAUHH4EI"
@@ -640,7 +640,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 1396,
+      "views": 1398,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -653,7 +653,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 437,
+      "views": 438,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -692,7 +692,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 16,
+      "views": 24,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -729,9 +729,9 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "A crocodile bites with 3,700 pounds of force.",
-      "published_at": "2026-10-20T07:13:27Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-20T15:00:22Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
@@ -742,8 +742,8 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "This bird dives at 242 miles an hour.",
-      "published_at": "2026-10-20T10:56:37Z",
-      "privacy": "private",
+      "published_at": "2026-10-20T16:30:39Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -796,7 +796,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 578,
+      "views": 610,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -848,7 +848,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 31,
+      "views": 33,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -874,7 +874,7 @@
       "hook": "Lightning hit a Moon rocket twice in the first 52 seconds.",
       "published_at": "2026-10-19T22:30:03Z",
       "privacy": "public",
-      "views": 71,
+      "views": 72,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/HS8O59SC0rc"
@@ -887,7 +887,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 10,
+      "views": 28,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
@@ -900,7 +900,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c"
