@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T13:08:30+00:00",
+  "updated_at": "2026-10-20T14:49:42+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 48,
     "channel_views": 28834,
-    "video_count": 54
+    "video_count": 55
   },
   "total_videos": 59,
-  "total_views": 29654,
+  "total_views": 29763,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,12 +16,12 @@
     },
     "science": {
       "videos": 12,
-      "avg_views": 423,
+      "avg_views": 426,
       "best_views": 1646
     },
     "animals": {
       "videos": 18,
-      "avg_views": 666,
+      "avg_views": 670,
       "best_views": 1506
     },
     "human body": {
@@ -43,7 +43,7 @@
   "by_style": {
     "classic": {
       "videos": 43,
-      "avg_views": 537,
+      "avg_views": 539,
       "over_1500": 2
     },
     "longform": {
@@ -60,7 +60,7 @@
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 2,
-      "avg_views": 4
+      "avg_views": 8
     },
     "en-US-ChristopherNeural": {
       "videos": 2,
@@ -72,7 +72,7 @@
     },
     "en-US-AndrewNeural": {
       "videos": 2,
-      "avg_views": 33
+      "avg_views": 36
     }
   },
   "top_videos": [
@@ -119,22 +119,22 @@
       "hook": "A day on Venus is longer than its entire year."
     },
     {
+      "title": "Scientists Threw These Animals Into Open Space. They Survived",
+      "topic": "animals",
+      "views": 1270,
+      "hook": "Scientists shot tiny animals into open space. They came back alive."
+    },
+    {
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
       "views": 1268,
       "hook": "There's a planet where it rains glass. Sideways."
     },
     {
-      "title": "Scientists Threw These Animals Into Open Space. They Survived",
+      "title": "A Snake Longer Than a School Bus Once Lived in India",
       "topic": "animals",
-      "views": 1266,
-      "hook": "Scientists shot tiny animals into open space. They came back alive."
-    },
-    {
-      "title": "There's a Shark That Can Live for 400 Years",
-      "topic": "animals",
-      "views": 1238,
-      "hook": "There's a shark that can live for 400 years."
+      "views": 1241,
+      "hook": "A snake longer than a school bus once slithered through India."
     }
   ],
   "videos": {
@@ -432,8 +432,8 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 84,
-      "likes": 4,
+      "views": 100,
+      "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
     },
@@ -497,7 +497,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1266,
+      "views": 1270,
       "likes": 25,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -549,7 +549,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 1104,
+      "views": 1106,
       "likes": 25,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -588,7 +588,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1237,
+      "views": 1241,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -653,7 +653,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 434,
+      "views": 437,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -692,8 +692,8 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 8,
-      "likes": 0,
+      "views": 16,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
     },
@@ -703,8 +703,8 @@
       "style": "classic",
       "voice": "en-US-ChristopherNeural",
       "hook": "In 1932, Australia went to war against emus. The emus won.",
-      "published_at": "2026-10-20T05:45:33Z",
-      "privacy": "private",
+      "published_at": "2026-10-20T13:30:32Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -796,7 +796,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 516,
+      "views": 578,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -848,7 +848,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 27,
+      "views": 31,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -874,7 +874,7 @@
       "hook": "Lightning hit a Moon rocket twice in the first 52 seconds.",
       "published_at": "2026-10-19T22:30:03Z",
       "privacy": "public",
-      "views": 65,
+      "views": 71,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/HS8O59SC0rc"
