@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T02:48:10+00:00",
+  "updated_at": "2026-10-20T05:45:40+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 48,
     "channel_views": 28216,
     "video_count": 52
   },
-  "total_videos": 53,
-  "total_views": 29205,
+  "total_videos": 55,
+  "total_views": 29332,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -15,36 +15,36 @@
       "best_views": 364
     },
     "science": {
-      "videos": 10,
-      "avg_views": 500,
+      "videos": 11,
+      "avg_views": 457,
       "best_views": 1644
     },
     "animals": {
       "videos": 15,
-      "avg_views": 781,
-      "best_views": 1498
+      "avg_views": 785,
+      "best_views": 1501
     },
     "human body": {
       "videos": 4,
-      "avg_views": 545,
-      "best_views": 1354
+      "avg_views": 546,
+      "best_views": 1358
     },
     "history": {
-      "videos": 6,
-      "avg_views": 293,
+      "videos": 7,
+      "avg_views": 252,
       "best_views": 1100
     },
     "space": {
       "videos": 13,
-      "avg_views": 605,
-      "best_views": 1408
+      "avg_views": 607,
+      "best_views": 1412
     }
   },
   "by_style": {
     "classic": {
-      "videos": 37,
-      "avg_views": 613,
-      "over_1500": 1
+      "videos": 39,
+      "avg_views": 585,
+      "over_1500": 2
     },
     "longform": {
       "videos": 3,
@@ -53,20 +53,24 @@
     },
     "punch": {
       "videos": 13,
-      "avg_views": 500,
+      "avg_views": 502,
       "over_1500": 0
     }
   },
   "by_voice": {
-    "en-US-AndrewNeural": {
-      "videos": 2,
-      "avg_views": 22
-    },
-    "en-US-BrianNeural": {
+    "en-US-GuyNeural": {
       "videos": 1,
       "avg_views": 0
     },
     "en-US-ChristopherNeural": {
+      "videos": 2,
+      "avg_views": 1
+    },
+    "en-US-AndrewNeural": {
+      "videos": 2,
+      "avg_views": 30
+    },
+    "en-US-BrianNeural": {
       "videos": 1,
       "avg_views": 0
     }
@@ -81,7 +85,7 @@
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1498,
+      "views": 1501,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -93,7 +97,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1408,
+      "views": 1412,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -111,7 +115,7 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1354,
+      "views": 1358,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -123,7 +127,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1259,
+      "views": 1261,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -168,7 +172,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1498,
+      "views": 1501,
       "likes": 61,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -233,7 +237,7 @@
       "hook": "Saturn would float in water.",
       "published_at": "2026-10-16T07:54:25Z",
       "privacy": "public",
-      "views": 1103,
+      "views": 1105,
       "likes": 30,
       "comments": 0,
       "url": "https://youtube.com/shorts/Q6SQw6zTdW8"
@@ -428,7 +432,7 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 36,
+      "views": 56,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
@@ -480,7 +484,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1354,
+      "views": 1358,
       "likes": 50,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -493,7 +497,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1259,
+      "views": 1261,
       "likes": 25,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -519,7 +523,7 @@
       "hook": "There's a shrimp that punches hard enough to smash aquarium glass.",
       "published_at": "2026-10-17T12:00:25Z",
       "privacy": "public",
-      "views": 1198,
+      "views": 1199,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/WK_pBpY-xpQ"
@@ -558,7 +562,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1233,
+      "views": 1234,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -584,7 +588,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1233,
+      "views": 1234,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -597,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1408,
+      "views": 1412,
       "likes": 16,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -610,7 +614,7 @@
       "hook": "There's a waterfall in Antarctica that runs blood red.",
       "published_at": "2026-10-18T13:00:38Z",
       "privacy": "public",
-      "views": 132,
+      "views": 134,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo"
@@ -623,7 +627,7 @@
       "hook": "Koalas have fingerprints. Almost identical to yours.",
       "published_at": "2026-10-19T18:00:17Z",
       "privacy": "public",
-      "views": 15,
+      "views": 26,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/XW0IAUHH4EI"
@@ -649,7 +653,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 431,
+      "views": 433,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -662,7 +666,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 1003,
+      "views": 1004,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
@@ -679,6 +683,32 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/rTs49HonaXo"
+    },
+    "5pKsRTupbRY": {
+      "title": "The Top of Mount Everest Is Made of Seashells",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-GuyNeural",
+      "hook": "The top of Mount Everest is made of seashells.",
+      "published_at": "2026-10-20T05:42:56Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/5pKsRTupbRY"
+    },
+    "ID8nA8KDcUg": {
+      "title": "In 1932, Australia Went to War Against Emus. The Emus Won",
+      "topic": "history",
+      "style": "classic",
+      "voice": "en-US-ChristopherNeural",
+      "hook": "In 1932, Australia went to war against emus. The emus won.",
+      "published_at": "2026-10-20T05:45:33Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/ID8nA8KDcUg"
     },
     "oUmGCbVNL3k": {
       "title": "In 1958, a Wave 1,720 Feet Tall Hit Alaska (Biggest Ever)",
@@ -714,7 +744,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 307,
+      "views": 349,
       "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -740,7 +770,7 @@
       "hook": "One drill hole drained an entire lake in three hours.",
       "published_at": "2026-10-19T13:30:34Z",
       "privacy": "public",
-      "views": 28,
+      "views": 29,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/TtDH4yL4P10"
@@ -753,7 +783,7 @@
       "hook": "A robot on Mars broke the off-world driving record.",
       "published_at": "2026-10-19T15:00:02Z",
       "privacy": "public",
-      "views": 24,
+      "views": 31,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/T4gdnphQUUE"
@@ -766,7 +796,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 12,
+      "views": 17,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -792,8 +822,8 @@
       "hook": "Lightning hit a Moon rocket twice in the first 52 seconds.",
       "published_at": "2026-10-19T22:30:03Z",
       "privacy": "public",
-      "views": 42,
-      "likes": 0,
+      "views": 58,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/HS8O59SC0rc"
     },
@@ -818,7 +848,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c"
