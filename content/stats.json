@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T16:47:38+00:00",
+  "updated_at": "2026-10-20T19:45:05+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 48,
     "channel_views": 28834,
-    "video_count": 57
+    "video_count": 59
   },
-  "total_videos": 59,
-  "total_views": 29858,
+  "total_videos": 61,
+  "total_views": 30057,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,34 +16,34 @@
     },
     "science": {
       "videos": 12,
-      "avg_views": 428,
+      "avg_views": 430,
       "best_views": 1647
     },
     "animals": {
-      "videos": 18,
-      "avg_views": 673,
-      "best_views": 1506
+      "videos": 20,
+      "avg_views": 614,
+      "best_views": 1507
     },
     "human body": {
       "videos": 4,
       "avg_views": 549,
-      "best_views": 1370
+      "best_views": 1371
     },
     "history": {
       "videos": 7,
-      "avg_views": 252,
+      "avg_views": 253,
       "best_views": 1101
     },
     "space": {
       "videos": 13,
       "avg_views": 612,
-      "best_views": 1444
+      "best_views": 1447
     }
   },
   "by_style": {
     "classic": {
-      "videos": 43,
-      "avg_views": 541,
+      "videos": 45,
+      "avg_views": 521,
       "over_1500": 2
     },
     "longform": {
@@ -53,22 +53,22 @@
     },
     "punch": {
       "videos": 13,
-      "avg_views": 506,
+      "avg_views": 507,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 2,
-      "avg_views": 12
+      "avg_views": 22
     },
     "en-US-ChristopherNeural": {
       "videos": 2,
-      "avg_views": 3
+      "avg_views": 4
     },
     "en-US-BrianNeural": {
-      "videos": 4,
-      "avg_views": 7
+      "videos": 6,
+      "avg_views": 15
     },
     "en-US-AndrewNeural": {
       "videos": 2,
@@ -85,7 +85,7 @@
     {
       "title": "Crows Remember Your Face for Years",
       "topic": "animals",
-      "views": 1506,
+      "views": 1507,
       "hook": "Crows remember your face. For years."
     },
     {
@@ -97,7 +97,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1444,
+      "views": 1447,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -109,7 +109,7 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1370,
+      "views": 1371,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -121,7 +121,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1272,
+      "views": 1275,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -131,10 +131,10 @@
       "hook": "There's a planet where it rains glass. Sideways."
     },
     {
-      "title": "A Snake Longer Than a School Bus Once Lived in India",
+      "title": "There's a Shark That Can Live for 400 Years",
       "topic": "animals",
       "views": 1241,
-      "hook": "A snake longer than a school bus once slithered through India."
+      "hook": "There's a shark that can live for 400 years."
     }
   ],
   "videos": {
@@ -172,7 +172,7 @@
       "hook": "Crows remember your face. For years.",
       "published_at": "2026-10-16T10:30:38Z",
       "privacy": "public",
-      "views": 1506,
+      "views": 1507,
       "likes": 61,
       "comments": 0,
       "url": "https://youtube.com/shorts/lQRng3wJNao"
@@ -484,7 +484,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1370,
+      "views": 1371,
       "likes": 52,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -497,7 +497,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1272,
+      "views": 1275,
       "likes": 25,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -562,7 +562,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1238,
+      "views": 1241,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -601,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1444,
+      "views": 1447,
       "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -692,7 +692,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 24,
+      "views": 43,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -731,8 +731,8 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 27,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
     },
@@ -744,8 +744,8 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 18,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
     },
@@ -755,9 +755,9 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "A woodpecker slams its head into wood 12,000 times a day.",
-      "published_at": "2026-10-20T11:06:52Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-20T18:00:31Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
@@ -768,12 +768,38 @@
       "style": "classic",
       "voice": "en-US-GuyNeural",
       "hook": "The loudest sound in history was heard 3,000 miles away.",
-      "published_at": "2026-10-20T13:08:23Z",
-      "privacy": "private",
+      "published_at": "2026-10-20T19:30:15Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/BcQ6XKRdqJ4"
+    },
+    "xBKMr5_ouYQ": {
+      "title": "This Frog Breaks Its Own Bones to Grow Claws",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "This frog breaks its own bones to grow claws.",
+      "published_at": "2026-10-20T19:42:28Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
+    },
+    "YX7zSStVK_k": {
+      "title": "This Animal Eats Cobras and Survives the Bite (Here's How)",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "This animal eats cobras. And it survives the bite.",
+      "published_at": "2026-10-20T19:44:59Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/YX7zSStVK_k"
     },
     "UDcAAirDM9o": {
       "title": "A Meteor Blew Up Over Russia With 30 Times the Power of Hiroshima",
@@ -796,7 +822,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 610,
+      "views": 706,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -848,7 +874,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 33,
+      "views": 44,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -887,7 +913,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 28,
+      "views": 44,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
@@ -900,7 +926,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c"
