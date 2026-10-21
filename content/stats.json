@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T11:13:12+00:00",
+  "updated_at": "2026-10-21T13:14:36+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 50,
     "channel_views": 29409,
-    "video_count": 63
+    "video_count": 64
   },
-  "total_videos": 68,
-  "total_views": 31666,
+  "total_videos": 69,
+  "total_views": 31706,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -20,8 +20,8 @@
       "best_views": 1647
     },
     "animals": {
-      "videos": 23,
-      "avg_views": 599,
+      "videos": 24,
+      "avg_views": 576,
       "best_views": 1507
     },
     "human body": {
@@ -37,13 +37,13 @@
     "space": {
       "videos": 14,
       "avg_views": 570,
-      "best_views": 1463
+      "best_views": 1466
     }
   },
   "by_style": {
     "classic": {
-      "videos": 52,
-      "avg_views": 482,
+      "videos": 53,
+      "avg_views": 473,
       "over_1500": 2
     },
     "longform": {
@@ -67,8 +67,8 @@
       "avg_views": 3
     },
     "en-US-BrianNeural": {
-      "videos": 9,
-      "avg_views": 165
+      "videos": 10,
+      "avg_views": 152
     },
     "en-US-AndrewNeural": {
       "videos": 3,
@@ -97,7 +97,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1463,
+      "views": 1466,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -601,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1463,
+      "views": 1466,
       "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -653,7 +653,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 442,
+      "views": 443,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -731,7 +731,7 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 63,
+      "views": 67,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
@@ -744,7 +744,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 191,
+      "views": 190,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
@@ -757,7 +757,7 @@
       "hook": "A woodpecker slams its head into wood 12,000 times a day.",
       "published_at": "2026-10-20T18:00:31Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
@@ -796,8 +796,8 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 21,
-      "likes": 0,
+      "views": 32,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/YX7zSStVK_k"
     },
@@ -822,7 +822,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 789,
+      "views": 790,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -835,7 +835,7 @@
       "hook": "A chameleon's tongue goes zero to sixty in a hundredth of a second.",
       "published_at": "2026-10-21T10:30:33Z",
       "privacy": "public",
-      "views": 0,
+      "views": 15,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/Ai052d7-pp4"
@@ -848,7 +848,7 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 922,
+      "views": 924,
       "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/wyObPwWsA0g"
@@ -859,8 +859,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "In 1994, a comet smashed into Jupiter and left a scar bigger than Earth.",
-      "published_at": "2026-10-21T05:49:01Z",
-      "privacy": "private",
+      "published_at": "2026-10-21T12:00:23Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -917,6 +917,19 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM"
+    },
+    "valUZFoPBN4": {
+      "title": "These Goats Climb a 160-Foot Vertical Dam Wall. Just to Lick It",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
+      "published_at": "2026-10-21T13:14:29Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/valUZFoPBN4"
     },
     "YmsVWnGQ7_k": {
       "title": "In 2022, a Volcano Fired 2,600 Lightning Bolts a Minute",
@@ -1004,7 +1017,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 83,
+      "views": 86,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
