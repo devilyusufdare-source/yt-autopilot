@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T07:19:42+00:00",
+  "updated_at": "2026-10-21T08:51:45+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 50,
@@ -7,7 +7,7 @@
     "video_count": 62
   },
   "total_videos": 66,
-  "total_views": 31245,
+  "total_views": 31237,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -43,7 +43,7 @@
   "by_style": {
     "classic": {
       "videos": 50,
-      "avg_views": 493,
+      "avg_views": 492,
       "over_1500": 2
     },
     "longform": {
@@ -53,7 +53,7 @@
     },
     "punch": {
       "videos": 13,
-      "avg_views": 508,
+      "avg_views": 509,
       "over_1500": 0
     }
   },
@@ -68,7 +68,7 @@
     },
     "en-US-BrianNeural": {
       "videos": 8,
-      "avg_views": 136
+      "avg_views": 134
     },
     "en-US-AndrewNeural": {
       "videos": 3,
@@ -432,7 +432,7 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 102,
+      "views": 103,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
@@ -549,7 +549,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 1111,
+      "views": 1112,
       "likes": 25,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -653,7 +653,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 441,
+      "views": 442,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -666,7 +666,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 1008,
+      "views": 1009,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
@@ -692,7 +692,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 69,
+      "views": 70,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -731,7 +731,7 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 62,
+      "views": 63,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
@@ -744,7 +744,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 171,
+      "views": 168,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
@@ -783,7 +783,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 144,
+      "views": 133,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
