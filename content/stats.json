@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T19:48:42+00:00",
+  "updated_at": "2026-10-21T20:38:01+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 51,
@@ -8,21 +8,22 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/_DAzc-V2X2o"
+      "https://youtube.com/shorts/_DAzc-V2X2o",
+      "https://youtube.com/shorts/7E64Z48yaAs"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/_DAzc-V2X2o"
+      "https://youtube.com/shorts/7E64Z48yaAs"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/_DAzc-V2X2o"
+      "https://youtube.com/shorts/7E64Z48yaAs"
     ]
   },
-  "total_videos": 67,
-  "total_views": 31959,
+  "total_videos": 68,
+  "total_views": 32010,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -36,7 +37,7 @@
     },
     "animals": {
       "videos": 25,
-      "avg_views": 562,
+      "avg_views": 564,
       "best_views": 1507
     },
     "human body": {
@@ -51,14 +52,19 @@
     },
     "space": {
       "videos": 14,
-      "avg_views": 570,
-      "best_views": 1469
+      "avg_views": 571,
+      "best_views": 1477
+    },
+    "technology": {
+      "videos": 1,
+      "avg_views": 0,
+      "best_views": 0
     }
   },
   "by_style": {
     "classic": {
-      "videos": 54,
-      "avg_views": 469,
+      "videos": 55,
+      "avg_views": 462,
       "over_1500": 2
     },
     "punch": {
@@ -70,7 +76,7 @@
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 3,
-      "avg_views": 29
+      "avg_views": 30
     },
     "en-US-ChristopherNeural": {
       "videos": 4,
@@ -78,11 +84,15 @@
     },
     "en-US-BrianNeural": {
       "videos": 11,
-      "avg_views": 158
+      "avg_views": 162
     },
     "en-US-AndrewNeural": {
       "videos": 3,
       "avg_views": 26
+    },
+    "en-US-EricNeural": {
+      "videos": 1,
+      "avg_views": 0
     }
   },
   "top_videos": [
@@ -107,7 +117,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1469,
+      "views": 1477,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -935,7 +945,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1469,
+      "views": 1477,
       "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -1103,7 +1113,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 82,
+      "views": 86,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -1271,7 +1281,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 211,
+      "views": 232,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
@@ -1295,7 +1305,7 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 43,
+      "views": 49,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/YX7zSStVK_k"
@@ -1343,7 +1353,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 794,
+      "views": 796,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -1367,7 +1377,7 @@
       "hook": "A chameleon's tongue goes zero to sixty in a hundredth of a second.",
       "published_at": "2026-10-21T10:30:33Z",
       "privacy": "public",
-      "views": 26,
+      "views": 33,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/Ai052d7-pp4"
@@ -1487,7 +1497,7 @@
       "hook": "In 1945, a chicken lost its head and lived another 18 months.",
       "published_at": "2026-10-21T16:30:28Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/ExE2WcB7uRI"
@@ -1511,7 +1521,7 @@
       "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
-      "views": 1,
+      "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM"
@@ -1535,20 +1545,20 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 4,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/valUZFoPBN4"
     },
     "_DAzc-V2X2o": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT35S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1727,7 +1737,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 107,
+      "views": 105,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
@@ -1755,6 +1765,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c"
+    },
+    "7E64Z48yaAs": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Scientists Drilled 7.5 Miles Down. The Earth Fought Back",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-EricNeural",
+      "hook": "Scientists drilled seven and a half miles down. The Earth fought back.",
+      "published_at": "2026-10-21T20:37:56Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/7E64Z48yaAs"
     }
   }
 }
