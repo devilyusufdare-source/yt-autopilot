@@ -1,24 +1,28 @@
 {
-  "updated_at": "2026-10-21T18:31:37+00:00",
+  "updated_at": "2026-10-21T19:48:42+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 51,
     "channel_views": 29409,
-    "video_count": 68
+    "video_count": 66
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/valUZFoPBN4"
+      "https://youtube.com/shorts/_DAzc-V2X2o"
     ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/_DAzc-V2X2o"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/_DAzc-V2X2o"
+    ]
   },
-  "total_videos": 69,
-  "total_views": 31905,
+  "total_videos": 67,
+  "total_views": 31959,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -28,11 +32,11 @@
     "science": {
       "videos": 13,
       "avg_views": 403,
-      "best_views": 1647
+      "best_views": 1648
     },
     "animals": {
-      "videos": 24,
-      "avg_views": 583,
+      "videos": 25,
+      "avg_views": 562,
       "best_views": 1507
     },
     "human body": {
@@ -53,14 +57,9 @@
   },
   "by_style": {
     "classic": {
-      "videos": 53,
-      "avg_views": 477,
+      "videos": 54,
+      "avg_views": 469,
       "over_1500": 2
-    },
-    "longform": {
-      "videos": 3,
-      "avg_views": 1,
-      "over_1500": 0
     },
     "punch": {
       "videos": 13,
@@ -78,8 +77,8 @@
       "avg_views": 3
     },
     "en-US-BrianNeural": {
-      "videos": 10,
-      "avg_views": 169
+      "videos": 11,
+      "avg_views": 158
     },
     "en-US-AndrewNeural": {
       "videos": 3,
@@ -90,7 +89,7 @@
     {
       "title": "Lightning Is 5 Times Hotter Than the Sun's Surface",
       "topic": "science",
-      "views": 1647,
+      "views": 1648,
       "hook": "A lightning bolt is five times hotter than the surface of the Sun."
     },
     {
@@ -437,54 +436,6 @@
       "comments": 0,
       "url": "https://youtube.com/shorts/V-ykHcqs_OA"
     },
-    "vPc1FlBoFuM": {
-      "upload_status": "processed",
-      "rejection_reason": null,
-      "made_for_kids": false,
-      "self_declared_made_for_kids": false,
-      "embeddable": true,
-      "license": "youtube",
-      "duration": "PT8M25S",
-      "definition": "hd",
-      "region_restriction": null,
-      "content_rating": null,
-      "category_id": "27",
-      "title": "10 Space Facts That Sound Fake (But Are 100% Real)",
-      "topic": null,
-      "style": "longform",
-      "voice": null,
-      "hook": null,
-      "published_at": "2026-10-17T17:00:29Z",
-      "privacy": "public",
-      "views": 1,
-      "likes": 0,
-      "comments": 0,
-      "url": "https://youtube.com/shorts/vPc1FlBoFuM"
-    },
-    "brs3qZJ4Ebc": {
-      "upload_status": "processed",
-      "rejection_reason": null,
-      "made_for_kids": false,
-      "self_declared_made_for_kids": false,
-      "embeddable": true,
-      "license": "youtube",
-      "duration": "PT8M37S",
-      "definition": "hd",
-      "region_restriction": null,
-      "content_rating": null,
-      "category_id": "27",
-      "title": "10 Animals With Superpowers That Sound Fake (But Are Real)",
-      "topic": null,
-      "style": "longform",
-      "voice": null,
-      "hook": null,
-      "published_at": "2026-10-18T01:00:37Z",
-      "privacy": "public",
-      "views": 2,
-      "likes": 0,
-      "comments": 0,
-      "url": "https://youtube.com/shorts/brs3qZJ4Ebc"
-    },
     "FMEjskaXejU": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -508,30 +459,6 @@
       "likes": 14,
       "comments": 0,
       "url": "https://youtube.com/shorts/FMEjskaXejU"
-    },
-    "KoalvYngzAg": {
-      "upload_status": "processed",
-      "rejection_reason": null,
-      "made_for_kids": false,
-      "self_declared_made_for_kids": false,
-      "embeddable": true,
-      "license": "youtube",
-      "duration": "PT8M41S",
-      "definition": "hd",
-      "region_restriction": null,
-      "content_rating": null,
-      "category_id": "27",
-      "title": "10 Science Facts That Sound Made Up (But Are 100% True)",
-      "topic": null,
-      "style": "longform",
-      "voice": null,
-      "hook": null,
-      "published_at": "2026-10-19T01:00:28Z",
-      "privacy": "public",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "url": "https://youtube.com/shorts/KoalvYngzAg"
     },
     "I75xo-ENbtA": {
       "upload_status": "processed",
@@ -768,7 +695,7 @@
       "hook": "A lightning bolt is five times hotter than the surface of the Sun.",
       "published_at": "2026-10-17T13:00:24Z",
       "privacy": "public",
-      "views": 1647,
+      "views": 1648,
       "likes": 38,
       "comments": 2,
       "url": "https://youtube.com/shorts/pSgxXZHFEbg"
@@ -1248,8 +1175,8 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 72,
-      "likes": 3,
+      "views": 82,
+      "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
     },
@@ -1272,7 +1199,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 256,
+      "views": 293,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
@@ -1584,7 +1511,7 @@
       "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM"
@@ -1606,12 +1533,36 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
-      "published_at": "2026-10-21T13:14:29Z",
-      "privacy": "private",
+      "published_at": "2026-10-21T19:30:15Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/valUZFoPBN4"
+    },
+    "_DAzc-V2X2o": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Rat Kicks a Striking Rattlesnake in Mid-Air in 70 Milliseconds",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
+      "published_at": "2026-10-21T19:48:36Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/_DAzc-V2X2o"
     },
     "YmsVWnGQ7_k": {
       "upload_status": "processed",
@@ -1776,7 +1727,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 99,
+      "views": 107,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
