@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T01:51:45+00:00",
+  "updated_at": "2026-10-21T02:46:27+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 48,
     "channel_views": 28834,
-    "video_count": 61
+    "video_count": 62
   },
   "total_videos": 63,
-  "total_views": 30320,
+  "total_views": 30548,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,12 +16,12 @@
     },
     "science": {
       "videos": 12,
-      "avg_views": 432,
+      "avg_views": 433,
       "best_views": 1647
     },
     "animals": {
       "videos": 22,
-      "avg_views": 568,
+      "avg_views": 578,
       "best_views": 1507
     },
     "human body": {
@@ -36,14 +36,14 @@
     },
     "space": {
       "videos": 13,
-      "avg_views": 613,
+      "avg_views": 612,
       "best_views": 1454
     }
   },
   "by_style": {
     "classic": {
       "videos": 47,
-      "avg_views": 504,
+      "avg_views": 509,
       "over_1500": 2
     },
     "longform": {
@@ -60,7 +60,7 @@
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 2,
-      "avg_views": 30
+      "avg_views": 34
     },
     "en-US-ChristopherNeural": {
       "videos": 2,
@@ -68,7 +68,7 @@
     },
     "en-US-BrianNeural": {
       "videos": 8,
-      "avg_views": 30
+      "avg_views": 58
     },
     "en-US-AndrewNeural": {
       "videos": 2,
@@ -131,10 +131,10 @@
       "hook": "There's a planet where it rains glass. Sideways."
     },
     {
-      "title": "There's a Shark That Can Live for 400 Years",
+      "title": "A Snake Longer Than a School Bus Once Lived in India",
       "topic": "animals",
-      "views": 1243,
-      "hook": "There's a shark that can live for 400 years."
+      "views": 1242,
+      "hook": "A snake longer than a school bus once slithered through India."
     }
   ],
   "videos": {
@@ -510,7 +510,7 @@
       "hook": "There's a volcano three times taller than Everest. You could stroll up it.",
       "published_at": "2026-10-17T17:30:38Z",
       "privacy": "public",
-      "views": 282,
+      "views": 281,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/t5IFKjlXUd0"
@@ -562,7 +562,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1243,
+      "views": 1241,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -692,7 +692,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 60,
+      "views": 66,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -731,7 +731,7 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 39,
+      "views": 43,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
@@ -744,8 +744,8 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 63,
-      "likes": 1,
+      "views": 113,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
     },
@@ -757,7 +757,7 @@
       "hook": "A woodpecker slams its head into wood 12,000 times a day.",
       "published_at": "2026-10-20T18:00:31Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
@@ -770,7 +770,7 @@
       "hook": "The loudest sound in history was heard 3,000 miles away.",
       "published_at": "2026-10-20T19:30:15Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/BcQ6XKRdqJ4"
@@ -783,7 +783,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 50,
+      "views": 72,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
@@ -796,7 +796,7 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/YX7zSStVK_k"
@@ -822,7 +822,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 754,
+      "views": 752,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -846,10 +846,10 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "This fish chokes sharks with slime in half a second.",
-      "published_at": "2026-10-21T01:51:40Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-10-21T02:20:35Z",
+      "privacy": "public",
+      "views": 141,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/wyObPwWsA0g"
     },
@@ -900,7 +900,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 50,
+      "views": 52,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -939,7 +939,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 72,
+      "views": 75,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
@@ -952,7 +952,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c"
