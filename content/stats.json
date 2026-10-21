@@ -1,29 +1,22 @@
 {
-  "updated_at": "2026-10-21T20:38:01+00:00",
+  "updated_at": "2026-10-21T22:08:59+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 51,
     "channel_views": 29409,
-    "video_count": 66
+    "video_count": 68
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/_DAzc-V2X2o",
-      "https://youtube.com/shorts/7E64Z48yaAs"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/7E64Z48yaAs"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/7E64Z48yaAs"
-    ]
+    "sd_only": []
   },
   "total_videos": 68,
-  "total_views": 32010,
+  "total_views": 32035,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -37,7 +30,7 @@
     },
     "animals": {
       "videos": 25,
-      "avg_views": 564,
+      "avg_views": 565,
       "best_views": 1507
     },
     "human body": {
@@ -57,8 +50,8 @@
     },
     "technology": {
       "videos": 1,
-      "avg_views": 0,
-      "best_views": 0
+      "avg_views": 1,
+      "best_views": 1
     }
   },
   "by_style": {
@@ -84,7 +77,7 @@
     },
     "en-US-BrianNeural": {
       "videos": 11,
-      "avg_views": 162
+      "avg_views": 164
     },
     "en-US-AndrewNeural": {
       "videos": 3,
@@ -92,7 +85,7 @@
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 0
+      "avg_views": 1
     }
   },
   "top_videos": [
@@ -1305,7 +1298,7 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 49,
+      "views": 58,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/YX7zSStVK_k"
@@ -1401,7 +1394,7 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 932,
+      "views": 936,
       "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/wyObPwWsA0g"
@@ -1497,7 +1490,7 @@
       "hook": "In 1945, a chicken lost its head and lived another 18 months.",
       "published_at": "2026-10-21T16:30:28Z",
       "privacy": "public",
-      "views": 2,
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/ExE2WcB7uRI"
@@ -1521,7 +1514,7 @@
       "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM"
@@ -1567,9 +1560,9 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
-      "published_at": "2026-10-21T19:48:36Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-21T21:00:29Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o"
@@ -1737,7 +1730,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 105,
+      "views": 110,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
@@ -1767,14 +1760,14 @@
       "url": "https://youtube.com/shorts/sSBPt5yFR_c"
     },
     "7E64Z48yaAs": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT33S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1783,9 +1776,9 @@
       "style": "classic",
       "voice": "en-US-EricNeural",
       "hook": "Scientists drilled seven and a half miles down. The Earth fought back.",
-      "published_at": "2026-10-21T20:37:56Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-21T21:00:16Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/7E64Z48yaAs"
