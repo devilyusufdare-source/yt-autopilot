@@ -102,7 +102,7 @@ two values once on your own computer: get a short-lived user token in Meta's Gra
 (permissions pages_show_list, pages_read_engagement, pages_manage_posts, publish_video), then run
 `python facebook_setup.py APP_ID APP_SECRET TOKEN` (the file is `pipeline/facebook_setup.py`).
 
-Release window: uploading and going public are separate. The job runs every 2 hours and uploads
+Release window: uploading and going public are separate. The job runs once before each release time and uploads
 whenever the 24 h window has room; each video is scheduled (`publishAt`) into the next free hourly
 time of its slot list (`release.shorts_slots` / `release.longform_slots`: Shorts every ~2.5 h around
 the clock skipping the US-night hours, the long video at 6:30 AM IST = US evening), so Studio shows

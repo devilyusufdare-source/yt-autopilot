@@ -475,11 +475,13 @@ def main(argv: list[str] | None = None) -> int:
     cap = daily_cap(cfg)
     probe_index = None
     if args.count is None and not args.dry_run and cap > 0:
-        # Catch-up: if YouTube's 24 h window has more room than usual (an earlier run was blocked),
-        # make one extra video this run so the day still reaches the daily total.
+        # Catch-up: if YouTube's 24 h window has much more room than usual (two earlier runs were
+        # blocked or failed), make one extra video this run so the day still reaches the daily total.
+        # One missed run is left alone: with a run before every release time, catching up on a single
+        # free place would put two videos in one run and shift the whole rhythm.
         free_now = max(0, cap - len(recent_upload_times(24.0)))
-        if free_now > per_run:
-            count = min(free_now, per_run + 1)
+        if free_now >= per_run + 2:
+            count = per_run + 1
             print(f"[run] {free_now} upload slots free in YouTube's 24 h window -> making {count} videos this run")
         elif free_now == 0 and should_probe(cfg):
             # Weekly probe: the window is full by our count; try ONE extra upload to learn whether

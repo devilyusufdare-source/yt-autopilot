@@ -2,12 +2,23 @@ name: Daily video
 
 on:
   schedule:
-    # Every 2 hours (UTC). A run uploads only when YouTube's rolling 24 h upload limit has room
-    # (10 per day for this channel) and otherwise exits in seconds, so over a day exactly 10 videos
-    # get uploaded. Uploading and releasing are separate: each video is scheduled to go public at
-    # the next free slot of its list in channel.yml (`release.shorts_slots` / `longform_slots`:
-    # Shorts every ~2.5 h around the clock, long video at 6:30 AM IST).
-    - cron: "17 */2 * * *"
+    # One run about 50 minutes before each of the 10 release times in channel.yml (`release.shorts_slots`,
+    # IST: 07:45, 17:30, 19:00, 20:30, 22:00, 23:30, 01:00, 02:30, 04:00, 05:30), so every video is made
+    # and uploaded just before it goes public (the two videos that kept getting views during the 19-21 Oct
+    # collapse were the two that went public within 30 min of upload). A run uploads only when YouTube's
+    # rolling 24 h limit (10) has room and otherwise exits in seconds. GitHub starts cron jobs a few
+    # minutes late; if a run misses its slot the video goes public ~25 min after upload instead
+    # (`release.max_wait_hours`), so the rhythm never slips by more than one video.
+    - cron: "25 1 * * *"
+    - cron: "10 11 * * *"
+    - cron: "40 12 * * *"
+    - cron: "10 14 * * *"
+    - cron: "40 15 * * *"
+    - cron: "10 17 * * *"
+    - cron: "40 18 * * *"
+    - cron: "10 20 * * *"
+    - cron: "40 21 * * *"
+    - cron: "10 23 * * *"
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
     paths:

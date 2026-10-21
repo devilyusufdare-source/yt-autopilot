@@ -5,7 +5,7 @@ a Claude subscription. What Claude did on a schedule was only *writing new ideas
 `content/queue/` there are about two months of videos in stock.
 
 ## What keeps running on its own
-- **Uploads:** `.github/workflows/daily.yml` runs every 2 hours, makes videos from `content/queue/`
+- **Uploads:** `.github/workflows/daily.yml` runs once before each release time (10 a day), makes videos from `content/queue/`
   (highest `priority` first, then oldest), uploads 10 a day and schedules them into the times in
   `channel.yml` → `release.shorts_slots`. It stops only when the queue is empty.
 - **Stats:** `content/stats.json` is refreshed after every upload (views, likes, subscribers).
