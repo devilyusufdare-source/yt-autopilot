@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T14:49:18+00:00",
+  "updated_at": "2026-10-21T16:48:41+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 50,
     "channel_views": 29409,
-    "video_count": 65
+    "video_count": 67
   },
   "total_videos": 69,
-  "total_views": 31800,
+  "total_views": 31862,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,12 +16,12 @@
     },
     "science": {
       "videos": 13,
-      "avg_views": 402,
+      "avg_views": 403,
       "best_views": 1647
     },
     "animals": {
       "videos": 24,
-      "avg_views": 580,
+      "avg_views": 582,
       "best_views": 1507
     },
     "human body": {
@@ -31,19 +31,19 @@
     },
     "history": {
       "videos": 9,
-      "avg_views": 197,
+      "avg_views": 198,
       "best_views": 1105
     },
     "space": {
       "videos": 14,
       "avg_views": 570,
-      "best_views": 1467
+      "best_views": 1469
     }
   },
   "by_style": {
     "classic": {
       "videos": 53,
-      "avg_views": 475,
+      "avg_views": 476,
       "over_1500": 2
     },
     "longform": {
@@ -60,7 +60,7 @@
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 3,
-      "avg_views": 27
+      "avg_views": 29
     },
     "en-US-ChristopherNeural": {
       "videos": 4,
@@ -68,7 +68,7 @@
     },
     "en-US-BrianNeural": {
       "videos": 10,
-      "avg_views": 160
+      "avg_views": 164
     },
     "en-US-AndrewNeural": {
       "videos": 3,
@@ -97,7 +97,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1467,
+      "views": 1469,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -432,7 +432,7 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 106,
+      "views": 107,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
@@ -601,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1467,
+      "views": 1469,
       "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -692,7 +692,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 77,
+      "views": 82,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -731,8 +731,8 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 69,
-      "likes": 2,
+      "views": 72,
+      "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
     },
@@ -744,7 +744,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 222,
+      "views": 233,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
@@ -770,7 +770,7 @@
       "hook": "The loudest sound in history was heard 3,000 miles away.",
       "published_at": "2026-10-20T19:30:15Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/BcQ6XKRdqJ4"
@@ -783,7 +783,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 191,
+      "views": 211,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
@@ -796,7 +796,7 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 32,
+      "views": 34,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/YX7zSStVK_k"
@@ -822,7 +822,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 792,
+      "views": 794,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -848,7 +848,7 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 926,
+      "views": 929,
       "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/wyObPwWsA0g"
@@ -861,7 +861,7 @@
       "hook": "In 1994, a comet smashed into Jupiter and left a scar bigger than Earth.",
       "published_at": "2026-10-21T12:00:23Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/F_0H7cz8PE4"
@@ -885,8 +885,8 @@
       "style": "classic",
       "voice": "en-US-ChristopherNeural",
       "hook": "In 1958, the US dropped a nuclear bomb on South Carolina. By accident.",
-      "published_at": "2026-10-21T07:19:36Z",
-      "privacy": "private",
+      "published_at": "2026-10-21T15:00:12Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -898,8 +898,8 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "In 1945, a chicken lost its head and lived another 18 months.",
-      "published_at": "2026-10-21T11:02:41Z",
-      "privacy": "private",
+      "published_at": "2026-10-21T16:30:28Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -952,7 +952,7 @@
       "hook": "One drill hole drained an entire lake in three hours.",
       "published_at": "2026-10-19T13:30:34Z",
       "privacy": "public",
-      "views": 31,
+      "views": 32,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/TtDH4yL4P10"
@@ -978,7 +978,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 64,
+      "views": 65,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -1017,7 +1017,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 87,
+      "views": 96,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
