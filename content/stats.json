@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T22:44:39+00:00",
+  "updated_at": "2026-10-21T01:51:45+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 48,
     "channel_views": 28834,
     "video_count": 61
   },
-  "total_videos": 61,
-  "total_views": 30162,
+  "total_videos": 63,
+  "total_views": 30320,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,34 +16,34 @@
     },
     "science": {
       "videos": 12,
-      "avg_views": 431,
+      "avg_views": 432,
       "best_views": 1647
     },
     "animals": {
-      "videos": 20,
-      "avg_views": 618,
+      "videos": 22,
+      "avg_views": 568,
       "best_views": 1507
     },
     "human body": {
       "videos": 4,
       "avg_views": 552,
-      "best_views": 1380
+      "best_views": 1382
     },
     "history": {
       "videos": 7,
       "avg_views": 253,
-      "best_views": 1101
+      "best_views": 1104
     },
     "space": {
       "videos": 13,
-      "avg_views": 612,
-      "best_views": 1449
+      "avg_views": 613,
+      "best_views": 1454
     }
   },
   "by_style": {
     "classic": {
-      "videos": 45,
-      "avg_views": 524,
+      "videos": 47,
+      "avg_views": 504,
       "over_1500": 2
     },
     "longform": {
@@ -53,22 +53,22 @@
     },
     "punch": {
       "videos": 13,
-      "avg_views": 507,
+      "avg_views": 508,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 2,
-      "avg_views": 26
+      "avg_views": 30
     },
     "en-US-ChristopherNeural": {
       "videos": 2,
       "avg_views": 4
     },
     "en-US-BrianNeural": {
-      "videos": 6,
-      "avg_views": 23
+      "videos": 8,
+      "avg_views": 30
     },
     "en-US-AndrewNeural": {
       "videos": 2,
@@ -97,7 +97,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1449,
+      "views": 1454,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -109,7 +109,7 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1380,
+      "views": 1382,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -121,7 +121,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1278,
+      "views": 1287,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -133,7 +133,7 @@
     {
       "title": "There's a Shark That Can Live for 400 Years",
       "topic": "animals",
-      "views": 1242,
+      "views": 1243,
       "hook": "There's a shark that can live for 400 years."
     }
   ],
@@ -185,7 +185,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 360,
+      "views": 361,
       "likes": 11,
       "comments": 2,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
@@ -458,7 +458,7 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 1101,
+      "views": 1104,
       "likes": 26,
       "comments": 2,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
@@ -484,7 +484,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1380,
+      "views": 1382,
       "likes": 52,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -497,7 +497,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1278,
+      "views": 1287,
       "likes": 26,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -562,7 +562,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1242,
+      "views": 1243,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -588,7 +588,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1241,
+      "views": 1242,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -601,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1449,
+      "views": 1454,
       "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -653,7 +653,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 438,
+      "views": 439,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -692,7 +692,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 51,
+      "views": 60,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -705,7 +705,7 @@
       "hook": "In 1932, Australia went to war against emus. The emus won.",
       "published_at": "2026-10-20T13:30:32Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/ID8nA8KDcUg"
@@ -744,7 +744,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 28,
+      "views": 63,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
@@ -757,7 +757,7 @@
       "hook": "A woodpecker slams its head into wood 12,000 times a day.",
       "published_at": "2026-10-20T18:00:31Z",
       "privacy": "public",
-      "views": 6,
+      "views": 12,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
@@ -783,8 +783,8 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 50,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
     },
@@ -796,7 +796,7 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/YX7zSStVK_k"
@@ -822,10 +822,36 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 734,
-      "likes": 5,
+      "views": 754,
+      "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
+    },
+    "Ai052d7-pp4": {
+      "title": "A Chameleon's Tongue Hits 60 mph in One Hundredth of a Second",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "A chameleon's tongue goes zero to sixty in a hundredth of a second.",
+      "published_at": "2026-10-21T01:02:06Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Ai052d7-pp4"
+    },
+    "wyObPwWsA0g": {
+      "title": "This Fish Chokes Sharks With Slime in Half a Second",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "This fish chokes sharks with slime in half a second.",
+      "published_at": "2026-10-21T01:51:40Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/wyObPwWsA0g"
     },
     "YmsVWnGQ7_k": {
       "title": "In 2022, a Volcano Fired 2,600 Lightning Bolts a Minute",
@@ -874,7 +900,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 45,
+      "views": 50,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -913,7 +939,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 67,
+      "views": 72,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
