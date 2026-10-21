@@ -91,6 +91,29 @@ So, until the data says otherwise:
 - Give `priority` 5–8 to ideas you are confident will break out (strong hook + great footage
   available); leave the rest at 0. Priority ideas go out first.
 
+## New topics (22 Oct): technology, games, internet
+
+The channel is widening beyond nature and space. Three topics were added to `topics` in channel.yml:
+- **technology** — inventions, machines, engineering and records: the first X, the biggest/fastest/
+  most expensive machine, how something was built, a failure that changed a design. Stock footage
+  exists for almost all of it (rockets, robots, factories, old computers, bridges, ships), so treat it
+  like science: the hook names a physical, visible event or extreme number. Start now: about 2 of
+  every 10 ideas.
+- **games** — facts about Minecraft, GTA, Roblox, Fortnite, Donut SMP, speedruns, records, hidden
+  mechanics, how a game was made, money a game or server made. Stock sites have almost no gameplay
+  footage, and other people's gameplay clips must never be used (reused-content rule). Until the
+  channel has its own footage library (`assets/footage/games/`, coming), keep games to **1 in 10**
+  ideas and write hooks that generic footage can carry (keywords like "gaming room neon lights",
+  "game controller close up", "server room blinking lights", "pixel art screen", "kid playing video
+  game excited"). The number or the twist carries the video, the picture sets the mood.
+- **internet** — YouTube and creator records and internet history: the first YouTube video, the most
+  viewed video, MrBeast's verified numbers (from major outlets or YouTube itself), how much a viral
+  video earned, records on Shorts. Only verifiable numbers from major news outlets or the platforms'
+  own announcements; nothing about private people, no gossip, no claims about anyone's private life
+  or income that is not published by a major outlet. Footage: "phone scrolling social media",
+  "studio camera recording", "crowd stadium lights", "money counting". 1 in 10 ideas.
+Give priority 6–8 to the strongest technology ideas so the new topics reach the channel this week.
+
 ## Script rules (what the voice says)
 
 - Scene 1 is the hook: ≤ 12 words, creates an open loop, no "did you know". Examples that work:

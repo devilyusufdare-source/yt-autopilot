@@ -62,6 +62,9 @@ looks:
   human body: { highlight_color: "#FDA4AF", voice: "en-US-AvaNeural",    zoom: 0.09 }
   history:    { highlight_color: "#FCD34D", voice: "en-US-ChristopherNeural", zoom: 0.07 }
   psychology: { highlight_color: "#C4B5FD", voice: "en-US-EmmaNeural",   zoom: 0.08 }
+  technology: { highlight_color: "#67E8F9", voice: "en-US-EricNeural",   zoom: 0.08 }
+  games:      { highlight_color: "#A3E635", voice: "en-US-RogerNeural",  zoom: 0.09 }
+  internet:   { highlight_color: "#F9A8D4", voice: "en-US-AriaNeural",   zoom: 0.08 }
 
 # Client prospecting (python -m pipeline.prospects / the "Find client prospects" workflow):
 # niches where small creators post Shorts and would buy ready-made ones.
@@ -112,6 +115,9 @@ topics:
   - science
   - history
   - animals
+  - technology      # inventions, machines, engineering records, "how it was built" (added 22 Oct)
+  - games           # video-game facts: Minecraft, GTA, Roblox, Fortnite, Donut SMP (needs own footage, see AGENT_TASK.md)
+  - internet        # YouTube/creator records and internet history: MrBeast's numbers, the first video, viral records
 
 # The idea generator keeps this many ready-to-render ideas waiting in content/queue (600 = two months in stock,
 # so uploads continue even when the idea writer is not running).
