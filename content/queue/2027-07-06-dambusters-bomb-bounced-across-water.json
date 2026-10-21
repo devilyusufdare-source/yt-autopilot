@@ -1,57 +1,57 @@
 {
- "id": "2027-07-06-dambusters-bomb-bounced-across-water",
- "topic": "history",
- "title": "The Bomb That Bounced Across Water to Break a Dam",
- "scenes": [
-  {
-   "text": "In 1943, Britain made a bomb that bounced across water.",
-   "keywords": "bomber plane low flying"
-  },
-  {
-   "text": "Bombers flew just sixty feet above the lake at about 240 miles an hour.",
-   "keywords": "airplane over water"
-  },
-  {
-   "text": "The bomb was spun at five hundred turns a minute, then dropped.",
-   "keywords": "spinning drum machinery"
-  },
-  {
-   "text": "It skipped over the surface like a stone, and the backspin made it hug the dam wall.",
-   "keywords": "stone skipping water"
-  },
-  {
-   "text": "Two dams broke, and the flood rushed through the valley.",
-   "keywords": "dam breaking water"
-  },
-  {
-   "text": "A bomb that skipped like a stone.",
-   "keywords": "reservoir dam"
-  }
- ],
- "description": "On the night of May sixteenth, 1943, nineteen Lancaster bombers attacked German dams with a spinning bouncing bomb.\nThey flew sixty feet above the water at about 240 miles an hour, and two dams were breached.\nIt was one of the most daring raids of the war.",
- "tags": [
-  "dambusters",
-  "bouncing bomb",
-  "operation chastise",
-  "world war two",
-  "history facts",
-  "lancaster bomber",
-  "barnes wallis",
-  "mind blowing facts",
-  "shorts facts",
-  "military history"
- ],
- "hashtags": [
-  "#shorts",
-  "#history",
-  "#ww2",
-  "#dambusters"
- ],
- "sources": [
-  "https://www.iwm.org.uk/history/the-incredible-story-of-the-dambusters-raid",
-  "https://worldhistory.org/Operation_Chastise"
- ],
- "thumbnail_text": "THE BOMB THAT SKIPPED LIKE A STONE",
- "priority": 6,
- "first_comment": "The bomb was spun at 500 rpm to make it bounce. What other WW2 invention surprises you?"
+  "id": "2027-07-06-dambusters-bomb-bounced-across-water",
+  "topic": "history",
+  "title": "The Bomb That Bounced Across Water to Break a Dam",
+  "scenes": [
+    {
+      "text": "In 1943, Britain made a bomb that bounced across water.",
+      "keywords": "bomber plane low flying"
+    },
+    {
+      "text": "Bombers flew just sixty feet above the lake at about 240 miles an hour.",
+      "keywords": "airplane over water"
+    },
+    {
+      "text": "The bomb was spun at five hundred turns a minute, then dropped.",
+      "keywords": "spinning drum machinery"
+    },
+    {
+      "text": "It skipped over the surface like a stone, and the backspin made it hug the dam wall.",
+      "keywords": "stone skipping water"
+    },
+    {
+      "text": "Two dams broke, and the flood rushed through the valley.",
+      "keywords": "dam breaking water"
+    },
+    {
+      "text": "A bomb that skipped like a stone.",
+      "keywords": "reservoir dam"
+    }
+  ],
+  "description": "On the night of May sixteenth, 1943, nineteen Lancaster bombers attacked German dams with a spinning bouncing bomb.\nThey flew sixty feet above the water at about 240 miles an hour, and two dams were breached.\nIt was one of the most daring raids of the war.",
+  "tags": [
+    "dambusters",
+    "bouncing bomb",
+    "operation chastise",
+    "world war two",
+    "history facts",
+    "lancaster bomber",
+    "barnes wallis",
+    "mind blowing facts",
+    "shorts facts",
+    "military history"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#history",
+    "#ww2",
+    "#dambusters"
+  ],
+  "sources": [
+    "https://www.iwm.org.uk/history/the-incredible-story-of-the-dambusters-raid",
+    "https://worldhistory.org/Operation_Chastise"
+  ],
+  "thumbnail_text": "THE BOMB THAT SKIPPED LIKE A STONE",
+  "priority": 0,
+  "first_comment": "The bomb was spun at 500 rpm to make it bounce. What other WW2 invention surprises you?"
 }

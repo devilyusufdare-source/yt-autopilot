@@ -1,60 +1,60 @@
 {
- "id": "2028-06-23-fly-sees-your-swat-in-slow-motion",
- "topic": "animals",
- "priority": 0,
- "title": "To a Fly, Your Swat Looks Like Slow Motion",
- "scenes": [
-  {
-   "text": "To a fly, your swat looks like slow motion.",
-   "keywords": "fly on table close up"
-  },
-  {
-   "text": "You see about sixty flashes of light per second.",
-   "keywords": "human eye blinking"
-  },
-  {
-   "text": "Some flies see two hundred fifty.",
-   "keywords": "fly compound eye macro"
-  },
-  {
-   "text": "To a fly, a movie at twenty-four frames per second looks like a slideshow.",
-   "keywords": "film projector reel"
-  },
-  {
-   "text": "Your hand comes in slow, so it just hops away.",
-   "keywords": "hand swatting fly"
-  },
-  {
-   "text": "One predatory fly sees time about six times slower than you.",
-   "keywords": "robber fly macro"
-  },
-  {
-   "text": "That's why you never win.",
-   "keywords": "fly flying away"
-  }
- ],
- "description": "To a fly, your swat looks like slow motion.\nHumans resolve about 60 flashes per second, while some flies see up to 250, so your hand seems to move slowly.\nHave you ever actually caught one?",
- "tags": [
-  "fly vision",
-  "how flies see",
-  "insect facts",
-  "animal facts",
-  "slow motion",
-  "flicker fusion",
-  "animal superpowers",
-  "mind blowing facts",
-  "shorts facts"
- ],
- "hashtags": [
-  "#shorts",
-  "#animals",
-  "#insects",
-  "#facts"
- ],
- "sources": [
-  "https://news.fiu.edu/2022/flies-evade-your-swatting-thanks-to-sophisticated-vision-and-neural-shortcuts",
-  "https://bigthink.com/life/the-reason-why-each-species-experiences-time-differently/"
- ],
- "thumbnail_text": "FLIES SEE IN SLOW MOTION",
- "first_comment": "Bonus: a predatory killer fly may see time about six times slower than we do. Ever caught a fly by hand?"
+  "id": "2028-06-23-fly-sees-your-swat-in-slow-motion",
+  "topic": "animals",
+  "priority": 6,
+  "title": "To a Fly, Your Swat Looks Like Slow Motion",
+  "scenes": [
+    {
+      "text": "To a fly, your swat looks like slow motion.",
+      "keywords": "fly on table close up"
+    },
+    {
+      "text": "You see about sixty flashes of light per second.",
+      "keywords": "human eye blinking"
+    },
+    {
+      "text": "Some flies see two hundred fifty.",
+      "keywords": "fly compound eye macro"
+    },
+    {
+      "text": "To a fly, a movie at twenty-four frames per second looks like a slideshow.",
+      "keywords": "film projector reel"
+    },
+    {
+      "text": "Your hand comes in slow, so it just hops away.",
+      "keywords": "hand swatting fly"
+    },
+    {
+      "text": "One predatory fly sees time about six times slower than you.",
+      "keywords": "robber fly macro"
+    },
+    {
+      "text": "That's why you never win.",
+      "keywords": "fly flying away"
+    }
+  ],
+  "description": "To a fly, your swat looks like slow motion.\nHumans resolve about 60 flashes per second, while some flies see up to 250, so your hand seems to move slowly.\nHave you ever actually caught one?",
+  "tags": [
+    "fly vision",
+    "how flies see",
+    "insect facts",
+    "animal facts",
+    "slow motion",
+    "flicker fusion",
+    "animal superpowers",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#insects",
+    "#facts"
+  ],
+  "sources": [
+    "https://news.fiu.edu/2022/flies-evade-your-swatting-thanks-to-sophisticated-vision-and-neural-shortcuts",
+    "https://bigthink.com/life/the-reason-why-each-species-experiences-time-differently/"
+  ],
+  "thumbnail_text": "FLIES SEE IN SLOW MOTION",
+  "first_comment": "Bonus: a predatory killer fly may see time about six times slower than we do. Ever caught a fly by hand?"
 }

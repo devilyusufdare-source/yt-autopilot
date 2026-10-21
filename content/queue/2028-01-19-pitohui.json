@@ -1,62 +1,62 @@
 {
- "id": "2028-01-19-pitohui",
- "topic": "animals",
- "title": "This Bird's Feathers Carry the Same Poison as Dart Frogs",
- "scenes": [
-  {
-   "text": "There's a bird in New Guinea with poison in its feathers.",
-   "keywords": "hooded pitohui bird"
-  },
-  {
-   "text": "It's the hooded pitohui.",
-   "keywords": "orange black bird forest"
-  },
-  {
-   "text": "Its skin and feathers carry batrachotoxin, the same poison found in poison dart frogs.",
-   "keywords": "poison dart frog"
-  },
-  {
-   "text": "In a lab test, a few milligrams of its skin killed a mouse within minutes.",
-   "keywords": "laboratory mouse"
-  },
-  {
-   "text": "In 1989, a scientist touched his lips after handling one, and they went numb.",
-   "keywords": "scientist holding bird net"
-  },
-  {
-   "text": "The bird doesn't make the poison. Scientists think it comes from the beetles it eats.",
-   "keywords": "beetle on leaf"
-  },
-  {
-   "text": "So yes: a bird that's poisonous to touch.",
-   "keywords": "rainforest bird branch"
-  }
- ],
- "description": "There's a bird in New Guinea with poison in its feathers.\nThe hooded pitohui carries batrachotoxin, the same poison found in poison dart frogs.\nWould you have touched it?",
- "tags": [
-  "hooded pitohui",
-  "poisonous bird",
-  "batrachotoxin",
-  "poison dart frog",
-  "new guinea",
-  "animal facts",
-  "animals with superpowers",
-  "bird facts",
-  "mind blowing facts",
-  "shorts facts",
-  "did you know"
- ],
- "hashtags": [
-  "#shorts",
-  "#animals",
-  "#birds",
-  "#facts"
- ],
- "sources": [
-  "https://www.mcgill.ca/oss/article/did-you-know/pitohui-bird-contains-deadly-batrachotoxin",
-  "https://en.wikipedia.org/wiki/Hooded_pitohui"
- ],
- "thumbnail_text": "POISONOUS BIRD",
- "priority": 0,
- "first_comment": "A bird with poison in its feathers. What other animal should we check for secrets?"
+  "id": "2028-01-19-pitohui",
+  "topic": "animals",
+  "title": "This Bird's Feathers Carry the Same Poison as Dart Frogs",
+  "scenes": [
+    {
+      "text": "There's a bird in New Guinea with poison in its feathers.",
+      "keywords": "hooded pitohui bird"
+    },
+    {
+      "text": "It's the hooded pitohui.",
+      "keywords": "orange black bird forest"
+    },
+    {
+      "text": "Its skin and feathers carry batrachotoxin, the same poison found in poison dart frogs.",
+      "keywords": "poison dart frog"
+    },
+    {
+      "text": "In a lab test, a few milligrams of its skin killed a mouse within minutes.",
+      "keywords": "laboratory mouse"
+    },
+    {
+      "text": "In 1989, a scientist touched his lips after handling one, and they went numb.",
+      "keywords": "scientist holding bird net"
+    },
+    {
+      "text": "The bird doesn't make the poison. Scientists think it comes from the beetles it eats.",
+      "keywords": "beetle on leaf"
+    },
+    {
+      "text": "So yes: a bird that's poisonous to touch.",
+      "keywords": "rainforest bird branch"
+    }
+  ],
+  "description": "There's a bird in New Guinea with poison in its feathers.\nThe hooded pitohui carries batrachotoxin, the same poison found in poison dart frogs.\nWould you have touched it?",
+  "tags": [
+    "hooded pitohui",
+    "poisonous bird",
+    "batrachotoxin",
+    "poison dart frog",
+    "new guinea",
+    "animal facts",
+    "animals with superpowers",
+    "bird facts",
+    "mind blowing facts",
+    "shorts facts",
+    "did you know"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#birds",
+    "#facts"
+  ],
+  "sources": [
+    "https://www.mcgill.ca/oss/article/did-you-know/pitohui-bird-contains-deadly-batrachotoxin",
+    "https://en.wikipedia.org/wiki/Hooded_pitohui"
+  ],
+  "thumbnail_text": "POISONOUS BIRD",
+  "priority": 6,
+  "first_comment": "A bird with poison in its feathers. What other animal should we check for secrets?"
 }

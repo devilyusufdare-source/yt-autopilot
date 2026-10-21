@@ -24,8 +24,7 @@
       "keywords": "snapping turtle jaws bite"
     },
     {
-      "text": "A turtle that fishes with bait. Watch the worm again."
-      ,
+      "text": "A turtle that fishes with bait. Watch the worm again.",
       "keywords": "alligator snapping turtle close up"
     }
   ],
@@ -44,12 +43,17 @@
     "mind blowing facts",
     "shorts facts"
   ],
-  "hashtags": ["#shorts", "#turtle", "#animals", "#facts"],
+  "hashtags": [
+    "#shorts",
+    "#turtle",
+    "#animals",
+    "#facts"
+  ],
   "sources": [
     "https://www.nationalgeographic.com/animals/reptiles/facts/alligator-snapping-turtle",
     "https://www.in.gov/dnr/fish-and-wildlife/wildlife-resources/animals/alligator-snapping-turtle"
   ],
   "first_comment": "Which animal would you least want to meet on a river bottom?",
   "thumbnail_text": "TURTLE FISHES WITH A FAKE WORM",
-  "priority": 5
+  "priority": 6
 }
