@@ -1,0 +1,59 @@
+{
+  "id": "2028-08-13-gangnam-style-broke-youtube-counter",
+  "topic": "internet",
+  "title": "Gangnam Style Was Watched So Many Times It Broke YouTube's Counter",
+  "scenes": [
+    {
+      "text": "A music video was watched so many times it broke YouTube.",
+      "keywords": "phone scrolling social media"
+    },
+    {
+      "text": "In December 2014, Gangnam Style passed 2,147,483,647 views.",
+      "keywords": "phone screen video views counting"
+    },
+    {
+      "text": "That's the biggest number a 32-bit counter can hold.",
+      "keywords": "computer code screen numbers"
+    },
+    {
+      "text": "YouTube's counter simply couldn't go any higher.",
+      "keywords": "server room blinking lights"
+    },
+    {
+      "text": "So YouTube posted: Gangnam Style has been viewed so many times we have to upgrade!",
+      "keywords": "laptop typing social media post"
+    },
+    {
+      "text": "The video was over two billion views, and the counter had to be rebuilt.",
+      "keywords": "phone scrolling social media"
+    }
+  ],
+  "description": "Gangnam Style broke YouTube's view counter in December 2014.\nIt passed 2,147,483,647 views, the largest number a 32-bit integer can store, and YouTube had to upgrade the counter.\nWhat do you think the next counter-breaking video will be? Comment below.",
+  "tags": [
+    "gangnam style",
+    "youtube view counter",
+    "youtube facts",
+    "internet history",
+    "viral video",
+    "youtube record",
+    "32-bit integer",
+    "psy",
+    "internet facts",
+    "technology facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#youtube",
+    "#internet",
+    "#gangnamstyle"
+  ],
+  "sources": [
+    "https://www.cbsnews.com/news/how-gangnam-style-broke-youtubes-view-counter/",
+    "https://www.thedrum.com/news/gangnam-style-breaks-youtube-view-counter-too-many-views"
+  ],
+  "thumbnail_text": "IT BROKE YOUTUBE'S COUNTER",
+  "priority": 6,
+  "first_comment": "The limit was 2,147,483,647, a 32-bit number. What do you think was the first video you watched more than 100 times?"
+}
