@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T05:51:36+00:00",
+  "updated_at": "2026-10-21T07:19:42+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
-    "subscribers": 48,
+    "subscribers": 50,
     "channel_views": 29409,
     "video_count": 62
   },
-  "total_videos": 65,
-  "total_views": 30990,
+  "total_videos": 66,
+  "total_views": 31245,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,12 +16,12 @@
     },
     "science": {
       "videos": 13,
-      "avg_views": 400,
+      "avg_views": 401,
       "best_views": 1647
     },
     "animals": {
       "videos": 22,
-      "avg_views": 598,
+      "avg_views": 608,
       "best_views": 1507
     },
     "human body": {
@@ -30,20 +30,20 @@
       "best_views": 1383
     },
     "history": {
-      "videos": 7,
-      "avg_views": 254,
+      "videos": 8,
+      "avg_views": 222,
       "best_views": 1104
     },
     "space": {
       "videos": 14,
       "avg_views": 569,
-      "best_views": 1456
+      "best_views": 1459
     }
   },
   "by_style": {
     "classic": {
-      "videos": 49,
-      "avg_views": 498,
+      "videos": 50,
+      "avg_views": 493,
       "over_1500": 2
     },
     "longform": {
@@ -60,19 +60,19 @@
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 3,
-      "avg_views": 23
+      "avg_views": 24
     },
     "en-US-ChristopherNeural": {
-      "videos": 2,
-      "avg_views": 5
+      "videos": 3,
+      "avg_views": 4
     },
     "en-US-BrianNeural": {
       "videos": 8,
-      "avg_views": 111
+      "avg_views": 136
     },
     "en-US-AndrewNeural": {
       "videos": 3,
-      "avg_views": 24
+      "avg_views": 26
     }
   },
   "top_videos": [
@@ -97,13 +97,13 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1456,
+      "views": 1459,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
       "title": "Astronauts on the Space Station See 16 Sunrises a Day",
       "topic": "space",
-      "views": 1398,
+      "views": 1399,
       "hook": "Astronauts on the space station see 16 sunrises every single day."
     },
     {
@@ -485,7 +485,7 @@
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
       "views": 1383,
-      "likes": 52,
+      "likes": 53,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
     },
@@ -562,7 +562,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1241,
+      "views": 1242,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -601,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1456,
+      "views": 1459,
       "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -640,7 +640,7 @@
       "hook": "Astronauts on the space station see 16 sunrises every single day.",
       "published_at": "2026-10-18T12:00:28Z",
       "privacy": "public",
-      "views": 1398,
+      "views": 1399,
       "likes": 38,
       "comments": 0,
       "url": "https://youtube.com/shorts/hUG-q54cj-0"
@@ -653,7 +653,7 @@
       "hook": "A glass drop that stops a bullet, but dies from a pinch.",
       "published_at": "2026-10-18T13:30:29Z",
       "privacy": "public",
-      "views": 439,
+      "views": 441,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY"
@@ -666,7 +666,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 1007,
+      "views": 1008,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
@@ -692,7 +692,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 66,
+      "views": 69,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -705,7 +705,7 @@
       "hook": "In 1932, Australia went to war against emus. The emus won.",
       "published_at": "2026-10-20T13:30:32Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/ID8nA8KDcUg"
@@ -731,7 +731,7 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 56,
+      "views": 62,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
@@ -744,8 +744,8 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 156,
-      "likes": 2,
+      "views": 171,
+      "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
     },
@@ -757,7 +757,7 @@
       "hook": "A woodpecker slams its head into wood 12,000 times a day.",
       "published_at": "2026-10-20T18:00:31Z",
       "privacy": "public",
-      "views": 24,
+      "views": 27,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
@@ -770,7 +770,7 @@
       "hook": "The loudest sound in history was heard 3,000 miles away.",
       "published_at": "2026-10-20T19:30:15Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/BcQ6XKRdqJ4"
@@ -783,7 +783,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 114,
+      "views": 144,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
@@ -796,7 +796,7 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 11,
+      "views": 15,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/YX7zSStVK_k"
@@ -822,7 +822,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 754,
+      "views": 786,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -848,8 +848,8 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 449,
-      "likes": 2,
+      "views": 589,
+      "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/wyObPwWsA0g"
     },
@@ -878,6 +878,19 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q"
+    },
+    "bB08mIirOGo": {
+      "title": "In 1958, the US Accidentally Dropped a Nuclear Bomb on South Carolina",
+      "topic": "history",
+      "style": "classic",
+      "voice": "en-US-ChristopherNeural",
+      "hook": "In 1958, the US dropped a nuclear bomb on South Carolina. By accident.",
+      "published_at": "2026-10-21T07:19:36Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/bB08mIirOGo"
     },
     "YmsVWnGQ7_k": {
       "title": "In 2022, a Volcano Fired 2,600 Lightning Bolts a Minute",
@@ -926,7 +939,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 52,
+      "views": 60,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -952,7 +965,7 @@
       "hook": "Lightning hit a Moon rocket twice in the first 52 seconds.",
       "published_at": "2026-10-19T22:30:03Z",
       "privacy": "public",
-      "views": 72,
+      "views": 76,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/HS8O59SC0rc"
