@@ -70,7 +70,12 @@ def save_limits(data: dict) -> None:
 
 
 def daily_cap(cfg) -> int:
-    return int(load_limits(cfg).get("daily_limit", 0) or 0)
+    """Uploads allowed per rolling 24 h: YouTube's known cap, or a lower `release.videos_per_day` if set."""
+    cap = int(load_limits(cfg).get("daily_limit", 0) or 0)
+    target = cfg.get("release.videos_per_day")
+    if target:
+        cap = min(cap, int(target)) if cap > 0 else int(target)
+    return cap
 
 
 def should_probe(cfg) -> bool:
@@ -181,7 +186,10 @@ def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict
         except (TypeError, ValueError):
             prio = 0
         candidates.append((-prio, path.name, path, pkg))
+    only = [str(t).lower() for t in (cfg.get("release.only_topics") or [])]
     for _, _, path, pkg in sorted(candidates, key=lambda c: (c[0], c[1])):
+        if only and str(pkg.get("topic", "")).lower() not in only:
+            continue   # temporarily restricted to the topics that still get distribution
         errs = validate_package(pkg, cfg)
         if errs:
             _fail(path, pkg, "; ".join(errs))
