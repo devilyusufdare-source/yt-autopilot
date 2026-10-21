@@ -20,6 +20,8 @@ automatic (GitHub Actions, several times a day, oldest idea first). Your only jo
      have stats, lean towards the topics and hook styles that get the most views, but keep the
      rotation varied (no topic more than 2 days in a row).
    - `content/failed/*.json` → read the `_error` field; do not repeat those mistakes.
+   - `products/fact_vault/ideas/*.json` → ideas moved into a product that is sold; treat them as used
+     (never re-create them or anything like them).
 3. **Count the queue.** If `content/queue/` already holds `queue_target` or more valid files, stop and
    report "queue full". Otherwise write new files until it holds `queue_target` ideas.
 4. **For every new idea:**
