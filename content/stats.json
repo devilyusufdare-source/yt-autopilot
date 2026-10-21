@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T02:46:27+00:00",
+  "updated_at": "2026-10-21T05:51:36+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 48,
-    "channel_views": 28834,
+    "channel_views": 29409,
     "video_count": 62
   },
-  "total_videos": 63,
-  "total_views": 30548,
+  "total_videos": 65,
+  "total_views": 30990,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -15,35 +15,35 @@
       "best_views": 364
     },
     "science": {
-      "videos": 12,
-      "avg_views": 433,
+      "videos": 13,
+      "avg_views": 400,
       "best_views": 1647
     },
     "animals": {
       "videos": 22,
-      "avg_views": 578,
+      "avg_views": 598,
       "best_views": 1507
     },
     "human body": {
       "videos": 4,
-      "avg_views": 552,
-      "best_views": 1382
+      "avg_views": 553,
+      "best_views": 1383
     },
     "history": {
       "videos": 7,
-      "avg_views": 253,
+      "avg_views": 254,
       "best_views": 1104
     },
     "space": {
-      "videos": 13,
-      "avg_views": 612,
-      "best_views": 1454
+      "videos": 14,
+      "avg_views": 569,
+      "best_views": 1456
     }
   },
   "by_style": {
     "classic": {
-      "videos": 47,
-      "avg_views": 509,
+      "videos": 49,
+      "avg_views": 498,
       "over_1500": 2
     },
     "longform": {
@@ -59,20 +59,20 @@
   },
   "by_voice": {
     "en-US-GuyNeural": {
-      "videos": 2,
-      "avg_views": 34
+      "videos": 3,
+      "avg_views": 23
     },
     "en-US-ChristopherNeural": {
       "videos": 2,
-      "avg_views": 4
+      "avg_views": 5
     },
     "en-US-BrianNeural": {
       "videos": 8,
-      "avg_views": 58
+      "avg_views": 111
     },
     "en-US-AndrewNeural": {
-      "videos": 2,
-      "avg_views": 36
+      "videos": 3,
+      "avg_views": 24
     }
   },
   "top_videos": [
@@ -97,7 +97,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1454,
+      "views": 1456,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -109,7 +109,7 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1382,
+      "views": 1383,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -121,7 +121,7 @@
     {
       "title": "Scientists Threw These Animals Into Open Space. They Survived",
       "topic": "animals",
-      "views": 1287,
+      "views": 1290,
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
@@ -133,7 +133,7 @@
     {
       "title": "A Snake Longer Than a School Bus Once Lived in India",
       "topic": "animals",
-      "views": 1242,
+      "views": 1243,
       "hook": "A snake longer than a school bus once slithered through India."
     }
   ],
@@ -185,7 +185,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 361,
+      "views": 362,
       "likes": 11,
       "comments": 2,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA"
@@ -484,7 +484,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1382,
+      "views": 1383,
       "likes": 52,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -497,7 +497,7 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive.",
       "published_at": "2026-10-17T11:00:18Z",
       "privacy": "public",
-      "views": 1287,
+      "views": 1290,
       "likes": 26,
       "comments": 2,
       "url": "https://youtube.com/shorts/2KiDRDAJJWw"
@@ -549,7 +549,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 1110,
+      "views": 1111,
       "likes": 25,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -588,7 +588,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1242,
+      "views": 1243,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -601,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1454,
+      "views": 1456,
       "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -731,8 +731,8 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 43,
-      "likes": 1,
+      "views": 56,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
     },
@@ -744,7 +744,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 113,
+      "views": 156,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
@@ -757,8 +757,8 @@
       "hook": "A woodpecker slams its head into wood 12,000 times a day.",
       "published_at": "2026-10-20T18:00:31Z",
       "privacy": "public",
-      "views": 13,
-      "likes": 0,
+      "views": 24,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
     },
@@ -783,7 +783,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 72,
+      "views": 114,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
@@ -796,7 +796,7 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 5,
+      "views": 11,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/YX7zSStVK_k"
@@ -822,7 +822,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 752,
+      "views": 754,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -848,10 +848,36 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 141,
-      "likes": 1,
+      "views": 449,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/wyObPwWsA0g"
+    },
+    "F_0H7cz8PE4": {
+      "title": "In 1994, a Comet Smashed Into Jupiter and Left a Scar Bigger Than Earth",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "In 1994, a comet smashed into Jupiter and left a scar bigger than Earth.",
+      "published_at": "2026-10-21T05:49:01Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/F_0H7cz8PE4"
+    },
+    "DnIkr_Mim1Q": {
+      "title": "A Tornado Hit 302 mph. It's the Fastest Wind Ever Measured on Earth",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-GuyNeural",
+      "hook": "In 1999, a tornado hit 302 miles an hour. The fastest wind ever measured.",
+      "published_at": "2026-10-21T05:51:29Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/DnIkr_Mim1Q"
     },
     "YmsVWnGQ7_k": {
       "title": "In 2022, a Volcano Fired 2,600 Lightning Bolts a Minute",
@@ -874,7 +900,7 @@
       "hook": "One drill hole drained an entire lake in three hours.",
       "published_at": "2026-10-19T13:30:34Z",
       "privacy": "public",
-      "views": 30,
+      "views": 31,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/TtDH4yL4P10"
@@ -939,7 +965,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 75,
+      "views": 81,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
@@ -952,7 +978,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c"
