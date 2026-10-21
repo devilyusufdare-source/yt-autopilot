@@ -28,11 +28,25 @@ def update_stats(youtube) -> dict:
     ids = list(by_id)
     for i in range(0, len(ids), 50):
         chunk = ids[i:i + 50]
-        resp = youtube.videos().list(part="statistics,status,snippet", id=",".join(chunk), maxResults=50).execute()
+        resp = youtube.videos().list(part="statistics,status,snippet,contentDetails", id=",".join(chunk), maxResults=50).execute()
         for item in resp.get("items", []):
             st = item.get("statistics", {})
+            status = item.get("status", {})
+            cd = item.get("contentDetails", {})
             pkg = by_id[item["id"]]
             videos[item["id"]] = {
+                # the switches YouTube uses to limit a video's reach (all should be: public, processed, not for kids)
+                "upload_status": status.get("uploadStatus"),
+                "rejection_reason": status.get("rejectionReason"),
+                "made_for_kids": status.get("madeForKids"),
+                "self_declared_made_for_kids": status.get("selfDeclaredMadeForKids"),
+                "embeddable": status.get("embeddable"),
+                "license": status.get("license"),
+                "duration": cd.get("duration"),
+                "definition": cd.get("definition"),
+                "region_restriction": cd.get("regionRestriction"),
+                "content_rating": cd.get("contentRating") or None,
+                "category_id": item["snippet"].get("categoryId"),
                 "title": item["snippet"]["title"],
                 "topic": pkg.get("topic"),
                 "style": pkg.get("style", "classic"),
@@ -73,9 +87,19 @@ def update_stats(youtube) -> dict:
                        "channel_views": int(cst.get("viewCount", 0)), "video_count": int(cst.get("videoCount", 0))}
     except Exception as e:  # noqa: BLE001
         print(f"[stats] channel statistics unavailable: {e}")
+    diagnosis = {
+        "not_public": [v["url"] for v in videos.values() if v.get("privacy") != "public"],
+        "made_for_kids": [v["url"] for v in videos.values() if v.get("made_for_kids")],
+        "not_processed": [v["url"] for v in videos.values() if v.get("upload_status") not in (None, "processed")],
+        "rejected": [v["url"] for v in videos.values() if v.get("rejection_reason")],
+        "region_restricted": [v["url"] for v in videos.values() if v.get("region_restriction")],
+        "age_restricted": [v["url"] for v in videos.values() if v.get("content_rating")],
+        "sd_only": [v["url"] for v in videos.values() if v.get("definition") == "sd"],
+    }
     data = {
         "updated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "channel": channel,
+        "diagnosis": diagnosis,
         "total_videos": len(videos),
         "total_views": sum(v["views"] for v in videos.values()),
         "by_topic": summary,
@@ -86,3 +110,13 @@ def update_stats(youtube) -> dict:
     }
     STATS_FILE.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
     return data
+
+
+if __name__ == "__main__":
+    # python -m pipeline.stats  -> refresh content/stats.json (read-only YouTube calls)
+    from .config import load_config
+    from .upload import youtube_client
+
+    d = update_stats(youtube_client(load_config()))
+    print(f"[stats] {d['total_videos']} videos, {d['total_views']} views; diagnosis: " +
+          ", ".join(f"{k}={len(v)}" for k, v in d["diagnosis"].items()))

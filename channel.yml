@@ -30,13 +30,11 @@ channel:
 release:
   videos_per_run: 2                # per run; a run makes one extra when earlier runs were blocked (catch-up)
   interval_minutes: 60             # minimum spacing between two releases
-  # RECOVERY MODE (from 22 Oct): distribution collapsed on day 3 of 10 uploads/day (9.3K views/day -> 0.7K).
-  # Three days at 4 animal videos a day in the slots that still worked, then ramp 6 -> 8 -> 10 if reach returns.
-  videos_per_day: 4                # temporary; remove this line to go back to YouTube's full cap (10)
-  only_topics: ["animals"]         # temporary; remove to allow every topic again
-  shorts_slots: ["07:45", "19:00", "22:00", "02:30"]
-  # full plan (restore when the recovery is over):
-  # shorts_slots: ["16:00", "17:30", "19:00", "20:30", "22:00", "23:30", "01:00", "02:30", "04:00", "05:30"]
+  # 10 Shorts a day (the owner's decision, 21 Oct). The 7:45 AM IST slot (US evening) is the one that kept
+  # getting views during the 19-21 Oct collapse, so it replaces the 4 PM slot (India afternoon = US night).
+  # Optional throttles, both off: `videos_per_day: N` caps uploads below YouTube's limit, `only_topics: [...]`
+  # restricts the queue to some topics.
+  shorts_slots: ["07:45", "17:30", "19:00", "20:30", "22:00", "23:30", "01:00", "02:30", "04:00", "05:30"]
   longform_slots: ["06:30"]        # used only while longform.enabled is true
   daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
   probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it
