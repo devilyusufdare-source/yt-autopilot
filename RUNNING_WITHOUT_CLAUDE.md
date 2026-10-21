@@ -26,6 +26,8 @@ a Claude subscription. What Claude did on a schedule was only *writing new ideas
 
 ## Common changes (edit channel.yml on GitHub, then every run uses it)
 - Release times: `release.shorts_slots`. Daily cap: `release.daily_limit` (10 = YouTube's cap).
+- Fewer videos a day than the cap: `release.videos_per_day: 4` (delete the line for the full 10).
+  Only some topics: `release.only_topics: ["animals"]` (delete the line for all topics).
 - Long videos back on: `longform.enabled: true` (packages in `content/longform/queue/`).
 - Pause everything: Actions → Daily video → "…" → **Disable workflow**. Enable again the same way.
 

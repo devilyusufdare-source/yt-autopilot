@@ -109,6 +109,12 @@ the clock skipping the US-night hours, the long video at 6:30 AM IST = US evenin
 uploads as **Scheduled** until their slot.
 10 slots a day = the daily limit.
 
+Recovery mode (since 22 Oct 2026): after three days at 10 uploads/day the channel's reach collapsed
+(9.3K views/day → 0.7K), so `release.videos_per_day: 4` caps uploads below YouTube's limit and
+`release.only_topics: ["animals"]` keeps to the topic that still got shown. Plan: 3 days at 4, then
+6 → 8 → 10 as views come back. To end it, delete those two lines and restore the 10-slot list that
+is commented out next to `shorts_slots`.
+
 ---
 
 ## Day to day
