@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T08:51:45+00:00",
+  "updated_at": "2026-10-21T11:13:12+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 50,
     "channel_views": 29409,
-    "video_count": 62
+    "video_count": 63
   },
-  "total_videos": 66,
-  "total_views": 31237,
+  "total_videos": 68,
+  "total_views": 31666,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -16,34 +16,34 @@
     },
     "science": {
       "videos": 13,
-      "avg_views": 401,
+      "avg_views": 402,
       "best_views": 1647
     },
     "animals": {
-      "videos": 22,
-      "avg_views": 608,
+      "videos": 23,
+      "avg_views": 599,
       "best_views": 1507
     },
     "human body": {
       "videos": 4,
       "avg_views": 553,
-      "best_views": 1383
+      "best_views": 1384
     },
     "history": {
-      "videos": 8,
-      "avg_views": 222,
+      "videos": 9,
+      "avg_views": 197,
       "best_views": 1104
     },
     "space": {
       "videos": 14,
-      "avg_views": 569,
-      "best_views": 1459
+      "avg_views": 570,
+      "best_views": 1463
     }
   },
   "by_style": {
     "classic": {
-      "videos": 50,
-      "avg_views": 492,
+      "videos": 52,
+      "avg_views": 482,
       "over_1500": 2
     },
     "longform": {
@@ -60,15 +60,15 @@
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 3,
-      "avg_views": 24
+      "avg_views": 26
     },
     "en-US-ChristopherNeural": {
-      "videos": 3,
-      "avg_views": 4
+      "videos": 4,
+      "avg_views": 3
     },
     "en-US-BrianNeural": {
-      "videos": 8,
-      "avg_views": 134
+      "videos": 9,
+      "avg_views": 165
     },
     "en-US-AndrewNeural": {
       "videos": 3,
@@ -97,7 +97,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1459,
+      "views": 1463,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -109,7 +109,7 @@
     {
       "title": "Your Stomach Acid Can Eat Through a Razor Blade",
       "topic": "human body",
-      "views": 1383,
+      "views": 1384,
       "hook": "Your stomach acid is strong enough to eat through a razor blade."
     },
     {
@@ -131,10 +131,10 @@
       "hook": "There's a planet where it rains glass. Sideways."
     },
     {
-      "title": "A Snake Longer Than a School Bus Once Lived in India",
+      "title": "There's a Shark That Can Live for 400 Years",
       "topic": "animals",
-      "views": 1243,
-      "hook": "A snake longer than a school bus once slithered through India."
+      "views": 1244,
+      "hook": "There's a shark that can live for 400 years."
     }
   ],
   "videos": {
@@ -432,7 +432,7 @@
       "hook": "There's a food in your kitchen that can't go bad. Ever.",
       "published_at": "2026-10-19T16:30:29Z",
       "privacy": "public",
-      "views": 103,
+      "views": 106,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
@@ -484,7 +484,7 @@
       "hook": "Your stomach acid is strong enough to eat through a razor blade.",
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
-      "views": 1383,
+      "views": 1384,
       "likes": 53,
       "comments": 1,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M"
@@ -549,7 +549,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 1112,
+      "views": 1113,
       "likes": 25,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -562,7 +562,7 @@
       "hook": "There's a shark that can live for 400 years.",
       "published_at": "2026-10-17T23:30:20Z",
       "privacy": "public",
-      "views": 1242,
+      "views": 1244,
       "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/I0jRhK827UM"
@@ -588,7 +588,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1243,
+      "views": 1244,
       "likes": 18,
       "comments": 0,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
@@ -601,7 +601,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1459,
+      "views": 1463,
       "likes": 17,
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk"
@@ -692,7 +692,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 70,
+      "views": 75,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -744,7 +744,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 168,
+      "views": 191,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
@@ -757,7 +757,7 @@
       "hook": "A woodpecker slams its head into wood 12,000 times a day.",
       "published_at": "2026-10-20T18:00:31Z",
       "privacy": "public",
-      "views": 27,
+      "views": 35,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
@@ -783,7 +783,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 133,
+      "views": 166,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
@@ -796,7 +796,7 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 15,
+      "views": 21,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/YX7zSStVK_k"
@@ -822,7 +822,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 786,
+      "views": 789,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -833,8 +833,8 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "A chameleon's tongue goes zero to sixty in a hundredth of a second.",
-      "published_at": "2026-10-21T01:02:06Z",
-      "privacy": "private",
+      "published_at": "2026-10-21T10:30:33Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -848,7 +848,7 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 589,
+      "views": 922,
       "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/wyObPwWsA0g"
@@ -891,6 +891,32 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/bB08mIirOGo"
+    },
+    "ExE2WcB7uRI": {
+      "title": "A Chicken Lived 18 Months Without a Head (and Got Famous)",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "In 1945, a chicken lost its head and lived another 18 months.",
+      "published_at": "2026-10-21T11:02:41Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/ExE2WcB7uRI"
+    },
+    "FVTCw9Lx6wM": {
+      "title": "The Biggest Bomb Ever Shattered Windows 560 Miles Away",
+      "topic": "history",
+      "style": "classic",
+      "voice": "en-US-ChristopherNeural",
+      "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
+      "published_at": "2026-10-21T11:13:03Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/FVTCw9Lx6wM"
     },
     "YmsVWnGQ7_k": {
       "title": "In 2022, a Volcano Fired 2,600 Lightning Bolts a Minute",
@@ -939,7 +965,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 60,
+      "views": 64,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/uMujdO5WqYo"
@@ -978,7 +1004,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 81,
+      "views": 83,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
