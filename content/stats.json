@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-22T11:47:50+00:00",
+  "updated_at": "2026-10-22T13:28:42+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 51,
     "channel_views": 32065,
-    "video_count": 69
+    "video_count": 71
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/lSMWTUoJceo",
-      "https://youtube.com/shorts/3IPJWe-ZH7s"
+      "https://youtube.com/shorts/650vI7wznrM",
+      "https://youtube.com/shorts/c6f1sIZn_Co"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/3IPJWe-ZH7s"
+      "https://youtube.com/shorts/c6f1sIZn_Co"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/3IPJWe-ZH7s"
+      "https://youtube.com/shorts/c6f1sIZn_Co"
     ]
   },
-  "total_videos": 71,
-  "total_views": 32517,
+  "total_videos": 73,
+  "total_views": 32617,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -32,12 +32,12 @@
     },
     "science": {
       "videos": 13,
-      "avg_views": 404,
+      "avg_views": 405,
       "best_views": 1648
     },
     "animals": {
-      "videos": 28,
-      "avg_views": 519,
+      "videos": 29,
+      "avg_views": 505,
       "best_views": 1507
     },
     "human body": {
@@ -51,8 +51,8 @@
       "best_views": 1106
     },
     "space": {
-      "videos": 14,
-      "avg_views": 574,
+      "videos": 15,
+      "avg_views": 536,
       "best_views": 1510
     },
     "technology": {
@@ -63,8 +63,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 58,
-      "avg_views": 446,
+      "videos": 60,
+      "avg_views": 433,
       "over_1500": 3
     },
     "punch": {
@@ -76,19 +76,19 @@
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 3,
-      "avg_views": 33
+      "avg_views": 34
     },
     "en-US-ChristopherNeural": {
       "videos": 4,
       "avg_views": 4
     },
     "en-US-BrianNeural": {
-      "videos": 14,
-      "avg_views": 156
+      "videos": 15,
+      "avg_views": 152
     },
     "en-US-AndrewNeural": {
-      "videos": 3,
-      "avg_views": 26
+      "videos": 4,
+      "avg_views": 20
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1066,7 +1066,7 @@
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
       "views": 1009,
-      "likes": 18,
+      "likes": 19,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
     },
@@ -1113,7 +1113,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 88,
+      "views": 87,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -1209,7 +1209,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 342,
+      "views": 352,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
@@ -1281,8 +1281,8 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 291,
-      "likes": 2,
+      "views": 334,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
     },
@@ -1353,7 +1353,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 825,
+      "views": 827,
       "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -1401,7 +1401,7 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 989,
+      "views": 1009,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/wyObPwWsA0g"
@@ -1449,8 +1449,8 @@
       "hook": "In 1999, a tornado hit 302 miles an hour. The fastest wind ever measured.",
       "published_at": "2026-10-21T13:30:38Z",
       "privacy": "public",
-      "views": 9,
-      "likes": 0,
+      "views": 12,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q"
     },
@@ -1546,7 +1546,7 @@
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
       "views": 115,
-      "likes": 5,
+      "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/valUZFoPBN4"
     },
@@ -1569,8 +1569,8 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 51,
-      "likes": 1,
+      "views": 65,
+      "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o"
     },
@@ -1593,7 +1593,7 @@
       "hook": "This snail can kill you with one sting. There's no antivenom.",
       "published_at": "2026-10-22T02:15:18Z",
       "privacy": "public",
-      "views": 8,
+      "views": 10,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/cmlnxZqwptc"
@@ -1615,22 +1615,22 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "A cheetah ran 100 metres in 5.95 seconds.",
-      "published_at": "2026-10-22T11:44:35Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-22T12:10:31Z",
+      "privacy": "public",
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/lSMWTUoJceo"
     },
     "3IPJWe-ZH7s": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT35S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1639,9 +1639,9 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "These bees cook a hornet alive. At 116 degrees.",
-      "published_at": "2026-10-22T11:47:44Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-22T12:10:08Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
@@ -1669,6 +1669,54 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/YmsVWnGQ7_k"
+    },
+    "650vI7wznrM": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT31S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bird Hits the Water at 50 mph From 100 Feet Up (and Lives)",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "This bird hits the water at over 50 miles an hour.",
+      "published_at": "2026-10-22T13:25:20Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/650vI7wznrM"
+    },
+    "c6f1sIZn_Co": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Spacecraft Flew Through the Sun's Atmosphere at 430,000 mph",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
+      "published_at": "2026-10-22T13:28:38Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/c6f1sIZn_Co"
     },
     "TtDH4yL4P10": {
       "upload_status": "processed",
