@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T19:54:48+00:00",
+  "updated_at": "2026-10-22T20:44:08+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 52,
@@ -8,22 +8,23 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/LquJ2hMdwYI"
+      "https://youtube.com/shorts/LquJ2hMdwYI",
+      "https://youtube.com/shorts/D1RgFDxYIeU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/LquJ2hMdwYI"
+      "https://youtube.com/shorts/D1RgFDxYIeU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/LquJ2hMdwYI"
+      "https://youtube.com/shorts/D1RgFDxYIeU"
     ]
   },
   "retention": null,
-  "total_videos": 78,
-  "total_views": 33934,
+  "total_videos": 79,
+  "total_views": 33935,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -36,8 +37,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 33,
-      "avg_views": 482,
+      "videos": 34,
+      "avg_views": 467,
       "best_views": 1507
     },
     "human body": {
@@ -52,7 +53,7 @@
     },
     "space": {
       "videos": 15,
-      "avg_views": 538,
+      "avg_views": 539,
       "best_views": 1510
     },
     "technology": {
@@ -68,8 +69,8 @@
       "over_1500": 3
     },
     "punch": {
-      "videos": 14,
-      "avg_views": 474,
+      "videos": 15,
+      "avg_views": 442,
       "over_1500": 0
     }
   },
@@ -83,12 +84,12 @@
       "avg_views": 6
     },
     "en-US-BrianNeural": {
-      "videos": 19,
-      "avg_views": 186
+      "videos": 20,
+      "avg_views": 176
     },
     "en-US-AndrewNeural": {
       "videos": 4,
-      "avg_views": 30
+      "avg_views": 32
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1233,7 +1234,7 @@
       "hook": "A woodpecker slams its head into wood 12,000 times a day.",
       "published_at": "2026-10-20T18:00:31Z",
       "privacy": "public",
-      "views": 58,
+      "views": 64,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
@@ -1281,7 +1282,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 441,
+      "views": 419,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
@@ -1353,7 +1354,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 831,
+      "views": 832,
       "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -1545,7 +1546,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 227,
+      "views": 231,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/valUZFoPBN4"
@@ -1569,7 +1570,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 92,
+      "views": 97,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o"
@@ -1593,7 +1594,7 @@
       "hook": "This snail can kill you with one sting. There's no antivenom.",
       "published_at": "2026-10-22T02:15:18Z",
       "privacy": "public",
-      "views": 32,
+      "views": 27,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/cmlnxZqwptc"
@@ -1617,7 +1618,7 @@
       "hook": "A cheetah ran 100 metres in 5.95 seconds.",
       "published_at": "2026-10-22T12:10:31Z",
       "privacy": "public",
-      "views": 33,
+      "views": 46,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lSMWTUoJceo"
@@ -1689,7 +1690,7 @@
       "hook": "This bird hits the water at over 50 miles an hour.",
       "published_at": "2026-10-22T13:50:15Z",
       "privacy": "public",
-      "views": 708,
+      "views": 705,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/650vI7wznrM"
@@ -1713,8 +1714,8 @@
       "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
       "published_at": "2026-10-22T13:50:30Z",
       "privacy": "public",
-      "views": 40,
-      "likes": 1,
+      "views": 48,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/c6f1sIZn_Co"
     },
@@ -1761,8 +1762,8 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 11,
-      "likes": 1,
+      "views": 4,
+      "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/l57MjoYS9NY"
     },
@@ -1785,7 +1786,7 @@
       "hook": "A vulture hit a passenger jet at 37,000 feet.",
       "published_at": "2026-10-22T16:40:17Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/WXZ7kpLm8Bc"
@@ -1815,14 +1816,14 @@
       "url": "https://youtube.com/shorts/Z-nWJgNZMZM"
     },
     "LquJ2hMdwYI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1837,6 +1838,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/LquJ2hMdwYI"
+    },
+    "D1RgFDxYIeU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Jellyfish Has 24 Eyes and Can Stop Your Heart in 2 Minutes",
+      "topic": "animals",
+      "style": "punch",
+      "voice": "en-US-BrianNeural",
+      "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
+      "published_at": "2026-10-22T20:44:01Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/D1RgFDxYIeU"
     },
     "TtDH4yL4P10": {
       "upload_status": "processed",
