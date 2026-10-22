@@ -129,6 +129,8 @@ video:
   fps: 30
   max_seconds: 58                  # hard cap; Shorts can be up to 3 min but 30-50 s performs best
   gap_seconds: 0.25                # silence between scenes
+  seconds_per_clip: 2.8            # cut to a new clip about this often (a scene is split into up to max_clips_per_scene clips)
+  max_clips_per_scene: 3
   zoom: 0.08                       # slow push-in per scene (0 = off)
   progress_bar: true               # thin bar along the bottom that fills over the video
   crf: 20                          # quality (lower = better/bigger). 18-23 is sensible.
@@ -136,7 +138,7 @@ video:
 voice:
   engine: "auto"                   # auto = Microsoft neural voice (edge-tts), falls back to offline voice | edge | offline
   edge_voice: "en-US-AndrewNeural" # try: en-US-BrianNeural, en-US-ChristopherNeural, en-GB-RyanNeural, en-IN-PrabhatNeural
-  edge_rate: "+6%"
+  edge_rate: "+10%"
   loudness_lufs: -19               # overall loudness of the finished video. YouTube's own level is about -14; lower = quieter/softer
   offline_voice: "vits-piper-en_US-ryan-medium"   # any vits-piper-* model from the sherpa-onnx tts-models release
   offline_speed: 0.8
@@ -152,6 +154,10 @@ captions:
   highlight_color: "#FFD400"       # the word currently being spoken
   outline_px: 8
   y_percent: 56                    # vertical centre of the captions (0 = top, 100 = bottom)
+  title_card: true                 # the headline (thumbnail_text) pops in at the top third in the first second
+  title_seconds: 1.5               # how long it stays in the "classic" style ("punch" keeps it for the whole first scene)
+  title_y_percent: 33
+  title_scale: 1.22                # relative to font_size
   show_top_label: true             # small pill near the top
   day_counter: false                # pill reads "DAY 12 • SPACE" (streak since the first upload) instead of the channel name
 

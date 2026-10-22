@@ -116,7 +116,10 @@ Give priority 6–8 to the strongest technology ideas so the new topics reach th
 
 ## Script rules (what the voice says)
 
-- Scene 1 is the hook: ≤ 12 words, creates an open loop, no "did you know". Examples that work:
+- Scene 1 is the hook: ≤ 10 words, creates an open loop, no "did you know". The channel's own data
+  (22 Oct: 54% of viewers swipe away) says the first second is everything: scene 1 must be sayable in
+  under 3 seconds and its `keywords` must be real, moving footage (an impact, a strike, a dive, an
+  explosion), never a still subject. Examples that work:
   "Your brain deletes memories when you walk through a doorway.",
   "A day on Venus is longer than its year.",
   "Oxford University is older than the Aztec Empire."
@@ -148,7 +151,10 @@ Give priority 6–8 to the strongest technology ideas so the new topics reach th
 - `tags`: 10–15 plain tags mixing the specific topic ("doorway effect"), the category
   ("psychology facts") and broad discovery terms ("mind blowing facts", "shorts facts").
 - `hashtags`: 3–5 including `#shorts`.
-- `thumbnail_text` (optional): ≤ 45 characters, a punchier version of the hook.
+- `thumbnail_text` (required in practice): **3–6 words, ≤ 32 characters.** It is the headline that pops
+  up on screen in the first second of the video (and the thumbnail), so it is the promise: the number
+  or the violent verb, nothing else. "15 MILLION BATS. ONE CAVE." "SNAIL. ONE STING. DEAD."
+  "LIGHTNING: 5X HOTTER THAN THE SUN". Never a full sentence, never a question.
 
 ## Quality bar
 

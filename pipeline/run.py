@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import json
+import math
 import os
 import shutil
 import subprocess
@@ -390,6 +391,23 @@ def topic_look(cfg, pkg: dict):
     return (with_overrides(cfg, over) if over else cfg), voice
 
 
+def plan_clips(durations: list[float], keywords: list[str], cfg) -> list[tuple[str, float, bool]]:
+    """Split each scene into 1-3 clips (target `video.seconds_per_clip`), every clip a whole number of
+    frames and never shorter than the voice. Returns [(keywords, seconds, energetic_first_clip), ...]."""
+    fps = int(cfg.get("video.fps", 30))
+    target = float(cfg.get("video.seconds_per_clip", 2.8))
+    max_clips = int(cfg.get("video.max_clips_per_scene", 3))
+    plan: list[tuple[str, float, bool]] = []
+    for i, (kw, d) in enumerate(zip(keywords, durations)):
+        n = max(1, min(max_clips, int(round(d / target))))
+        frames = math.ceil(d * fps)
+        base, extra = divmod(frames, n)
+        for j in range(n):
+            part = (base + (1 if j < extra else 0)) / fps
+            plan.append((kw, part, i == 0 and j == 0))
+    return plan
+
+
 def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at: str | None = None) -> dict:
     """Render everything for one package into outdir. Returns file paths and details.
 
@@ -418,7 +436,10 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
     providers = [n for n, k in (("pixabay", os.environ.get("PIXABAY_API_KEY")), ("pexels", cfg.pexels_key)) if k]
     print(f"[run] visuals: {', '.join(providers) if providers else 'no footage key set - animated backgrounds'}")
     vis = Visuals(cfg, outdir / "clips", seed=pkg["id"], topic=pkg.get("topic", ""))
-    clips = [vis.scene_clip(i, kw, d) for i, (kw, d) in enumerate(zip(keywords, durations))]
+    # Faster cuts: a scene longer than a few seconds is covered by 2-3 different clips of the same
+    # search, each a whole number of frames so the picture never drifts from the voice.
+    plan = plan_clips(durations, keywords, cfg)
+    clips = [vis.scene_clip(k, kw, d, energetic=en) for k, (kw, d, en) in enumerate(plan)]
     vis.save_credits(outdir / "footage_credits.json")
     visual = outdir / "visual.mp4"
     total = concat_clips(clips, visual)
@@ -435,10 +456,20 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
             label = f"Day {day_number(cfg, when)}  •  {pkg.get('topic', '')}".strip(" •")
         else:
             label = f"{cfg.get('channel.name', '')}  •  {pkg.get('topic', '')}".strip(" •")
-    hook_card = pkg["scenes"][0]["text"] if style == "punch" else None
+    # The first-second promise: the headline (thumbnail_text, 3-7 words) pops in at the top third.
+    # "punch" keeps it up for the whole first scene instead of word captions; "classic" shows it for
+    # ~1.5 s over the word captions.
+    headline = (pkg.get("thumbnail_text") or " ".join(pkg["scenes"][0]["text"].split()[:6])).strip()
+    use_card = bool(cfg.get("captions.title_card", True)) and headline
+    hook_card = pkg["scenes"][0]["text"] if (style == "punch" and not use_card) else None
+    title_end = 0.0
+    if use_card:
+        title_end = durations[0] if style == "punch" else min(float(cfg.get("captions.title_seconds", 1.5)), durations[0])
     end_text = (cfg.get("cta.end_text") or "Follow for more") if style == "punch" else None
-    ass = build_ass(words, cfg, outdir / "captions.ass", label, total,
-                    hook_card=hook_card, hook_end=durations[0], end_text=end_text)
+    words_for_captions = words[1:] if (style == "punch" and use_card) else words
+    ass = build_ass(words_for_captions, cfg, outdir / "captions.ass", label, total,
+                    hook_card=hook_card, hook_end=durations[0], end_text=end_text,
+                    title_card=headline if use_card else None, title_end=title_end)
 
     print("[run] rendering final video")
     final = render_final(visual, outdir / "voice.wav", ass, pick_music(cfg, pkg["id"]), cfg,

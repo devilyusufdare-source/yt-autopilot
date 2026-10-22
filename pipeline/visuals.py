@@ -35,6 +35,9 @@ TOPIC_FALLBACK_QUERIES = {
     "science": ["laboratory", "science experiment", "nature macro"],
     "history": ["ancient ruins", "old map", "castle"],
     "animals": ["wildlife", "ocean animals", "forest"],
+    "technology": ["robot arm factory", "rocket launch", "circuit board macro"],
+    "games": ["gaming room neon lights", "game controller close up", "pixel art screen"],
+    "internet": ["phone scrolling social media", "studio camera recording", "server room blinking lights"],
 }
 GENERIC_QUERIES = ["abstract background", "dark texture", "clouds timelapse"]
 
@@ -46,6 +49,9 @@ TOPIC_PALETTES = {
     "science": ("#083344", "#020b10", "#0e9f9f"),
     "history": ("#3d2a0b", "#140d03", "#b07a2a"),
     "animals": ("#0b3d1f", "#031208", "#2a9d5c"),
+    "technology": ("#06303a", "#02090c", "#22b8cf"),
+    "games": ("#1f3a05", "#0a1202", "#84cc16"),
+    "internet": ("#3b0f2e", "#12040e", "#ec4899"),
 }
 DEFAULT_PALETTE = ("#1b2a4a", "#0b1020", "#243b6b")
 
@@ -182,9 +188,55 @@ class Visuals:
             dst.unlink(missing_ok=True)
             return None
 
-    def _find_source(self, keywords: str, duration: float) -> tuple[Path, Candidate] | None:
+    @staticmethod
+    def _energy(path: Path) -> tuple[float, float]:
+        """(motion, brightness) of the first 3 s: mean frame-to-frame difference and mean luma, 0-255."""
+        def _mean_yavg(vf: str) -> float:
+            try:
+                out = subprocess.run(
+                    ["ffmpeg", "-v", "error", "-t", "3", "-i", str(path), "-vf", vf, "-f", "null", "-"],
+                    capture_output=True, text=True, timeout=60).stderr
+            except (subprocess.SubprocessError, OSError):
+                return 0.0
+            vals = [float(line.split("=")[-1]) for line in out.splitlines() if "signalstats.YAVG=" in line]
+            return sum(vals) / len(vals) if vals else 0.0
+        motion = _mean_yavg("scale=160:-2,fps=10,tblend=all_mode=difference,signalstats,metadata=print:key=lavfi.signalstats.YAVG:file=/dev/stderr")
+        luma = _mean_yavg("scale=160:-2,fps=5,signalstats,metadata=print:key=lavfi.signalstats.YAVG:file=/dev/stderr")
+        return motion, luma
+
+    def _find_energetic(self, keywords: str, duration: float) -> tuple[Path, Candidate] | None:
+        """For the first scene: download the best few matching videos and keep the one with the most
+        visible motion (and not too dark), because the first second decides whether people stay."""
+        cands: list[Candidate] = []
+        for provider in (self._pixabay_videos, self._pexels_videos):
+            cands += provider(keywords)
+        cands = [c for c in cands if c.uid not in self.used and c.kind == "video"]
+        fitting = [c for c in cands if (not c.portrait) == self.landscape]
+        pool = (fitting or cands)
+        pool = ([c for c in pool if c.duration >= duration] or pool)[:3]
+        scored: list[tuple[float, Candidate, Path]] = []
+        for c in pool:
+            path = self._download(c)
+            if not path:
+                continue
+            motion, luma = self._energy(path)
+            score = motion * (1.0 if 35 <= luma <= 215 else 0.5)
+            scored.append((score, c, path))
+            print(f"[visuals] first clip candidate {c.uid}: motion {motion:.1f}, brightness {luma:.0f}")
+        if not scored:
+            return None
+        score, c, path = max(scored, key=lambda t: t[0])
+        self.used.add(c.uid)
+        self.credits.append({"query": keywords, "provider": c.provider, "url": c.page_url, "author": c.author})
+        return path, c
+
+    def _find_source(self, keywords: str, duration: float, energetic: bool = False) -> tuple[Path, Candidate] | None:
         if not (self.pixabay_key or self.pexels_key):
             return None
+        if energetic:
+            found = self._find_energetic(keywords, duration)
+            if found:
+                return found
         # Specific query first across all providers, so a relevant photo beats a generic video.
         queries = [keywords] + TOPIC_FALLBACK_QUERIES.get(self.topic, [])[:2] + GENERIC_QUERIES[:1]
         providers = (self._pixabay_videos, self._pexels_videos, self._pixabay_photos)
@@ -245,9 +297,9 @@ class Visuals:
             check=True,
         )
 
-    def scene_clip(self, index: int, keywords: str, duration: float) -> Path:
+    def scene_clip(self, index: int, keywords: str, duration: float, energetic: bool = False) -> Path:
         out = self.workdir / f"scene{index:02d}.mp4"
-        found = self._find_source(keywords, duration)
+        found = self._find_source(keywords, duration, energetic=energetic)
         if found:
             src, cand = found
             try:

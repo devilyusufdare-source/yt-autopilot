@@ -74,11 +74,45 @@ def _layout(tokens: list[str], max_chars: int) -> list[list[int]]:
     return lines
 
 
+def _layout_px(tokens: list[str], cfg: Config, px_size: int, max_px: int) -> list[list[int]]:
+    """Like _layout but measured with the real font, so no line is wider than max_px pixels."""
+    try:
+        from PIL import ImageFont
+        from .config import ROOT
+        font = ImageFont.truetype(str(ROOT / cfg.get("captions.font_file", "assets/fonts/Poppins-ExtraBold.ttf")), px_size)
+        width = lambda t: font.getlength(t)  # noqa: E731
+    except Exception:  # noqa: BLE001
+        width = lambda t: len(t) * px_size * 0.66  # noqa: E731
+    lines: list[list[int]] = [[]]
+    for i, tok in enumerate(tokens):
+        trial = " ".join(tokens[j] for j in lines[-1] + [i])
+        if lines[-1] and width(trial) > max_px:
+            lines.append([i])
+        else:
+            lines[-1].append(i)
+    # Balance: same number of lines, but split so the widest line is as narrow as possible (no orphan word).
+    n, m = len(lines), len(tokens)
+    if 1 < n < m <= 12:
+        from itertools import combinations
+        best, best_w = lines, max(width(" ".join(tokens[i] for i in ln)) for ln in lines)
+        for cuts in combinations(range(1, m), n - 1):
+            bounds = (0, *cuts, m)
+            cand = [list(range(bounds[k], bounds[k + 1])) for k in range(n)]
+            wmax = max(width(" ".join(tokens[i] for i in ln)) for ln in cand)
+            if wmax < best_w and wmax <= max_px:
+                best, best_w = cand, wmax
+        lines = best
+    return lines
+
+
 def build_ass(scene_words: list[list[Word]], cfg: Config, out: Path, top_label: str | None,
               total_duration: float, hook_card: str | None = None, hook_end: float = 0.0,
-              end_text: str | None = None, labels: list[tuple[float, float, str]] | None = None) -> Path:
+              end_text: str | None = None, labels: list[tuple[float, float, str]] | None = None,
+              title_card: str | None = None, title_end: float = 0.0) -> Path:
     """`labels` = timed top pills [(start, end, text), ...] (used by long videos for chapter names);
-    `top_label` is one pill for the whole video."""
+    `top_label` is one pill for the whole video; `hook_card` = the whole hook sentence on screen for the
+    first scene (word captions start at scene 2); `title_card` = a 3-7 word headline that pops in at the
+    top third for `title_end` seconds while the word captions run as usual (the first-second promise)."""
     w, h = cfg.width, cfg.height
     font = cfg.get("captions.font_name", "Poppins ExtraBold")
     size = int(cfg.get("captions.font_size", 96))
@@ -106,6 +140,7 @@ Style: Cap,{font},{size},{text_c},{text_c},&H00000000,&H90000000,-1,0,0,0,100,10
 Style: Label,{font},{int(size * float(cfg.get("captions.label_scale", 0.38)))},&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,2,0,3,14,0,8,80,80,{int(h * 0.105)},1
 Style: Hook,{font},{int(size * 1.12)},{text_c},{text_c},&H00000000,&H90000000,-1,0,0,0,100,100,1,0,1,{outline + 2},5,5,70,70,0,1
 Style: End,{font},{int(size * 0.42)},{hi_c},{hi_c},&H00000000,&HA0000000,-1,0,0,0,100,100,2,0,3,14,0,2,80,80,{int(h * 0.16)},1
+Style: Title,{font},{int(size * float(cfg.get("captions.title_scale", 1.22)))},{hi_c},{hi_c},&H00000000,&HA0000000,-1,0,0,0,100,100,1,0,1,{outline + 3},6,5,60,60,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -127,6 +162,20 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         rendered = "\\N".join(" ".join(tokens[i] for i in line) for line in lines)
         lines_out.append(f"Dialogue: 1,{_ts(0)},{_ts(hook_end)},Hook,,0,0,0,,{{\\pos({w // 2},{y})}}{rendered}\n")
         scene_words = scene_words[1:]
+
+    if title_card and title_end > 0:
+        text = title_card.upper() if upper else title_card
+        tokens = [_escape(t) for t in text.split()]
+        tsize = int(size * float(cfg.get("captions.title_scale", 1.22)))
+        lines = _layout_px(tokens, cfg, tsize, int(w * 0.86))
+        shrink = ""
+        if len(lines) > 3:                       # a long headline: up to four lines at 85% rather than a fifth
+            lines = _layout_px(tokens, cfg, int(tsize * 0.85), int(w * 0.86))
+            shrink = "\\fscx85\\fscy85"
+        rendered = "\\N".join(" ".join(tokens[i] for i in line) for line in lines)
+        ty = int(h * float(cfg.get("captions.title_y_percent", 33)) / 100)
+        pop = "\\fscx70\\fscy70\\t(0,140,\\fscx100\\fscy100)" if not shrink else "\\fscx60\\fscy60\\t(0,140," + shrink.replace("\\\\", "\\") + ")"
+        lines_out.append(f"Dialogue: 2,{_ts(0)},{_ts(title_end)},Title,,0,0,0,,{{\\pos({w // 2},{ty})\\fad(0,180){pop}}}{rendered}\n")
 
     if end_text:
         et = _escape(end_text.upper() if upper else end_text)
