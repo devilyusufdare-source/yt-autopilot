@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T22:09:36+00:00",
+  "updated_at": "2026-10-22T23:32:41+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 52,
@@ -17,7 +17,7 @@
   },
   "retention": null,
   "total_videos": 79,
-  "total_views": 34284,
+  "total_views": 34372,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -31,7 +31,7 @@
     },
     "animals": {
       "videos": 34,
-      "avg_views": 477,
+      "avg_views": 480,
       "best_views": 1507
     },
     "human body": {
@@ -58,7 +58,7 @@
   "by_style": {
     "classic": {
       "videos": 64,
-      "avg_views": 432,
+      "avg_views": 433,
       "over_1500": 3
     },
     "punch": {
@@ -78,11 +78,11 @@
     },
     "en-US-BrianNeural": {
       "videos": 20,
-      "avg_views": 193
+      "avg_views": 198
     },
     "en-US-AndrewNeural": {
       "videos": 4,
-      "avg_views": 32
+      "avg_views": 33
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -843,7 +843,7 @@
       "hook": "A blue whale's heart can beat just twice a minute.",
       "published_at": "2026-10-17T22:00:06Z",
       "privacy": "public",
-      "views": 1120,
+      "views": 1119,
       "likes": 25,
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g"
@@ -1275,7 +1275,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 439,
+      "views": 484,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
@@ -1347,7 +1347,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 835,
+      "views": 837,
       "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -1395,7 +1395,7 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 1011,
+      "views": 1012,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/wyObPwWsA0g"
@@ -1539,7 +1539,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 231,
+      "views": 240,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/valUZFoPBN4"
@@ -1563,7 +1563,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 96,
+      "views": 102,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o"
@@ -1587,7 +1587,7 @@
       "hook": "This snail can kill you with one sting. There's no antivenom.",
       "published_at": "2026-10-22T02:15:18Z",
       "privacy": "public",
-      "views": 41,
+      "views": 53,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/cmlnxZqwptc"
@@ -1611,7 +1611,7 @@
       "hook": "A cheetah ran 100 metres in 5.95 seconds.",
       "published_at": "2026-10-22T12:10:31Z",
       "privacy": "public",
-      "views": 43,
+      "views": 46,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lSMWTUoJceo"
@@ -1635,7 +1635,7 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 64,
+      "views": 65,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
@@ -1683,7 +1683,7 @@
       "hook": "This bird hits the water at over 50 miles an hour.",
       "published_at": "2026-10-22T13:50:15Z",
       "privacy": "public",
-      "views": 975,
+      "views": 983,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/650vI7wznrM"
@@ -1707,7 +1707,7 @@
       "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
       "published_at": "2026-10-22T13:50:30Z",
       "privacy": "public",
-      "views": 52,
+      "views": 53,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/c6f1sIZn_Co"
@@ -1803,7 +1803,7 @@
       "hook": "This lake gets hit by lightning almost 300 nights a year.",
       "published_at": "2026-10-22T18:00:23Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/Z-nWJgNZMZM"
