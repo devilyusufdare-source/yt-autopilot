@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-22T16:14:00+00:00",
+  "updated_at": "2026-10-22T17:40:47+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 52,
     "channel_views": 32425,
-    "video_count": 75
+    "video_count": 76
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/WXZ7kpLm8Bc"
+      "https://youtube.com/shorts/Z-nWJgNZMZM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/WXZ7kpLm8Bc"
+      "https://youtube.com/shorts/Z-nWJgNZMZM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/WXZ7kpLm8Bc"
+      "https://youtube.com/shorts/Z-nWJgNZMZM"
     ]
   },
-  "total_videos": 76,
-  "total_views": 33067,
+  "total_videos": 77,
+  "total_views": 33548,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -30,13 +30,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 13,
-      "avg_views": 405,
+      "videos": 14,
+      "avg_views": 376,
       "best_views": 1648
     },
     "animals": {
       "videos": 32,
-      "avg_views": 471,
+      "avg_views": 485,
       "best_views": 1507
     },
     "human body": {
@@ -51,7 +51,7 @@
     },
     "space": {
       "videos": 15,
-      "avg_views": 536,
+      "avg_views": 538,
       "best_views": 1510
     },
     "technology": {
@@ -62,8 +62,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 63,
-      "avg_views": 420,
+      "videos": 64,
+      "avg_views": 421,
       "over_1500": 3
     },
     "punch": {
@@ -74,8 +74,8 @@
   },
   "by_voice": {
     "en-US-GuyNeural": {
-      "videos": 3,
-      "avg_views": 36
+      "videos": 4,
+      "avg_views": 27
     },
     "en-US-ChristopherNeural": {
       "videos": 4,
@@ -83,11 +83,11 @@
     },
     "en-US-BrianNeural": {
       "videos": 18,
-      "avg_views": 150
+      "avg_views": 175
     },
     "en-US-AndrewNeural": {
       "videos": 4,
-      "avg_views": 21
+      "avg_views": 30
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1184,7 +1184,7 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 101,
+      "views": 112,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
@@ -1208,7 +1208,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 403,
+      "views": 412,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
@@ -1280,8 +1280,8 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 339,
-      "likes": 1,
+      "views": 419,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
     },
@@ -1352,8 +1352,8 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 830,
-      "likes": 8,
+      "views": 831,
+      "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
     },
@@ -1400,7 +1400,7 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 1009,
+      "views": 1011,
       "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/wyObPwWsA0g"
@@ -1568,7 +1568,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 65,
+      "views": 81,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o"
@@ -1616,7 +1616,7 @@
       "hook": "A cheetah ran 100 metres in 5.95 seconds.",
       "published_at": "2026-10-22T12:10:31Z",
       "privacy": "public",
-      "views": 32,
+      "views": 34,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lSMWTUoJceo"
@@ -1640,8 +1640,8 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 27,
-      "likes": 0,
+      "views": 36,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
     },
@@ -1688,8 +1688,8 @@
       "hook": "This bird hits the water at over 50 miles an hour.",
       "published_at": "2026-10-22T13:50:15Z",
       "privacy": "public",
-      "views": 232,
-      "likes": 5,
+      "views": 546,
+      "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/650vI7wznrM"
     },
@@ -1712,8 +1712,8 @@
       "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
       "published_at": "2026-10-22T13:50:30Z",
       "privacy": "public",
-      "views": 6,
-      "likes": 0,
+      "views": 41,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/c6f1sIZn_Co"
     },
@@ -1760,12 +1760,36 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/l57MjoYS9NY"
     },
     "WXZ7kpLm8Bc": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT37S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Vulture Hit a Passenger Jet at 37,000 Feet (Highest Bird Ever)",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "A vulture hit a passenger jet at 37,000 feet.",
+      "published_at": "2026-10-22T16:40:17Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/WXZ7kpLm8Bc"
+    },
+    "Z-nWJgNZMZM": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -1777,17 +1801,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A Vulture Hit a Passenger Jet at 37,000 Feet (Highest Bird Ever)",
-      "topic": "animals",
+      "title": "This Lake Gets Hit by Lightning Almost 300 Nights a Year",
+      "topic": "science",
       "style": "classic",
-      "voice": "en-US-BrianNeural",
-      "hook": "A vulture hit a passenger jet at 37,000 feet.",
-      "published_at": "2026-10-22T16:13:53Z",
+      "voice": "en-US-GuyNeural",
+      "hook": "This lake gets hit by lightning almost 300 nights a year.",
+      "published_at": "2026-10-22T17:40:40Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/WXZ7kpLm8Bc"
+      "url": "https://youtube.com/shorts/Z-nWJgNZMZM"
     },
     "TtDH4yL4P10": {
       "upload_status": "processed",
