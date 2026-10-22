@@ -1,30 +1,23 @@
 {
-  "updated_at": "2026-10-22T20:44:08+00:00",
+  "updated_at": "2026-10-22T22:09:36+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 52,
     "channel_views": 32425,
-    "video_count": 77
+    "video_count": 79
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/LquJ2hMdwYI",
-      "https://youtube.com/shorts/D1RgFDxYIeU"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/D1RgFDxYIeU"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/D1RgFDxYIeU"
-    ]
+    "sd_only": []
   },
   "retention": null,
   "total_videos": 79,
-  "total_views": 33935,
+  "total_views": 34284,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -38,7 +31,7 @@
     },
     "animals": {
       "videos": 34,
-      "avg_views": 467,
+      "avg_views": 477,
       "best_views": 1507
     },
     "human body": {
@@ -65,7 +58,7 @@
   "by_style": {
     "classic": {
       "videos": 64,
-      "avg_views": 427,
+      "avg_views": 432,
       "over_1500": 3
     },
     "punch": {
@@ -85,7 +78,7 @@
     },
     "en-US-BrianNeural": {
       "videos": 20,
-      "avg_views": 176
+      "avg_views": 193
     },
     "en-US-AndrewNeural": {
       "videos": 4,
@@ -778,7 +771,7 @@
       "hook": "There's a volcano three times taller than Everest. You could stroll up it.",
       "published_at": "2026-10-17T17:30:38Z",
       "privacy": "public",
-      "views": 287,
+      "views": 286,
       "likes": 11,
       "comments": 0,
       "url": "https://youtube.com/shorts/t5IFKjlXUd0"
@@ -1066,7 +1059,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 1015,
+      "views": 1014,
       "likes": 19,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
@@ -1282,7 +1275,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 419,
+      "views": 439,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
@@ -1354,7 +1347,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 832,
+      "views": 835,
       "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -1498,7 +1491,7 @@
       "hook": "In 1945, a chicken lost its head and lived another 18 months.",
       "published_at": "2026-10-21T16:30:28Z",
       "privacy": "public",
-      "views": 48,
+      "views": 52,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/ExE2WcB7uRI"
@@ -1570,7 +1563,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 97,
+      "views": 96,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o"
@@ -1594,7 +1587,7 @@
       "hook": "This snail can kill you with one sting. There's no antivenom.",
       "published_at": "2026-10-22T02:15:18Z",
       "privacy": "public",
-      "views": 27,
+      "views": 41,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/cmlnxZqwptc"
@@ -1618,7 +1611,7 @@
       "hook": "A cheetah ran 100 metres in 5.95 seconds.",
       "published_at": "2026-10-22T12:10:31Z",
       "privacy": "public",
-      "views": 46,
+      "views": 43,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lSMWTUoJceo"
@@ -1642,7 +1635,7 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 52,
+      "views": 64,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
@@ -1690,7 +1683,7 @@
       "hook": "This bird hits the water at over 50 miles an hour.",
       "published_at": "2026-10-22T13:50:15Z",
       "privacy": "public",
-      "views": 705,
+      "views": 975,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/650vI7wznrM"
@@ -1714,7 +1707,7 @@
       "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
       "published_at": "2026-10-22T13:50:30Z",
       "privacy": "public",
-      "views": 48,
+      "views": 52,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/c6f1sIZn_Co"
@@ -1738,8 +1731,8 @@
       "hook": "These alligators are frozen in solid ice. And they're alive.",
       "published_at": "2026-10-22T15:10:38Z",
       "privacy": "public",
-      "views": 31,
-      "likes": 1,
+      "views": 40,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/Dbv2hy3GKSU"
     },
@@ -1762,8 +1755,8 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 0,
+      "views": 14,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/l57MjoYS9NY"
     },
@@ -1786,7 +1779,7 @@
       "hook": "A vulture hit a passenger jet at 37,000 feet.",
       "published_at": "2026-10-22T16:40:17Z",
       "privacy": "public",
-      "views": 3,
+      "views": 6,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/WXZ7kpLm8Bc"
@@ -1832,22 +1825,22 @@
       "style": "punch",
       "voice": "en-US-BrianNeural",
       "hook": "A two-ton shark launches ten feet out of the water.",
-      "published_at": "2026-10-22T19:54:42Z",
-      "privacy": "private",
+      "published_at": "2026-10-22T21:00:33Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/LquJ2hMdwYI"
     },
     "D1RgFDxYIeU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1856,9 +1849,9 @@
       "style": "punch",
       "voice": "en-US-BrianNeural",
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
-      "published_at": "2026-10-22T20:44:01Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-22T21:00:13Z",
+      "privacy": "public",
+      "views": 6,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU"
