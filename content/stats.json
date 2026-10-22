@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-22T13:28:42+00:00",
+  "updated_at": "2026-10-22T14:46:21+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 51,
     "channel_views": 32065,
-    "video_count": 71
+    "video_count": 73
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/650vI7wznrM",
-      "https://youtube.com/shorts/c6f1sIZn_Co"
+      "https://youtube.com/shorts/Dbv2hy3GKSU",
+      "https://youtube.com/shorts/l57MjoYS9NY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/c6f1sIZn_Co"
+      "https://youtube.com/shorts/l57MjoYS9NY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/c6f1sIZn_Co"
+      "https://youtube.com/shorts/l57MjoYS9NY"
     ]
   },
-  "total_videos": 73,
-  "total_views": 32617,
+  "total_videos": 75,
+  "total_views": 32716,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -36,8 +36,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 29,
-      "avg_views": 505,
+      "videos": 31,
+      "avg_views": 475,
       "best_views": 1507
     },
     "human body": {
@@ -63,8 +63,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 60,
-      "avg_views": 433,
+      "videos": 62,
+      "avg_views": 421,
       "over_1500": 3
     },
     "punch": {
@@ -76,19 +76,19 @@
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 3,
-      "avg_views": 34
+      "avg_views": 35
     },
     "en-US-ChristopherNeural": {
       "videos": 4,
       "avg_views": 4
     },
     "en-US-BrianNeural": {
-      "videos": 15,
-      "avg_views": 152
+      "videos": 17,
+      "avg_views": 139
     },
     "en-US-AndrewNeural": {
       "videos": 4,
-      "avg_views": 20
+      "avg_views": 21
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1065,7 +1065,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 1009,
+      "views": 1015,
       "likes": 19,
       "comments": 0,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko"
@@ -1113,7 +1113,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 87,
+      "views": 90,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY"
@@ -1185,7 +1185,7 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 98,
+      "views": 101,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
@@ -1209,8 +1209,8 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 352,
-      "likes": 4,
+      "views": 375,
+      "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
     },
@@ -1233,7 +1233,7 @@
       "hook": "A woodpecker slams its head into wood 12,000 times a day.",
       "published_at": "2026-10-20T18:00:31Z",
       "privacy": "public",
-      "views": 49,
+      "views": 50,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU"
@@ -1281,7 +1281,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 334,
+      "views": 339,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
@@ -1593,7 +1593,7 @@
       "hook": "This snail can kill you with one sting. There's no antivenom.",
       "published_at": "2026-10-22T02:15:18Z",
       "privacy": "public",
-      "views": 10,
+      "views": 16,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/cmlnxZqwptc"
@@ -1687,22 +1687,22 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "This bird hits the water at over 50 miles an hour.",
-      "published_at": "2026-10-22T13:25:20Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-10-22T13:50:15Z",
+      "privacy": "public",
+      "views": 43,
+      "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/650vI7wznrM"
     },
     "c6f1sIZn_Co": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1711,12 +1711,60 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
-      "published_at": "2026-10-22T13:28:38Z",
+      "published_at": "2026-10-22T13:50:30Z",
+      "privacy": "public",
+      "views": 6,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/c6f1sIZn_Co"
+    },
+    "Dbv2hy3GKSU": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT31S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "These Alligators Froze Solid in Ice. They're Still Alive",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "These alligators are frozen in solid ice. And they're alive.",
+      "published_at": "2026-10-22T14:43:25Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/c6f1sIZn_Co"
+      "url": "https://youtube.com/shorts/Dbv2hy3GKSU"
+    },
+    "l57MjoYS9NY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Snake Spits Venom Into Your Eyes From 8 Feet Away",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "This snake spits venom into your eyes from eight feet away.",
+      "published_at": "2026-10-22T14:46:16Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/l57MjoYS9NY"
     },
     "TtDH4yL4P10": {
       "upload_status": "processed",
@@ -1857,7 +1905,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 121,
+      "views": 124,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU"
