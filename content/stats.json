@@ -1,29 +1,28 @@
 {
-  "updated_at": "2026-10-22T14:46:21+00:00",
+  "updated_at": "2026-10-22T16:14:00+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
-    "subscribers": 51,
-    "channel_views": 32065,
-    "video_count": 73
+    "subscribers": 52,
+    "channel_views": 32425,
+    "video_count": 75
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Dbv2hy3GKSU",
-      "https://youtube.com/shorts/l57MjoYS9NY"
+      "https://youtube.com/shorts/WXZ7kpLm8Bc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/l57MjoYS9NY"
+      "https://youtube.com/shorts/WXZ7kpLm8Bc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/l57MjoYS9NY"
+      "https://youtube.com/shorts/WXZ7kpLm8Bc"
     ]
   },
-  "total_videos": 75,
-  "total_views": 32716,
+  "total_videos": 76,
+  "total_views": 33067,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -36,8 +35,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 31,
-      "avg_views": 475,
+      "videos": 32,
+      "avg_views": 471,
       "best_views": 1507
     },
     "human body": {
@@ -47,7 +46,7 @@
     },
     "history": {
       "videos": 9,
-      "avg_views": 198,
+      "avg_views": 199,
       "best_views": 1106
     },
     "space": {
@@ -63,8 +62,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 62,
-      "avg_views": 421,
+      "videos": 63,
+      "avg_views": 420,
       "over_1500": 3
     },
     "punch": {
@@ -76,15 +75,15 @@
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 3,
-      "avg_views": 35
+      "avg_views": 36
     },
     "en-US-ChristopherNeural": {
       "videos": 4,
-      "avg_views": 4
+      "avg_views": 5
     },
     "en-US-BrianNeural": {
-      "videos": 17,
-      "avg_views": 139
+      "videos": 18,
+      "avg_views": 150
     },
     "en-US-AndrewNeural": {
       "videos": 4,
@@ -1209,8 +1208,8 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 375,
-      "likes": 5,
+      "views": 403,
+      "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E"
     },
@@ -1305,7 +1304,7 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 64,
+      "views": 65,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/YX7zSStVK_k"
@@ -1353,7 +1352,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 827,
+      "views": 830,
       "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -1449,7 +1448,7 @@
       "hook": "In 1999, a tornado hit 302 miles an hour. The fastest wind ever measured.",
       "published_at": "2026-10-21T13:30:38Z",
       "privacy": "public",
-      "views": 12,
+      "views": 16,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q"
@@ -1497,7 +1496,7 @@
       "hook": "In 1945, a chicken lost its head and lived another 18 months.",
       "published_at": "2026-10-21T16:30:28Z",
       "privacy": "public",
-      "views": 26,
+      "views": 41,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/ExE2WcB7uRI"
@@ -1521,7 +1520,7 @@
       "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
-      "views": 4,
+      "views": 8,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM"
@@ -1545,7 +1544,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 115,
+      "views": 156,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/valUZFoPBN4"
@@ -1593,7 +1592,7 @@
       "hook": "This snail can kill you with one sting. There's no antivenom.",
       "published_at": "2026-10-22T02:15:18Z",
       "privacy": "public",
-      "views": 16,
+      "views": 18,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/cmlnxZqwptc"
@@ -1617,9 +1616,9 @@
       "hook": "A cheetah ran 100 metres in 5.95 seconds.",
       "published_at": "2026-10-22T12:10:31Z",
       "privacy": "public",
-      "views": 3,
-      "likes": 0,
-      "comments": 0,
+      "views": 32,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/lSMWTUoJceo"
     },
     "3IPJWe-ZH7s": {
@@ -1641,7 +1640,7 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 4,
+      "views": 27,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
@@ -1689,8 +1688,8 @@
       "hook": "This bird hits the water at over 50 miles an hour.",
       "published_at": "2026-10-22T13:50:15Z",
       "privacy": "public",
-      "views": 43,
-      "likes": 2,
+      "views": 232,
+      "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/650vI7wznrM"
     },
@@ -1735,22 +1734,22 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "These alligators are frozen in solid ice. And they're alive.",
-      "published_at": "2026-10-22T14:43:25Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-22T15:10:38Z",
+      "privacy": "public",
+      "views": 10,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/Dbv2hy3GKSU"
     },
     "l57MjoYS9NY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT31S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1759,12 +1758,36 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "This snake spits venom into your eyes from eight feet away.",
-      "published_at": "2026-10-22T14:46:16Z",
+      "published_at": "2026-10-22T15:10:32Z",
+      "privacy": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/l57MjoYS9NY"
+    },
+    "WXZ7kpLm8Bc": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Vulture Hit a Passenger Jet at 37,000 Feet (Highest Bird Ever)",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "A vulture hit a passenger jet at 37,000 feet.",
+      "published_at": "2026-10-22T16:13:53Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/l57MjoYS9NY"
+      "url": "https://youtube.com/shorts/WXZ7kpLm8Bc"
     },
     "TtDH4yL4P10": {
       "upload_status": "processed",
