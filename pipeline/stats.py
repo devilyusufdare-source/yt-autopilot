@@ -21,6 +21,53 @@ def _published() -> list[dict]:
     return [x for x in out if x.get("youtube_id")]
 
 
+ANALYTICS_SCOPE = "https://www.googleapis.com/auth/yt-analytics.readonly"
+
+
+def fetch_retention(youtube, video_ids: list[str]) -> dict[str, dict]:
+    """Per-video average view duration / percentage from the YouTube Analytics API.
+
+    Needs the analytics permission on the token (python -m pipeline.authorize asks for it); without it
+    this returns {} and stats.json simply has no retention fields. Shorts' "viewed vs swiped away" is
+    not exposed by the API; averageViewPercentage is the closest public number."""
+    try:
+        creds = youtube._http.credentials  # noqa: SLF001
+        granted = getattr(creds, "granted_scopes", None)
+        if granted and ANALYTICS_SCOPE not in granted:
+            return {}
+        from googleapiclient.discovery import build
+        ya = build("youtubeAnalytics", "v2", credentials=creds, cache_discovery=False)
+    except Exception as e:  # noqa: BLE001
+        print(f"[stats] analytics client unavailable: {e}")
+        return {}
+    out: dict[str, dict] = {}
+    end = dt.date.today().isoformat()
+    start = (dt.date.today() - dt.timedelta(days=90)).isoformat()
+    for i in range(0, len(video_ids), 50):
+        chunk = video_ids[i:i + 50]
+        try:
+            resp = ya.reports().query(ids="channel==MINE", startDate=start, endDate=end, dimensions="video",
+                                      metrics="views,averageViewDuration,averageViewPercentage,likes,shares,subscribersGained",
+                                      filters="video==" + ",".join(chunk), maxResults=50).execute()
+        except Exception as e:  # noqa: BLE001
+            msg = str(e)
+            if "insufficient" in msg.lower() or "403" in msg:
+                print("[stats] analytics permission missing: re-authorize once (python -m pipeline.authorize) to get retention")
+            else:
+                print(f"[stats] analytics query failed: {msg[:200]}")
+            return out
+        cols = [c["name"] for c in resp.get("columnHeaders", [])]
+        for row in resp.get("rows", []):
+            rec = dict(zip(cols, row))
+            out[rec["video"]] = {
+                "avg_view_seconds": round(float(rec.get("averageViewDuration", 0)), 1),
+                "avg_view_percent": round(float(rec.get("averageViewPercentage", 0)), 1),
+                "shares": int(rec.get("shares", 0)),
+                "subscribers_gained": int(rec.get("subscribersGained", 0)),
+            }
+    return out
+
+
 def update_stats(youtube) -> dict:
     pubs = _published()
     by_id = {p["youtube_id"]: p for p in pubs}
@@ -59,6 +106,9 @@ def update_stats(youtube) -> dict:
                 "comments": int(st.get("commentCount", 0)),
                 "url": f"https://youtube.com/shorts/{item['id']}",
             }
+    retention = fetch_retention(youtube, list(videos))
+    for vid, r in retention.items():
+        videos[vid].update(r)
     by_topic: dict[str, list[int]] = defaultdict(list)
     for v in videos.values():
         if v["topic"]:
@@ -87,6 +137,21 @@ def update_stats(youtube) -> dict:
                        "channel_views": int(cst.get("viewCount", 0)), "video_count": int(cst.get("videoCount", 0))}
     except Exception as e:  # noqa: BLE001
         print(f"[stats] channel statistics unavailable: {e}")
+    ret = [v for v in videos.values() if v.get("avg_view_percent")]
+    retention_summary = None
+    if ret:
+        by_t: dict[str, list[float]] = defaultdict(list)
+        for v in ret:
+            by_t[v.get("topic") or "?"].append(v["avg_view_percent"])
+        retention_summary = {
+            "videos_with_data": len(ret),
+            "avg_view_percent": round(sum(v["avg_view_percent"] for v in ret) / len(ret), 1),
+            "by_topic": {t: round(sum(x) / len(x), 1) for t, x in by_t.items()},
+            "best": [{"title": v["title"], "avg_view_percent": v["avg_view_percent"], "views": v["views"]}
+                     for v in sorted(ret, key=lambda v: -v["avg_view_percent"])[:5]],
+            "worst": [{"title": v["title"], "avg_view_percent": v["avg_view_percent"], "views": v["views"]}
+                      for v in sorted(ret, key=lambda v: v["avg_view_percent"])[:5]],
+        }
     diagnosis = {
         "not_public": [v["url"] for v in videos.values() if v.get("privacy") != "public"],
         "made_for_kids": [v["url"] for v in videos.values() if v.get("made_for_kids")],
@@ -100,6 +165,7 @@ def update_stats(youtube) -> dict:
         "updated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "channel": channel,
         "diagnosis": diagnosis,
+        "retention": retention_summary,
         "total_videos": len(videos),
         "total_views": sum(v["views"] for v in videos.values()),
         "by_topic": summary,

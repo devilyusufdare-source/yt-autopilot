@@ -91,6 +91,15 @@ seen as `uploadLimitExceeded`). `release.daily_limit` in channel.yml tells the j
 waits for a free slot instead of being refused. Raise it when YouTube raises the channel's limit
 (Studio → Settings → Channel → Feature eligibility → Advanced features).
 
+Retention (optional, recommended): re-authorize once with analytics access and `content/stats.json`
+gains `avg_view_percent` / `avg_view_seconds` per video plus a `retention` summary, so hooks can be
+fixed from real numbers. Steps: (1) Google Cloud Console → APIs & Services → Library → enable
+**YouTube Analytics API**; (2) on your computer, in the repository folder:
+`pip install google-auth-oauthlib` then `python -m pipeline.authorize client_secret.json`
+(the OAuth client file from Credentials → your client → Download JSON); (3) sign in with the
+channel's Google account and allow everything; (4) paste the printed `YT_REFRESH_TOKEN` over the old
+one in GitHub → Settings → Secrets and variables → Actions. Nothing else changes.
+
 Long videos: `content/longform/queue/` holds 8–11 minute, 16:9 list videos (10 facts, one chapter
 each; written by the long-form writer task, see `AGENT_LONGFORM.md`). One is made per day for the
 `release.longform_slots` time (6:30 AM IST) and uses one of the day's 10 uploads. Test one without
