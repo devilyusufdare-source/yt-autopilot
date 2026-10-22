@@ -130,6 +130,31 @@ jobs:
           if-no-files-found: ignore
           retention-days: 3
 
+      - name: Keep today's finished videos for cross-posting (Instagram, Reddit)
+        # Uploaded videos are attached to a release named after the day (IST), so they can be downloaded on
+        # a phone from the repository's Releases page and posted elsewhere by hand. Releases older than
+        # 4 days are removed. Never fails the run.
+        if: ${{ github.event_name == 'schedule' && steps.make.outcome == 'success' }}
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          DAY=$(TZ=Asia/Kolkata date +%Y-%m-%d)
+          TAG="videos-$DAY"
+          FILES=$(ls output/*/*.mp4 2>/dev/null || true)
+          [ -z "$FILES" ] && { echo "no uploaded videos this run"; exit 0; }
+          if ! gh release view "$TAG" -R "$GITHUB_REPOSITORY" > /dev/null 2>&1; then
+            gh release create "$TAG" -R "$GITHUB_REPOSITORY" --title "Videos of $DAY"               --notes "Finished videos of $DAY (India time), for posting to Instagram Reels / Reddit by hand. Removed after 4 days." || true
+          fi
+          gh release upload "$TAG" $FILES -R "$GITHUB_REPOSITORY" --clobber || true
+          # prune old video releases
+          for OLD in $(gh release list -R "$GITHUB_REPOSITORY" --limit 50 --json tagName --jq '.[].tagName' | grep '^videos-' || true); do
+            OLD_DAY=${OLD#videos-}
+            if [ "$(date -d "$OLD_DAY" +%s)" -lt "$(date -d "$DAY -4 days" +%s)" ]; then
+              gh release delete "$OLD" -R "$GITHUB_REPOSITORY" --yes --cleanup-tag || true
+            fi
+          done
+
       - name: Summarise the run
         if: always()
         env:
