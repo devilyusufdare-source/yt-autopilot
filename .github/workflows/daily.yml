@@ -119,6 +119,26 @@ jobs:
           if [ -n "$COUNT" ]; then ARGS="$ARGS --count $COUNT"; fi
           python -m pipeline.run $ARGS
 
+      - name: Save a contact sheet of a test render into the repository (so it can be reviewed without downloading)
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run == true }}
+        continue-on-error: true
+        run: |
+          mkdir -p content/previews
+          for V in output/*/*.mp4; do
+            [ -f "$V" ] || continue
+            NAME=$(basename "$(dirname "$V")")
+            ffmpeg -y -loglevel error -i "$V" -vf "fps=1/4,scale=360:-2,tile=3x3" -frames:v 1 -q:v 4 "content/previews/${NAME}.jpg"
+          done
+          ls content/previews | head -50 | sort -r | tail -n +9 | while read OLD; do rm -f "content/previews/$OLD"; done
+          git config user.name "yt-autopilot"
+          git config user.email "yt-autopilot@users.noreply.github.com"
+          git add content/previews
+          if git diff --cached --quiet; then echo "no preview"; else
+            git commit -m "preview: test render contact sheet"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}" || true
+          fi
+
       - name: Keep the rendered video as a downloadable artifact (test renders only)
         # Scheduled runs upload to YouTube, so no copy is kept; test renders keep one for 3 days.
         # Never fails the run: artifact storage is a convenience, not part of publishing.
