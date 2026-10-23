@@ -165,6 +165,42 @@ def duplicate_of(pkg: dict) -> str | None:
     return None
 
 
+def package_format(pkg: dict) -> str:
+    return str(pkg.get("format") or "fact").lower()
+
+
+def is_ranking(pkg: dict) -> bool:
+    return package_format(pkg) == "ranking"
+
+
+def preferred_format(cfg) -> str | None:
+    """`release.format_mix: {ranking: 3, fact: 1}` → look at the last (3+1) published videos and pick the format
+    that is still owed in that window; None when no mix is configured."""
+    mix = cfg.get("release.format_mix") or {}
+    try:
+        mix = {str(k).lower(): int(v) for k, v in dict(mix).items() if int(v) > 0}
+    except (TypeError, ValueError, AttributeError):
+        return None
+    if not mix:
+        return None
+    window = sum(mix.values())
+    recent = []
+    for path in sorted(PUBLISHED_DIR.glob("*.json"), key=lambda p: p.stat().st_mtime, reverse=True):
+        try:
+            rec = _load(path)
+        except Exception:  # noqa: BLE001
+            continue
+        if rec.get("kind") == "longform":
+            continue
+        recent.append(package_format(rec))
+        if len(recent) >= window:
+            break
+    counts = {f: recent.count(f) for f in mix}
+    # the format with the biggest shortfall against its share goes next (ties: the first listed)
+    owed = sorted(mix, key=lambda f: (counts[f] - mix[f], list(mix).index(f)))
+    return owed[0]
+
+
 def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict] | None:
     if explicit:
         pkg = _load(explicit)
@@ -188,7 +224,11 @@ def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict
             prio = 0
         candidates.append((-prio, path.name, path, pkg))
     only = [str(t).lower() for t in (cfg.get("release.only_topics") or [])]
-    for _, _, path, pkg in sorted(candidates, key=lambda c: (c[0], c[1])):
+    want = preferred_format(cfg)
+    ordered = sorted(candidates, key=lambda c: (c[0], c[1]))
+    if want and any(package_format(c[3]) == want for c in ordered):
+        ordered = [c for c in ordered if package_format(c[3]) == want] + [c for c in ordered if package_format(c[3]) != want]
+    for _, _, path, pkg in ordered:
         if only and str(pkg.get("topic", "")).lower() not in only:
             continue   # temporarily restricted to the topics that still get distribution
         errs = validate_package(pkg, cfg)
@@ -447,6 +487,8 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
     # Drawn mode keeps every picture on the same subject: the package's `subject` if the writer gave one,
     # else the first two words of the hook's footage keywords ("pelican diving").
     subject = (pkg.get("subject") or " ".join(str(pkg["scenes"][0].get("keywords", "")).split()[:2])).strip()
+    if is_ranking(pkg):
+        subject = ""   # a ranking shows five different animals: every scene's own keywords drive its picture
     vis = Visuals(cfg, outdir / "clips", seed=pkg["id"], topic=pkg.get("topic", ""), subject=subject)
     # Faster cuts: a scene longer than a few seconds is covered by 2-3 different clips of the same
     # search, each a whole number of frames so the picture never drifts from the voice.
@@ -468,6 +510,8 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
             label = f"Day {day_number(cfg, when)}  •  {pkg.get('topic', '')}".strip(" •")
         else:
             label = f"{cfg.get('channel.name', '')}  •  {pkg.get('topic', '')}".strip(" •")
+        if is_ranking(pkg) and pkg.get("ranking_by"):
+            label = f"Ranked by {pkg['ranking_by']}"
     # The first-second promise: the headline (thumbnail_text, 3-7 words) pops in at the top third.
     # "punch" keeps it up for the whole first scene instead of word captions; "classic" shows it for
     # ~1.5 s over the word captions.
@@ -479,9 +523,17 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
         title_end = durations[0] if style == "punch" else min(float(cfg.get("captions.title_seconds", 1.5)), durations[0])
     end_text = (cfg.get("cta.end_text") or "Follow for more") if style == "punch" else None
     words_for_captions = words[1:] if (style == "punch" and use_card) else words
+    # Ranking videos: a "#5" badge for the whole scene of each rank (scene timings from the voice track).
+    ranks: list[tuple[float, float, int, str]] = []
+    t_cursor = 0.0
+    for k, sc in enumerate(pkg["scenes"]):
+        d = durations[k] if k < len(durations) else 0.0
+        if isinstance(sc, dict) and sc.get("rank") is not None:
+            ranks.append((t_cursor, t_cursor + d, int(sc["rank"]), str(sc.get("label") or "")))
+        t_cursor += d
     ass = build_ass(words_for_captions, cfg, outdir / "captions.ass", label, total,
                     hook_card=hook_card, hook_end=durations[0], end_text=end_text,
-                    title_card=headline if use_card else None, title_end=title_end)
+                    title_card=headline if use_card else None, title_end=title_end, ranks=ranks or None)
 
     print("[run] rendering final video")
     final = render_final(visual, outdir / "voice.wav", ass, pick_music(cfg, pkg["id"]), cfg,

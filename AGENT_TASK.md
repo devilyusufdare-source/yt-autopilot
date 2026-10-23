@@ -8,9 +8,37 @@ automatic (GitHub Actions, several times a day, oldest idea first). Your only jo
 
 The repository runs two channels. **Channel 1** (Mind Unlocked Facts): `channel.yml`, `content/queue/`,
 all topics, `queue_target` 600. **Channel 2** (Wild Unlocked): `channels/wild/channel.yml`,
-`channels/wild/content/queue/`, **animals only**, `queue_target` 150 (in its own channel.yml). Every
+`channels/wild/content/queue/`, **animals only, mostly rankings (see the next section)**, its `queue_target` is in its own channel.yml. Every
 run: top up channel 1 first, then channel 2 with animal ideas written to the same rules (a fact goes in
 one queue only; check both queues and both `content/published/` folders before writing).
+
+## Wild Unlocked is a ranking channel (since 24 Oct)
+
+Channel 2 now runs **3 ranking videos for every 1 single-animal fact** (`release.format_mix` in
+`channels/wild/channel.yml`; the picker enforces the mix). So of every 4 new Wild ideas, write 3 rankings.
+A ranking package is the normal schema plus `"format": "ranking"`, `"ranking_by": "<one metric>"`, and
+`rank` + `label` on five scenes. Model: `channels/wild/content/queue/2026-10-24-five-fastest-animals-ranked.json`.
+
+Rules for a ranking:
+- **One measurable metric** (top speed, verified age, bite force in PSI, deaths per year, body mass, dive depth,
+  lifespan, brain size, migration distance, decibels, venom LD50…). Never "coolest", "scariest", "best".
+- **Scene 1 = hook**, no rank: name the list and open a gap ("The cheetah doesn't even come close to number one.",
+  "Number one was alive before the pyramids.", "Sharks don't make the list."). Under 18 words.
+- **Scenes 2–6 = ranks 5, 4, 3, 2, 1 in that order.** Each: "Number five: the pronghorn. Fifty-five miles an
+  hour, and it can hold that for miles." — the name, the number, one memorable detail, 12–18 words. The voice
+  says "Number five"; the picture shows a "#5" badge and the `label`.
+- **`label`**: name + the number, under 32 characters: `"Pronghorn · 55 mph"`, `"Glass sponge · 11,000 years"`.
+- **`keywords`**: footage of THAT animal (the channel is back on real footage; every scene searches its own animal).
+- **#1 must pay off** the hook, and the whole script stays 85–115 words (≤ 55 seconds).
+- **Sources**: at least 2, ideally one per surprising number. Numbers must match across your sources; when
+  sources disagree, say "around" / "about" and use the range the better source gives.
+- **Description** ends with a question about the ranking; the full list is appended automatically.
+  `first_comment`: ask which they'd put at #1 and what to rank next.
+- `thumbnail_text`: "5 FASTEST ANIMALS, RANKED" style, under 30 characters.
+- Do not repeat a metric that is already in the queue or published; vary: speed, age, size, strength, senses,
+  babies, migrations, sleep, intelligence, sounds.
+
+The 1-in-4 single-fact Wild ideas follow the ordinary rules below.
 
 ## Steps
 

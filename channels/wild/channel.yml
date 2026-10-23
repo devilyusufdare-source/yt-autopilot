@@ -42,6 +42,9 @@ release:
                                    # an upload costs 1,600), which allows at most ~5 uploads a day. Before going past 5,
                                    # request a quota increase for the wild-unlocked project (YouTube API quota extension form).
   shorts_slots: ["07:45", "19:00", "22:00", "02:30"]
+  # Ranking channel (24 Oct): 3 of every 4 videos are "5 ___, ranked" countdowns (format: ranking in the package),
+  # 1 is a single-animal fact, so the two formats can be compared inside the same channel after a week.
+  format_mix: { ranking: 3, fact: 1 }
   longform_slots: ["06:30"]        # used only while longform.enabled is true
   daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
   probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it
@@ -126,7 +129,9 @@ queue_target: 600
 # scene with a slow push-in (consistent hand-made look; 16 Bit Ink-style). Drawings fall back to footage when the
 # image service fails. drawn_style is the fixed style text appended to every scene's keywords.
 visuals:
-  style: drawn
+  style: footage                   # 24 Oct: back to real footage. The drawn test (23 Oct) did not lift views, and a ranking
+                                   # shows five different animals, which stock footage covers better and faster. Switch back with `drawn`.
+  
   drawn_style: "hand-drawn ink illustration on cream paper, fine black linework, light watercolor wash, scientific field notebook style, single centered subject, lots of empty paper around it, no text, no letters, no watermark"
 
 video:

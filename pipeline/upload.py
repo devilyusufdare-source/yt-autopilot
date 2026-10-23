@@ -156,6 +156,10 @@ def publish_slots(count: int, cfg: Config, taken: list[dt.datetime] | None = Non
 
 def build_description(pkg: dict, cfg: Config, shorts: bool = True) -> str:
     hashtags = list(pkg.get("hashtags") or [])
+    ranks = [sc for sc in pkg.get("scenes", []) if isinstance(sc, dict) and sc.get("rank") is not None and sc.get("label")]
+    if ranks and "ranking_list" not in pkg:
+        listing = "\n".join(f"#{int(sc['rank'])} {sc['label']}" for sc in sorted(ranks, key=lambda x: -int(x["rank"])))
+        pkg = dict(pkg, description=(pkg.get("description") or "").rstrip() + "\n\nThe full ranking" + (f" (by {pkg['ranking_by']})" if pkg.get("ranking_by") else "") + ":\n" + listing)
     if shorts and not any(h.lower() == "#shorts" for h in hashtags):
         hashtags.append("#shorts")
     if not shorts:

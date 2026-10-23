@@ -1,0 +1,72 @@
+{
+  "id": "2026-10-24-five-fastest-animals-ranked",
+  "format": "ranking",
+  "ranking_by": "top speed",
+  "topic": "animals",
+  "title": "The 5 Fastest Animals on Earth, Ranked (the Cheetah Is Only #4)",
+  "scenes": [
+    {
+      "text": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
+      "keywords": "cheetah running slow motion"
+    },
+    {
+      "rank": 5,
+      "label": "Pronghorn · 55 mph",
+      "text": "Number five: the pronghorn. Fifty-five miles an hour, and it can hold that for miles.",
+      "keywords": "pronghorn antelope running prairie"
+    },
+    {
+      "rank": 4,
+      "label": "Cheetah · 70 mph",
+      "text": "Number four: the cheetah. Seventy miles an hour, but only for about twenty seconds.",
+      "keywords": "cheetah sprinting savanna"
+    },
+    {
+      "rank": 3,
+      "label": "Free-tailed bat · 100 mph",
+      "text": "Number three: the Mexican free-tailed bat. One hundred miles an hour in level flight, measured by aircraft.",
+      "keywords": "bats flying sky dusk"
+    },
+    {
+      "rank": 2,
+      "label": "Golden eagle · 200 mph",
+      "text": "Number two: the golden eagle. In a hunting dive, close to two hundred miles an hour.",
+      "keywords": "golden eagle diving flying"
+    },
+    {
+      "rank": 1,
+      "label": "Peregrine falcon · 240 mph",
+      "text": "Number one: the peregrine falcon. Two hundred and forty miles an hour in a dive. The fastest animal alive.",
+      "keywords": "peregrine falcon diving sky"
+    }
+  ],
+  "description": "The five fastest animals on Earth, ranked by top speed.\nThe cheetah is only number four. Two birds and a bat beat it, and the winner hits 240 mph in a dive.\nWhich one surprised you most?",
+  "tags": [
+    "fastest animals",
+    "fastest animal in the world",
+    "peregrine falcon",
+    "cheetah speed",
+    "golden eagle",
+    "pronghorn",
+    "animal rankings",
+    "top 5 animals",
+    "animal facts",
+    "wild animals",
+    "wildlife facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#wildlife",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fastest_animals",
+    "https://royalsocietypublishing.org/doi/10.1098/rsos.160398",
+    "https://www.nationalgeographic.com/animals/birds/facts/peregrine-falcon"
+  ],
+  "thumbnail_text": "5 FASTEST ANIMALS, RANKED",
+  "priority": 9,
+  "first_comment": "Which one would you have put at number one? And which animal should we rank next?"
+}

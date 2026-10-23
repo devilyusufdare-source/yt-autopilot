@@ -108,11 +108,14 @@ def _layout_px(tokens: list[str], cfg: Config, px_size: int, max_px: int) -> lis
 def build_ass(scene_words: list[list[Word]], cfg: Config, out: Path, top_label: str | None,
               total_duration: float, hook_card: str | None = None, hook_end: float = 0.0,
               end_text: str | None = None, labels: list[tuple[float, float, str]] | None = None,
-              title_card: str | None = None, title_end: float = 0.0) -> Path:
+              title_card: str | None = None, title_end: float = 0.0,
+              ranks: list[tuple[float, float, int, str]] | None = None) -> Path:
     """`labels` = timed top pills [(start, end, text), ...] (used by long videos for chapter names);
     `top_label` is one pill for the whole video; `hook_card` = the whole hook sentence on screen for the
     first scene (word captions start at scene 2); `title_card` = a 3-7 word headline that pops in at the
-    top third for `title_end` seconds while the word captions run as usual (the first-second promise)."""
+    top third for `title_end` seconds while the word captions run as usual (the first-second promise);
+    `ranks` = [(start, end, rank, label), ...] for ranking videos: a big "#5" badge with a one-line label
+    under the top pill for the whole scene of that rank."""
     w, h = cfg.width, cfg.height
     font = cfg.get("captions.font_name", "Poppins ExtraBold")
     size = int(cfg.get("captions.font_size", 96))
@@ -141,6 +144,8 @@ Style: Label,{font},{int(size * float(cfg.get("captions.label_scale", 0.38)))},&
 Style: Hook,{font},{int(size * 1.12)},{text_c},{text_c},&H00000000,&H90000000,-1,0,0,0,100,100,1,0,1,{outline + 2},5,5,70,70,0,1
 Style: End,{font},{int(size * 0.42)},{hi_c},{hi_c},&H00000000,&HA0000000,-1,0,0,0,100,100,2,0,3,14,0,2,80,80,{int(h * 0.16)},1
 Style: Title,{font},{int(size * float(cfg.get("captions.title_scale", 1.22)))},{hi_c},{hi_c},&H00000000,&HA0000000,-1,0,0,0,100,100,1,0,1,{outline + 3},6,5,60,60,0,1
+Style: Rank,{font},{int(size * 1.9)},{hi_c},{hi_c},&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,{outline + 4},8,7,0,0,0,1
+Style: RankLabel,{font},{int(size * 0.5)},&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,1,0,3,14,0,7,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -176,6 +181,16 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         ty = int(h * float(cfg.get("captions.title_y_percent", 33)) / 100)
         pop = "\\fscx70\\fscy70\\t(0,140,\\fscx100\\fscy100)" if not shrink else "\\fscx60\\fscy60\\t(0,140," + shrink.replace("\\\\", "\\") + ")"
         lines_out.append(f"Dialogue: 2,{_ts(0)},{_ts(title_end)},Title,,0,0,0,,{{\\pos({w // 2},{ty})\\fad(0,180){pop}}}{rendered}\n")
+
+    for start, end, rank, label in ranks or []:
+        if end <= start:
+            continue
+        rx, ry = int(w * 0.07), int(h * 0.17)
+        pop = "\\fscx60\\fscy60\\t(0,160,\\fscx100\\fscy100)"
+        lines_out.append(f"Dialogue: 2,{_ts(start)},{_ts(end)},Rank,,0,0,0,,{{\\pos({rx},{ry})\\fad(0,120){pop}}}#{int(rank)}\n")
+        if label:
+            lab = _escape(label.upper() if upper else label)
+            lines_out.append(f"Dialogue: 2,{_ts(start + 0.12)},{_ts(end)},RankLabel,,0,0,0,,{{\\pos({rx},{ry + int(size * 1.95)})\\fad(120,120)}}{lab}\n")
 
     if end_text:
         et = _escape(end_text.upper() if upper else end_text)

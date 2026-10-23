@@ -1,0 +1,73 @@
+{
+  "id": "2026-10-24-five-deadliest-animals-to-humans-ranked",
+  "format": "ranking",
+  "ranking_by": "human deaths a year",
+  "topic": "animals",
+  "title": "The 5 Animals That Kill the Most People, Ranked (Sharks Don't Make the List)",
+  "scenes": [
+    {
+      "text": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
+      "keywords": "shark swimming underwater"
+    },
+    {
+      "rank": 5,
+      "label": "Crocodiles · ~1,000 a year",
+      "text": "Number five: crocodiles. About a thousand people a year, most of them along rivers in Africa.",
+      "keywords": "nile crocodile river bank"
+    },
+    {
+      "rank": 4,
+      "label": "Dogs · 59,000 a year",
+      "text": "Number four: dogs. Fifty-nine thousand people a year, almost all of them from rabies.",
+      "keywords": "stray dogs street"
+    },
+    {
+      "rank": 3,
+      "label": "Snakes · ~100,000 a year",
+      "text": "Number three: snakes. Around one hundred thousand people a year, mostly where antivenom is hours away.",
+      "keywords": "cobra snake grass"
+    },
+    {
+      "rank": 2,
+      "label": "Humans · ~440,000 a year",
+      "text": "Number two: humans. Around four hundred and forty thousand homicides a year, worldwide.",
+      "keywords": "crowd city street people"
+    },
+    {
+      "rank": 1,
+      "label": "Mosquitoes · 700,000+ a year",
+      "text": "Number one: the mosquito. More than seven hundred thousand people a year, through malaria, dengue and the diseases it carries.",
+      "keywords": "mosquito close up skin"
+    }
+  ],
+  "description": "The five animals that kill the most people each year, ranked by deaths per year.\nSharks kill about five to ten people a year. Crocodiles about a thousand. Dogs 59,000. Snakes around 100,000. Humans around 440,000. Mosquitoes more than 700,000.\nDid you expect number two?",
+  "tags": [
+    "deadliest animals",
+    "most dangerous animals",
+    "mosquito deaths",
+    "snakebite",
+    "rabies",
+    "crocodile",
+    "animal rankings",
+    "top 5 animals",
+    "animal facts",
+    "wild animals",
+    "wildlife facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#wildlife",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_deadliest_animals_to_humans",
+    "https://www.who.int/news-room/fact-sheets/detail/rabies",
+    "https://www.who.int/news-room/fact-sheets/detail/snakebite-envenoming",
+    "https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases"
+  ],
+  "thumbnail_text": "5 DEADLIEST ANIMALS, RANKED",
+  "priority": 9,
+  "first_comment": "Did you expect number two? Which animal should we rank next: strongest bite, loudest, or biggest?"
+}

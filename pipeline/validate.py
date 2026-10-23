@@ -71,6 +71,20 @@ def validate_package(pkg: dict, cfg=None) -> list[str]:
                 errs.append(f"scene {i}: keywords must be 2-60 characters")
             if "<" in s["text"] or ">" in s["text"]:
                 errs.append(f"scene {i}: text must not contain < or >")
+        if str(pkg.get("format") or "").lower() == "ranking":
+            ranked = [s for s in scenes if isinstance(s, dict) and s.get("rank") is not None]
+            order = [int(s["rank"]) for s in ranked if str(s.get("rank")).lstrip("-").isdigit()]
+            if order != [5, 4, 3, 2, 1]:
+                errs.append("ranking: exactly five scenes must carry rank 5,4,3,2,1 in that order (plus a hook scene before them)")
+            if not scenes or not isinstance(scenes[0], dict) or scenes[0].get("rank") is not None:
+                errs.append("ranking: scene 1 is the hook and must not carry a rank")
+            for s in ranked:
+                if not str(s.get("label") or "").strip() or len(str(s.get("label"))) > 32:
+                    errs.append(f"ranking: rank {s.get('rank')} needs a short 'label' (name + number, under 32 characters)")
+            if not str(pkg.get("ranking_by") or "").strip():
+                errs.append("ranking: 'ranking_by' (the one metric the list is ranked by) is required")
+            if len(pkg.get("sources") or []) < 2:
+                errs.append("ranking: at least 2 sources")
         hook_words = len(scenes[0].get("text", "").split()) if scenes and isinstance(scenes[0], dict) else 0
         if hook_words > 18:
             errs.append("scene 1 is the hook: keep it under 18 words")
