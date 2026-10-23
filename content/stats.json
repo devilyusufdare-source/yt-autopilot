@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T23:32:41+00:00",
+  "updated_at": "2026-10-23T01:58:03+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "subscribers": 52,
@@ -7,17 +7,23 @@
     "video_count": 79
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/VY98speDz40"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/VY98speDz40"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/VY98speDz40"
+    ]
   },
   "retention": null,
-  "total_videos": 79,
-  "total_views": 34372,
+  "total_videos": 80,
+  "total_views": 34433,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -26,12 +32,12 @@
     },
     "science": {
       "videos": 14,
-      "avg_views": 376,
+      "avg_views": 377,
       "best_views": 1648
     },
     "animals": {
       "videos": 34,
-      "avg_views": 480,
+      "avg_views": 482,
       "best_views": 1507
     },
     "human body": {
@@ -45,8 +51,8 @@
       "best_views": 1106
     },
     "space": {
-      "videos": 15,
-      "avg_views": 539,
+      "videos": 16,
+      "avg_views": 506,
       "best_views": 1510
     },
     "technology": {
@@ -58,19 +64,19 @@
   "by_style": {
     "classic": {
       "videos": 64,
-      "avg_views": 433,
+      "avg_views": 434,
       "over_1500": 3
     },
     "punch": {
-      "videos": 15,
-      "avg_views": 442,
+      "videos": 16,
+      "avg_views": 415,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-GuyNeural": {
       "videos": 4,
-      "avg_views": 28
+      "avg_views": 29
     },
     "en-US-ChristopherNeural": {
       "videos": 4,
@@ -78,11 +84,11 @@
     },
     "en-US-BrianNeural": {
       "videos": 20,
-      "avg_views": 198
+      "avg_views": 200
     },
     "en-US-AndrewNeural": {
-      "videos": 4,
-      "avg_views": 33
+      "videos": 5,
+      "avg_views": 27
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1275,7 +1281,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 484,
+      "views": 489,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
@@ -1299,7 +1305,7 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 66,
+      "views": 70,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/YX7zSStVK_k"
@@ -1347,7 +1353,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 837,
+      "views": 840,
       "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk"
@@ -1491,7 +1497,7 @@
       "hook": "In 1945, a chicken lost its head and lived another 18 months.",
       "published_at": "2026-10-21T16:30:28Z",
       "privacy": "public",
-      "views": 52,
+      "views": 53,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/ExE2WcB7uRI"
@@ -1539,8 +1545,8 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 240,
-      "likes": 6,
+      "views": 250,
+      "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/valUZFoPBN4"
     },
@@ -1563,7 +1569,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 102,
+      "views": 104,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o"
@@ -1587,7 +1593,7 @@
       "hook": "This snail can kill you with one sting. There's no antivenom.",
       "published_at": "2026-10-22T02:15:18Z",
       "privacy": "public",
-      "views": 53,
+      "views": 56,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/cmlnxZqwptc"
@@ -1635,7 +1641,7 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 65,
+      "views": 72,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
@@ -1683,7 +1689,7 @@
       "hook": "This bird hits the water at over 50 miles an hour.",
       "published_at": "2026-10-22T13:50:15Z",
       "privacy": "public",
-      "views": 983,
+      "views": 989,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/650vI7wznrM"
@@ -1707,7 +1713,7 @@
       "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
       "published_at": "2026-10-22T13:50:30Z",
       "privacy": "public",
-      "views": 53,
+      "views": 56,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/c6f1sIZn_Co"
@@ -1731,7 +1737,7 @@
       "hook": "These alligators are frozen in solid ice. And they're alive.",
       "published_at": "2026-10-22T15:10:38Z",
       "privacy": "public",
-      "views": 40,
+      "views": 50,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/Dbv2hy3GKSU"
@@ -1755,7 +1761,7 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 14,
+      "views": 17,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/l57MjoYS9NY"
@@ -1779,7 +1785,7 @@
       "hook": "A vulture hit a passenger jet at 37,000 feet.",
       "published_at": "2026-10-22T16:40:17Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/WXZ7kpLm8Bc"
@@ -1803,8 +1809,8 @@
       "hook": "This lake gets hit by lightning almost 300 nights a year.",
       "published_at": "2026-10-22T18:00:23Z",
       "privacy": "public",
-      "views": 2,
-      "likes": 0,
+      "views": 3,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/Z-nWJgNZMZM"
     },
@@ -1827,7 +1833,7 @@
       "hook": "A two-ton shark launches ten feet out of the water.",
       "published_at": "2026-10-22T21:00:33Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/LquJ2hMdwYI"
@@ -2047,6 +2053,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/7E64Z48yaAs"
+    },
+    "VY98speDz40": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Europe's Hera Reaches the Asteroid NASA Smashed in December",
+      "topic": "space",
+      "style": "punch",
+      "voice": "en-US-AndrewNeural",
+      "hook": "NASA smashed a spacecraft into an asteroid.",
+      "published_at": "2026-10-23T01:57:58Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/VY98speDz40"
     }
   }
 }
