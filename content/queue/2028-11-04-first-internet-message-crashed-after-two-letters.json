@@ -1,0 +1,59 @@
+{
+  "id": "2028-11-04-first-internet-message-crashed-after-two-letters",
+  "topic": "internet",
+  "title": "The First Message Ever Sent Over the Internet Crashed After Two Letters",
+  "scenes": [
+    {
+      "text": "The first message ever sent on the internet crashed.",
+      "keywords": "old computer lab 1960s"
+    },
+    {
+      "text": "October 29, 1969. A UCLA student tried to type the word login.",
+      "keywords": "vintage computer terminal"
+    },
+    {
+      "text": "The computer was at Stanford Research Institute, hundreds of miles away.",
+      "keywords": "early computer mainframe"
+    },
+    {
+      "text": "Only the first two letters arrived: L, O.",
+      "keywords": "computer screen typing"
+    },
+    {
+      "text": "Then the system crashed.",
+      "keywords": "error computer screen"
+    },
+    {
+      "text": "About an hour later it recovered. The internet's first word was lo.",
+      "keywords": "server room lights"
+    }
+  ],
+  "description": "The first message ever sent on the internet crashed.\nIn 1969 a UCLA student tried to send login to Stanford Research Institute over ARPANET. Only L and O arrived.\nWhat would you have wanted the first message to be?",
+  "tags": [
+    "ARPANET",
+    "first internet message",
+    "internet history",
+    "1969",
+    "UCLA",
+    "computer history",
+    "tech facts",
+    "technology facts",
+    "mind blowing facts",
+    "shorts facts",
+    "history of the internet",
+    "internet facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#internet",
+    "#history",
+    "#tech"
+  ],
+  "sources": [
+    "https://www.historyofinformation.com/detail.php?id=882",
+    "https://www.upi.com/Top_News/US/2019/10/29/First-Internet-connection-made-over-military-ARPANET-50-years-ago/9531572312859/"
+  ],
+  "thumbnail_text": "INTERNET'S FIRST WORD: LO",
+  "priority": 6,
+  "first_comment": "If you could have sent the first internet message, what would it be?"
+}
