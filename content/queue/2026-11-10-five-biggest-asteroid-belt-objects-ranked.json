@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-10-five-biggest-asteroid-belt-objects-ranked",
+  "format": "ranking",
+  "ranking_by": "mean diameter",
+  "topic": "space",
+  "title": "The 5 Biggest Objects in the Asteroid Belt, Ranked (#1 Isn't an Asteroid)",
+  "scenes": [
+    {
+      "text": "The five biggest objects in the asteroid belt, ranked. Number one isn't officially an asteroid anymore.",
+      "keywords": "asteroid belt space"
+    },
+    {
+      "rank": 5,
+      "label": "Interamnia · ~330 km",
+      "text": "Number five: Interamnia. About three hundred thirty kilometers across, around two hundred miles of rock.",
+      "keywords": "asteroid in space"
+    },
+    {
+      "rank": 4,
+      "label": "Hygiea · ~430 km",
+      "text": "Number four: Hygiea. About four hundred thirty kilometers wide, and scientists still debate if it deserves a dwarf planet label.",
+      "keywords": "asteroid rotating"
+    },
+    {
+      "rank": 3,
+      "label": "Pallas · ~512 km",
+      "text": "Number three: Pallas. About five hundred twelve kilometers across, almost a perfect tie with number two.",
+      "keywords": "Pallas asteroid"
+    },
+    {
+      "rank": 2,
+      "label": "Vesta · ~525 km",
+      "text": "Number two: Vesta. About five hundred twenty-five kilometers across, barely wider than Pallas.",
+      "keywords": "Vesta asteroid"
+    },
+    {
+      "rank": 1,
+      "label": "Ceres · ~940 km",
+      "text": "Number one: Ceres. About nine hundred forty kilometers across, a dwarf planet holding over a third of the whole belt's mass.",
+      "keywords": "Ceres dwarf planet"
+    }
+  ],
+  "description": "The five biggest objects in the asteroid belt, ranked by diameter.\nNumber one was reclassified as a dwarf planet in 2006 and holds over a third of the belt's mass.\nWhich of these would you want to visit?",
+  "tags": [
+    "asteroid belt",
+    "Ceres dwarf planet",
+    "Vesta",
+    "Pallas",
+    "Hygiea",
+    "largest asteroids",
+    "space facts",
+    "solar system",
+    "top 5 space",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#asteroids",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.britannica.com/print/article/103501",
+    "https://worldatlas.com/space/how-big-are-the-largest-known-asteroids.html",
+    "https://www.physics.unlv.edu/~jeffery/astro/asteroid/asteroid_largest_table.html"
+  ],
+  "thumbnail_text": "5 BIGGEST ASTEROIDS, RANKED",
+  "priority": 5,
+  "first_comment": "Did you know Ceres is a dwarf planet? What space ranking should we do next?"
+}

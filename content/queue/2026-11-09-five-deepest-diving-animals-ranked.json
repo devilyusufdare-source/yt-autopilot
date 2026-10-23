@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-09-five-deepest-diving-animals-ranked",
+  "format": "ranking",
+  "ranking_by": "maximum recorded dive depth",
+  "topic": "animals",
+  "title": "The 5 Deepest-Diving Animals, Ranked (#1 Isn't a Seal)",
+  "scenes": [
+    {
+      "text": "The five deepest divers on Earth, ranked. Number one is a whale most people have never heard of.",
+      "keywords": "whale diving deep ocean"
+    },
+    {
+      "rank": 5,
+      "label": "Leatherback · ~1,200 m",
+      "text": "Number five: the leatherback turtle. About twelve hundred meters down, nearly three-quarters of a mile, on a single breath.",
+      "keywords": "leatherback sea turtle"
+    },
+    {
+      "rank": 4,
+      "label": "Whale shark · ~1,800 m",
+      "text": "Number four: the whale shark. Nearly eighteen hundred meters, a fish as long as a bus, vanishing into the dark.",
+      "keywords": "whale shark"
+    },
+    {
+      "rank": 3,
+      "label": "Sperm whale · 2,200+ m",
+      "text": "Number three: the sperm whale. Over twenty-two hundred meters, hunting giant squid where no sunlight reaches.",
+      "keywords": "sperm whale"
+    },
+    {
+      "rank": 2,
+      "label": "Elephant seal · 2,388 m",
+      "text": "Number two: the southern elephant seal. Twenty-three hundred eighty-eight meters, and it can hold its breath for up to two hours.",
+      "keywords": "elephant seal"
+    },
+    {
+      "rank": 1,
+      "label": "Beaked whale · 2,992 m",
+      "text": "Number one: Cuvier's beaked whale. Almost three thousand meters, nearly two miles straight down, the deepest dive of any animal.",
+      "keywords": "Cuvier's beaked whale"
+    }
+  ],
+  "description": "The five deepest-diving animals on Earth, ranked by maximum recorded dive depth.\nA whale tracked off California beat the elephant seal by more than six hundred meters.\nWhich deep diver surprised you most?",
+  "tags": [
+    "deepest diving animals",
+    "beaked whale",
+    "elephant seal",
+    "sperm whale",
+    "whale shark",
+    "leatherback turtle",
+    "ocean facts",
+    "animal records",
+    "top 5 animals",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#ocean",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.csiro.au/en/news/all/articles/2023/april/deepest-diving-animals",
+    "https://www.nhm.ac.uk/discover/secrets-of-deep-diving-whales.html",
+    "https://www.discoverwildlife.com/animal-facts/marine-animals/southern-elephant-seal-facts"
+  ],
+  "thumbnail_text": "5 DEEPEST DIVERS, RANKED",
+  "priority": 6,
+  "first_comment": "Did you guess the beaked whale? Which animal record should we rank next?"
+}
