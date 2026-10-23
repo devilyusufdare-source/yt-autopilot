@@ -1,38 +1,39 @@
 {
-  "updated_at": "2026-10-23T17:39:31+00:00",
+  "updated_at": "2026-10-23T19:16:39+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 53,
     "channel_views": 34555,
-    "video_count": 85
+    "video_count": 86
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/mmv9b2xQG2A"
+      "https://youtube.com/shorts/xf0BF_g7K8o"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/mmv9b2xQG2A"
+      "https://youtube.com/shorts/xf0BF_g7K8o"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/mmv9b2xQG2A"
+      "https://youtube.com/shorts/xf0BF_g7K8o"
     ]
   },
   "retention": {
-    "videos_with_data": 59,
-    "avg_view_percent": 68.9,
+    "videos_with_data": 67,
+    "avg_view_percent": 66.0,
     "by_topic": {
       "psychology": 71.3,
-      "science": 72.4,
-      "animals": 66.1,
+      "science": 69.8,
+      "animals": 62.8,
       "human body": 86.7,
-      "history": 54.4,
-      "space": 72.4
+      "history": 52.5,
+      "space": 72.4,
+      "technology": 28.3
     },
     "best": [
       {
@@ -47,7 +48,7 @@
       },
       {
         "title": "The Loudest Sound in History Was Heard 3,000 Miles Away",
-        "avg_view_percent": 114.8,
+        "avg_view_percent": 107.0,
         "views": 3
       },
       {
@@ -68,30 +69,30 @@
         "views": 2
       },
       {
+        "title": "This Snail Can Kill You With One Sting (There's No Antivenom)",
+        "avg_view_percent": 22.1,
+        "views": 67
+      },
+      {
         "title": "The Shortest War in History Lasted 38 Minutes",
         "avg_view_percent": 23.1,
         "views": 12
       },
       {
         "title": "A Crocodile Bites With 3,700 Pounds of Force (Hardest Ever Measured)",
-        "avg_view_percent": 24.4,
+        "avg_view_percent": 27.1,
         "views": 111
       },
       {
-        "title": "This Animal Eats Cobras and Survives the Bite (Here's How)",
-        "avg_view_percent": 36.7,
-        "views": 70
-      },
-      {
-        "title": "There's a Waterfall in Antarctica That Runs Blood Red",
-        "avg_view_percent": 40.5,
-        "views": 147
+        "title": "Scientists Drilled 7.5 Miles Down. The Earth Fought Back",
+        "avg_view_percent": 28.3,
+        "views": 2
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 86,
-  "total_views": 35051,
+  "total_videos": 87,
+  "total_views": 35198,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -104,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 39,
-      "avg_views": 435,
+      "videos": 40,
+      "avg_views": 427,
       "best_views": 1507
     },
     "human body": {
@@ -131,20 +132,20 @@
   },
   "by_style": {
     "classic": {
-      "videos": 70,
-      "avg_views": 405,
+      "videos": 71,
+      "avg_views": 401,
       "over_1500": 3
     },
     "punch": {
       "videos": 16,
-      "avg_views": 418,
+      "avg_views": 422,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 6,
-      "avg_views": 25
+      "avg_views": 27
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -155,8 +156,8 @@
       "avg_views": 8
     },
     "en-US-BrianNeural": {
-      "videos": 25,
-      "avg_views": 184
+      "videos": 26,
+      "avg_views": 182
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -833,7 +834,7 @@
       "hook": "On Mars, the sunset is blue.",
       "published_at": "2026-10-23T13:50:36Z",
       "privacy": "public",
-      "views": 1,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/8nzpCGs_PM0"
@@ -890,7 +891,7 @@
       "comments": 2,
       "url": "https://youtube.com/shorts/pSgxXZHFEbg",
       "avg_view_seconds": 26.0,
-      "avg_view_percent": 78.2,
+      "avg_view_percent": 78.1,
       "shares": 1,
       "subscribers_gained": 0
     },
@@ -1058,7 +1059,7 @@
       "comments": 0,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g",
       "avg_view_seconds": 21.0,
-      "avg_view_percent": 57.7,
+      "avg_view_percent": 57.6,
       "shares": 1,
       "subscribers_gained": 0
     },
@@ -1170,7 +1171,7 @@
       "comments": 0,
       "url": "https://youtube.com/shorts/a_7ULbNzldk",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 73.5,
+      "avg_view_percent": 73.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1282,7 +1283,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY",
       "avg_view_seconds": 16.0,
-      "avg_view_percent": 52.2,
+      "avg_view_percent": 52.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1366,7 +1367,7 @@
       "comments": 0,
       "url": "https://youtube.com/shorts/5pKsRTupbRY",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 44.0,
+      "avg_view_percent": 43.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1449,8 +1450,8 @@
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so",
-      "avg_view_seconds": 8.0,
-      "avg_view_percent": 24.4,
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 27.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1477,8 +1478,8 @@
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 44.6,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 38.3,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1505,8 +1506,8 @@
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/mwNxqOaibXU",
-      "avg_view_seconds": 26.0,
-      "avg_view_percent": 73.7,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 69.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1531,10 +1532,10 @@
       "privacy": "public",
       "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/BcQ6XKRdqJ4",
-      "avg_view_seconds": 37.0,
-      "avg_view_percent": 114.8,
+      "avg_view_seconds": 35.0,
+      "avg_view_percent": 107.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1559,10 +1560,10 @@
       "privacy": "public",
       "views": 491,
       "likes": 2,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 51.5,
+      "avg_view_percent": 50.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1587,12 +1588,12 @@
       "privacy": "public",
       "views": 70,
       "likes": 1,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/YX7zSStVK_k",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 36.7,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 61.0,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 1
     },
     "UDcAAirDM9o": {
       "upload_status": "processed",
@@ -1615,7 +1616,7 @@
       "privacy": "public",
       "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/UDcAAirDM9o",
       "avg_view_seconds": 32.0,
       "avg_view_percent": 104.8,
@@ -1643,10 +1644,10 @@
       "privacy": "public",
       "views": 840,
       "likes": 9,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk",
       "avg_view_seconds": 16.0,
-      "avg_view_percent": 51.4,
+      "avg_view_percent": 50.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1671,8 +1672,12 @@
       "privacy": "public",
       "views": 34,
       "likes": 0,
-      "comments": 0,
-      "url": "https://youtube.com/shorts/Ai052d7-pp4"
+      "comments": 1,
+      "url": "https://youtube.com/shorts/Ai052d7-pp4",
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 37.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "wyObPwWsA0g": {
       "upload_status": "processed",
@@ -1695,10 +1700,10 @@
       "privacy": "public",
       "views": 1012,
       "likes": 5,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/wyObPwWsA0g",
       "avg_view_seconds": 16.0,
-      "avg_view_percent": 46.4,
+      "avg_view_percent": 45.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1724,7 +1729,11 @@
       "views": 1,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/F_0H7cz8PE4"
+      "url": "https://youtube.com/shorts/F_0H7cz8PE4",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "DnIkr_Mim1Q": {
       "upload_status": "processed",
@@ -1748,7 +1757,11 @@
       "views": 23,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/DnIkr_Mim1Q"
+      "url": "https://youtube.com/shorts/DnIkr_Mim1Q",
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 47.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "bB08mIirOGo": {
       "upload_status": "processed",
@@ -1772,7 +1785,11 @@
       "views": 1,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/bB08mIirOGo"
+      "url": "https://youtube.com/shorts/bB08mIirOGo",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ExE2WcB7uRI": {
       "upload_status": "processed",
@@ -1796,7 +1813,11 @@
       "views": 54,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/ExE2WcB7uRI"
+      "url": "https://youtube.com/shorts/ExE2WcB7uRI",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 57.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "FVTCw9Lx6wM": {
       "upload_status": "processed",
@@ -1817,10 +1838,14 @@
       "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
-      "views": 17,
+      "views": 18,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/FVTCw9Lx6wM"
+      "url": "https://youtube.com/shorts/FVTCw9Lx6wM",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 39.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "valUZFoPBN4": {
       "upload_status": "processed",
@@ -1841,10 +1866,14 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 369,
+      "views": 376,
       "likes": 8,
       "comments": 1,
-      "url": "https://youtube.com/shorts/valUZFoPBN4"
+      "url": "https://youtube.com/shorts/valUZFoPBN4",
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 52.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "_DAzc-V2X2o": {
       "upload_status": "processed",
@@ -1865,10 +1894,14 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 206,
-      "likes": 0,
-      "comments": 0,
-      "url": "https://youtube.com/shorts/_DAzc-V2X2o"
+      "views": 236,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/_DAzc-V2X2o",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 40.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "cmlnxZqwptc": {
       "upload_status": "processed",
@@ -1892,7 +1925,11 @@
       "views": 67,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/cmlnxZqwptc"
+      "url": "https://youtube.com/shorts/cmlnxZqwptc",
+      "avg_view_seconds": 7.0,
+      "avg_view_percent": 22.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "lSMWTUoJceo": {
       "upload_status": "processed",
@@ -1913,7 +1950,7 @@
       "hook": "A cheetah ran 100 metres in 5.95 seconds.",
       "published_at": "2026-10-22T12:10:31Z",
       "privacy": "public",
-      "views": 48,
+      "views": 49,
       "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/lSMWTUoJceo"
@@ -1989,7 +2026,7 @@
       "hook": "This bird hits the water at over 50 miles an hour.",
       "published_at": "2026-10-22T13:50:15Z",
       "privacy": "public",
-      "views": 995,
+      "views": 996,
       "likes": 8,
       "comments": 2,
       "url": "https://youtube.com/shorts/650vI7wznrM"
@@ -2013,7 +2050,7 @@
       "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
       "published_at": "2026-10-22T13:50:30Z",
       "privacy": "public",
-      "views": 73,
+      "views": 79,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/c6f1sIZn_Co"
@@ -2037,9 +2074,9 @@
       "hook": "These alligators are frozen in solid ice. And they're alive.",
       "published_at": "2026-10-22T15:10:38Z",
       "privacy": "public",
-      "views": 79,
+      "views": 97,
       "likes": 5,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Dbv2hy3GKSU"
     },
     "l57MjoYS9NY": {
@@ -2061,7 +2098,7 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 32,
+      "views": 33,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/l57MjoYS9NY"
@@ -2157,8 +2194,8 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 56,
-      "likes": 0,
+      "views": 113,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU"
     },
@@ -2237,7 +2274,7 @@
       "hook": "Scientists filmed a deep-sea creature 150 feet long.",
       "published_at": "2026-10-23T15:10:07Z",
       "privacy": "public",
-      "views": 21,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MJ6FRS8q71M"
@@ -2261,7 +2298,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 24,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0"
@@ -2285,7 +2322,7 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 6,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
@@ -2309,12 +2346,36 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 39,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
     },
     "mmv9b2xQG2A": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT29S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Male Anglerfish Fuse Into the Female's Body and Never Let Go",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "Male anglerfish permanently melt into the female's body.",
+      "published_at": "2026-10-23T18:00:14Z",
+      "privacy": "public",
+      "views": 8,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/mmv9b2xQG2A"
+    },
+    "xf0BF_g7K8o": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -2326,17 +2387,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "Male Anglerfish Fuse Into the Female's Body and Never Let Go",
+      "title": "One Mayfly Lives Less Than 5 Minutes as an Adult. It Can't Even Eat",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-BrianNeural",
-      "hook": "Male anglerfish permanently melt into the female's body.",
-      "published_at": "2026-10-23T17:39:22Z",
+      "hook": "Some adult insects live for less than five minutes.",
+      "published_at": "2026-10-23T19:16:32Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/mmv9b2xQG2A"
+      "url": "https://youtube.com/shorts/xf0BF_g7K8o"
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",
@@ -2445,8 +2506,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 64.6,
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 86.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2500,7 +2561,11 @@
       "views": 2,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/7E64Z48yaAs"
+      "url": "https://youtube.com/shorts/7E64Z48yaAs",
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 28.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "VY98speDz40": {
       "upload_status": "processed",
