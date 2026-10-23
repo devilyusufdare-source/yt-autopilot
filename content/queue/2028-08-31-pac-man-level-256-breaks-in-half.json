@@ -1,0 +1,58 @@
+{
+  "id": "2028-08-31-pac-man-level-256-breaks-in-half",
+  "topic": "games",
+  "title": "Level 256 of Pac-Man Breaks the Game in Half",
+  "scenes": [
+    {
+      "text": "Level 256 of Pac-Man breaks the game in half.",
+      "keywords": "retro arcade machine neon lights"
+    },
+    {
+      "text": "Pac-Man came out in 1980 and it has no ending. It just breaks.",
+      "keywords": "pixel art screen glowing"
+    },
+    {
+      "text": "The game stores your level in one byte, and a byte can only count to 255.",
+      "keywords": "computer code screen"
+    },
+    {
+      "text": "Reach level 256 and the counter overflows back to zero.",
+      "keywords": "digital numbers glitch screen"
+    },
+    {
+      "text": "The fruit routine goes haywire and fills the right half of the screen with garbage.",
+      "keywords": "glitch screen static"
+    },
+    {
+      "text": "There aren't enough dots left to clear it. Pac-Man has no last level, just a glitch.",
+      "keywords": "game controller close up"
+    }
+  ],
+  "description": "Level 256 of Pac-Man breaks the game in half.\nThe level counter is stored in one 8-bit byte. At level 256 it overflows, the fruit-drawing routine runs wild, and the right half of the screen turns to garbage. The level needs 244 dots to clear, but the corrupted side hides most of them, so it can never be finished.\nHave you ever seen the split screen?",
+  "tags": [
+    "Pac-Man",
+    "kill screen",
+    "level 256",
+    "gaming facts",
+    "video game glitch",
+    "retro games",
+    "arcade games",
+    "mind blowing facts",
+    "shorts facts",
+    "game bugs",
+    "8-bit"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#pacman",
+    "#gaming",
+    "#facts"
+  ],
+  "sources": [
+    "https://tcrf.net/Bugs:Pac-Man_(Arcade)",
+    "https://maketecheasier.com/the-legendary-video-game-pac-man-doesnt-actually-have-an-ending-instead-a-single-8-bit-integer-overflow-bug-causes-the-games-internal-counter-to-glitch-out-at-level-256-violently-corrupt/"
+  ],
+  "thumbnail_text": "PAC-MAN HAS NO ENDING",
+  "priority": 6,
+  "first_comment": "What is the best arcade game ever made?"
+}
