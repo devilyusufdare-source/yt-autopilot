@@ -133,7 +133,8 @@ def update_stats(youtube) -> dict:
         ch = youtube.channels().list(part="statistics,snippet", mine=True).execute().get("items", [])
         if ch:
             cst = ch[0].get("statistics", {})
-            channel = {"title": ch[0]["snippet"].get("title"), "subscribers": int(cst.get("subscriberCount", 0)),
+            channel = {"title": ch[0]["snippet"].get("title"), "id": ch[0].get("id"),
+                       "handle": ch[0]["snippet"].get("customUrl"), "subscribers": int(cst.get("subscriberCount", 0)),
                        "channel_views": int(cst.get("viewCount", 0)), "video_count": int(cst.get("videoCount", 0))}
     except Exception as e:  # noqa: BLE001
         print(f"[stats] channel statistics unavailable: {e}")

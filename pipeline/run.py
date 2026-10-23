@@ -282,6 +282,9 @@ def first_comment_text(pkg: dict, cfg) -> str:
             text = lines[-1]
     if not text:
         text = cfg.get("cta.first_comment") or "Which fact should we cover next? 👇"
+    suffix = (cfg.get("cta.first_comment_suffix") or "").strip()   # e.g. a line pointing at the sister channel
+    if suffix and suffix not in text:
+        text = f"{text}\n\n{suffix}"
     return text
 
 
