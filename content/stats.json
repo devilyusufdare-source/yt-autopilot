@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-23T14:46:51+00:00",
+  "updated_at": "2026-10-23T16:22:59+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 52,
     "channel_views": 33265,
-    "video_count": 81
+    "video_count": 83
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/MJ6FRS8q71M",
-      "https://youtube.com/shorts/ATRf5itBVC0"
+      "https://youtube.com/shorts/mCHZ0xPm6SE",
+      "https://youtube.com/shorts/34Pjo1b82WY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/ATRf5itBVC0"
+      "https://youtube.com/shorts/34Pjo1b82WY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/ATRf5itBVC0"
+      "https://youtube.com/shorts/34Pjo1b82WY"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 83,
-  "total_views": 34708,
+  "total_videos": 85,
+  "total_views": 34887,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 36,
-      "avg_views": 462,
+      "videos": 38,
+      "avg_views": 442,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 67,
-      "avg_views": 418,
+      "videos": 69,
+      "avg_views": 409,
       "over_1500": 3
     },
     "punch": {
@@ -149,15 +149,15 @@
     },
     "en-US-GuyNeural": {
       "videos": 4,
-      "avg_views": 31
+      "avg_views": 32
     },
     "en-US-ChristopherNeural": {
       "videos": 4,
-      "avg_views": 6
+      "avg_views": 7
     },
     "en-US-BrianNeural": {
-      "videos": 22,
-      "avg_views": 193
+      "videos": 24,
+      "avg_views": 185
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1474,7 +1474,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 453,
+      "views": 454,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E",
@@ -1670,7 +1670,7 @@
       "hook": "A chameleon's tongue goes zero to sixty in a hundredth of a second.",
       "published_at": "2026-10-21T10:30:33Z",
       "privacy": "public",
-      "views": 33,
+      "views": 34,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/Ai052d7-pp4"
@@ -1746,7 +1746,7 @@
       "hook": "In 1999, a tornado hit 302 miles an hour. The fastest wind ever measured.",
       "published_at": "2026-10-21T13:30:38Z",
       "privacy": "public",
-      "views": 22,
+      "views": 23,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q"
@@ -1818,7 +1818,7 @@
       "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
-      "views": 11,
+      "views": 13,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM"
@@ -1842,8 +1842,8 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 310,
-      "likes": 8,
+      "views": 335,
+      "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/valUZFoPBN4"
     },
@@ -1866,7 +1866,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 142,
+      "views": 206,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o"
@@ -1938,7 +1938,7 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 100,
+      "views": 117,
       "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
@@ -1964,7 +1964,7 @@
       "privacy": "public",
       "views": 6,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/YmsVWnGQ7_k",
       "avg_view_seconds": 55.0,
       "avg_view_percent": 153.4,
@@ -1990,9 +1990,9 @@
       "hook": "This bird hits the water at over 50 miles an hour.",
       "published_at": "2026-10-22T13:50:15Z",
       "privacy": "public",
-      "views": 993,
+      "views": 995,
       "likes": 8,
-      "comments": 1,
+      "comments": 2,
       "url": "https://youtube.com/shorts/650vI7wznrM"
     },
     "c6f1sIZn_Co": {
@@ -2016,7 +2016,7 @@
       "privacy": "public",
       "views": 73,
       "likes": 2,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/c6f1sIZn_Co"
     },
     "Dbv2hy3GKSU": {
@@ -2062,9 +2062,9 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 24,
-      "likes": 2,
-      "comments": 0,
+      "views": 32,
+      "likes": 3,
+      "comments": 1,
       "url": "https://youtube.com/shorts/l57MjoYS9NY"
     },
     "WXZ7kpLm8Bc": {
@@ -2086,9 +2086,9 @@
       "hook": "A vulture hit a passenger jet at 37,000 feet.",
       "published_at": "2026-10-22T16:40:17Z",
       "privacy": "public",
-      "views": 26,
+      "views": 30,
       "likes": 1,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/WXZ7kpLm8Bc"
     },
     "Z-nWJgNZMZM": {
@@ -2158,7 +2158,7 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 47,
+      "views": 56,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU"
@@ -2236,14 +2236,62 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "Scientists filmed a deep-sea creature 150 feet long.",
-      "published_at": "2026-10-23T14:45:07Z",
+      "published_at": "2026-10-23T15:10:07Z",
+      "privacy": "public",
+      "views": 21,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/MJ6FRS8q71M"
+    },
+    "ATRf5itBVC0": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT24S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Fish Survives 4 Years Without Food or Water",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "This fish can survive four years without food or water.",
+      "published_at": "2026-10-23T15:30:19Z",
+      "privacy": "public",
+      "views": 24,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/ATRf5itBVC0"
+    },
+    "mCHZ0xPm6SE": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT25S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Salmon Swims 2,000 Miles Upstream Without Eating",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "This fish swims two thousand miles upstream. And it never eats.",
+      "published_at": "2026-10-23T16:21:20Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/MJ6FRS8q71M"
+      "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
     },
-    "ATRf5itBVC0": {
+    "34Pjo1b82WY": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -2255,17 +2303,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "This Fish Survives 4 Years Without Food or Water",
+      "title": "An Octopus Guarded Her Eggs for 4.5 Years Without Eating",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-BrianNeural",
-      "hook": "This fish can survive four years without food or water.",
-      "published_at": "2026-10-23T14:46:42Z",
+      "hook": "One octopus guarded her eggs for four and a half years.",
+      "published_at": "2026-10-23T16:22:49Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/ATRf5itBVC0"
+      "url": "https://youtube.com/shorts/34Pjo1b82WY"
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",
