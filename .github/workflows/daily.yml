@@ -44,6 +44,10 @@ on:
         description: "Publish immediately instead of scheduling hourly slots"
         type: boolean
         default: false
+      look:
+        description: "Visual style for this run: footage or drawn (empty = channel.yml visuals.style)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -106,6 +110,7 @@ jobs:
           PACKAGE: ${{ inputs.package }}
           COUNT: ${{ inputs.count }}
           NOW: ${{ inputs.publish_now == true && 'true' || 'false' }}
+          VISUAL_STYLE: ${{ inputs.look }}
         run: |
           ARGS=""
           if [ "$NOW" = "true" ]; then ARGS="$ARGS --now"; fi

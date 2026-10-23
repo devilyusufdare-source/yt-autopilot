@@ -122,6 +122,13 @@ topics:
 # so uploads continue even when the idea writer is not running).
 queue_target: 600
 
+# Visual style: "footage" = stock clips (Pixabay/Pexels); "drawn" = one generated ink-and-paper illustration per
+# scene with a slow push-in (consistent hand-made look; 16 Bit Ink-style). Drawings fall back to footage when the
+# image service fails. drawn_style is the fixed style text appended to every scene's keywords.
+visuals:
+  style: footage
+  drawn_style: "hand-drawn ink illustration on cream paper, fine black linework, light watercolor wash, scientific field notebook style, single centered subject, lots of empty paper around it, no text, no letters, no watermark"
+
 video:
   width: 1080
   height: 1920

@@ -11,10 +11,13 @@ duration at the configured size (1080x1920 by default).
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import os
 import random
 import subprocess
+import time
+import urllib.parse
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -26,6 +29,10 @@ PEXELS_SEARCH = "https://api.pexels.com/videos/search"
 PIXABAY_VIDEOS = "https://pixabay.com/api/videos/"
 PIXABAY_PHOTOS = "https://pixabay.com/api/"
 MAX_DOWNLOAD_MB = 80
+DRAW_URL = "https://image.pollinations.ai/prompt/"     # free image generation, no key (visuals.style: drawn)
+DRAW_STYLE = ("hand-drawn ink illustration on cream paper, fine black linework, light watercolor wash, "
+              "scientific field notebook style, single centered subject, lots of empty paper around it, "
+              "no text, no letters, no watermark")
 
 # Generic searches to try when the scene's own keywords return nothing.
 TOPIC_FALLBACK_QUERIES = {
@@ -99,6 +106,12 @@ class Visuals:
         self.pixabay_key = os.environ.get("PIXABAY_API_KEY") or None
         self.pexels_key = cfg.pexels_key
         self.landscape = cfg.width > cfg.height   # long videos are 16:9; Shorts are portrait
+        # Drawn mode: every scene is an illustration generated from its keywords in one fixed style
+        # (instead of stock footage), animated with a slow push-in. VISUAL_STYLE=drawn|footage overrides channel.yml.
+        self.drawn = (os.environ.get("VISUAL_STYLE") or cfg.get("visuals.style") or "footage").lower() == "drawn"
+        self.draw_style = cfg.get("visuals.drawn_style") or DRAW_STYLE
+        self.draw_fail = 0
+        self.drawings: dict[str, Path | None] = {}   # keywords -> picture (sub-clips of a scene share one drawing)
 
     # ------------------------------------------------------------------ providers
     def _pixabay_videos(self, query: str) -> list[Candidate]:
@@ -297,8 +310,68 @@ class Visuals:
             check=True,
         )
 
+    # ------------------------------------------------------------------ drawn mode
+    def _drawing(self, keywords: str) -> Path | None:
+        """One illustration for these keywords (cached per video and on disk). None if the service fails."""
+        if keywords in self.drawings:
+            return self.drawings[keywords]
+        if self.draw_fail >= 3:            # the service is down for this run: stop asking, use footage
+            return None
+        prompt = f"{keywords}, {self.draw_style}"
+        seed = int(hashlib.sha1((self.rng.random().__repr__() + prompt).encode()).hexdigest()[:6], 16)
+        key = hashlib.sha1(f"{prompt}|{seed}|{self.cfg.width}x{self.cfg.height}".encode()).hexdigest()[:16]
+        dst = self.cache / f"draw-{key}.jpg"
+        if not (dst.exists() and dst.stat().st_size > 20_000):
+            url = (DRAW_URL + urllib.parse.quote(prompt) +
+                   f"?width={self.cfg.width}&height={self.cfg.height}&seed={seed}&nologo=true&model=flux&enhance=false")
+            ok = False
+            for attempt in range(2):
+                try:
+                    r = requests.get(url, timeout=120)
+                    if r.status_code == 200 and r.headers.get("content-type", "").startswith("image") and len(r.content) > 20_000:
+                        dst.write_bytes(r.content)
+                        ok = True
+                        break
+                    print(f"[visuals] drawing attempt {attempt + 1} answered {r.status_code} ({r.headers.get('content-type')})")
+                except requests.RequestException as e:
+                    print(f"[visuals] drawing attempt {attempt + 1} failed: {e}")
+                time.sleep(6)
+            if not ok:
+                self.draw_fail += 1
+                self.drawings[keywords] = None
+                return None
+        self.credits.append({"query": keywords, "provider": "drawing", "url": "", "author": ""})
+        self.drawings[keywords] = dst
+        return dst
+
+    def _render_drawing(self, src: Path, duration: float, out: Path, index: int) -> None:
+        """Ken Burns on an illustration: alternate push-in / pull-back with a gentle drift, paper grain, soft vignette."""
+        w, h, fps = self.cfg.width, self.cfg.height, self.cfg.fps
+        d = max(duration, 0.1)
+        z = max(float(self.cfg.get("video.zoom", 0.08)), 0.10)
+        grow = f"(1+{z}*t/{d:.3f})" if index % 2 == 0 else f"(1+{z}*(1-t/{d:.3f}))"
+        drift = ["(iw-ow)/2", "(iw-ow)/2*(1-0.4*t/%.3f)" % d, "(iw-ow)/2*(1+0.4*t/%.3f)" % d][index % 3]
+        vf = (f"scale={w}:{h}:force_original_aspect_ratio=increase,crop={w}:{h},"
+              f"scale=w='trunc(iw*{grow}/2)*2':h='trunc(ih*{grow}/2)*2':eval=frame,crop={w}:{h}:x='{drift}':y='(ih-oh)/2',"
+              f"noise=alls=4:allf=t,vignette=PI/6,fps={fps},format=yuv420p")
+        subprocess.run(
+            ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", str(fps), "-i", str(src), "-t", f"{duration:.3f}",
+             "-vf", vf, "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", str(out)],
+            check=True,
+        )
+
     def scene_clip(self, index: int, keywords: str, duration: float, energetic: bool = False) -> Path:
         out = self.workdir / f"scene{index:02d}.mp4"
+        if self.drawn:
+            pic = self._drawing(keywords)
+            if pic:
+                try:
+                    self._render_drawing(pic, duration, out, index)
+                    return out
+                except subprocess.CalledProcessError as e:
+                    print(f"[visuals] ffmpeg failed on a drawing ({e}); using footage for this scene")
+            else:
+                print("[visuals] no drawing for this scene; using footage")
         found = self._find_source(keywords, duration, energetic=energetic)
         if found:
             src, cand = found
