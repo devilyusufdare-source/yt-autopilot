@@ -7,37 +7,37 @@
   "scenes": [
     {
       "text": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
-      "keywords": "cheetah running slow motion"
+      "keywords": "cheetah running"
     },
     {
       "rank": 5,
       "label": "Pronghorn · 55 mph",
       "text": "Number five: the pronghorn. Fifty-five miles an hour, and it can hold that for miles.",
-      "keywords": "pronghorn antelope running prairie"
+      "keywords": "pronghorn antelope"
     },
     {
       "rank": 4,
       "label": "Cheetah · 70 mph",
       "text": "Number four: the cheetah. Seventy miles an hour, but only for about twenty seconds.",
-      "keywords": "cheetah sprinting savanna"
+      "keywords": "cheetah running fast"
     },
     {
       "rank": 3,
       "label": "Free-tailed bat · 100 mph",
       "text": "Number three: the Mexican free-tailed bat. One hundred miles an hour in level flight, measured by aircraft.",
-      "keywords": "bats flying sky dusk"
+      "keywords": "bat flying"
     },
     {
       "rank": 2,
       "label": "Golden eagle · 200 mph",
       "text": "Number two: the golden eagle. In a hunting dive, close to two hundred miles an hour.",
-      "keywords": "golden eagle diving flying"
+      "keywords": "golden eagle flying"
     },
     {
       "rank": 1,
       "label": "Peregrine falcon · 240 mph",
       "text": "Number one: the peregrine falcon. Two hundred and forty miles an hour in a dive. The fastest animal alive.",
-      "keywords": "peregrine falcon diving sky"
+      "keywords": "peregrine falcon"
     }
   ],
   "description": "The five fastest animals on Earth, ranked by top speed.\nThe cheetah is only number four. Two birds and a bat beat it, and the winner hits 240 mph in a dive.\nWhich one surprised you most?",

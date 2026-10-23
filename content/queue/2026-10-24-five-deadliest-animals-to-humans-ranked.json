@@ -7,37 +7,37 @@
   "scenes": [
     {
       "text": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
-      "keywords": "shark swimming underwater"
+      "keywords": "shark swimming"
     },
     {
       "rank": 5,
       "label": "Crocodiles · ~1,000 a year",
       "text": "Number five: crocodiles. About a thousand people a year, most of them along rivers in Africa.",
-      "keywords": "nile crocodile river bank"
+      "keywords": "crocodile river"
     },
     {
       "rank": 4,
       "label": "Dogs · 59,000 a year",
       "text": "Number four: dogs. Fifty-nine thousand people a year, almost all of them from rabies.",
-      "keywords": "stray dogs street"
+      "keywords": "stray dog street"
     },
     {
       "rank": 3,
       "label": "Snakes · ~100,000 a year",
       "text": "Number three: snakes. Around one hundred thousand people a year, mostly where antivenom is hours away.",
-      "keywords": "cobra snake grass"
+      "keywords": "cobra snake"
     },
     {
       "rank": 2,
       "label": "Humans · ~440,000 a year",
       "text": "Number two: humans. Around four hundred and forty thousand homicides a year, worldwide.",
-      "keywords": "crowd city street people"
+      "keywords": "crowd city street"
     },
     {
       "rank": 1,
       "label": "Mosquitoes · 700,000+ a year",
       "text": "Number one: the mosquito. More than seven hundred thousand people a year, through malaria, dengue and the diseases it carries.",
-      "keywords": "mosquito close up skin"
+      "keywords": "mosquito biting skin"
     }
   ],
   "description": "The five animals that kill the most people each year, ranked by deaths per year.\nSharks kill about five to ten people a year. Crocodiles about a thousand. Dogs 59,000. Snakes around 100,000. Humans around 440,000. Mosquitoes more than 700,000.\nDid you expect number two?",

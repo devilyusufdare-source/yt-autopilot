@@ -39,7 +39,7 @@ on five scenes. Model: `content/queue/2026-10-24-five-fastest-animals-ranked.jso
   hour, and it can hold that for miles." — the name, the number, one memorable detail, 12–18 words. The voice
   says "Number five"; the picture shows a "#5" badge and the `label`.
 - **`label`**: name + the number, under 32 characters: `"Pronghorn · 55 mph"`, `"Glass sponge · 11,000 years"`.
-- **`keywords`**: footage of THAT item; every scene searches its own subject.
+- **`keywords`**: the item's exact common name plus at most one plain action word ("pronghorn antelope", "cheetah running", "peregrine falcon"). Never a word with a second meaning ("diving" finds sea turtles, "bats dusk" finds sunsets). Every scene searches its own subject; a wrong animal under a #2 badge kills trust.
 - **#1 must pay off** the hook; the whole script stays 85–115 words (≤ 55 seconds).
 - **Sources**: at least 2, ideally one per surprising number. Numbers must agree across your sources; when
   sources disagree, say "around" / "about" and use the better source's range.
