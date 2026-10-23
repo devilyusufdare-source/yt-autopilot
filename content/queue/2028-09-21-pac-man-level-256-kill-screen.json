@@ -1,0 +1,58 @@
+{
+  "id": "2028-09-21-pac-man-level-256-kill-screen",
+  "topic": "games",
+  "title": "Pac-Man Breaks at Level 256: Half the Screen Turns to Garbage",
+  "priority": 0,
+  "scenes": [
+    {
+      "text": "Pac-Man breaks at level 256.",
+      "keywords": "arcade machine neon lights"
+    },
+    {
+      "text": "Half the screen turns into scrambled garbage.",
+      "keywords": "glitch screen static"
+    },
+    {
+      "text": "The game stores its level in one byte, which only counts to 255.",
+      "keywords": "computer chip close up"
+    },
+    {
+      "text": "Go one past it and the counter wraps around, and the game tries to draw 256 pieces of fruit.",
+      "keywords": "retro arcade game screen"
+    },
+    {
+      "text": "Hidden dots sit in the garbage, so the level can never be finished.",
+      "keywords": "pixel art screen"
+    },
+    {
+      "text": "A perfect game takes about six hours and ends at 3,333,360 points.",
+      "keywords": "arcade joystick hands"
+    }
+  ],
+  "description": "Pac-Man crashes at level 256, and half the screen fills with garbage.\nThe game stores its level in a single byte that only counts to 255, so the counter wraps around and breaks the fruit drawing.\nCould you play a perfect game for six hours?",
+  "tags": [
+    "pac-man",
+    "pacman kill screen",
+    "level 256",
+    "video game glitch",
+    "arcade games",
+    "retro gaming",
+    "gaming facts",
+    "video game history",
+    "mind blowing facts",
+    "shorts facts",
+    "bugs"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#pacman",
+    "#gaming",
+    "#facts"
+  ],
+  "sources": [
+    "https://arcadeblogger.com/2015/08/23/pac-man-achieving-the-perfect-game/",
+    "https://techraptor.net/content/35-years-pac-man-kill-screen"
+  ],
+  "thumbnail_text": "LEVEL 256 BREAKS PAC-MAN",
+  "first_comment": "Which arcade game did you love most?"
+}
