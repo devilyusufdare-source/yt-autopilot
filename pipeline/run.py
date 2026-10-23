@@ -495,6 +495,8 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
         footage[c["provider"]] = footage.get(c["provider"], 0) + 1
     footage["animated-background"] = len(clips) - len(vis.credits)
     footage["look"] = "drawn" if vis.drawn else "footage"
+    if vis.draw_errors:
+        footage["drawing_errors"] = f"{len(vis.draw_errors)}: " + "; ".join(sorted(set(vis.draw_errors))[:3])[:300]
     return {"video": final, "thumbnail": thumb, "duration": total, "tts_engine": engine, "voice": voice,
             "highlight_color": cfg.get("captions.highlight_color"),
             "words": sum(len(w) for w in words), "footage": footage, "style": style}

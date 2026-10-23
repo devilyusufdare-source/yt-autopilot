@@ -141,6 +141,7 @@ jobs:
           mkdir -p content/previews
           for V in output/*/*.mp4; do
             [ -f "$V" ] || continue
+            case "$(basename "$V")" in visual.mp4|scene*.mp4) continue;; esac
             NAME=$(basename "$(dirname "$V")")
             ffmpeg -y -loglevel error -i "$V" -vf "fps=1/4,scale=360:-2,tile=3x3" -frames:v 1 -q:v 4 "content/previews/${NAME}.jpg"
           done

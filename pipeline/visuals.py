@@ -111,6 +111,7 @@ class Visuals:
         self.drawn = (os.environ.get("VISUAL_STYLE") or cfg.get("visuals.style") or "footage").lower() == "drawn"
         self.draw_style = cfg.get("visuals.drawn_style") or DRAW_STYLE
         self.draw_fail = 0
+        self.draw_errors: list[str] = []
         self.drawings: dict[str, Path | None] = {}   # keywords -> picture (sub-clips of a scene share one drawing)
 
     # ------------------------------------------------------------------ providers
@@ -315,27 +316,32 @@ class Visuals:
         """One illustration for these keywords (cached per video and on disk). None if the service fails."""
         if keywords in self.drawings:
             return self.drawings[keywords]
-        if self.draw_fail >= 3:            # the service is down for this run: stop asking, use footage
+        if self.draw_fail >= 4:            # the service is down for this run: stop asking, use footage
             return None
         prompt = f"{keywords}, {self.draw_style}"
         seed = int(hashlib.sha1((self.rng.random().__repr__() + prompt).encode()).hexdigest()[:6], 16)
-        key = hashlib.sha1(f"{prompt}|{seed}|{self.cfg.width}x{self.cfg.height}".encode()).hexdigest()[:16]
+        # Smaller than the video (fast to generate, allowed for anonymous use); ffmpeg scales it up and the
+        # paper-and-ink style hides the upscaling.
+        gw, gh = (1024, 576) if self.landscape else (576, 1024)
+        key = hashlib.sha1(f"{prompt}|{seed}|{gw}x{gh}".encode()).hexdigest()[:16]
         dst = self.cache / f"draw-{key}.jpg"
         if not (dst.exists() and dst.stat().st_size > 20_000):
-            url = (DRAW_URL + urllib.parse.quote(prompt) +
-                   f"?width={self.cfg.width}&height={self.cfg.height}&seed={seed}&nologo=true&model=flux&enhance=false")
             ok = False
-            for attempt in range(2):
+            for attempt, model in enumerate(("flux", "flux", "turbo")):
+                url = (DRAW_URL + urllib.parse.quote(prompt) +
+                       f"?width={gw}&height={gh}&seed={seed + attempt}&nologo=true&model={model}&enhance=false&safe=true")
                 try:
-                    r = requests.get(url, timeout=120)
+                    r = requests.get(url, timeout=150)
                     if r.status_code == 200 and r.headers.get("content-type", "").startswith("image") and len(r.content) > 20_000:
                         dst.write_bytes(r.content)
                         ok = True
                         break
-                    print(f"[visuals] drawing attempt {attempt + 1} answered {r.status_code} ({r.headers.get('content-type')})")
+                    msg = f"HTTP {r.status_code} {r.headers.get('content-type', '')} {r.text[:80]!r}"
                 except requests.RequestException as e:
-                    print(f"[visuals] drawing attempt {attempt + 1} failed: {e}")
-                time.sleep(6)
+                    msg = f"{type(e).__name__}: {str(e)[:80]}"
+                print(f"[visuals] drawing attempt {attempt + 1} ({model}) failed: {msg}")
+                self.draw_errors.append(msg)
+                time.sleep(8 + 8 * attempt)
             if not ok:
                 self.draw_fail += 1
                 self.drawings[keywords] = None
