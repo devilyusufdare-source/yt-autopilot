@@ -1,23 +1,24 @@
-# Channel 2: Wild Unlocked (animals only). Used when the workflow sets YT_CHANNEL=wild; records live in
+# Channel 2: What If Factz (hypothetical science scenarios: "What if the Moon disappeared?"). Was Wild Unlocked
+# (animals) until 24 Oct; the folder name `wild` and YT_CHANNEL=wild stay for the workflows. Records live in
 # channels/wild/content/. Same pipeline, own queue, own release rhythm, own YouTube key (the *_2 secrets).
 # ---------------------------------------------------------------------------
 # Channel settings. Edit freely; the daily job reads this file every run.
 # ---------------------------------------------------------------------------
 
 channel:
-  name: "Wild Unlocked"            # small label shown at the top of every video
+  name: "What If Factz"            # small label shown at the top of every video
   niche: >
-    Mind-blowing, verified facts about psychology, the human body, space,
-    science, history and animals — told as 30-50 second Shorts with a strong
-    hook in the first 2 seconds.
+    "What if" scenarios answered with real science: what would actually happen
+    if the Moon vanished, if you never slept, if Earth stopped spinning — told
+    as 35-55 second Shorts, one scenario each, grounded in verified sources.
   language: "en"                   # BCP-47 language of the voice/captions
   default_category_id: "27"        # 27 Education | 28 Science & Tech | 24 Entertainment | 22 People & Blogs
   privacy: "public"                # public | unlisted | private  (read README: "Why are my uploads private?")
   made_for_kids: false
   title_suffix: ""                 # e.g. " #Shorts" — appended to every title
   description_footer: |
-    Follow for a new animal fact every day.
-    Space, science, history and more on our main channel, Mind Unlocked Facts: https://www.youtube.com/@mindunlockedfacts123
+    Follow for a new "what if" every day, answered with real science.
+    Rankings and facts on our main channel, Mind Unlocked Facts: https://www.youtube.com/channel/UCRYbLH8KGHKxCZv6nYiuCXw
     Stock footage: Pixabay / Pexels.
 
 # How videos are released. The job runs every 2 hours (see .github/workflows/daily.yml) and
@@ -42,9 +43,7 @@ release:
                                    # an upload costs 1,600), which allows at most ~5 uploads a day. Before going past 5,
                                    # request a quota increase for the wild-unlocked project (YouTube API quota extension form).
   shorts_slots: ["07:45", "19:00", "22:00", "02:30"]
-  # Ranking channel (24 Oct): 3 of every 4 videos are "5 ___, ranked" countdowns (format: ranking in the package),
-  # 1 is a single-animal fact, so the two formats can be compared inside the same channel after a week.
-  format_mix: { ranking: 3, fact: 1 }
+  # 24 Oct: every video is a "what if" scenario (format: whatif in the package); no mix needed.
   longform_slots: ["06:30"]        # used only while longform.enabled is true
   daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
   probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it
@@ -65,9 +64,13 @@ facebook:
 # uploads as mass-produced). Each topic gets its own caption colour, voice and motion; anything not
 # listed falls back to `default`. Voices: any en-US-*Neural edge-tts voice.
 looks:
-  default:    { highlight_color: "#86EFAC", voice: "en-US-BrianNeural",  zoom: 0.10 }
-  space:      { highlight_color: "#7DD3FC", voice: "en-US-AndrewNeural", zoom: 0.06 }
-  animals:    { highlight_color: "#86EFAC", voice: "en-US-BrianNeural",  zoom: 0.10 }
+  # What If Factz: one voice for the whole channel (a narrator people recognise), violet-yellow brand colours.
+  default:    { highlight_color: "#FACC15", voice: "en-US-AndrewNeural", zoom: 0.08 }
+  space:      { highlight_color: "#C4B5FD", voice: "en-US-AndrewNeural", zoom: 0.06 }
+  earth:      { highlight_color: "#86EFAC", voice: "en-US-AndrewNeural", zoom: 0.08 }
+  body:       { highlight_color: "#FDA4AF", voice: "en-US-AndrewNeural", zoom: 0.09 }
+  society:    { highlight_color: "#FACC15", voice: "en-US-AndrewNeural", zoom: 0.08 }
+  animals:    { highlight_color: "#86EFAC", voice: "en-US-AndrewNeural", zoom: 0.10 }
   science:    { highlight_color: "#FFD400", voice: "en-US-GuyNeural",    zoom: 0.08 }
   human body: { highlight_color: "#FDA4AF", voice: "en-US-AvaNeural",    zoom: 0.09 }
   history:    { highlight_color: "#FCD34D", voice: "en-US-ChristopherNeural", zoom: 0.07 }
@@ -119,7 +122,12 @@ longform:
 
 # Sub-topics the idea generator rotates through (it avoids repeating the last few).
 topics:
-  - animals
+  - space            # the Moon vanishes, the Sun goes out, Earth stops spinning, a day on Venus
+  - earth            # all ice melts, oceans drain, no more oxygen, a supervolcano
+  - body             # you never sleep, you only drink coffee, you stop blinking, you lived on Mars
+  - society          # money disappears, everyone jumped at once, the internet stopped for a week
+  - technology       # GPS stops, all phones die, a solar storm hits, AI stops working
+  - animals          # mosquitoes go extinct, sharks vanish, whales were never hunted
 
 # The idea generator keeps this many ready-to-render ideas waiting in content/queue (600 = two months in stock,
 # so uploads continue even when the idea writer is not running).
@@ -178,11 +186,11 @@ music:
 
 cta:
   spoken: true                     # used by the "classic" style only
-  text: "Follow for a new animal fact every day."
+  text: "Follow for a new what-if every day."
   end_text: "Follow for more"      # small label in the last second of a "punch" style video
   first_comment_enabled: true      # channel 2's key has the comment permission
-  first_comment_suffix: "More like this every day here. Space, science and history: Mind Unlocked Facts https://www.youtube.com/@mindunlockedfacts123"
-  first_comment: "Which fact should we cover next? 👇"   # fallback when an idea has no question of its own
+  first_comment_suffix: "Rankings and facts every day on our main channel, Mind Unlocked Facts: https://www.youtube.com/channel/UCRYbLH8KGHKxCZv6nYiuCXw"
+  first_comment: "What should we run through next? Drop a 'what if' 👇"   # fallback when an idea has no question of its own
 
 # A/B test of the two video styles (see pipeline/run.py build_video): classic = word-by-word
 # captions from the first word + spoken call-to-action; punch = full hook sentence on screen for

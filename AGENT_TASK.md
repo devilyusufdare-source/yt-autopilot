@@ -4,41 +4,70 @@ You are the writers' room for this YouTube Shorts channel. The rendering and upl
 automatic (GitHub Actions, several times a day, oldest idea first). Your only job is to keep
 `content/queue/` stocked with excellent, **verified**, ready-to-render ideas.
 
-## Two channels, two queues (since 23 Oct)
+## Two channels, two queues (since 23 Oct; formats changed 24 Oct)
 
-The repository runs two channels. **Channel 1** (Mind Unlocked Facts): `channel.yml`, `content/queue/`,
-all topics, `queue_target` 600. **Channel 2** (Wild Unlocked): `channels/wild/channel.yml`,
-`channels/wild/content/queue/`, **animals only, mostly rankings (see the next section)**, its `queue_target` is in its own channel.yml. Every
-run: top up channel 1 first, then channel 2 with animal ideas written to the same rules (a fact goes in
-one queue only; check both queues and both `content/published/` folders before writing).
+The repository runs two channels.
 
-## Wild Unlocked is a ranking channel (since 24 Oct)
+**Channel 1 — Mind Unlocked Facts** (`channel.yml`, `content/queue/`, all topics) is the **ranking channel**:
+10 Shorts a day, **9 rankings + 1 single fact** (`release.format_mix`, enforced by the picker). The single facts
+are already stocked (450+ in the queue), so **for channel 1 write only ranking packages** (`"format": "ranking"`),
+until the queue holds **540 ranking files** (count only files whose `format` is `ranking`; ignore the facts when
+deciding whether channel 1 is full).
 
-Channel 2 now runs **3 ranking videos for every 1 single-animal fact** (`release.format_mix` in
-`channels/wild/channel.yml`; the picker enforces the mix). So of every 4 new Wild ideas, write 3 rankings.
-A ranking package is the normal schema plus `"format": "ranking"`, `"ranking_by": "<one metric>"`, and
-`rank` + `label` on five scenes. Model: `channels/wild/content/queue/2026-10-24-five-fastest-animals-ranked.json`.
+**Channel 2 — What If Factz** (`channels/wild/channel.yml`, `channels/wild/content/queue/`; the folder is still
+called `wild`) is the **"what if" channel**: every video is one hypothetical scenario answered with real science
+(`"format": "whatif"`). Its `queue_target` is 600 what-if files. It was Wild Unlocked (animals) until 24 Oct; the
+old animal ideas sit in `channels/wild/content/parked/` — never re-create them.
 
-Rules for a ranking:
-- **One measurable metric** (top speed, verified age, bite force in PSI, deaths per year, body mass, dive depth,
-  lifespan, brain size, migration distance, decibels, venom LD50…). Never "coolest", "scariest", "best".
+Every run: top up whichever channel is further from its target, alternating so both grow. An idea goes in one
+queue only; check both queues, both `content/published/` folders and `channels/wild/content/parked/` before writing.
+
+## Ranking packages (channel 1)
+
+A ranking is the normal schema plus `"format": "ranking"`, `"ranking_by": "<one metric>"`, and `rank` + `label`
+on five scenes. Model: `content/queue/2026-10-24-five-fastest-animals-ranked.json`.
+
+- **One measurable metric** (top speed, verified age, size, mass, depth, height, distance, cost, deaths per year,
+  decibels, temperature, number sold, years in use…). Never "coolest", "scariest", "best".
+- **Spread across the channel's topics**: space ("5 biggest things in the universe"), human body ("5 strongest
+  muscles"), science, history ("5 longest-reigning rulers"), animals, technology ("5 fastest machines ever
+  built"), games ("5 best-selling games ever"), internet ("5 most-viewed videos ever"). No topic more than 2 rankings
+  in a row; no metric repeated within the queue or the published records.
 - **Scene 1 = hook**, no rank: name the list and open a gap ("The cheetah doesn't even come close to number one.",
   "Number one was alive before the pyramids.", "Sharks don't make the list."). Under 18 words.
 - **Scenes 2–6 = ranks 5, 4, 3, 2, 1 in that order.** Each: "Number five: the pronghorn. Fifty-five miles an
   hour, and it can hold that for miles." — the name, the number, one memorable detail, 12–18 words. The voice
   says "Number five"; the picture shows a "#5" badge and the `label`.
 - **`label`**: name + the number, under 32 characters: `"Pronghorn · 55 mph"`, `"Glass sponge · 11,000 years"`.
-- **`keywords`**: footage of THAT animal (the channel is back on real footage; every scene searches its own animal).
-- **#1 must pay off** the hook, and the whole script stays 85–115 words (≤ 55 seconds).
-- **Sources**: at least 2, ideally one per surprising number. Numbers must match across your sources; when
-  sources disagree, say "around" / "about" and use the range the better source gives.
+- **`keywords`**: footage of THAT item; every scene searches its own subject.
+- **#1 must pay off** the hook; the whole script stays 85–115 words (≤ 55 seconds).
+- **Sources**: at least 2, ideally one per surprising number. Numbers must agree across your sources; when
+  sources disagree, say "around" / "about" and use the better source's range.
 - **Description** ends with a question about the ranking; the full list is appended automatically.
   `first_comment`: ask which they'd put at #1 and what to rank next.
-- `thumbnail_text`: "5 FASTEST ANIMALS, RANKED" style, under 30 characters.
-- Do not repeat a metric that is already in the queue or published; vary: speed, age, size, strength, senses,
-  babies, migrations, sleep, intelligence, sounds.
+- `thumbnail_text`: "5 FASTEST ANIMALS, RANKED" style, under 30 characters. `priority` 5–8 when #1 is a real
+  surprise.
 
-The 1-in-4 single-fact Wild ideas follow the ordinary rules below.
+## What-if packages (channel 2)
+
+A what-if is the normal schema plus `"format": "whatif"`. Models: `channels/wild/content/queue/2026-10-24-what-if-*.json`.
+
+- **One scenario per video**, phrased as a question people have actually wondered: the Moon disappears, Earth
+  stops spinning, you never sleep, all ice melts, the Sun goes out, mosquitoes go extinct, everyone jumps at once,
+  you fall into a black hole, the internet stops for a week, you only drank coffee, humans had wings, money vanished.
+- **Real science only.** Every consequence must be grounded in published science (NASA, universities, journals,
+  WHO, USGS, major encyclopaedias) with the URLs in `sources` (at least 2). No consequence you cannot source; say
+  "about" / "roughly" for estimates. No gore, no named private people, no medical or financial advice.
+- **Scene 1 = hook**: the question plus one twist line, under 18 words ("What if the Moon vanished tonight? The
+  first thing you'd notice isn't the dark.").
+- **Scenes 2–5 = the chain of consequences**, each a concrete physical effect with a number or a time marker
+  ("Within a day…", "After a week…", "In a thousand years…"), 12–20 words, in the order they would happen.
+- **Scene 6 = the ending**: the biggest consequence, or the twist that reframes the question. 80–115 words total.
+- `topic` from the channel's list: space, earth, body, society, technology, animals. Rotate; no topic twice in a row.
+- `keywords`: concrete footage for each scene (planet from space, melting glacier, crowd, hospital, frozen sea…).
+- `title`: "What If …?" (keep the question form). `thumbnail_text`: "WHAT IF THE MOON VANISHED?" style, under
+  34 characters. Description: 2–3 lines, ends with "What should we run through next?". `first_comment`: a
+  question that invites their own what-if. `priority` 5–8 for scenarios with a famous question and a surprising answer.
 
 ## Steps
 
@@ -58,9 +87,10 @@ The 1-in-4 single-fact Wild ideas follow the ordinary rules below.
    - `content/failed/*.json` → read the `_error` field; do not repeat those mistakes.
    - `content/sold/*.json` → ideas moved into a product that is sold (Fact Vault); treat them as used
      (never re-create them or anything like them).
-3. **Count the queues.** If `content/queue/` already holds `queue_target` or more valid files AND
-   `channels/wild/content/queue/` holds its own `queue_target` (channels/wild/channel.yml), stop and
-   report "queue full". Otherwise write new files until each holds its target (channel 1 first).
+3. **Count the queues.** Channel 1 is full when `content/queue/` holds 540 or more files with
+   `"format": "ranking"` (the single facts there do not count). Channel 2 is full when
+   `channels/wild/content/queue/` holds its `queue_target` (600) what-if files. If both are full, stop and
+   report "queues full". Otherwise write for the channel further from its target, alternating so both grow.
 4. **For every new idea:**
    - Pick the topic (rotate through `topics`, avoiding the last 2 used in queue + published).
    - Find a genuinely surprising, specific, TRUE fact. Use web search. Confirm it in at least two

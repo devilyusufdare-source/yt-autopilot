@@ -14,8 +14,8 @@ channel:
   made_for_kids: false
   title_suffix: ""                 # e.g. " #Shorts" — appended to every title
   description_footer: |
-    Follow for a new mind-blowing fact every day.
-    Animals only? Our second channel, Wild Unlocked: https://www.youtube.com/@wildunlockedfacts
+    Follow for a new ranking every day.
+    "What would really happen if…?" Our second channel, What If Factz: https://www.youtube.com/channel/UCL0SMowAuRlVgewaLekCsRA
     Stock footage: Pixabay / Pexels.
 
 # How videos are released. The job runs every 2 hours (see .github/workflows/daily.yml) and
@@ -31,6 +31,9 @@ channel:
 release:
   videos_per_run: 1                # one video per run; the workflow runs once before each release time
   interval_minutes: 60             # minimum spacing between two releases
+  # 24 Oct: Mind Unlocked is the ranking channel. 9 of every 10 videos are "5 ___, ranked" countdowns
+  # (format: ranking in the package, see AGENT_TASK.md), 1 is a single fact. The picker enforces the mix.
+  format_mix: { ranking: 9, fact: 1 }
   # 10 Shorts a day (the owner's decision, 21 Oct). The 7:45 AM IST slot (US evening) is the one that kept
   # getting views during the 19-21 Oct collapse, so it replaces the 4 PM slot (India afternoon = US night).
   # Optional throttles, both off: `videos_per_day: N` caps uploads below YouTube's limit, `only_topics: [...]`
@@ -178,7 +181,7 @@ cta:
   text: "Follow for a new fact every day."
   end_text: "Follow for more"      # small label in the last second of a "punch" style video
   first_comment_enabled: true      # posts once the key has the comment permission (re-authorize; until then it is skipped with a note)
-  first_comment_suffix: "Animals only? Our second channel, Wild Unlocked: https://www.youtube.com/@wildunlockedfacts"
+  first_comment_suffix: "What would really happen if…? Our second channel, What If Factz: https://www.youtube.com/channel/UCL0SMowAuRlVgewaLekCsRA"
   first_comment: "Which fact should we cover next? 👇"   # fallback when an idea has no question of its own
 
 # A/B test of the two video styles (see pipeline/run.py build_video): classic = word-by-word
