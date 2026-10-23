@@ -109,6 +109,7 @@ class Visuals:
         # Drawn mode: every scene is an illustration generated from its keywords in one fixed style
         # (instead of stock footage), animated with a slow push-in. VISUAL_STYLE=drawn|footage overrides channel.yml.
         self.drawn = (os.environ.get("VISUAL_STYLE") or cfg.get("visuals.style") or "footage").lower() == "drawn"
+        self.draw_engine = (os.environ.get("DRAW_ENGINE") or cfg.get("visuals.draw_engine") or "local").lower()
         self.draw_style = cfg.get("visuals.drawn_style") or DRAW_STYLE
         self.draw_fail = 0
         self.draw_errors: list[str] = []
@@ -325,6 +326,22 @@ class Visuals:
         gw, gh = (1024, 576) if self.landscape else (576, 1024)
         key = hashlib.sha1(f"{prompt}|{seed}|{gw}x{gh}".encode()).hexdigest()[:16]
         dst = self.cache / f"draw-{key}.jpg"
+        if not (dst.exists() and dst.stat().st_size > 20_000) and self.draw_engine == "local":
+            # On this machine: Stable Diffusion Turbo on the CPU (pipeline/draw.py). No limits, ~15-40 s a picture.
+            try:
+                from . import draw as drawmod
+                if not drawmod.available():
+                    raise RuntimeError("diffusers/torch not installed (pip install -r requirements-draw.txt)")
+                t0 = time.time()
+                drawmod.draw(prompt, dst, width=(1024 if self.landscape else 512), height=(576 if self.landscape else 896), seed=seed)
+                print(f"[visuals] drew '{keywords[:40]}' in {time.time() - t0:.0f}s")
+            except Exception as e:  # noqa: BLE001
+                msg = f"local: {type(e).__name__}: {str(e)[:120]}"
+                print(f"[visuals] {msg}")
+                self.draw_errors.append(msg)
+                self.draw_fail += 1
+                self.drawings[keywords] = None
+                return None
         if not (dst.exists() and dst.stat().st_size > 20_000):
             ok = False
             for attempt, model in enumerate(("flux", "flux", "turbo")):

@@ -1,0 +1,7 @@
+# Local illustration engine for the "drawn" visual style (CPU). Installed by the workflows with:
+#   pip install -r requirements-draw.txt --extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.3
+diffusers>=0.30
+transformers>=4.44
+accelerate>=0.33
+safetensors>=0.4
