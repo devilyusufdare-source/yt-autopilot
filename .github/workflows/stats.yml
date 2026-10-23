@@ -36,10 +36,15 @@ jobs:
       - name: Refresh content/stats.json
         env:
           YT_CHANNEL: ${{ inputs.channel }}
-          YT_CLIENT_ID: ${{ inputs.channel == 'wild' && secrets.YT_CLIENT_ID_2 || secrets.YT_CLIENT_ID }}
-          YT_CLIENT_SECRET: ${{ inputs.channel == 'wild' && secrets.YT_CLIENT_SECRET_2 || secrets.YT_CLIENT_SECRET }}
-          YT_REFRESH_TOKEN: ${{ inputs.channel == 'wild' && secrets.YT_REFRESH_TOKEN_2 || secrets.YT_REFRESH_TOKEN }}
-        run: python -m pipeline.stats
+          YT_CLIENT_ID: ${{ inputs.channel == 'wild' && secrets.YT_CLIENT_ID_2 || (inputs.channel == '' && secrets.YT_CLIENT_ID) || '' }}
+          YT_CLIENT_SECRET: ${{ inputs.channel == 'wild' && secrets.YT_CLIENT_SECRET_2 || (inputs.channel == '' && secrets.YT_CLIENT_SECRET) || '' }}
+          YT_REFRESH_TOKEN: ${{ inputs.channel == 'wild' && secrets.YT_REFRESH_TOKEN_2 || (inputs.channel == '' && secrets.YT_REFRESH_TOKEN) || '' }}
+        run: |
+          if [ -z "$YT_CLIENT_ID" ] || [ -z "$YT_REFRESH_TOKEN" ]; then
+            echo "::error::the YouTube key for channel '${YT_CHANNEL:-main}' is not set (secrets YT_CLIENT_ID${YT_CHANNEL:+_2} / YT_REFRESH_TOKEN${YT_CHANNEL:+_2})"
+            exit 1
+          fi
+          python -m pipeline.stats
       - name: Commit
         run: |
           git config user.name "yt-autopilot"

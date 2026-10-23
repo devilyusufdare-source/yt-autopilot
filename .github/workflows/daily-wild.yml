@@ -99,6 +99,10 @@ jobs:
           COUNT: ${{ inputs.count }}
           NOW: ${{ inputs.publish_now == true && 'true' || 'false' }}
         run: |
+          if [ -z "$YT_CLIENT_ID" ] || [ -z "$YT_REFRESH_TOKEN" ]; then
+            echo "::error::channel 2 key missing: add the secrets YT_CLIENT_ID_2, YT_CLIENT_SECRET_2, YT_REFRESH_TOKEN_2"
+            exit 1
+          fi
           ARGS=""
           if [ "$NOW" = "true" ]; then ARGS="$ARGS --now"; fi
           if [ "$DRY_RUN" = "true" ]; then ARGS="$ARGS --dry-run"; fi
