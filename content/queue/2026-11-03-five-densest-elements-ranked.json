@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-03-five-densest-elements-ranked",
+  "format": "ranking",
+  "ranking_by": "density",
+  "topic": "science",
+  "title": "The 5 Densest Elements on Earth, Ranked (#1 Is Twice as Heavy as Lead)",
+  "scenes": [
+    {
+      "text": "The five densest elements on Earth, ranked. Number one isn't gold, and it isn't lead.",
+      "keywords": "metal bars heavy"
+    },
+    {
+      "rank": 5,
+      "label": "Gold · 19.3 g/cm³",
+      "text": "Number five: gold. A one-liter bottle of it would weigh over nineteen kilograms.",
+      "keywords": "gold bars"
+    },
+    {
+      "rank": 4,
+      "label": "Rhenium · 21 g/cm³",
+      "text": "Number four: rhenium, a rare metal in jet engine parts. A liter of it weighs about twenty-one kilograms.",
+      "keywords": "jet engine turbine"
+    },
+    {
+      "rank": 3,
+      "label": "Platinum · 21.5 g/cm³",
+      "text": "Number three: platinum. A liter weighs about twenty-one and a half kilograms.",
+      "keywords": "platinum jewelry"
+    },
+    {
+      "rank": 2,
+      "label": "Iridium · 22.56 g/cm³",
+      "text": "Number two: iridium. Just a hair lighter than number one, and it barely corrodes.",
+      "keywords": "metal ingot"
+    },
+    {
+      "rank": 1,
+      "label": "Osmium · 22.59 g/cm³",
+      "text": "Number one: osmium. A liter of it weighs about twenty-two and a half kilograms, twice as dense as lead.",
+      "keywords": "osmium metal"
+    }
+  ],
+  "description": "The five densest elements on Earth, ranked.\nGold barely makes the list. The winner, osmium, packs about twice as much weight into the same space as lead.\nWhich one surprised you most?",
+  "tags": [
+    "densest element",
+    "osmium",
+    "iridium",
+    "densest metal",
+    "heaviest metal",
+    "chemistry facts",
+    "science rankings",
+    "top 5 elements",
+    "periodic table",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#chemistry",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.samaterials.com/blog/top-5-densest-materials-on-earth.html",
+    "https://www.amazemet.com/heaviest-metals-on-earth"
+  ],
+  "thumbnail_text": "5 DENSEST ELEMENTS, RANKED",
+  "priority": 5,
+  "first_comment": "Did you guess osmium? And what should we rank next?"
+}

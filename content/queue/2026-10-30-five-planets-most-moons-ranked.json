@@ -1,0 +1,69 @@
+{
+  "id": "2026-10-30-five-planets-most-moons-ranked",
+  "format": "ranking",
+  "ranking_by": "number of known moons",
+  "topic": "space",
+  "title": "The 5 Planets With the Most Moons, Ranked (Jupiter Isn't #1)",
+  "scenes": [
+    {
+      "text": "The five planets with the most moons, ranked. Jupiter doesn't win.",
+      "keywords": "jupiter planet"
+    },
+    {
+      "rank": 5,
+      "label": "Mars · 2 moons",
+      "text": "Number five: Mars. Only two moons, Phobos and Deimos, and both look like lumpy potatoes.",
+      "keywords": "mars planet"
+    },
+    {
+      "rank": 4,
+      "label": "Neptune · 16 moons",
+      "text": "Number four: Neptune. Sixteen known moons, and the biggest, Triton, orbits backward.",
+      "keywords": "neptune planet"
+    },
+    {
+      "rank": 3,
+      "label": "Uranus · 29 moons",
+      "text": "Number three: Uranus. Twenty-nine known moons, many named after Shakespeare characters.",
+      "keywords": "uranus planet"
+    },
+    {
+      "rank": 2,
+      "label": "Jupiter · 90+ moons",
+      "text": "Number two: Jupiter. More than ninety moons, including Ganymede, which is bigger than the planet Mercury.",
+      "keywords": "jupiter moons"
+    },
+    {
+      "rank": 1,
+      "label": "Saturn · 270+ moons",
+      "text": "Number one: Saturn. More than two hundred seventy moons, and astronomers keep finding more.",
+      "keywords": "saturn rings"
+    }
+  ],
+  "description": "The five planets with the most known moons, ranked.\nJupiter has more than ninety, but Saturn has more than two hundred seventy, and astronomers keep finding more.\nWhich planet's moons would you most want to visit?",
+  "tags": [
+    "planets with most moons",
+    "saturn moons",
+    "jupiter moons",
+    "how many moons",
+    "solar system facts",
+    "space rankings",
+    "top 5 planets",
+    "space facts",
+    "astronomy",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#planets",
+    "#ranking"
+  ],
+  "sources": [
+    "https://spaceplace.nasa.gov/how-many-moons",
+    "https://skyandtelescope.org/astronomy-news/a-guide-to-planetary-satellites/"
+  ],
+  "thumbnail_text": "5 PLANETS, MOST MOONS",
+  "priority": 6,
+  "first_comment": "Which planet's moon would you visit first? And what should we rank next?"
+}

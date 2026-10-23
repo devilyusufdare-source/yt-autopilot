@@ -1,0 +1,56 @@
+{
+  "id": "2026-11-02-what-if-every-satellite-switched-off",
+  "format": "whatif",
+  "topic": "technology",
+  "title": "What If Every Satellite Switched Off Today?",
+  "scenes": [
+    {
+      "text": "What if every satellite switched off today? The first thing to fail wouldn't be your map.",
+      "keywords": "satellite orbiting earth"
+    },
+    {
+      "text": "It would be time itself. Navigation satellites carry the precise clocks that phone networks, power grids and bank systems rely on.",
+      "keywords": "atomic clock"
+    },
+    {
+      "text": "Right away, ATMs would stop dispensing cash, stock trading would halt, and mobile networks would start to fail.",
+      "keywords": "atm cash machine"
+    },
+    {
+      "text": "Planes couldn't navigate, so air travel would become impossible. Power grids that use satellite clocks would lose precision.",
+      "keywords": "airplane cockpit"
+    },
+    {
+      "text": "Weather forecasts would stop, live TV broadcasts would end, and rescue teams would lose their view of floods and fires.",
+      "keywords": "weather satellite storm"
+    },
+    {
+      "text": "GPS isn't about maps, it's about time. And there is no backup system ready to replace it.",
+      "keywords": "gps map phone"
+    }
+  ],
+  "description": "What if every satellite switched off today?\nCash machines, stock trading, planes, phone networks and weather forecasts all depend on satellite clocks and signals.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "what if satellites stopped",
+    "gps",
+    "satellites",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#technology",
+    "#satellites"
+  ],
+  "sources": [
+    "https://www.dlr.de/en/latest/news/2021/02/20210611_a-new-animation-shows-a-day-without-space",
+    "https://www.nextgov.com/digital-government/2016/06/theres-no-backup-system-if-gps-fails/129044/"
+  ],
+  "thumbnail_text": "WHAT IF SATELLITES SHUT OFF?",
+  "priority": 6,
+  "first_comment": "What should we run through next? Drop a 'what if' below."
+}

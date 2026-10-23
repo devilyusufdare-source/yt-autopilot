@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-01-five-tallest-buildings-ranked",
+  "format": "ranking",
+  "ranking_by": "height",
+  "topic": "technology",
+  "title": "The 5 Tallest Buildings on Earth, Ranked (#1 Is 828 Meters High)",
+  "scenes": [
+    {
+      "text": "The five tallest buildings on Earth, ranked. Number one is taller than two Eiffel Towers stacked.",
+      "keywords": "skyscraper skyline"
+    },
+    {
+      "rank": 5,
+      "label": "Ping An Center · 599 m",
+      "text": "Number five: the Ping An Finance Center in Shenzhen. Five hundred ninety-nine meters of steel and glass.",
+      "keywords": "shenzhen skyscraper"
+    },
+    {
+      "rank": 4,
+      "label": "Makkah Clock Tower · 601 m",
+      "text": "Number four: the Makkah Royal Clock Tower in Mecca. Six hundred and one meters, just two taller than number five.",
+      "keywords": "mecca clock tower"
+    },
+    {
+      "rank": 3,
+      "label": "Shanghai Tower · 632 m",
+      "text": "Number three: the Shanghai Tower. Six hundred thirty-two meters, and it twists as it rises.",
+      "keywords": "shanghai tower"
+    },
+    {
+      "rank": 2,
+      "label": "Merdeka 118 · 679 m",
+      "text": "Number two: Merdeka 118 in Kuala Lumpur. Six hundred seventy-nine meters, the newest giant on this list.",
+      "keywords": "kuala lumpur skyscraper"
+    },
+    {
+      "rank": 1,
+      "label": "Burj Khalifa · 828 m",
+      "text": "Number one: the Burj Khalifa in Dubai. Eight hundred twenty-eight meters, the tallest building on Earth since 2010.",
+      "keywords": "burj khalifa dubai"
+    }
+  ],
+  "description": "The five tallest buildings on Earth, ranked by height.\nNumber five and number four are only two meters apart, but number one towers over all of them at 828 meters.\nWould you go to the top floor?",
+  "tags": [
+    "tallest buildings in the world",
+    "burj khalifa",
+    "merdeka 118",
+    "shanghai tower",
+    "skyscrapers",
+    "engineering facts",
+    "technology rankings",
+    "top 5 buildings",
+    "architecture facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#technology",
+    "#skyscrapers",
+    "#ranking"
+  ],
+  "sources": [
+    "https://interestingengineering.com/innovation/7-tallest-buildings-in-world",
+    "https://www.allplan.com/blog/10-highest-buildings/"
+  ],
+  "thumbnail_text": "5 TALLEST BUILDINGS, RANKED",
+  "priority": 0,
+  "first_comment": "Would you go to the top floor of number one? And what should we rank next?"
+}

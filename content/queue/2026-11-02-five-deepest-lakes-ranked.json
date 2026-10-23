@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-02-five-deepest-lakes-ranked",
+  "format": "ranking",
+  "ranking_by": "maximum depth",
+  "topic": "science",
+  "title": "The 5 Deepest Lakes on Earth, Ranked (#4 Is Hidden Under Ice)",
+  "scenes": [
+    {
+      "text": "The five deepest lakes on Earth, ranked. One of them is buried under miles of ice.",
+      "keywords": "deep blue lake"
+    },
+    {
+      "rank": 5,
+      "label": "O'Higgins-San Martin · 836 m",
+      "text": "Number five: Lake O'Higgins San Martin, shared by Chile and Argentina. Eight hundred thirty-six meters deep.",
+      "keywords": "patagonia glacier lake"
+    },
+    {
+      "rank": 4,
+      "label": "Lake Vostok · 900 m+",
+      "text": "Number four: Lake Vostok, hidden under more than two miles of Antarctic ice. At least nine hundred meters deep.",
+      "keywords": "antarctica ice sheet"
+    },
+    {
+      "rank": 3,
+      "label": "Caspian Sea · 1,025 m",
+      "text": "Number three: the Caspian Sea. It's called a sea, but it's a lake, a thousand and twenty-five meters deep.",
+      "keywords": "caspian sea"
+    },
+    {
+      "rank": 2,
+      "label": "Tanganyika · 1,470 m",
+      "text": "Number two: Lake Tanganyika, the deepest lake in Africa. About fourteen hundred seventy meters down.",
+      "keywords": "lake tanganyika africa"
+    },
+    {
+      "rank": 1,
+      "label": "Baikal · 1,640 m",
+      "text": "Number one: Lake Baikal in Russia. About sixteen hundred forty meters deep, holding a fifth of the planet's unfrozen fresh water.",
+      "keywords": "lake baikal"
+    }
+  ],
+  "description": "The five deepest lakes on Earth, ranked by maximum depth.\nOne is buried under miles of Antarctic ice, and number one holds about a fifth of the planet's unfrozen surface fresh water.\nWhich lake would you most want to see?",
+  "tags": [
+    "deepest lakes in the world",
+    "lake baikal",
+    "lake vostok",
+    "lake tanganyika",
+    "caspian sea",
+    "earth facts",
+    "science rankings",
+    "top 5 lakes",
+    "geography facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#lakes",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.worldatlas.com/lakes/the-10-deepest-lakes-in-the-world.html",
+    "https://www.nps.gov/crla/planyourvisit/upload/World-s-Deepest-Lakes-2017-508.pdf"
+  ],
+  "thumbnail_text": "5 DEEPEST LAKES, RANKED",
+  "priority": 5,
+  "first_comment": "Which lake would you dive into first? And what should we rank next?"
+}
