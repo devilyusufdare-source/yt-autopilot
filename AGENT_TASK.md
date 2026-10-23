@@ -171,6 +171,9 @@ Give priority 6–8 to the strongest technology ideas so the new topics reach th
 - **`first_comment`**: write the channel's own first comment for the video — a sharp question that makes
   people reply ("Would you float on Saturn or sink on Jupiter?") or a bonus fact that extends the video.
   No hashtags, no "like and subscribe".
+- `subject` (new, 2–3 words): the one thing the video is about, as it should be drawn: "brown pelican",
+  "mantis shrimp", "Saturn planet". The drawn visual style puts it into every picture so a video about a
+  pelican never shows a random fish.
 - Every scene has `keywords`: 2–4 **concrete, visual** nouns for stock-footage search
   ("octopus swimming underwater", "ancient stone ruins", "person walking door"). No abstract words
   ("memory", "effect", "concept").

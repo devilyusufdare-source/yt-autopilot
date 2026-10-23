@@ -93,8 +93,9 @@ def _get_json(url: str, params: dict, headers: dict | None = None) -> dict | Non
 
 
 class Visuals:
-    def __init__(self, cfg: Config, workdir: Path, seed: str, topic: str):
+    def __init__(self, cfg: Config, workdir: Path, seed: str, topic: str, subject: str = ""):
         self.cfg = cfg
+        self.subject = (subject or "").strip()   # drawn mode: the thing every picture is about ("brown pelican")
         self.workdir = workdir
         self.rng = random.Random(seed)
         self.topic = (topic or "").lower()
@@ -319,7 +320,8 @@ class Visuals:
             return self.drawings[keywords]
         if self.draw_fail >= 4:            # the service is down for this run: stop asking, use footage
             return None
-        prompt = f"{keywords}, {self.draw_style}"
+        subj = self.subject if (self.subject and self.subject.split()[0].lower() not in keywords.lower()) else ""
+        prompt = f"{subj + ', ' if subj else ''}{keywords}, {self.draw_style}"
         seed = int(hashlib.sha1((self.rng.random().__repr__() + prompt).encode()).hexdigest()[:6], 16)
         # Smaller than the video (fast to generate, allowed for anonymous use); ffmpeg scales it up and the
         # paper-and-ink style hides the upscaling.
@@ -372,7 +374,8 @@ class Visuals:
         w, h, fps = self.cfg.width, self.cfg.height, self.cfg.fps
         d = max(duration, 0.1)
         z = max(float(self.cfg.get("video.zoom", 0.08)), 0.10)
-        grow = f"(1+{z}*t/{d:.3f})" if index % 2 == 0 else f"(1+{z}*(1-t/{d:.3f}))"
+        # Always a little larger than the frame (1.02x) so the crop never exceeds the scaled picture, which crashes ffmpeg.
+        grow = f"(1.02+{z}*t/{d:.3f})" if index % 2 == 0 else f"(1.02+{z}*(1-t/{d:.3f}))"
         drift = ["(iw-ow)/2", "(iw-ow)/2*(1-0.4*t/%.3f)" % d, "(iw-ow)/2*(1+0.4*t/%.3f)" % d][index % 3]
         vf = (f"scale={w}:{h}:force_original_aspect_ratio=increase,crop={w}:{h},"
               f"scale=w='trunc(iw*{grow}/2)*2':h='trunc(ih*{grow}/2)*2':eval=frame,crop={w}:{h}:x='{drift}':y='(ih-oh)/2',"

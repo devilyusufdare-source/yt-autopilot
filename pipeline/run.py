@@ -444,7 +444,10 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
 
     providers = [n for n, k in (("pixabay", os.environ.get("PIXABAY_API_KEY")), ("pexels", cfg.pexels_key)) if k]
     print(f"[run] visuals: {', '.join(providers) if providers else 'no footage key set - animated backgrounds'}")
-    vis = Visuals(cfg, outdir / "clips", seed=pkg["id"], topic=pkg.get("topic", ""))
+    # Drawn mode keeps every picture on the same subject: the package's `subject` if the writer gave one,
+    # else the first two words of the hook's footage keywords ("pelican diving").
+    subject = (pkg.get("subject") or " ".join(str(pkg["scenes"][0].get("keywords", "")).split()[:2])).strip()
+    vis = Visuals(cfg, outdir / "clips", seed=pkg["id"], topic=pkg.get("topic", ""), subject=subject)
     # Faster cuts: a scene longer than a few seconds is covered by 2-3 different clips of the same
     # search, each a whole number of frames so the picture never drifts from the voice.
     plan = plan_clips(durations, keywords, cfg)
@@ -493,7 +496,7 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
     footage: dict[str, int] = {}
     for c in vis.credits:
         footage[c["provider"]] = footage.get(c["provider"], 0) + 1
-    footage["animated-background"] = len(clips) - len(vis.credits)
+    footage["animated-background"] = max(0, len(clips) - len(vis.credits))
     footage["look"] = "drawn" if vis.drawn else "footage"
     if vis.draw_errors:
         footage["drawing_errors"] = f"{len(vis.draw_errors)}: " + "; ".join(sorted(set(vis.draw_errors))[:3])[:300]
