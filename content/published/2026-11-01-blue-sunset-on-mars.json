@@ -55,5 +55,16 @@
     "https://livescience.com/50829-mars-blue-sunset-curiosity-rover-video.html"
   ],
   "thumbnail_text": "MARS SUNSETS ARE BLUE",
-  "priority": 8
+  "priority": 8,
+  "youtube_id": "8nzpCGs_PM0",
+  "url": "https://youtube.com/shorts/8nzpCGs_PM0",
+  "uploaded_at": "2026-10-23T13:22:07+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-23T13:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "highlight_color": "#7DD3FC",
+  "duration_seconds": 35.8,
+  "style": "classic",
+  "kind": "shorts"
 }

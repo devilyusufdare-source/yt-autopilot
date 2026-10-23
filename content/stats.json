@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T05:46:41+00:00",
+  "updated_at": "2026-10-23T13:22:08+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,13 +9,19 @@
     "video_count": 80
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/8nzpCGs_PM0"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/8nzpCGs_PM0"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/8nzpCGs_PM0"
+    ]
   },
   "retention": {
     "videos_with_data": 59,
@@ -69,7 +75,7 @@
       {
         "title": "A Crocodile Bites With 3,700 Pounds of Force (Hardest Ever Measured)",
         "avg_view_percent": 24.4,
-        "views": 112
+        "views": 111
       },
       {
         "title": "This Animal Eats Cobras and Survives the Bite (Here's How)",
@@ -84,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 80,
-  "total_views": 34493,
+  "total_videos": 81,
+  "total_views": 34674,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -99,7 +105,7 @@
     },
     "animals": {
       "videos": 34,
-      "avg_views": 483,
+      "avg_views": 488,
       "best_views": 1507
     },
     "human body": {
@@ -113,8 +119,8 @@
       "best_views": 1106
     },
     "space": {
-      "videos": 16,
-      "avg_views": 506,
+      "videos": 17,
+      "avg_views": 477,
       "best_views": 1510
     },
     "technology": {
@@ -125,20 +131,24 @@
   },
   "by_style": {
     "classic": {
-      "videos": 64,
-      "avg_views": 435,
+      "videos": 65,
+      "avg_views": 431,
       "over_1500": 3
     },
     "punch": {
       "videos": 16,
-      "avg_views": 415,
+      "avg_views": 417,
       "over_1500": 0
     }
   },
   "by_voice": {
+    "en-US-AndrewNeural": {
+      "videos": 6,
+      "avg_views": 25
+    },
     "en-US-GuyNeural": {
       "videos": 4,
-      "avg_views": 29
+      "avg_views": 30
     },
     "en-US-ChristopherNeural": {
       "videos": 4,
@@ -146,11 +156,7 @@
     },
     "en-US-BrianNeural": {
       "videos": 20,
-      "avg_views": 203
-    },
-    "en-US-AndrewNeural": {
-      "videos": 5,
-      "avg_views": 28
+      "avg_views": 211
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -808,6 +814,30 @@
       "shares": 1,
       "subscribers_gained": 0
     },
+    "8nzpCGs_PM0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The Red Planet Has Blue Sunsets. Here's Why",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "On Mars, the sunset is blue.",
+      "published_at": "2026-10-23T13:22:00Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/8nzpCGs_PM0"
+    },
     "vDzFhP-Eo5k": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -1415,7 +1445,7 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 112,
+      "views": 111,
       "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so",
@@ -1443,7 +1473,7 @@
       "hook": "This bird dives at 242 miles an hour.",
       "published_at": "2026-10-20T16:30:39Z",
       "privacy": "public",
-      "views": 454,
+      "views": 453,
       "likes": 6,
       "comments": 0,
       "url": "https://youtube.com/shorts/pQBmvioCP6E",
@@ -1527,7 +1557,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 490,
+      "views": 491,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ",
@@ -1611,7 +1641,7 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 841,
+      "views": 840,
       "likes": 9,
       "comments": 0,
       "url": "https://youtube.com/shorts/GqUvFhc7Slk",
@@ -1715,7 +1745,7 @@
       "hook": "In 1999, a tornado hit 302 miles an hour. The fastest wind ever measured.",
       "published_at": "2026-10-21T13:30:38Z",
       "privacy": "public",
-      "views": 20,
+      "views": 22,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q"
@@ -1763,7 +1793,7 @@
       "hook": "In 1945, a chicken lost its head and lived another 18 months.",
       "published_at": "2026-10-21T16:30:28Z",
       "privacy": "public",
-      "views": 53,
+      "views": 54,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/ExE2WcB7uRI"
@@ -1787,7 +1817,7 @@
       "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM"
@@ -1811,8 +1841,8 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 264,
-      "likes": 7,
+      "views": 310,
+      "likes": 8,
       "comments": 0,
       "url": "https://youtube.com/shorts/valUZFoPBN4"
     },
@@ -1835,7 +1865,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 114,
+      "views": 142,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o"
@@ -1859,7 +1889,7 @@
       "hook": "This snail can kill you with one sting. There's no antivenom.",
       "published_at": "2026-10-22T02:15:18Z",
       "privacy": "public",
-      "views": 64,
+      "views": 67,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/cmlnxZqwptc"
@@ -1883,7 +1913,7 @@
       "hook": "A cheetah ran 100 metres in 5.95 seconds.",
       "published_at": "2026-10-22T12:10:31Z",
       "privacy": "public",
-      "views": 46,
+      "views": 47,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lSMWTUoJceo"
@@ -1907,7 +1937,7 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 75,
+      "views": 100,
       "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
@@ -1959,7 +1989,7 @@
       "hook": "This bird hits the water at over 50 miles an hour.",
       "published_at": "2026-10-22T13:50:15Z",
       "privacy": "public",
-      "views": 990,
+      "views": 993,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/650vI7wznrM"
@@ -1983,7 +2013,7 @@
       "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
       "published_at": "2026-10-22T13:50:30Z",
       "privacy": "public",
-      "views": 63,
+      "views": 71,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/c6f1sIZn_Co"
@@ -2007,8 +2037,8 @@
       "hook": "These alligators are frozen in solid ice. And they're alive.",
       "published_at": "2026-10-22T15:10:38Z",
       "privacy": "public",
-      "views": 54,
-      "likes": 3,
+      "views": 67,
+      "likes": 4,
       "comments": 0,
       "url": "https://youtube.com/shorts/Dbv2hy3GKSU"
     },
@@ -2031,7 +2061,7 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 17,
+      "views": 24,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/l57MjoYS9NY"
@@ -2055,8 +2085,8 @@
       "hook": "A vulture hit a passenger jet at 37,000 feet.",
       "published_at": "2026-10-22T16:40:17Z",
       "privacy": "public",
-      "views": 10,
-      "likes": 0,
+      "views": 26,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/WXZ7kpLm8Bc"
     },
@@ -2079,7 +2109,7 @@
       "hook": "This lake gets hit by lightning almost 300 nights a year.",
       "published_at": "2026-10-22T18:00:23Z",
       "privacy": "public",
-      "views": 4,
+      "views": 6,
       "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/Z-nWJgNZMZM"
@@ -2103,7 +2133,7 @@
       "hook": "A two-ton shark launches ten feet out of the water.",
       "published_at": "2026-10-22T21:00:33Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/LquJ2hMdwYI"
@@ -2127,7 +2157,7 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 10,
+      "views": 34,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU"
@@ -2293,7 +2323,7 @@
       "privacy": "public",
       "views": 124,
       "likes": 2,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU",
       "avg_view_seconds": 20.0,
       "avg_view_percent": 64.6,
@@ -2319,9 +2349,9 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 9,
-      "likes": 0,
-      "comments": 0,
+      "views": 11,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
       "avg_view_seconds": 18.0,
       "avg_view_percent": 56.8,
@@ -2349,7 +2379,7 @@
       "privacy": "public",
       "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/7E64Z48yaAs"
     },
     "VY98speDz40": {
@@ -2373,7 +2403,7 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/VY98speDz40"
     }
   }
