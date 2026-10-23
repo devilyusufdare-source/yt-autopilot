@@ -28,7 +28,7 @@ one queue only; check both queues and both `content/published/` folders before w
      have stats, lean towards the topics and hook styles that get the most views, but keep the
      rotation varied (no topic more than 2 days in a row).
    - `content/failed/*.json` → read the `_error` field; do not repeat those mistakes.
-   - `products/fact_vault/ideas/*.json` → ideas moved into a product that is sold; treat them as used
+   - `content/sold/*.json` → ideas moved into a product that is sold (Fact Vault); treat them as used
      (never re-create them or anything like them).
 3. **Count the queues.** If `content/queue/` already holds `queue_target` or more valid files AND
    `channels/wild/content/queue/` holds its own `queue_target` (channels/wild/channel.yml), stop and
