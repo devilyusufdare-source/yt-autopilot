@@ -117,7 +117,7 @@ topics:
 
 # The idea generator keeps this many ready-to-render ideas waiting in content/queue (600 = two months in stock,
 # so uploads continue even when the idea writer is not running).
-queue_target: 150
+queue_target: 600
 
 video:
   width: 1080
