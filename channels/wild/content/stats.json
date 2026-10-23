@@ -1,0 +1,28 @@
+{
+  "updated_at": "2026-10-23T04:43:22+00:00",
+  "channel": {
+    "title": "MIND UNLOCKED FACTS",
+    "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
+    "handle": "@mindunlockedfacts123",
+    "subscribers": 52,
+    "channel_views": 33265,
+    "video_count": 80
+  },
+  "diagnosis": {
+    "not_public": [],
+    "made_for_kids": [],
+    "not_processed": [],
+    "rejected": [],
+    "region_restricted": [],
+    "age_restricted": [],
+    "sd_only": []
+  },
+  "retention": null,
+  "total_videos": 0,
+  "total_views": 0,
+  "by_topic": {},
+  "by_style": {},
+  "by_voice": {},
+  "top_videos": [],
+  "videos": {}
+}
