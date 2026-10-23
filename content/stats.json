@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-10-23T16:22:59+00:00",
+  "updated_at": "2026-10-23T17:39:31+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 52,
-    "channel_views": 33265,
-    "video_count": 83
+    "subscribers": 53,
+    "channel_views": 34555,
+    "video_count": 85
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/mCHZ0xPm6SE",
-      "https://youtube.com/shorts/34Pjo1b82WY"
+      "https://youtube.com/shorts/mmv9b2xQG2A"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/34Pjo1b82WY"
+      "https://youtube.com/shorts/mmv9b2xQG2A"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/34Pjo1b82WY"
+      "https://youtube.com/shorts/mmv9b2xQG2A"
     ]
   },
   "retention": {
@@ -91,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 85,
-  "total_views": 34887,
+  "total_videos": 86,
+  "total_views": 35051,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +104,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 38,
-      "avg_views": 442,
+      "videos": 39,
+      "avg_views": 435,
       "best_views": 1507
     },
     "human body": {
@@ -116,7 +115,7 @@
     },
     "history": {
       "videos": 9,
-      "avg_views": 199,
+      "avg_views": 200,
       "best_views": 1106
     },
     "space": {
@@ -132,8 +131,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 69,
-      "avg_views": 409,
+      "videos": 70,
+      "avg_views": 405,
       "over_1500": 3
     },
     "punch": {
@@ -153,11 +152,11 @@
     },
     "en-US-ChristopherNeural": {
       "videos": 4,
-      "avg_views": 7
+      "avg_views": 8
     },
     "en-US-BrianNeural": {
-      "videos": 24,
-      "avg_views": 185
+      "videos": 25,
+      "avg_views": 184
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -834,7 +833,7 @@
       "hook": "On Mars, the sunset is blue.",
       "published_at": "2026-10-23T13:50:36Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/8nzpCGs_PM0"
@@ -1724,7 +1723,7 @@
       "privacy": "public",
       "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/F_0H7cz8PE4"
     },
     "DnIkr_Mim1Q": {
@@ -1748,7 +1747,7 @@
       "privacy": "public",
       "views": 23,
       "likes": 1,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q"
     },
     "bB08mIirOGo": {
@@ -1772,7 +1771,7 @@
       "privacy": "public",
       "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/bB08mIirOGo"
     },
     "ExE2WcB7uRI": {
@@ -1796,7 +1795,7 @@
       "privacy": "public",
       "views": 54,
       "likes": 1,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/ExE2WcB7uRI"
     },
     "FVTCw9Lx6wM": {
@@ -1818,9 +1817,9 @@
       "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
-      "views": 13,
+      "views": 17,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM"
     },
     "valUZFoPBN4": {
@@ -1842,9 +1841,9 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 335,
-      "likes": 9,
-      "comments": 0,
+      "views": 369,
+      "likes": 8,
+      "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4"
     },
     "_DAzc-V2X2o": {
@@ -1892,7 +1891,7 @@
       "privacy": "public",
       "views": 67,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/cmlnxZqwptc"
     },
     "lSMWTUoJceo": {
@@ -1916,7 +1915,7 @@
       "privacy": "public",
       "views": 48,
       "likes": 1,
-      "comments": 1,
+      "comments": 2,
       "url": "https://youtube.com/shorts/lSMWTUoJceo"
     },
     "3IPJWe-ZH7s": {
@@ -1938,9 +1937,9 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 117,
+      "views": 197,
       "likes": 3,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
     },
     "YmsVWnGQ7_k": {
@@ -2284,14 +2283,38 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
-      "published_at": "2026-10-23T16:21:20Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-23T16:50:18Z",
+      "privacy": "public",
+      "views": 6,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
     },
     "34Pjo1b82WY": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT23S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "An Octopus Guarded Her Eggs for 4.5 Years Without Eating",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "One octopus guarded her eggs for four and a half years.",
+      "published_at": "2026-10-23T17:10:25Z",
+      "privacy": "public",
+      "views": 39,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/34Pjo1b82WY"
+    },
+    "mmv9b2xQG2A": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -2303,17 +2326,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "An Octopus Guarded Her Eggs for 4.5 Years Without Eating",
+      "title": "Male Anglerfish Fuse Into the Female's Body and Never Let Go",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-BrianNeural",
-      "hook": "One octopus guarded her eggs for four and a half years.",
-      "published_at": "2026-10-23T16:22:49Z",
+      "hook": "Male anglerfish permanently melt into the female's body.",
+      "published_at": "2026-10-23T17:39:22Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/34Pjo1b82WY"
+      "url": "https://youtube.com/shorts/mmv9b2xQG2A"
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",
