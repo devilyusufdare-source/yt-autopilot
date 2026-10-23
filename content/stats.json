@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-23T20:38:04+00:00",
+  "updated_at": "2026-10-23T22:10:29+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 53,
     "channel_views": 34555,
-    "video_count": 87
+    "video_count": 88
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/0-l77m9gWbo"
+      "https://youtube.com/shorts/PBbydRJloRA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/0-l77m9gWbo"
+      "https://youtube.com/shorts/PBbydRJloRA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/0-l77m9gWbo"
+      "https://youtube.com/shorts/PBbydRJloRA"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 88,
-  "total_views": 35322,
+  "total_videos": 89,
+  "total_views": 35607,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 41,
-      "avg_views": 420,
+      "videos": 42,
+      "avg_views": 417,
       "best_views": 1507
     },
     "human body": {
@@ -132,20 +132,20 @@
   },
   "by_style": {
     "classic": {
-      "videos": 72,
-      "avg_views": 397,
+      "videos": 73,
+      "avg_views": 395,
       "over_1500": 3
     },
     "punch": {
       "videos": 16,
-      "avg_views": 422,
+      "avg_views": 423,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-BrianNeural": {
-      "videos": 27,
-      "avg_views": 180
+      "videos": 28,
+      "avg_views": 183
     },
     "en-US-AndrewNeural": {
       "videos": 6,
@@ -732,6 +732,30 @@
       "subscribers_gained": 4
     },
     "0-l77m9gWbo": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT41S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Animals That Kill the Most People, Ranked (Sharks Don't Make the List)",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
+      "published_at": "2026-10-23T21:00:08Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/0-l77m9gWbo"
+    },
+    "PBbydRJloRA": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -743,17 +767,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "The 5 Animals That Kill the Most People, Ranked (Sharks Don't Make the List)",
+      "title": "The 5 Fastest Animals on Earth, Ranked (the Cheetah Is Only #4)",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-BrianNeural",
-      "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
-      "published_at": "2026-10-23T20:37:55Z",
+      "hook": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
+      "published_at": "2026-10-23T22:10:23Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/0-l77m9gWbo"
+      "url": "https://youtube.com/shorts/PBbydRJloRA"
     },
     "_iAc9-aQoR4": {
       "upload_status": "processed",
@@ -1024,7 +1048,7 @@
       "privacy": "public",
       "views": 1199,
       "likes": 18,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/WK_pBpY-xpQ",
       "avg_view_seconds": 20.0,
       "avg_view_percent": 54.8,
@@ -1052,7 +1076,7 @@
       "privacy": "public",
       "views": 23,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/SLTRR1243fU",
       "avg_view_seconds": 22.0,
       "avg_view_percent": 55.5,
@@ -1080,7 +1104,7 @@
       "privacy": "public",
       "views": 1119,
       "likes": 25,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/sqFgifLVQ6g",
       "avg_view_seconds": 21.0,
       "avg_view_percent": 57.6,
@@ -1108,7 +1132,7 @@
       "privacy": "public",
       "views": 1245,
       "likes": 32,
-      "comments": 1,
+      "comments": 2,
       "url": "https://youtube.com/shorts/I0jRhK827UM",
       "avg_view_seconds": 28.0,
       "avg_view_percent": 78.3,
@@ -1136,7 +1160,7 @@
       "privacy": "public",
       "views": 9,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/LEOMS31AQWM",
       "avg_view_seconds": 25.0,
       "avg_view_percent": 54.2,
@@ -1164,7 +1188,7 @@
       "privacy": "public",
       "views": 1246,
       "likes": 18,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw",
       "avg_view_seconds": 36.0,
       "avg_view_percent": 85.5,
@@ -1192,7 +1216,7 @@
       "privacy": "public",
       "views": 1510,
       "likes": 17,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/a_7ULbNzldk",
       "avg_view_seconds": 19.0,
       "avg_view_percent": 73.0,
@@ -1220,7 +1244,7 @@
       "privacy": "public",
       "views": 147,
       "likes": 3,
-      "comments": 1,
+      "comments": 2,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo",
       "avg_view_seconds": 12.0,
       "avg_view_percent": 40.5,
@@ -1890,8 +1914,8 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 376,
-      "likes": 8,
+      "views": 418,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4",
       "avg_view_seconds": 18.0,
@@ -1918,9 +1942,9 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 206,
+      "views": 289,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
       "avg_view_seconds": 14.0,
       "avg_view_percent": 40.0,
@@ -1998,7 +2022,7 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 197,
+      "views": 276,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
@@ -2218,7 +2242,7 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 113,
+      "views": 140,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU"
@@ -2346,8 +2370,8 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 163,
-      "likes": 3,
+      "views": 196,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
     },
@@ -2370,8 +2394,8 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 39,
-      "likes": 0,
+      "views": 53,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
     },
@@ -2394,7 +2418,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 8,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A"
