@@ -44,7 +44,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: daily-video
+  # Test renders (dry runs) run on their own so they are never cancelled by the posting queue.
+  group: ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run == true) && format('dry-run-{0}', github.run_id) || 'daily-video' }}
   cancel-in-progress: false
 
 jobs:
