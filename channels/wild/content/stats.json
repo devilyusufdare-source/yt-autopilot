@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T04:50:31+00:00",
+  "updated_at": "2026-10-23T13:19:38+00:00",
   "channel": {
     "title": "WILD UNLOCKED",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,20 +9,107 @@
     "video_count": 0
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/_vhsK9BdvPY",
+      "https://youtube.com/shorts/ytOloEwn8_I"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/_vhsK9BdvPY"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/_vhsK9BdvPY"
+    ]
   },
   "retention": null,
-  "total_videos": 0,
+  "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
+  "total_videos": 2,
   "total_views": 0,
-  "by_topic": {},
-  "by_style": {},
-  "by_voice": {},
-  "top_videos": [],
-  "videos": {}
+  "by_topic": {
+    "animals": {
+      "videos": 2,
+      "avg_views": 0,
+      "best_views": 0
+    }
+  },
+  "by_style": {
+    "classic": {
+      "videos": 2,
+      "avg_views": 0,
+      "over_1500": 0
+    }
+  },
+  "by_voice": {
+    "en-US-BrianNeural": {
+      "videos": 2,
+      "avg_views": 0
+    }
+  },
+  "top_videos": [
+    {
+      "title": "This Bird Flew for 10 Months Without Landing Once",
+      "topic": "animals",
+      "views": 0,
+      "hook": "This bird flew for 10 months without landing once."
+    },
+    {
+      "title": "Dozens of Orcas Took Down a Blue Whale. Here's How",
+      "topic": "animals",
+      "views": 0,
+      "hook": "Dozens of killer whales hunted the biggest animal on Earth."
+    }
+  ],
+  "videos": {
+    "_vhsK9BdvPY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bird Flew for 10 Months Without Landing Once",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "This bird flew for 10 months without landing once.",
+      "published_at": "2026-10-23T13:19:35Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/_vhsK9BdvPY"
+    },
+    "ytOloEwn8_I": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT35S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Dozens of Orcas Took Down a Blue Whale. Here's How",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "Dozens of killer whales hunted the biggest animal on Earth.",
+      "published_at": "2026-10-23T13:18:26Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/ytOloEwn8_I"
+    }
+  }
 }
