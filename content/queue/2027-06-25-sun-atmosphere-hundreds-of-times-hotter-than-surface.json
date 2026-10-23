@@ -1,57 +1,57 @@
 {
- "id": "2027-06-25-sun-atmosphere-hundreds-of-times-hotter-than-surface",
- "topic": "space",
- "title": "The Sun's Atmosphere Is 200 Times Hotter Than Its Surface",
- "scenes": [
-  {
-   "text": "The Sun's atmosphere is two hundred times hotter than its surface.",
-   "keywords": "solar eclipse corona"
-  },
-  {
-   "text": "The surface is about ten thousand degrees Fahrenheit.",
-   "keywords": "sun surface solar flare"
-  },
-  {
-   "text": "The corona above it is over two million degrees.",
-   "keywords": "sun corona eclipse"
-  },
-  {
-   "text": "Nobody fully knows why. Move away from a fire and it gets cooler. Here it gets hotter.",
-   "keywords": "fire flames burning"
-  },
-  {
-   "text": "NASA's Parker Solar Probe flew into it, and its shield only reached about 2,500 degrees.",
-   "keywords": "spacecraft near sun"
-  },
-  {
-   "text": "The air is so thin it barely touches the probe.",
-   "keywords": "spacecraft in space"
-  }
- ],
- "description": "The Sun's outer atmosphere, the corona, is over two million degrees Fahrenheit while the surface is only about ten thousand.\nScientists are still working out why, and NASA's Parker Solar Probe flew through it to find out.\nWhat should we cover about the Sun next?",
- "tags": [
-  "sun corona",
-  "solar corona",
-  "parker solar probe",
-  "sun facts",
-  "space facts",
-  "nasa",
-  "solar eclipse",
-  "mind blowing facts",
-  "shorts facts",
-  "astronomy facts"
- ],
- "hashtags": [
-  "#shorts",
-  "#space",
-  "#sun",
-  "#nasa"
- ],
- "sources": [
-  "https://svs.gsfc.nasa.gov/12903",
-  "https://www.space.com/41398-how-hot-is-sun-corona.html"
- ],
- "thumbnail_text": "SUN'S ATMOSPHERE: 200X HOTTER",
- "priority": 6,
- "first_comment": "The corona is only easy to see during a total solar eclipse. Have you ever seen one?"
+  "id": "2027-06-25-sun-atmosphere-hundreds-of-times-hotter-than-surface",
+  "topic": "space",
+  "title": "The Sun's Atmosphere Is 200 Times Hotter Than Its Surface",
+  "scenes": [
+    {
+      "text": "The Sun's atmosphere is two hundred times hotter than its surface.",
+      "keywords": "solar eclipse corona"
+    },
+    {
+      "text": "The surface is about ten thousand degrees Fahrenheit.",
+      "keywords": "sun surface solar flare"
+    },
+    {
+      "text": "The corona above it is over two million degrees.",
+      "keywords": "sun corona eclipse"
+    },
+    {
+      "text": "Nobody fully knows why. Move away from a fire and it gets cooler. Here it gets hotter.",
+      "keywords": "fire flames burning"
+    },
+    {
+      "text": "NASA's Parker Solar Probe flew into it, and its shield only reached about 2,500 degrees.",
+      "keywords": "spacecraft near sun"
+    },
+    {
+      "text": "The air is so thin it barely touches the probe.",
+      "keywords": "spacecraft in space"
+    }
+  ],
+  "description": "The Sun's outer atmosphere, the corona, is over two million degrees Fahrenheit while the surface is only about ten thousand.\nScientists are still working out why, and NASA's Parker Solar Probe flew through it to find out.\nWhat should we cover about the Sun next?",
+  "tags": [
+    "sun corona",
+    "solar corona",
+    "parker solar probe",
+    "sun facts",
+    "space facts",
+    "nasa",
+    "solar eclipse",
+    "mind blowing facts",
+    "shorts facts",
+    "astronomy facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#sun",
+    "#nasa"
+  ],
+  "sources": [
+    "https://svs.gsfc.nasa.gov/12903",
+    "https://www.space.com/41398-how-hot-is-sun-corona.html"
+  ],
+  "thumbnail_text": "SUN'S ATMOSPHERE: 200X HOTTER",
+  "priority": 8,
+  "first_comment": "The corona is only easy to see during a total solar eclipse. Have you ever seen one?"
 }

@@ -1,63 +1,63 @@
 {
- "id": "2028-06-03-japan-fired-a-copper-bullet-at-an-asteroid",
- "topic": "space",
- "priority": 6,
- "title": "Japan Fired a Copper Bullet at an Asteroid at 4,500 mph",
- "scenes": [
-  {
-   "text": "Japan shot a copper bullet at an asteroid.",
-   "keywords": "asteroid in space"
-  },
-  {
-   "text": "The probe Hayabusa2 dropped a small explosive device near Ryugu.",
-   "keywords": "spacecraft near asteroid"
-  },
-  {
-   "text": "When it blew, a copper plate fired out at two kilometers a second.",
-   "keywords": "explosion space flash"
-  },
-  {
-   "text": "That is about forty-five hundred miles an hour.",
-   "keywords": "speed streaks space"
-  },
-  {
-   "text": "Then the probe raced to the far side of the asteroid to hide from the debris.",
-   "keywords": "spacecraft hiding asteroid"
-  },
-  {
-   "text": "It was making a crater on purpose, to reach rock hidden below the surface.",
-   "keywords": "asteroid crater closeup"
-  },
-  {
-   "text": "Later, it brought samples home. A copper bullet, fired at an asteroid, on purpose.",
-   "keywords": "sample capsule landing"
-  }
- ],
- "description": "Japan shot a copper bullet at an asteroid.\nIn April 2019, Hayabusa2 released a roughly 2 kg copper plate at about 2 km per second to dig into the asteroid Ryugu.\nWhat would you dig for?",
- "tags": [
-  "hayabusa2",
-  "ryugu",
-  "asteroid",
-  "jaxa",
-  "space mission",
-  "copper impactor",
-  "space facts",
-  "astronomy",
-  "mind blowing facts",
-  "shorts facts",
-  "asteroid sample"
- ],
- "hashtags": [
-  "#shorts",
-  "#space",
-  "#asteroid",
-  "#jaxa",
-  "#facts"
- ],
- "sources": [
-  "https://www.sciencealert.com/japan-bombed-an-asteroid-to-pry-out-the-secrets-of-our-solar-system",
-  "https://www.thedailystar.net/science/space-science/news/hayabusa2-made-history-manmade-crater-attempt-asteroid-1726315"
- ],
- "thumbnail_text": "A COPPER BULLET vs AN ASTEROID",
- "first_comment": "Bonus: the whole probe hid behind the asteroid to avoid the debris. Would you have pressed the button?"
+  "id": "2028-06-03-japan-fired-a-copper-bullet-at-an-asteroid",
+  "topic": "space",
+  "priority": 3,
+  "title": "Japan Fired a Copper Bullet at an Asteroid at 4,500 mph",
+  "scenes": [
+    {
+      "text": "Japan shot a copper bullet at an asteroid.",
+      "keywords": "asteroid in space"
+    },
+    {
+      "text": "The probe Hayabusa2 dropped a small explosive device near Ryugu.",
+      "keywords": "spacecraft near asteroid"
+    },
+    {
+      "text": "When it blew, a copper plate fired out at two kilometers a second.",
+      "keywords": "explosion space flash"
+    },
+    {
+      "text": "That is about forty-five hundred miles an hour.",
+      "keywords": "speed streaks space"
+    },
+    {
+      "text": "Then the probe raced to the far side of the asteroid to hide from the debris.",
+      "keywords": "spacecraft hiding asteroid"
+    },
+    {
+      "text": "It was making a crater on purpose, to reach rock hidden below the surface.",
+      "keywords": "asteroid crater closeup"
+    },
+    {
+      "text": "Later, it brought samples home. A copper bullet, fired at an asteroid, on purpose.",
+      "keywords": "sample capsule landing"
+    }
+  ],
+  "description": "Japan shot a copper bullet at an asteroid.\nIn April 2019, Hayabusa2 released a roughly 2 kg copper plate at about 2 km per second to dig into the asteroid Ryugu.\nWhat would you dig for?",
+  "tags": [
+    "hayabusa2",
+    "ryugu",
+    "asteroid",
+    "jaxa",
+    "space mission",
+    "copper impactor",
+    "space facts",
+    "astronomy",
+    "mind blowing facts",
+    "shorts facts",
+    "asteroid sample"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#asteroid",
+    "#jaxa",
+    "#facts"
+  ],
+  "sources": [
+    "https://www.sciencealert.com/japan-bombed-an-asteroid-to-pry-out-the-secrets-of-our-solar-system",
+    "https://www.thedailystar.net/science/space-science/news/hayabusa2-made-history-manmade-crater-attempt-asteroid-1726315"
+  ],
+  "thumbnail_text": "A COPPER BULLET vs AN ASTEROID",
+  "first_comment": "Bonus: the whole probe hid behind the asteroid to avoid the debris. Would you have pressed the button?"
 }

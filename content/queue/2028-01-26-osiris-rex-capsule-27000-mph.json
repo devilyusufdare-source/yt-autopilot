@@ -1,61 +1,61 @@
 {
- "id": "2028-01-26-osiris-rex-capsule-27000-mph",
- "topic": "space",
- "title": "A Capsule Slammed Into the Atmosphere at 27,000 Miles an Hour",
- "scenes": [
-  {
-   "text": "A capsule slammed into the atmosphere at 27,000 miles an hour.",
-   "keywords": "capsule reentry fireball"
-  },
-  {
-   "text": "On September 24, 2023, NASA's OSIRIS-REx capsule fell back to Earth.",
-   "keywords": "spacecraft capsule falling earth"
-  },
-  {
-   "text": "It carried rocks from an asteroid named Bennu.",
-   "keywords": "asteroid rock surface"
-  },
-  {
-   "text": "Friction heated its shield to nearly 5,000 degrees Fahrenheit.",
-   "keywords": "fireball meteor sky"
-  },
-  {
-   "text": "A parachute opened at about 20,000 feet.",
-   "keywords": "parachute sky descending"
-  },
-  {
-   "text": "It landed in the Utah desert at 8:52 in the morning.",
-   "keywords": "desert landscape utah"
-  },
-  {
-   "text": "A piece of an asteroid, delivered like a package from space.",
-   "keywords": "asteroid space"
-  }
- ],
- "description": "NASA's OSIRIS-REx capsule hit the atmosphere at over 27,000 miles an hour.\nIt landed in the Utah desert on September 24, 2023, carrying rocks from the asteroid Bennu.\nWhat would you do with a piece of an asteroid?",
- "tags": [
-  "osiris-rex",
-  "bennu asteroid",
-  "nasa",
-  "sample return",
-  "space facts",
-  "asteroid facts",
-  "mind blowing facts",
-  "shorts facts",
-  "science facts",
-  "did you know"
- ],
- "hashtags": [
-  "#shorts",
-  "#space",
-  "#nasa",
-  "#facts"
- ],
- "sources": [
-  "https://www.collectspace.com/news/news-092423a-osiris-rex-asteroid-sample-return-landing.html",
-  "https://www.lockheedmartin.com/en-us/products/osiris-rex.html"
- ],
- "thumbnail_text": "27,000 MPH FROM SPACE",
- "priority": 5,
- "first_comment": "Rocks from an asteroid, delivered. What should we ask NASA to bring back next?"
+  "id": "2028-01-26-osiris-rex-capsule-27000-mph",
+  "topic": "space",
+  "title": "A Capsule Slammed Into the Atmosphere at 27,000 Miles an Hour",
+  "scenes": [
+    {
+      "text": "A capsule slammed into the atmosphere at 27,000 miles an hour.",
+      "keywords": "capsule reentry fireball"
+    },
+    {
+      "text": "On September 24, 2023, NASA's OSIRIS-REx capsule fell back to Earth.",
+      "keywords": "spacecraft capsule falling earth"
+    },
+    {
+      "text": "It carried rocks from an asteroid named Bennu.",
+      "keywords": "asteroid rock surface"
+    },
+    {
+      "text": "Friction heated its shield to nearly 5,000 degrees Fahrenheit.",
+      "keywords": "fireball meteor sky"
+    },
+    {
+      "text": "A parachute opened at about 20,000 feet.",
+      "keywords": "parachute sky descending"
+    },
+    {
+      "text": "It landed in the Utah desert at 8:52 in the morning.",
+      "keywords": "desert landscape utah"
+    },
+    {
+      "text": "A piece of an asteroid, delivered like a package from space.",
+      "keywords": "asteroid space"
+    }
+  ],
+  "description": "NASA's OSIRIS-REx capsule hit the atmosphere at over 27,000 miles an hour.\nIt landed in the Utah desert on September 24, 2023, carrying rocks from the asteroid Bennu.\nWhat would you do with a piece of an asteroid?",
+  "tags": [
+    "osiris-rex",
+    "bennu asteroid",
+    "nasa",
+    "sample return",
+    "space facts",
+    "asteroid facts",
+    "mind blowing facts",
+    "shorts facts",
+    "science facts",
+    "did you know"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#nasa",
+    "#facts"
+  ],
+  "sources": [
+    "https://www.collectspace.com/news/news-092423a-osiris-rex-asteroid-sample-return-landing.html",
+    "https://www.lockheedmartin.com/en-us/products/osiris-rex.html"
+  ],
+  "thumbnail_text": "27,000 MPH FROM SPACE",
+  "priority": 2,
+  "first_comment": "Rocks from an asteroid, delivered. What should we ask NASA to bring back next?"
 }

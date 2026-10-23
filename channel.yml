@@ -179,7 +179,7 @@ cta:
 # the first scene, no spoken CTA, ends on the punchline. Uploads alternate while this is on;
 # content/stats.json shows average views per style under "by_style".
 experiment:
-  alternate_styles: true         # test over: "punch" averaged 531 views vs 710 for classic (12 vs 31 videos)
+  alternate_styles: false         # test over: "punch" averaged 531 views vs 710 for classic (12 vs 31 videos)
 
 thumbnail:
   enabled: true                    # generated 1080x1920 image; YouTube needs a phone-verified channel to accept it (non-fatal)

@@ -100,6 +100,33 @@ So, until the data says otherwise:
 - Give `priority` 5–8 to ideas you are confident will break out (strong hook + great footage
   available); leave the rest at 0. Priority ideas go out first.
 
+## Day 9 update (23 Oct): retention data, the rule that matters most
+
+The Analytics API now gives "average view percentage" per video. Among videos with 100+ views:
+- **Curiosity-gap hooks hold viewers: 81% average watched** (14 videos). *Saturn would float in
+  water* (91%), *Crows remember your face for years* (101% = replays), *A day on Venus is longer than
+  its year* (83%), *Wombats poop cubes. Scientists finally know why* (79%), *The jellyfish that can
+  live forever* (78%). The hook is a claim that sounds impossible and **demands a why/how**; the
+  explanation is held back until scenes 3–5; the last line is the twist or the callback.
+- **Event hooks lose half the audience: 53% watched** (8 videos). *A crocodile bites with 3,700
+  pounds* (24%), *This bird dives at 242 mph* (45%), *This fish chokes sharks with slime* (46%),
+  *An orca killed a great white in under 2 minutes* (51%). The hook already IS the whole fact;
+  after ten seconds there is nothing left to wait for, so people swipe at 13–16 s of 30.
+- YouTube's test audience reacts to exactly this: the channel's reach collapsed in the days these
+  event facts took over the queue.
+
+So, from now on, for both channels:
+1. **The hook poses a puzzle, not a result.** Not "An orca killed a great white in 2 minutes" but
+   "Great whites flee from one animal. It isn't bigger than them." Not "A crocodile bites with 3,700
+   pounds" but "A crocodile's bite is 3,700 pounds, and you can hold its mouth shut with one hand."
+   Comparisons, paradoxes, impossible properties, "scientists finally know why".
+2. **Hold the answer.** Scene 2 deepens the mystery or gives the number; the why/how arrives in the
+   second half; the last line pays off or loops back to the hook.
+3. Violent, visible footage is still wanted for the first clip (it gets the video tested), but the
+   words must open a loop the footage does not close.
+4. The queue has been re-ranked: puzzle hooks +2 priority, event hooks −3. Rewrite event ideas into
+   puzzle form rather than adding more of them.
+
 ## New topics (22 Oct): technology, games, internet
 
 The channel is widening beyond nature and space. Three topics were added to `topics` in channel.yml:

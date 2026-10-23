@@ -1,58 +1,58 @@
 {
- "id": "2027-06-12-hammer-and-feather-on-the-moon",
- "topic": "space",
- "title": "On the Moon, a Hammer and a Feather Hit the Ground Together",
- "scenes": [
-  {
-   "text": "On the Moon, a hammer and a feather hit the ground at the same time.",
-   "keywords": "astronaut moon surface"
-  },
-  {
-   "text": "Apollo 15 commander David Scott did it live, on his last moonwalk.",
-   "keywords": "apollo astronaut moon walk"
-  },
-  {
-   "text": "He held a three-pound hammer and a falcon feather at shoulder height.",
-   "keywords": "astronaut holding hammer moon"
-  },
-  {
-   "text": "He let go. Both landed together.",
-   "keywords": "hammer falling slow motion"
-  },
-  {
-   "text": "The Moon has almost no air, so nothing slows the feather.",
-   "keywords": "moon surface gray dust"
-  },
-  {
-   "text": "A hammer and a feather. Same time.",
-   "keywords": "feather falling"
-  }
- ],
- "description": "On the last Apollo 15 moonwalk in 1971, commander David Scott dropped a hammer and a falcon feather at the same time. They hit the surface together.\nThe Moon has almost no atmosphere, so there is no air resistance to slow the feather. It confirmed an idea Galileo had reasoned centuries earlier.\nWhat else would you drop on the Moon? Tell us.",
- "tags": [
-  "apollo 15",
-  "moon facts",
-  "hammer and feather",
-  "david scott",
-  "nasa",
-  "space facts",
-  "galileo",
-  "gravity",
-  "mind blowing facts",
-  "shorts facts",
-  "moon landing"
- ],
- "hashtags": [
-  "#shorts",
-  "#space",
-  "#apollo",
-  "#moon"
- ],
- "sources": [
-  "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html",
-  "https://nautil.us/55-years-ago-an-apollo-15-astronaut-dropped-a-hammer-on-the-moon-1283339"
- ],
- "thumbnail_text": "A HAMMER AND A FEATHER",
- "priority": 5,
- "first_comment": "The feather is still on the Moon today. What would you leave up there?"
+  "id": "2027-06-12-hammer-and-feather-on-the-moon",
+  "topic": "space",
+  "title": "On the Moon, a Hammer and a Feather Hit the Ground Together",
+  "scenes": [
+    {
+      "text": "On the Moon, a hammer and a feather hit the ground at the same time.",
+      "keywords": "astronaut moon surface"
+    },
+    {
+      "text": "Apollo 15 commander David Scott did it live, on his last moonwalk.",
+      "keywords": "apollo astronaut moon walk"
+    },
+    {
+      "text": "He held a three-pound hammer and a falcon feather at shoulder height.",
+      "keywords": "astronaut holding hammer moon"
+    },
+    {
+      "text": "He let go. Both landed together.",
+      "keywords": "hammer falling slow motion"
+    },
+    {
+      "text": "The Moon has almost no air, so nothing slows the feather.",
+      "keywords": "moon surface gray dust"
+    },
+    {
+      "text": "A hammer and a feather. Same time.",
+      "keywords": "feather falling"
+    }
+  ],
+  "description": "On the last Apollo 15 moonwalk in 1971, commander David Scott dropped a hammer and a falcon feather at the same time. They hit the surface together.\nThe Moon has almost no atmosphere, so there is no air resistance to slow the feather. It confirmed an idea Galileo had reasoned centuries earlier.\nWhat else would you drop on the Moon? Tell us.",
+  "tags": [
+    "apollo 15",
+    "moon facts",
+    "hammer and feather",
+    "david scott",
+    "nasa",
+    "space facts",
+    "galileo",
+    "gravity",
+    "mind blowing facts",
+    "shorts facts",
+    "moon landing"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#apollo",
+    "#moon"
+  ],
+  "sources": [
+    "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html",
+    "https://nautil.us/55-years-ago-an-apollo-15-astronaut-dropped-a-hammer-on-the-moon-1283339"
+  ],
+  "thumbnail_text": "A HAMMER AND A FEATHER",
+  "priority": 2,
+  "first_comment": "The feather is still on the Moon today. What would you leave up there?"
 }
