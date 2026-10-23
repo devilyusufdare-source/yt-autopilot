@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-23T19:16:39+00:00",
+  "updated_at": "2026-10-23T20:38:04+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 53,
     "channel_views": 34555,
-    "video_count": 86
+    "video_count": 87
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/xf0BF_g7K8o"
+      "https://youtube.com/shorts/0-l77m9gWbo"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/xf0BF_g7K8o"
+      "https://youtube.com/shorts/0-l77m9gWbo"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/xf0BF_g7K8o"
+      "https://youtube.com/shorts/0-l77m9gWbo"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 87,
-  "total_views": 35198,
+  "total_videos": 88,
+  "total_views": 35322,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 40,
-      "avg_views": 427,
+      "videos": 41,
+      "avg_views": 420,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 71,
-      "avg_views": 401,
+      "videos": 72,
+      "avg_views": 397,
       "over_1500": 3
     },
     "punch": {
@@ -143,6 +143,10 @@
     }
   },
   "by_voice": {
+    "en-US-BrianNeural": {
+      "videos": 27,
+      "avg_views": 180
+    },
     "en-US-AndrewNeural": {
       "videos": 6,
       "avg_views": 27
@@ -154,10 +158,6 @@
     "en-US-ChristopherNeural": {
       "videos": 4,
       "avg_views": 8
-    },
-    "en-US-BrianNeural": {
-      "videos": 26,
-      "avg_views": 182
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -731,6 +731,30 @@
       "shares": 2,
       "subscribers_gained": 4
     },
+    "0-l77m9gWbo": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Animals That Kill the Most People, Ranked (Sharks Don't Make the List)",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
+      "published_at": "2026-10-23T20:37:55Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/0-l77m9gWbo"
+    },
     "_iAc9-aQoR4": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -1224,7 +1248,7 @@
       "privacy": "public",
       "views": 34,
       "likes": 2,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/XW0IAUHH4EI",
       "avg_view_seconds": 20.0,
       "avg_view_percent": 64.0,
@@ -1252,7 +1276,7 @@
       "privacy": "public",
       "views": 1402,
       "likes": 39,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/hUG-q54cj-0",
       "avg_view_seconds": 23.0,
       "avg_view_percent": 71.8,
@@ -1280,7 +1304,7 @@
       "privacy": "public",
       "views": 449,
       "likes": 8,
-      "comments": 1,
+      "comments": 2,
       "url": "https://youtube.com/shorts/JgG0vB0x9xY",
       "avg_view_seconds": 16.0,
       "avg_view_percent": 52.5,
@@ -1308,7 +1332,7 @@
       "privacy": "public",
       "views": 1014,
       "likes": 19,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko",
       "avg_view_seconds": 17.0,
       "avg_view_percent": 51.3,
@@ -1336,7 +1360,7 @@
       "privacy": "public",
       "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/rTs49HonaXo",
       "avg_view_seconds": 32.0,
       "avg_view_percent": 104.1,
@@ -1364,7 +1388,7 @@
       "privacy": "public",
       "views": 90,
       "likes": 1,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/5pKsRTupbRY",
       "avg_view_seconds": 13.0,
       "avg_view_percent": 43.9,
@@ -1392,7 +1416,7 @@
       "privacy": "public",
       "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/ID8nA8KDcUg",
       "avg_view_seconds": 4.0,
       "avg_view_percent": 10.6,
@@ -1420,7 +1444,7 @@
       "privacy": "public",
       "views": 6,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/oUmGCbVNL3k",
       "avg_view_seconds": 16.0,
       "avg_view_percent": 46.2,
@@ -1448,7 +1472,7 @@
       "privacy": "public",
       "views": 111,
       "likes": 4,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so",
       "avg_view_seconds": 9.0,
       "avg_view_percent": 27.1,
@@ -1476,7 +1500,7 @@
       "privacy": "public",
       "views": 454,
       "likes": 6,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/pQBmvioCP6E",
       "avg_view_seconds": 12.0,
       "avg_view_percent": 38.3,
@@ -1504,7 +1528,7 @@
       "privacy": "public",
       "views": 64,
       "likes": 1,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/mwNxqOaibXU",
       "avg_view_seconds": 24.0,
       "avg_view_percent": 69.3,
@@ -1811,7 +1835,7 @@
       "published_at": "2026-10-21T16:30:28Z",
       "privacy": "public",
       "views": 54,
-      "likes": 1,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/ExE2WcB7uRI",
       "avg_view_seconds": 19.0,
@@ -1894,9 +1918,9 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 236,
-      "likes": 1,
-      "comments": 1,
+      "views": 206,
+      "likes": 0,
+      "comments": 0,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
       "avg_view_seconds": 14.0,
       "avg_view_percent": 40.0,
@@ -2322,8 +2346,8 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 8,
-      "likes": 0,
+      "views": 163,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
     },
@@ -2346,7 +2370,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 40,
+      "views": 39,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
@@ -2376,14 +2400,14 @@
       "url": "https://youtube.com/shorts/mmv9b2xQG2A"
     },
     "xf0BF_g7K8o": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2392,11 +2416,11 @@
       "style": "classic",
       "voice": "en-US-BrianNeural",
       "hook": "Some adult insects live for less than five minutes.",
-      "published_at": "2026-10-23T19:16:32Z",
-      "privacy": "private",
+      "published_at": "2026-10-23T19:40:06Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o"
     },
     "uMujdO5WqYo": {
