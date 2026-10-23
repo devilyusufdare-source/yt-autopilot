@@ -17,6 +17,7 @@ channel:
   title_suffix: ""                 # e.g. " #Shorts" — appended to every title
   description_footer: |
     Follow for a new animal fact every day.
+    Space, science, history and more on our main channel, Mind Unlocked Facts: https://www.youtube.com/@mindunlockedfacts123
     Stock footage: Pixabay / Pexels.
 
 # How videos are released. The job runs every 2 hours (see .github/workflows/daily.yml) and
@@ -164,7 +165,8 @@ cta:
   spoken: true                     # used by the "classic" style only
   text: "Follow for a new animal fact every day."
   end_text: "Follow for more"      # small label in the last second of a "punch" style video
-  first_comment_enabled: false     # off: posting comments needs the extra YouTube permission (see README step 3)
+  first_comment_enabled: true      # channel 2's key has the comment permission
+  first_comment_suffix: "More like this every day here. Space, science and history: Mind Unlocked Facts https://www.youtube.com/@mindunlockedfacts123"
   first_comment: "Which fact should we cover next? 👇"   # fallback when an idea has no question of its own
 
 # A/B test of the two video styles (see pipeline/run.py build_video): classic = word-by-word
