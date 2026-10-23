@@ -1,0 +1,71 @@
+{
+  "id": "2026-10-26-five-largest-moons-ranked",
+  "format": "ranking",
+  "ranking_by": "diameter",
+  "topic": "space",
+  "title": "The 5 Largest Moons in the Solar System, Ranked (#1 Beats a Planet)",
+  "scenes": [
+    {
+      "text": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
+      "keywords": "jupiter moon space"
+    },
+    {
+      "rank": 5,
+      "label": "Europa · 3,122 km",
+      "text": "Number five: Europa. Three thousand one hundred and twenty-two kilometers wide, with an ocean hidden under its ice.",
+      "keywords": "jupiter moon europa"
+    },
+    {
+      "rank": 4,
+      "label": "Moon · 3,475 km",
+      "text": "Number four: our own Moon. About three thousand four hundred and seventy-five kilometers across, bigger than Europa.",
+      "keywords": "full moon close up"
+    },
+    {
+      "rank": 3,
+      "label": "Io · 3,643 km",
+      "text": "Number three: Io, the most volcanic body we know. Thirty-six hundred and forty-three kilometers across.",
+      "keywords": "io volcano jupiter moon"
+    },
+    {
+      "rank": 2,
+      "label": "Callisto · 4,821 km",
+      "text": "Number two: Callisto. About forty-eight hundred kilometers wide, almost as big as the planet Mercury.",
+      "keywords": "callisto moon craters"
+    },
+    {
+      "rank": 1,
+      "label": "Ganymede · 5,268 km",
+      "text": "Number one: Ganymede. Fifty-two hundred and sixty-eight kilometers wide. That is wider than the planet Mercury.",
+      "keywords": "ganymede moon jupiter"
+    }
+  ],
+  "description": "The five largest moons in the solar system, ranked by diameter.\nFrom Europa to Ganymede, the biggest moon of all, which is wider than the planet Mercury.\nWhich moon would you visit first?",
+  "tags": [
+    "largest moons",
+    "ganymede",
+    "callisto",
+    "europa",
+    "space rankings",
+    "top 5 space",
+    "space facts",
+    "jupiter moons",
+    "solar system facts",
+    "shorts facts",
+    "largest moon"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#moons",
+    "#ranking"
+  ],
+  "sources": [
+    "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/facts/",
+    "https://starlust.org/list-of-the-largest-moons-in-our-solar-system",
+    "https://www.physics.unlv.edu/~jeffery/astro/solar_system/moons_interesting.html"
+  ],
+  "thumbnail_text": "5 BIGGEST MOONS, RANKED",
+  "priority": 6,
+  "first_comment": "Which moon would you land on first? And what should we rank next?"
+}
