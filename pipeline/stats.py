@@ -22,6 +22,7 @@ def _published() -> list[dict]:
 
 
 ANALYTICS_SCOPE = "https://www.googleapis.com/auth/yt-analytics.readonly"
+RETENTION_NOTE: str | None = None   # why retention is missing, written into stats.json
 
 
 def fetch_retention(youtube, video_ids: list[str]) -> dict[str, dict]:
@@ -30,15 +31,19 @@ def fetch_retention(youtube, video_ids: list[str]) -> dict[str, dict]:
     Needs the analytics permission on the token (python -m pipeline.authorize asks for it); without it
     this returns {} and stats.json simply has no retention fields. Shorts' "viewed vs swiped away" is
     not exposed by the API; averageViewPercentage is the closest public number."""
+    global RETENTION_NOTE
+    RETENTION_NOTE = None
     try:
         creds = youtube._http.credentials  # noqa: SLF001
         granted = getattr(creds, "granted_scopes", None)
         if granted and ANALYTICS_SCOPE not in granted:
+            RETENTION_NOTE = "the YouTube key has no analytics permission (re-authorize)"
             return {}
         from googleapiclient.discovery import build
         ya = build("youtubeAnalytics", "v2", credentials=creds, cache_discovery=False)
     except Exception as e:  # noqa: BLE001
-        print(f"[stats] analytics client unavailable: {e}")
+        RETENTION_NOTE = f"analytics client unavailable: {str(e)[:200]}"
+        print(f"[stats] {RETENTION_NOTE}")
         return {}
     out: dict[str, dict] = {}
     end = dt.date.today().isoformat()
@@ -51,10 +56,9 @@ def fetch_retention(youtube, video_ids: list[str]) -> dict[str, dict]:
                                       filters="video==" + ",".join(chunk), maxResults=50).execute()
         except Exception as e:  # noqa: BLE001
             msg = str(e)
-            if "insufficient" in msg.lower() or "403" in msg:
-                print("[stats] analytics permission missing: re-authorize once (python -m pipeline.authorize) to get retention")
-            else:
-                print(f"[stats] analytics query failed: {msg[:200]}")
+            RETENTION_NOTE = ("analytics permission missing: re-authorize once (python -m pipeline.authorize)"
+                              if "insufficient" in msg.lower() else f"analytics query failed: {msg[:300]}")
+            print(f"[stats] {RETENTION_NOTE}")
             return out
         cols = [c["name"] for c in resp.get("columnHeaders", [])]
         for row in resp.get("rows", []):
@@ -167,6 +171,7 @@ def update_stats(youtube) -> dict:
         "channel": channel,
         "diagnosis": diagnosis,
         "retention": retention_summary,
+        "retention_note": RETENTION_NOTE,
         "total_videos": len(videos),
         "total_views": sum(v["views"] for v in videos.values()),
         "by_topic": summary,
