@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T05:22:30+00:00",
+  "updated_at": "2026-10-23T05:25:21+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -18,8 +18,9 @@
     "sd_only": []
   },
   "retention": null,
+  "retention_note": "analytics query failed: <HttpError 403 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-07-25&endDate=2026-10-23&dimensions=video&metrics=views%2CaverageViewDuration%2CaverageViewPercentage%2Clikes%2Cshares%2CsubscribersGained&filters=video%3D%3DGmLlv8BjIu8%2CAatgGso0_",
   "total_videos": 80,
-  "total_views": 34495,
+  "total_views": 34496,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -1829,7 +1830,7 @@
       "hook": "A two-ton shark launches ten feet out of the water.",
       "published_at": "2026-10-22T21:00:33Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/LquJ2hMdwYI"
