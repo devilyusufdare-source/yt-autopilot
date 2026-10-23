@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-10-23T13:22:08+00:00",
+  "updated_at": "2026-10-23T14:46:51+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 52,
     "channel_views": 33265,
-    "video_count": 80
+    "video_count": 81
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/8nzpCGs_PM0"
+      "https://youtube.com/shorts/MJ6FRS8q71M",
+      "https://youtube.com/shorts/ATRf5itBVC0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/8nzpCGs_PM0"
+      "https://youtube.com/shorts/ATRf5itBVC0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/8nzpCGs_PM0"
+      "https://youtube.com/shorts/ATRf5itBVC0"
     ]
   },
   "retention": {
@@ -90,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 81,
-  "total_views": 34674,
+  "total_videos": 83,
+  "total_views": 34708,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -104,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 34,
-      "avg_views": 488,
+      "videos": 36,
+      "avg_views": 462,
       "best_views": 1507
     },
     "human body": {
@@ -131,13 +132,13 @@
   },
   "by_style": {
     "classic": {
-      "videos": 65,
-      "avg_views": 431,
+      "videos": 67,
+      "avg_views": 418,
       "over_1500": 3
     },
     "punch": {
       "videos": 16,
-      "avg_views": 417,
+      "avg_views": 418,
       "over_1500": 0
     }
   },
@@ -148,15 +149,15 @@
     },
     "en-US-GuyNeural": {
       "videos": 4,
-      "avg_views": 30
+      "avg_views": 31
     },
     "en-US-ChristopherNeural": {
       "videos": 4,
       "avg_views": 6
     },
     "en-US-BrianNeural": {
-      "videos": 20,
-      "avg_views": 211
+      "videos": 22,
+      "avg_views": 193
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -815,14 +816,14 @@
       "subscribers_gained": 0
     },
     "8nzpCGs_PM0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT36S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -831,8 +832,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "On Mars, the sunset is blue.",
-      "published_at": "2026-10-23T13:22:00Z",
-      "privacy": "private",
+      "published_at": "2026-10-23T13:50:36Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -1913,7 +1914,7 @@
       "hook": "A cheetah ran 100 metres in 5.95 seconds.",
       "published_at": "2026-10-22T12:10:31Z",
       "privacy": "public",
-      "views": 47,
+      "views": 48,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lSMWTUoJceo"
@@ -2013,7 +2014,7 @@
       "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
       "published_at": "2026-10-22T13:50:30Z",
       "privacy": "public",
-      "views": 71,
+      "views": 73,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/c6f1sIZn_Co"
@@ -2037,8 +2038,8 @@
       "hook": "These alligators are frozen in solid ice. And they're alive.",
       "published_at": "2026-10-22T15:10:38Z",
       "privacy": "public",
-      "views": 67,
-      "likes": 4,
+      "views": 79,
+      "likes": 5,
       "comments": 0,
       "url": "https://youtube.com/shorts/Dbv2hy3GKSU"
     },
@@ -2109,9 +2110,9 @@
       "hook": "This lake gets hit by lightning almost 300 nights a year.",
       "published_at": "2026-10-22T18:00:23Z",
       "privacy": "public",
-      "views": 6,
+      "views": 10,
       "likes": 1,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Z-nWJgNZMZM"
     },
     "LquJ2hMdwYI": {
@@ -2133,9 +2134,9 @@
       "hook": "A two-ton shark launches ten feet out of the water.",
       "published_at": "2026-10-22T21:00:33Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/LquJ2hMdwYI"
     },
     "D1RgFDxYIeU": {
@@ -2157,9 +2158,9 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 34,
+      "views": 47,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU"
     },
     "TtDH4yL4P10": {
@@ -2183,7 +2184,7 @@
       "privacy": "public",
       "views": 32,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/TtDH4yL4P10",
       "avg_view_seconds": 21.0,
       "avg_view_percent": 73.9,
@@ -2211,12 +2212,60 @@
       "privacy": "public",
       "views": 36,
       "likes": 2,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/T4gdnphQUUE",
       "avg_view_seconds": 14.0,
       "avg_view_percent": 50.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "MJ6FRS8q71M": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT29S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A 150-Foot Deep-Sea Creature Is Longer Than a Blue Whale",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "Scientists filmed a deep-sea creature 150 feet long.",
+      "published_at": "2026-10-23T14:45:07Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/MJ6FRS8q71M"
+    },
+    "ATRf5itBVC0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Fish Survives 4 Years Without Food or Water",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-BrianNeural",
+      "hook": "This fish can survive four years without food or water.",
+      "published_at": "2026-10-23T14:46:42Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/ATRf5itBVC0"
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",
@@ -2237,9 +2286,9 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 65,
+      "views": 66,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/uMujdO5WqYo",
       "avg_view_seconds": 13.0,
       "avg_view_percent": 46.6,
@@ -2267,7 +2316,7 @@
       "privacy": "public",
       "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/6lrpcVotc7I",
       "avg_view_seconds": 35.0,
       "avg_view_percent": 97.0,
@@ -2295,7 +2344,7 @@
       "privacy": "public",
       "views": 76,
       "likes": 2,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/HS8O59SC0rc",
       "avg_view_seconds": 15.0,
       "avg_view_percent": 53.1,
