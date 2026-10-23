@@ -37,7 +37,10 @@ release:
   # getting views during the 19-21 Oct collapse, so it replaces the 4 PM slot (India afternoon = US night).
   # Optional throttles, both off: `videos_per_day: N` caps uploads below YouTube's limit, `only_topics: [...]`
   # restricts the queue to some topics.
-  videos_per_day: 4                # launch ramp: 4 the first week, then 6, 8, 10 as the channel earns it
+  videos_per_day: 4                # launch ramp: 4 the first week, then 6, 8, 10 as the channel earns it.
+                                   # NOTE: this channel's Google Cloud project has the default API quota (10,000 units/day;
+                                   # an upload costs 1,600), which allows at most ~5 uploads a day. Before going past 5,
+                                   # request a quota increase for the wild-unlocked project (YouTube API quota extension form).
   shorts_slots: ["07:45", "19:00", "22:00", "02:30"]
   longform_slots: ["06:30"]        # used only while longform.enabled is true
   daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
