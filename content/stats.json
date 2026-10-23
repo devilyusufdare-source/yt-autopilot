@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T05:28:55+00:00",
+  "updated_at": "2026-10-23T05:46:41+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -17,10 +17,75 @@
     "age_restricted": [],
     "sd_only": []
   },
-  "retention": null,
-  "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 148725126180 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview? (accessNotConfigured)",
+  "retention": {
+    "videos_with_data": 59,
+    "avg_view_percent": 68.9,
+    "by_topic": {
+      "psychology": 71.3,
+      "science": 72.4,
+      "animals": 66.1,
+      "human body": 86.7,
+      "history": 54.4,
+      "space": 72.4
+    },
+    "best": [
+      {
+        "title": "Your Body Is Glowing Right Now and You Can't See It",
+        "avg_view_percent": 158.9,
+        "views": 245
+      },
+      {
+        "title": "In 2022, a Volcano Fired 2,600 Lightning Bolts a Minute",
+        "avg_view_percent": 153.4,
+        "views": 6
+      },
+      {
+        "title": "The Loudest Sound in History Was Heard 3,000 Miles Away",
+        "avg_view_percent": 114.8,
+        "views": 3
+      },
+      {
+        "title": "A Meteor Blew Up Over Russia With 30 Times the Power of Hiroshima",
+        "avg_view_percent": 104.8,
+        "views": 3
+      },
+      {
+        "title": "This Crab's Blue Blood Is Worth $60,000 a Gallon",
+        "avg_view_percent": 104.1,
+        "views": 2
+      }
+    ],
+    "worst": [
+      {
+        "title": "In 1932, Australia Went to War Against Emus. The Emus Won",
+        "avg_view_percent": 10.6,
+        "views": 2
+      },
+      {
+        "title": "The Shortest War in History Lasted 38 Minutes",
+        "avg_view_percent": 23.1,
+        "views": 12
+      },
+      {
+        "title": "A Crocodile Bites With 3,700 Pounds of Force (Hardest Ever Measured)",
+        "avg_view_percent": 24.4,
+        "views": 112
+      },
+      {
+        "title": "This Animal Eats Cobras and Survives the Bite (Here's How)",
+        "avg_view_percent": 36.7,
+        "views": 70
+      },
+      {
+        "title": "There's a Waterfall in Antarctica That Runs Blood Red",
+        "avg_view_percent": 40.5,
+        "views": 147
+      }
+    ]
+  },
+  "retention_note": null,
   "total_videos": 80,
-  "total_views": 34495,
+  "total_views": 34493,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -54,8 +119,8 @@
     },
     "technology": {
       "videos": 1,
-      "avg_views": 3,
-      "best_views": 3
+      "avg_views": 2,
+      "best_views": 2
     }
   },
   "by_style": {
@@ -89,7 +154,7 @@
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 3
+      "avg_views": 2
     }
   },
   "top_videos": [
@@ -177,7 +242,11 @@
       "views": 364,
       "likes": 12,
       "comments": 0,
-      "url": "https://youtube.com/shorts/GmLlv8BjIu8"
+      "url": "https://youtube.com/shorts/GmLlv8BjIu8",
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 50.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "AatgGso0_2I": {
       "upload_status": "processed",
@@ -201,7 +270,11 @@
       "views": 1237,
       "likes": 54,
       "comments": 1,
-      "url": "https://youtube.com/shorts/AatgGso0_2I"
+      "url": "https://youtube.com/shorts/AatgGso0_2I",
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 69.3,
+      "shares": 3,
+      "subscribers_gained": 4
     },
     "lQRng3wJNao": {
       "upload_status": "processed",
@@ -225,7 +298,11 @@
       "views": 1507,
       "likes": 61,
       "comments": 0,
-      "url": "https://youtube.com/shorts/lQRng3wJNao"
+      "url": "https://youtube.com/shorts/lQRng3wJNao",
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 100.7,
+      "shares": 1,
+      "subscribers_gained": 5
     },
     "LOEP1W9IwTA": {
       "upload_status": "processed",
@@ -249,7 +326,11 @@
       "views": 362,
       "likes": 11,
       "comments": 2,
-      "url": "https://youtube.com/shorts/LOEP1W9IwTA"
+      "url": "https://youtube.com/shorts/LOEP1W9IwTA",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 58.0,
+      "shares": 0,
+      "subscribers_gained": 2
     },
     "irIXXgt4nlo": {
       "upload_status": "processed",
@@ -273,7 +354,11 @@
       "views": 1083,
       "likes": 50,
       "comments": 0,
-      "url": "https://youtube.com/shorts/irIXXgt4nlo"
+      "url": "https://youtube.com/shorts/irIXXgt4nlo",
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 78.4,
+      "shares": 1,
+      "subscribers_gained": 5
     },
     "TRY06yZdLIs": {
       "upload_status": "processed",
@@ -297,7 +382,11 @@
       "views": 266,
       "likes": 9,
       "comments": 1,
-      "url": "https://youtube.com/shorts/TRY06yZdLIs"
+      "url": "https://youtube.com/shorts/TRY06yZdLIs",
+      "avg_view_seconds": 35.0,
+      "avg_view_percent": 103.0,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "UaeMKmWXL5w": {
       "upload_status": "processed",
@@ -321,7 +410,11 @@
       "views": 276,
       "likes": 11,
       "comments": 0,
-      "url": "https://youtube.com/shorts/UaeMKmWXL5w"
+      "url": "https://youtube.com/shorts/UaeMKmWXL5w",
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 63.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "Q6SQw6zTdW8": {
       "upload_status": "processed",
@@ -345,7 +438,11 @@
       "views": 1105,
       "likes": 30,
       "comments": 0,
-      "url": "https://youtube.com/shorts/Q6SQw6zTdW8"
+      "url": "https://youtube.com/shorts/Q6SQw6zTdW8",
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 90.7,
+      "shares": 0,
+      "subscribers_gained": 3
     },
     "dAX8nRPkNMY": {
       "upload_status": "processed",
@@ -369,7 +466,11 @@
       "views": 188,
       "likes": 8,
       "comments": 0,
-      "url": "https://youtube.com/shorts/dAX8nRPkNMY"
+      "url": "https://youtube.com/shorts/dAX8nRPkNMY",
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 86.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "CsR1AX8J4XU": {
       "upload_status": "processed",
@@ -393,7 +494,11 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/CsR1AX8J4XU"
+      "url": "https://youtube.com/shorts/CsR1AX8J4XU",
+      "avg_view_seconds": 6.0,
+      "avg_view_percent": 23.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "L1YCXdSWEZ4": {
       "upload_status": "processed",
@@ -417,7 +522,11 @@
       "views": 1359,
       "likes": 49,
       "comments": 0,
-      "url": "https://youtube.com/shorts/L1YCXdSWEZ4"
+      "url": "https://youtube.com/shorts/L1YCXdSWEZ4",
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 83.4,
+      "shares": 0,
+      "subscribers_gained": 4
     },
     "V-ykHcqs_OA": {
       "upload_status": "processed",
@@ -441,7 +550,11 @@
       "views": 352,
       "likes": 6,
       "comments": 0,
-      "url": "https://youtube.com/shorts/V-ykHcqs_OA"
+      "url": "https://youtube.com/shorts/V-ykHcqs_OA",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 55.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "FMEjskaXejU": {
       "upload_status": "processed",
@@ -465,7 +578,11 @@
       "views": 390,
       "likes": 14,
       "comments": 0,
-      "url": "https://youtube.com/shorts/FMEjskaXejU"
+      "url": "https://youtube.com/shorts/FMEjskaXejU",
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 81.0,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "I75xo-ENbtA": {
       "upload_status": "processed",
@@ -489,7 +606,11 @@
       "views": 222,
       "likes": 6,
       "comments": 0,
-      "url": "https://youtube.com/shorts/I75xo-ENbtA"
+      "url": "https://youtube.com/shorts/I75xo-ENbtA",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 59.5,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "8v2IWv2BlSA": {
       "upload_status": "processed",
@@ -513,7 +634,11 @@
       "views": 1483,
       "likes": 23,
       "comments": 0,
-      "url": "https://youtube.com/shorts/8v2IWv2BlSA"
+      "url": "https://youtube.com/shorts/8v2IWv2BlSA",
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 100.1,
+      "shares": 1,
+      "subscribers_gained": 2
     },
     "EgjZfYUh9jE": {
       "upload_status": "processed",
@@ -537,7 +662,11 @@
       "views": 326,
       "likes": 9,
       "comments": 0,
-      "url": "https://youtube.com/shorts/EgjZfYUh9jE"
+      "url": "https://youtube.com/shorts/EgjZfYUh9jE",
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 92.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "T00_3CUDt5s": {
       "upload_status": "processed",
@@ -561,7 +690,11 @@
       "views": 245,
       "likes": 9,
       "comments": 0,
-      "url": "https://youtube.com/shorts/T00_3CUDt5s"
+      "url": "https://youtube.com/shorts/T00_3CUDt5s",
+      "avg_view_seconds": 58.0,
+      "avg_view_percent": 158.9,
+      "shares": 1,
+      "subscribers_gained": 1
     },
     "_AAxfyJTzHU": {
       "upload_status": "processed",
@@ -585,7 +718,11 @@
       "views": 1268,
       "likes": 60,
       "comments": 2,
-      "url": "https://youtube.com/shorts/_AAxfyJTzHU"
+      "url": "https://youtube.com/shorts/_AAxfyJTzHU",
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 68.5,
+      "shares": 2,
+      "subscribers_gained": 4
     },
     "_iAc9-aQoR4": {
       "upload_status": "processed",
@@ -609,7 +746,11 @@
       "views": 1211,
       "likes": 28,
       "comments": 0,
-      "url": "https://youtube.com/shorts/_iAc9-aQoR4"
+      "url": "https://youtube.com/shorts/_iAc9-aQoR4",
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 79.4,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "W2Swu8Jkmjs": {
       "upload_status": "processed",
@@ -633,7 +774,11 @@
       "views": 107,
       "likes": 5,
       "comments": 0,
-      "url": "https://youtube.com/shorts/W2Swu8Jkmjs"
+      "url": "https://youtube.com/shorts/W2Swu8Jkmjs",
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 68.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "lrbMTCxwBCU": {
       "upload_status": "processed",
@@ -657,7 +802,11 @@
       "views": 687,
       "likes": 22,
       "comments": 0,
-      "url": "https://youtube.com/shorts/lrbMTCxwBCU"
+      "url": "https://youtube.com/shorts/lrbMTCxwBCU",
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 69.0,
+      "shares": 1,
+      "subscribers_gained": 0
     },
     "vDzFhP-Eo5k": {
       "upload_status": "processed",
@@ -681,7 +830,11 @@
       "views": 1106,
       "likes": 26,
       "comments": 2,
-      "url": "https://youtube.com/shorts/vDzFhP-Eo5k"
+      "url": "https://youtube.com/shorts/vDzFhP-Eo5k",
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 57.8,
+      "shares": 1,
+      "subscribers_gained": 0
     },
     "pSgxXZHFEbg": {
       "upload_status": "processed",
@@ -705,7 +858,11 @@
       "views": 1648,
       "likes": 38,
       "comments": 2,
-      "url": "https://youtube.com/shorts/pSgxXZHFEbg"
+      "url": "https://youtube.com/shorts/pSgxXZHFEbg",
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 78.2,
+      "shares": 1,
+      "subscribers_gained": 0
     },
     "UUHeyNuVn8M": {
       "upload_status": "processed",
@@ -729,7 +886,11 @@
       "views": 1384,
       "likes": 53,
       "comments": 1,
-      "url": "https://youtube.com/shorts/UUHeyNuVn8M"
+      "url": "https://youtube.com/shorts/UUHeyNuVn8M",
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 70.2,
+      "shares": 0,
+      "subscribers_gained": 11
     },
     "2KiDRDAJJWw": {
       "upload_status": "processed",
@@ -753,7 +914,11 @@
       "views": 1290,
       "likes": 26,
       "comments": 2,
-      "url": "https://youtube.com/shorts/2KiDRDAJJWw"
+      "url": "https://youtube.com/shorts/2KiDRDAJJWw",
+      "avg_view_seconds": 32.0,
+      "avg_view_percent": 73.1,
+      "shares": 1,
+      "subscribers_gained": 1
     },
     "t5IFKjlXUd0": {
       "upload_status": "processed",
@@ -777,7 +942,11 @@
       "views": 286,
       "likes": 11,
       "comments": 0,
-      "url": "https://youtube.com/shorts/t5IFKjlXUd0"
+      "url": "https://youtube.com/shorts/t5IFKjlXUd0",
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 59.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "WK_pBpY-xpQ": {
       "upload_status": "processed",
@@ -801,7 +970,11 @@
       "views": 1199,
       "likes": 18,
       "comments": 0,
-      "url": "https://youtube.com/shorts/WK_pBpY-xpQ"
+      "url": "https://youtube.com/shorts/WK_pBpY-xpQ",
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 54.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "SLTRR1243fU": {
       "upload_status": "processed",
@@ -825,7 +998,11 @@
       "views": 23,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/SLTRR1243fU"
+      "url": "https://youtube.com/shorts/SLTRR1243fU",
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 55.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "sqFgifLVQ6g": {
       "upload_status": "processed",
@@ -849,7 +1026,11 @@
       "views": 1119,
       "likes": 25,
       "comments": 0,
-      "url": "https://youtube.com/shorts/sqFgifLVQ6g"
+      "url": "https://youtube.com/shorts/sqFgifLVQ6g",
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 57.7,
+      "shares": 1,
+      "subscribers_gained": 0
     },
     "I0jRhK827UM": {
       "upload_status": "processed",
@@ -873,7 +1054,11 @@
       "views": 1245,
       "likes": 32,
       "comments": 1,
-      "url": "https://youtube.com/shorts/I0jRhK827UM"
+      "url": "https://youtube.com/shorts/I0jRhK827UM",
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 78.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "LEOMS31AQWM": {
       "upload_status": "processed",
@@ -897,7 +1082,11 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/LEOMS31AQWM"
+      "url": "https://youtube.com/shorts/LEOMS31AQWM",
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 54.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "KEmiP0u7ZSw": {
       "upload_status": "processed",
@@ -921,7 +1110,11 @@
       "views": 1246,
       "likes": 18,
       "comments": 0,
-      "url": "https://youtube.com/shorts/KEmiP0u7ZSw"
+      "url": "https://youtube.com/shorts/KEmiP0u7ZSw",
+      "avg_view_seconds": 36.0,
+      "avg_view_percent": 85.5,
+      "shares": 1,
+      "subscribers_gained": 1
     },
     "a_7ULbNzldk": {
       "upload_status": "processed",
@@ -945,7 +1138,11 @@
       "views": 1510,
       "likes": 17,
       "comments": 0,
-      "url": "https://youtube.com/shorts/a_7ULbNzldk"
+      "url": "https://youtube.com/shorts/a_7ULbNzldk",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 73.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "lbyTt6i2XOo": {
       "upload_status": "processed",
@@ -969,7 +1166,11 @@
       "views": 147,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/lbyTt6i2XOo"
+      "url": "https://youtube.com/shorts/lbyTt6i2XOo",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 40.5,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "XW0IAUHH4EI": {
       "upload_status": "processed",
@@ -993,7 +1194,11 @@
       "views": 34,
       "likes": 2,
       "comments": 0,
-      "url": "https://youtube.com/shorts/XW0IAUHH4EI"
+      "url": "https://youtube.com/shorts/XW0IAUHH4EI",
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 64.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "hUG-q54cj-0": {
       "upload_status": "processed",
@@ -1017,7 +1222,11 @@
       "views": 1402,
       "likes": 39,
       "comments": 0,
-      "url": "https://youtube.com/shorts/hUG-q54cj-0"
+      "url": "https://youtube.com/shorts/hUG-q54cj-0",
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 71.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "JgG0vB0x9xY": {
       "upload_status": "processed",
@@ -1041,7 +1250,11 @@
       "views": 449,
       "likes": 8,
       "comments": 1,
-      "url": "https://youtube.com/shorts/JgG0vB0x9xY"
+      "url": "https://youtube.com/shorts/JgG0vB0x9xY",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 52.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "jNVKvOMi3ko": {
       "upload_status": "processed",
@@ -1065,7 +1278,11 @@
       "views": 1014,
       "likes": 19,
       "comments": 0,
-      "url": "https://youtube.com/shorts/jNVKvOMi3ko"
+      "url": "https://youtube.com/shorts/jNVKvOMi3ko",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 51.3,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "rTs49HonaXo": {
       "upload_status": "processed",
@@ -1089,7 +1306,11 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/rTs49HonaXo"
+      "url": "https://youtube.com/shorts/rTs49HonaXo",
+      "avg_view_seconds": 32.0,
+      "avg_view_percent": 104.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "5pKsRTupbRY": {
       "upload_status": "processed",
@@ -1113,7 +1334,11 @@
       "views": 90,
       "likes": 1,
       "comments": 0,
-      "url": "https://youtube.com/shorts/5pKsRTupbRY"
+      "url": "https://youtube.com/shorts/5pKsRTupbRY",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 44.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ID8nA8KDcUg": {
       "upload_status": "processed",
@@ -1137,7 +1362,11 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/ID8nA8KDcUg"
+      "url": "https://youtube.com/shorts/ID8nA8KDcUg",
+      "avg_view_seconds": 4.0,
+      "avg_view_percent": 10.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "oUmGCbVNL3k": {
       "upload_status": "processed",
@@ -1161,7 +1390,11 @@
       "views": 6,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/oUmGCbVNL3k"
+      "url": "https://youtube.com/shorts/oUmGCbVNL3k",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 46.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "8ZUX5ClQ4so": {
       "upload_status": "processed",
@@ -1185,7 +1418,11 @@
       "views": 112,
       "likes": 4,
       "comments": 0,
-      "url": "https://youtube.com/shorts/8ZUX5ClQ4so"
+      "url": "https://youtube.com/shorts/8ZUX5ClQ4so",
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 24.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "pQBmvioCP6E": {
       "upload_status": "processed",
@@ -1209,7 +1446,11 @@
       "views": 454,
       "likes": 6,
       "comments": 0,
-      "url": "https://youtube.com/shorts/pQBmvioCP6E"
+      "url": "https://youtube.com/shorts/pQBmvioCP6E",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 44.6,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "mwNxqOaibXU": {
       "upload_status": "processed",
@@ -1233,7 +1474,11 @@
       "views": 64,
       "likes": 1,
       "comments": 0,
-      "url": "https://youtube.com/shorts/mwNxqOaibXU"
+      "url": "https://youtube.com/shorts/mwNxqOaibXU",
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 73.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "BcQ6XKRdqJ4": {
       "upload_status": "processed",
@@ -1257,7 +1502,11 @@
       "views": 3,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/BcQ6XKRdqJ4"
+      "url": "https://youtube.com/shorts/BcQ6XKRdqJ4",
+      "avg_view_seconds": 37.0,
+      "avg_view_percent": 114.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "xBKMr5_ouYQ": {
       "upload_status": "processed",
@@ -1281,7 +1530,11 @@
       "views": 490,
       "likes": 2,
       "comments": 0,
-      "url": "https://youtube.com/shorts/xBKMr5_ouYQ"
+      "url": "https://youtube.com/shorts/xBKMr5_ouYQ",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 51.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "YX7zSStVK_k": {
       "upload_status": "processed",
@@ -1305,7 +1558,11 @@
       "views": 70,
       "likes": 1,
       "comments": 0,
-      "url": "https://youtube.com/shorts/YX7zSStVK_k"
+      "url": "https://youtube.com/shorts/YX7zSStVK_k",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 36.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "UDcAAirDM9o": {
       "upload_status": "processed",
@@ -1329,7 +1586,11 @@
       "views": 3,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/UDcAAirDM9o"
+      "url": "https://youtube.com/shorts/UDcAAirDM9o",
+      "avg_view_seconds": 32.0,
+      "avg_view_percent": 104.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "GqUvFhc7Slk": {
       "upload_status": "processed",
@@ -1350,10 +1611,14 @@
       "hook": "An orca killed a great white shark in under two minutes.",
       "published_at": "2026-10-19T02:10:18Z",
       "privacy": "public",
-      "views": 842,
+      "views": 841,
       "likes": 9,
       "comments": 0,
-      "url": "https://youtube.com/shorts/GqUvFhc7Slk"
+      "url": "https://youtube.com/shorts/GqUvFhc7Slk",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 51.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "Ai052d7-pp4": {
       "upload_status": "processed",
@@ -1401,7 +1666,11 @@
       "views": 1012,
       "likes": 5,
       "comments": 0,
-      "url": "https://youtube.com/shorts/wyObPwWsA0g"
+      "url": "https://youtube.com/shorts/wyObPwWsA0g",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 46.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "F_0H7cz8PE4": {
       "upload_status": "processed",
@@ -1542,7 +1811,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 265,
+      "views": 264,
       "likes": 7,
       "comments": 0,
       "url": "https://youtube.com/shorts/valUZFoPBN4"
@@ -1566,7 +1835,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 116,
+      "views": 114,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o"
@@ -1590,7 +1859,7 @@
       "hook": "This snail can kill you with one sting. There's no antivenom.",
       "published_at": "2026-10-22T02:15:18Z",
       "privacy": "public",
-      "views": 62,
+      "views": 64,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/cmlnxZqwptc"
@@ -1639,7 +1908,7 @@
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
       "views": 75,
-      "likes": 2,
+      "likes": 3,
       "comments": 0,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
     },
@@ -1665,7 +1934,11 @@
       "views": 6,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/YmsVWnGQ7_k"
+      "url": "https://youtube.com/shorts/YmsVWnGQ7_k",
+      "avg_view_seconds": 55.0,
+      "avg_view_percent": 153.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "650vI7wznrM": {
       "upload_status": "processed",
@@ -1710,7 +1983,7 @@
       "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
       "published_at": "2026-10-22T13:50:30Z",
       "privacy": "public",
-      "views": 61,
+      "views": 63,
       "likes": 2,
       "comments": 0,
       "url": "https://youtube.com/shorts/c6f1sIZn_Co"
@@ -1782,7 +2055,7 @@
       "hook": "A vulture hit a passenger jet at 37,000 feet.",
       "published_at": "2026-10-22T16:40:17Z",
       "privacy": "public",
-      "views": 11,
+      "views": 10,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/WXZ7kpLm8Bc"
@@ -1881,7 +2154,11 @@
       "views": 32,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/TtDH4yL4P10"
+      "url": "https://youtube.com/shorts/TtDH4yL4P10",
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 73.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "T4gdnphQUUE": {
       "upload_status": "processed",
@@ -1905,7 +2182,11 @@
       "views": 36,
       "likes": 2,
       "comments": 0,
-      "url": "https://youtube.com/shorts/T4gdnphQUUE"
+      "url": "https://youtube.com/shorts/T4gdnphQUUE",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 50.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",
@@ -1929,7 +2210,11 @@
       "views": 65,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/uMujdO5WqYo"
+      "url": "https://youtube.com/shorts/uMujdO5WqYo",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 46.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "6lrpcVotc7I": {
       "upload_status": "processed",
@@ -1953,7 +2238,11 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/6lrpcVotc7I"
+      "url": "https://youtube.com/shorts/6lrpcVotc7I",
+      "avg_view_seconds": 35.0,
+      "avg_view_percent": 97.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "HS8O59SC0rc": {
       "upload_status": "processed",
@@ -1977,7 +2266,11 @@
       "views": 76,
       "likes": 2,
       "comments": 0,
-      "url": "https://youtube.com/shorts/HS8O59SC0rc"
+      "url": "https://youtube.com/shorts/HS8O59SC0rc",
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 53.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "EwlfYEnJaiU": {
       "upload_status": "processed",
@@ -2001,7 +2294,11 @@
       "views": 124,
       "likes": 2,
       "comments": 0,
-      "url": "https://youtube.com/shorts/EwlfYEnJaiU"
+      "url": "https://youtube.com/shorts/EwlfYEnJaiU",
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 64.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "sSBPt5yFR_c": {
       "upload_status": "processed",
@@ -2025,7 +2322,11 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/sSBPt5yFR_c"
+      "url": "https://youtube.com/shorts/sSBPt5yFR_c",
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 56.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "7E64Z48yaAs": {
       "upload_status": "processed",
@@ -2046,7 +2347,7 @@
       "hook": "Scientists drilled seven and a half miles down. The Earth fought back.",
       "published_at": "2026-10-21T21:00:16Z",
       "privacy": "public",
-      "views": 3,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/7E64Z48yaAs"
