@@ -56,8 +56,17 @@ def fetch_retention(youtube, video_ids: list[str]) -> dict[str, dict]:
                                       filters="video==" + ",".join(chunk), maxResults=50).execute()
         except Exception as e:  # noqa: BLE001
             msg = str(e)
+            detail = ""
+            try:
+                body = json.loads(getattr(e, "content", b"") or b"{}")
+                err = body.get("error", {})
+                detail = f"{err.get('status') or err.get('code')}: {err.get('message', '')[:200]}"
+                for d in err.get("errors", [])[:1]:
+                    detail += f" ({d.get('reason')})"
+            except Exception:  # noqa: BLE001
+                detail = msg[-200:]
             RETENTION_NOTE = ("analytics permission missing: re-authorize once (python -m pipeline.authorize)"
-                              if "insufficient" in msg.lower() else f"analytics query failed: {msg[:300]}")
+                              if "insufficient" in msg.lower() else f"analytics query failed: {detail}")
             print(f"[stats] {RETENTION_NOTE}")
             return out
         cols = [c["name"] for c in resp.get("columnHeaders", [])]
