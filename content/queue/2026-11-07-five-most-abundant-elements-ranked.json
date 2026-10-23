@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-07-five-most-abundant-elements-ranked",
+  "format": "ranking",
+  "ranking_by": "share of ordinary matter by mass",
+  "topic": "science",
+  "title": "The 5 Most Common Elements in the Universe, Ranked (Gold Isn't Close)",
+  "scenes": [
+    {
+      "text": "Gold isn't on this list. Number one makes up almost three quarters of everything.",
+      "keywords": "galaxy stars nebula"
+    },
+    {
+      "rank": 5,
+      "label": "Neon · 0.13%",
+      "text": "Number five: neon. Only about a tenth of one percent of the universe, the gas that glows in signs.",
+      "keywords": "neon sign glowing"
+    },
+    {
+      "rank": 4,
+      "label": "Carbon · 0.46%",
+      "text": "Number four: carbon. Less than half a percent, yet every living thing on Earth is built on it.",
+      "keywords": "diamond graphite carbon"
+    },
+    {
+      "rank": 3,
+      "label": "Oxygen · 1%",
+      "text": "Number three: oxygen. About one percent of the universe, forged inside massive stars.",
+      "keywords": "supernova explosion"
+    },
+    {
+      "rank": 2,
+      "label": "Helium · 24%",
+      "text": "Number two: helium. About twenty-four percent, most of it made in the first minutes after the Big Bang.",
+      "keywords": "helium balloons"
+    },
+    {
+      "rank": 1,
+      "label": "Hydrogen · 74%",
+      "text": "Number one: hydrogen. About seventy-four percent. Nearly every star you see is mostly hydrogen.",
+      "keywords": "sun star hydrogen"
+    }
+  ],
+  "description": "The five most abundant elements in the universe, ranked by share of ordinary matter by mass.\nHydrogen and helium make up about 98 percent of it. Everything else, including you, is the rest.\nWhich element surprised you most?",
+  "tags": [
+    "abundant elements",
+    "hydrogen",
+    "helium",
+    "universe facts",
+    "science rankings",
+    "top 5 science",
+    "chemistry facts",
+    "periodic table",
+    "big bang",
+    "shorts facts",
+    "space facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#universe",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abundance_of_the_chemical_elements",
+    "https://chandra.harvard.edu/resources/illustrations/chemistry_universe.html"
+  ],
+  "thumbnail_text": "5 COMMON ELEMENTS, RANKED",
+  "priority": 5,
+  "first_comment": "Where would you rank gold? And what should we rank next?"
+}

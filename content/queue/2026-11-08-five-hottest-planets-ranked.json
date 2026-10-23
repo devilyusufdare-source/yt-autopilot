@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-08-five-hottest-planets-ranked",
+  "format": "ranking",
+  "ranking_by": "average temperature",
+  "topic": "space",
+  "title": "The 5 Hottest Planets, Ranked (the Closest to the Sun Is Only #2)",
+  "scenes": [
+    {
+      "text": "The planet closest to the Sun is not the hottest. Not even close.",
+      "keywords": "planet mercury sun"
+    },
+    {
+      "rank": 5,
+      "label": "Jupiter · -110°C",
+      "text": "Number five: Jupiter. About minus one hundred ten degrees Celsius, measured where its air is as thick as ours.",
+      "keywords": "jupiter planet"
+    },
+    {
+      "rank": 4,
+      "label": "Mars · -65°C",
+      "text": "Number four: Mars. Around minus sixty-five degrees Celsius, a frozen red desert.",
+      "keywords": "mars surface red desert"
+    },
+    {
+      "rank": 3,
+      "label": "Earth · 15°C",
+      "text": "Number three: Earth. An average of fifteen degrees Celsius, warm enough for liquid water.",
+      "keywords": "earth from space"
+    },
+    {
+      "rank": 2,
+      "label": "Mercury · 167°C",
+      "text": "Number two: Mercury. Only one hundred sixty-seven degrees on average, swinging from four hundred thirty by day to minus one eighty at night.",
+      "keywords": "mercury planet surface"
+    },
+    {
+      "rank": 1,
+      "label": "Venus · 464°C",
+      "text": "Number one: Venus. Four hundred sixty-four degrees Celsius, hot enough to melt lead. Thick air traps the heat.",
+      "keywords": "venus planet clouds"
+    }
+  ],
+  "description": "The five hottest planets in our solar system, ranked by average temperature.\nMercury is closest to the Sun, but Venus is hotter because its thick atmosphere traps heat.\nWhich planet would you visit first?",
+  "tags": [
+    "hottest planet",
+    "venus",
+    "mercury",
+    "planet temperatures",
+    "space rankings",
+    "top 5 space",
+    "space facts",
+    "solar system facts",
+    "greenhouse effect",
+    "shorts facts",
+    "astronomy"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#planets",
+    "#ranking"
+  ],
+  "sources": [
+    "https://science.nasa.gov/solar-system/temperatures-across-our-solar-system",
+    "https://science.nasa.gov/mercury/facts"
+  ],
+  "thumbnail_text": "5 HOTTEST PLANETS, RANKED",
+  "priority": 6,
+  "first_comment": "Would you rather stand on Venus or Mercury? And what should we rank next?"
+}

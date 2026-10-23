@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-05-five-closest-stars-ranked",
+  "format": "ranking",
+  "ranking_by": "distance from the Sun",
+  "topic": "space",
+  "title": "The 5 Closest Stars to Earth, Ranked (#1 You Can't See at All)",
+  "scenes": [
+    {
+      "text": "The brightest star in the night sky is only number five. Number one is invisible.",
+      "keywords": "night sky stars"
+    },
+    {
+      "rank": 5,
+      "label": "Sirius · 8.6 ly",
+      "text": "Number five: Sirius. Eight point six light-years away, and the brightest star in our night sky.",
+      "keywords": "sirius star night sky"
+    },
+    {
+      "rank": 4,
+      "label": "Lalande 21185 · 8.3 ly",
+      "text": "Number four: Lalande twenty-one one eight five. Eight point three light-years away, and too dim to see without a telescope.",
+      "keywords": "red dwarf star telescope"
+    },
+    {
+      "rank": 3,
+      "label": "Wolf 359 · 7.9 ly",
+      "text": "Number three: Wolf three fifty-nine. Seven point nine light-years away, a tiny red dwarf.",
+      "keywords": "red star space"
+    },
+    {
+      "rank": 2,
+      "label": "Barnard's Star · 6 ly",
+      "text": "Number two: Barnard's Star. Just under six light-years away, another faint red dwarf.",
+      "keywords": "star field telescope"
+    },
+    {
+      "rank": 1,
+      "label": "Proxima · 4.2 ly",
+      "text": "Number one: Proxima Centauri. Four point two light-years away, our closest star after the Sun. Yet you can't see it without a telescope.",
+      "keywords": "proxima centauri star telescope"
+    }
+  ],
+  "description": "The five closest star systems to Earth, ranked by distance. The brightest star in the sky is only number five.\nNumber one is our nearest neighbor, but it's too faint to see without a telescope.\nWould you fly to Proxima if you could?",
+  "tags": [
+    "closest stars",
+    "proxima centauri",
+    "sirius",
+    "nearest stars to earth",
+    "space rankings",
+    "top 5 space",
+    "space facts",
+    "alpha centauri",
+    "red dwarf",
+    "shorts facts",
+    "astronomy"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#stars",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.skyatnightmagazine.com/space-science/closest-stars-to-earth",
+    "https://skyandtelescope.org/astronomy-news/meet-proxima-centauri-closest-star/",
+    "https://www.star-facts.com/nearest-stars/"
+  ],
+  "thumbnail_text": "5 CLOSEST STARS, RANKED",
+  "priority": 6,
+  "first_comment": "Would you take a one-way trip to Proxima if it took 70 years? And what should we rank next?"
+}
