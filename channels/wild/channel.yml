@@ -1,0 +1,180 @@
+# Channel 2: Wild Unlocked (animals only). Used when the workflow sets YT_CHANNEL=wild; records live in
+# channels/wild/content/. Same pipeline, own queue, own release rhythm, own YouTube key (the *_2 secrets).
+# ---------------------------------------------------------------------------
+# Channel settings. Edit freely; the daily job reads this file every run.
+# ---------------------------------------------------------------------------
+
+channel:
+  name: "Wild Unlocked"            # small label shown at the top of every video
+  niche: >
+    Mind-blowing, verified facts about psychology, the human body, space,
+    science, history and animals — told as 30-50 second Shorts with a strong
+    hook in the first 2 seconds.
+  language: "en"                   # BCP-47 language of the voice/captions
+  default_category_id: "27"        # 27 Education | 28 Science & Tech | 24 Entertainment | 22 People & Blogs
+  privacy: "public"                # public | unlisted | private  (read README: "Why are my uploads private?")
+  made_for_kids: false
+  title_suffix: ""                 # e.g. " #Shorts" — appended to every title
+  description_footer: |
+    Follow for a new animal fact every day.
+    Stock footage: Pixabay / Pexels.
+
+# How videos are released. The job runs every 2 hours (see .github/workflows/daily.yml) and
+# uploads whenever YouTube's rolling 24 h upload limit has room (`daily_limit`, 10 for this
+# channel - it refused the 11th upload). Uploading and releasing are separate: every uploaded
+# video is scheduled to go public at the next FREE time in its slot list below (release
+# timezone), so a video uploaded at noon quietly waits as "Scheduled" until its slot.
+# Release times (India time) for a mixed US/India audience: Shorts every 1.5 h from 4 PM to 5 AM IST
+# (= 6:30 AM to 7:30 PM US East); the two India-daytime slots (8 AM, 12:30 PM = US night) flopped and
+# were dropped. Daily plan = 10 Shorts (long videos paused until the channel has an audience).
+# Before every upload the job counts the uploads of the last 24 h and waits for a free slot,
+# so the cap is never hit. Raise daily_limit only when YouTube raises the channel's limit.
+release:
+  videos_per_run: 1                # one video per run; the workflow runs once before each release time
+  interval_minutes: 60             # minimum spacing between two releases
+  # 10 Shorts a day (the owner's decision, 21 Oct). The 7:45 AM IST slot (US evening) is the one that kept
+  # getting views during the 19-21 Oct collapse, so it replaces the 4 PM slot (India afternoon = US night).
+  # Optional throttles, both off: `videos_per_day: N` caps uploads below YouTube's limit, `only_topics: [...]`
+  # restricts the queue to some topics.
+  videos_per_day: 4                # launch ramp: 4 the first week, then 6, 8, 10 as the channel earns it
+  shorts_slots: ["07:45", "19:00", "22:00", "02:30"]
+  longform_slots: ["06:30"]        # used only while longform.enabled is true
+  daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
+  probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it
+  lead_minutes: 20                 # a publish time is at least this many minutes after the upload
+  max_wait_hours: 1.5              # if the next free slot is further away than this, publish ~25 min after upload instead
+  timezone: "Asia/Kolkata"
+
+# Facebook Page cross-posting. Every Short also goes up as a Reel and every long video as a
+# Page video, scheduled for the same time as on YouTube. Needs the FB_PAGE_ID and FB_PAGE_TOKEN
+# secrets (made once with pipeline/facebook_setup.py); without them nothing is posted.
+facebook:
+  enabled: false
+  reels: true
+  long_videos: true
+  footer: "Follow Mind Unlocked Facts for a new verified fact every day."
+
+# Per-topic look, so ten videos a day do not share one template (YouTube treats identical-looking
+# uploads as mass-produced). Each topic gets its own caption colour, voice and motion; anything not
+# listed falls back to `default`. Voices: any en-US-*Neural edge-tts voice.
+looks:
+  default:    { highlight_color: "#86EFAC", voice: "en-US-BrianNeural",  zoom: 0.10 }
+  space:      { highlight_color: "#7DD3FC", voice: "en-US-AndrewNeural", zoom: 0.06 }
+  animals:    { highlight_color: "#86EFAC", voice: "en-US-BrianNeural",  zoom: 0.10 }
+  science:    { highlight_color: "#FFD400", voice: "en-US-GuyNeural",    zoom: 0.08 }
+  human body: { highlight_color: "#FDA4AF", voice: "en-US-AvaNeural",    zoom: 0.09 }
+  history:    { highlight_color: "#FCD34D", voice: "en-US-ChristopherNeural", zoom: 0.07 }
+  psychology: { highlight_color: "#C4B5FD", voice: "en-US-EmmaNeural",   zoom: 0.08 }
+  technology: { highlight_color: "#67E8F9", voice: "en-US-EricNeural",   zoom: 0.08 }
+  games:      { highlight_color: "#A3E635", voice: "en-US-RogerNeural",  zoom: 0.09 }
+  internet:   { highlight_color: "#F9A8D4", voice: "en-US-AriaNeural",   zoom: 0.08 }
+
+# Client prospecting (python -m pipeline.prospects / the "Find client prospects" workflow):
+# niches where small creators post Shorts and would buy ready-made ones.
+prospects:
+  queries:
+    - "study tips for students"
+    - "english speaking practice"
+    - "personal finance tips"
+    - "gym workout motivation"
+    - "psychology facts"
+    - "history facts"
+    - "coding tips for beginners"
+    - "productivity tips"
+    - "science facts"
+    - "space facts"
+
+# Long videos (16:9, 8-11 minutes): a themed list of 8-12 verified facts, one chapter each, from
+# content/longform/queue/ (written by the long-form writer task, see AGENT_LONGFORM.md).
+# One is made for every free `longform_slots` time at most `build_hours_ahead` hours ahead.
+longform:
+  enabled: false                   # paused: 0-1 views each on a 20-subscriber channel; switch on again at ~1,000 subscribers
+  restart_at_subscribers: 1000
+  queue_target: 3                  # the writer keeps this many long videos ready
+  build_hours_ahead: 24
+  min_segments: 8
+  max_segments: 12
+  max_seconds: 900
+  width: 1920
+  height: 1080
+  zoom: 0.05
+  crf: 21
+  preset: fast
+  gap_seconds: 0.45
+  progress_bar: false
+  caption_font_size: 66
+  words_per_group: 4
+  max_chars_per_line: 26
+  caption_y_percent: 84
+  caption_outline_px: 6
+  series_label: "Mind Unlocked Facts"   # pill shown during the intro and outro
+  thumbnail: true
+
+# Sub-topics the idea generator rotates through (it avoids repeating the last few).
+topics:
+  - animals
+
+# The idea generator keeps this many ready-to-render ideas waiting in content/queue (600 = two months in stock,
+# so uploads continue even when the idea writer is not running).
+queue_target: 150
+
+video:
+  width: 1080
+  height: 1920
+  fps: 30
+  max_seconds: 58                  # hard cap; Shorts can be up to 3 min but 30-50 s performs best
+  gap_seconds: 0.25                # silence between scenes
+  seconds_per_clip: 2.8            # cut to a new clip about this often (a scene is split into up to max_clips_per_scene clips)
+  max_clips_per_scene: 3
+  zoom: 0.08                       # slow push-in per scene (0 = off)
+  progress_bar: true               # thin bar along the bottom that fills over the video
+  crf: 20                          # quality (lower = better/bigger). 18-23 is sensible.
+
+voice:
+  engine: "auto"                   # auto = Microsoft neural voice (edge-tts), falls back to offline voice | edge | offline
+  edge_voice: "en-US-AndrewNeural" # try: en-US-BrianNeural, en-US-ChristopherNeural, en-GB-RyanNeural, en-IN-PrabhatNeural
+  edge_rate: "+10%"
+  loudness_lufs: -19               # overall loudness of the finished video. YouTube's own level is about -14; lower = quieter/softer
+  offline_voice: "vits-piper-en_US-ryan-medium"   # any vits-piper-* model from the sherpa-onnx tts-models release
+  offline_speed: 0.8
+
+captions:
+  font_file: "assets/fonts/Poppins-ExtraBold.ttf"
+  font_name: "Poppins ExtraBold"
+  font_size: 104
+  uppercase: true
+  words_per_group: 3
+  max_chars_per_line: 14
+  text_color: "#FFFFFF"
+  highlight_color: "#86EFAC"       # the word currently being spoken
+  outline_px: 8
+  y_percent: 56                    # vertical centre of the captions (0 = top, 100 = bottom)
+  title_card: true                 # the headline (thumbnail_text) pops in at the top third in the first second
+  title_seconds: 1.5               # how long it stays in the "classic" style ("punch" keeps it for the whole first scene)
+  title_y_percent: 33
+  title_scale: 1.22                # relative to font_size
+  show_top_label: true             # small pill near the top
+  day_counter: false                # pill reads "DAY 12 • SPACE" (streak since the first upload) instead of the channel name
+
+music:
+  enabled: true                    # uses a random file from assets/music/ (mp3/m4a/wav); silent if the folder is empty
+  volume: 0.10
+
+cta:
+  spoken: true                     # used by the "classic" style only
+  text: "Follow for a new animal fact every day."
+  end_text: "Follow for more"      # small label in the last second of a "punch" style video
+  first_comment_enabled: false     # off: posting comments needs the extra YouTube permission (see README step 3)
+  first_comment: "Which fact should we cover next? 👇"   # fallback when an idea has no question of its own
+
+# A/B test of the two video styles (see pipeline/run.py build_video): classic = word-by-word
+# captions from the first word + spoken call-to-action; punch = full hook sentence on screen for
+# the first scene, no spoken CTA, ends on the punchline. Uploads alternate while this is on;
+# content/stats.json shows average views per style under "by_style".
+experiment:
+  alternate_styles: true         # test over: "punch" averaged 531 views vs 710 for classic (12 vs 31 videos)
+
+thumbnail:
+  enabled: true                    # generated 1080x1920 image; YouTube needs a phone-verified channel to accept it (non-fatal)
+  background: "#0B1020"
+  accent: "#86EFAC"

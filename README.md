@@ -91,6 +91,11 @@ seen as `uploadLimitExceeded`). `release.daily_limit` in channel.yml tells the j
 waits for a free slot instead of being refused. Raise it when YouTube raises the channel's limit
 (Studio → Settings → Channel → Feature eligibility → Advanced features).
 
+Second channel: **Wild Unlocked** (animals only) runs from the same code with its own settings and
+records in `channels/wild/` (`channel.yml`, `content/`), its own YouTube key (`YT_CLIENT_ID_2`,
+`YT_CLIENT_SECRET_2`, `YT_REFRESH_TOKEN_2` secrets) and its own workflow, `daily-wild.yml`
+(`YT_CHANNEL=wild`). Launch ramp: `release.videos_per_day` 4 → 6 → 8 → 10 (add a cron line per slot).
+
 Retention (optional, recommended): re-authorize once with analytics access and `content/stats.json`
 gains `avg_view_percent` / `avg_view_seconds` per video plus a `retention` summary, so hooks can be
 fixed from real numbers. Steps: (1) Google Cloud Console → APIs & Services → Library → enable

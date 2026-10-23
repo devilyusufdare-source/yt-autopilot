@@ -1,0 +1,196 @@
+name: Daily video (Wild Unlocked)
+
+on:
+  schedule:
+    # Channel 2 (Wild Unlocked, animals only): one run about 55 minutes before each release time in
+    # channels/wild/channel.yml (IST 07:45, 19:00, 22:00, 02:30 during the launch week). Runs share the
+    # "daily-video" queue with channel 1, so they never push at the same time. Add cron lines here when
+    # `release.videos_per_day` and the slot list grow (6 -> 8 -> 10).
+    - cron: "20 1 * * *"
+    - cron: "35 12 * * *"
+    - cron: "35 15 * * *"
+    - cron: "5 20 * * *"
+  push:
+    # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
+    paths:
+      - "pipeline/**"
+      - "channels/wild/channel.yml"
+      - "assets/**"
+      - ".github/workflows/daily.yml"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Render only - do not upload, keep the idea in the queue"
+        type: boolean
+        default: false
+      package:
+        description: "Specific idea file to render (optional), e.g. channels/wild/content/queue/<file>.json"
+        type: string
+        default: ""
+      count:
+        description: "How many videos to make this run (optional; default = release.videos_per_run in channel.yml)"
+        type: string
+        default: ""
+      publish_now:
+        description: "Publish immediately instead of scheduling hourly slots"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-video
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}   # the branch tip at the moment the job starts, not the run's old snapshot
+
+      - name: Make sure we have the very latest queue and published records
+        run: |
+          git fetch origin "${GITHUB_REF_NAME}"
+          git reset --hard "origin/${GITHUB_REF_NAME}"
+          echo "using $(git rev-parse --short HEAD)"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install ffmpeg
+        timeout-minutes: 10          # a stuck package mirror must not eat the whole run
+        run: |
+          for i in 1 2 3; do
+            if sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null; then break; fi
+            echo "apt attempt $i failed; retrying in 20 s"; sleep 20
+          done
+          ffmpeg -version | head -n 1
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Cache the offline voice model
+        uses: actions/cache@v4
+        with:
+          path: .cache/tts
+          key: tts-cache-${{ runner.os }}-${{ hashFiles('channels/wild/channel.yml') }}
+
+      - name: Make and publish today's video
+        id: make
+        env:
+          YT_CHANNEL: wild
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID_2 }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET_2 }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN_2 }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          DRY_RUN: ${{ (github.event_name == 'push' || inputs.dry_run == true) && 'true' || 'false' }}
+          PACKAGE: ${{ inputs.package }}
+          COUNT: ${{ inputs.count }}
+          NOW: ${{ inputs.publish_now == true && 'true' || 'false' }}
+        run: |
+          ARGS=""
+          if [ "$NOW" = "true" ]; then ARGS="$ARGS --now"; fi
+          if [ "$DRY_RUN" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ -n "$PACKAGE" ]; then ARGS="$ARGS --package $PACKAGE"; fi
+          if [ -n "$COUNT" ]; then ARGS="$ARGS --count $COUNT"; fi
+          python -m pipeline.run $ARGS
+
+      - name: Keep the rendered video as a downloadable artifact (test renders only)
+        # Scheduled runs upload to YouTube, so no copy is kept; test renders keep one for 3 days.
+        # Never fails the run: artifact storage is a convenience, not part of publishing.
+        if: ${{ always() && github.event_name != 'schedule' }}
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: video-${{ github.run_number }}
+          path: |
+            output/*/*.mp4
+            output/*/thumbnail.jpg
+            output/*/captions.ass
+            output/summary.json
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: Keep today's finished videos for cross-posting (Instagram, Reddit)
+        # Uploaded videos are attached to a release named after the day (IST), so they can be downloaded on
+        # a phone from the repository's Releases page and posted elsewhere by hand. Releases older than
+        # 4 days are removed. Never fails the run.
+        if: ${{ github.event_name == 'schedule' && steps.make.outcome == 'success' }}
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          DAY=$(TZ=Asia/Kolkata date +%Y-%m-%d)
+          TAG="videos-$DAY"
+          FILES=$(ls output/*/*.mp4 2>/dev/null || true)
+          [ -z "$FILES" ] && { echo "no uploaded videos this run"; exit 0; }
+          if ! gh release view "$TAG" -R "$GITHUB_REPOSITORY" > /dev/null 2>&1; then
+            gh release create "$TAG" -R "$GITHUB_REPOSITORY" --title "Videos of $DAY"               --notes "Finished videos of $DAY (India time), for posting to Instagram Reels / Reddit by hand. Removed after 4 days." || true
+          fi
+          gh release upload "$TAG" $FILES -R "$GITHUB_REPOSITORY" --clobber || true
+          # prune old video releases
+          for OLD in $(gh release list -R "$GITHUB_REPOSITORY" --limit 50 --json tagName --jq '.[].tagName' | grep '^videos-' || true); do
+            OLD_DAY=${OLD#videos-}
+            if [ "$(date -d "$OLD_DAY" +%s)" -lt "$(date -d "$DAY -4 days" +%s)" ]; then
+              gh release delete "$OLD" -R "$GITHUB_REPOSITORY" --yes --cleanup-tag || true
+            fi
+          done
+
+      - name: Summarise the run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ github.event_name }}
+          OUTCOME: ${{ steps.make.outcome }}
+        run: |
+          if [ -f output/summary.json ]; then
+            SUMMARY=$(python - <<'PY'
+          import json
+          d = json.load(open("output/summary.json"))
+          lines = []
+          for v in d.get("videos", []):
+              lines.append(f"- {v.get('status')}: **{v.get('title')}** ({v.get('duration_seconds')}s, voice={v.get('voice')}, footage={v.get('footage')})"
+                           + (f" -> {v['url']} public at {v.get('goes_public_at')}" if v.get("url") else "")
+                           + (f" | facebook: {v['facebook']}" if v.get("facebook") else ""))
+          lines.append(f"- failed: {d.get('failed', 0)}")
+          if d.get("error"):
+              lines.append(f"- error: {d['error']}")
+          if d.get("note"):
+              lines.append(f"- note: {d['note']}")
+          print("\n".join(lines))
+          PY
+          )
+          else
+            SUMMARY="- the run failed before a video was rendered (see the step log above)"
+          fi
+          printf '### wild-unlocked run %s (%s, %s)\n%s\n' "$GITHUB_RUN_NUMBER" "$EVENT" "$OUTCOME" "$SUMMARY" >> "$GITHUB_STEP_SUMMARY"
+          if [ "$EVENT" != "schedule" ] || [ "$OUTCOME" != "success" ]; then
+            gh api "repos/$GITHUB_REPOSITORY/commits/$GITHUB_SHA/comments" \
+              -f body="$(printf 'wild-unlocked run #%s (%s, %s)\n\n%s\n\n%s' "$GITHUB_RUN_NUMBER" "$EVENT" "$OUTCOME" "$SUMMARY" "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID")" > /dev/null || true
+          fi
+
+      - name: Record the result in the repository
+        if: ${{ always() && github.event_name != 'push' && inputs.dry_run != true }}
+        run: |
+          git config user.name "yt-autopilot"
+          git config user.email "yt-autopilot@users.noreply.github.com"
+          git add channels/wild/content
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            TITLE=$(python -c "import json; d=json.load(open('output/summary.json')); v=[x for x in d.get('videos',[]) if x.get('status')=='uploaded']; print(('publish: ' + (v[0]['title'] if len(v)==1 else f'{len(v)} videos')) if v else 'records: stats and comments')" 2>/dev/null || echo "records: update")
+            git commit -m "$TITLE"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi

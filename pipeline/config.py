@@ -9,7 +9,12 @@ from typing import Any
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-CONTENT_DIR = ROOT / "content"
+# A second channel keeps its own settings and records in channels/<name>/ (channel.yml + content/);
+# the workflow for that channel sets YT_CHANNEL=<name>. Unset = the main channel (channel.yml, content/).
+CHANNEL = (os.environ.get("YT_CHANNEL") or "").strip()
+CHANNEL_DIR = ROOT / "channels" / CHANNEL if CHANNEL else ROOT
+CONFIG_FILE = CHANNEL_DIR / "channel.yml"
+CONTENT_DIR = CHANNEL_DIR / "content"
 QUEUE_DIR = CONTENT_DIR / "queue"
 PUBLISHED_DIR = CONTENT_DIR / "published"
 FAILED_DIR = CONTENT_DIR / "failed"
@@ -86,7 +91,7 @@ def with_overrides(cfg: Config, overrides: dict) -> Config:
 
 
 def load_config(path: Path | None = None) -> Config:
-    path = path or ROOT / "channel.yml"
+    path = path or CONFIG_FILE
     with open(path, "r", encoding="utf-8") as f:
         raw = yaml.safe_load(f) or {}
     return Config(raw=raw)

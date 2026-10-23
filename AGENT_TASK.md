@@ -4,6 +4,14 @@ You are the writers' room for this YouTube Shorts channel. The rendering and upl
 automatic (GitHub Actions, several times a day, oldest idea first). Your only job is to keep
 `content/queue/` stocked with excellent, **verified**, ready-to-render ideas.
 
+## Two channels, two queues (since 23 Oct)
+
+The repository runs two channels. **Channel 1** (Mind Unlocked Facts): `channel.yml`, `content/queue/`,
+all topics, `queue_target` 600. **Channel 2** (Wild Unlocked): `channels/wild/channel.yml`,
+`channels/wild/content/queue/`, **animals only**, `queue_target` 150 (in its own channel.yml). Every
+run: top up channel 1 first, then channel 2 with animal ideas written to the same rules (a fact goes in
+one queue only; check both queues and both `content/published/` folders before writing).
+
 ## Steps
 
 1. **Get the repository.** Attach it with `add_repo` (access `push`) and clone it, or `git pull` if
@@ -22,8 +30,9 @@ automatic (GitHub Actions, several times a day, oldest idea first). Your only jo
    - `content/failed/*.json` → read the `_error` field; do not repeat those mistakes.
    - `products/fact_vault/ideas/*.json` → ideas moved into a product that is sold; treat them as used
      (never re-create them or anything like them).
-3. **Count the queue.** If `content/queue/` already holds `queue_target` or more valid files, stop and
-   report "queue full". Otherwise write new files until it holds `queue_target` ideas.
+3. **Count the queues.** If `content/queue/` already holds `queue_target` or more valid files AND
+   `channels/wild/content/queue/` holds its own `queue_target` (channels/wild/channel.yml), stop and
+   report "queue full". Otherwise write new files until each holds its target (channel 1 first).
 4. **For every new idea:**
    - Pick the topic (rotate through `topics`, avoiding the last 2 used in queue + published).
    - Find a genuinely surprising, specific, TRUE fact. Use web search. Confirm it in at least two
