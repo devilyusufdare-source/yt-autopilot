@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-24T19:09:12+00:00",
+  "updated_at": "2026-10-24T20:36:51+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 54,
     "channel_views": 37240,
-    "video_count": 95
+    "video_count": 94
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/LLPHw6FMcAk"
+      "https://youtube.com/shorts/kKWolYqlfOc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/LLPHw6FMcAk"
+      "https://youtube.com/shorts/kKWolYqlfOc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/LLPHw6FMcAk"
+      "https://youtube.com/shorts/kKWolYqlfOc"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 96,
-  "total_views": 37956,
+  "total_videos": 93,
+  "total_views": 37945,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 48,
-      "avg_views": 413,
+      "videos": 45,
+      "avg_views": 440,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 80,
-      "avg_views": 389,
+      "videos": 77,
+      "avg_views": 404,
       "over_1500": 3
     },
     "punch": {
@@ -145,23 +145,23 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 255
+      "avg_views": 256
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
       "avg_views": 11
     },
     "en-US-AndrewNeural": {
-      "videos": 6,
-      "avg_views": 29
+      "videos": 7,
+      "avg_views": 25
     },
     "en-US-GuyNeural": {
       "videos": 4,
       "avg_views": 31
     },
     "en-US-AvaMultilingualNeural": {
-      "videos": 5,
-      "avg_views": 10
+      "videos": 1,
+      "avg_views": 7
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -754,7 +754,7 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 47,
+      "views": 67,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo"
@@ -778,7 +778,7 @@
       "hook": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
       "published_at": "2026-10-23T22:30:29Z",
       "privacy": "public",
-      "views": 63,
+      "views": 74,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PBbydRJloRA"
@@ -802,7 +802,7 @@
       "hook": "The five longest-living animals on Earth, ranked. Number one was already old when the pyramids were built.",
       "published_at": "2026-10-24T00:00:30Z",
       "privacy": "public",
-      "views": 73,
+      "views": 75,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/pp65J4Foq4E"
@@ -1966,7 +1966,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 432,
+      "views": 433,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4",
@@ -2391,82 +2391,10 @@
       "shares": 0,
       "subscribers_gained": 0
     },
-    "4Wk7O2iqyDg": {
-      "upload_status": "processed",
-      "rejection_reason": null,
-      "made_for_kids": false,
-      "self_declared_made_for_kids": false,
-      "embeddable": true,
-      "license": "youtube",
-      "duration": "PT27S",
-      "definition": "hd",
-      "region_restriction": null,
-      "content_rating": null,
-      "category_id": "27",
-      "title": "Male Penguins Go 120 Days Without Food in -40 Degrees",
-      "topic": "animals",
-      "style": "classic",
-      "voice": "en-US-AvaMultilingualNeural",
-      "hook": "Male emperor penguins go 120 days without eating.",
-      "published_at": "2026-10-24T16:30:35Z",
-      "privacy": "public",
-      "views": 4,
-      "likes": 0,
-      "comments": 1,
-      "url": "https://youtube.com/shorts/4Wk7O2iqyDg"
-    },
-    "9xN4nll9ZAg": {
-      "upload_status": "processed",
-      "rejection_reason": null,
-      "made_for_kids": false,
-      "self_declared_made_for_kids": false,
-      "embeddable": true,
-      "license": "youtube",
-      "duration": "PT25S",
-      "definition": "hd",
-      "region_restriction": null,
-      "content_rating": null,
-      "category_id": "27",
-      "title": "This Animal Runs 35 MPH for Four Miles Without Stopping",
-      "topic": "animals",
-      "style": "classic",
-      "voice": "en-US-AvaMultilingualNeural",
-      "hook": "This animal runs 35 miles an hour for four miles straight.",
-      "published_at": "2026-10-24T18:00:09Z",
-      "privacy": "public",
-      "views": 4,
-      "likes": 0,
-      "comments": 1,
-      "url": "https://youtube.com/shorts/9xN4nll9ZAg"
-    },
-    "QsRA0a7yOxg": {
-      "upload_status": "processed",
-      "rejection_reason": null,
-      "made_for_kids": false,
-      "self_declared_made_for_kids": false,
-      "embeddable": true,
-      "license": "youtube",
-      "duration": "PT25S",
-      "definition": "hd",
-      "region_restriction": null,
-      "content_rating": null,
-      "category_id": "27",
-      "title": "This Worm Lives in Water Hotter Than 140 Degrees",
-      "topic": "animals",
-      "style": "classic",
-      "voice": "en-US-AvaMultilingualNeural",
-      "hook": "This worm lives in water hotter than 140 degrees.",
-      "published_at": "2026-10-24T18:30:31Z",
-      "privacy": "public",
-      "views": 33,
-      "likes": 1,
-      "comments": 1,
-      "url": "https://youtube.com/shorts/QsRA0a7yOxg"
-    },
-    "LLPHw6FMcAk": {
+    "kKWolYqlfOc": {
       "upload_status": "uploaded",
       "rejection_reason": null,
-      "made_for_kids": false,
+      "made_for_kids": null,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
@@ -2475,17 +2403,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A Cockroach Can Live for Days or Even Weeks Without Its Head",
+      "title": "This Animal Runs 35 MPH for Four Miles Without Stopping",
       "topic": "animals",
       "style": "classic",
-      "voice": "en-US-AvaMultilingualNeural",
-      "hook": "A cockroach can keep living after its head is gone.",
-      "published_at": "2026-10-24T19:09:05Z",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This animal runs 35 miles an hour for four miles straight.",
+      "published_at": "2026-10-24T20:36:44Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/LLPHw6FMcAk"
+      "url": "https://youtube.com/shorts/kKWolYqlfOc"
     },
     "T4gdnphQUUE": {
       "upload_status": "processed",
@@ -2558,7 +2486,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 966,
+      "views": 963,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0"
@@ -2606,7 +2534,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 138,
+      "views": 137,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
