@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T17:16:18+00:00",
+  "updated_at": "2026-10-24T17:38:03+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,13 +9,20 @@
     "video_count": 93
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/9xN4nll9ZAg",
+      "https://youtube.com/shorts/QsRA0a7yOxg"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/QsRA0a7yOxg"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/QsRA0a7yOxg"
+    ]
   },
   "retention": {
     "videos_with_data": 67,
@@ -85,7 +92,7 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 93,
+  "total_videos": 95,
   "total_views": 37721,
   "by_topic": {
     "psychology": {
@@ -99,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 45,
-      "avg_views": 435,
+      "videos": 47,
+      "avg_views": 417,
       "best_views": 1507
     },
     "human body": {
@@ -126,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 77,
-      "avg_views": 402,
+      "videos": 79,
+      "avg_views": 391,
       "over_1500": 3
     },
     "punch": {
@@ -154,8 +161,8 @@
       "avg_views": 31
     },
     "en-US-AvaMultilingualNeural": {
-      "videos": 2,
-      "avg_views": 2
+      "videos": 4,
+      "avg_views": 1
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -2368,6 +2375,54 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/4Wk7O2iqyDg"
+    },
+    "9xN4nll9ZAg": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT25S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Animal Runs 35 MPH for Four Miles Without Stopping",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AvaMultilingualNeural",
+      "hook": "This animal runs 35 miles an hour for four miles straight.",
+      "published_at": "2026-10-24T17:36:03Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/9xN4nll9ZAg"
+    },
+    "QsRA0a7yOxg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Worm Lives in Water Hotter Than 140 Degrees",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AvaMultilingualNeural",
+      "hook": "This worm lives in water hotter than 140 degrees.",
+      "published_at": "2026-10-24T17:37:55Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/QsRA0a7yOxg"
     },
     "T4gdnphQUUE": {
       "upload_status": "processed",
