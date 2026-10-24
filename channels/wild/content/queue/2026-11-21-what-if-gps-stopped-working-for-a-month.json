@@ -1,0 +1,58 @@
+{
+  "id": "2026-11-21-what-if-gps-stopped-working-for-a-month",
+  "format": "whatif",
+  "topic": "technology",
+  "title": "What If GPS Stopped Working for a Month?",
+  "scenes": [
+    {
+      "text": "What if GPS stopped for a month? Your map app is the smallest problem.",
+      "keywords": "gps satellite orbit"
+    },
+    {
+      "text": "GPS satellites broadcast time accurate to forty billionths of a second. Finance, phone networks and weather monitoring depend on those clocks.",
+      "keywords": "atomic clock lab"
+    },
+    {
+      "text": "Telecom service would start to degrade within one to two days, and networks might begin failing after about two weeks.",
+      "keywords": "cell tower"
+    },
+    {
+      "text": "Ships could still navigate, but port delays would cost the maritime industry over ten billion dollars.",
+      "keywords": "cargo port ships"
+    },
+    {
+      "text": "Farm machinery guided by GPS would suffer most in planting season, when the daily cost rises from one billion dollars to one and a half.",
+      "keywords": "tractor field"
+    },
+    {
+      "text": "A thirty-day outage would cost the U.S. thirty to forty-five billion dollars. One economist calls a billion a day the floor, not the ceiling.",
+      "keywords": "stock market screen"
+    }
+  ],
+  "description": "What if GPS stopped working for a month?\nA 30-day outage could cost the U.S. $30 to $45 billion, and phone networks might start failing after two weeks.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "what if gps stopped",
+    "gps facts",
+    "gps outage",
+    "satellite navigation",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "economy",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#gps",
+    "#technology"
+  ],
+  "sources": [
+    "https://www.engineering.org.cn/engi/EN/10.1016/j.eng.2019.10.007",
+    "https://www.rti.org/impact/gps-14-trillion-economic-engine"
+  ],
+  "thumbnail_text": "WHAT IF GPS STOPPED?",
+  "priority": 5,
+  "first_comment": "Could you find your way without a map app? Drop your own what-if."
+}
