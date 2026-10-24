@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-24T14:35:45+00:00",
+  "updated_at": "2026-10-24T16:07:33+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 54,
     "channel_views": 35327,
-    "video_count": 91
+    "video_count": 92
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/jLxl9OEAacQ"
+      "https://youtube.com/shorts/4Wk7O2iqyDg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/jLxl9OEAacQ"
+      "https://youtube.com/shorts/4Wk7O2iqyDg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/jLxl9OEAacQ"
+      "https://youtube.com/shorts/4Wk7O2iqyDg"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 92,
-  "total_views": 37421,
+  "total_videos": 93,
+  "total_views": 37669,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 44,
-      "avg_views": 438,
+      "videos": 45,
+      "avg_views": 434,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 76,
-      "avg_views": 403,
+      "videos": 77,
+      "avg_views": 401,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +145,7 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 238
+      "avg_views": 247
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
@@ -160,8 +160,8 @@
       "avg_views": 31
     },
     "en-US-AvaMultilingualNeural": {
-      "videos": 1,
-      "avg_views": 0
+      "videos": 2,
+      "avg_views": 2
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -754,8 +754,8 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 35,
-      "likes": 2,
+      "views": 47,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo"
     },
@@ -778,7 +778,7 @@
       "hook": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
       "published_at": "2026-10-23T22:30:29Z",
       "privacy": "public",
-      "views": 56,
+      "views": 63,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PBbydRJloRA"
@@ -802,7 +802,7 @@
       "hook": "The five longest-living animals on Earth, ranked. Number one was already old when the pyramids were built.",
       "published_at": "2026-10-24T00:00:30Z",
       "privacy": "public",
-      "views": 68,
+      "views": 73,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/pp65J4Foq4E"
@@ -2032,14 +2032,14 @@
       "subscribers_gained": 0
     },
     "jLxl9OEAacQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2048,11 +2048,11 @@
       "style": "classic",
       "voice": "en-US-AvaMultilingualNeural",
       "hook": "This bird flew 8,400 miles without landing. Eleven days.",
-      "published_at": "2026-10-24T14:35:38Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-24T15:00:18Z",
+      "privacy": "public",
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/jLxl9OEAacQ"
     },
     "lSMWTUoJceo": {
@@ -2098,7 +2098,7 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 382,
+      "views": 403,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
@@ -2198,7 +2198,7 @@
       "hook": "These alligators are frozen in solid ice. And they're alive.",
       "published_at": "2026-10-22T15:10:38Z",
       "privacy": "public",
-      "views": 111,
+      "views": 112,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/Dbv2hy3GKSU"
@@ -2318,7 +2318,7 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 147,
+      "views": 155,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU"
@@ -2350,6 +2350,30 @@
       "avg_view_percent": 73.9,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "4Wk7O2iqyDg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Male Penguins Go 120 Days Without Food in -40 Degrees",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AvaMultilingualNeural",
+      "hook": "Male emperor penguins go 120 days without eating.",
+      "published_at": "2026-10-24T16:07:23Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/4Wk7O2iqyDg"
     },
     "T4gdnphQUUE": {
       "upload_status": "processed",
@@ -2422,7 +2446,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 778,
+      "views": 952,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0"
@@ -2470,8 +2494,8 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 121,
-      "likes": 1,
+      "views": 129,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
     },
@@ -2494,7 +2518,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 73,
+      "views": 79,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A"
@@ -2518,7 +2542,7 @@
       "hook": "Some adult insects live for less than five minutes.",
       "published_at": "2026-10-23T19:40:06Z",
       "privacy": "public",
-      "views": 18,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o"
