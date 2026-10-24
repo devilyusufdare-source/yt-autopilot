@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-22-five-farthest-spacecraft-ranked",
+  "format": "ranking",
+  "ranking_by": "distance from Earth",
+  "topic": "technology",
+  "priority": 6,
+  "title": "The 5 Farthest Things We've Ever Sent Into Space, Ranked",
+  "scenes": [
+    {
+      "text": "Five human-made objects are farthest from home. Number one takes light nearly a day to reach.",
+      "keywords": "deep space stars"
+    },
+    {
+      "text": "Number five: New Horizons. More than sixty times Earth's distance from the Sun, after its flyby of Pluto.",
+      "keywords": "new horizons spacecraft",
+      "rank": 5,
+      "label": "New Horizons · 60+ AU"
+    },
+    {
+      "text": "Number four: Pioneer 11. About one hundred seventeen times that distance. Contact was lost in 1995.",
+      "keywords": "pioneer spacecraft",
+      "rank": 4,
+      "label": "Pioneer 11 · 117 AU"
+    },
+    {
+      "text": "Number three: Pioneer 10. Around one hundred forty times that distance, and silent since 2003.",
+      "keywords": "space probe deep space",
+      "rank": 3,
+      "label": "Pioneer 10 · 140 AU"
+    },
+    {
+      "text": "Number two: Voyager 2. About one hundred forty-one times, and still sending data home.",
+      "keywords": "voyager spacecraft",
+      "rank": 2,
+      "label": "Voyager 2 · 141 AU"
+    },
+    {
+      "text": "Number one: Voyager 1. About one hundred sixty-nine times, and it takes light nearly a day to reach it.",
+      "keywords": "voyager 1 space probe",
+      "rank": 1,
+      "label": "Voyager 1 · 169 AU"
+    }
+  ],
+  "description": "The five farthest human-made objects, ranked by distance from Earth. Distances are measured in astronomical units, where one is the distance from Earth to the Sun.\nVoyager 1 is about 169 times that distance, and radio signals take nearly a day to reach it.\nWhich one would you have wanted to follow?",
+  "tags": [
+    "farthest spacecraft",
+    "voyager 1",
+    "voyager 2",
+    "pioneer 10",
+    "new horizons",
+    "space probes",
+    "space facts",
+    "technology rankings",
+    "top 5 spacecraft",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#voyager",
+    "#space",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_artificial_objects_leaving_the_Solar_System",
+    "https://afterburner.com.pl/25-billion-kilometres-from-earth-and-counting-voyager-1/",
+    "https://earthsky.org/space/new-horizons-50-au-milestone-photo-voyager-1/"
+  ],
+  "thumbnail_text": "5 FARTHEST SPACECRAFT, RANKED",
+  "first_comment": "Which one would you put at number one, and what should we rank next?"
+}
