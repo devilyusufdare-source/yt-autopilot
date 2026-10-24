@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-11-five-fastest-trains-ranked",
+  "format": "ranking",
+  "ranking_by": "rail speed record",
+  "topic": "technology",
+  "title": "The 5 Fastest Trains Ever, Ranked (#1 Doesn't Touch the Track)",
+  "scenes": [
+    {
+      "text": "The five fastest trains ever recorded. Number one doesn't touch the track.",
+      "keywords": "high speed train blur"
+    },
+    {
+      "rank": 5,
+      "label": "Transrapid · 311 mph",
+      "text": "Number five: China's Transrapid maglev, tested in 2003. Five hundred one kilometers an hour, about 311 miles an hour.",
+      "keywords": "shanghai maglev train"
+    },
+    {
+      "rank": 4,
+      "label": "TGV Atlantique · 320 mph",
+      "text": "Number four: France's TGV Atlantique, in 1990. Five hundred fifteen kilometers an hour, about 320 miles an hour.",
+      "keywords": "TGV train"
+    },
+    {
+      "rank": 3,
+      "label": "TGV POS · 357 mph",
+      "text": "Number three: the French TGV, in 2007. Five hundred seventy-five kilometers an hour, the fastest ever on steel wheels.",
+      "keywords": "TGV high speed train"
+    },
+    {
+      "rank": 2,
+      "label": "MLX01 · 361 mph",
+      "text": "Number two: Japan's MLX01 maglev, in 2003. Five hundred eighty-one kilometers an hour, about 361 miles an hour.",
+      "keywords": "japan maglev train"
+    },
+    {
+      "rank": 1,
+      "label": "L0 maglev · 375 mph",
+      "text": "Number one: Japan's L0 maglev, in 2015. Six hundred three kilometers an hour, 375 miles an hour, floating on magnets above the track.",
+      "keywords": "japan maglev train"
+    }
+  ],
+  "description": "The five fastest trains ever recorded, ranked by their top test speed.\nThe winner hit 603 kilometers an hour in 2015, and the fastest train on wheels only comes third.\nWhich of these would you ride?",
+  "tags": [
+    "fastest trains",
+    "maglev",
+    "l0 series",
+    "tgv",
+    "train records",
+    "technology rankings",
+    "top 5 technology",
+    "fastest train in the world",
+    "engineering facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#trains",
+    "#technology",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_speed_records_in_rail_transport",
+    "https://pbssocal.org/shows/socal-connected/five-of-the-fastest-trains-in-the-world"
+  ],
+  "thumbnail_text": "5 FASTEST TRAINS, RANKED",
+  "priority": 6,
+  "first_comment": "Would you ride a train at 375 miles an hour? And what should we rank next?"
+}

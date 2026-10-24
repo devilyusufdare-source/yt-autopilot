@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-12-five-biggest-planets-by-volume-ranked",
+  "format": "ranking",
+  "ranking_by": "volume (how many Earths fit inside)",
+  "topic": "space",
+  "title": "The 5 Biggest Planets by Volume, Ranked (#1 Swallows the Rest)",
+  "scenes": [
+    {
+      "text": "The five biggest planets, ranked. Number one could swallow all the others at once.",
+      "keywords": "jupiter planet spinning"
+    },
+    {
+      "rank": 5,
+      "label": "Earth · 1 Earth",
+      "text": "Number five: Earth. The biggest of the rocky planets, and the unit we measure every other planet by.",
+      "keywords": "planet earth from space"
+    },
+    {
+      "rank": 4,
+      "label": "Neptune · 57 Earths",
+      "text": "Number four: Neptune. About fifty-seven Earths would fit inside it.",
+      "keywords": "neptune planet"
+    },
+    {
+      "rank": 3,
+      "label": "Uranus · 63 Earths",
+      "text": "Number three: Uranus. A little more than sixty-three Earths would fit inside.",
+      "keywords": "uranus planet"
+    },
+    {
+      "rank": 2,
+      "label": "Saturn · 764 Earths",
+      "text": "Number two: Saturn. Seven hundred sixty-four Earths fit inside, and that is still barely more than half of number one.",
+      "keywords": "saturn planet rings"
+    },
+    {
+      "rank": 1,
+      "label": "Jupiter · 1,321 Earths",
+      "text": "Number one: Jupiter. Thirteen hundred twenty-one Earths would fit inside it, more than every other planet combined.",
+      "keywords": "jupiter planet"
+    }
+  ],
+  "description": "The five biggest planets in our solar system by volume, ranked.\nJupiter holds about 1,321 Earths, which is more than all the other planets put together.\nWhich planet surprised you most?",
+  "tags": [
+    "biggest planets",
+    "jupiter",
+    "saturn",
+    "solar system facts",
+    "planet sizes",
+    "space rankings",
+    "top 5 space",
+    "how big is jupiter",
+    "astronomy",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#jupiter",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.universetoday.com/37124/volume-of-the-planets/",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html"
+  ],
+  "thumbnail_text": "5 BIGGEST PLANETS, RANKED",
+  "priority": 6,
+  "first_comment": "Did you expect Earth to make this list? And what should we rank next?"
+}
