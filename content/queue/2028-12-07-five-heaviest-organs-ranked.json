@@ -1,0 +1,69 @@
+{
+  "id": "2028-12-07-five-heaviest-organs-ranked",
+  "format": "ranking",
+  "ranking_by": "organ weight",
+  "topic": "human body",
+  "title": "The 5 Heaviest Organs in Your Body, Ranked (#1 Is Wrapped Around You)",
+  "scenes": [
+    {
+      "text": "The heaviest organ you own isn't inside you. It's wrapped around you.",
+      "keywords": "human body anatomy"
+    },
+    {
+      "text": "Number five: the heart. About ten ounces, and it never takes a break.",
+      "keywords": "human heart anatomy",
+      "rank": 5,
+      "label": "Heart · ~10 oz"
+    },
+    {
+      "text": "Number four: the lungs. Together about two and a half pounds, mostly air and tiny sacs.",
+      "keywords": "human lungs anatomy",
+      "rank": 4,
+      "label": "Lungs · ~2.5 lb"
+    },
+    {
+      "text": "Number three: the brain. About three pounds, and it runs on roughly a light bulb's worth of power.",
+      "keywords": "human brain anatomy",
+      "rank": 3,
+      "label": "Brain · ~3 lb"
+    },
+    {
+      "text": "Number two: the liver. About three and a half pounds, the heaviest organ inside your body.",
+      "keywords": "human liver anatomy",
+      "rank": 2,
+      "label": "Liver · ~3.5 lb"
+    },
+    {
+      "text": "Number one: your skin. Up to ten pounds, and it covers you from head to toe.",
+      "keywords": "human skin closeup",
+      "rank": 1,
+      "label": "Skin · up to 10 lb"
+    }
+  ],
+  "description": "The five heaviest organs in the human body, ranked by average weight.\nNumber one isn't inside you at all, and the liver beats the brain.\nWhich of these surprised you most?",
+  "tags": [
+    "heaviest organ",
+    "human body",
+    "body facts",
+    "organ weight",
+    "skin",
+    "liver",
+    "brain",
+    "human body rankings",
+    "top 5 body",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#organs",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.sciencefocus.com/the-human-body/top-10-what-are-the-heaviest-organs-in-the-human-body/",
+    "https://healthline.com/health/largest-organs-in-the-body"
+  ],
+  "thumbnail_text": "5 HEAVIEST ORGANS, RANKED",
+  "priority": 5,
+  "first_comment": "Did you guess skin? Which body ranking should we do next?"
+}
