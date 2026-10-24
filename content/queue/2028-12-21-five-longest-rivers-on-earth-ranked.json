@@ -1,0 +1,69 @@
+{
+  "id": "2028-12-21-five-longest-rivers-on-earth-ranked",
+  "format": "ranking",
+  "ranking_by": "length",
+  "topic": "science",
+  "title": "The 5 Longest Rivers on Earth, Ranked (Number 1 Is Disputed)",
+  "scenes": [
+    {
+      "text": "The five longest rivers on Earth, ranked. Scientists still argue about number one.",
+      "keywords": "river aerial"
+    },
+    {
+      "text": "Number five: the Yenisey system in Russia. About fifty-five hundred kilometers, with its source in Mongolia.",
+      "keywords": "yenisey river siberia",
+      "rank": 5,
+      "label": "Yenisey · 5,500 km"
+    },
+    {
+      "text": "Number four: the Mississippi and Missouri. Roughly six thousand kilometers from Montana to the Gulf of Mexico.",
+      "keywords": "mississippi river",
+      "rank": 4,
+      "label": "Mississippi · 6,000 km"
+    },
+    {
+      "text": "Number three: the Yangtze, the longest river in Asia. Sixty-three hundred kilometers across China.",
+      "keywords": "yangtze river china",
+      "rank": 3,
+      "label": "Yangtze · 6,300 km"
+    },
+    {
+      "text": "Number two: the Amazon. Sixty-four hundred kilometers, and it carries more water than any other river on Earth.",
+      "keywords": "amazon river",
+      "rank": 2,
+      "label": "Amazon · 6,400 km"
+    },
+    {
+      "text": "Number one: the Nile. Sixty-six hundred fifty kilometers, only a little longer than the Amazon, depending on how you measure.",
+      "keywords": "nile river egypt",
+      "rank": 1,
+      "label": "Nile · 6,650 km"
+    }
+  ],
+  "description": "The five longest rivers on Earth, ranked by length.\nThe Nile and the Amazon are so close that scientists still debate how to measure them.\nWhich river would you want to travel?",
+  "tags": [
+    "longest rivers",
+    "nile river",
+    "amazon river",
+    "yangtze",
+    "mississippi",
+    "geography facts",
+    "earth facts",
+    "top 5 rivers",
+    "rankings",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#rivers",
+    "#geography",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.britannica.com:443/print/article/2225894",
+    "https://www.worldatlas.com/articles/which-are-the-longest-rivers-in-the-world.html"
+  ],
+  "thumbnail_text": "5 LONGEST RIVERS, RANKED",
+  "priority": 6,
+  "first_comment": "Nile or Amazon: which one is really longer? What should we rank next?"
+}

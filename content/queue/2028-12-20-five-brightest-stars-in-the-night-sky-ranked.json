@@ -1,0 +1,69 @@
+{
+  "id": "2028-12-20-five-brightest-stars-in-the-night-sky-ranked",
+  "format": "ranking",
+  "ranking_by": "apparent brightness",
+  "topic": "space",
+  "title": "The 5 Brightest Stars in the Night Sky, Ranked (Number 2 Is Far Away)",
+  "scenes": [
+    {
+      "text": "The five brightest stars at night, ranked. Number two is thirty-six times farther than number one.",
+      "keywords": "night sky stars"
+    },
+    {
+      "text": "Number five: Vega, in the constellation Lyra. Twenty-five light-years away, so the light you see left it twenty-five years ago.",
+      "keywords": "vega star night sky",
+      "rank": 5,
+      "label": "Vega · mag 0.03"
+    },
+    {
+      "text": "Number four: Arcturus. About thirty-seven light-years away, and the brightest star in the constellation Bootes.",
+      "keywords": "arcturus star sky",
+      "rank": 4,
+      "label": "Arcturus · mag -0.05"
+    },
+    {
+      "text": "Number three: Alpha Centauri, the closest star system to the Sun. Two stars shining together as one.",
+      "keywords": "alpha centauri night sky",
+      "rank": 3,
+      "label": "Alpha Centauri · mag -0.27"
+    },
+    {
+      "text": "Number two: Canopus. About three hundred ten light-years away, visible mainly from the Southern Hemisphere.",
+      "keywords": "canopus star sky",
+      "rank": 2,
+      "label": "Canopus · mag -0.74"
+    },
+    {
+      "text": "Number one: Sirius. Only eight point six light-years away, and almost twice as bright as Canopus.",
+      "keywords": "sirius star night sky",
+      "rank": 1,
+      "label": "Sirius · mag -1.46"
+    }
+  ],
+  "description": "The five brightest stars in the night sky, ranked by how bright they look from Earth.\nNumber two is 36 times farther away than number one, yet it still shines almost as brightly.\nWhich star have you actually spotted?",
+  "tags": [
+    "brightest stars",
+    "sirius",
+    "canopus",
+    "night sky",
+    "stargazing",
+    "astronomy facts",
+    "space rankings",
+    "top 5 stars",
+    "space facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#stars",
+    "#ranking"
+  ],
+  "sources": [
+    "https://starwalk.space/en/news/top-7-brightest-stars-in-the-sky",
+    "https://www.farmersalmanac.com/10-brightest-stars"
+  ],
+  "thumbnail_text": "5 BRIGHTEST STARS, RANKED",
+  "priority": 6,
+  "first_comment": "Which star have you seen? And what should we rank next?"
+}
