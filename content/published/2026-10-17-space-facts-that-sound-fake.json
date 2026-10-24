@@ -173,5 +173,5 @@
   "tts_engine": "offline",
   "duration_seconds": 504.0,
   "style": "longform",
-  "first_comment_attempts": 2
+  "first_comment_attempts": 3
 }
