@@ -1,0 +1,56 @@
+{
+  "id": "2026-12-29-what-if-you-flew-to-mars-and-back",
+  "format": "whatif",
+  "topic": "body",
+  "title": "What If You Flew to Mars and Back?",
+  "scenes": [
+    {
+      "text": "What if you flew to Mars and back? The trip itself is the dangerous part.",
+      "keywords": "mars red planet"
+    },
+    {
+      "text": "A round trip takes about 960 days: 180 out, 600 on the surface, and 180 home.",
+      "keywords": "rocket spacecraft launch"
+    },
+    {
+      "text": "In deep space, radiation hits you at about 1.9 millisieverts a day, nearly three times the dose on Mars.",
+      "keywords": "astronaut spacecraft interior"
+    },
+    {
+      "text": "Even the Martian surface adds about 0.7 millisieverts a day, similar to the dose on the space station.",
+      "keywords": "mars rover surface"
+    },
+    {
+      "text": "Add it all up and the round trip delivers about 1.1 sieverts of radiation, measured by NASA's Curiosity rover.",
+      "keywords": "curiosity rover mars"
+    },
+    {
+      "text": "That's right at the one-sievert career limit space agencies use, and a big solar storm could push it higher.",
+      "keywords": "solar flare sun"
+    }
+  ],
+  "description": "What if you flew to Mars and back?\nMeasurements by NASA's Curiosity rover put the round-trip radiation dose at about 1.1 sieverts, right at career limits.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "mars mission",
+    "space radiation",
+    "astronaut",
+    "space facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#mars",
+    "#space"
+  ],
+  "sources": [
+    "https://www.space.com/18753-mars-radiation-manned-mission.html",
+    "https://www.livescience.com/25228-mars-radiation-manned-mission.html"
+  ],
+  "thumbnail_text": "WHAT IF YOU FLEW TO MARS?",
+  "priority": 6,
+  "first_comment": "Would you take the trip knowing the radiation numbers? Drop your own 'what if'."
+}
