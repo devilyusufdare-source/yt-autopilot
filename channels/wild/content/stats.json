@@ -1,74 +1,91 @@
 {
-  "updated_at": "2026-10-24T16:00:26+00:00",
+  "updated_at": "2026-10-24T20:30:25+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 4,
-    "channel_views": 0,
+    "channel_views": 1305,
     "video_count": 3
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/VEKS-N2EUvg"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/VEKS-N2EUvg"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/VEKS-N2EUvg"
+    ]
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
-  "total_videos": 3,
-  "total_views": 1508,
+  "total_videos": 4,
+  "total_views": 1547,
   "by_topic": {
     "earth": {
       "videos": 1,
-      "avg_views": 226,
-      "best_views": 226
+      "avg_views": 247,
+      "best_views": 247
     },
     "space": {
       "videos": 1,
-      "avg_views": 1092,
-      "best_views": 1092
+      "avg_views": 1102,
+      "best_views": 1102
     },
     "society": {
       "videos": 1,
-      "avg_views": 190,
-      "best_views": 190
+      "avg_views": 198,
+      "best_views": 198
+    },
+    "animals": {
+      "videos": 1,
+      "avg_views": 0,
+      "best_views": 0
     }
   },
   "by_style": {
     "classic": {
-      "videos": 3,
-      "avg_views": 503,
+      "videos": 4,
+      "avg_views": 387,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 3,
-      "avg_views": 503
+      "videos": 4,
+      "avg_views": 387
     }
   },
   "top_videos": [
     {
       "title": "What If Earth Stopped Spinning?",
       "topic": "space",
-      "views": 1092,
+      "views": 1102,
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
     },
     {
       "title": "What If All the Ice on Earth Melted?",
       "topic": "earth",
-      "views": 226,
+      "views": 247,
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
     },
     {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
-      "views": 190,
+      "views": 198,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
+    },
+    {
+      "title": "What If Every Mosquito Went Extinct?",
+      "topic": "animals",
+      "views": 0,
+      "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
     }
   ],
   "videos": {
@@ -91,7 +108,7 @@
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres.",
       "published_at": "2026-10-23T21:00:29Z",
       "privacy": "public",
-      "views": 226,
+      "views": 247,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16E2OJLBg8"
@@ -115,7 +132,7 @@
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed.",
       "published_at": "2026-10-24T02:15:12Z",
       "privacy": "public",
-      "views": 1092,
+      "views": 1102,
       "likes": 22,
       "comments": 1,
       "url": "https://youtube.com/shorts/2yCHo6hsGYU"
@@ -139,10 +156,34 @@
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely.",
       "published_at": "2026-10-24T13:40:39Z",
       "privacy": "public",
-      "views": 190,
-      "likes": 4,
+      "views": 198,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c"
+    },
+    "VEKS-N2EUvg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Every Mosquito Went Extinct?",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
+      "published_at": "2026-10-24T20:30:21Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/VEKS-N2EUvg"
     }
   }
 }
