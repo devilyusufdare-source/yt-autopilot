@@ -1,0 +1,69 @@
+{
+  "id": "2026-10-26-five-deadliest-volcanic-eruptions-ranked",
+  "format": "ranking",
+  "ranking_by": "death toll",
+  "topic": "history",
+  "title": "The 5 Deadliest Volcanic Eruptions Since 1500, Ranked (#1 Killed by Hunger)",
+  "scenes": [
+    {
+      "text": "The five deadliest eruptions since 1500. The deadliest one didn't kill most people with lava, ash or fire.",
+      "keywords": "volcano eruption ash cloud"
+    },
+    {
+      "rank": 5,
+      "label": "Unzen · 15,000 deaths",
+      "text": "Number five: Unzen, Japan, 1792. About fifteen thousand people died when part of the volcano collapsed and caused a tsunami.",
+      "keywords": "japan volcano coast"
+    },
+    {
+      "rank": 4,
+      "label": "Nevado del Ruiz · 25,000",
+      "text": "Number four: Nevado del Ruiz, Colombia, 1985. Roughly twenty-five thousand died, mostly in mudflows from melted ice.",
+      "keywords": "colombia mudflow volcano"
+    },
+    {
+      "rank": 3,
+      "label": "Mont Pelee · 30,000",
+      "text": "Number three: Mont Pelée, Martinique, 1902. About thirty thousand people were killed, mostly by pyroclastic flows.",
+      "keywords": "pyroclastic flow volcano"
+    },
+    {
+      "rank": 2,
+      "label": "Krakatau · 36,000",
+      "text": "Number two: Krakatau, Indonesia, 1883. Around thirty-six thousand deaths, mainly from the tsunami it caused.",
+      "keywords": "krakatoa volcano ocean"
+    },
+    {
+      "rank": 1,
+      "label": "Tambora · 92,000",
+      "text": "Number one: Tambora, Indonesia, 1815. About ninety-two thousand deaths, and most were from starvation afterwards.",
+      "keywords": "tambora crater aerial"
+    }
+  ],
+  "description": "The five deadliest volcanic eruptions since 1500, ranked by death toll.\nNumber one, Tambora in 1815, killed about 92,000 people, and most of them died of starvation after the eruption, not in it.\nWhich one surprised you most?",
+  "tags": [
+    "deadliest volcanic eruptions",
+    "Tambora 1815",
+    "Krakatoa 1883",
+    "volcano facts",
+    "deadliest eruption in history",
+    "history rankings",
+    "top 5 volcanoes",
+    "natural disasters",
+    "science facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#volcano",
+    "#history",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.usgs.gov/index.php/faqs/which-volcanic-eruptions-were-deadliest",
+    "https://en.wikipedia.org/wiki/List_of_volcanic_eruptions_by_death_toll"
+  ],
+  "thumbnail_text": "5 DEADLIEST ERUPTIONS, RANKED",
+  "priority": 7,
+  "first_comment": "Did you guess starvation for number one? What should we rank next?"
+}

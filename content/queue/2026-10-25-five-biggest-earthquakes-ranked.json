@@ -1,0 +1,69 @@
+{
+  "id": "2026-10-25-five-biggest-earthquakes-ranked",
+  "format": "ranking",
+  "ranking_by": "earthquake magnitude",
+  "topic": "science",
+  "title": "The 5 Biggest Earthquakes Ever Recorded, Ranked (#1 Hit in 1960)",
+  "scenes": [
+    {
+      "text": "The five biggest earthquakes ever measured. Number one has held the record for over sixty years.",
+      "keywords": "earthquake city damage"
+    },
+    {
+      "rank": 5,
+      "label": "Kamchatka · M9.0",
+      "text": "Number five: Kamchatka, in Russia's far east, 1952. Magnitude nine point oh, and still one of the strongest ever recorded.",
+      "keywords": "kamchatka volcano landscape"
+    },
+    {
+      "rank": 4,
+      "label": "Tohoku · M9.1",
+      "text": "Number four: Tohoku, Japan, 2011. Magnitude nine point one, and the shaking set off a huge tsunami.",
+      "keywords": "japan coast tsunami"
+    },
+    {
+      "rank": 3,
+      "label": "Sumatra · M9.1",
+      "text": "Number three: Sumatra, Indonesia, 2004. Also magnitude nine point one, and its tsunami crossed the Indian Ocean.",
+      "keywords": "indian ocean tsunami wave"
+    },
+    {
+      "rank": 2,
+      "label": "Alaska · M9.2",
+      "text": "Number two: Alaska, 1964. Magnitude nine point two, the strongest earthquake ever recorded in North America.",
+      "keywords": "alaska mountains coast"
+    },
+    {
+      "rank": 1,
+      "label": "Chile · M9.5",
+      "text": "Number one: Chile, 1960. Magnitude nine point five. Each full step on the scale is about thirty-two times more energy, so it dwarfs the rest.",
+      "keywords": "chile coast earthquake damage"
+    }
+  ],
+  "description": "The five biggest earthquakes ever recorded, ranked by magnitude.\nThe record belongs to Chile in 1960 at magnitude 9.5, and since a full magnitude step means roughly 32 times more energy, it towers over the rest.\nWhich one surprised you most?",
+  "tags": [
+    "biggest earthquakes",
+    "strongest earthquake ever",
+    "1960 Chile earthquake",
+    "earthquake facts",
+    "earthquake magnitude",
+    "science rankings",
+    "top 5 earthquakes",
+    "natural disasters",
+    "science facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#earthquake",
+    "#science",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.usgs.gov/media/images/10-largest-earthquakes-ever-recorded",
+    "https://interestingengineering.com/culture/largest-earthquakes-ever-recorded-history"
+  ],
+  "thumbnail_text": "5 BIGGEST EARTHQUAKES, RANKED",
+  "priority": 5,
+  "first_comment": "Which of these would you least want to live near? And what should we rank next?"
+}
