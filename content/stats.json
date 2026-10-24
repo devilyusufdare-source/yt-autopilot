@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-10-24T16:07:33+00:00",
+  "updated_at": "2026-10-24T17:16:18+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 54,
-    "channel_views": 35327,
-    "video_count": 92
+    "channel_views": 37240,
+    "video_count": 93
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/4Wk7O2iqyDg"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/4Wk7O2iqyDg"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/4Wk7O2iqyDg"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 67,
@@ -92,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 93,
-  "total_views": 37669,
+  "total_views": 37721,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,7 +100,7 @@
     },
     "animals": {
       "videos": 45,
-      "avg_views": 434,
+      "avg_views": 435,
       "best_views": 1507
     },
     "human body": {
@@ -133,19 +127,19 @@
   "by_style": {
     "classic": {
       "videos": 77,
-      "avg_views": 401,
+      "avg_views": 402,
       "over_1500": 3
     },
     "punch": {
       "videos": 16,
-      "avg_views": 424,
+      "avg_views": 425,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 247
+      "avg_views": 249
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
@@ -1966,7 +1960,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 428,
+      "views": 430,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4",
@@ -1994,7 +1988,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 292,
+      "views": 293,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
@@ -2150,7 +2144,7 @@
       "hook": "This bird hits the water at over 50 miles an hour.",
       "published_at": "2026-10-22T13:50:15Z",
       "privacy": "public",
-      "views": 1062,
+      "views": 1064,
       "likes": 8,
       "comments": 2,
       "url": "https://youtube.com/shorts/650vI7wznrM"
@@ -2318,7 +2312,7 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 155,
+      "views": 161,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU"
@@ -2352,14 +2346,14 @@
       "subscribers_gained": 0
     },
     "4Wk7O2iqyDg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT27S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2368,11 +2362,11 @@
       "style": "classic",
       "voice": "en-US-AvaMultilingualNeural",
       "hook": "Male emperor penguins go 120 days without eating.",
-      "published_at": "2026-10-24T16:07:23Z",
-      "privacy": "private",
+      "published_at": "2026-10-24T16:30:35Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/4Wk7O2iqyDg"
     },
     "T4gdnphQUUE": {
@@ -2446,7 +2440,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 952,
+      "views": 953,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0"
@@ -2470,7 +2464,7 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 713,
+      "views": 738,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
@@ -2494,7 +2488,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 129,
+      "views": 136,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
@@ -2518,7 +2512,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 79,
+      "views": 86,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A"
@@ -2542,7 +2536,7 @@
       "hook": "Some adult insects live for less than five minutes.",
       "published_at": "2026-10-23T19:40:06Z",
       "privacy": "public",
-      "views": 21,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o"
