@@ -19,8 +19,8 @@ packages for channel 1 any more; the ones already in the queue stay but are not 
 
 **Channel 2 — What If Factz** (`channels/wild/channel.yml`, `channels/wild/content/queue/`; the folder is still
 called `wild`) is the **"what if" channel**: every video is one hypothetical scenario answered with real science
-(`"format": "whatif"`). Its `queue_target` is 600 what-if files. It was Wild Unlocked (animals) until 24 Oct; the
-old animal ideas sit in `channels/wild/content/parked/` — never re-create them.
+(`"format": "whatif"`). Its `queue_target` is 600 what-if files. It was Wild Unlocked (animals) until 24 Oct; its
+old animal ideas were moved into channel 1's queue (`content/queue/`) the same day.
 
 Every run: top up whichever channel is further from its target, alternating so both grow. An idea goes in one
 queue only; check both queues, both `content/published/` folders and `channels/wild/content/parked/` before writing.
