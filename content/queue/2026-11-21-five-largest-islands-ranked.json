@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-21-five-largest-islands-ranked",
+  "format": "ranking",
+  "ranking_by": "land area",
+  "topic": "science",
+  "title": "The 5 Largest Islands on Earth, Ranked (Australia Isn't on the List)",
+  "scenes": [
+    {
+      "text": "The five biggest islands on Earth, ranked. Number one is almost three times bigger than number two.",
+      "keywords": "island aerial view ice"
+    },
+    {
+      "rank": 5,
+      "label": "Baffin Island · 507,000 km²",
+      "text": "Number five: Baffin Island in Canada. About five hundred thousand square kilometers, about the size of Spain, and almost nobody lives there.",
+      "keywords": "Baffin Island arctic"
+    },
+    {
+      "rank": 4,
+      "label": "Madagascar · 592,000 km²",
+      "text": "Number four: Madagascar. About five hundred ninety thousand square kilometers, home to lemurs found nowhere else on Earth.",
+      "keywords": "Madagascar lemur"
+    },
+    {
+      "rank": 3,
+      "label": "Borneo · 723,000 km²",
+      "text": "Number three: Borneo. Over seven hundred thousand square kilometers, shared by three countries, covered in ancient rainforest.",
+      "keywords": "Borneo rainforest"
+    },
+    {
+      "rank": 2,
+      "label": "New Guinea · 774,000 km²",
+      "text": "Number two: New Guinea. Nearly eight hundred thousand square kilometers, with jungle, glaciers and hundreds of languages.",
+      "keywords": "New Guinea jungle"
+    },
+    {
+      "rank": 1,
+      "label": "Greenland · 2.1 million km²",
+      "text": "Number one: Greenland. Over two million square kilometers, and an ice sheet that covers most of it.",
+      "keywords": "Greenland ice sheet"
+    }
+  ],
+  "description": "The five largest islands on Earth, ranked by land area.\nGreenland is nearly three times bigger than the next island, New Guinea.\nWhich island would you want to visit?",
+  "tags": [
+    "largest islands",
+    "Greenland",
+    "New Guinea",
+    "Borneo",
+    "Madagascar",
+    "Baffin Island",
+    "geography facts",
+    "top 5",
+    "shorts facts",
+    "ranking"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#geography",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_islands_by_area",
+    "https://en.wikipedia.org/wiki/Greenland"
+  ],
+  "thumbnail_text": "5 BIGGEST ISLANDS, RANKED",
+  "priority": 5,
+  "first_comment": "Did Greenland surprise you? Which record should we rank next?"
+}
