@@ -2,7 +2,7 @@
   "id": "2027-04-07-male-penguins-go-120-days-without-food-in-minus-40",
   "topic": "animals",
   "title": "Male Penguins Go 120 Days Without Food in -40 Degrees",
-  "priority": 8,
+  "priority": 9,
   "scenes": [
     {
       "text": "Male emperor penguins go 120 days without eating.",
@@ -54,18 +54,5 @@
     "https://cob.silverchair.com/jeb/article/211/1/i/17425/HOW-HUDDLES-HELP-PENGUINS-WEATHER-WINTER"
   ],
   "thumbnail_text": "120 DAYS WITHOUT FOOD",
-  "first_comment": "Would you last a single day in Antarctica's winter?",
-  "youtube_id": "4Wk7O2iqyDg",
-  "url": "https://youtube.com/shorts/4Wk7O2iqyDg",
-  "uploaded_at": "2026-10-24T16:07:32+00:00",
-  "privacy_requested": "private",
-  "publish_at": "2026-10-24T16:30:00Z",
-  "tts_engine": "edge",
-  "voice_used": "en-US-AvaMultilingualNeural",
-  "highlight_color": "#86EFAC",
-  "duration_seconds": 26.5,
-  "style": "classic",
-  "kind": "shorts",
-  "first_comment_id": "UgxqGzoj1DD5AfDkkOt4AaABAg",
-  "first_comment_at": "2026-10-24T17:12:13+00:00"
+  "first_comment": "Would you last a single day in Antarctica's winter?"
 }
