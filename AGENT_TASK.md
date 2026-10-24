@@ -10,12 +10,12 @@ The repository runs two channels.
 
 **Channel 1 — Mind Unlocked Facts** (`channel.yml`, `content/queue/`) is the **animal-facts channel** again
 (decided 24 Oct 10:30 after the numbers: animal single-facts got 250–1,000 views each, space/history got 0–5,
-the first rankings 3–18 in their first hours). It posts 10 Shorts a day, **9 animal single-facts + 1 animal
-ranking** (`release.format_mix: {fact: 9, ranking: 1}` and `release.only_topics: [animals]` — the picker skips
-every other topic). **For channel 1 write only `"topic": "animals"` packages**: single facts (`"format": "fact"`)
-until the queue holds **600 animal fact files**, and animal rankings (`"format": "ranking"`, `"topic": "animals"`)
-until it holds **60 animal ranking files**. Do not write space, science, history, technology, games or internet
-packages for channel 1 any more; the ones already in the queue stay but are not posted.
+the first rankings 3–18 in their first hours). It posts 10 Shorts a day: **8 animal single-facts, 1 single fact
+from any other topic, 1 ranking from any topic** (`release.format_mix: {"fact:animals": 8, "fact:*": 1,
+"ranking:*": 1}`, enforced by the picker). The other-topic facts (240+) and rankings (20+) are already stocked,
+so **for channel 1 write mostly `"topic": "animals"` packages**: single facts (`"format": "fact"`) until the queue
+holds **600 animal fact files**, plus rankings of any topic (`"format": "ranking"`) until it holds **60 ranking
+files**. One new voice for the whole channel since 24 Oct (en-US-AvaMultilingualNeural, set in `looks`).
 
 **Channel 2 — What If Factz** (`channels/wild/channel.yml`, `channels/wild/content/queue/`; the folder is still
 called `wild`) is the **"what if" channel**: every video is one hypothetical scenario answered with real science
@@ -25,7 +25,7 @@ old animal ideas were moved into channel 1's queue (`content/queue/`) the same d
 Every run: top up whichever channel is further from its target, alternating so both grow. An idea goes in one
 queue only; check both queues, both `content/published/` folders and `channels/wild/content/parked/` before writing.
 
-## Ranking packages (channel 1 — animal rankings only, 1 in 10 videos)
+## Ranking packages (channel 1 — 1 in 10 videos, any topic)
 
 A ranking is the normal schema plus `"format": "ranking"`, `"ranking_by": "<one metric>"`, and `rank` + `label`
 on five scenes. Model: `content/queue/2026-10-24-five-fastest-animals-ranked.json`.
@@ -91,8 +91,8 @@ A what-if is the normal schema plus `"format": "whatif"`. Models: `channels/wild
    - `content/sold/*.json` → ideas moved into a product that is sold (Fact Vault); treat them as used
      (never re-create them or anything like them).
 3. **Count the queues.** Channel 1 is full when `content/queue/` holds 600 or more files with
-   `"topic": "animals"` and `"format": "fact"` (or missing format) AND 60 or more with `"topic": "animals"` and
-   `"format": "ranking"` (other topics do not count). Channel 2 is full when `channels/wild/content/queue/`
+   `"topic": "animals"` and `"format": "fact"` (or missing format) AND 60 or more files with
+   `"format": "ranking"` (any topic). Channel 2 is full when `channels/wild/content/queue/`
    holds its `queue_target` (600) what-if files. If both are full, stop and report "queues full". Otherwise
    write for the channel further from its target, alternating so both grow.
 4. **For every new idea:**

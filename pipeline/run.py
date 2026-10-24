@@ -173,14 +173,36 @@ def is_ranking(pkg: dict) -> bool:
     return package_format(pkg) == "ranking"
 
 
-def preferred_format(cfg) -> str | None:
-    """`release.format_mix: {ranking: 3, fact: 1}` → look at the last (3+1) published videos and pick the format
-    that is still owed in that window; None when no mix is configured."""
-    mix = cfg.get("release.format_mix") or {}
+def _mix(cfg) -> dict[tuple[str, str], int]:
+    """`release.format_mix` → {(format, topic): share}. Keys are `format` or `format:topic`; topic `*` (or no
+    topic) means any topic that has no key of its own for that format. Empty when no mix is configured."""
+    raw = cfg.get("release.format_mix") or {}
+    out: dict[tuple[str, str], int] = {}
     try:
-        mix = {str(k).lower(): int(v) for k, v in dict(mix).items() if int(v) > 0}
+        for k, v in dict(raw).items():
+            if int(v) <= 0:
+                continue
+            fmt, _, topic = str(k).lower().partition(":")
+            out[(fmt.strip(), (topic.strip() or "*"))] = int(v)
     except (TypeError, ValueError, AttributeError):
-        return None
+        return {}
+    return out
+
+
+def _slot_of(mix: dict[tuple[str, str], int], fmt: str, topic: str) -> tuple[str, str] | None:
+    """Which mix slot a package of this format and topic fills (specific topic first, then the wildcard)."""
+    topic = (topic or "").lower()
+    if (fmt, topic) in mix:
+        return (fmt, topic)
+    if (fmt, "*") in mix:
+        return (fmt, "*")
+    return None
+
+
+def preferred_slot(cfg) -> tuple[str, str] | None:
+    """Look at the last (sum of shares) published Shorts and return the (format, topic) slot that is still owed
+    in that window; None when no mix is configured."""
+    mix = _mix(cfg)
     if not mix:
         return None
     window = sum(mix.values())
@@ -193,13 +215,23 @@ def preferred_format(cfg) -> str | None:
             continue
         if rec.get("kind") == "longform":
             continue
-        recs.append((str(rec.get("uploaded_at") or rec.get("publish_at") or ""), path.name, package_format(rec)))
+        recs.append((str(rec.get("uploaded_at") or rec.get("publish_at") or ""), path.name,
+                     _slot_of(mix, package_format(rec), str(rec.get("topic", "")))))
     recs.sort(reverse=True)
-    recent = [fmt for _, _, fmt in recs[:window]]
-    counts = {f: recent.count(f) for f in mix}
-    # the format with the biggest shortfall against its share goes next (ties: the first listed)
-    owed = sorted(mix, key=lambda f: (counts[f] - mix[f], list(mix).index(f)))
+    recent = [slot for _, _, slot in recs[:window]]
+    counts = {slot: recent.count(slot) for slot in mix}
+    # the slot with the biggest shortfall against its share goes next (ties: the first listed)
+    owed = sorted(mix, key=lambda slot: (counts[slot] - mix[slot], list(mix).index(slot)))
     return owed[0]
+
+
+def preferred_format(cfg) -> str | None:
+    slot = preferred_slot(cfg)
+    return slot[0] if slot else None
+
+
+def _fits_slot(mix: dict[tuple[str, str], int], slot: tuple[str, str], pkg: dict) -> bool:
+    return _slot_of(mix, package_format(pkg), str(pkg.get("topic", ""))) == slot
 
 
 def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict] | None:
@@ -225,10 +257,10 @@ def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict
             prio = 0
         candidates.append((-prio, path.name, path, pkg))
     only = [str(t).lower() for t in (cfg.get("release.only_topics") or [])]
-    want = preferred_format(cfg)
+    mix, want = _mix(cfg), preferred_slot(cfg)
     ordered = sorted(candidates, key=lambda c: (c[0], c[1]))
-    if want and any(package_format(c[3]) == want for c in ordered):
-        ordered = [c for c in ordered if package_format(c[3]) == want] + [c for c in ordered if package_format(c[3]) != want]
+    if want and any(_fits_slot(mix, want, c[3]) for c in ordered):
+        ordered = [c for c in ordered if _fits_slot(mix, want, c[3])] + [c for c in ordered if not _fits_slot(mix, want, c[3])]
     for _, _, path, pkg in ordered:
         if only and str(pkg.get("topic", "")).lower() not in only:
             continue   # temporarily restricted to the topics that still get distribution
