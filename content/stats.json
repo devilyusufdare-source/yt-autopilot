@@ -1,27 +1,23 @@
 {
-  "updated_at": "2026-10-24T20:36:51+00:00",
+  "updated_at": "2026-10-24T22:01:09+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 54,
     "channel_views": 37240,
-    "video_count": 94
+    "video_count": 95
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/kKWolYqlfOc"
+      "https://youtube.com/shorts/_jeX-UKxfww"
     ],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/kKWolYqlfOc"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/kKWolYqlfOc"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 77,
@@ -91,8 +87,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 93,
-  "total_views": 37945,
+  "total_videos": 94,
+  "total_views": 37974,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +101,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 45,
-      "avg_views": 440,
+      "videos": 46,
+      "avg_views": 431,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +128,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 77,
-      "avg_views": 404,
+      "videos": 78,
+      "avg_views": 400,
       "over_1500": 3
     },
     "punch": {
@@ -145,15 +141,15 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 256
+      "avg_views": 257
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
       "avg_views": 11
     },
     "en-US-AndrewNeural": {
-      "videos": 7,
-      "avg_views": 25
+      "videos": 8,
+      "avg_views": 23
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -778,7 +774,7 @@
       "hook": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
       "published_at": "2026-10-23T22:30:29Z",
       "privacy": "public",
-      "views": 74,
+      "views": 75,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PBbydRJloRA"
@@ -1966,7 +1962,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 433,
+      "views": 434,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4",
@@ -2354,7 +2350,7 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 165,
+      "views": 164,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU",
@@ -2391,15 +2387,39 @@
       "shares": 0,
       "subscribers_gained": 0
     },
-    "kKWolYqlfOc": {
-      "upload_status": "uploaded",
+    "_jeX-UKxfww": {
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT25S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Male Penguins Go 120 Days Without Food in -40 Degrees",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Male emperor penguins go 120 days without eating.",
+      "published_at": "2026-10-24T22:00:37Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/_jeX-UKxfww"
+    },
+    "kKWolYqlfOc": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT23S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2408,11 +2428,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This animal runs 35 miles an hour for four miles straight.",
-      "published_at": "2026-10-24T20:36:44Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-24T21:00:07Z",
+      "privacy": "public",
+      "views": 12,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/kKWolYqlfOc"
     },
     "T4gdnphQUUE": {
@@ -2486,7 +2506,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 963,
+      "views": 973,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0"
@@ -2534,7 +2554,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 137,
+      "views": 140,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
@@ -2558,7 +2578,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 94,
+      "views": 97,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A"
