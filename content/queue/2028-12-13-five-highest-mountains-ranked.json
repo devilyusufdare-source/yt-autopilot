@@ -1,0 +1,70 @@
+{
+  "id": "2028-12-13-five-highest-mountains-ranked",
+  "format": "ranking",
+  "ranking_by": "elevation above sea level",
+  "topic": "science",
+  "title": "The 5 Highest Mountains on Earth, Ranked (All in Asia)",
+  "priority": 4,
+  "scenes": [
+    {
+      "text": "The five highest mountains on Earth are all in Asia. Nothing anywhere else comes close.",
+      "keywords": "himalaya mountains aerial"
+    },
+    {
+      "rank": 5,
+      "label": "Makalu · 8,485 m",
+      "text": "Number five: Makalu. Eight thousand four hundred eighty-five meters, first climbed by a French team in 1955.",
+      "keywords": "makalu mountain"
+    },
+    {
+      "rank": 4,
+      "label": "Lhotse · 8,516 m",
+      "text": "Number four: Lhotse. Eight thousand five hundred sixteen meters, first climbed in 1956 by a Swiss team.",
+      "keywords": "lhotse mountain"
+    },
+    {
+      "rank": 3,
+      "label": "Kangchenjunga · 8,586 m",
+      "text": "Number three: Kangchenjunga. Eight thousand five hundred eighty-six meters, first climbed in 1955.",
+      "keywords": "kangchenjunga mountain"
+    },
+    {
+      "rank": 2,
+      "label": "K2 · 8,611 m",
+      "text": "Number two: K2. Eight thousand six hundred eleven meters, first climbed in 1954 by an Italian team.",
+      "keywords": "k2 mountain"
+    },
+    {
+      "rank": 1,
+      "label": "Everest · 8,849 m",
+      "text": "Number one: Mount Everest. About eight thousand eight hundred forty-nine meters above sea level, first climbed in 1953.",
+      "keywords": "mount everest summit"
+    }
+  ],
+  "description": "The five highest mountains on Earth, measured by elevation above sea level.\nNumber one, Mount Everest, stands about 8,849 meters high, and all five are in Asia.\nWhich peak would you climb?",
+  "tags": [
+    "highest mountains",
+    "mount everest",
+    "k2",
+    "kangchenjunga",
+    "lhotse",
+    "makalu",
+    "mountain facts",
+    "top 5",
+    "geography facts",
+    "shorts facts",
+    "earth facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#everest",
+    "#mountains",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.worldatlas.com/mountains/10-highest-mountains-in-the-world.html",
+    "https://en.wikipedia.org/wiki/List_of_mountains_by_elevation"
+  ],
+  "thumbnail_text": "5 HIGHEST MOUNTAINS, RANKED",
+  "first_comment": "Which mountain would you climb first, and what should we rank next?"
+}

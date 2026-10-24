@@ -1,0 +1,58 @@
+{
+  "id": "2026-12-20-what-if-computers-ran-out-of-time",
+  "format": "whatif",
+  "topic": "technology",
+  "title": "What If Computers Ran Out of Time in 2038?",
+  "priority": 6,
+  "scenes": [
+    {
+      "text": "What if computers ran out of time? It happens on January nineteenth, twenty thirty-eight.",
+      "keywords": "server room blinking lights"
+    },
+    {
+      "text": "Older computers count seconds since nineteen seventy in a number that maxes out near two point one billion.",
+      "keywords": "computer code screen"
+    },
+    {
+      "text": "At three fourteen and seven seconds UTC that morning, the counter hits its limit.",
+      "keywords": "digital clock countdown"
+    },
+    {
+      "text": "One second later it flips negative, and the clock jumps back to December thirteenth, nineteen oh one.",
+      "keywords": "old clock ticking"
+    },
+    {
+      "text": "Older embedded systems, some file systems and some thirty-two-bit devices could break. Logs, certificates and timers too.",
+      "keywords": "circuit board close up"
+    },
+    {
+      "text": "Sixty-four-bit time lasts about two hundred ninety-two billion years. The hard part is finding every old machine still running.",
+      "keywords": "data center servers"
+    }
+  ],
+  "description": "What if computers ran out of time?\nOn 19 January 2038 a 32-bit time counter overflows and old systems think it is 1901. The fix exists: 64-bit time lasts about 292 billion years.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "year 2038 problem",
+    "y2k38",
+    "unix time",
+    "computer facts",
+    "technology facts",
+    "science explained",
+    "what would happen",
+    "shorts facts",
+    "programming"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#technology",
+    "#computers"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Year_2038_problem",
+    "https://www.computerhope.com/jargon/y/y2k38.htm"
+  ],
+  "thumbnail_text": "THE 2038 COMPUTER CRASH",
+  "first_comment": "Do you still have a 32-bit gadget in a drawer? What should we run through next?"
+}
