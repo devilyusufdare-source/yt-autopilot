@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T11:35:07+00:00",
+  "updated_at": "2026-10-24T14:35:45+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,13 +9,19 @@
     "video_count": 91
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/jLxl9OEAacQ"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/jLxl9OEAacQ"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/jLxl9OEAacQ"
+    ]
   },
   "retention": {
     "videos_with_data": 67,
@@ -85,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 91,
-  "total_views": 37264,
+  "total_videos": 92,
+  "total_views": 37421,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -99,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 43,
-      "avg_views": 445,
+      "videos": 44,
+      "avg_views": 438,
       "best_views": 1507
     },
     "human body": {
@@ -110,13 +116,13 @@
     },
     "history": {
       "videos": 10,
-      "avg_views": 181,
+      "avg_views": 182,
       "best_views": 1106
     },
     "space": {
       "videos": 17,
       "avg_views": 478,
-      "best_views": 1510
+      "best_views": 1512
     },
     "technology": {
       "videos": 1,
@@ -126,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 75,
-      "avg_views": 406,
+      "videos": 76,
+      "avg_views": 403,
       "over_1500": 3
     },
     "punch": {
@@ -139,11 +145,11 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 233
+      "avg_views": 238
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
-      "avg_views": 9
+      "avg_views": 11
     },
     "en-US-AndrewNeural": {
       "videos": 6,
@@ -152,6 +158,10 @@
     "en-US-GuyNeural": {
       "videos": 4,
       "avg_views": 31
+    },
+    "en-US-AvaMultilingualNeural": {
+      "videos": 1,
+      "avg_views": 0
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -168,7 +178,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1510,
+      "views": 1512,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -216,7 +226,7 @@
     {
       "title": "A Snake Longer Than a School Bus Once Lived in India",
       "topic": "animals",
-      "views": 1246,
+      "views": 1247,
       "hook": "A snake longer than a school bus once slithered through India."
     }
   ],
@@ -744,7 +754,7 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 30,
+      "views": 35,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo"
@@ -768,8 +778,8 @@
       "hook": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
       "published_at": "2026-10-23T22:30:29Z",
       "privacy": "public",
-      "views": 44,
-      "likes": 0,
+      "views": 56,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PBbydRJloRA"
     },
@@ -792,7 +802,7 @@
       "hook": "The five longest-living animals on Earth, ranked. Number one was already old when the pyramids were built.",
       "published_at": "2026-10-24T00:00:30Z",
       "privacy": "public",
-      "views": 56,
+      "views": 68,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/pp65J4Foq4E"
@@ -844,7 +854,7 @@
       "hook": "The five deadliest eruptions since 1500. The deadliest one didn't kill most people with lava, ash or fire.",
       "published_at": "2026-10-24T02:20:26Z",
       "privacy": "public",
-      "views": 10,
+      "views": 17,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C2m63XKX8rg"
@@ -1228,7 +1238,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1246,
+      "views": 1247,
       "likes": 18,
       "comments": 1,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw",
@@ -1256,7 +1266,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1510,
+      "views": 1512,
       "likes": 18,
       "comments": 1,
       "url": "https://youtube.com/shorts/a_7ULbNzldk",
@@ -1648,7 +1658,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 488,
+      "views": 487,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ",
@@ -1788,7 +1798,7 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 1012,
+      "views": 1011,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/wyObPwWsA0g",
@@ -1956,7 +1966,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 425,
+      "views": 428,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4",
@@ -2021,6 +2031,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "jLxl9OEAacQ": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bird Flew 8,400 Miles Without Landing. Eleven Days Straight",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AvaMultilingualNeural",
+      "hook": "This bird flew 8,400 miles without landing. Eleven days.",
+      "published_at": "2026-10-24T14:35:38Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/jLxl9OEAacQ"
+    },
     "lSMWTUoJceo": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -2064,7 +2098,7 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 381,
+      "views": 382,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
@@ -2284,7 +2318,7 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 144,
+      "views": 147,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU"
@@ -2412,8 +2446,8 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 619,
-      "likes": 6,
+      "views": 713,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
     },
@@ -2436,7 +2470,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 109,
+      "views": 121,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
@@ -2460,7 +2494,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 67,
+      "views": 73,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A"
@@ -2484,7 +2518,7 @@
       "hook": "Some adult insects live for less than five minutes.",
       "published_at": "2026-10-23T19:40:06Z",
       "privacy": "public",
-      "views": 17,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o"
