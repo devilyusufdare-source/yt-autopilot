@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-14-five-smallest-countries-ranked",
+  "format": "ranking",
+  "ranking_by": "total area (smallest first)",
+  "topic": "history",
+  "title": "The 5 Smallest Countries on Earth, Ranked (#1 Is Under Half a Square Kilometer)",
+  "scenes": [
+    {
+      "text": "Number one is smaller than half a square kilometer. And it is still a country.",
+      "keywords": "vatican city aerial"
+    },
+    {
+      "rank": 5,
+      "label": "San Marino · 61 km²",
+      "text": "Number five: San Marino. Sixty-one square kilometers, and it is completely surrounded by Italy.",
+      "keywords": "san marino mountain town"
+    },
+    {
+      "rank": 4,
+      "label": "Tuvalu · 26 km²",
+      "text": "Number four: Tuvalu. About twenty-six square kilometers of low coral islands in the Pacific.",
+      "keywords": "tuvalu island"
+    },
+    {
+      "rank": 3,
+      "label": "Nauru · 21 km²",
+      "text": "Number three: Nauru. Twenty-one square kilometers, the smallest island nation on Earth.",
+      "keywords": "nauru island"
+    },
+    {
+      "rank": 2,
+      "label": "Monaco · 2 km²",
+      "text": "Number two: Monaco. About two square kilometers, smaller than New York's Central Park.",
+      "keywords": "monaco harbor"
+    },
+    {
+      "rank": 1,
+      "label": "Vatican City · 0.44 km²",
+      "text": "Number one: Vatican City. Less than half a square kilometer, with its own flag and its own postage stamps.",
+      "keywords": "vatican city st peters"
+    }
+  ],
+  "description": "The five smallest countries on Earth, ranked by total area.\nThe smallest is under half a square kilometer, and the biggest of the five could fit inside a small town's limits.\nWhich of these would you most like to visit?",
+  "tags": [
+    "smallest countries",
+    "vatican city",
+    "monaco",
+    "nauru",
+    "tuvalu",
+    "san marino",
+    "geography facts",
+    "smallest country in the world",
+    "top 5 countries",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#geography",
+    "#countries",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.worldatlas.com/articles/the-smallest-countries-in-the-world-by-total-land-area.html",
+    "https://britannica.com/topic/list-of-the-smallest-countries-by-area"
+  ],
+  "thumbnail_text": "5 SMALLEST COUNTRIES, RANKED",
+  "priority": 5,
+  "first_comment": "Which tiny country would you visit first? And what should we rank next?"
+}
