@@ -31,9 +31,11 @@ channel:
 release:
   videos_per_run: 1                # one video per run; the workflow runs once before each release time
   interval_minutes: 60             # minimum spacing between two releases
-  # 24 Oct: Mind Unlocked is the ranking channel. 9 of every 10 videos are "5 ___, ranked" countdowns
-  # (format: ranking in the package, see AGENT_TASK.md), 1 is a single fact. The picker enforces the mix.
-  format_mix: { ranking: 9, fact: 1 }
+  # 24 Oct (10:30): back to what the numbers proved. Animal single-facts got 250-1,000 views each this week;
+  # space/history facts got 0-5; the first four rankings got 3-18 in their first hours. So: animal facts only,
+  # with 1 ranking in 10 kept as a running test (animal rankings only, via only_topics). Revisit on the Sunday check.
+  format_mix: { fact: 9, ranking: 1 }
+  only_topics: [animals]
   # 10 Shorts a day (the owner's decision, 21 Oct). The 7:45 AM IST slot (US evening) is the one that kept
   # getting views during the 19-21 Oct collapse, so it replaces the 4 PM slot (India afternoon = US night).
   # Optional throttles, both off: `videos_per_day: N` caps uploads below YouTube's limit, `only_topics: [...]`
