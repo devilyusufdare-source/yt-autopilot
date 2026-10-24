@@ -1,37 +1,31 @@
 {
-  "updated_at": "2026-10-24T13:25:40+00:00",
+  "updated_at": "2026-10-24T16:00:26+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 4,
     "channel_views": 0,
-    "video_count": 2
+    "video_count": 3
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/iRFTcrDOT5c"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/iRFTcrDOT5c"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/iRFTcrDOT5c"
-    ]
+    "sd_only": []
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
   "total_videos": 3,
-  "total_views": 1313,
+  "total_views": 1508,
   "by_topic": {
     "earth": {
       "videos": 1,
-      "avg_views": 221,
-      "best_views": 221
+      "avg_views": 226,
+      "best_views": 226
     },
     "space": {
       "videos": 1,
@@ -40,21 +34,21 @@
     },
     "society": {
       "videos": 1,
-      "avg_views": 0,
-      "best_views": 0
+      "avg_views": 190,
+      "best_views": 190
     }
   },
   "by_style": {
     "classic": {
       "videos": 3,
-      "avg_views": 438,
+      "avg_views": 503,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 3,
-      "avg_views": 438
+      "avg_views": 503
     }
   },
   "top_videos": [
@@ -67,13 +61,13 @@
     {
       "title": "What If All the Ice on Earth Melted?",
       "topic": "earth",
-      "views": 221,
+      "views": 226,
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
     },
     {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
-      "views": 0,
+      "views": 190,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
     }
   ],
@@ -97,7 +91,7 @@
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres.",
       "published_at": "2026-10-23T21:00:29Z",
       "privacy": "public",
-      "views": 221,
+      "views": 226,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16E2OJLBg8"
@@ -127,14 +121,14 @@
       "url": "https://youtube.com/shorts/2yCHo6hsGYU"
     },
     "iRFTcrDOT5c": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT34S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -143,11 +137,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely.",
-      "published_at": "2026-10-24T13:25:38Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-24T13:40:39Z",
+      "privacy": "public",
+      "views": 190,
+      "likes": 4,
+      "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c"
     }
   }
