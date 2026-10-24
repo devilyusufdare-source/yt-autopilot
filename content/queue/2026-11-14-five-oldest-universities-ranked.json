@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-14-five-oldest-universities-ranked",
+  "format": "ranking",
+  "ranking_by": "year founded",
+  "topic": "history",
+  "title": "The 5 Oldest Universities Still Open Today, Ranked (#1 Is 1,100+ Years Old)",
+  "scenes": [
+    {
+      "text": "The five oldest universities still open, ranked. Number one started before England was a single kingdom.",
+      "keywords": "ancient university library"
+    },
+    {
+      "rank": 5,
+      "label": "Salamanca · 1134",
+      "text": "Number five: the University of Salamanca in Spain. Founded around eleven thirty-four, and still teaching students today.",
+      "keywords": "salamanca university building"
+    },
+    {
+      "rank": 4,
+      "label": "Oxford · 1096",
+      "text": "Number four: Oxford. Teaching began around ten ninety-six, long before anyone had heard of a printing press.",
+      "keywords": "oxford university old building"
+    },
+    {
+      "rank": 3,
+      "label": "Bologna · 1088",
+      "text": "Number three: the University of Bologna in Italy. Ten eighty-eight, and it is still teaching students today.",
+      "keywords": "bologna italy old city"
+    },
+    {
+      "rank": 2,
+      "label": "Al-Azhar · 970",
+      "text": "Number two: Al-Azhar in Cairo. Founded around nine seventy, it is more than a thousand years old.",
+      "keywords": "cairo mosque old"
+    },
+    {
+      "rank": 1,
+      "label": "Al-Qarawiyyin · 859",
+      "text": "Number one: Al-Qarawiyyin in Fez, Morocco. Founded in eight fifty-nine, and recognized by Guinness as the oldest.",
+      "keywords": "fez morocco old city"
+    }
+  ],
+  "description": "The five oldest universities still operating today, ranked by founding year.\nAl-Qarawiyyin in Fez, Morocco, opened in 859 and is recognized by UNESCO and Guinness as the oldest.\nWhich would you want to study at?",
+  "tags": [
+    "oldest university",
+    "oldest university in the world",
+    "al-qarawiyyin",
+    "oxford university",
+    "university of bologna",
+    "history rankings",
+    "top 5 history",
+    "history facts",
+    "education facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#history",
+    "#university",
+    "#ranking"
+  ],
+  "sources": [
+    "https://worldatlas.com/articles/oldest-universities-still-in-operation.html",
+    "https://people.howstuffworks.com/oldest-university-in-the-world.htm",
+    "https://databoks.katadata.co.id/en/education/statistics/06819f54af08b01/10-of-the-worlds-oldest-universities-some-more-than-a-millennium-old"
+  ],
+  "thumbnail_text": "5 OLDEST UNIVERSITIES, RANKED",
+  "priority": 6,
+  "first_comment": "Which one would you study at? And what should we rank next?"
+}

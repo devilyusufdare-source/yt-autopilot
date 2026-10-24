@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-15-five-tallest-dams-ranked",
+  "format": "ranking",
+  "ranking_by": "height",
+  "topic": "technology",
+  "title": "The 5 Tallest Dams Ever Built, Ranked (#1 Is 305 Meters Tall)",
+  "scenes": [
+    {
+      "text": "The five tallest dams ever built, ranked. The top one is taller than most skyscrapers.",
+      "keywords": "huge dam water release"
+    },
+    {
+      "rank": 5,
+      "label": "Baihetan · 289 m",
+      "text": "Number five: Baihetan Dam in China. Two hundred and eighty-nine meters of concrete across the Jinsha River.",
+      "keywords": "baihetan dam china"
+    },
+    {
+      "rank": 4,
+      "label": "Xiaowan · 292 m",
+      "text": "Number four: Xiaowan Dam, also in China. Two hundred and ninety-two meters tall, an arch of solid concrete.",
+      "keywords": "arch dam aerial"
+    },
+    {
+      "rank": 3,
+      "label": "Lianghekou · 295 m",
+      "text": "Number three: Lianghekou Dam, China again. Two hundred and ninety-five meters of rock and concrete.",
+      "keywords": "large dam reservoir"
+    },
+    {
+      "rank": 2,
+      "label": "Nurek · 300 m",
+      "text": "Number two: Nurek Dam in Tajikistan. Three hundred meters tall, built from earth and rock, not concrete.",
+      "keywords": "nurek dam tajikistan"
+    },
+    {
+      "rank": 1,
+      "label": "Jinping-I · 305 m",
+      "text": "Number one: Jinping-I Dam in China. Three hundred and five meters, as tall as a hundred-story skyscraper.",
+      "keywords": "jinping dam china"
+    }
+  ],
+  "description": "The five tallest dams ever built, ranked by height.\nJinping-I in China stands 305 meters tall, and all five of the top five are in Asia.\nWhat should we rank next?",
+  "tags": [
+    "tallest dam",
+    "tallest dam in the world",
+    "jinping dam",
+    "nurek dam",
+    "engineering records",
+    "technology rankings",
+    "top 5 dams",
+    "engineering facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#engineering",
+    "#dam",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_tallest_dams",
+    "https://www.worldatlas.com/articles/the-world-s-tallest-dams.html",
+    "https://www.energyencyclopedia.com/en/renewable-energy/water-energy/the-highest-dams-the-highest-largest-reservoirs"
+  ],
+  "thumbnail_text": "5 TALLEST DAMS, RANKED",
+  "priority": 5,
+  "first_comment": "Which dam would you want to stand on top of? And what should we rank next?"
+}

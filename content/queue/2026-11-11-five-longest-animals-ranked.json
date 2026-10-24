@@ -1,0 +1,73 @@
+{
+  "id": "2026-11-11-five-longest-animals-ranked",
+  "format": "ranking",
+  "ranking_by": "length",
+  "topic": "animals",
+  "title": "The 5 Longest Animals Ever Measured, Ranked (#1 Is a Worm)",
+  "scenes": [
+    {
+      "text": "The five longest animals on Earth, ranked. Number one is not a whale.",
+      "keywords": "blue whale ocean"
+    },
+    {
+      "rank": 5,
+      "label": "Fin whale · 27 m",
+      "text": "Number five: the fin whale. Twenty-seven meters long, the second-longest whale there is.",
+      "keywords": "fin whale swimming"
+    },
+    {
+      "rank": 4,
+      "label": "Blue whale · 30 m",
+      "text": "Number four: the blue whale. About thirty meters, the longest whale, and still shorter than the three below it.",
+      "keywords": "blue whale underwater"
+    },
+    {
+      "rank": 3,
+      "label": "Lion's mane jelly · 37 m",
+      "text": "Number three: the lion's mane jellyfish. Its tentacles once stretched thirty-seven meters, longer than a blue whale.",
+      "keywords": "lion's mane jellyfish"
+    },
+    {
+      "rank": 2,
+      "label": "Giant siphonophore · 47 m",
+      "text": "Number two: a giant siphonophore filmed off Australia. About forty-seven meters of stinging, living chain, drifting in the deep.",
+      "keywords": "siphonophore deep sea"
+    },
+    {
+      "rank": 1,
+      "label": "Bootlace worm · 55 m",
+      "text": "Number one: the bootlace worm. One was reported at fifty-five meters, a ribbon of slime on a North Sea beach.",
+      "keywords": "bootlace worm"
+    }
+  ],
+  "description": "The five longest animals ever measured, ranked by length.\nFrom the fin whale to a worm reported at 55 meters, longer than a blue whale.\nWhich of these would you least want to find on a beach?",
+  "tags": [
+    "longest animals",
+    "longest animal in the world",
+    "bootlace worm",
+    "siphonophore",
+    "blue whale",
+    "lion's mane jellyfish",
+    "fin whale",
+    "animal rankings",
+    "top 5 animals",
+    "animal facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#ocean",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.worldatlas.com/articles/what-are-the-longest-animals-in-the-world.html",
+    "https://www.sciencealert.com/researchers-filmed-the-longest-known-stringy-stingy-thingy-floating-in-the-ocean",
+    "https://www.discoverwildlife.com/animal-facts/marine-animals/bootlace-worm",
+    "https://www.discoverwildlife.com/animal-facts/marine-animals/praya-dubia-facts",
+    "https://voicesinthesea.ucsd.edu/species/mobile/baleenWhales/fin.html"
+  ],
+  "thumbnail_text": "5 LONGEST ANIMALS, RANKED",
+  "priority": 7,
+  "first_comment": "Which one would you least want to meet? And what should we rank next?"
+}

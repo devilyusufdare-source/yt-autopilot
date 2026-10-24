@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-16-five-highest-melting-point-metals-ranked",
+  "format": "ranking",
+  "ranking_by": "melting point",
+  "topic": "science",
+  "title": "The 5 Metals That Melt at the Highest Temperatures, Ranked",
+  "scenes": [
+    {
+      "text": "The five metals hardest to melt, ranked. Number one stays solid at over three thousand degrees.",
+      "keywords": "molten metal furnace"
+    },
+    {
+      "rank": 5,
+      "label": "Molybdenum · 2,623°C",
+      "text": "Number five: molybdenum. It melts at twenty-six hundred and twenty-three degrees Celsius, hotter than lava.",
+      "keywords": "molybdenum metal"
+    },
+    {
+      "rank": 4,
+      "label": "Tantalum · 3,017°C",
+      "text": "Number four: tantalum. Three thousand and seventeen degrees, so it ends up in phone parts and jet engines.",
+      "keywords": "tantalum metal"
+    },
+    {
+      "rank": 3,
+      "label": "Osmium · 3,033°C",
+      "text": "Number three: osmium. Thirty-three degrees above tantalum, and it is one of the densest elements known.",
+      "keywords": "osmium metal crystal"
+    },
+    {
+      "rank": 2,
+      "label": "Rhenium · 3,186°C",
+      "text": "Number two: rhenium. Three thousand one hundred and eighty-six degrees, used in rocket engines.",
+      "keywords": "rocket engine nozzle"
+    },
+    {
+      "rank": 1,
+      "label": "Tungsten · 3,422°C",
+      "text": "Number one: tungsten. Thirty-four hundred and twenty-two degrees Celsius, which is why light bulb filaments are made of it.",
+      "keywords": "tungsten light bulb filament"
+    }
+  ],
+  "description": "The five metals with the highest melting points, ranked.\nTungsten holds out until 3,422 degrees Celsius, which is why it glows inside light bulbs without melting.\nWhich metal would you want to hold?",
+  "tags": [
+    "highest melting point",
+    "tungsten",
+    "melting point metals",
+    "hardest metal to melt",
+    "osmium",
+    "rhenium",
+    "science rankings",
+    "top 5 metals",
+    "science facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#metals",
+    "#ranking"
+  ],
+  "sources": [
+    "https://sciencenotes.org/what-metal-has-the-highest-melting-point/",
+    "https://en.wikipedia.org/wiki/Refractory_metals"
+  ],
+  "thumbnail_text": "5 HARDEST METALS TO MELT",
+  "priority": 6,
+  "first_comment": "Which metal surprised you most? And what should we rank next?"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-17-five-largest-lakes-by-area-ranked",
+  "format": "ranking",
+  "ranking_by": "surface area",
+  "topic": "science",
+  "title": "The 5 Largest Lakes on Earth, Ranked (#1 Is Called a Sea)",
+  "scenes": [
+    {
+      "text": "The five largest lakes on Earth, ranked. Number one is not even called a lake.",
+      "keywords": "huge lake aerial"
+    },
+    {
+      "rank": 5,
+      "label": "Lake Michigan · 58,000 km²",
+      "text": "Number five: Lake Michigan. About fifty-eight thousand square kilometers, and the only Great Lake fully inside one country.",
+      "keywords": "lake michigan shore"
+    },
+    {
+      "rank": 4,
+      "label": "Lake Huron · 59,600 km²",
+      "text": "Number four: Lake Huron. About fifty-nine thousand six hundred square kilometers, shared by the United States and Canada.",
+      "keywords": "lake huron aerial"
+    },
+    {
+      "rank": 3,
+      "label": "Lake Victoria · 69,500 km²",
+      "text": "Number three: Lake Victoria in Africa. About sixty-nine and a half thousand square kilometers, shared by three countries.",
+      "keywords": "lake victoria africa"
+    },
+    {
+      "rank": 2,
+      "label": "Lake Superior · 82,000 km²",
+      "text": "Number two: Lake Superior. About eighty-two thousand square kilometers, the biggest freshwater lake by area.",
+      "keywords": "lake superior shoreline"
+    },
+    {
+      "rank": 1,
+      "label": "Caspian Sea · 371,000 km²",
+      "text": "Number one: the Caspian Sea. Three hundred and seventy-one thousand square kilometers, over four times Superior.",
+      "keywords": "caspian sea coast"
+    }
+  ],
+  "description": "The five largest lakes on Earth, ranked by surface area.\nThe Caspian Sea is called a sea, but it is a lake, and it covers over four times the area of Lake Superior.\nHow many of these have you seen?",
+  "tags": [
+    "largest lakes",
+    "largest lake in the world",
+    "caspian sea",
+    "lake superior",
+    "lake victoria",
+    "great lakes",
+    "earth rankings",
+    "top 5 lakes",
+    "geography facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#lake",
+    "#earth",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.worldatlas.com/articles/10-largest-lakes-in-the-world.html",
+    "https://dlab.epfl.ch/wikispeedia/wpcd/wp/l/List_of_world%2527s_largest_lakes.htm"
+  ],
+  "thumbnail_text": "5 LARGEST LAKES, RANKED",
+  "priority": 6,
+  "first_comment": "How many of these have you seen? And what should we rank next?"
+}
