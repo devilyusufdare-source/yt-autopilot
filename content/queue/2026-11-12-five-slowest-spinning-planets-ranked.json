@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-12-five-slowest-spinning-planets-ranked",
+  "format": "ranking",
+  "ranking_by": "time for one full spin",
+  "topic": "space",
+  "title": "The 5 Planets With the Longest Days, Ranked (The Sun's Neighbor Is Only #2)",
+  "scenes": [
+    {
+      "text": "The slowest-spinning planet is not the one closest to the Sun.",
+      "keywords": "planet spinning space"
+    },
+    {
+      "rank": 5,
+      "label": "Uranus · 17 h 14 min",
+      "text": "Number five: Uranus. One spin takes about seventeen hours and fourteen minutes, even though it rolls around on its side.",
+      "keywords": "uranus planet blue"
+    },
+    {
+      "rank": 4,
+      "label": "Earth · 23 h 56 min",
+      "text": "Number four: Earth. One spin takes twenty-three hours and fifty-six minutes, measured against the stars.",
+      "keywords": "earth rotating space"
+    },
+    {
+      "rank": 3,
+      "label": "Mars · 24 h 37 min",
+      "text": "Number three: Mars. One spin takes twenty-four hours and thirty-seven minutes, barely longer than ours.",
+      "keywords": "mars surface red"
+    },
+    {
+      "rank": 2,
+      "label": "Mercury · 59 Earth days",
+      "text": "Number two: Mercury. One full spin takes about fifty-nine Earth days. Closest to the Sun, but not the slowest.",
+      "keywords": "mercury planet surface"
+    },
+    {
+      "rank": 1,
+      "label": "Venus · 243 Earth days",
+      "text": "Number one: Venus. One spin takes two hundred forty-three Earth days, longer than its own two hundred twenty-five day year.",
+      "keywords": "venus planet clouds"
+    }
+  ],
+  "description": "The five planets that spin slowest, ranked by the time one full rotation takes.\nMercury is closest to the Sun but only second slowest: Venus takes 243 Earth days to spin once, which is longer than its year.\nWhich planet would you least want to live on?",
+  "tags": [
+    "slowest spinning planet",
+    "longest day planet",
+    "Venus",
+    "Mercury",
+    "planet rotation",
+    "space facts",
+    "space rankings",
+    "solar system",
+    "top 5 planets",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#venus",
+    "#ranking"
+  ],
+  "sources": [
+    "https://spaceplace.nasa.gov/days/",
+    "https://www.worldatlas.com/space/how-long-is-a-day-on-each-planet.html"
+  ],
+  "thumbnail_text": "5 LONGEST DAYS IN SPACE, RANKED",
+  "priority": 7,
+  "first_comment": "Would you rather live on Mercury or Venus? And what should we rank next?"
+}

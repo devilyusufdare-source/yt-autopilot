@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-13-five-longest-railway-tunnels-ranked",
+  "format": "ranking",
+  "ranking_by": "length",
+  "topic": "technology",
+  "title": "The 5 Longest Railway Tunnels on Earth, Ranked (#1 Isn't Under the Sea)",
+  "scenes": [
+    {
+      "text": "The longest railway tunnel on Earth isn't under the sea.",
+      "keywords": "train tunnel entrance"
+    },
+    {
+      "rank": 5,
+      "label": "Shanghai Airport · 40.2 km",
+      "text": "Number five: the Shanghai Airport tunnel in China. About forty kilometers long, and it opened only in 2024.",
+      "keywords": "china high speed train"
+    },
+    {
+      "rank": 4,
+      "label": "Yulhyeon · 50.3 km",
+      "text": "Number four: the Yulhyeon Tunnel in South Korea. Fifty point three kilometers of high-speed track, opened in 2016.",
+      "keywords": "korea high speed train"
+    },
+    {
+      "rank": 3,
+      "label": "Channel Tunnel · 50.5 km",
+      "text": "Number three: the Channel Tunnel. About fifty and a half kilometers, linking England and France.",
+      "keywords": "eurostar train tunnel"
+    },
+    {
+      "rank": 2,
+      "label": "Seikan · 53.9 km",
+      "text": "Number two: Japan's Seikan Tunnel. Nearly fifty-four kilometers long, with about twenty-three of them beneath the sea.",
+      "keywords": "japan train tunnel"
+    },
+    {
+      "rank": 1,
+      "label": "Gotthard Base · 57.1 km",
+      "text": "Number one: the Gotthard Base Tunnel in Switzerland. Fifty-seven kilometers straight through the Alps, opened in 2016.",
+      "keywords": "swiss alps mountains train"
+    }
+  ],
+  "description": "The five longest railway tunnels in operation, ranked by length.\nThe record belongs to the Gotthard Base Tunnel in Switzerland at 57.1 kilometers, and it runs under mountains, not the sea.\nWhich tunnel would you ride through first?",
+  "tags": [
+    "longest railway tunnel",
+    "Gotthard Base Tunnel",
+    "Seikan Tunnel",
+    "Channel Tunnel",
+    "train tunnels",
+    "engineering facts",
+    "technology rankings",
+    "top 5 tunnels",
+    "technology facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#engineering",
+    "#tunnel",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_longest_railway_tunnels",
+    "https://interestingengineering.com/lists/world-7-longest-railway-tunnels",
+    "https://weforum.org/stories/2016/06/worlds-longest-railway-tunnels-gotthard"
+  ],
+  "thumbnail_text": "5 LONGEST TRAIN TUNNELS, RANKED",
+  "priority": 5,
+  "first_comment": "Would you ride under the sea or under the Alps? What should we rank next?"
+}
