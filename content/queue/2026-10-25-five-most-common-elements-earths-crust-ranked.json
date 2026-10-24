@@ -1,0 +1,70 @@
+{
+  "id": "2026-10-25-five-most-common-elements-earths-crust-ranked",
+  "topic": "science",
+  "format": "ranking",
+  "ranking_by": "share of Earth's crust by mass",
+  "title": "The 5 Most Common Elements in Earth's Crust, Ranked (#1 Is a Gas)",
+  "scenes": [
+    {
+      "text": "The five most common elements in Earth's crust. Number one is something you're breathing right now.",
+      "keywords": "mountain rock cliff"
+    },
+    {
+      "text": "Number five: calcium. About four percent of the crust, the stuff of limestone and chalk.",
+      "keywords": "limestone cliff white chalk",
+      "rank": 5,
+      "label": "Calcium · 4.2%"
+    },
+    {
+      "text": "Number four: iron. Only five point six percent. Most of Earth's iron is down in the core.",
+      "keywords": "iron ore mine",
+      "rank": 4,
+      "label": "Iron · 5.6%"
+    },
+    {
+      "text": "Number three: aluminium. Eight percent, the most common metal in the crust.",
+      "keywords": "bauxite aluminium ore",
+      "rank": 3,
+      "label": "Aluminium · 8.2%"
+    },
+    {
+      "text": "Number two: silicon. Twenty-eight percent, in sand, quartz and nearly every rock.",
+      "keywords": "quartz crystal sand dune",
+      "rank": 2,
+      "label": "Silicon · 28.2%"
+    },
+    {
+      "text": "Number one: oxygen. Forty-six percent by weight, locked inside rock.",
+      "keywords": "rock formation canyon",
+      "rank": 1,
+      "label": "Oxygen · 46.1%"
+    }
+  ],
+  "description": "The five most common elements in Earth's crust, ranked by share of the crust's mass.\nOxygen is number one at 46 percent, but it's locked inside rock, not floating in the air.\nWhich one did you expect at number one?",
+  "tags": [
+    "earth's crust",
+    "most common elements",
+    "oxygen",
+    "silicon",
+    "aluminium",
+    "element abundance",
+    "top 5 elements",
+    "chemistry facts",
+    "science rankings",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#ranking",
+    "#facts"
+  ],
+  "sources": [
+    "https://education.jlab.org/glossary/abund_ele.html",
+    "https://en.wikipedia.org/wiki/Abundance_of_elements_in_Earth%27s_crust"
+  ],
+  "thumbnail_text": "5 COMMON ELEMENTS, RANKED",
+  "priority": 5,
+  "first_comment": "Which element surprised you most? And what should we rank next?"
+}
