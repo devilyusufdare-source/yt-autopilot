@@ -1,69 +1,63 @@
 {
-  "updated_at": "2026-10-24T01:53:22+00:00",
+  "updated_at": "2026-10-24T04:02:29+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 1,
+    "subscribers": 4,
     "channel_views": 0,
-    "video_count": 1
+    "video_count": 2
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/2yCHo6hsGYU"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/2yCHo6hsGYU"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/2yCHo6hsGYU"
-    ]
+    "sd_only": []
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
   "total_videos": 2,
-  "total_views": 179,
+  "total_views": 464,
   "by_topic": {
     "earth": {
       "videos": 1,
-      "avg_views": 179,
-      "best_views": 179
+      "avg_views": 183,
+      "best_views": 183
     },
     "space": {
       "videos": 1,
-      "avg_views": 0,
-      "best_views": 0
+      "avg_views": 281,
+      "best_views": 281
     }
   },
   "by_style": {
     "classic": {
       "videos": 2,
-      "avg_views": 90,
+      "avg_views": 232,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 2,
-      "avg_views": 90
+      "avg_views": 232
     }
   },
   "top_videos": [
     {
-      "title": "What If All the Ice on Earth Melted?",
-      "topic": "earth",
-      "views": 179,
-      "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
-    },
-    {
       "title": "What If Earth Stopped Spinning?",
       "topic": "space",
-      "views": 0,
+      "views": 281,
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
+    },
+    {
+      "title": "What If All the Ice on Earth Melted?",
+      "topic": "earth",
+      "views": 183,
+      "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
     }
   ],
   "videos": {
@@ -86,20 +80,20 @@
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres.",
       "published_at": "2026-10-23T21:00:29Z",
       "privacy": "public",
-      "views": 179,
-      "likes": 3,
+      "views": 183,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16E2OJLBg8"
     },
     "2yCHo6hsGYU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -108,11 +102,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed.",
-      "published_at": "2026-10-24T01:53:19Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-24T02:15:12Z",
+      "privacy": "public",
+      "views": 281,
+      "likes": 9,
+      "comments": 1,
       "url": "https://youtube.com/shorts/2yCHo6hsGYU"
     }
   }
