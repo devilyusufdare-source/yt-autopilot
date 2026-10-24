@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24T04:02:04+00:00",
+  "updated_at": "2026-10-24T11:35:07+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 53,
+    "subscribers": 54,
     "channel_views": 35327,
     "video_count": 91
   },
@@ -22,8 +22,8 @@
     "avg_view_percent": 66.0,
     "by_topic": {
       "psychology": 71.3,
-      "science": 69.8,
-      "animals": 62.8,
+      "science": 69.9,
+      "animals": 62.9,
       "human body": 86.7,
       "history": 52.5,
       "space": 72.4,
@@ -86,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 91,
-  "total_views": 36211,
+  "total_views": 37264,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -100,7 +100,7 @@
     },
     "animals": {
       "videos": 43,
-      "avg_views": 421,
+      "avg_views": 445,
       "best_views": 1507
     },
     "human body": {
@@ -127,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 75,
-      "avg_views": 392,
+      "avg_views": 406,
       "over_1500": 3
     },
     "punch": {
@@ -139,11 +139,11 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 197
+      "avg_views": 233
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
-      "avg_views": 8
+      "avg_views": 9
     },
     "en-US-AndrewNeural": {
       "videos": 6,
@@ -744,8 +744,8 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 15,
-      "likes": 0,
+      "views": 30,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo"
     },
@@ -768,7 +768,7 @@
       "hook": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
       "published_at": "2026-10-23T22:30:29Z",
       "privacy": "public",
-      "views": 18,
+      "views": 44,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PBbydRJloRA"
@@ -792,8 +792,8 @@
       "hook": "The five longest-living animals on Earth, ranked. Number one was already old when the pyramids were built.",
       "published_at": "2026-10-24T00:00:30Z",
       "privacy": "public",
-      "views": 9,
-      "likes": 0,
+      "views": 56,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/pp65J4Foq4E"
     },
@@ -844,8 +844,8 @@
       "hook": "The five deadliest eruptions since 1500. The deadliest one didn't kill most people with lava, ash or fire.",
       "published_at": "2026-10-24T02:20:26Z",
       "privacy": "public",
-      "views": 3,
-      "likes": 0,
+      "views": 10,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C2m63XKX8rg"
     },
@@ -1257,11 +1257,11 @@
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
       "views": 1510,
-      "likes": 17,
+      "likes": 18,
       "comments": 1,
       "url": "https://youtube.com/shorts/a_7ULbNzldk",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 73.0,
+      "avg_view_percent": 73.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1289,7 +1289,7 @@
       "comments": 2,
       "url": "https://youtube.com/shorts/lbyTt6i2XOo",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 40.5,
+      "avg_view_percent": 41.0,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1345,7 +1345,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/hUG-q54cj-0",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 71.8,
+      "avg_view_percent": 71.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1401,7 +1401,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko",
       "avg_view_seconds": 17.0,
-      "avg_view_percent": 51.3,
+      "avg_view_percent": 51.4,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1452,7 +1452,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 90,
+      "views": 89,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5pKsRTupbRY",
@@ -1956,8 +1956,8 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 419,
-      "likes": 9,
+      "views": 425,
+      "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4",
       "avg_view_seconds": 18.0,
@@ -1984,7 +1984,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 291,
+      "views": 292,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
@@ -2040,7 +2040,7 @@
       "hook": "A cheetah ran 100 metres in 5.95 seconds.",
       "published_at": "2026-10-22T12:10:31Z",
       "privacy": "public",
-      "views": 49,
+      "views": 51,
       "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/lSMWTUoJceo"
@@ -2064,8 +2064,8 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 327,
-      "likes": 3,
+      "views": 381,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s"
     },
@@ -2116,7 +2116,7 @@
       "hook": "This bird hits the water at over 50 miles an hour.",
       "published_at": "2026-10-22T13:50:15Z",
       "privacy": "public",
-      "views": 995,
+      "views": 1062,
       "likes": 8,
       "comments": 2,
       "url": "https://youtube.com/shorts/650vI7wznrM"
@@ -2140,7 +2140,7 @@
       "hook": "A spacecraft flew through the Sun's atmosphere at 430,000 miles an hour.",
       "published_at": "2026-10-22T13:50:30Z",
       "privacy": "public",
-      "views": 88,
+      "views": 89,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/c6f1sIZn_Co"
@@ -2164,7 +2164,7 @@
       "hook": "These alligators are frozen in solid ice. And they're alive.",
       "published_at": "2026-10-22T15:10:38Z",
       "privacy": "public",
-      "views": 109,
+      "views": 111,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/Dbv2hy3GKSU"
@@ -2236,7 +2236,7 @@
       "hook": "This lake gets hit by lightning almost 300 nights a year.",
       "published_at": "2026-10-22T18:00:23Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Z-nWJgNZMZM"
@@ -2260,7 +2260,7 @@
       "hook": "A two-ton shark launches ten feet out of the water.",
       "published_at": "2026-10-22T21:00:33Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LquJ2hMdwYI"
@@ -2284,7 +2284,7 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 142,
+      "views": 144,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU"
@@ -2364,7 +2364,7 @@
       "hook": "Scientists filmed a deep-sea creature 150 feet long.",
       "published_at": "2026-10-23T15:10:07Z",
       "privacy": "public",
-      "views": 30,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MJ6FRS8q71M"
@@ -2388,8 +2388,8 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 266,
-      "likes": 2,
+      "views": 778,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0"
     },
@@ -2412,8 +2412,8 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 371,
-      "likes": 3,
+      "views": 619,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
     },
@@ -2436,7 +2436,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 83,
+      "views": 109,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
@@ -2460,8 +2460,8 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 44,
-      "likes": 0,
+      "views": 67,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A"
     },
@@ -2484,7 +2484,7 @@
       "hook": "Some adult insects live for less than five minutes.",
       "published_at": "2026-10-23T19:40:06Z",
       "privacy": "public",
-      "views": 6,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o"
@@ -2620,7 +2620,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
