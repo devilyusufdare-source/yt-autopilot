@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T04:02:29+00:00",
+  "updated_at": "2026-10-24T13:25:40+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,55 +9,72 @@
     "video_count": 2
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/iRFTcrDOT5c"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/iRFTcrDOT5c"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/iRFTcrDOT5c"
+    ]
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
-  "total_videos": 2,
-  "total_views": 464,
+  "total_videos": 3,
+  "total_views": 1313,
   "by_topic": {
     "earth": {
       "videos": 1,
-      "avg_views": 183,
-      "best_views": 183
+      "avg_views": 221,
+      "best_views": 221
     },
     "space": {
       "videos": 1,
-      "avg_views": 281,
-      "best_views": 281
+      "avg_views": 1092,
+      "best_views": 1092
+    },
+    "society": {
+      "videos": 1,
+      "avg_views": 0,
+      "best_views": 0
     }
   },
   "by_style": {
     "classic": {
-      "videos": 2,
-      "avg_views": 232,
+      "videos": 3,
+      "avg_views": 438,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 2,
-      "avg_views": 232
+      "videos": 3,
+      "avg_views": 438
     }
   },
   "top_videos": [
     {
       "title": "What If Earth Stopped Spinning?",
       "topic": "space",
-      "views": 281,
+      "views": 1092,
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
     },
     {
       "title": "What If All the Ice on Earth Melted?",
       "topic": "earth",
-      "views": 183,
+      "views": 221,
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
+    },
+    {
+      "title": "What If Everyone on Earth Jumped at the Same Time?",
+      "topic": "society",
+      "views": 0,
+      "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
     }
   ],
   "videos": {
@@ -80,8 +97,8 @@
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres.",
       "published_at": "2026-10-23T21:00:29Z",
       "privacy": "public",
-      "views": 183,
-      "likes": 4,
+      "views": 221,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16E2OJLBg8"
     },
@@ -104,10 +121,34 @@
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed.",
       "published_at": "2026-10-24T02:15:12Z",
       "privacy": "public",
-      "views": 281,
-      "likes": 9,
+      "views": 1092,
+      "likes": 22,
       "comments": 1,
       "url": "https://youtube.com/shorts/2yCHo6hsGYU"
+    },
+    "iRFTcrDOT5c": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Everyone on Earth Jumped at the Same Time?",
+      "topic": "society",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely.",
+      "published_at": "2026-10-24T13:25:38Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/iRFTcrDOT5c"
     }
   }
 }
