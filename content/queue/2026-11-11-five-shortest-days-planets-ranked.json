@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-11-five-shortest-days-planets-ranked",
+  "format": "ranking",
+  "ranking_by": "length of day (rotation period)",
+  "topic": "space",
+  "title": "The 5 Shortest Days in the Solar System, Ranked (Earth Barely Makes It)",
+  "scenes": [
+    {
+      "text": "Earth's day is 24 hours. Four planets spin faster, and one finishes in under ten.",
+      "keywords": "planet earth rotating from space"
+    },
+    {
+      "rank": 5,
+      "label": "Earth · 24 hours",
+      "text": "Number five: Earth. Twenty-four hours, and that's the slowest spin on this list. Our day is a very long one.",
+      "keywords": "planet earth from space"
+    },
+    {
+      "rank": 4,
+      "label": "Uranus · 17.2 hours",
+      "text": "Number four: Uranus. About seventeen hours, spinning on its side like a barrel rolling around the Sun.",
+      "keywords": "planet uranus"
+    },
+    {
+      "rank": 3,
+      "label": "Neptune · 16.1 hours",
+      "text": "Number three: Neptune. Sixteen hours to turn once, with the fastest winds in the solar system raging around it.",
+      "keywords": "planet neptune"
+    },
+    {
+      "rank": 2,
+      "label": "Saturn · 10.7 hours",
+      "text": "Number two: Saturn. About ten hours and forty minutes, spinning so fast that the planet bulges at its middle.",
+      "keywords": "planet saturn rings"
+    },
+    {
+      "rank": 1,
+      "label": "Jupiter · 9.9 hours",
+      "text": "Number one: Jupiter. Under ten hours for a full turn, even though it is more than eleven times wider than Earth.",
+      "keywords": "planet jupiter"
+    }
+  ],
+  "description": "The five planets with the shortest days, ranked by the time they take to rotate once.\nJupiter, bigger than everything else combined, spins in under ten hours.\nWhich planet would you least like to live on?",
+  "tags": [
+    "shortest day planet",
+    "jupiter day length",
+    "saturn rotation",
+    "neptune day",
+    "uranus day",
+    "earth day",
+    "solar system facts",
+    "space facts",
+    "planet records",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#planets",
+    "#ranking"
+  ],
+  "sources": [
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/index.html",
+    "https://spaceplace.nasa.gov/days/"
+  ],
+  "thumbnail_text": "5 SHORTEST DAYS, RANKED",
+  "priority": 6,
+  "first_comment": "Did you expect Earth to make the list? Which space record should we rank next?"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-14-five-farthest-spacecraft-ranked",
+  "format": "ranking",
+  "ranking_by": "distance from the Sun",
+  "topic": "technology",
+  "title": "The 5 Farthest Human-Made Objects, Ranked (#1 Is Almost a Light-Day Away)",
+  "scenes": [
+    {
+      "text": "The farthest thing humans ever built is almost a full light-day from home.",
+      "keywords": "spacecraft deep space probe"
+    },
+    {
+      "rank": 5,
+      "label": "New Horizons · ~63 AU",
+      "text": "Number five: New Horizons. About six billion miles out, still flying and past Pluto since twenty fifteen.",
+      "keywords": "New Horizons spacecraft"
+    },
+    {
+      "rank": 4,
+      "label": "Pioneer 11 · ~117 AU",
+      "text": "Number four: Pioneer eleven. About eleven billion miles away, and silent since nineteen ninety-five.",
+      "keywords": "Pioneer spacecraft"
+    },
+    {
+      "rank": 3,
+      "label": "Pioneer 10 · ~140 AU",
+      "text": "Number three: Pioneer ten. About thirteen billion miles, silent since two thousand three. A dead probe, still drifting outward.",
+      "keywords": "Pioneer 10 spacecraft"
+    },
+    {
+      "rank": 2,
+      "label": "Voyager 2 · ~141 AU",
+      "text": "Number two: Voyager two. About thirteen billion miles, still sending data, and only a hair ahead of Pioneer ten.",
+      "keywords": "Voyager 2 spacecraft"
+    },
+    {
+      "rank": 1,
+      "label": "Voyager 1 · ~169 AU",
+      "text": "Number one: Voyager one. More than fifteen billion miles. Its signal takes almost a full day to reach us.",
+      "keywords": "Voyager 1 spacecraft"
+    }
+  ],
+  "description": "The five farthest human-made objects, ranked by distance from the Sun.\nVoyager 1 launched in 1977 and is still talking to us from more than fifteen billion miles away.\nWhat should we send out there next?",
+  "tags": [
+    "farthest spacecraft",
+    "voyager 1",
+    "voyager 2",
+    "pioneer 10",
+    "new horizons",
+    "space probes",
+    "space facts",
+    "technology records",
+    "top 5 space",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#voyager",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_artificial_objects_leaving_the_Solar_System",
+    "https://earthsky.org/space/what-is-the-most-distant-man-made-object-from-earth"
+  ],
+  "thumbnail_text": "5 FARTHEST SPACECRAFT, RANKED",
+  "priority": 7,
+  "first_comment": "Did you know Pioneer 10 is still out there? Which record should we rank next?"
+}

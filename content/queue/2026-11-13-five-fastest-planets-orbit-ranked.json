@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-13-five-fastest-planets-orbit-ranked",
+  "format": "ranking",
+  "ranking_by": "orbital speed around the Sun",
+  "topic": "space",
+  "title": "The 5 Fastest Planets Around the Sun, Ranked (You're on #3)",
+  "scenes": [
+    {
+      "text": "You're flying around the Sun at 67,000 miles an hour. Two planets are even faster.",
+      "keywords": "earth orbiting sun space"
+    },
+    {
+      "rank": 5,
+      "label": "Jupiter · 29,000 mph",
+      "text": "Number five: Jupiter. About twenty-nine thousand miles an hour, and it's the heaviest planet there is.",
+      "keywords": "planet jupiter"
+    },
+    {
+      "rank": 4,
+      "label": "Mars · 54,000 mph",
+      "text": "Number four: Mars. About fifty-four thousand miles an hour, a little under twice Jupiter's speed.",
+      "keywords": "planet mars"
+    },
+    {
+      "rank": 3,
+      "label": "Earth · 67,000 mph",
+      "text": "Number three: Earth. About sixty-seven thousand miles an hour. You're riding it right now and can't feel a thing.",
+      "keywords": "planet earth from space"
+    },
+    {
+      "rank": 2,
+      "label": "Venus · 78,000 mph",
+      "text": "Number two: Venus. About seventy-eight thousand miles an hour, circling the Sun in under eight months.",
+      "keywords": "planet venus"
+    },
+    {
+      "rank": 1,
+      "label": "Mercury · 107,000 mph",
+      "text": "Number one: Mercury. About one hundred seven thousand miles an hour, a lap of the Sun in just eighty-eight days.",
+      "keywords": "planet mercury"
+    }
+  ],
+  "description": "The five fastest planets, ranked by orbital speed around the Sun.\nMercury moves more than three times faster than Jupiter, and Earth is right in the middle.\nDid you know you're moving this fast?",
+  "tags": [
+    "fastest planet",
+    "planet orbital speed",
+    "mercury speed",
+    "earth speed",
+    "space facts",
+    "solar system",
+    "planet records",
+    "astronomy",
+    "top 5 planets",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#planets",
+    "#ranking"
+  ],
+  "sources": [
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/index.html",
+    "https://public.nrao.edu/ask/which-planet-orbits-our-sun-the-fastest/"
+  ],
+  "thumbnail_text": "5 FASTEST PLANETS, RANKED",
+  "priority": 6,
+  "first_comment": "Did you think Earth was this fast? Which space ranking should we do next?"
+}

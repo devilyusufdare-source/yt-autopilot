@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-12-five-tallest-waterfalls-ranked",
+  "format": "ranking",
+  "ranking_by": "overall height",
+  "topic": "science",
+  "title": "The 5 Tallest Waterfalls on Earth, Ranked (#1 Is Hidden in a Jungle)",
+  "scenes": [
+    {
+      "text": "Five waterfalls fall almost a kilometer. Number one is hidden deep in a Venezuelan jungle.",
+      "keywords": "waterfall jungle aerial"
+    },
+    {
+      "rank": 5,
+      "label": "Yumbilla Falls · 896 m",
+      "text": "Number five: Yumbilla Falls in Peru. Eight hundred ninety-six meters, taller than two Eiffel Towers stacked.",
+      "keywords": "Yumbilla Falls Peru"
+    },
+    {
+      "rank": 4,
+      "label": "Olo'upena Falls · 900 m",
+      "text": "Number four: Olo'upena Falls in Hawaii. Nine hundred meters of falling water.",
+      "keywords": "Hawaii waterfall cliff"
+    },
+    {
+      "rank": 3,
+      "label": "Tres Hermanas · 914 m",
+      "text": "Number three: Tres Hermanas Falls in Peru. Its name means Three Sisters. Nine hundred fourteen meters tall.",
+      "keywords": "Peru waterfall"
+    },
+    {
+      "rank": 2,
+      "label": "Tugela Falls · 948 m",
+      "text": "Number two: Tugela Falls in South Africa. Nearly nine hundred fifty meters, pouring off the Drakensberg mountains.",
+      "keywords": "Tugela Falls"
+    },
+    {
+      "rank": 1,
+      "label": "Angel Falls · 979 m",
+      "text": "Number one: Angel Falls in Venezuela. Nine hundred seventy-nine meters, more than three thousand feet. The tallest on Earth.",
+      "keywords": "Angel Falls Venezuela"
+    }
+  ],
+  "description": "The five tallest waterfalls on Earth, ranked by overall height.\nThe winner is about three times the height of the Eiffel Tower and sits in a Venezuelan jungle.\nWhich waterfall would you most want to see?",
+  "tags": [
+    "tallest waterfalls",
+    "angel falls",
+    "tugela falls",
+    "tres hermanas falls",
+    "yumbilla falls",
+    "waterfall facts",
+    "earth records",
+    "top 5 waterfalls",
+    "nature facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#waterfalls",
+    "#nature",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_waterfalls_by_height",
+    "https://zmescience.com/the-5-tallest-waterfalls-in-the-world"
+  ],
+  "thumbnail_text": "5 TALLEST WATERFALLS, RANKED",
+  "priority": 5,
+  "first_comment": "Which waterfall surprised you? What should we rank next?"
+}
