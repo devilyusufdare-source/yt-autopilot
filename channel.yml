@@ -59,18 +59,18 @@ facebook:
 # Per-topic look, so ten videos a day do not share one template (YouTube treats identical-looking
 # uploads as mass-produced). Each topic gets its own caption colour, voice and motion; anything not
 # listed falls back to `default`. Voices: any en-US-*Neural edge-tts voice.
-# 24 Oct: one voice for the whole channel (Ava) so viewers recognise it; colours still vary by topic.
+# 25 Oct: one voice for the whole channel — Andrew, the voice of the first videos; colours still vary by topic.
 looks:
-  default:    { highlight_color: "#FFD400", voice: "en-US-AvaMultilingualNeural", zoom: 0.08 }
-  space:      { highlight_color: "#7DD3FC", voice: "en-US-AvaMultilingualNeural", zoom: 0.06 }
-  animals:    { highlight_color: "#86EFAC", voice: "en-US-AvaMultilingualNeural",  zoom: 0.10 }
-  science:    { highlight_color: "#FFD400", voice: "en-US-AvaMultilingualNeural",    zoom: 0.08 }
-  human body: { highlight_color: "#FDA4AF", voice: "en-US-AvaMultilingualNeural",    zoom: 0.09 }
-  history:    { highlight_color: "#FCD34D", voice: "en-US-AvaMultilingualNeural", zoom: 0.07 }
-  psychology: { highlight_color: "#C4B5FD", voice: "en-US-AvaMultilingualNeural",   zoom: 0.08 }
-  technology: { highlight_color: "#67E8F9", voice: "en-US-AvaMultilingualNeural",   zoom: 0.08 }
-  games:      { highlight_color: "#A3E635", voice: "en-US-AvaMultilingualNeural",  zoom: 0.09 }
-  internet:   { highlight_color: "#F9A8D4", voice: "en-US-AvaMultilingualNeural",   zoom: 0.08 }
+  default:    { highlight_color: "#FFD400", voice: "en-US-AndrewNeural", zoom: 0.08 }
+  space:      { highlight_color: "#7DD3FC", voice: "en-US-AndrewNeural", zoom: 0.06 }
+  animals:    { highlight_color: "#86EFAC", voice: "en-US-AndrewNeural", zoom: 0.10 }
+  science:    { highlight_color: "#FFD400", voice: "en-US-AndrewNeural", zoom: 0.08 }
+  human body: { highlight_color: "#FDA4AF", voice: "en-US-AndrewNeural", zoom: 0.09 }
+  history:    { highlight_color: "#FCD34D", voice: "en-US-AndrewNeural", zoom: 0.07 }
+  psychology: { highlight_color: "#C4B5FD", voice: "en-US-AndrewNeural", zoom: 0.08 }
+  technology: { highlight_color: "#67E8F9", voice: "en-US-AndrewNeural", zoom: 0.08 }
+  games:      { highlight_color: "#A3E635", voice: "en-US-AndrewNeural", zoom: 0.09 }
+  internet:   { highlight_color: "#F9A8D4", voice: "en-US-AndrewNeural", zoom: 0.08 }
 
 # Client prospecting (python -m pipeline.prospects / the "Find client prospects" workflow):
 # niches where small creators post Shorts and would buy ready-made ones.
@@ -150,8 +150,8 @@ video:
 
 voice:
   engine: "auto"                   # auto = Microsoft neural voice (edge-tts), falls back to offline voice | edge | offline
-  edge_voice: "en-US-AvaMultilingualNeural" # 24 Oct: new channel voice (owner asked). try: en-US-BrianNeural, en-US-ChristopherNeural, en-GB-RyanNeural, en-IN-PrabhatNeural
-  edge_rate: "+12%"
+  edge_voice: "en-US-AndrewNeural" # 25 Oct: back to the original channel voice (Ava cut videos short). try: en-US-BrianNeural, en-US-ChristopherNeural, en-GB-RyanNeural, en-IN-PrabhatNeural
+  edge_rate: "+10%"
   loudness_lufs: -19               # overall loudness of the finished video. YouTube's own level is about -14; lower = quieter/softer
   offline_voice: "vits-piper-en_US-ryan-medium"   # any vits-piper-* model from the sherpa-onnx tts-models release
   offline_speed: 0.8
