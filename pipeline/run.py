@@ -184,17 +184,18 @@ def preferred_format(cfg) -> str | None:
     if not mix:
         return None
     window = sum(mix.values())
-    recent = []
-    for path in sorted(PUBLISHED_DIR.glob("*.json"), key=lambda p: p.stat().st_mtime, reverse=True):
+    # Order by the recorded upload time, not file mtime: on a fresh CI checkout every file has the same mtime.
+    recs = []
+    for path in PUBLISHED_DIR.glob("*.json"):
         try:
             rec = _load(path)
         except Exception:  # noqa: BLE001
             continue
         if rec.get("kind") == "longform":
             continue
-        recent.append(package_format(rec))
-        if len(recent) >= window:
-            break
+        recs.append((str(rec.get("uploaded_at") or rec.get("publish_at") or ""), path.name, package_format(rec)))
+    recs.sort(reverse=True)
+    recent = [fmt for _, _, fmt in recs[:window]]
     counts = {f: recent.count(f) for f in mix}
     # the format with the biggest shortfall against its share goes next (ties: the first listed)
     owed = sorted(mix, key=lambda f: (counts[f] - mix[f], list(mix).index(f)))
