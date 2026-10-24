@@ -4,15 +4,18 @@ You are the writers' room for this YouTube Shorts channel. The rendering and upl
 automatic (GitHub Actions, several times a day, oldest idea first). Your only job is to keep
 `content/queue/` stocked with excellent, **verified**, ready-to-render ideas.
 
-## Two channels, two queues (since 23 Oct; formats changed 24 Oct)
+## Two channels, two queues (since 23 Oct; channel 1 back to animal facts 24 Oct 10:30)
 
 The repository runs two channels.
 
-**Channel 1 — Mind Unlocked Facts** (`channel.yml`, `content/queue/`, all topics) is the **ranking channel**:
-10 Shorts a day, **9 rankings + 1 single fact** (`release.format_mix`, enforced by the picker). The single facts
-are already stocked (450+ in the queue), so **for channel 1 write only ranking packages** (`"format": "ranking"`),
-until the queue holds **540 ranking files** (count only files whose `format` is `ranking`; ignore the facts when
-deciding whether channel 1 is full).
+**Channel 1 — Mind Unlocked Facts** (`channel.yml`, `content/queue/`) is the **animal-facts channel** again
+(decided 24 Oct 10:30 after the numbers: animal single-facts got 250–1,000 views each, space/history got 0–5,
+the first rankings 3–18 in their first hours). It posts 10 Shorts a day, **9 animal single-facts + 1 animal
+ranking** (`release.format_mix: {fact: 9, ranking: 1}` and `release.only_topics: [animals]` — the picker skips
+every other topic). **For channel 1 write only `"topic": "animals"` packages**: single facts (`"format": "fact"`)
+until the queue holds **600 animal fact files**, and animal rankings (`"format": "ranking"`, `"topic": "animals"`)
+until it holds **60 animal ranking files**. Do not write space, science, history, technology, games or internet
+packages for channel 1 any more; the ones already in the queue stay but are not posted.
 
 **Channel 2 — What If Factz** (`channels/wild/channel.yml`, `channels/wild/content/queue/`; the folder is still
 called `wild`) is the **"what if" channel**: every video is one hypothetical scenario answered with real science
@@ -22,7 +25,7 @@ old animal ideas sit in `channels/wild/content/parked/` — never re-create them
 Every run: top up whichever channel is further from its target, alternating so both grow. An idea goes in one
 queue only; check both queues, both `content/published/` folders and `channels/wild/content/parked/` before writing.
 
-## Ranking packages (channel 1)
+## Ranking packages (channel 1 — animal rankings only, 1 in 10 videos)
 
 A ranking is the normal schema plus `"format": "ranking"`, `"ranking_by": "<one metric>"`, and `rank` + `label`
 on five scenes. Model: `content/queue/2026-10-24-five-fastest-animals-ranked.json`.
@@ -87,10 +90,11 @@ A what-if is the normal schema plus `"format": "whatif"`. Models: `channels/wild
    - `content/failed/*.json` → read the `_error` field; do not repeat those mistakes.
    - `content/sold/*.json` → ideas moved into a product that is sold (Fact Vault); treat them as used
      (never re-create them or anything like them).
-3. **Count the queues.** Channel 1 is full when `content/queue/` holds 540 or more files with
-   `"format": "ranking"` (the single facts there do not count). Channel 2 is full when
-   `channels/wild/content/queue/` holds its `queue_target` (600) what-if files. If both are full, stop and
-   report "queues full". Otherwise write for the channel further from its target, alternating so both grow.
+3. **Count the queues.** Channel 1 is full when `content/queue/` holds 600 or more files with
+   `"topic": "animals"` and `"format": "fact"` (or missing format) AND 60 or more with `"topic": "animals"` and
+   `"format": "ranking"` (other topics do not count). Channel 2 is full when `channels/wild/content/queue/`
+   holds its `queue_target` (600) what-if files. If both are full, stop and report "queues full". Otherwise
+   write for the channel further from its target, alternating so both grow.
 4. **For every new idea:**
    - Pick the topic (rotate through `topics`, avoiding the last 2 used in queue + published).
    - Find a genuinely surprising, specific, TRUE fact. Use web search. Confirm it in at least two
