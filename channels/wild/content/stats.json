@@ -1,77 +1,97 @@
 {
-  "updated_at": "2026-10-23T20:35:34+00:00",
+  "updated_at": "2026-10-24T01:53:22+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 1,
     "channel_views": 0,
-    "video_count": 2
+    "video_count": 1
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/T16E2OJLBg8"
+      "https://youtube.com/shorts/2yCHo6hsGYU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/T16E2OJLBg8"
+      "https://youtube.com/shorts/2yCHo6hsGYU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/T16E2OJLBg8"
+      "https://youtube.com/shorts/2yCHo6hsGYU"
     ]
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
   "total_videos": 2,
-  "total_views": 10,
+  "total_views": 179,
   "by_topic": {
     "earth": {
       "videos": 1,
+      "avg_views": 179,
+      "best_views": 179
+    },
+    "space": {
+      "videos": 1,
       "avg_views": 0,
       "best_views": 0
-    },
-    "animals": {
-      "videos": 1,
-      "avg_views": 10,
-      "best_views": 10
     }
   },
   "by_style": {
     "classic": {
       "videos": 2,
-      "avg_views": 5,
+      "avg_views": 90,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 1,
-      "avg_views": 0
-    },
-    "en-US-BrianNeural": {
-      "videos": 1,
-      "avg_views": 10
+      "videos": 2,
+      "avg_views": 90
     }
   },
   "top_videos": [
     {
-      "title": "This Eagle's Talons Are Longer Than a Grizzly Bear's Claws",
-      "topic": "animals",
-      "views": 10,
-      "hook": "This eagle's talons are longer than a grizzly bear's claws."
-    },
-    {
       "title": "What If All the Ice on Earth Melted?",
       "topic": "earth",
-      "views": 0,
+      "views": 179,
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
+    },
+    {
+      "title": "What If Earth Stopped Spinning?",
+      "topic": "space",
+      "views": 0,
+      "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
     }
   ],
   "videos": {
     "T16E2OJLBg8": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT34S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If All the Ice on Earth Melted?",
+      "topic": "earth",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres.",
+      "published_at": "2026-10-23T21:00:29Z",
+      "privacy": "public",
+      "views": 179,
+      "likes": 3,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/T16E2OJLBg8"
+    },
+    "2yCHo6hsGYU": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -83,41 +103,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If All the Ice on Earth Melted?",
-      "topic": "earth",
+      "title": "What If Earth Stopped Spinning?",
+      "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres.",
-      "published_at": "2026-10-23T20:35:30Z",
+      "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed.",
+      "published_at": "2026-10-24T01:53:19Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/T16E2OJLBg8"
-    },
-    "mgAaVj7M7IQ": {
-      "upload_status": "processed",
-      "rejection_reason": null,
-      "made_for_kids": false,
-      "self_declared_made_for_kids": false,
-      "embeddable": true,
-      "license": "youtube",
-      "duration": "PT32S",
-      "definition": "hd",
-      "region_restriction": null,
-      "content_rating": null,
-      "category_id": "27",
-      "title": "This Eagle's Talons Are Longer Than a Grizzly Bear's Claws",
-      "topic": "animals",
-      "style": "classic",
-      "voice": "en-US-BrianNeural",
-      "hook": "This eagle's talons are longer than a grizzly bear's claws.",
-      "published_at": "2026-10-23T16:40:22Z",
-      "privacy": "public",
-      "views": 10,
-      "likes": 1,
-      "comments": 1,
-      "url": "https://youtube.com/shorts/mgAaVj7M7IQ"
+      "url": "https://youtube.com/shorts/2yCHo6hsGYU"
     }
   }
 }
