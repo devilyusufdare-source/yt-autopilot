@@ -170,5 +170,6 @@
   "publish_at": "2026-10-19T01:00:00Z",
   "tts_engine": "edge",
   "duration_seconds": 520.8,
-  "style": "longform"
+  "style": "longform",
+  "first_comment_attempts": 1
 }

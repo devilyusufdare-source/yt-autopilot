@@ -172,5 +172,6 @@
   "publish_at": "2026-10-17T17:00:00Z",
   "tts_engine": "offline",
   "duration_seconds": 504.0,
-  "style": "longform"
+  "style": "longform",
+  "first_comment_attempts": 1
 }
