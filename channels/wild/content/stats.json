@@ -1,103 +1,97 @@
 {
-  "updated_at": "2026-10-25T13:13:39+00:00",
+  "updated_at": "2026-10-25T16:00:31+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 4,
+    "subscribers": 6,
     "channel_views": 1305,
-    "video_count": 5
+    "video_count": 6
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/2bwg6x0eZVY"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/2bwg6x0eZVY"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/2bwg6x0eZVY"
-    ]
+    "sd_only": []
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
   "total_videos": 6,
-  "total_views": 3169,
+  "total_views": 3689,
   "by_topic": {
     "earth": {
       "videos": 3,
-      "avg_views": 149,
-      "best_views": 367
+      "avg_views": 309,
+      "best_views": 466
     },
     "space": {
       "videos": 1,
-      "avg_views": 1270,
-      "best_views": 1270
+      "avg_views": 1271,
+      "best_views": 1271
     },
     "society": {
       "videos": 1,
-      "avg_views": 296,
-      "best_views": 296
+      "avg_views": 314,
+      "best_views": 314
     },
     "animals": {
       "videos": 1,
-      "avg_views": 1155,
-      "best_views": 1155
+      "avg_views": 1176,
+      "best_views": 1176
     }
   },
   "by_style": {
     "classic": {
       "videos": 6,
-      "avg_views": 528,
+      "avg_views": 615,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 6,
-      "avg_views": 528
+      "avg_views": 615
     }
   },
   "top_videos": [
     {
       "title": "What If Earth Stopped Spinning?",
       "topic": "space",
-      "views": 1270,
+      "views": 1271,
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
     },
     {
       "title": "What If Every Mosquito Went Extinct?",
       "topic": "animals",
-      "views": 1155,
+      "views": 1176,
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
+    },
+    {
+      "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
+      "topic": "earth",
+      "views": 466,
+      "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
       "title": "What If All the Ice on Earth Melted?",
       "topic": "earth",
-      "views": 367,
+      "views": 380,
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
     },
     {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
-      "views": 296,
+      "views": 314,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
     },
     {
       "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
       "topic": "earth",
-      "views": 81,
+      "views": 82,
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger."
-    },
-    {
-      "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
-      "topic": "earth",
-      "views": 0,
-      "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     }
   ],
   "videos": {
@@ -120,7 +114,7 @@
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres.",
       "published_at": "2026-10-23T21:00:29Z",
       "privacy": "public",
-      "views": 367,
+      "views": 380,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16E2OJLBg8"
@@ -144,7 +138,7 @@
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger.",
       "published_at": "2026-10-25T02:15:13Z",
       "privacy": "public",
-      "views": 81,
+      "views": 82,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/jKyqYNkFqgE"
@@ -168,7 +162,7 @@
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed.",
       "published_at": "2026-10-24T02:15:12Z",
       "privacy": "public",
-      "views": 1270,
+      "views": 1271,
       "likes": 25,
       "comments": 1,
       "url": "https://youtube.com/shorts/2yCHo6hsGYU"
@@ -192,7 +186,7 @@
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely.",
       "published_at": "2026-10-24T13:40:39Z",
       "privacy": "public",
-      "views": 296,
+      "views": 314,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c"
@@ -216,20 +210,20 @@
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
       "published_at": "2026-10-24T21:00:32Z",
       "privacy": "public",
-      "views": 1155,
+      "views": 1176,
       "likes": 24,
       "comments": 2,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg"
     },
     "2bwg6x0eZVY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT39S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -238,11 +232,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
-      "published_at": "2026-10-25T13:13:36Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-25T13:40:31Z",
+      "privacy": "public",
+      "views": 466,
+      "likes": 14,
+      "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY"
     }
   }
