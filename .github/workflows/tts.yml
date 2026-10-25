@@ -1,0 +1,109 @@
+name: Voice lines (text to speech)
+
+# Turns a list of lines into narration with a Microsoft neural voice (edge-tts), for ads and other one-off
+# videos made outside the daily pipeline. Output (one mp3 per line + word timings in lines.json) is pushed to
+# the `tts-out` branch, folder <job>/; the branch is overwritten on every run. Nothing on main changes.
+on:
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "Name for this batch (letters, digits, - and _)"
+        required: true
+        type: string
+      lines:
+        description: 'JSON list of lines to speak, e.g. ["First line.", "Second line."]'
+        required: true
+        type: string
+      voice:
+        description: "edge-tts voice"
+        default: "en-US-AndrewNeural"
+        type: string
+      rate:
+        description: "Speaking rate, e.g. +5%"
+        default: "+5%"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tts
+  cancel-in-progress: false
+
+jobs:
+  speak:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install edge-tts
+        run: pip install "edge-tts>=7.0"
+
+      - name: Speak the lines
+        env:
+          JOB: ${{ inputs.job }}
+          LINES: ${{ inputs.lines }}
+          VOICE: ${{ inputs.voice }}
+          RATE: ${{ inputs.rate }}
+        run: |
+          python - <<'EOF'
+          import asyncio, json, os, pathlib, re
+          import edge_tts
+
+          job = re.sub(r"[^A-Za-z0-9_-]", "-", os.environ["JOB"])[:60] or "job"
+          lines = json.loads(os.environ["LINES"])
+          assert isinstance(lines, list) and 0 < len(lines) <= 40 and all(isinstance(x, str) and x.strip() for x in lines)
+          voice, rate = os.environ["VOICE"], os.environ["RATE"]
+          out = pathlib.Path("/tmp/tts-out") / job
+          out.mkdir(parents=True, exist_ok=True)
+
+          async def one(text, mp3):
+              try:
+                  com = edge_tts.Communicate(text, voice, rate=rate, boundary="WordBoundary")
+              except TypeError:  # older edge-tts: word boundaries are the default
+                  com = edge_tts.Communicate(text, voice, rate=rate)
+              words = []
+              with open(mp3, "wb") as f:
+                  async for ch in com.stream():
+                      if ch["type"] == "audio":
+                          f.write(ch["data"])
+                      elif ch["type"] == "WordBoundary":
+                          s = ch["offset"] / 1e7
+                          words.append([ch["text"], s, s + ch["duration"] / 1e7])
+              return words
+
+          meta = []
+          for i, text in enumerate(lines):
+              mp3 = out / f"line{i:02d}.mp3"
+              for attempt in range(3):
+                  try:
+                      words = asyncio.run(one(text, mp3))
+                      if mp3.stat().st_size > 1000:
+                          break
+                  except Exception as e:  # noqa: BLE001
+                      print(f"line {i} attempt {attempt + 1} failed: {e}")
+              else:
+                  raise SystemExit(f"no audio for line {i}")
+              meta.append({"file": mp3.name, "text": text, "words": words})
+              print(f"line {i}: {len(words)} words, {mp3.stat().st_size} bytes")
+          (out / "lines.json").write_text(json.dumps({"voice": voice, "rate": rate, "lines": meta}, indent=1), encoding="utf-8")
+          pathlib.Path("/tmp/tts-job").write_text(job)
+          EOF
+
+      - name: Push the audio to the tts-out branch
+        run: |
+          JOB="$(cat /tmp/tts-job)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch --orphan tts-out
+          cp -r "/tmp/tts-out/$JOB" "./$JOB"
+          git add "$JOB"
+          git commit -q -m "tts: $JOB"
+          git push -f origin tts-out
