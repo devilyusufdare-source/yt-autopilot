@@ -56,5 +56,7 @@
   "thumbnail_text": "ANTS WITH 8 MILLION FARMERS",
   "priority": 8,
   "first_comment": "Their jaws vibrate about 1,000 times a second while cutting a leaf. Would you want that on your farm tools?",
-  "_attempts": 1
+  "_attempts": 2,
+  "_error": "failed 2x: sampling rate not specified",
+  "_failed_at": "2026-10-25T22:00:36+00:00"
 }

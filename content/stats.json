@@ -1,19 +1,21 @@
 {
-  "updated_at": "2026-10-25T20:36:33+00:00",
+  "updated_at": "2026-10-25T22:00:38+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 55,
     "channel_views": 39622,
-    "video_count": 102
+    "video_count": 103
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/tq008mZVJQU"
+      "https://youtube.com/shorts/HUKVi1Kn7E0"
     ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/HUKVi1Kn7E0"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
@@ -87,8 +89,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 101,
-  "total_views": 40003,
+  "total_videos": 102,
+  "total_views": 40093,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -96,13 +98,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 14,
-      "avg_views": 377,
+      "videos": 15,
+      "avg_views": 352,
       "best_views": 1648
     },
     "animals": {
       "videos": 52,
-      "avg_views": 420,
+      "avg_views": 422,
       "best_views": 1507
     },
     "human body": {
@@ -128,8 +130,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 85,
-      "avg_views": 391,
+      "videos": 86,
+      "avg_views": 387,
       "over_1500": 3
     },
     "punch": {
@@ -148,8 +150,8 @@
       "avg_views": 13
     },
     "en-US-AndrewNeural": {
-      "videos": 15,
-      "avg_views": 127
+      "videos": 16,
+      "avg_views": 125
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -926,6 +928,30 @@
       "avg_view_percent": 69.0,
       "shares": 1,
       "subscribers_gained": 0
+    },
+    "HUKVi1Kn7E0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT41S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Largest Deserts on Earth, Ranked (#1 Has No Sand at All)",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
+      "published_at": "2026-10-25T22:00:15Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
     },
     "8nzpCGs_PM0": {
       "upload_status": "processed",
@@ -2426,7 +2452,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 65,
+      "views": 56,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww"
@@ -2450,7 +2476,7 @@
       "hook": "This animal runs 35 miles an hour for four miles straight.",
       "published_at": "2026-10-24T21:00:07Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/kKWolYqlfOc"
@@ -2474,7 +2500,7 @@
       "hook": "This worm lives in water hotter than 140 degrees.",
       "published_at": "2026-10-25T00:00:28Z",
       "privacy": "public",
-      "views": 75,
+      "views": 71,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q"
@@ -2498,7 +2524,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 381,
+      "views": 387,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2822,7 +2848,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 20,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -2872,11 +2898,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The most successful hunter in Africa isn't a lion.",
-      "published_at": "2026-10-25T20:36:06Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-25T21:00:13Z",
+      "privacy": "public",
+      "views": 88,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU"
     },
     "EwlfYEnJaiU": {
