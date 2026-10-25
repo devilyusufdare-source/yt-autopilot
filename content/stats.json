@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:09:04+00:00",
+  "updated_at": "2026-10-25T20:36:33+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,7 +9,9 @@
     "video_count": 102
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/tq008mZVJQU"
+    ],
     "made_for_kids": [],
     "not_processed": [],
     "rejected": [],
@@ -85,8 +87,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 100,
-  "total_views": 39874,
+  "total_videos": 101,
+  "total_views": 40003,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -99,8 +101,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 51,
-      "avg_views": 426,
+      "videos": 52,
+      "avg_views": 420,
       "best_views": 1507
     },
     "human body": {
@@ -111,7 +113,7 @@
     "history": {
       "videos": 10,
       "avg_views": 184,
-      "best_views": 1109
+      "best_views": 1110
     },
     "space": {
       "videos": 18,
@@ -126,8 +128,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 84,
-      "avg_views": 394,
+      "videos": 85,
+      "avg_views": 391,
       "over_1500": 3
     },
     "punch": {
@@ -139,15 +141,15 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 265
+      "avg_views": 266
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
       "avg_views": 13
     },
     "en-US-AndrewNeural": {
-      "videos": 14,
-      "avg_views": 129
+      "videos": 15,
+      "avg_views": 127
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -748,7 +750,7 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 130,
+      "views": 135,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo",
@@ -860,7 +862,7 @@
       "hook": "The five deadliest eruptions since 1500. The deadliest one didn't kill most people with lava, ash or fire.",
       "published_at": "2026-10-24T02:20:26Z",
       "privacy": "public",
-      "views": 27,
+      "views": 26,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C2m63XKX8rg",
@@ -972,7 +974,7 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 1109,
+      "views": 1110,
       "likes": 26,
       "comments": 3,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k",
@@ -1980,7 +1982,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 437,
+      "views": 438,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4",
@@ -2424,7 +2426,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 56,
+      "views": 65,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww"
@@ -2472,7 +2474,7 @@
       "hook": "This worm lives in water hotter than 140 degrees.",
       "published_at": "2026-10-25T00:00:28Z",
       "privacy": "public",
-      "views": 71,
+      "views": 75,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q"
@@ -2496,7 +2498,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 294,
+      "views": 381,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2576,7 +2578,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1011,
+      "views": 1015,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -2604,7 +2606,7 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 922,
+      "views": 927,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE",
@@ -2632,7 +2634,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 194,
+      "views": 202,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY",
@@ -2660,7 +2662,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 104,
+      "views": 105,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A",
@@ -2740,7 +2742,7 @@
       "hook": "A leopard can haul prey heavier than itself up a tree.",
       "published_at": "2026-10-25T02:40:00Z",
       "privacy": "public",
-      "views": 124,
+      "views": 126,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/wgJfNru7RlQ"
@@ -2820,7 +2822,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 18,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -2852,6 +2854,30 @@
       "avg_view_percent": 53.1,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "tq008mZVJQU": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT24S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "African Wild Dogs Catch Their Prey About 80 Percent of the Time",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The most successful hunter in Africa isn't a lion.",
+      "published_at": "2026-10-25T20:36:06Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/tq008mZVJQU"
     },
     "EwlfYEnJaiU": {
       "upload_status": "processed",
@@ -2900,7 +2926,7 @@
       "hook": "Four astronauts just flew 100 million miles without leaving orbit.",
       "published_at": "2026-10-25T14:10:31Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/O2zL5iipSFs"
