@@ -1,97 +1,109 @@
 {
-  "updated_at": "2026-10-25T16:00:31+00:00",
+  "updated_at": "2026-10-25T20:30:03+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 6,
+    "subscribers": 4,
     "channel_views": 1305,
     "video_count": 6
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/UBTO3oOKAF0"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/UBTO3oOKAF0"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/UBTO3oOKAF0"
+    ]
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
-  "total_videos": 6,
-  "total_views": 3689,
+  "total_videos": 7,
+  "total_views": 3974,
   "by_topic": {
     "earth": {
       "videos": 3,
-      "avg_views": 309,
-      "best_views": 466
+      "avg_views": 388,
+      "best_views": 674
     },
     "space": {
-      "videos": 1,
-      "avg_views": 1271,
-      "best_views": 1271
+      "videos": 2,
+      "avg_views": 639,
+      "best_views": 1278
     },
     "society": {
       "videos": 1,
-      "avg_views": 314,
-      "best_views": 314
+      "avg_views": 349,
+      "best_views": 349
     },
     "animals": {
       "videos": 1,
-      "avg_views": 1176,
-      "best_views": 1176
+      "avg_views": 1184,
+      "best_views": 1184
     }
   },
   "by_style": {
     "classic": {
-      "videos": 6,
-      "avg_views": 615,
+      "videos": 7,
+      "avg_views": 568,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 6,
-      "avg_views": 615
+      "videos": 7,
+      "avg_views": 568
     }
   },
   "top_videos": [
     {
       "title": "What If Earth Stopped Spinning?",
       "topic": "space",
-      "views": 1271,
+      "views": 1278,
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
     },
     {
       "title": "What If Every Mosquito Went Extinct?",
       "topic": "animals",
-      "views": 1176,
+      "views": 1184,
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
     },
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 466,
+      "views": 674,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
       "title": "What If All the Ice on Earth Melted?",
       "topic": "earth",
-      "views": 380,
+      "views": 403,
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
     },
     {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
-      "views": 314,
+      "views": 349,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
     },
     {
       "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
       "topic": "earth",
-      "views": 82,
+      "views": 86,
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger."
+    },
+    {
+      "title": "What If the Moon Disappeared Tonight?",
+      "topic": "space",
+      "views": 0,
+      "hook": "What if the Moon vanished tonight? The first thing you'd notice isn't the dark."
     }
   ],
   "videos": {
@@ -114,8 +126,8 @@
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres.",
       "published_at": "2026-10-23T21:00:29Z",
       "privacy": "public",
-      "views": 380,
-      "likes": 7,
+      "views": 403,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16E2OJLBg8"
     },
@@ -138,7 +150,7 @@
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger.",
       "published_at": "2026-10-25T02:15:13Z",
       "privacy": "public",
-      "views": 82,
+      "views": 86,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/jKyqYNkFqgE"
@@ -162,7 +174,7 @@
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed.",
       "published_at": "2026-10-24T02:15:12Z",
       "privacy": "public",
-      "views": 1271,
+      "views": 1278,
       "likes": 25,
       "comments": 1,
       "url": "https://youtube.com/shorts/2yCHo6hsGYU"
@@ -186,8 +198,8 @@
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely.",
       "published_at": "2026-10-24T13:40:39Z",
       "privacy": "public",
-      "views": 314,
-      "likes": 5,
+      "views": 349,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c"
     },
@@ -210,10 +222,34 @@
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
       "published_at": "2026-10-24T21:00:32Z",
       "privacy": "public",
-      "views": 1176,
+      "views": 1184,
       "likes": 24,
       "comments": 2,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg"
+    },
+    "UBTO3oOKAF0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If the Moon Disappeared Tonight?",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if the Moon vanished tonight? The first thing you'd notice isn't the dark.",
+      "published_at": "2026-10-25T20:30:00Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/UBTO3oOKAF0"
     },
     "2bwg6x0eZVY": {
       "upload_status": "processed",
@@ -234,7 +270,7 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 466,
+      "views": 674,
       "likes": 14,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY"

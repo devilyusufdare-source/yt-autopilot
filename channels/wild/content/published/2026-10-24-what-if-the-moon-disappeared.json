@@ -56,5 +56,15 @@
   "thumbnail_text": "WHAT IF THE MOON VANISHED?",
   "priority": 7,
   "first_comment": "What should we run through next? Drop a 'what if' 👇",
-  "_attempts": 1
+  "youtube_id": "UBTO3oOKAF0",
+  "url": "https://youtube.com/shorts/UBTO3oOKAF0",
+  "uploaded_at": "2026-10-25T20:30:03+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-25T21:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "highlight_color": "#C4B5FD",
+  "duration_seconds": 35.3,
+  "style": "classic",
+  "kind": "shorts"
 }
