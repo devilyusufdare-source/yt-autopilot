@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-17-five-most-common-elements-in-your-body-ranked",
+  "format": "ranking",
+  "ranking_by": "share of body mass",
+  "topic": "human body",
+  "title": "The 5 Most Common Elements in Your Body, Ranked (#1 Isn't Carbon)",
+  "scenes": [
+    {
+      "text": "Your body's five most common elements, ranked by mass. Number one is not carbon.",
+      "keywords": "human body anatomy"
+    },
+    {
+      "rank": 5,
+      "label": "Calcium · ~1.3%",
+      "text": "Number five: calcium. About one and a half percent of your body mass, mostly locked in your bones and teeth.",
+      "keywords": "calcium bones skeleton"
+    },
+    {
+      "rank": 4,
+      "label": "Nitrogen · ~3%",
+      "text": "Number four: nitrogen. Roughly three percent of your mass, and it is in every protein and strand of DNA.",
+      "keywords": "dna strand"
+    },
+    {
+      "rank": 3,
+      "label": "Hydrogen · ~9.5%",
+      "text": "Number three: hydrogen. About nine and a half percent of your mass, mostly inside the water in your cells.",
+      "keywords": "water molecule"
+    },
+    {
+      "rank": 2,
+      "label": "Carbon · ~18.5%",
+      "text": "Number two: carbon. About eighteen and a half percent of you, the backbone of life's molecules.",
+      "keywords": "carbon atom"
+    },
+    {
+      "rank": 1,
+      "label": "Oxygen · ~65%",
+      "text": "Number one: oxygen. About sixty-five percent of your body mass, mostly because you are around two thirds water.",
+      "keywords": "oxygen bubbles water"
+    }
+  ],
+  "description": "The five most common elements in the human body, ranked by share of body mass.\nFrom calcium to oxygen, which makes up about sixty-five percent of you. Figures vary a little from person to person.\nDid you expect oxygen to beat carbon by that much?",
+  "tags": [
+    "human body elements",
+    "oxygen in the body",
+    "carbon",
+    "hydrogen",
+    "nitrogen",
+    "calcium",
+    "body facts",
+    "top 5 body",
+    "human body facts",
+    "science facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#science",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Composition_of_the_human_body",
+    "https://www.livescience.com/common-elements-in-human-body",
+    "https://www.guinnessworldrecords.com/world-records/106270-most-common-element-in-the-human-body-%E2%80%93-by-mass"
+  ],
+  "thumbnail_text": "5 BODY ELEMENTS, RANKED",
+  "priority": 6,
+  "first_comment": "Did you guess oxygen at number one? And what should we rank next?"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-20-five-strongest-earthquakes-ranked",
+  "format": "ranking",
+  "ranking_by": "moment magnitude",
+  "topic": "science",
+  "title": "The 5 Strongest Earthquakes Ever Recorded, Ranked (#1 Is Way Ahead)",
+  "scenes": [
+    {
+      "text": "The five strongest earthquakes ever recorded, ranked. Two tie, and number one is far ahead.",
+      "keywords": "seismograph earthquake"
+    },
+    {
+      "rank": 5,
+      "label": "Kamchatka 1952 · 9.0",
+      "text": "Number five: Kamchatka, Russia, in nineteen fifty-two. Magnitude nine point zero, and it sent a tsunami across the Pacific.",
+      "keywords": "kamchatka volcano landscape"
+    },
+    {
+      "rank": 4,
+      "label": "Japan 2011 · 9.1",
+      "text": "Number four, tied: Japan, in twenty eleven. Magnitude nine point one, and it triggered a huge tsunami along the coast.",
+      "keywords": "tsunami wave coast"
+    },
+    {
+      "rank": 3,
+      "label": "Sumatra 2004 · 9.1",
+      "text": "Number three, tied: Sumatra, in two thousand four. Magnitude nine point one, and its Indian Ocean tsunami crossed an entire ocean.",
+      "keywords": "indian ocean tsunami wave"
+    },
+    {
+      "rank": 2,
+      "label": "Alaska 1964 · 9.2",
+      "text": "Number two: Alaska, in nineteen sixty-four. Magnitude nine point two, the strongest earthquake ever recorded in North America.",
+      "keywords": "alaska mountains coast"
+    },
+    {
+      "rank": 1,
+      "label": "Chile 1960 · 9.5",
+      "text": "Number one: Chile, in nineteen sixty. Magnitude nine point five, the strongest earthquake ever recorded anywhere on Earth.",
+      "keywords": "chile coast landscape"
+    }
+  ],
+  "description": "The five strongest earthquakes ever recorded, ranked by moment magnitude.\nFrom Kamchatka in 1952 to Chile in 1960, which hit magnitude 9.5. Japan 2011 and Sumatra 2004 tie at 9.1.\nWhich of these would you have least wanted to be near?",
+  "tags": [
+    "strongest earthquakes",
+    "largest earthquakes",
+    "chile 1960 earthquake",
+    "sumatra 2004",
+    "japan 2011",
+    "alaska 1964",
+    "earthquake rankings",
+    "earth facts",
+    "science facts",
+    "top 5 earthquakes",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#earthquake",
+    "#science",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.usgs.gov/programs/earthquake-hazards/science/20-largest-earthquakes-world",
+    "https://www.usgs.gov/media/images/10-largest-earthquakes-ever-recorded",
+    "https://orain.eus/en/current-events/the-world/2025/07/30/these-are-the-10-biggest-earthquakes-in-history"
+  ],
+  "thumbnail_text": "5 STRONGEST QUAKES, RANKED",
+  "priority": 6,
+  "first_comment": "Which earthquake surprised you most? And what should we rank next?"
+}

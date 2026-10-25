@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-14-five-tallest-rockets-ranked",
+  "format": "ranking",
+  "ranking_by": "stacked height",
+  "topic": "technology",
+  "title": "The 5 Tallest Rockets Ever Flown, Ranked (#1 Beats Saturn V)",
+  "scenes": [
+    {
+      "text": "The five tallest rockets ever flown, ranked. The one that went to the Moon isn't number one.",
+      "keywords": "rocket launch"
+    },
+    {
+      "rank": 5,
+      "label": "SLS · 98 m",
+      "text": "Number five: NASA's Space Launch System. About ninety-eight meters tall, the moon rocket of today.",
+      "keywords": "space launch system rocket"
+    },
+    {
+      "rank": 4,
+      "label": "Ares I-X · 100 m",
+      "text": "Number four: Ares I-X, a NASA test rocket. About one hundred meters tall, and it flew just once, in two thousand nine.",
+      "keywords": "ares rocket launch"
+    },
+    {
+      "rank": 3,
+      "label": "N1 · 105 m",
+      "text": "Number three: the Soviet N1. About one hundred and five meters tall, and all four of its launches failed.",
+      "keywords": "n1 soviet rocket"
+    },
+    {
+      "rank": 2,
+      "label": "Saturn V · 110 m",
+      "text": "Number two: the Saturn V. About one hundred and ten meters, the rocket that took astronauts to the Moon.",
+      "keywords": "saturn v rocket"
+    },
+    {
+      "rank": 1,
+      "label": "Starship · ~120 m",
+      "text": "Number one: SpaceX Starship with its Super Heavy booster. About one hundred and twenty meters, taller than the Saturn V.",
+      "keywords": "spacex starship"
+    }
+  ],
+  "description": "The five tallest rockets ever flown, ranked by fully stacked height.\nFrom NASA's SLS to SpaceX Starship, which stands taller than the Saturn V that went to the Moon.\nWhich rocket would you most like to watch launch?",
+  "tags": [
+    "tallest rockets",
+    "starship",
+    "saturn v",
+    "n1 rocket",
+    "space launch system",
+    "ares i-x",
+    "rocket facts",
+    "technology rankings",
+    "top 5 technology",
+    "space facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#rockets",
+    "#space",
+    "#ranking"
+  ],
+  "sources": [
+    "https://headedforspace.com/how-big-is-a-rocket/",
+    "https://spaceflightnow.com/2023/04/17/how-spacexs-starship-stacks-up-to-other-rockets/",
+    "https://space.com/7442-stacking-world-tallest-rockets.html"
+  ],
+  "thumbnail_text": "5 TALLEST ROCKETS, RANKED",
+  "priority": 0,
+  "first_comment": "Which rocket would you watch launch first? And what should we rank next?"
+}

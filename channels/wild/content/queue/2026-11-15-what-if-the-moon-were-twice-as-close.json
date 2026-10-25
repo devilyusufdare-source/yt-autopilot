@@ -1,0 +1,60 @@
+{
+  "id": "2026-11-15-what-if-the-moon-were-twice-as-close",
+  "format": "whatif",
+  "topic": "space",
+  "title": "What If the Moon Were Twice as Close?",
+  "scenes": [
+    {
+      "text": "What if the Moon were twice as close? The tides would not simply double.",
+      "keywords": "full moon close sky"
+    },
+    {
+      "text": "It would look twice as wide in the sky, and solar eclipses would become far more common.",
+      "keywords": "solar eclipse corona"
+    },
+    {
+      "text": "Tidal force falls with the cube of distance. Halve it, and the stretch across Earth grows about eight times.",
+      "keywords": "moon earth orbit"
+    },
+    {
+      "text": "Tides would be roughly eight times higher, leaving some islands underwater for much of the day.",
+      "keywords": "storm surge coast"
+    },
+    {
+      "text": "Today the Moon drifts away about 3.8 centimetres a year, and Earth's days stretch about a thousandth of a second per century.",
+      "keywords": "moon lunar surface"
+    },
+    {
+      "text": "Even at half the distance it would stay in one piece, roughly ten times beyond where Earth's gravity could tear it apart.",
+      "keywords": "earth moon from space"
+    }
+  ],
+  "description": "What if the Moon were twice as close?\nTides about eight times higher, a Moon twice as wide, and still far outside the Roche limit where it would break apart.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "what if the moon was closer",
+    "moon",
+    "tides",
+    "tidal force",
+    "space facts",
+    "roche limit",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#moon",
+    "#space"
+  ],
+  "sources": [
+    "https://www.livescience.com/what-if-moon-closer-to-earth.html",
+    "https://en.wikipedia.org/wiki/Tidal_force",
+    "https://eclipse.gsfc.nasa.gov/help/ApolloLaser.html",
+    "https://people.ast.cam.ac.uk/~wyatt/poa_201415_originofmoon.pdf"
+  ],
+  "thumbnail_text": "WHAT IF THE MOON WAS CLOSER?",
+  "priority": 5,
+  "first_comment": "Would you live by a coast with a Moon that close? What should we run through next?"
+}

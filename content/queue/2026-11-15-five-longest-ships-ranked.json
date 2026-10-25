@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-15-five-longest-ships-ranked",
+  "format": "ranking",
+  "ranking_by": "length overall",
+  "topic": "technology",
+  "title": "The 5 Longest Ships Ever Built, Ranked (#1 Isn't a Tanker)",
+  "scenes": [
+    {
+      "text": "The five longest ships ever built, ranked. Number one isn't a tanker or a cruise ship.",
+      "keywords": "giant ship ocean"
+    },
+    {
+      "rank": 5,
+      "label": "Container ships · 400 m",
+      "text": "Number five: the Barzan-class container ships. Four hundred meters long, tied with two other container ship classes.",
+      "keywords": "container ship"
+    },
+    {
+      "rank": 4,
+      "label": "Esso Atlantic · 406 m",
+      "text": "Number four: the supertanker Esso Atlantic. About four hundred and six meters long, and now scrapped.",
+      "keywords": "oil tanker ship"
+    },
+    {
+      "rank": 3,
+      "label": "Batillus class · 414 m",
+      "text": "Number three: the Batillus-class supertankers. About four hundred and fourteen meters, a class of four giant oil tankers, all scrapped.",
+      "keywords": "supertanker ship"
+    },
+    {
+      "rank": 2,
+      "label": "Seawise Giant · 458 m",
+      "text": "Number two: the tanker Seawise Giant. About four hundred and fifty-eight meters, later scrapped.",
+      "keywords": "oil tanker ship"
+    },
+    {
+      "rank": 1,
+      "label": "Prelude FLNG · 488 m",
+      "text": "Number one: Prelude, a floating gas factory. Four hundred and eighty-eight meters long, moored off Western Australia.",
+      "keywords": "prelude flng ship"
+    }
+  ],
+  "description": "The five longest ships ever built, ranked by length overall.\nFrom container ships to Prelude, a floating gas platform moored off Western Australia.\nWhich of these would you most like to see in person?",
+  "tags": [
+    "longest ships",
+    "longest ship ever",
+    "prelude flng",
+    "seawise giant",
+    "supertanker",
+    "container ship",
+    "ship facts",
+    "technology rankings",
+    "top 5 technology",
+    "engineering facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#ships",
+    "#engineering",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_longest_ships",
+    "https://worldatlas.com/articles/the-longest-ships-ever-built.html",
+    "https://en.wikipedia.org/wiki/Prelude_FLNG"
+  ],
+  "thumbnail_text": "5 LONGEST SHIPS, RANKED",
+  "priority": 6,
+  "first_comment": "Which one would you want to see in person? And what should we rank next?"
+}

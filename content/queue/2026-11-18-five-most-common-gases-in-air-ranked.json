@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-18-five-most-common-gases-in-air-ranked",
+  "format": "ranking",
+  "ranking_by": "share of dry air by volume",
+  "topic": "science",
+  "title": "The 5 Most Common Gases in the Air, Ranked (Oxygen Is NOT #1)",
+  "scenes": [
+    {
+      "text": "The five most common gases in the air you are breathing right now. Oxygen is not number one.",
+      "keywords": "blue sky clouds"
+    },
+    {
+      "rank": 5,
+      "label": "Neon · 0.0018%",
+      "text": "Number five: neon. Just eighteen parts per million, the gas that glows red in signs.",
+      "keywords": "neon sign glowing"
+    },
+    {
+      "rank": 4,
+      "label": "Carbon dioxide · ~0.04%",
+      "text": "Number four: carbon dioxide. About zero point zero four percent of the air, tiny, yet it still warms the planet.",
+      "keywords": "smokestack emissions sky"
+    },
+    {
+      "rank": 3,
+      "label": "Argon · 0.93%",
+      "text": "Number three: argon. Almost one percent of the air, a gas that barely reacts, used inside light bulbs.",
+      "keywords": "light bulb glowing"
+    },
+    {
+      "rank": 2,
+      "label": "Oxygen · 21%",
+      "text": "Number two: oxygen. About twenty-one percent of the air, the gas you need, yet barely a fifth of it.",
+      "keywords": "person breathing outdoors"
+    },
+    {
+      "rank": 1,
+      "label": "Nitrogen · 78%",
+      "text": "Number one: nitrogen. About seventy-eight percent of dry air, nearly four in every five molecules you inhale.",
+      "keywords": "earth atmosphere from space"
+    }
+  ],
+  "description": "The five most common gases in dry air, ranked by share of volume.\nFrom neon to nitrogen, which makes up about seventy-eight percent, while the oxygen you need is only about twenty-one.\nDid you think oxygen would be number one?",
+  "tags": [
+    "gases in air",
+    "nitrogen",
+    "oxygen",
+    "argon",
+    "carbon dioxide",
+    "neon",
+    "air composition",
+    "earth atmosphere",
+    "science facts",
+    "top 5 gases",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#atmosphere",
+    "#ranking"
+  ],
+  "sources": [
+    "https://scied.ucar.edu/image/earths-atmospheric-composition-diagram",
+    "https://en.wikipedia.org/wiki/Gas_composition",
+    "https://sciencenotes.org/chemical-composition-air/"
+  ],
+  "thumbnail_text": "5 GASES IN AIR, RANKED",
+  "priority": 6,
+  "first_comment": "Did you guess oxygen at number one? And what should we rank next?"
+}

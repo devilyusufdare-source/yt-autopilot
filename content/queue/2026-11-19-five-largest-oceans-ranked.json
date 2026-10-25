@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-19-five-largest-oceans-ranked",
+  "format": "ranking",
+  "ranking_by": "surface area",
+  "topic": "science",
+  "title": "The 5 Largest Oceans on Earth, Ranked (#1 Beats All the Land)",
+  "scenes": [
+    {
+      "text": "The five oceans, ranked by size. Number one is bigger than all of Earth's land.",
+      "keywords": "earth from space oceans"
+    },
+    {
+      "rank": 5,
+      "label": "Arctic · ~12-15M km²",
+      "text": "Number five: the Arctic. Roughly twelve to fifteen million square kilometers, depending on its edge, much of it frozen.",
+      "keywords": "arctic ocean ice"
+    },
+    {
+      "rank": 4,
+      "label": "Southern · ~21M km²",
+      "text": "Number four: the Southern Ocean. About twenty-one million square kilometers, and it wraps all the way around Antarctica.",
+      "keywords": "southern ocean antarctica icebergs"
+    },
+    {
+      "rank": 3,
+      "label": "Indian · ~70M km²",
+      "text": "Number three: the Indian Ocean. Around seventy million square kilometers of warm water between Africa and Australia.",
+      "keywords": "indian ocean beach"
+    },
+    {
+      "rank": 2,
+      "label": "Atlantic · ~82M km²",
+      "text": "Number two: the Atlantic. About eighty-two million square kilometers, roughly half the size of the Pacific.",
+      "keywords": "atlantic ocean waves"
+    },
+    {
+      "rank": 1,
+      "label": "Pacific · ~165M km²",
+      "text": "Number one: the Pacific. Around one hundred and sixty-five million square kilometers, more than every continent put together.",
+      "keywords": "pacific ocean waves"
+    }
+  ],
+  "description": "The five oceans of Earth, ranked by surface area.\nFrom the Arctic to the Pacific, which covers around one hundred and sixty-five million square kilometers, more than all of Earth's land combined. Figures vary by source.\nWhich ocean would you sail across?",
+  "tags": [
+    "largest oceans",
+    "pacific ocean",
+    "atlantic ocean",
+    "indian ocean",
+    "southern ocean",
+    "arctic ocean",
+    "ocean rankings",
+    "earth facts",
+    "science facts",
+    "top 5 oceans",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#ocean",
+    "#earth",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.britannica.com/summary/Pacific-Ocean",
+    "https://oceanexplorer.noaa.gov/?p=1978",
+    "https://www.worldatlas.com/articles/oceans-of-the-world.html"
+  ],
+  "thumbnail_text": "5 LARGEST OCEANS, RANKED",
+  "priority": 6,
+  "first_comment": "Which ocean would you explore first? And what should we rank next?"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "2026-11-16-five-highest-mountains-ranked",
+  "format": "ranking",
+  "ranking_by": "height above sea level",
+  "topic": "science",
+  "title": "The 5 Highest Mountains on Earth, Ranked (#1 Isn't the Tallest)",
+  "scenes": [
+    {
+      "text": "The five highest mountains on Earth, ranked. Number one is not even the tallest mountain on the planet.",
+      "keywords": "himalaya mountains peaks"
+    },
+    {
+      "rank": 5,
+      "label": "Makalu · 8,485 m",
+      "text": "Number five: Makalu. Eight thousand four hundred and eighty-five meters, with a sharp four-sided pyramid summit.",
+      "keywords": "makalu mountain peak"
+    },
+    {
+      "rank": 4,
+      "label": "Lhotse · 8,516 m",
+      "text": "Number four: Lhotse. Eight thousand five hundred and sixteen meters, joined to Everest by a high ridge called the South Col.",
+      "keywords": "lhotse mountain"
+    },
+    {
+      "rank": 3,
+      "label": "Kangchenjunga · 8,586 m",
+      "text": "Number three: Kangchenjunga. Eight thousand five hundred and eighty-six meters, on the border between Nepal and India.",
+      "keywords": "kangchenjunga mountain"
+    },
+    {
+      "rank": 2,
+      "label": "K2 · 8,611 m",
+      "text": "Number two: K2. Eight thousand six hundred and eleven meters, just two hundred and thirty-eight short of the top.",
+      "keywords": "k2 mountain peak"
+    },
+    {
+      "rank": 1,
+      "label": "Everest · 8,849 m",
+      "text": "Number one: Everest. Eight thousand eight hundred and forty-nine meters above sea level, though Mauna Kea is taller from its base.",
+      "keywords": "mount everest peak"
+    }
+  ],
+  "description": "The five highest mountains on Earth, ranked by height above sea level.\nFrom Makalu to Everest, which tops the list even though Hawaii's Mauna Kea is taller measured from its base on the ocean floor.\nWhich of these peaks would you dare to climb?",
+  "tags": [
+    "highest mountains",
+    "mount everest",
+    "k2",
+    "kangchenjunga",
+    "lhotse",
+    "makalu",
+    "mountain rankings",
+    "top 5 mountains",
+    "earth facts",
+    "science facts",
+    "shorts facts",
+    "tallest mountain"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#mountains",
+    "#everest",
+    "#ranking"
+  ],
+  "sources": [
+    "https://guinnessworldrecords.com/world-records/tallest-mountain",
+    "https://www.livescience.com/tallest-mountain-on-earth",
+    "https://www.worldatlas.com/mountains/10-highest-mountains-in-the-world.html"
+  ],
+  "thumbnail_text": "5 HIGHEST MOUNTAINS, RANKED",
+  "priority": 6,
+  "first_comment": "Which of these peaks would you climb first? And what should we rank next?"
+}
