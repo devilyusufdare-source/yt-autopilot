@@ -1,0 +1,57 @@
+{
+  "format": "whatif",
+  "topic": "space",
+  "priority": 7,
+  "title": "What If a Star Exploded 50 Light-Years From Earth?",
+  "scenes": [
+    {
+      "text": "What if a star exploded 50 light-years away? You wouldn't feel a thing, and that's the danger.",
+      "keywords": "supernova explosion"
+    },
+    {
+      "text": "Years ago, scientists thought the deadly range was about 25 light-years.",
+      "keywords": "star explosion nebula"
+    },
+    {
+      "text": "A newer estimate pushes it to roughly 40 to 50 light-years, with no hard cutoff.",
+      "keywords": "milky way stars"
+    },
+    {
+      "text": "The danger is cosmic rays, which boost ionization in the atmosphere, and may raise cancer rates and wildfires.",
+      "keywords": "cosmic rays atmosphere"
+    },
+    {
+      "text": "A blast 150 light-years away, about 2.6 million years ago, may have left a mark on Earth.",
+      "keywords": "earth from space"
+    },
+    {
+      "text": "The closest candidate, Betelgeuse, sits about 600 light-years away, safely out of range.",
+      "keywords": "betelgeuse star"
+    }
+  ],
+  "description": "What if a star exploded 50 light-years from Earth?\nResearchers estimate the kill zone of a supernova reaches roughly 40 to 50 light-years, through cosmic rays.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "supernova",
+    "cosmic rays",
+    "space facts",
+    "mass extinction",
+    "what would happen",
+    "science explained",
+    "astronomy",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#supernova",
+    "#space"
+  ],
+  "sources": [
+    "https://www.universetoday.com/articles/new-estimate-puts-the-supernova-killzone-within-50-light-years-of-earth",
+    "https://www.iflscience.com/space/a-supernova-50-lightyears-away-could-start-a-mass-extinction/"
+  ],
+  "thumbnail_text": "WHAT IF A STAR EXPLODED NEARBY?",
+  "first_comment": "Which star would you watch first? Drop your own 'what if' below.",
+  "id": "2026-10-25-what-if-a-supernova-exploded-50-light-years-away"
+}

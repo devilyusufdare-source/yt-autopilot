@@ -1,0 +1,59 @@
+{
+  "topic": "animals",
+  "format": "fact",
+  "title": "This Bird Flies for Two Months and Sleeps in 12-Second Bursts",
+  "subject": "great frigatebird",
+  "scenes": [
+    {
+      "text": "A bird that can stay in the air for two months. When does it sleep?",
+      "keywords": "great frigatebird flying ocean"
+    },
+    {
+      "text": "The great frigatebird can fly over the ocean without landing, up to two months.",
+      "keywords": "frigatebird soaring sea"
+    },
+    {
+      "text": "Researchers fitted 14 of them with brain monitors to find out.",
+      "keywords": "frigatebird nest Galapagos"
+    },
+    {
+      "text": "In the air, it naps in bursts of about 12 seconds, often with only half its brain asleep.",
+      "keywords": "frigatebird gliding"
+    },
+    {
+      "text": "That adds up to roughly 40 minutes of sleep a day. On land, they sleep about 12 hours.",
+      "keywords": "frigatebird male red pouch"
+    },
+    {
+      "text": "Forty minutes a day, in 12-second bursts, over open ocean.",
+      "keywords": "frigatebird flying"
+    }
+  ],
+  "description": "A bird that can stay in the air for two months.\nGreat frigatebirds nap for about 12 seconds at a time while flying, with around 40 minutes of sleep a day.\nCould you live on 40 minutes of sleep? Comment below.",
+  "tags": [
+    "frigatebird",
+    "great frigatebird",
+    "bird sleeps while flying",
+    "sleeping while flying",
+    "animal facts",
+    "bird facts",
+    "ocean birds",
+    "nature facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#birds",
+    "#frigatebird"
+  ],
+  "sources": [
+    "https://www.pbs.org/wgbh/nova/article/huge-seabird-flies-for-months-at-a-time-by-napping-in-12-second-bursts/",
+    "https://audubon.org/news/scientists-finally-have-evidence-frigatebirds-sleep-while-flying"
+  ],
+  "thumbnail_text": "2 MONTHS IN THE AIR. 12-SECOND NAPS.",
+  "priority": 7,
+  "first_comment": "Would you trade your sleep for the sky? Comment below.",
+  "id": "2026-10-25-frigatebird-sleeps-while-flying-12-seconds"
+}
