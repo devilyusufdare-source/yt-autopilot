@@ -53,5 +53,6 @@
   ],
   "thumbnail_text": "WHAT IF YOU RODE TO SPACE?",
   "priority": 5,
-  "first_comment": "Would you ride five days to orbit? Drop your own 'what if' below."
+  "first_comment": "Would you ride five days to orbit? Drop your own 'what if' below.",
+  "format": "whatif"
 }

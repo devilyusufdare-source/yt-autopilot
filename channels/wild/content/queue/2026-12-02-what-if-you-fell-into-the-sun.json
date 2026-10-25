@@ -53,5 +53,6 @@
   ],
   "thumbnail_text": "WHAT IF YOU FELL INTO THE SUN?",
   "priority": 7,
-  "first_comment": "What should we run through next? Drop a 'what if' below."
+  "first_comment": "What should we run through next? Drop a 'what if' below.",
+  "format": "whatif"
 }

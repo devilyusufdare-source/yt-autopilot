@@ -53,5 +53,6 @@
   ],
   "thumbnail_text": "WHAT IF YOU LET GO OF THE ISS?",
   "priority": 5,
-  "first_comment": "Would you rather orbit Earth or walk on Mars? Drop your own 'what if' below."
+  "first_comment": "Would you rather orbit Earth or walk on Mars? Drop your own 'what if' below.",
+  "format": "whatif"
 }
