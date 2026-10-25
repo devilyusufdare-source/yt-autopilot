@@ -1,0 +1,58 @@
+{
+  "id": "2029-01-18-alpine-swift-200-days-aloft",
+  "topic": "animals",
+  "format": "fact",
+  "title": "A Bird Under a Quarter Pound Stayed Aloft for 200 Days Straight",
+  "subject": "alpine swift",
+  "scenes": [
+    {
+      "text": "One tiny bird stayed in the air for two hundred days straight.",
+      "keywords": "alpine swift flying"
+    },
+    {
+      "text": "Alpine swifts weigh less than a quarter of a pound. In 2011, scientists strapped sensors to six of them.",
+      "keywords": "alpine swift bird"
+    },
+    {
+      "text": "Three came back. Their sensors recorded no landing for more than two hundred days, over West Africa.",
+      "keywords": "swift flying sky"
+    },
+    {
+      "text": "How? They eat insects drifting in the air, and they mostly glide instead of flapping.",
+      "keywords": "swift catching insects flight"
+    },
+    {
+      "text": "Do they sleep up there? Nobody knows. Scientists suspect they rest in midair.",
+      "keywords": "bird gliding clouds"
+    },
+    {
+      "text": "Two hundred days without a runway, and then they find their own nest again.",
+      "keywords": "swifts flying cliff"
+    }
+  ],
+  "description": "One tiny bird stayed in the air for two hundred days straight.\nSensors on alpine swifts recorded no landing for more than 200 days, while the birds glided over West Africa and ate insects on the wing.\nCould you go a day without sitting down?",
+  "tags": [
+    "alpine swift",
+    "bird that never lands",
+    "bird migration",
+    "animal facts",
+    "amazing animals",
+    "nature facts",
+    "bird records",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#birds",
+    "#facts"
+  ],
+  "sources": [
+    "https://www.smithsonianmag.com/science-nature/this-bird-can-stay-in-flight-for-six-months-straight-903069/",
+    "https://m.phys.org/news/2013-10-alpine-swift-aloft-days.html"
+  ],
+  "thumbnail_text": "200 DAYS WITHOUT LANDING",
+  "priority": 6,
+  "first_comment": "The sensors logged data every four minutes, so very brief touchdowns can't be fully ruled out. Do you think they really sleep in the air?"
+}
