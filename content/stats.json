@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T14:34:02+00:00",
+  "updated_at": "2026-10-25T16:06:58+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -86,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 100,
-  "total_views": 39673,
+  "total_views": 39790,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -100,7 +100,7 @@
     },
     "animals": {
       "videos": 51,
-      "avg_views": 422,
+      "avg_views": 424,
       "best_views": 1507
     },
     "human body": {
@@ -127,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 84,
-      "avg_views": 391,
+      "avg_views": 393,
       "over_1500": 3
     },
     "punch": {
@@ -139,7 +139,7 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 262
+      "avg_views": 263
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
@@ -147,7 +147,7 @@
     },
     "en-US-AndrewNeural": {
       "videos": 14,
-      "avg_views": 122
+      "avg_views": 127
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -468,7 +468,7 @@
       "hook": "Sharks are older than trees.",
       "published_at": "2026-10-16T10:18:30Z",
       "privacy": "public",
-      "views": 188,
+      "views": 194,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/dAX8nRPkNMY",
@@ -748,7 +748,7 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 118,
+      "views": 119,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo"
@@ -772,7 +772,7 @@
       "hook": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
       "published_at": "2026-10-23T22:30:29Z",
       "privacy": "public",
-      "views": 96,
+      "views": 104,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PBbydRJloRA"
@@ -2404,7 +2404,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 40,
+      "views": 45,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww"
@@ -2428,8 +2428,8 @@
       "hook": "This animal runs 35 miles an hour for four miles straight.",
       "published_at": "2026-10-24T21:00:07Z",
       "privacy": "public",
-      "views": 31,
-      "likes": 0,
+      "views": 32,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/kKWolYqlfOc"
     },
@@ -2476,7 +2476,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 236,
+      "views": 294,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2552,8 +2552,8 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 998,
-      "likes": 8,
+      "views": 1001,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0"
     },
@@ -2576,7 +2576,7 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 897,
+      "views": 922,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
@@ -2600,7 +2600,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 164,
+      "views": 168,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
@@ -2672,7 +2672,7 @@
       "hook": "This bird can fly for two months without ever landing.",
       "published_at": "2026-10-25T02:15:36Z",
       "privacy": "public",
-      "views": 1032,
+      "views": 1033,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU"
@@ -2776,7 +2776,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 3,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
