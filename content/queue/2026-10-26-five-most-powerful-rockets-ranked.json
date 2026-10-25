@@ -1,0 +1,72 @@
+{
+  "id": "2026-10-26-five-most-powerful-rockets-ranked",
+  "format": "ranking",
+  "ranking_by": "liftoff thrust",
+  "topic": "technology",
+  "title": "The 5 Most Powerful Rockets Ever Launched, Ranked (Apollo's Is Only #5)",
+  "scenes": [
+    {
+      "text": "The Apollo Moon rocket only makes number five. Number one pushes twice as hard.",
+      "keywords": "rocket launch fire"
+    },
+    {
+      "rank": 5,
+      "label": "Saturn V · 7.5M lbf",
+      "text": "Number five: Saturn V. About seven and a half million pounds of thrust, enough to send people to the Moon.",
+      "keywords": "Saturn V launch"
+    },
+    {
+      "rank": 4,
+      "label": "Energia · 7.9M lbf",
+      "text": "Number four: Energia, the Soviet launcher built to carry the Buran shuttle. About seven point nine million pounds.",
+      "keywords": "Soviet rocket launch"
+    },
+    {
+      "rank": 3,
+      "label": "SLS · 8.8M lbf",
+      "text": "Number three: NASA's SLS. About eight point eight million pounds, and it launched Artemis one in twenty twenty-two.",
+      "keywords": "SLS rocket launch"
+    },
+    {
+      "rank": 2,
+      "label": "N1 · 10M lbf",
+      "text": "Number two: the Soviet N1. Over ten million pounds from thirty engines, but all four launches failed.",
+      "keywords": "rocket engines fire"
+    },
+    {
+      "rank": 1,
+      "label": "Starship · 16M+ lbf",
+      "text": "Number one: SpaceX Starship. More than sixteen million pounds from thirty-three engines. Nothing has pushed harder.",
+      "keywords": "Starship launch"
+    }
+  ],
+  "description": "The five most powerful rockets ever launched, ranked by liftoff thrust.\nThe rocket that put people on the Moon is only number five, and number one has more than twice its thrust.\nWhich rocket would you have wanted to watch launch?",
+  "tags": [
+    "powerful rockets",
+    "starship",
+    "saturn v",
+    "sls",
+    "n1 rocket",
+    "energia",
+    "rocket facts",
+    "space rankings",
+    "top 5 space",
+    "technology facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#rockets",
+    "#ranking"
+  ],
+  "sources": [
+    "https://spaceflightnow.com/2023/04/17/how-spacexs-starship-stacks-up-to-other-rockets/",
+    "https://www.space.com/nasa-artemis-1-sls-most-powerful-rocket",
+    "https://www.slashgear.com/2286698/most-powerful-rockets-ever-launched/",
+    "https://guinnessworldrecords.com/world-records/681341-most-powerful-rocket-stage"
+  ],
+  "thumbnail_text": "5 MOST POWERFUL ROCKETS",
+  "priority": 6,
+  "first_comment": "Would you ride Starship or SLS? And what should we rank next?"
+}
