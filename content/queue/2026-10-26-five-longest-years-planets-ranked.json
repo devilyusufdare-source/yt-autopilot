@@ -1,0 +1,69 @@
+{
+  "id": "2026-10-26-five-longest-years-planets-ranked",
+  "format": "ranking",
+  "ranking_by": "length of a year (orbital period)",
+  "topic": "space",
+  "title": "The 5 Longest Years in the Solar System, Ranked (#1 Had One Birthday Since 1846)",
+  "scenes": [
+    {
+      "text": "Five planets, five very long years. Number one has barely had a birthday since 1846.",
+      "keywords": "solar system planets"
+    },
+    {
+      "rank": 5,
+      "label": "Mars · 687 days",
+      "text": "Number five: Mars. A Martian year is six hundred eighty-seven Earth days, almost twice ours.",
+      "keywords": "mars surface red planet"
+    },
+    {
+      "rank": 4,
+      "label": "Jupiter · 12 years",
+      "text": "Number four: Jupiter. One lap around the Sun takes almost twelve Earth years.",
+      "keywords": "jupiter planet"
+    },
+    {
+      "rank": 3,
+      "label": "Saturn · 29 years",
+      "text": "Number three: Saturn. Twenty-nine and a half years for a single trip around the Sun.",
+      "keywords": "saturn rings planet"
+    },
+    {
+      "rank": 2,
+      "label": "Uranus · 84 years",
+      "text": "Number two: Uranus. Eighty-four years, about one human lifetime, for one orbit.",
+      "keywords": "uranus planet"
+    },
+    {
+      "rank": 1,
+      "label": "Neptune · 165 years",
+      "text": "Number one: Neptune. About one hundred sixty-five years. It was found in 1846 and finished its first lap in 2011.",
+      "keywords": "neptune planet"
+    }
+  ],
+  "description": "The five longest years in the solar system, ranked by orbital period.\nNeptune takes about 165 Earth years to circle the Sun, so it only completed its first full orbit since discovery in 2011.\nWhich planet's year would you most like to live through?",
+  "tags": [
+    "longest year",
+    "planet orbits",
+    "how long is a year on neptune",
+    "neptune",
+    "solar system facts",
+    "space rankings",
+    "top 5 planets",
+    "space facts",
+    "astronomy",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#planets",
+    "#ranking"
+  ],
+  "sources": [
+    "https://physicstoday.aip.org/news/neptune-completes-its-first-orbit-since-discovery",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/"
+  ],
+  "thumbnail_text": "5 LONGEST YEARS, RANKED",
+  "priority": 6,
+  "first_comment": "How old would you be on Neptune? And what should we rank next?"
+}
