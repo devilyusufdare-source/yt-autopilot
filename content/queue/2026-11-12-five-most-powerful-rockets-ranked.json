@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-12-five-most-powerful-rockets-ranked",
+  "format": "ranking",
+  "ranking_by": "liftoff thrust",
+  "topic": "technology",
+  "title": "The 5 Most Powerful Rockets Ever Built, Ranked (#4 Went to the Moon)",
+  "scenes": [
+    {
+      "text": "The rocket that put humans on the Moon is only number four.",
+      "keywords": "rocket launch fire"
+    },
+    {
+      "rank": 5,
+      "label": "Falcon Heavy · 5M lb thrust",
+      "text": "Number five: Falcon Heavy. Over five million pounds of thrust from twenty-seven engines, and its side boosters land themselves.",
+      "keywords": "Falcon Heavy rocket launch"
+    },
+    {
+      "rank": 4,
+      "label": "Saturn V · 7.5M lb thrust",
+      "text": "Number four: Saturn V. Seven and a half million pounds. It's still the only rocket to carry people to the Moon.",
+      "keywords": "Saturn V rocket launch"
+    },
+    {
+      "rank": 3,
+      "label": "SLS · 8.8M lb thrust",
+      "text": "Number three: NASA's SLS. Eight point eight million pounds, built to send astronauts back to the Moon.",
+      "keywords": "SLS rocket launch"
+    },
+    {
+      "rank": 2,
+      "label": "N1 · 10M lb thrust",
+      "text": "Number two: the Soviet N1. Ten million pounds from thirty engines, but all four launches failed.",
+      "keywords": "N1 Soviet rocket"
+    },
+    {
+      "rank": 1,
+      "label": "Starship · 16M+ lb thrust",
+      "text": "Number one: SpaceX Starship. More than sixteen million pounds from thirty-three engines, twice the thrust of Saturn V.",
+      "keywords": "Starship rocket launch"
+    }
+  ],
+  "description": "The five most powerful rockets ever built, ranked by liftoff thrust.\nFalcon Heavy has over 5 million pounds, Saturn V 7.5 million, SLS 8.8 million, the Soviet N1 10 million, and Starship more than 16 million.\nDid you expect Saturn V at number four?",
+  "tags": [
+    "most powerful rockets",
+    "rocket thrust",
+    "Starship",
+    "Saturn V",
+    "SLS",
+    "N1 rocket",
+    "Falcon Heavy",
+    "rocket rankings",
+    "top 5 rockets",
+    "space facts",
+    "technology facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#rockets",
+    "#space",
+    "#ranking"
+  ],
+  "sources": [
+    "https://spaceflightnow.com/2023/04/17/how-spacexs-starship-stacks-up-to-other-rockets/",
+    "https://phys.org/news/2022-11-king-rockets-nasa-sls-usurped.html"
+  ],
+  "thumbnail_text": "5 MOST POWERFUL ROCKETS",
+  "priority": 6,
+  "first_comment": "Did you expect Saturn V at number four? Which machine should we rank next: fastest, biggest, or heaviest?"
+}
