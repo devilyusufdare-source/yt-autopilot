@@ -1,0 +1,70 @@
+{
+  "id": "2029-01-27-five-heaviest-meteorites-ever-found-ranked",
+  "format": "ranking",
+  "ranking_by": "mass",
+  "topic": "space",
+  "title": "The 5 Heaviest Meteorites Ever Found, Ranked (#1 Never Moved)",
+  "scenes": [
+    {
+      "text": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
+      "keywords": "iron meteorite"
+    },
+    {
+      "text": "Number five: Armanty, in China. About twenty-eight tonnes of metal from space.",
+      "keywords": "iron meteorite",
+      "rank": 5,
+      "label": "Armanty · 28 tonnes"
+    },
+    {
+      "text": "Number four: El Chaco, in Argentina. Twenty-eight point eight tonnes, one of several giants in one crater field.",
+      "keywords": "iron meteorite",
+      "rank": 4,
+      "label": "El Chaco · 28.8 tonnes"
+    },
+    {
+      "text": "Number three: Gancedo, from the same Argentine field. Thirty point eight tonnes.",
+      "keywords": "iron meteorite",
+      "rank": 3,
+      "label": "Gancedo · 30.8 tonnes"
+    },
+    {
+      "text": "Number two: the Cape York meteorite, found in Greenland. Thirty point nine tonnes, now in a New York museum.",
+      "keywords": "iron meteorite museum",
+      "rank": 2,
+      "label": "Cape York · 30.9 tonnes"
+    },
+    {
+      "text": "Number one: Hoba, in Namibia. Over sixty tonnes, found in 1920 when a plough hit it. It has never been moved.",
+      "keywords": "hoba meteorite",
+      "rank": 1,
+      "label": "Hoba · 60+ tonnes"
+    }
+  ],
+  "description": "The five heaviest meteorites ever found, ranked by mass.\nNumber one weighs over 60 tonnes, twice as much as number two, and it has never been moved from where it landed.\nWhich of these would you most want to see in person?",
+  "tags": [
+    "heaviest meteorites",
+    "biggest meteorite",
+    "hoba meteorite",
+    "cape york meteorite",
+    "meteorite facts",
+    "space rankings",
+    "top 5 meteorites",
+    "space facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#meteorite",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_largest_meteorites_on_Earth",
+    "https://en.wikipedia.org/wiki/Hoba_meteorite",
+    "https://www.amnh.org/exhibitions/permanent/meteorites/meteorites/ahnighito"
+  ],
+  "thumbnail_text": "5 HEAVIEST METEORITES, RANKED",
+  "priority": 7,
+  "first_comment": "Which would you put at number one? And what should we rank next?"
+}

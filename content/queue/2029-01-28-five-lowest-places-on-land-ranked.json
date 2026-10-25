@@ -1,0 +1,69 @@
+{
+  "id": "2029-01-28-five-lowest-places-on-land-ranked",
+  "format": "ranking",
+  "ranking_by": "depth below sea level",
+  "topic": "science",
+  "title": "The 5 Lowest Places on Dry Land, Ranked (#1 Isn't Close)",
+  "scenes": [
+    {
+      "text": "The five lowest places on dry land. Number one is nearly three times deeper than number two.",
+      "keywords": "dead sea shore"
+    },
+    {
+      "text": "Number five: the Karagiye depression in Kazakhstan. About one hundred thirty-two meters below sea level.",
+      "keywords": "kazakhstan desert depression",
+      "rank": 5,
+      "label": "Karagiye · 132 m"
+    },
+    {
+      "text": "Number four: Egypt's Qattara Depression. One hundred thirty-three meters below sea level, just one meter deeper than number five.",
+      "keywords": "qattara desert egypt",
+      "rank": 4,
+      "label": "Qattara · 133 m"
+    },
+    {
+      "text": "Number three: the Turpan Depression in China. About one hundred fifty-four meters below sea level.",
+      "keywords": "turpan china desert",
+      "rank": 3,
+      "label": "Turpan · 154 m"
+    },
+    {
+      "text": "Number two: Lake Assal in Djibouti. One hundred fifty-five meters down, beating Turpan by a single meter.",
+      "keywords": "lake assal salt",
+      "rank": 2,
+      "label": "Lake Assal · 155 m"
+    },
+    {
+      "text": "Number one: the Dead Sea. More than four hundred meters below sea level, the lowest dry land on Earth.",
+      "keywords": "dead sea salt",
+      "rank": 1,
+      "label": "Dead Sea · 400+ m"
+    }
+  ],
+  "description": "The five lowest places on dry land, ranked by depth below sea level.\nThe Dead Sea sits more than 400 meters below sea level, while number two, Lake Assal, is about 155 meters down.\nWhich one would you visit?",
+  "tags": [
+    "lowest places on earth",
+    "dead sea",
+    "lake assal",
+    "lowest elevation",
+    "geography facts",
+    "earth rankings",
+    "top 5 places",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#earth",
+    "#deadsea",
+    "#ranking"
+  ],
+  "sources": [
+    "https://geology.com/below-sea-level/",
+    "https://www.worldatlas.com/geography/the-10-lowest-places-on-earth.html"
+  ],
+  "thumbnail_text": "5 LOWEST PLACES ON EARTH",
+  "priority": 5,
+  "first_comment": "Which would you put at number one? And what should we rank next?"
+}
