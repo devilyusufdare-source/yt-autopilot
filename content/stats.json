@@ -1,28 +1,21 @@
 {
-  "updated_at": "2026-10-25T13:17:39+00:00",
+  "updated_at": "2026-10-25T14:34:02+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 55,
     "channel_views": 37240,
-    "video_count": 100
+    "video_count": 102
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/Ns_EX-TGGOM",
-      "https://youtube.com/shorts/O2zL5iipSFs"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/O2zL5iipSFs"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/O2zL5iipSFs"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 77,
@@ -93,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 100,
-  "total_views": 39556,
+  "total_views": 39673,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -107,7 +100,7 @@
     },
     "animals": {
       "videos": 51,
-      "avg_views": 420,
+      "avg_views": 422,
       "best_views": 1507
     },
     "human body": {
@@ -134,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 84,
-      "avg_views": 390,
+      "avg_views": 391,
       "over_1500": 3
     },
     "punch": {
@@ -146,7 +139,7 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 261
+      "avg_views": 262
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
@@ -154,7 +147,7 @@
     },
     "en-US-AndrewNeural": {
       "videos": 14,
-      "avg_views": 116
+      "avg_views": 122
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -391,7 +384,7 @@
       "hook": "The Great Pyramid used to be bright white and shiny.",
       "published_at": "2026-10-16T02:54:28Z",
       "privacy": "public",
-      "views": 266,
+      "views": 267,
       "likes": 9,
       "comments": 2,
       "url": "https://youtube.com/shorts/TRY06yZdLIs",
@@ -755,7 +748,7 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 100,
+      "views": 118,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo"
@@ -779,8 +772,8 @@
       "hook": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
       "published_at": "2026-10-23T22:30:29Z",
       "privacy": "public",
-      "views": 85,
-      "likes": 2,
+      "views": 96,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PBbydRJloRA"
     },
@@ -2435,7 +2428,7 @@
       "hook": "This animal runs 35 miles an hour for four miles straight.",
       "published_at": "2026-10-24T21:00:07Z",
       "privacy": "public",
-      "views": 30,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kKWolYqlfOc"
@@ -2459,8 +2452,8 @@
       "hook": "This worm lives in water hotter than 140 degrees.",
       "published_at": "2026-10-25T00:00:28Z",
       "privacy": "public",
-      "views": 60,
-      "likes": 3,
+      "views": 63,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q"
     },
@@ -2483,7 +2476,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 176,
+      "views": 236,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2607,7 +2600,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 160,
+      "views": 164,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
@@ -2679,7 +2672,7 @@
       "hook": "This bird can fly for two months without ever landing.",
       "published_at": "2026-10-25T02:15:36Z",
       "privacy": "public",
-      "views": 1028,
+      "views": 1032,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU"
@@ -2781,11 +2774,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
-      "published_at": "2026-10-25T13:16:03Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-25T13:40:03Z",
+      "privacy": "public",
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
     },
     "HS8O59SC0rc": {
@@ -2845,14 +2838,14 @@
       "subscribers_gained": 0
     },
     "O2zL5iipSFs": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2861,11 +2854,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Four astronauts just flew 100 million miles without leaving orbit.",
-      "published_at": "2026-10-25T13:17:33Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-25T14:10:31Z",
+      "privacy": "public",
+      "views": 12,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/O2zL5iipSFs"
     },
     "sSBPt5yFR_c": {

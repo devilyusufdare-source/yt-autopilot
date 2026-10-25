@@ -56,5 +56,7 @@
   ],
   "thumbnail_text": "THEY CAN'T CHEW",
   "first_comment": "Which predator is scarier to you, an alligator or a crocodile?",
-  "_attempts": 1
+  "_attempts": 2,
+  "_error": "failed 2x: sampling rate not specified",
+  "_failed_at": "2026-10-25T14:34:01+00:00"
 }
