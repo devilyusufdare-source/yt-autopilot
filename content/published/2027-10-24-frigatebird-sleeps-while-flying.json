@@ -58,5 +58,16 @@
   ],
   "thumbnail_text": "IT SLEEPS WHILE FLYING",
   "priority": 8,
-  "first_comment": "Could you nap for ten seconds at a time and call it a night?"
+  "first_comment": "Could you nap for ten seconds at a time and call it a night?",
+  "youtube_id": "3JIgcw-3dJU",
+  "url": "https://youtube.com/shorts/3JIgcw-3dJU",
+  "uploaded_at": "2026-10-25T01:50:31+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-25T02:15:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 26.3,
+  "style": "classic",
+  "kind": "shorts"
 }

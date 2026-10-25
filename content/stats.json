@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-24T23:36:12+00:00",
+  "updated_at": "2026-10-25T01:51:50+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 54,
     "channel_views": 37240,
-    "video_count": 96
+    "video_count": 98
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/TKL8_1FJz8Q",
-      "https://youtube.com/shorts/EWLYa_RnJi0"
+      "https://youtube.com/shorts/3JIgcw-3dJU",
+      "https://youtube.com/shorts/wgJfNru7RlQ"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/EWLYa_RnJi0"
+      "https://youtube.com/shorts/wgJfNru7RlQ"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/EWLYa_RnJi0"
+      "https://youtube.com/shorts/wgJfNru7RlQ"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 96,
-  "total_views": 37983,
+  "total_videos": 98,
+  "total_views": 38032,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 48,
-      "avg_views": 413,
+      "videos": 50,
+      "avg_views": 398,
       "best_views": 1507
     },
     "human body": {
@@ -117,7 +117,7 @@
     },
     "history": {
       "videos": 10,
-      "avg_views": 182,
+      "avg_views": 183,
       "best_views": 1106
     },
     "space": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 80,
-      "avg_views": 390,
+      "videos": 82,
+      "avg_views": 381,
       "over_1500": 3
     },
     "punch": {
@@ -146,15 +146,15 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 257
+      "avg_views": 258
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
-      "avg_views": 11
+      "avg_views": 12
     },
     "en-US-AndrewNeural": {
-      "videos": 10,
-      "avg_views": 19
+      "videos": 12,
+      "avg_views": 18
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -755,7 +755,7 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 68,
+      "views": 80,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo"
@@ -779,7 +779,7 @@
       "hook": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
       "published_at": "2026-10-23T22:30:29Z",
       "privacy": "public",
-      "views": 74,
+      "views": 76,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PBbydRJloRA"
@@ -855,7 +855,7 @@
       "hook": "The five deadliest eruptions since 1500. The deadliest one didn't kill most people with lava, ash or fire.",
       "published_at": "2026-10-24T02:20:26Z",
       "privacy": "public",
-      "views": 17,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C2m63XKX8rg"
@@ -2103,7 +2103,7 @@
       "hook": "These bees cook a hornet alive. At 116 degrees.",
       "published_at": "2026-10-22T12:10:08Z",
       "privacy": "public",
-      "views": 405,
+      "views": 406,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s",
@@ -2355,7 +2355,7 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 164,
+      "views": 165,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU",
@@ -2411,8 +2411,8 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 5,
-      "likes": 0,
+      "views": 8,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww"
     },
@@ -2457,22 +2457,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This worm lives in water hotter than 140 degrees.",
-      "published_at": "2026-10-24T23:34:34Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-25T00:00:28Z",
+      "privacy": "public",
+      "views": 7,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q"
     },
     "EWLYa_RnJi0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT24S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2481,11 +2481,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A cockroach can keep living after its head is gone.",
-      "published_at": "2026-10-24T23:36:05Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-25T00:20:04Z",
+      "privacy": "public",
+      "views": 11,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
     },
     "T4gdnphQUUE": {
@@ -2559,7 +2559,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 967,
+      "views": 974,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0"
@@ -2583,7 +2583,7 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 894,
+      "views": 895,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
@@ -2607,7 +2607,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 141,
+      "views": 140,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
@@ -2659,6 +2659,54 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o"
+    },
+    "3JIgcw-3dJU": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT27S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bird Sleeps While Flying and Stays Aloft for 2 Months",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This bird can fly for two months without ever landing.",
+      "published_at": "2026-10-25T01:50:25Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/3JIgcw-3dJU"
+    },
+    "wgJfNru7RlQ": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Leopard Hauls Prey Heavier Than Itself Up a Tree",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A leopard can haul prey heavier than itself up a tree.",
+      "published_at": "2026-10-25T01:51:44Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/wgJfNru7RlQ"
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",
@@ -2791,7 +2839,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 12,
+      "views": 14,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
