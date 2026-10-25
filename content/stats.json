@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T06:07:04+00:00",
+  "updated_at": "2026-10-25T07:14:03+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -86,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 98,
-  "total_views": 39161,
+  "total_views": 39388,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -100,7 +100,7 @@
     },
     "animals": {
       "videos": 50,
-      "avg_views": 420,
+      "avg_views": 425,
       "best_views": 1507
     },
     "human body": {
@@ -127,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 82,
-      "avg_views": 395,
+      "avg_views": 397,
       "over_1500": 3
     },
     "punch": {
@@ -139,7 +139,7 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 258
+      "avg_views": 259
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
@@ -147,7 +147,7 @@
     },
     "en-US-AndrewNeural": {
       "videos": 12,
-      "avg_views": 109
+      "avg_views": 127
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -748,7 +748,7 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 87,
+      "views": 85,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo"
@@ -848,7 +848,7 @@
       "hook": "The five deadliest eruptions since 1500. The deadliest one didn't kill most people with lava, ash or fire.",
       "published_at": "2026-10-24T02:20:26Z",
       "privacy": "public",
-      "views": 22,
+      "views": 21,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C2m63XKX8rg"
@@ -2404,8 +2404,8 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 27,
-      "likes": 2,
+      "views": 35,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww"
     },
@@ -2452,8 +2452,8 @@
       "hook": "This worm lives in water hotter than 140 degrees.",
       "published_at": "2026-10-25T00:00:28Z",
       "privacy": "public",
-      "views": 44,
-      "likes": 1,
+      "views": 52,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q"
     },
@@ -2476,7 +2476,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 111,
+      "views": 119,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2552,8 +2552,8 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 983,
-      "likes": 7,
+      "views": 988,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0"
     },
@@ -2576,7 +2576,7 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 895,
+      "views": 896,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
@@ -2600,7 +2600,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 144,
+      "views": 151,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
@@ -2624,7 +2624,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 100,
+      "views": 101,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A"
@@ -2672,8 +2672,8 @@
       "hook": "This bird can fly for two months without ever landing.",
       "published_at": "2026-10-25T02:15:36Z",
       "privacy": "public",
-      "views": 826,
-      "likes": 9,
+      "views": 1018,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU"
     },
