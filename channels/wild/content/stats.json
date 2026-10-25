@@ -1,96 +1,90 @@
 {
-  "updated_at": "2026-10-25T01:45:13+00:00",
+  "updated_at": "2026-10-25T06:07:26+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 4,
     "channel_views": 1305,
-    "video_count": 4
+    "video_count": 5
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/jKyqYNkFqgE"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/jKyqYNkFqgE"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/jKyqYNkFqgE"
-    ]
+    "sd_only": []
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
   "total_videos": 5,
-  "total_views": 2424,
+  "total_views": 2834,
   "by_topic": {
     "earth": {
       "videos": 2,
-      "avg_views": 142,
-      "best_views": 284
+      "avg_views": 188,
+      "best_views": 320
     },
     "space": {
       "videos": 1,
-      "avg_views": 1109,
-      "best_views": 1109
+      "avg_views": 1111,
+      "best_views": 1111
     },
     "society": {
       "videos": 1,
-      "avg_views": 251,
-      "best_views": 251
+      "avg_views": 270,
+      "best_views": 270
     },
     "animals": {
       "videos": 1,
-      "avg_views": 780,
-      "best_views": 780
+      "avg_views": 1076,
+      "best_views": 1076
     }
   },
   "by_style": {
     "classic": {
       "videos": 5,
-      "avg_views": 485,
+      "avg_views": 567,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 5,
-      "avg_views": 485
+      "avg_views": 567
     }
   },
   "top_videos": [
     {
       "title": "What If Earth Stopped Spinning?",
       "topic": "space",
-      "views": 1109,
+      "views": 1111,
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
     },
     {
       "title": "What If Every Mosquito Went Extinct?",
       "topic": "animals",
-      "views": 780,
+      "views": 1076,
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
     },
     {
       "title": "What If All the Ice on Earth Melted?",
       "topic": "earth",
-      "views": 284,
+      "views": 320,
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
     },
     {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
-      "views": 251,
+      "views": 270,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
     },
     {
       "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
       "topic": "earth",
-      "views": 0,
+      "views": 57,
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger."
     }
   ],
@@ -114,20 +108,20 @@
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres.",
       "published_at": "2026-10-23T21:00:29Z",
       "privacy": "public",
-      "views": 284,
+      "views": 320,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16E2OJLBg8"
     },
     "jKyqYNkFqgE": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT34S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -136,11 +130,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger.",
-      "published_at": "2026-10-25T01:45:10Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-25T02:15:13Z",
+      "privacy": "public",
+      "views": 57,
+      "likes": 4,
+      "comments": 1,
       "url": "https://youtube.com/shorts/jKyqYNkFqgE"
     },
     "2yCHo6hsGYU": {
@@ -162,7 +156,7 @@
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed.",
       "published_at": "2026-10-24T02:15:12Z",
       "privacy": "public",
-      "views": 1109,
+      "views": 1111,
       "likes": 22,
       "comments": 1,
       "url": "https://youtube.com/shorts/2yCHo6hsGYU"
@@ -186,7 +180,7 @@
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely.",
       "published_at": "2026-10-24T13:40:39Z",
       "privacy": "public",
-      "views": 251,
+      "views": 270,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c"
@@ -210,8 +204,8 @@
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
       "published_at": "2026-10-24T21:00:32Z",
       "privacy": "public",
-      "views": 780,
-      "likes": 25,
+      "views": 1076,
+      "likes": 24,
       "comments": 2,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg"
     }
