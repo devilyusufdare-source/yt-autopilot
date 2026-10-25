@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T07:14:03+00:00",
+  "updated_at": "2026-10-25T11:34:26+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -33,7 +33,7 @@
       {
         "title": "Your Body Is Glowing Right Now and You Can't See It",
         "avg_view_percent": 158.9,
-        "views": 245
+        "views": 246
       },
       {
         "title": "In 2022, a Volcano Fired 2,600 Lightning Bolts a Minute",
@@ -86,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 98,
-  "total_views": 39388,
+  "total_views": 39538,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -100,12 +100,12 @@
     },
     "animals": {
       "videos": 50,
-      "avg_views": 425,
+      "avg_views": 428,
       "best_views": 1507
     },
     "human body": {
       "videos": 4,
-      "avg_views": 553,
+      "avg_views": 554,
       "best_views": 1384
     },
     "history": {
@@ -127,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 82,
-      "avg_views": 397,
+      "avg_views": 399,
       "over_1500": 3
     },
     "punch": {
@@ -139,15 +139,15 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 259
+      "avg_views": 260
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
-      "avg_views": 12
+      "avg_views": 13
     },
     "en-US-AndrewNeural": {
       "videos": 12,
-      "avg_views": 127
+      "avg_views": 135
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -155,7 +155,7 @@
     },
     "en-US-AvaMultilingualNeural": {
       "videos": 1,
-      "avg_views": 12
+      "avg_views": 14
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -328,7 +328,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 362,
+      "views": 364,
       "likes": 11,
       "comments": 3,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA",
@@ -412,7 +412,7 @@
       "hook": "On Neptune, it rains diamonds.",
       "published_at": "2026-10-16T05:30:13Z",
       "privacy": "public",
-      "views": 276,
+      "views": 277,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/UaeMKmWXL5w",
@@ -692,7 +692,7 @@
       "hook": "Your body is glowing right now. You just can't see it.",
       "published_at": "2026-10-15T05:30:37Z",
       "privacy": "public",
-      "views": 245,
+      "views": 246,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/T00_3CUDt5s",
@@ -748,8 +748,8 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 85,
-      "likes": 3,
+      "views": 100,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo"
     },
@@ -772,7 +772,7 @@
       "hook": "The five fastest animals on Earth, ranked. The cheetah doesn't even come close to number one.",
       "published_at": "2026-10-23T22:30:29Z",
       "privacy": "public",
-      "views": 77,
+      "views": 85,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PBbydRJloRA"
@@ -848,7 +848,7 @@
       "hook": "The five deadliest eruptions since 1500. The deadliest one didn't kill most people with lava, ash or fire.",
       "published_at": "2026-10-24T02:20:26Z",
       "privacy": "public",
-      "views": 21,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C2m63XKX8rg"
@@ -1904,7 +1904,7 @@
       "hook": "In 1945, a chicken lost its head and lived another 18 months.",
       "published_at": "2026-10-21T16:30:28Z",
       "privacy": "public",
-      "views": 56,
+      "views": 57,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/ExE2WcB7uRI",
@@ -1988,7 +1988,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 292,
+      "views": 293,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
@@ -2044,7 +2044,7 @@
       "hook": "This bird flew 8,400 miles without landing. Eleven days.",
       "published_at": "2026-10-24T15:00:18Z",
       "privacy": "public",
-      "views": 12,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/jLxl9OEAacQ"
@@ -2068,7 +2068,7 @@
       "hook": "A cheetah ran 100 metres in 5.95 seconds.",
       "published_at": "2026-10-22T12:10:31Z",
       "privacy": "public",
-      "views": 51,
+      "views": 52,
       "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/lSMWTUoJceo",
@@ -2404,7 +2404,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 35,
+      "views": 40,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww"
@@ -2428,7 +2428,7 @@
       "hook": "This animal runs 35 miles an hour for four miles straight.",
       "published_at": "2026-10-24T21:00:07Z",
       "privacy": "public",
-      "views": 24,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kKWolYqlfOc"
@@ -2452,8 +2452,8 @@
       "hook": "This worm lives in water hotter than 140 degrees.",
       "published_at": "2026-10-25T00:00:28Z",
       "privacy": "public",
-      "views": 52,
-      "likes": 2,
+      "views": 60,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q"
     },
@@ -2476,7 +2476,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 119,
+      "views": 176,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2552,7 +2552,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 988,
+      "views": 990,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0"
@@ -2576,7 +2576,7 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 896,
+      "views": 897,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE"
@@ -2600,7 +2600,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 151,
+      "views": 160,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
@@ -2624,7 +2624,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 101,
+      "views": 102,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A"
@@ -2648,7 +2648,7 @@
       "hook": "Some adult insects live for less than five minutes.",
       "published_at": "2026-10-23T19:40:06Z",
       "privacy": "public",
-      "views": 23,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o"
@@ -2696,7 +2696,7 @@
       "hook": "A leopard can haul prey heavier than itself up a tree.",
       "published_at": "2026-10-25T02:40:00Z",
       "privacy": "public",
-      "views": 105,
+      "views": 123,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/wgJfNru7RlQ"
@@ -2832,7 +2832,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 14,
+      "views": 15,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
