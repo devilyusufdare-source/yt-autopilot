@@ -53,5 +53,7 @@
   ],
   "first_comment": "Would you rather fly 11 days nonstop or swim across the Pacific?",
   "thumbnail_text": "7,500 MILES. ZERO LANDINGS.",
-  "priority": 8
+  "priority": 8,
+  "_error": "duplicate of an already published video: This Bird Flew 8,400 Miles Without Landing. Eleven Days Straight",
+  "_failed_at": "2026-10-25T23:33:23+00:00"
 }

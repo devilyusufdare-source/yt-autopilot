@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-10-25T22:00:38+00:00",
+  "updated_at": "2026-10-25T23:33:27+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 55,
     "channel_views": 39622,
-    "video_count": 103
+    "video_count": 104
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/HUKVi1Kn7E0"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/HUKVi1Kn7E0"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
@@ -90,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 102,
-  "total_views": 40093,
+  "total_views": 40165,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -99,12 +95,12 @@
     },
     "science": {
       "videos": 15,
-      "avg_views": 352,
+      "avg_views": 353,
       "best_views": 1648
     },
     "animals": {
       "videos": 52,
-      "avg_views": 422,
+      "avg_views": 423,
       "best_views": 1507
     },
     "human body": {
@@ -131,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 86,
-      "avg_views": 387,
+      "avg_views": 388,
       "over_1500": 3
     },
     "punch": {
@@ -151,7 +147,7 @@
     },
     "en-US-AndrewNeural": {
       "videos": 16,
-      "avg_views": 125
+      "avg_views": 129
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -159,7 +155,7 @@
     },
     "en-US-AvaMultilingualNeural": {
       "videos": 1,
-      "avg_views": 14
+      "avg_views": 15
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -752,7 +748,7 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 135,
+      "views": 136,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo",
@@ -864,7 +860,7 @@
       "hook": "The five deadliest eruptions since 1500. The deadliest one didn't kill most people with lava, ash or fire.",
       "published_at": "2026-10-24T02:20:26Z",
       "privacy": "public",
-      "views": 26,
+      "views": 27,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C2m63XKX8rg",
@@ -930,7 +926,7 @@
       "subscribers_gained": 0
     },
     "HUKVi1Kn7E0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
@@ -946,11 +942,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
-      "published_at": "2026-10-25T22:00:15Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-25T22:30:21Z",
+      "privacy": "public",
+      "views": 7,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
     },
     "8nzpCGs_PM0": {
@@ -2092,7 +2088,7 @@
       "hook": "This bird flew 8,400 miles without landing. Eleven days.",
       "published_at": "2026-10-24T15:00:18Z",
       "privacy": "public",
-      "views": 14,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/jLxl9OEAacQ"
@@ -2452,7 +2448,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 56,
+      "views": 67,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww"
@@ -2500,7 +2496,7 @@
       "hook": "This worm lives in water hotter than 140 degrees.",
       "published_at": "2026-10-25T00:00:28Z",
       "privacy": "public",
-      "views": 71,
+      "views": 75,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q"
@@ -2604,7 +2600,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1015,
+      "views": 1016,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -2848,7 +2844,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 28,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -2900,8 +2896,8 @@
       "hook": "The most successful hunter in Africa isn't a lion.",
       "published_at": "2026-10-25T21:00:13Z",
       "privacy": "public",
-      "views": 88,
-      "likes": 1,
+      "views": 130,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU"
     },
