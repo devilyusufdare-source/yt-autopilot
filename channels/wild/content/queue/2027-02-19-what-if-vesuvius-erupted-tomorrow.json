@@ -1,0 +1,59 @@
+{
+  "format": "whatif",
+  "topic": "earth",
+  "title": "What If Mount Vesuvius Erupted Tomorrow?",
+  "scenes": [
+    {
+      "text": "What if Vesuvius erupted tomorrow? Hundreds of thousands of people live on its slopes.",
+      "keywords": "mount vesuvius volcano naples"
+    },
+    {
+      "text": "Its alert level is green today. It last erupted in March 1944, and that eruption ran for about two weeks.",
+      "keywords": "volcano eruption ash cloud"
+    },
+    {
+      "text": "Planners prepare for a repeat of 1631, which killed roughly 3,000 people. Flows of hot gas and ash would race several kilometers downhill.",
+      "keywords": "pyroclastic flow volcano"
+    },
+    {
+      "text": "Those flows are the deadliest part, hot and fast. The red zone is drawn around them, and covers 25 towns.",
+      "keywords": "volcano crater aerial"
+    },
+    {
+      "text": "Farther out, ash piles up. In 1944, 21 people died when roofs collapsed under it.",
+      "keywords": "ash covered roofs town"
+    },
+    {
+      "text": "Scientists watch Vesuvius around the clock. Green today doesn't mean finished.",
+      "keywords": "volcano observatory monitoring"
+    }
+  ],
+  "description": "What if Mount Vesuvius erupted tomorrow?\nAbout 700,000 people live on its slopes, and its last eruption was in 1944.\nScientists monitor it 24 hours a day.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "what if vesuvius erupted",
+    "mount vesuvius",
+    "volcano facts",
+    "pompeii",
+    "naples",
+    "earth science",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#vesuvius",
+    "#volcano"
+  ],
+  "sources": [
+    "https://rischi.protezionecivile.gov.it/en/approfondimento/vesuvio-0/",
+    "https://www.ucl.ac.uk/volcanoscope/files/Hazard%20Perception,%20Communication%20&%20Response/Rolandi_Vesuvius%20Plan_JVGR_2010.pdf",
+    "https://www.britannica.com/summary/Vesuvius"
+  ],
+  "thumbnail_text": "WHAT IF VESUVIUS ERUPTED?",
+  "priority": 6,
+  "first_comment": "Which volcano should we run through next? Drop your 'what if' below.",
+  "id": "2027-02-19-what-if-vesuvius-erupted-tomorrow"
+}

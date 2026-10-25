@@ -1,0 +1,59 @@
+{
+  "topic": "animals",
+  "format": "fact",
+  "title": "This Tiny Sea Snail's Shell Is Dissolving While It's Alive",
+  "subject": "sea butterfly pteropod",
+  "scenes": [
+    {
+      "text": "A tiny sea snail swims through open water. Its shell is dissolving while it's alive.",
+      "keywords": "sea butterfly pteropod"
+    },
+    {
+      "text": "It's the sea butterfly, no bigger than half an inch, floating freely in the ocean.",
+      "keywords": "pteropod swimming"
+    },
+    {
+      "text": "In a lab, a shell dissolved in highly acidic seawater in just 45 days.",
+      "keywords": "sea butterfly pteropod"
+    },
+    {
+      "text": "Off the US west coast, NOAA found 53 percent of the ones it sampled had severely dissolved shells.",
+      "keywords": "pteropod shell close up"
+    },
+    {
+      "text": "Pink salmon, mackerel and herring eat them. A thin shell means a thinner food chain.",
+      "keywords": "salmon swimming underwater"
+    },
+    {
+      "text": "Carbon dioxide is making seawater more corrosive. A tiny snail, losing its shell.",
+      "keywords": "sea butterfly pteropod"
+    }
+  ],
+  "description": "A tiny sea snail swims through open water, and its shell is dissolving.\nNOAA found 53 percent of sampled sea butterflies off the US west coast had severely dissolved shells.\nSalmon, mackerel and herring eat them.\nDid you know the ocean could do this?",
+  "tags": [
+    "sea butterfly",
+    "pteropod",
+    "ocean acidification",
+    "sea snail",
+    "ocean animals",
+    "animal facts",
+    "weird animals",
+    "marine biology",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#seabutterfly",
+    "#ocean",
+    "#animals"
+  ],
+  "sources": [
+    "https://noaa.gov/noaa-led-researchers-discover-ocean-acidity-dissolving-shells-tiny-snails-us-west-coast",
+    "https://ocean.si.edu/node/108440"
+  ],
+  "first_comment": "Would you have guessed a snail could be this fragile? What should we cover next?",
+  "thumbnail_text": "A SNAIL. ITS SHELL IS MELTING.",
+  "priority": 6,
+  "id": "2029-01-29-sea-butterfly-shell-dissolving"
+}
