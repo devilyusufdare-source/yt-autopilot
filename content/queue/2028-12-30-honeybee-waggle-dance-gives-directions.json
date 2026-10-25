@@ -1,0 +1,57 @@
+{
+  "id": "2028-12-30-honeybee-waggle-dance-gives-directions",
+  "topic": "animals",
+  "priority": 6,
+  "title": "Honeybees give directions by dancing, and the hive follows",
+  "subject": "honeybee",
+  "scenes": [
+    {
+      "text": "A bee comes home and dances. Minutes later, the hive flies straight to a flower.",
+      "keywords": "honeybee dancing hive"
+    },
+    {
+      "text": "It's called the waggle dance, and it works like a map.",
+      "keywords": "honeybee on honeycomb"
+    },
+    {
+      "text": "The angle of the straight run, measured from vertical, matches the food's angle from the sun.",
+      "keywords": "honeybee"
+    },
+    {
+      "text": "The length of the waggle gives distance. Two and a half seconds means about 2,600 meters.",
+      "keywords": "honeybees hive"
+    },
+    {
+      "text": "Karl von Frisch decoded it and won the Nobel Prize in 1973.",
+      "keywords": "honeybee flying flower"
+    },
+    {
+      "text": "The hive doesn't read a map. It reads a dance.",
+      "keywords": "honeybee hive"
+    }
+  ],
+  "description": "A bee comes home and dances, and the hive flies straight to a flower.\nThe waggle dance encodes direction by angle and distance by time.\nHow would you explain a map without words?",
+  "tags": [
+    "honeybee",
+    "waggle dance",
+    "bee facts",
+    "animal facts",
+    "karl von frisch",
+    "insect facts",
+    "shorts facts",
+    "nature facts",
+    "mind blowing facts",
+    "animal intelligence"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#bees"
+  ],
+  "sources": [
+    "https://content.ces.ncsu.edu/honey-bee-dance-language",
+    "https://www.lindahall.org/karl-von-frisch"
+  ],
+  "thumbnail_text": "BEES GIVE DIRECTIONS?",
+  "first_comment": "Would you follow a bee's directions?"
+}

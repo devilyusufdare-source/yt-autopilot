@@ -1,0 +1,58 @@
+{
+  "id": "2027-01-27-what-if-quantum-computers-broke-encryption",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 0,
+  "title": "What If Quantum Computers Broke Online Encryption?",
+  "scenes": [
+    {
+      "text": "What if quantum computers broke the internet's locks? The math has existed since 1994.",
+      "keywords": "quantum computer chip"
+    },
+    {
+      "text": "That year, mathematician Peter Shor designed an algorithm that factors huge numbers far faster than any normal computer.",
+      "keywords": "mathematics equations chalkboard"
+    },
+    {
+      "text": "Most online security, called RSA, relies on factoring being painfully slow.",
+      "keywords": "computer code screen"
+    },
+    {
+      "text": "A powerful enough quantum machine could break RSA and elliptic curve encryption, which have protected digital identities for nearly 50 years.",
+      "keywords": "padlock digital security"
+    },
+    {
+      "text": "That machine doesn't exist yet. But in August 2024, the US standards agency NIST finalized three quantum-resistant standards.",
+      "keywords": "data center servers"
+    },
+    {
+      "text": "The race isn't to build the lock-breaker. It's to replace every old lock first.",
+      "keywords": "server room lights"
+    }
+  ],
+  "description": "What if quantum computers broke online encryption?\nShor's 1994 algorithm shows how, and NIST has already finalized new quantum-resistant standards.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "quantum computing",
+    "encryption",
+    "cybersecurity",
+    "shor algorithm",
+    "nist",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#quantum",
+    "#technology"
+  ],
+  "sources": [
+    "https://sectigo.com/blog/who-are-nists-post-quantum-algorithm-winners",
+    "https://www.ampcuscyber.com/knowledge-hub/what-are-nists-finalized-post-quantum-cryptography-standards/"
+  ],
+  "thumbnail_text": "WHAT IF ENCRYPTION BROKE?",
+  "first_comment": "Do you trust your passwords? Drop your own 'what if' below."
+}

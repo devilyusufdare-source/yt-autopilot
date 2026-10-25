@@ -1,0 +1,69 @@
+{
+  "id": "2028-12-22-five-tallest-tree-species-ranked",
+  "format": "ranking",
+  "ranking_by": "height of the tallest measured tree",
+  "topic": "science",
+  "priority": 5,
+  "title": "The 5 Tallest Tree Species, Ranked (#1 Is 30 Stories High)",
+  "scenes": [
+    {
+      "text": "The five tallest tree species, ranked. Two grow on the other side of the world.",
+      "keywords": "tall forest trees looking up"
+    },
+    {
+      "rank": 5,
+      "label": "Yellow meranti · 97.6 m",
+      "text": "Number five: the yellow meranti. Nearly ninety-eight meters tall, in a rainforest in Borneo.",
+      "keywords": "yellow meranti tree"
+    },
+    {
+      "rank": 4,
+      "label": "Douglas-fir · 99.5 m",
+      "text": "Number four: the coast Douglas-fir. About ninety-nine and a half meters, measured in an Oregon forest.",
+      "keywords": "douglas fir tree"
+    },
+    {
+      "rank": 3,
+      "label": "Sitka spruce · 100.2 m",
+      "text": "Number three: the Sitka spruce. Just over one hundred meters, found in California's Redwood National Park.",
+      "keywords": "sitka spruce tree"
+    },
+    {
+      "rank": 2,
+      "label": "Tibetan cypress · 102.3 m",
+      "text": "Number two: the South Tibetan cypress. About one hundred two meters, growing in a deep canyon in Tibet.",
+      "keywords": "tibetan cypress tree"
+    },
+    {
+      "rank": 1,
+      "label": "Coast redwood · 116 m",
+      "text": "Number one: Hyperion, a coast redwood. One hundred sixteen meters, about thirty stories high.",
+      "keywords": "coast redwood tree"
+    }
+  ],
+  "description": "The five tallest tree species, ranked by the tallest tree measured.\nFrom a Borneo rainforest to a Tibetan canyon to a California redwood that stands about thirty stories high.\nWhich would you want to climb?",
+  "tags": [
+    "tallest trees",
+    "tallest tree in the world",
+    "hyperion",
+    "coast redwood",
+    "sitka spruce",
+    "douglas fir",
+    "tree rankings",
+    "top 5 trees",
+    "nature facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#trees",
+    "#nature",
+    "#ranked"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_tallest_trees",
+    "https://www.guinnessworldrecords.com/world-records/tallest-tree-living"
+  ],
+  "thumbnail_text": "5 TALLEST TREES, RANKED",
+  "first_comment": "Which tree would you put at #1 and what should we rank next?"
+}
