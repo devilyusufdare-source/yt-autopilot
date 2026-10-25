@@ -1,0 +1,56 @@
+{
+  "id": "2027-02-04-you-breathed-pure-oxygen",
+  "format": "whatif",
+  "topic": "body",
+  "priority": 5,
+  "title": "What If You Breathed Pure Oxygen?",
+  "scenes": [
+    {
+      "text": "What if you breathed pure oxygen? It sounds healthy. Your lungs disagree.",
+      "keywords": "oxygen tank hospital"
+    },
+    {
+      "text": "Air is only 21 percent oxygen. Pure oxygen at normal pressure is almost five times as much.",
+      "keywords": "oxygen mask patient"
+    },
+    {
+      "text": "For the first day, you'd feel mostly fine. Doctors give it to patients, in short doses.",
+      "keywords": "hospital oxygen mask"
+    },
+    {
+      "text": "After about 14 hours, lung symptoms can begin. By 24 hours, lung function starts to drop.",
+      "keywords": "lungs xray"
+    },
+    {
+      "text": "By about 48 hours, the lungs can be inflamed so badly that breathing gets difficult, a condition called ARDS.",
+      "keywords": "hospital intensive care"
+    },
+    {
+      "text": "That's why Apollo crews breathed near-pure oxygen only at low pressure. Oxygen isn't poison. Too much, for too long, is.",
+      "keywords": "apollo spacecraft astronaut"
+    }
+  ],
+  "description": "What if you breathed 100 percent oxygen?\nAt normal pressure, lung damage can begin within about a day, and ARDS can set in around 48 hours.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "pure oxygen",
+    "oxygen toxicity",
+    "human body",
+    "science explained",
+    "what would happen",
+    "body facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#oxygen",
+    "#science"
+  ],
+  "sources": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK430743/",
+    "https://en.wikipedia.org/wiki/Oxygen_toxicity"
+  ],
+  "thumbnail_text": "WHAT IF YOU BREATHED PURE O2?",
+  "first_comment": "What other everyday thing would you like us to push to the extreme? Drop your own 'what if'."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2027-02-07-every-sea-turtle-vanished",
+  "format": "whatif",
+  "topic": "animals",
+  "priority": 6,
+  "title": "What If Every Sea Turtle Vanished?",
+  "scenes": [
+    {
+      "text": "What if every sea turtle vanished? The first thing to change would be the seagrass.",
+      "keywords": "sea turtle swimming"
+    },
+    {
+      "text": "Green turtles graze seagrass near the base of the blades, which keeps the beds healthy.",
+      "keywords": "green sea turtle seagrass"
+    },
+    {
+      "text": "Without grazing, seagrass can overgrow, block currents, and rot.",
+      "keywords": "seagrass underwater"
+    },
+    {
+      "text": "Leatherbacks eat hundreds of pounds of jellyfish a day. Without them, jellyfish could multiply and eat more fish eggs.",
+      "keywords": "jellyfish ocean"
+    },
+    {
+      "text": "Hawksbills eat sponges that crowd out corals, so reefs would lose a helper too.",
+      "keywords": "coral reef hawksbill turtle"
+    },
+    {
+      "text": "Even beaches would change. Nesting females bring in nutrients from far away, and old eggs and shells feed dune plants.",
+      "keywords": "sea turtle nesting beach"
+    }
+  ],
+  "description": "What if every sea turtle vanished?\nGreen turtles keep seagrass healthy, leatherbacks eat jellyfish, and hawksbills help reefs.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "sea turtles",
+    "seagrass",
+    "ocean ecosystem",
+    "marine biology",
+    "animal facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#seaturtle",
+    "#ocean"
+  ],
+  "sources": [
+    "https://oceana.org/sites/default/files/Why_Healthy_Oceans_Need_Sea_Turtles.pdf",
+    "https://boem.gov/newsroom/ocean-science-news/green-sea-turtles"
+  ],
+  "thumbnail_text": "WHAT IF SEA TURTLES VANISHED?",
+  "first_comment": "Which animal would you miss most if it vanished? Drop your own 'what if'."
+}
