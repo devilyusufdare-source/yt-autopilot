@@ -1,0 +1,56 @@
+{
+  "id": "2026-10-27-what-if-saharan-dust-stopped-reaching-the-amazon",
+  "format": "whatif",
+  "topic": "earth",
+  "priority": 6,
+  "title": "What If the Sahara Stopped Feeding the Amazon?",
+  "scenes": [
+    {
+      "text": "What if the Sahara stopped feeding the Amazon? The world's biggest rainforest quietly depends on a desert.",
+      "keywords": "amazon rainforest aerial"
+    },
+    {
+      "text": "Every year, about twenty-seven million tons of Saharan dust settle over the Amazon basin.",
+      "keywords": "dust storm desert wind"
+    },
+    {
+      "text": "It comes mostly from an ancient dry lake bed in Chad, and it rides the trade winds across the Atlantic.",
+      "keywords": "dust cloud over atlantic ocean"
+    },
+    {
+      "text": "Only a tiny share is phosphorus, about twenty-two thousand tons a year. But rainforest soil is starved of it.",
+      "keywords": "rainforest soil roots"
+    },
+    {
+      "text": "Heavy rain and floods wash away roughly that same amount every year. The dust refills what the rain removes.",
+      "keywords": "rain flooding rainforest river"
+    },
+    {
+      "text": "Cut the dust off, and the Amazon's phosphorus supply would shrink every year. The biggest forest on Earth is fed by a desert.",
+      "keywords": "amazon rainforest canopy"
+    }
+  ],
+  "description": "What if the Sahara stopped feeding the Amazon?\nAbout 27.7 million tons of dust reach the Amazon yearly, carrying roughly 22,000 tons of phosphorus, about what rain and floods wash away.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "sahara dust",
+    "amazon rainforest",
+    "earth science",
+    "nasa",
+    "what would happen",
+    "desert facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#amazon",
+    "#earth"
+  ],
+  "sources": [
+    "https://www.astro.umd.edu/news-events/news/massive-amounts-saharan-dust-fertilize-amazon-rainforest",
+    "https://svs.gsfc.nasa.gov/api/11775"
+  ],
+  "thumbnail_text": "THE DESERT THAT FEEDS A FOREST",
+  "first_comment": "Did you know a desert feeds the Amazon? Drop your own 'what if' below."
+}
