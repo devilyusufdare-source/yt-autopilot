@@ -1,0 +1,58 @@
+{
+  "id": "2027-02-21-what-if-you-spent-a-night-on-the-moon",
+  "format": "whatif",
+  "topic": "space",
+  "priority": 6,
+  "title": "What If You Spent One Night on the Moon?",
+  "scenes": [
+    {
+      "text": "What if you spent one night on the Moon? It lasts two weeks.",
+      "keywords": "astronaut moon surface"
+    },
+    {
+      "text": "Sunset on the Moon starts about 14 Earth days of darkness.",
+      "keywords": "moon horizon sunset"
+    },
+    {
+      "text": "There is no air to hold the heat, so the ground cools to about minus 200 degrees Celsius.",
+      "keywords": "frozen moon crater"
+    },
+    {
+      "text": "Daytime is the opposite: over 120 degrees Celsius, hotter than boiling water.",
+      "keywords": "sun glare moon surface"
+    },
+    {
+      "text": "Batteries slow in that cold, so landers like Japan's SLIM survive by shutting down and hibernating.",
+      "keywords": "lunar lander moon"
+    },
+    {
+      "text": "NASA's ranking of technology gaps puts surviving the lunar night at number one. Pack a very good heater.",
+      "keywords": "astronaut moon base"
+    }
+  ],
+  "description": "What if you spent a single night on the Moon?\nIt lasts about 14 Earth days, and the surface drops to around minus 200 degrees Celsius.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "moon night",
+    "lunar night",
+    "moon facts",
+    "space facts",
+    "nasa moon",
+    "artemis",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#moon",
+    "#space"
+  ],
+  "sources": [
+    "https://www.universetoday.com/articles/nasas-top-5-technical-challenges-countdown-1-survive-the-lunar-night",
+    "https://space.com/astrobotic-cuberover-lunar-night-survival-mission"
+  ],
+  "thumbnail_text": "WHAT IF YOU SPENT A MOON NIGHT?",
+  "first_comment": "Drop your own 'what if' below and we might run it next."
+}

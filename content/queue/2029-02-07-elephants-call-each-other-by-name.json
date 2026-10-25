@@ -1,0 +1,59 @@
+{
+  "id": "2029-02-07-elephants-call-each-other-by-name",
+  "format": "fact",
+  "topic": "animals",
+  "title": "Elephants May Call Each Other by Name, and Scientists Tested It",
+  "subject": "African elephant",
+  "scenes": [
+    {
+      "text": "Only humans were thought to call each other by name. Then scientists listened to elephants.",
+      "keywords": "African elephant"
+    },
+    {
+      "text": "They gave a computer model about 470 low rumbles from wild elephants in Kenya.",
+      "keywords": "elephant herd Kenya"
+    },
+    {
+      "text": "The model could tell which elephant a rumble was meant for, better than chance.",
+      "keywords": "African elephant"
+    },
+    {
+      "text": "Then researchers played the calls back to 17 wild elephants.",
+      "keywords": "elephant listening"
+    },
+    {
+      "text": "The elephants answered more strongly to calls addressed to them than to calls meant for others.",
+      "keywords": "African elephant"
+    },
+    {
+      "text": "Dolphins and parrots copy a friend's signature call. Elephants appear to use an arbitrary label, like a name.",
+      "keywords": "African elephant herd"
+    }
+  ],
+  "description": "Wild African elephants may address each other with distinct calls, something once seen only in humans.\nA computer model picked out the intended listener, and 17 wild elephants responded more to calls addressed to them.\nWhat do you think your name would sound like?",
+  "tags": [
+    "African elephant",
+    "elephant names",
+    "elephant facts",
+    "elephant communication",
+    "animal intelligence",
+    "animal facts",
+    "amazing animals",
+    "smart animals",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#elephant",
+    "#facts"
+  ],
+  "sources": [
+    "https://www.smithsonianmag.com/smart-news/african-elephants-may-call-each-other-by-name-180984521/",
+    "https://earthsky.org/earth/elephants-use-names-african-elephants-arbitrary-communication/"
+  ],
+  "thumbnail_text": "ELEPHANTS HAVE NAMES",
+  "priority": 6,
+  "first_comment": "What would your elephant name sound like? Which smart animal should we cover next?"
+}
