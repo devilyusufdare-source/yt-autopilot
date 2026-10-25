@@ -56,5 +56,7 @@
   "thumbnail_text": "100 MILES. ZERO FLAPS.",
   "priority": 8,
   "first_comment": "That's about 172 kilometres on one glide. How long could you hold your arms out?",
-  "_attempts": 1
+  "_attempts": 2,
+  "_error": "failed 2x: sampling rate not specified",
+  "_failed_at": "2026-10-25T17:34:55+00:00"
 }

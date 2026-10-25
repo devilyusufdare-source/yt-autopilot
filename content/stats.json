@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25T16:06:58+00:00",
+  "updated_at": "2026-10-25T17:34:56+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 55,
-    "channel_views": 37240,
+    "channel_views": 39622,
     "video_count": 102
   },
   "diagnosis": {
@@ -86,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 100,
-  "total_views": 39790,
+  "total_views": 39833,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -100,7 +100,7 @@
     },
     "animals": {
       "videos": 51,
-      "avg_views": 424,
+      "avg_views": 425,
       "best_views": 1507
     },
     "human body": {
@@ -139,7 +139,7 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 263
+      "avg_views": 264
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
@@ -147,7 +147,7 @@
     },
     "en-US-AndrewNeural": {
       "videos": 14,
-      "avg_views": 127
+      "avg_views": 128
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -2404,8 +2404,8 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 45,
-      "likes": 3,
+      "views": 54,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww"
     },
@@ -2600,8 +2600,8 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 168,
-      "likes": 2,
+      "views": 194,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY"
     },
@@ -2624,7 +2624,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 102,
+      "views": 104,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A"
@@ -2696,7 +2696,7 @@
       "hook": "A leopard can haul prey heavier than itself up a tree.",
       "published_at": "2026-10-25T02:40:00Z",
       "privacy": "public",
-      "views": 123,
+      "views": 124,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/wgJfNru7RlQ"
@@ -2776,8 +2776,8 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 8,
-      "likes": 0,
+      "views": 13,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
     },
