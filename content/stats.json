@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T11:34:26+00:00",
+  "updated_at": "2026-10-25T13:17:39+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,13 +9,20 @@
     "video_count": 100
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/Ns_EX-TGGOM",
+      "https://youtube.com/shorts/O2zL5iipSFs"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/O2zL5iipSFs"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/O2zL5iipSFs"
+    ]
   },
   "retention": {
     "videos_with_data": 77,
@@ -85,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 98,
-  "total_views": 39538,
+  "total_videos": 100,
+  "total_views": 39556,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -99,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 50,
-      "avg_views": 428,
+      "videos": 51,
+      "avg_views": 420,
       "best_views": 1507
     },
     "human body": {
@@ -114,8 +121,8 @@
       "best_views": 1106
     },
     "space": {
-      "videos": 17,
-      "avg_views": 478,
+      "videos": 18,
+      "avg_views": 452,
       "best_views": 1512
     },
     "technology": {
@@ -126,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 82,
-      "avg_views": 399,
+      "videos": 84,
+      "avg_views": 390,
       "over_1500": 3
     },
     "punch": {
@@ -139,15 +146,15 @@
   "by_voice": {
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 260
+      "avg_views": 261
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
       "avg_views": 13
     },
     "en-US-AndrewNeural": {
-      "videos": 12,
-      "avg_views": 135
+      "videos": 14,
+      "avg_views": 116
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -2552,7 +2559,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 990,
+      "views": 998,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0"
@@ -2672,7 +2679,7 @@
       "hook": "This bird can fly for two months without ever landing.",
       "published_at": "2026-10-25T02:15:36Z",
       "privacy": "public",
-      "views": 1018,
+      "views": 1028,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU"
@@ -2757,6 +2764,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "Ns_EX-TGGOM": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT30S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Man o' War Isn't a Jellyfish. It's a Colony With 150-Foot Stingers",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
+      "published_at": "2026-10-25T13:16:03Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
+    },
     "HS8O59SC0rc": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -2812,6 +2843,30 @@
       "avg_view_percent": 85.7,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "O2zL5iipSFs": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Astronauts Just Flew 100 Million Miles Without Going Anywhere",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Four astronauts just flew 100 million miles without leaving orbit.",
+      "published_at": "2026-10-25T13:17:33Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/O2zL5iipSFs"
     },
     "sSBPt5yFR_c": {
       "upload_status": "processed",
