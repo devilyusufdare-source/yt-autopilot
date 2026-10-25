@@ -1,91 +1,97 @@
 {
-  "updated_at": "2026-10-24T20:30:25+00:00",
+  "updated_at": "2026-10-25T01:45:13+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 4,
     "channel_views": 1305,
-    "video_count": 3
+    "video_count": 4
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/VEKS-N2EUvg"
+      "https://youtube.com/shorts/jKyqYNkFqgE"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/VEKS-N2EUvg"
+      "https://youtube.com/shorts/jKyqYNkFqgE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/VEKS-N2EUvg"
+      "https://youtube.com/shorts/jKyqYNkFqgE"
     ]
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
-  "total_videos": 4,
-  "total_views": 1547,
+  "total_videos": 5,
+  "total_views": 2424,
   "by_topic": {
     "earth": {
-      "videos": 1,
-      "avg_views": 247,
-      "best_views": 247
+      "videos": 2,
+      "avg_views": 142,
+      "best_views": 284
     },
     "space": {
       "videos": 1,
-      "avg_views": 1102,
-      "best_views": 1102
+      "avg_views": 1109,
+      "best_views": 1109
     },
     "society": {
       "videos": 1,
-      "avg_views": 198,
-      "best_views": 198
+      "avg_views": 251,
+      "best_views": 251
     },
     "animals": {
       "videos": 1,
-      "avg_views": 0,
-      "best_views": 0
+      "avg_views": 780,
+      "best_views": 780
     }
   },
   "by_style": {
     "classic": {
-      "videos": 4,
-      "avg_views": 387,
+      "videos": 5,
+      "avg_views": 485,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 4,
-      "avg_views": 387
+      "videos": 5,
+      "avg_views": 485
     }
   },
   "top_videos": [
     {
       "title": "What If Earth Stopped Spinning?",
       "topic": "space",
-      "views": 1102,
+      "views": 1109,
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
+    },
+    {
+      "title": "What If Every Mosquito Went Extinct?",
+      "topic": "animals",
+      "views": 780,
+      "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
     },
     {
       "title": "What If All the Ice on Earth Melted?",
       "topic": "earth",
-      "views": 247,
+      "views": 284,
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
     },
     {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
-      "views": 198,
+      "views": 251,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
     },
     {
-      "title": "What If Every Mosquito Went Extinct?",
-      "topic": "animals",
+      "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
+      "topic": "earth",
       "views": 0,
-      "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
+      "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger."
     }
   ],
   "videos": {
@@ -108,10 +114,34 @@
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres.",
       "published_at": "2026-10-23T21:00:29Z",
       "privacy": "public",
-      "views": 247,
-      "likes": 5,
+      "views": 284,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16E2OJLBg8"
+    },
+    "jKyqYNkFqgE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
+      "topic": "earth",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger.",
+      "published_at": "2026-10-25T01:45:10Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/jKyqYNkFqgE"
     },
     "2yCHo6hsGYU": {
       "upload_status": "processed",
@@ -132,7 +162,7 @@
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed.",
       "published_at": "2026-10-24T02:15:12Z",
       "privacy": "public",
-      "views": 1102,
+      "views": 1109,
       "likes": 22,
       "comments": 1,
       "url": "https://youtube.com/shorts/2yCHo6hsGYU"
@@ -156,20 +186,20 @@
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely.",
       "published_at": "2026-10-24T13:40:39Z",
       "privacy": "public",
-      "views": 198,
+      "views": 251,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c"
     },
     "VEKS-N2EUvg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT34S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -178,11 +208,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
-      "published_at": "2026-10-24T20:30:21Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-24T21:00:32Z",
+      "privacy": "public",
+      "views": 780,
+      "likes": 25,
+      "comments": 2,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg"
     }
   }
