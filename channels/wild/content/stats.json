@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T04:17:44+00:00",
+  "updated_at": "2026-10-26T15:06:04+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,54 +9,66 @@
     "video_count": 8
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/jwre0VbiRCc"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/jwre0VbiRCc"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/jwre0VbiRCc"
+    ]
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
-  "total_videos": 8,
-  "total_views": 4326,
+  "total_videos": 9,
+  "total_views": 4850,
   "by_topic": {
     "earth": {
       "videos": 3,
-      "avg_views": 424,
-      "best_views": 746
+      "avg_views": 462,
+      "best_views": 847
     },
     "space": {
-      "videos": 3,
-      "avg_views": 496,
+      "videos": 4,
+      "avg_views": 410,
       "best_views": 1278
     },
     "society": {
       "videos": 1,
-      "avg_views": 378,
-      "best_views": 378
+      "avg_views": 410,
+      "best_views": 410
     },
     "animals": {
       "videos": 1,
-      "avg_views": 1189,
-      "best_views": 1189
+      "avg_views": 1412,
+      "best_views": 1412
     }
   },
   "by_style": {
     "classic": {
-      "videos": 8,
-      "avg_views": 541,
+      "videos": 9,
+      "avg_views": 539,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 8,
-      "avg_views": 541
+      "videos": 9,
+      "avg_views": 539
     }
   },
   "top_videos": [
+    {
+      "title": "What If Every Mosquito Went Extinct?",
+      "topic": "animals",
+      "views": 1412,
+      "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
+    },
     {
       "title": "What If Earth Stopped Spinning?",
       "topic": "space",
@@ -64,15 +76,9 @@
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
     },
     {
-      "title": "What If Every Mosquito Went Extinct?",
-      "topic": "animals",
-      "views": 1189,
-      "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
-    },
-    {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 746,
+      "views": 847,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -84,26 +90,32 @@
     {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
-      "views": 378,
+      "views": 410,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
     },
     {
       "title": "What If the Sun Went Out Right Now?",
       "topic": "space",
-      "views": 202,
+      "views": 353,
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes."
     },
     {
       "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
       "topic": "earth",
-      "views": 93,
+      "views": 108,
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger."
     },
     {
       "title": "What If the Moon Disappeared Tonight?",
       "topic": "space",
-      "views": 8,
+      "views": 10,
       "hook": "What if the Moon vanished tonight? The first thing you'd notice isn't the dark."
+    },
+    {
+      "title": "What If the Sun Suddenly Disappeared?",
+      "topic": "space",
+      "views": 0,
+      "hook": "What if the Sun suddenly vanished? For eight minutes, nobody would know."
     }
   ],
   "videos": {
@@ -150,7 +162,7 @@
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger.",
       "published_at": "2026-10-25T02:15:13Z",
       "privacy": "public",
-      "views": 93,
+      "views": 108,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/jKyqYNkFqgE"
@@ -198,8 +210,8 @@
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely.",
       "published_at": "2026-10-24T13:40:39Z",
       "privacy": "public",
-      "views": 378,
-      "likes": 7,
+      "views": 410,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c"
     },
@@ -222,9 +234,9 @@
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
       "published_at": "2026-10-24T21:00:32Z",
       "privacy": "public",
-      "views": 1189,
-      "likes": 24,
-      "comments": 2,
+      "views": 1412,
+      "likes": 27,
+      "comments": 4,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg"
     },
     "UBTO3oOKAF0": {
@@ -246,8 +258,8 @@
       "hook": "What if the Moon vanished tonight? The first thing you'd notice isn't the dark.",
       "published_at": "2026-10-25T21:00:16Z",
       "privacy": "public",
-      "views": 8,
-      "likes": 0,
+      "views": 10,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UBTO3oOKAF0"
     },
@@ -270,8 +282,8 @@
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes.",
       "published_at": "2026-10-26T02:30:21Z",
       "privacy": "public",
-      "views": 202,
-      "likes": 9,
+      "views": 353,
+      "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/a9uI0J8lYDA"
     },
@@ -294,10 +306,34 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 746,
-      "likes": 16,
+      "views": 847,
+      "likes": 19,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY"
+    },
+    "jwre0VbiRCc": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If the Sun Suddenly Disappeared?",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if the Sun suddenly vanished? For eight minutes, nobody would know.",
+      "published_at": "2026-10-26T15:06:00Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/jwre0VbiRCc"
     }
   }
 }
