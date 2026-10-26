@@ -1,27 +1,28 @@
 {
-  "updated_at": "2026-10-26T15:09:29+00:00",
+  "updated_at": "2026-10-26T15:43:40+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 39622,
-    "video_count": 107
+    "video_count": 108
   },
   "diagnosis": {
     "not_public": [
+      "https://youtube.com/shorts/Rahl0RiZm5w",
       "https://youtube.com/shorts/JBpnVxvYLEM",
-      "https://youtube.com/shorts/TjxKsQKmMj4"
+      "https://youtube.com/shorts/VuyOz5b3Dk8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/TjxKsQKmMj4"
+      "https://youtube.com/shorts/Rahl0RiZm5w"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/TjxKsQKmMj4"
+      "https://youtube.com/shorts/Rahl0RiZm5w"
     ]
   },
   "retention": {
@@ -92,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 107,
-  "total_views": 40498,
+  "total_videos": 109,
+  "total_views": 40526,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 57,
-      "avg_views": 391,
+      "videos": 59,
+      "avg_views": 378,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +134,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 91,
-      "avg_views": 370,
+      "videos": 93,
+      "avg_views": 363,
       "over_1500": 3
     },
     "punch": {
@@ -144,6 +145,10 @@
     }
   },
   "by_voice": {
+    "en-US-AndrewNeural": {
+      "videos": 23,
+      "avg_views": 104
+    },
     "en-US-BrianNeural": {
       "videos": 29,
       "avg_views": 267
@@ -152,17 +157,13 @@
       "videos": 5,
       "avg_views": 13
     },
-    "en-US-AndrewNeural": {
-      "videos": 21,
-      "avg_views": 113
-    },
     "en-US-GuyNeural": {
       "videos": 4,
       "avg_views": 31
     },
     "en-US-AvaMultilingualNeural": {
       "videos": 1,
-      "avg_views": 16
+      "avg_views": 18
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -735,6 +736,30 @@
       "avg_view_percent": 68.5,
       "shares": 2,
       "subscribers_gained": 4
+    },
+    "Rahl0RiZm5w": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Whale Once Fooled a Diver Into Hearing a Human Voice",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A diver once surfaced and asked, who told me to get out?",
+      "published_at": "2026-10-26T15:43:31Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Rahl0RiZm5w"
     },
     "0-l77m9gWbo": {
       "upload_status": "processed",
@@ -2095,7 +2120,7 @@
       "hook": "This bird flew 8,400 miles without landing. Eleven days.",
       "published_at": "2026-10-24T15:00:18Z",
       "privacy": "public",
-      "views": 16,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/jLxl9OEAacQ"
@@ -2527,7 +2552,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 435,
+      "views": 442,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2851,7 +2876,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 91,
+      "views": 88,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -2875,7 +2900,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 25,
+      "views": 39,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
@@ -2927,8 +2952,8 @@
       "hook": "A condor flew over a hundred miles without flapping once.",
       "published_at": "2026-10-26T12:40:15Z",
       "privacy": "public",
-      "views": 6,
-      "likes": 0,
+      "views": 9,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA"
     },
@@ -3027,8 +3052,8 @@
       "hook": "A sloth can hold its breath for forty minutes.",
       "published_at": "2026-10-26T02:30:27Z",
       "privacy": "public",
-      "views": 30,
-      "likes": 1,
+      "views": 35,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/MB2BicyS1rs"
     },
@@ -3113,14 +3138,14 @@
       "subscribers_gained": 0
     },
     "TjxKsQKmMj4": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT23S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3129,8 +3154,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Yellowstone's most dangerous animal isn't a bear.",
-      "published_at": "2026-10-26T15:09:22Z",
-      "privacy": "private",
+      "published_at": "2026-10-26T15:40:35Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -3159,6 +3184,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VY98speDz40"
+    },
+    "VuyOz5b3Dk8": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT31S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Animal Survives 18 Minutes Without Oxygen Using a Plant Trick",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This animal survives eighteen minutes with zero oxygen.",
+      "published_at": "2026-10-26T15:41:23Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
     }
   }
 }
