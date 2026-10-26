@@ -5,7 +5,7 @@ Pillow>=10.0
 requests>=2.31
 # Voices
 edge-tts>=7.0
-sherpa-onnx>=1.10
+sherpa-onnx>=1.10,<2   # 2.0.0 (Oct 2026) dropped the built-in Piper/VITS text frontend: generate() returns empty audio
 # YouTube
 google-api-python-client>=2.120
 google-auth>=2.29

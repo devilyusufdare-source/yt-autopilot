@@ -149,7 +149,7 @@ video:
   crf: 20                          # quality (lower = better/bigger). 18-23 is sensible.
 
 voice:
-  engine: "auto"                   # auto = Microsoft neural voice (edge-tts), falls back to offline voice | edge | offline
+  engine: "edge"                   # 26 Oct: Andrew only. If the Microsoft voice is down, the video waits for the next run instead of going out in another voice. (auto = fall back to the offline voice | edge | offline)
   edge_voice: "en-US-AndrewNeural" # 25 Oct: back to the original channel voice (Ava cut videos short). try: en-US-BrianNeural, en-US-ChristopherNeural, en-GB-RyanNeural, en-IN-PrabhatNeural
   edge_rate: "+10%"
   loudness_lufs: -19               # overall loudness of the finished video. YouTube's own level is about -14; lower = quieter/softer

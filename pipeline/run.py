@@ -28,7 +28,7 @@ from .render import assemble_voice, concat_clips, make_thumbnail, pick_music, re
 from .validate import is_longform, validate_longform, validate_package
 from .visuals import Visuals
 
-MAX_ATTEMPTS = 2
+MAX_ATTEMPTS = 4   # 26 Oct: with the voice pinned to Microsoft, a short outage should not push good ideas out of the queue
 MAX_WAIT_MINUTES = 70      # longest a run will wait for a free upload slot before leaving the rest for the next run
 SAFETY_MINUTES = 6         # extra margin on YouTube's 24 h window
 

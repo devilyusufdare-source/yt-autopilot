@@ -11,6 +11,7 @@ Every scene is synthesised separately so each scene's exact duration is known.
 from __future__ import annotations
 
 import asyncio
+import time
 import re
 import shutil
 import subprocess
@@ -150,9 +151,20 @@ def _synth_edge(texts: list[str], cfg: Config, workdir: Path, voice: str | None)
     for i, text in enumerate(texts):
         mp3 = workdir / f"scene{i:02d}.mp3"
         wav = workdir / f"scene{i:02d}.wav"
-        boundaries = asyncio.run(_edge_one(text, voice, rate, mp3))
-        if mp3.stat().st_size < 1000:
-            raise RuntimeError("edge-tts returned no audio")
+        # Microsoft's service fails now and then for a few seconds; retry before giving up on the scene.
+        for attempt in range(3):
+            try:
+                boundaries = asyncio.run(_edge_one(text, voice, rate, mp3))
+                if mp3.stat().st_size >= 1000:
+                    break
+                err = RuntimeError("edge-tts returned no audio")
+            except Exception as e:  # noqa: BLE001
+                err = e
+            if attempt < 2:
+                print(f"[tts] edge-tts scene {i} attempt {attempt + 1} failed ({type(err).__name__}: {err}); retrying")
+                time.sleep(4 * (attempt + 1))
+        else:
+            raise err
         _ffmpeg_to_wav(mp3, wav)
         samples, sr = read_wav(wav)
         # Re-attach punctuation from the original text so captions show it.
@@ -223,6 +235,8 @@ def _synth_offline(texts: list[str], cfg: Config, workdir: Path) -> list[SceneAu
         raw = workdir / f"scene{i:02d}_raw.wav"
         wav = workdir / f"scene{i:02d}.wav"
         audio = tts.generate(text, sid=0, speed=speed)
+        if not getattr(audio, "sample_rate", 0) or len(audio.samples) == 0:
+            raise RuntimeError("offline voice returned no audio (check the sherpa-onnx version)")
         samples = (np.clip(np.asarray(audio.samples, dtype=np.float32), -1, 1) * 32767).astype(np.int16)
         write_wav(raw, samples, audio.sample_rate)
         _ffmpeg_to_wav(raw, wav)
