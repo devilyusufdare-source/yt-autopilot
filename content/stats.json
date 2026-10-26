@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:23:28+00:00",
+  "updated_at": "2026-10-26T20:44:22+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,13 +9,19 @@
     "video_count": 113
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/9s8UtHBrp8k"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/9s8UtHBrp8k"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/9s8UtHBrp8k"
+    ]
   },
   "retention": {
     "videos_with_data": 95,
@@ -85,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 111,
-  "total_views": 40617,
+  "total_videos": 112,
+  "total_views": 40622,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -99,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 60,
-      "avg_views": 373,
+      "videos": 61,
+      "avg_views": 367,
       "best_views": 1507
     },
     "human body": {
@@ -126,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 95,
-      "avg_views": 356,
+      "videos": 96,
+      "avg_views": 352,
       "over_1500": 3
     },
     "punch": {
@@ -138,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 25,
-      "avg_views": 99
+      "videos": 26,
+      "avg_views": 95
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -889,6 +895,30 @@
       "shares": 0,
       "subscribers_gained": 1
     },
+    "9s8UtHBrp8k": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
+      "published_at": "2026-10-26T20:44:14Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/9s8UtHBrp8k"
+    },
     "C2m63XKX8rg": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -1016,7 +1046,7 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 42,
+      "views": 43,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
@@ -3020,7 +3050,7 @@
       "hook": "A condor flew over a hundred miles without flapping once.",
       "published_at": "2026-10-26T12:40:15Z",
       "privacy": "public",
-      "views": 9,
+      "views": 12,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA"
@@ -3044,7 +3074,7 @@
       "hook": "The most successful hunter in Africa isn't a lion.",
       "published_at": "2026-10-25T21:00:13Z",
       "privacy": "public",
-      "views": 192,
+      "views": 193,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU"
