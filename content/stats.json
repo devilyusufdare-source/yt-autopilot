@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-26T11:51:09+00:00",
+  "updated_at": "2026-10-26T15:09:29+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 39622,
-    "video_count": 105
+    "video_count": 107
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/nib97oLvxwI",
-      "https://youtube.com/shorts/MvTzV6WNdAA"
+      "https://youtube.com/shorts/JBpnVxvYLEM",
+      "https://youtube.com/shorts/TjxKsQKmMj4"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/MvTzV6WNdAA"
+      "https://youtube.com/shorts/TjxKsQKmMj4"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/MvTzV6WNdAA"
+      "https://youtube.com/shorts/TjxKsQKmMj4"
     ]
   },
   "retention": {
@@ -82,7 +82,7 @@
       {
         "title": "Scientists Drilled 7.5 Miles Down. The Earth Fought Back",
         "avg_view_percent": 28.3,
-        "views": 2
+        "views": 3
       },
       {
         "title": "This Lake Gets Hit by Lightning Almost 300 Nights a Year",
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 105,
-  "total_views": 40424,
+  "total_videos": 107,
+  "total_views": 40498,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 55,
-      "avg_views": 404,
+      "videos": 57,
+      "avg_views": 391,
       "best_views": 1507
     },
     "human body": {
@@ -127,14 +127,14 @@
     },
     "technology": {
       "videos": 1,
-      "avg_views": 2,
-      "best_views": 2
+      "avg_views": 3,
+      "best_views": 3
     }
   },
   "by_style": {
     "classic": {
-      "videos": 89,
-      "avg_views": 378,
+      "videos": 91,
+      "avg_views": 370,
       "over_1500": 3
     },
     "punch": {
@@ -153,8 +153,8 @@
       "avg_views": 13
     },
     "en-US-AndrewNeural": {
-      "videos": 19,
-      "avg_views": 121
+      "videos": 21,
+      "avg_views": 113
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -166,7 +166,7 @@
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 2
+      "avg_views": 3
     }
   },
   "top_videos": [
@@ -951,7 +951,7 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 35,
+      "views": 42,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
@@ -2527,7 +2527,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 433,
+      "views": 435,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2607,7 +2607,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1039,
+      "views": 1045,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -2851,7 +2851,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 83,
+      "views": 91,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -2873,11 +2873,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Crocodiles can't chew, so they spin.",
-      "published_at": "2026-10-26T11:49:10Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-26T12:20:02Z",
+      "privacy": "public",
+      "views": 25,
+      "likes": 2,
+      "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
     },
     "HS8O59SC0rc": {
@@ -2909,14 +2909,14 @@
       "subscribers_gained": 0
     },
     "MvTzV6WNdAA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2925,11 +2925,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A condor flew over a hundred miles without flapping once.",
-      "published_at": "2026-10-26T11:51:01Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-26T12:40:15Z",
+      "privacy": "public",
+      "views": 6,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA"
     },
     "tq008mZVJQU": {
@@ -2951,10 +2951,34 @@
       "hook": "The most successful hunter in Africa isn't a lion.",
       "published_at": "2026-10-25T21:00:13Z",
       "privacy": "public",
-      "views": 188,
+      "views": 192,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU"
+    },
+    "JBpnVxvYLEM": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT25S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "These Ants Farm Fungus With 8 Million Workers and Antibiotics",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "These ants cut leaves, but they never eat them.",
+      "published_at": "2026-10-26T15:07:53Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/JBpnVxvYLEM"
     },
     "EwlfYEnJaiU": {
       "upload_status": "processed",
@@ -3003,7 +3027,7 @@
       "hook": "A sloth can hold its breath for forty minutes.",
       "published_at": "2026-10-26T02:30:27Z",
       "privacy": "public",
-      "views": 16,
+      "views": 30,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MB2BicyS1rs"
@@ -3051,7 +3075,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 15,
+      "views": 16,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
@@ -3079,7 +3103,7 @@
       "hook": "Scientists drilled seven and a half miles down. The Earth fought back.",
       "published_at": "2026-10-21T21:00:16Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7E64Z48yaAs",
@@ -3087,6 +3111,30 @@
       "avg_view_percent": 28.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "TjxKsQKmMj4": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Yellowstone's Deadliest Animal Is a 2,000-Pound Bison That Runs 35 mph",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Yellowstone's most dangerous animal isn't a bear.",
+      "published_at": "2026-10-26T15:09:22Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/TjxKsQKmMj4"
     },
     "VY98speDz40": {
       "upload_status": "processed",
