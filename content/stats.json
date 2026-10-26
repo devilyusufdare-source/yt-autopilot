@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-10-26T22:10:21+00:00",
+  "updated_at": "2026-10-26T23:37:26+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 40530,
-    "video_count": 114
+    "video_count": 115
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/vosG2Q9tRXk"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/vosG2Q9tRXk"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/vosG2Q9tRXk"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 95,
@@ -92,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 113,
-  "total_views": 40682,
+  "total_views": 40717,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -126,14 +120,14 @@
     },
     "technology": {
       "videos": 2,
-      "avg_views": 5,
-      "best_views": 7
+      "avg_views": 13,
+      "best_views": 23
     }
   },
   "by_style": {
     "classic": {
       "videos": 97,
-      "avg_views": 349,
+      "avg_views": 350,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +139,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 27,
-      "avg_views": 94
+      "avg_views": 95
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -862,8 +856,8 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 6,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ"
     },
@@ -1022,7 +1016,7 @@
       "hook": "Thirty-three engines fire at once.",
       "published_at": "2026-10-26T18:30:19Z",
       "privacy": "public",
-      "views": 7,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_X77GXV_cLE"
@@ -1136,14 +1130,14 @@
       "subscribers_gained": 0
     },
     "vosG2Q9tRXk": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1152,11 +1146,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five longest animals on Earth, ranked. Number one is not a whale.",
-      "published_at": "2026-10-26T22:10:10Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-26T22:30:34Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/vosG2Q9tRXk"
     },
     "UUHeyNuVn8M": {
@@ -2578,7 +2572,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 81,
+      "views": 80,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww",
@@ -2998,7 +2992,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 94,
+      "views": 93,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -3022,7 +3016,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 73,
+      "views": 74,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
@@ -3074,7 +3068,7 @@
       "hook": "A condor flew over a hundred miles without flapping once.",
       "published_at": "2026-10-26T12:40:15Z",
       "privacy": "public",
-      "views": 12,
+      "views": 16,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA"
@@ -3122,7 +3116,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
@@ -3174,7 +3168,7 @@
       "hook": "A sloth can hold its breath for forty minutes.",
       "published_at": "2026-10-26T02:30:27Z",
       "privacy": "public",
-      "views": 57,
+      "views": 65,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/MB2BicyS1rs"
