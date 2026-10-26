@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-26T20:44:22+00:00",
+  "updated_at": "2026-10-26T22:10:21+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 40530,
-    "video_count": 113
+    "video_count": 114
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/9s8UtHBrp8k"
+      "https://youtube.com/shorts/vosG2Q9tRXk"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/9s8UtHBrp8k"
+      "https://youtube.com/shorts/vosG2Q9tRXk"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/9s8UtHBrp8k"
+      "https://youtube.com/shorts/vosG2Q9tRXk"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 112,
-  "total_views": 40622,
+  "total_videos": 113,
+  "total_views": 40682,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 61,
-      "avg_views": 367,
+      "videos": 62,
+      "avg_views": 362,
       "best_views": 1507
     },
     "human body": {
@@ -126,14 +126,14 @@
     },
     "technology": {
       "videos": 2,
-      "avg_views": 2,
-      "best_views": 3
+      "avg_views": 5,
+      "best_views": 7
     }
   },
   "by_style": {
     "classic": {
-      "videos": 96,
-      "avg_views": 352,
+      "videos": 97,
+      "avg_views": 349,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 26,
-      "avg_views": 95
+      "videos": 27,
+      "avg_views": 94
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -754,7 +754,7 @@
       "hook": "A diver once surfaced and asked, who told me to get out?",
       "published_at": "2026-10-26T16:50:11Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w"
@@ -896,14 +896,14 @@
       "subscribers_gained": 1
     },
     "9s8UtHBrp8k": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT35S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -912,11 +912,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
-      "published_at": "2026-10-26T20:44:14Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-26T21:10:03Z",
+      "privacy": "public",
+      "views": 19,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k"
     },
     "C2m63XKX8rg": {
@@ -1022,9 +1022,9 @@
       "hook": "Thirty-three engines fire at once.",
       "published_at": "2026-10-26T18:30:19Z",
       "privacy": "public",
-      "views": 2,
+      "views": 7,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/_X77GXV_cLE"
     },
     "HUKVi1Kn7E0": {
@@ -1046,7 +1046,7 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 43,
+      "views": 44,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
@@ -1134,6 +1134,30 @@
       "avg_view_percent": 78.1,
       "shares": 1,
       "subscribers_gained": 0
+    },
+    "vosG2Q9tRXk": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Longest Animals Ever Measured, Ranked (#1 Is a Worm)",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five longest animals on Earth, ranked. Number one is not a whale.",
+      "published_at": "2026-10-26T22:10:10Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/vosG2Q9tRXk"
     },
     "UUHeyNuVn8M": {
       "upload_status": "processed",
@@ -2554,7 +2578,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 80,
+      "views": 81,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww",
@@ -2638,7 +2662,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 454,
+      "views": 453,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0",
@@ -2722,7 +2746,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1049,
+      "views": 1052,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -2890,7 +2914,7 @@
       "hook": "A leopard can haul prey heavier than itself up a tree.",
       "published_at": "2026-10-25T02:40:00Z",
       "privacy": "public",
-      "views": 127,
+      "views": 128,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/wgJfNru7RlQ",
@@ -2998,7 +3022,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 67,
+      "views": 73,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
@@ -3098,7 +3122,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
@@ -3150,7 +3174,7 @@
       "hook": "A sloth can hold its breath for forty minutes.",
       "published_at": "2026-10-26T02:30:27Z",
       "privacy": "public",
-      "views": 45,
+      "views": 57,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/MB2BicyS1rs"
@@ -3254,7 +3278,7 @@
       "hook": "Yellowstone's most dangerous animal isn't a bear.",
       "published_at": "2026-10-26T15:40:35Z",
       "privacy": "public",
-      "views": 16,
+      "views": 23,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TjxKsQKmMj4"
@@ -3302,7 +3326,7 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 3,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
