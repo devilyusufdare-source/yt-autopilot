@@ -1,28 +1,27 @@
 {
-  "updated_at": "2026-10-26T15:43:40+00:00",
+  "updated_at": "2026-10-26T16:32:59+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 39622,
-    "video_count": 108
+    "video_count": 110
   },
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/Rahl0RiZm5w",
-      "https://youtube.com/shorts/JBpnVxvYLEM",
-      "https://youtube.com/shorts/VuyOz5b3Dk8"
+      "https://youtube.com/shorts/LCa_cpMsZOQ"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Rahl0RiZm5w"
+      "https://youtube.com/shorts/LCa_cpMsZOQ"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Rahl0RiZm5w"
+      "https://youtube.com/shorts/LCa_cpMsZOQ"
     ]
   },
   "retention": {
@@ -93,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 109,
-  "total_views": 40526,
+  "total_videos": 110,
+  "total_views": 40538,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -107,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 59,
-      "avg_views": 378,
+      "videos": 60,
+      "avg_views": 372,
       "best_views": 1507
     },
     "human body": {
@@ -134,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 93,
-      "avg_views": 363,
+      "videos": 94,
+      "avg_views": 359,
       "over_1500": 3
     },
     "punch": {
@@ -146,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 23,
-      "avg_views": 104
+      "videos": 24,
+      "avg_views": 100
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -738,14 +737,14 @@
       "subscribers_gained": 4
     },
     "Rahl0RiZm5w": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT30S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -844,6 +843,30 @@
       "avg_view_percent": 48.7,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "LCa_cpMsZOQ": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Guinea Pig Lookalike Is Related to Elephants",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
+      "published_at": "2026-10-26T16:32:50Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/LCa_cpMsZOQ"
     },
     "_iAc9-aQoR4": {
       "upload_status": "processed",
@@ -2480,7 +2503,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 79,
+      "views": 80,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww"
@@ -2552,7 +2575,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 442,
+      "views": 443,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2688,7 +2711,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 202,
+      "views": 201,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY",
@@ -2876,7 +2899,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 88,
+      "views": 83,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -2900,7 +2923,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 39,
+      "views": 48,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
@@ -2976,7 +2999,7 @@
       "hook": "The most successful hunter in Africa isn't a lion.",
       "published_at": "2026-10-25T21:00:13Z",
       "privacy": "public",
-      "views": 192,
+      "views": 194,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU"
@@ -2998,8 +3021,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "These ants cut leaves, but they never eat them.",
-      "published_at": "2026-10-26T15:07:53Z",
-      "privacy": "private",
+      "published_at": "2026-10-26T16:30:37Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -3156,9 +3179,9 @@
       "hook": "Yellowstone's most dangerous animal isn't a bear.",
       "published_at": "2026-10-26T15:40:35Z",
       "privacy": "public",
-      "views": 0,
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/TjxKsQKmMj4"
     },
     "VY98speDz40": {
@@ -3202,11 +3225,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This animal survives eighteen minutes with zero oxygen.",
-      "published_at": "2026-10-26T15:41:23Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-26T16:10:05Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
     }
   }
