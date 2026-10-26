@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-26T16:32:59+00:00",
+  "updated_at": "2026-10-26T17:45:13+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
-    "channel_views": 39622,
-    "video_count": 110
+    "channel_views": 40530,
+    "video_count": 111
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Rahl0RiZm5w",
-      "https://youtube.com/shorts/LCa_cpMsZOQ"
+      "https://youtube.com/shorts/LCa_cpMsZOQ",
+      "https://youtube.com/shorts/_X77GXV_cLE"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/LCa_cpMsZOQ"
+      "https://youtube.com/shorts/_X77GXV_cLE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/LCa_cpMsZOQ"
+      "https://youtube.com/shorts/_X77GXV_cLE"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 110,
-  "total_views": 40538,
+  "total_videos": 111,
+  "total_views": 40570,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -126,15 +126,15 @@
       "best_views": 1512
     },
     "technology": {
-      "videos": 1,
-      "avg_views": 3,
+      "videos": 2,
+      "avg_views": 2,
       "best_views": 3
     }
   },
   "by_style": {
     "classic": {
-      "videos": 94,
-      "avg_views": 359,
+      "videos": 95,
+      "avg_views": 355,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 24,
-      "avg_views": 100
+      "videos": 25,
+      "avg_views": 97
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -162,7 +162,7 @@
     },
     "en-US-AvaMultilingualNeural": {
       "videos": 1,
-      "avg_views": 18
+      "avg_views": 20
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -753,11 +753,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A diver once surfaced and asked, who told me to get out?",
-      "published_at": "2026-10-26T15:43:31Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-26T16:50:11Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w"
     },
     "0-l77m9gWbo": {
@@ -845,14 +845,14 @@
       "subscribers_gained": 0
     },
     "LCa_cpMsZOQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT27S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -979,6 +979,30 @@
       "avg_view_percent": 69.0,
       "shares": 1,
       "subscribers_gained": 0
+    },
+    "_X77GXV_cLE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "33 Engines Fire at Once: 16.7 Million Pounds of Thrust",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Thirty-three engines fire at once.",
+      "published_at": "2026-10-26T17:45:05Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/_X77GXV_cLE"
     },
     "HUKVi1Kn7E0": {
       "upload_status": "processed",
@@ -2087,7 +2111,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 293,
+      "views": 294,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
@@ -2143,7 +2167,7 @@
       "hook": "This bird flew 8,400 miles without landing. Eleven days.",
       "published_at": "2026-10-24T15:00:18Z",
       "privacy": "public",
-      "views": 18,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/jLxl9OEAacQ"
@@ -2575,7 +2599,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 443,
+      "views": 441,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2655,7 +2679,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1045,
+      "views": 1043,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -2711,7 +2735,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 201,
+      "views": 202,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY",
@@ -2899,7 +2923,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 83,
+      "views": 94,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -2923,8 +2947,8 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 48,
-      "likes": 2,
+      "views": 55,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
     },
@@ -2975,7 +2999,7 @@
       "hook": "A condor flew over a hundred miles without flapping once.",
       "published_at": "2026-10-26T12:40:15Z",
       "privacy": "public",
-      "views": 9,
+      "views": 11,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA"
@@ -2999,7 +3023,7 @@
       "hook": "The most successful hunter in Africa isn't a lion.",
       "published_at": "2026-10-25T21:00:13Z",
       "privacy": "public",
-      "views": 194,
+      "views": 192,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU"
@@ -3023,9 +3047,9 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
     },
     "EwlfYEnJaiU": {
@@ -3075,8 +3099,8 @@
       "hook": "A sloth can hold its breath for forty minutes.",
       "published_at": "2026-10-26T02:30:27Z",
       "privacy": "public",
-      "views": 35,
-      "likes": 2,
+      "views": 42,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/MB2BicyS1rs"
     },
@@ -3179,7 +3203,7 @@
       "hook": "Yellowstone's most dangerous animal isn't a bear.",
       "published_at": "2026-10-26T15:40:35Z",
       "privacy": "public",
-      "views": 4,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TjxKsQKmMj4"
@@ -3227,7 +3251,7 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
