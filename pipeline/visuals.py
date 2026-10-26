@@ -84,6 +84,21 @@ def footage_focus(scenes: list[dict]) -> list[str]:
     return [best[0]] if best else [word]
 
 
+def _words(text: str) -> set[str]:
+    """Lower-case words with a trailing plural 's' removed ("ants" -> "ant"), for matching queries to clip tags."""
+    return {w[:-1] if len(w) > 3 and w.endswith("s") else w for w in re.findall(r"[a-z]+", text.lower())}
+
+
+def relevance(c: "Candidate", query: str) -> int | None:
+    """How many of the query's subject words (not shot words like 'close up' or 'water') appear in the clip's
+    tags or page link. None when the query has no subject words (a deliberately scenic shot) or the provider gave
+    no description, so the result cannot be judged."""
+    want = {w for w in _words(query) if len(w) >= 3 and w not in _FOCUS_STOP and (w + "s") not in _FOCUS_STOP}
+    if not want or not c.text.strip():
+        return None
+    return len(want & _words(c.text))
+
+
 # Palettes for the procedural fallback: three colours per topic.
 TOPIC_PALETTES = {
     "psychology": ("#2b1055", "#0d0520", "#7597de"),
@@ -110,6 +125,7 @@ class Candidate:
     page_url: str = ""
     author: str = ""
     kind: str = "video"    # video | image
+    text: str = ""         # what the clip shows: Pixabay tags, or the words in a Pexels page link
 
     @property
     def portrait(self) -> bool:
@@ -167,7 +183,8 @@ class Visuals:
                 f = files.get(size) or {}
                 if f.get("url") and f.get("width") and f.get("height") and (f.get("size") or 0) < MAX_DOWNLOAD_MB * 1024 * 1024:
                     out.append(Candidate("pixabay-video", f"pxb{hit['id']}", f["url"], int(f["width"]), int(f["height"]),
-                                         float(hit.get("duration", 0)), hit.get("pageURL", ""), hit.get("user", "")))
+                                         float(hit.get("duration", 0)), hit.get("pageURL", ""), hit.get("user", ""),
+                                         text=str(hit.get("tags", ""))))
                     break
         return out
 
@@ -191,7 +208,8 @@ class Visuals:
             pool.sort(key=lambda f: (abs(f["height"] - target), -f["height"]))
             f = pool[0]
             out.append(Candidate("pexels-video", f"pex{v['id']}", f["link"], int(f["width"]), int(f["height"]),
-                                 float(v.get("duration", 0)), v.get("url", ""), (v.get("user") or {}).get("name", "")))
+                                 float(v.get("duration", 0)), v.get("url", ""), (v.get("user") or {}).get("name", ""),
+                                 text=" ".join([str(v.get("url", "")).rstrip("/").rsplit("/", 1)[-1], *map(str, v.get("tags") or [])])))
         return out
 
     def _pixabay_photos(self, query: str) -> list[Candidate]:
@@ -205,12 +223,22 @@ class Visuals:
             url = hit.get("largeImageURL")
             if url:
                 out.append(Candidate("pixabay-photo", f"pxp{hit['id']}", url, int(hit.get("imageWidth", 0)),
-                                     int(hit.get("imageHeight", 0)), 0.0, hit.get("pageURL", ""), hit.get("user", ""), kind="image"))
+                                     int(hit.get("imageHeight", 0)), 0.0, hit.get("pageURL", ""), hit.get("user", ""), kind="image",
+                                     text=str(hit.get("tags", ""))))
         return out
 
     # ------------------------------------------------------------------ choosing + downloading
-    def _pick(self, cands: list[Candidate], min_duration: float) -> Candidate | None:
+    def _pick(self, cands: list[Candidate], min_duration: float, query: str = "", strict: bool = False) -> Candidate | None:
         cands = [c for c in cands if c.uid not in self.used]
+        if strict and query:
+            # Only clips whose tags/link mention the subject ("alligator teeth close up" must not return a bee close-up);
+            # the best-matching ones first. Nothing relevant -> None, so the next search (the video's subject) runs.
+            scored = [(relevance(c, query), c) for c in cands]
+            if any(r is not None for r, _ in scored):
+                best = max((r or 0) for r, _ in scored)
+                if best <= 0:
+                    return None
+                cands = [c for r, c in scored if (r or 0) == best]
         if not cands:
             return None
         # Matching orientation first, then long enough to avoid looping, then top results (most relevant).
@@ -264,6 +292,10 @@ class Visuals:
         for provider in (self._pixabay_videos, self._pexels_videos):
             cands += provider(keywords)
         cands = [c for c in cands if c.uid not in self.used and c.kind == "video"]
+        scored = [(relevance(c, keywords), c) for c in cands]
+        if any(r is not None for r, _ in scored):
+            best = max((r or 0) for r, _ in scored)
+            cands = [c for r, c in scored if (r or 0) == best] if best > 0 else []
         fitting = [c for c in cands if (not c.portrait) == self.landscape]
         pool = (fitting or cands)
         pool = ([c for c in pool if c.duration >= duration] or pool)[:3]
@@ -294,9 +326,10 @@ class Visuals:
         queries = ([keywords] + [q for q in self.focus if q.lower() != keywords.lower().strip()]
                    + TOPIC_FALLBACK_QUERIES.get(self.topic, [])[:2] + GENERIC_QUERIES[:1])
         providers = (self._pixabay_videos, self._pexels_videos, self._pixabay_photos)
+        strict_queries = {keywords.lower().strip(), *[q.lower() for q in self.focus]}
         for q in queries:
             for provider in providers:
-                picked = self._pick(provider(q), duration)
+                picked = self._pick(provider(q), duration, query=q, strict=q.lower().strip() in strict_queries)
                 if not picked:
                     continue
                 path = self._download(picked)
