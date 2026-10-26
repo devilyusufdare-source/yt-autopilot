@@ -1,44 +1,35 @@
 {
-  "updated_at": "2026-10-26T16:28:23+00:00",
+  "updated_at": "2026-10-26T20:37:02+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 5,
-    "channel_views": 3157,
-    "video_count": 8
+    "subscribers": 7,
+    "channel_views": 4793,
+    "video_count": 10
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/PyXFeRMftHU",
-      "https://youtube.com/shorts/jwre0VbiRCc"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/PyXFeRMftHU",
-      "https://youtube.com/shorts/jwre0VbiRCc"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/PyXFeRMftHU",
-      "https://youtube.com/shorts/jwre0VbiRCc"
-    ]
+    "sd_only": []
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
   "total_videos": 10,
-  "total_views": 4899,
+  "total_views": 5144,
   "by_topic": {
     "earth": {
       "videos": 3,
-      "avg_views": 477,
-      "best_views": 891
+      "avg_views": 486,
+      "best_views": 915
     },
     "space": {
       "videos": 5,
-      "avg_views": 328,
+      "avg_views": 372,
       "best_views": 1278
     },
     "society": {
@@ -48,28 +39,28 @@
     },
     "animals": {
       "videos": 1,
-      "avg_views": 1415,
-      "best_views": 1415
+      "avg_views": 1416,
+      "best_views": 1416
     }
   },
   "by_style": {
     "classic": {
       "videos": 10,
-      "avg_views": 490,
+      "avg_views": 514,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 10,
-      "avg_views": 490
+      "avg_views": 514
     }
   },
   "top_videos": [
     {
       "title": "What If Every Mosquito Went Extinct?",
       "topic": "animals",
-      "views": 1415,
+      "views": 1416,
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
     },
     {
@@ -81,7 +72,7 @@
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 891,
+      "views": 915,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -103,28 +94,28 @@
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes."
     },
     {
-      "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
-      "topic": "earth",
-      "views": 108,
-      "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger."
-    },
-    {
-      "title": "What If the Moon Disappeared Tonight?",
-      "topic": "space",
-      "views": 10,
-      "hook": "What if the Moon vanished tonight? The first thing you'd notice isn't the dark."
-    },
-    {
       "title": "What If You Fell Into a Black Hole?",
       "topic": "space",
-      "views": 0,
+      "views": 188,
       "hook": "What if you fell into a black hole? Which one matters more than you'd think."
+    },
+    {
+      "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
+      "topic": "earth",
+      "views": 112,
+      "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger."
     },
     {
       "title": "What If the Sun Suddenly Disappeared?",
       "topic": "space",
-      "views": 0,
+      "views": 27,
       "hook": "What if the Sun suddenly vanished? For eight minutes, nobody would know."
+    },
+    {
+      "title": "What If the Moon Disappeared Tonight?",
+      "topic": "space",
+      "views": 11,
+      "hook": "What if the Moon vanished tonight? The first thing you'd notice isn't the dark."
     }
   ],
   "videos": {
@@ -171,7 +162,7 @@
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger.",
       "published_at": "2026-10-25T02:15:13Z",
       "privacy": "public",
-      "views": 108,
+      "views": 112,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/jKyqYNkFqgE"
@@ -243,7 +234,7 @@
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
       "published_at": "2026-10-24T21:00:32Z",
       "privacy": "public",
-      "views": 1415,
+      "views": 1416,
       "likes": 27,
       "comments": 4,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg"
@@ -267,7 +258,7 @@
       "hook": "What if the Moon vanished tonight? The first thing you'd notice isn't the dark.",
       "published_at": "2026-10-25T21:00:16Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UBTO3oOKAF0"
@@ -297,14 +288,14 @@
       "url": "https://youtube.com/shorts/a9uI0J8lYDA"
     },
     "PyXFeRMftHU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -313,11 +304,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you fell into a black hole? Which one matters more than you'd think.",
-      "published_at": "2026-10-26T16:28:20Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-26T17:00:07Z",
+      "privacy": "public",
+      "views": 188,
+      "likes": 6,
+      "comments": 1,
       "url": "https://youtube.com/shorts/PyXFeRMftHU"
     },
     "2bwg6x0eZVY": {
@@ -339,20 +330,20 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 891,
+      "views": 915,
       "likes": 19,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY"
     },
     "jwre0VbiRCc": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -361,11 +352,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if the Sun suddenly vanished? For eight minutes, nobody would know.",
-      "published_at": "2026-10-26T15:06:00Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-26T16:30:05Z",
+      "privacy": "public",
+      "views": 27,
+      "likes": 2,
+      "comments": 1,
       "url": "https://youtube.com/shorts/jwre0VbiRCc"
     }
   }
