@@ -15,6 +15,7 @@ import hashlib
 import json
 import os
 import random
+import re
 import subprocess
 import time
 import urllib.parse
@@ -47,6 +48,41 @@ TOPIC_FALLBACK_QUERIES = {
     "internet": ["phone scrolling social media", "studio camera recording", "server room blinking lights"],
 }
 GENERIC_QUERIES = ["abstract background", "dark texture", "clouds timelapse"]
+
+# Words that describe a shot rather than name its subject; ignored when working out what a video is about.
+_FOCUS_STOP = set("""close up closeup macro slow motion water sky field river ocean sea forest tree trees mountain mountains night day sun
+clouds grass sand rock rocks snow ice underwater flying swimming running walking eating feeding hunting jumping diving sleeping baby young
+group herd flock pack large small big dark light the a an of in on and with at to for from its his her their person people man woman
+hand hands face head eyes eye body animal animals wildlife nature timelapse aerial view background shot slowmo footage video
+close-up detail details scene silhouette sunset sunrise tropical wild""".split())
+
+
+def footage_focus(scenes: list[dict]) -> list[str]:
+    """What a single-subject video is about, from its scenes' footage keywords: the word most scenes share
+    ("alligator", "bison"), or the two-word name built around it when that repeats ("leafcutter ants",
+    "sea cucumber"). Tried before the generic topic searches, so a scene whose exact search finds nothing
+    still shows the right animal instead of random wildlife. [] when nothing repeats."""
+    import collections
+    toks = [re.findall(r"[a-z][a-z'-]+", str(s.get("keywords", "")).lower()) for s in scenes]
+    uni: collections.Counter = collections.Counter(); first: dict[str, int] = {}
+    for ws in toks:
+        for w in dict.fromkeys(ws):
+            if w not in _FOCUS_STOP and len(w) >= 3:
+                uni[w] += 1
+                first.setdefault(w, len(first))
+    if not uni:
+        return []
+    word, n = max(uni.items(), key=lambda kv: (kv[1], -first[kv[0]]))
+    if n < 2:
+        return []
+    pairs: collections.Counter = collections.Counter()
+    for ws in toks:
+        for a, b in dict.fromkeys(zip(ws, ws[1:])):
+            if word in (a, b) and not (a in _FOCUS_STOP and b in _FOCUS_STOP):
+                pairs[f"{a} {b}"] += 1
+    best = [p for p, c in pairs.most_common() if c >= 2]
+    return [best[0]] if best else [word]
+
 
 # Palettes for the procedural fallback: three colours per topic.
 TOPIC_PALETTES = {
@@ -93,9 +129,10 @@ def _get_json(url: str, params: dict, headers: dict | None = None) -> dict | Non
 
 
 class Visuals:
-    def __init__(self, cfg: Config, workdir: Path, seed: str, topic: str, subject: str = ""):
+    def __init__(self, cfg: Config, workdir: Path, seed: str, topic: str, subject: str = "", focus: list[str] | None = None):
         self.cfg = cfg
         self.subject = (subject or "").strip()   # drawn mode: the thing every picture is about ("brown pelican")
+        self.focus = [q for q in (focus or []) if q]   # footage mode: searched before generic topic clips
         self.workdir = workdir
         self.rng = random.Random(seed)
         self.topic = (topic or "").lower()
@@ -254,7 +291,8 @@ class Visuals:
             if found:
                 return found
         # Specific query first across all providers, so a relevant photo beats a generic video.
-        queries = [keywords] + TOPIC_FALLBACK_QUERIES.get(self.topic, [])[:2] + GENERIC_QUERIES[:1]
+        queries = ([keywords] + [q for q in self.focus if q.lower() != keywords.lower().strip()]
+                   + TOPIC_FALLBACK_QUERIES.get(self.topic, [])[:2] + GENERIC_QUERIES[:1])
         providers = (self._pixabay_videos, self._pexels_videos, self._pixabay_photos)
         for q in queries:
             for provider in providers:

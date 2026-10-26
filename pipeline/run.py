@@ -26,7 +26,7 @@ from .config import (FAILED_DIR, LONGFORM_FAILED_DIR, LONGFORM_QUEUE_DIR, OUTPUT
                      ensure_dirs, load_config)
 from .render import assemble_voice, concat_clips, make_thumbnail, pick_music, render_final
 from .validate import is_longform, validate_longform, validate_package
-from .visuals import Visuals
+from .visuals import Visuals, footage_focus
 
 MAX_ATTEMPTS = 4   # 26 Oct: with the voice pinned to Microsoft, a short outage should not push good ideas out of the queue
 MAX_WAIT_MINUTES = 70      # longest a run will wait for a free upload slot before leaving the rest for the next run
@@ -522,7 +522,10 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
     subject = (pkg.get("subject") or " ".join(str(pkg["scenes"][0].get("keywords", "")).split()[:2])).strip()
     if is_ranking(pkg):
         subject = ""   # a ranking shows five different animals: every scene's own keywords drive its picture
-    vis = Visuals(cfg, outdir / "clips", seed=pkg["id"], topic=pkg.get("topic", ""), subject=subject)
+    focus = [] if is_ranking(pkg) else footage_focus(pkg["scenes"])   # a ranking shows five different subjects
+    if focus:
+        print(f"[run] footage focus: {focus}")
+    vis = Visuals(cfg, outdir / "clips", seed=pkg["id"], topic=pkg.get("topic", ""), subject=subject, focus=focus)
     # Faster cuts: a scene longer than a few seconds is covered by 2-3 different clips of the same
     # search, each a whole number of frames so the picture never drifts from the voice.
     plan = plan_clips(durations, keywords, cfg)
