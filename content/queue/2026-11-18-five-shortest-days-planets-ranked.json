@@ -1,0 +1,69 @@
+{
+  "id": "2026-11-18-five-shortest-days-planets-ranked",
+  "format": "ranking",
+  "ranking_by": "rotation period",
+  "topic": "space",
+  "title": "The 5 Shortest Days in the Solar System, Ranked (#1 Is a Giant)",
+  "scenes": [
+    {
+      "text": "The five planets with the shortest days, ranked. The biggest planet of all spins fastest.",
+      "keywords": "jupiter planet spinning"
+    },
+    {
+      "text": "Number five: Earth. About twenty-four hours, the slowest spinner on this list.",
+      "keywords": "earth from space rotating",
+      "rank": 5,
+      "label": "Earth · 24 hours"
+    },
+    {
+      "text": "Number four: Uranus. About seventeen hours, and it spins tipped on its side.",
+      "keywords": "uranus planet",
+      "rank": 4,
+      "label": "Uranus · 17 hours"
+    },
+    {
+      "text": "Number three: Neptune. About sixteen hours, at the far edge of the solar system.",
+      "keywords": "neptune planet",
+      "rank": 3,
+      "label": "Neptune · 16 hours"
+    },
+    {
+      "text": "Number two: Saturn. About ten hours and forty minutes, fast enough to bulge at its equator.",
+      "keywords": "saturn planet rings",
+      "rank": 2,
+      "label": "Saturn · 10.7 hours"
+    },
+    {
+      "text": "Number one: Jupiter. A day lasts under ten hours, on a planet that could hold over a thousand Earths.",
+      "keywords": "jupiter great red spot",
+      "rank": 1,
+      "label": "Jupiter · 9.9 hours"
+    }
+  ],
+  "description": "The five planets with the shortest days, ranked by how long one spin takes.\nFrom Earth's twenty-four hours to Jupiter, the giant that spins in under ten.\nWhich planet would you want the shortest day on?",
+  "tags": [
+    "shortest day planets",
+    "planet rotation",
+    "jupiter facts",
+    "saturn facts",
+    "space rankings",
+    "top 5 space",
+    "space facts",
+    "solar system facts",
+    "planet day length",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#planets",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.syfy.com/syfy-wire/how-long-is-a-day-on-jupiter-saturn-uranus-and-neptune",
+    "https://www.astronomy.com/science/clocking-neptunes-spin/"
+  ],
+  "thumbnail_text": "5 SHORTEST DAYS, RANKED",
+  "priority": 5,
+  "first_comment": "Would you want a ten-hour day? And what should we rank next?"
+}
