@@ -1,21 +1,28 @@
 {
-  "updated_at": "2026-10-26T04:17:22+00:00",
+  "updated_at": "2026-10-26T11:51:09+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 57,
+    "subscribers": 56,
     "channel_views": 39622,
     "video_count": 105
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/nib97oLvxwI",
+      "https://youtube.com/shorts/MvTzV6WNdAA"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/MvTzV6WNdAA"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/MvTzV6WNdAA"
+    ]
   },
   "retention": {
     "videos_with_data": 88,
@@ -85,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 103,
-  "total_views": 40331,
+  "total_videos": 105,
+  "total_views": 40424,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -95,12 +102,12 @@
     },
     "science": {
       "videos": 15,
-      "avg_views": 354,
+      "avg_views": 355,
       "best_views": 1648
     },
     "animals": {
-      "videos": 53,
-      "avg_views": 417,
+      "videos": 55,
+      "avg_views": 404,
       "best_views": 1507
     },
     "human body": {
@@ -126,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 87,
-      "avg_views": 385,
+      "videos": 89,
+      "avg_views": 378,
       "over_1500": 3
     },
     "punch": {
@@ -146,8 +153,8 @@
       "avg_views": 13
     },
     "en-US-AndrewNeural": {
-      "videos": 17,
-      "avg_views": 131
+      "videos": 19,
+      "avg_views": 121
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -944,8 +951,8 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 26,
-      "likes": 4,
+      "views": 35,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
     },
@@ -997,7 +1004,7 @@
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
       "views": 1110,
-      "likes": 26,
+      "likes": 25,
       "comments": 3,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k",
       "avg_view_seconds": 18.0,
@@ -1025,7 +1032,7 @@
       "published_at": "2026-10-17T13:00:24Z",
       "privacy": "public",
       "views": 1648,
-      "likes": 38,
+      "likes": 37,
       "comments": 3,
       "url": "https://youtube.com/shorts/pSgxXZHFEbg",
       "avg_view_seconds": 26.0,
@@ -1696,7 +1703,7 @@
       "hook": "This frog breaks its own bones to grow claws.",
       "published_at": "2026-10-20T21:00:37Z",
       "privacy": "public",
-      "views": 487,
+      "views": 486,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/xBKMr5_ouYQ",
@@ -2448,7 +2455,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 77,
+      "views": 79,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww"
@@ -2496,8 +2503,8 @@
       "hook": "This worm lives in water hotter than 140 degrees.",
       "published_at": "2026-10-25T00:00:28Z",
       "privacy": "public",
-      "views": 79,
-      "likes": 7,
+      "views": 87,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q"
     },
@@ -2520,7 +2527,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 418,
+      "views": 433,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2600,7 +2607,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1027,
+      "views": 1039,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -2684,7 +2691,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 105,
+      "views": 106,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A",
@@ -2740,7 +2747,7 @@
       "hook": "This bird can fly for two months without ever landing.",
       "published_at": "2026-10-25T02:15:36Z",
       "privacy": "public",
-      "views": 1022,
+      "views": 1024,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU"
@@ -2764,7 +2771,7 @@
       "hook": "A leopard can haul prey heavier than itself up a tree.",
       "published_at": "2026-10-25T02:40:00Z",
       "privacy": "public",
-      "views": 126,
+      "views": 127,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/wgJfNru7RlQ"
@@ -2844,10 +2851,34 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 55,
-      "likes": 1,
+      "views": 83,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
+    },
+    "nib97oLvxwI": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT28S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Crocodiles Can't Chew, So They Spin Instead",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Crocodiles can't chew, so they spin.",
+      "published_at": "2026-10-26T11:49:10Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/nib97oLvxwI"
     },
     "HS8O59SC0rc": {
       "upload_status": "processed",
@@ -2877,6 +2908,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "MvTzV6WNdAA": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Condor Flew 100 Miles Without Flapping Its Wings Once",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A condor flew over a hundred miles without flapping once.",
+      "published_at": "2026-10-26T11:51:01Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/MvTzV6WNdAA"
+    },
     "tq008mZVJQU": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -2896,7 +2951,7 @@
       "hook": "The most successful hunter in Africa isn't a lion.",
       "published_at": "2026-10-25T21:00:13Z",
       "privacy": "public",
-      "views": 185,
+      "views": 188,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU"
@@ -2948,8 +3003,8 @@
       "hook": "A sloth can hold its breath for forty minutes.",
       "published_at": "2026-10-26T02:30:27Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 0,
+      "views": 16,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MB2BicyS1rs"
     },
@@ -2972,7 +3027,7 @@
       "hook": "Four astronauts just flew 100 million miles without leaving orbit.",
       "published_at": "2026-10-25T14:10:31Z",
       "privacy": "public",
-      "views": 17,
+      "views": 18,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/O2zL5iipSFs"
