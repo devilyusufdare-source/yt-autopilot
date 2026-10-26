@@ -1,0 +1,57 @@
+{
+  "id": "2027-04-29-what-if-the-air-hit-35-degrees-wet-bulb",
+  "format": "whatif",
+  "topic": "body",
+  "priority": 5,
+  "title": "What If Heat and Humidity Hit the Limit Your Body Can Survive?",
+  "scenes": [
+    {
+      "text": "What if sweating stopped working? Even in the shade, you'd be in trouble.",
+      "keywords": "humid city heat haze"
+    },
+    {
+      "text": "Sweat cools you only by evaporating. At 35 degrees Celsius wet-bulb, that cooling fails.",
+      "keywords": "sweat skin close up"
+    },
+    {
+      "text": "That could be 35 degrees at one hundred percent humidity, or about 46 at fifty percent.",
+      "keywords": "thermometer hot"
+    },
+    {
+      "text": "Your core temperature climbs, and researchers estimate a healthy person is in danger after about six hours.",
+      "keywords": "hospital emergency heat"
+    },
+    {
+      "text": "It has been touched only briefly, mostly in South Asia and the Persian Gulf, never longer than two hours.",
+      "keywords": "persian gulf coast city"
+    },
+    {
+      "text": "And newer lab tests suggest trouble can start closer to 31 degrees wet-bulb.",
+      "keywords": "heat chamber experiment"
+    }
+  ],
+  "description": "What if heat and humidity reached the limit your body can survive?\nAt 35 degrees Celsius wet-bulb, sweat can't cool you. It has only been reached briefly, in a few places.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "wet bulb temperature",
+    "heat wave",
+    "climate science",
+    "human body",
+    "body facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#heat",
+    "#science"
+  ],
+  "sources": [
+    "https://www.climate.gov/news-features/featured-images/brief-periods-dangerous-humid-heat-arrive-decades-early",
+    "https://www.sciencealert.com/?p=102864"
+  ],
+  "thumbnail_text": "WHAT IF SWEAT STOPPED WORKING?",
+  "first_comment": "How hot is too hot where you live? Tell us your own what-if."
+}
