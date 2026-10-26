@@ -1,0 +1,71 @@
+{
+  "id": "2026-10-29-five-fastest-supercomputers-ranked",
+  "format": "ranking",
+  "ranking_by": "Rmax speed on the June 2026 TOP500 list",
+  "topic": "technology",
+  "title": "The 5 Fastest Supercomputers on Earth, Ranked (#1 Is Brand New)",
+  "scenes": [
+    {
+      "text": "Only five computers on Earth are this fast. Number one is brand new.",
+      "keywords": "supercomputer server room"
+    },
+    {
+      "rank": 5,
+      "label": "JUPITER · 1.00 exaflops",
+      "text": "Number five: JUPITER, in Germany. Exactly one exaflop, a quintillion calculations every second.",
+      "keywords": "data center servers"
+    },
+    {
+      "rank": 4,
+      "label": "Aurora · 1.01 exaflops",
+      "text": "Number four: Aurora, a national laboratory machine in Illinois. About 1.01 exaflops, barely ahead of JUPITER.",
+      "keywords": "supercomputer racks"
+    },
+    {
+      "rank": 3,
+      "label": "Frontier · 1.35 exaflops",
+      "text": "Number three: Frontier, in Tennessee. About 1.35 exaflops, and it was once the fastest computer on Earth.",
+      "keywords": "computer cluster lights"
+    },
+    {
+      "rank": 2,
+      "label": "El Capitan · 1.8 exaflops",
+      "text": "Number two: El Capitan, in California. About 1.8 exaflops, and it held first place until June 2026.",
+      "keywords": "supercomputer cooling pipes"
+    },
+    {
+      "rank": 1,
+      "label": "LineShine · 2.2 exaflops",
+      "text": "Number one: China's LineShine. About 2.2 exaflops, and it runs entirely on ordinary processors, not graphics chips.",
+      "keywords": "computer processor chip"
+    }
+  ],
+  "description": "The five fastest supercomputers on Earth, ranked by speed on the June 2026 TOP500 list.\nNumber one, China's LineShine, took the crown from America's El Capitan.\nWhich country do you think holds the top spot next year?",
+  "tags": [
+    "fastest supercomputer",
+    "lineshine",
+    "el capitan",
+    "top500",
+    "exascale",
+    "supercomputers",
+    "technology facts",
+    "tech rankings",
+    "frontier supercomputer",
+    "aurora supercomputer",
+    "computer facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#technology",
+    "#supercomputer",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.top500.org/lists/top500/2026/06/highs",
+    "https://english.ahram.org.eg/News/571546.aspx"
+  ],
+  "thumbnail_text": "5 FASTEST SUPERCOMPUTERS",
+  "priority": 6,
+  "first_comment": "Did you expect China at number one? Which tech record should we rank next?"
+}

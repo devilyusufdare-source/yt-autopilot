@@ -1,0 +1,72 @@
+{
+  "id": "2026-10-29-five-strongest-animal-bites-ranked",
+  "format": "ranking",
+  "ranking_by": "bite force in pounds per square inch (psi), measured or modeled",
+  "topic": "animals",
+  "title": "The 5 Strongest Animal Bites, Ranked (#1 Isn't on Land)",
+  "scenes": [
+    {
+      "text": "Lions and tigers don't make this list. Number one isn't a land animal.",
+      "keywords": "african lion roaring"
+    },
+    {
+      "rank": 5,
+      "label": "Jaguar · 1,500 psi",
+      "text": "Number five: the jaguar. Around fifteen hundred psi, stronger than a tiger's bite or a lion's.",
+      "keywords": "jaguar"
+    },
+    {
+      "rank": 4,
+      "label": "Hippo · 1,800 psi",
+      "text": "Number four: the hippopotamus. About eighteen hundred psi, and it eats plants.",
+      "keywords": "hippopotamus"
+    },
+    {
+      "rank": 3,
+      "label": "Alligator · 2,100 psi",
+      "text": "Number three: the American alligator. About twenty-one hundred psi, more than the hippo.",
+      "keywords": "american alligator"
+    },
+    {
+      "rank": 2,
+      "label": "Saltwater croc · 3,700 psi",
+      "text": "Number two: the saltwater crocodile. Researchers measured about thirty-seven hundred psi in a live one.",
+      "keywords": "saltwater crocodile"
+    },
+    {
+      "rank": 1,
+      "label": "Great white · 4,000 psi",
+      "text": "Number one: the great white shark. Models of a huge twenty-one footer suggest about four thousand psi.",
+      "keywords": "great white shark"
+    }
+  ],
+  "description": "The five strongest animal bites, ranked by bite force in pounds per square inch.\nNumber one is a modeled figure for a huge 21-foot great white, so treat it as an estimate.\nWhich animal would you put at number one?",
+  "tags": [
+    "strongest bite",
+    "bite force",
+    "great white shark",
+    "saltwater crocodile",
+    "hippopotamus",
+    "jaguar",
+    "american alligator",
+    "animal facts",
+    "animal rankings",
+    "strongest animals",
+    "nature facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#sharks",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.sciencefocus.com/nature/top-10-which-animals-have-the-strongest-bite",
+    "https://www.fieldandstream.com/survival/10-most-powerful-animal-bites-on-planet",
+    "https://www.grandviewoutdoors.com/lifestyle/big-bites-animals-that-have-the-strongest-jaws"
+  ],
+  "thumbnail_text": "5 STRONGEST BITES, RANKED",
+  "priority": 5,
+  "first_comment": "Did the shark surprise you? Which animal should we rank next?"
+}

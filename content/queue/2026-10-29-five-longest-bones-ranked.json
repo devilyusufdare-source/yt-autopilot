@@ -1,0 +1,74 @@
+{
+  "id": "2026-10-29-five-longest-bones-ranked",
+  "format": "ranking",
+  "ranking_by": "length of the bone (adult average)",
+  "topic": "human body",
+  "title": "The 5 Longest Bones in Your Body, Ranked (#1 Holds You Up)",
+  "scenes": [
+    {
+      "text": "Three of your five longest bones are in your legs. Number one holds up your whole body.",
+      "keywords": "human skeleton x-ray"
+    },
+    {
+      "rank": 5,
+      "label": "Ulna · 11 in",
+      "text": "Number five: the ulna, in your forearm. About eleven inches long in most adults.",
+      "keywords": "forearm bones x-ray"
+    },
+    {
+      "rank": 4,
+      "label": "Humerus · 12 in",
+      "text": "Number four: the humerus, your upper arm bone. About twelve inches, the longest bone outside your legs.",
+      "keywords": "arm bone x-ray"
+    },
+    {
+      "rank": 3,
+      "label": "Fibula · 14 in",
+      "text": "Number three: the fibula, the thin bone beside your shin. Around fourteen inches, but much slimmer than its neighbor.",
+      "keywords": "leg bones x-ray"
+    },
+    {
+      "rank": 2,
+      "label": "Tibia · 15 in",
+      "text": "Number two: the tibia, your shin bone. About fifteen inches, the second-longest bone you own.",
+      "keywords": "shin bone x-ray"
+    },
+    {
+      "rank": 1,
+      "label": "Femur · 18 in",
+      "text": "Number one: the femur, your thigh bone. About eighteen inches in most adults, and the longest, strongest bone you have.",
+      "keywords": "femur thigh bone"
+    }
+  ],
+  "description": "The five longest bones in your body, ranked by average adult length.\nThree of them are in your legs, and number one is about eighteen inches long.\nWhich bone did you think was number one?",
+  "tags": [
+    "longest bones",
+    "femur",
+    "human skeleton",
+    "human body facts",
+    "body rankings",
+    "tibia",
+    "humerus",
+    "fibula",
+    "anatomy facts",
+    "longest bone in body",
+    "science facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#anatomy",
+    "#ranking"
+  ],
+  "sources": [
+    "https://my.clevelandclinic.org/health/body/22503-femur",
+    "https://my.clevelandclinic.org/health/body/23026-tibia",
+    "https://my.clevelandclinic.org/health/body/23122-fibula-calf-bone",
+    "https://my.clevelandclinic.org/health/body/24612-humerus",
+    "https://my.clevelandclinic.org/health/body/24520-ulna"
+  ],
+  "thumbnail_text": "5 LONGEST BONES, RANKED",
+  "priority": 5,
+  "first_comment": "Did you expect the femur at number one? Which body part should we rank next?"
+}
