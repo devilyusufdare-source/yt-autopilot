@@ -56,5 +56,7 @@
   "thumbnail_text": "NOT A BEAR. A BISON.",
   "priority": 8,
   "first_comment": "Rangers say 25 yards for bison, and 100 yards for bears and wolves. Did you know the distances are different?",
-  "_attempts": 1
+  "_attempts": 2,
+  "_error": "failed 2x: sampling rate not specified",
+  "_failed_at": "2026-10-26T02:01:33+00:00"
 }

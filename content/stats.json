@@ -1,15 +1,17 @@
 {
-  "updated_at": "2026-10-25T23:33:27+00:00",
+  "updated_at": "2026-10-26T02:01:35+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 55,
+    "subscribers": 56,
     "channel_views": 39622,
     "video_count": 104
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/MB2BicyS1rs"
+    ],
     "made_for_kids": [],
     "not_processed": [],
     "rejected": [],
@@ -85,8 +87,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 102,
-  "total_views": 40165,
+  "total_videos": 103,
+  "total_views": 40265,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -95,12 +97,12 @@
     },
     "science": {
       "videos": 15,
-      "avg_views": 353,
+      "avg_views": 354,
       "best_views": 1648
     },
     "animals": {
-      "videos": 52,
-      "avg_views": 423,
+      "videos": 53,
+      "avg_views": 416,
       "best_views": 1507
     },
     "human body": {
@@ -115,7 +117,7 @@
     },
     "space": {
       "videos": 18,
-      "avg_views": 452,
+      "avg_views": 453,
       "best_views": 1512
     },
     "technology": {
@@ -126,8 +128,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 86,
-      "avg_views": 388,
+      "videos": 87,
+      "avg_views": 385,
       "over_1500": 3
     },
     "punch": {
@@ -146,8 +148,8 @@
       "avg_views": 13
     },
     "en-US-AndrewNeural": {
-      "videos": 16,
-      "avg_views": 129
+      "videos": 17,
+      "avg_views": 127
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -944,8 +946,8 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 7,
-      "likes": 1,
+      "views": 20,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
     },
@@ -1948,7 +1950,7 @@
       "hook": "In 1945, a chicken lost its head and lived another 18 months.",
       "published_at": "2026-10-21T16:30:28Z",
       "privacy": "public",
-      "views": 57,
+      "views": 58,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/ExE2WcB7uRI",
@@ -2448,7 +2450,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 67,
+      "views": 72,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww"
@@ -2496,8 +2498,8 @@
       "hook": "This worm lives in water hotter than 140 degrees.",
       "published_at": "2026-10-25T00:00:28Z",
       "privacy": "public",
-      "views": 75,
-      "likes": 5,
+      "views": 76,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q"
     },
@@ -2520,7 +2522,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 387,
+      "views": 415,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0"
@@ -2600,7 +2602,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1016,
+      "views": 1023,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -2740,7 +2742,7 @@
       "hook": "This bird can fly for two months without ever landing.",
       "published_at": "2026-10-25T02:15:36Z",
       "privacy": "public",
-      "views": 1021,
+      "views": 1022,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU"
@@ -2844,8 +2846,8 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 32,
-      "likes": 0,
+      "views": 59,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
     },
@@ -2896,7 +2898,7 @@
       "hook": "The most successful hunter in Africa isn't a lion.",
       "published_at": "2026-10-25T21:00:13Z",
       "privacy": "public",
-      "views": 130,
+      "views": 144,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU"
@@ -2929,6 +2931,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "MB2BicyS1rs": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT23S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Sloth Can Hold Its Breath for 40 Minutes, Longer Than a Dolphin",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A sloth can hold its breath for forty minutes.",
+      "published_at": "2026-10-26T02:01:10Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/MB2BicyS1rs"
+    },
     "O2zL5iipSFs": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -2948,7 +2974,7 @@
       "hook": "Four astronauts just flew 100 million miles without leaving orbit.",
       "published_at": "2026-10-25T14:10:31Z",
       "privacy": "public",
-      "views": 13,
+      "views": 16,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/O2zL5iipSFs"
