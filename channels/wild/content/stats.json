@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T15:06:04+00:00",
+  "updated_at": "2026-10-26T16:28:23+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -10,63 +10,66 @@
   },
   "diagnosis": {
     "not_public": [
+      "https://youtube.com/shorts/PyXFeRMftHU",
       "https://youtube.com/shorts/jwre0VbiRCc"
     ],
     "made_for_kids": [],
     "not_processed": [
+      "https://youtube.com/shorts/PyXFeRMftHU",
       "https://youtube.com/shorts/jwre0VbiRCc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
+      "https://youtube.com/shorts/PyXFeRMftHU",
       "https://youtube.com/shorts/jwre0VbiRCc"
     ]
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
-  "total_videos": 9,
-  "total_views": 4850,
+  "total_videos": 10,
+  "total_views": 4899,
   "by_topic": {
     "earth": {
       "videos": 3,
-      "avg_views": 462,
-      "best_views": 847
+      "avg_views": 477,
+      "best_views": 891
     },
     "space": {
-      "videos": 4,
-      "avg_views": 410,
+      "videos": 5,
+      "avg_views": 328,
       "best_views": 1278
     },
     "society": {
       "videos": 1,
-      "avg_views": 410,
-      "best_views": 410
+      "avg_views": 411,
+      "best_views": 411
     },
     "animals": {
       "videos": 1,
-      "avg_views": 1412,
-      "best_views": 1412
+      "avg_views": 1415,
+      "best_views": 1415
     }
   },
   "by_style": {
     "classic": {
-      "videos": 9,
-      "avg_views": 539,
+      "videos": 10,
+      "avg_views": 490,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 9,
-      "avg_views": 539
+      "videos": 10,
+      "avg_views": 490
     }
   },
   "top_videos": [
     {
       "title": "What If Every Mosquito Went Extinct?",
       "topic": "animals",
-      "views": 1412,
+      "views": 1415,
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
     },
     {
@@ -78,7 +81,7 @@
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 847,
+      "views": 891,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -90,13 +93,13 @@
     {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
-      "views": 410,
+      "views": 411,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
     },
     {
       "title": "What If the Sun Went Out Right Now?",
       "topic": "space",
-      "views": 353,
+      "views": 354,
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes."
     },
     {
@@ -110,6 +113,12 @@
       "topic": "space",
       "views": 10,
       "hook": "What if the Moon vanished tonight? The first thing you'd notice isn't the dark."
+    },
+    {
+      "title": "What If You Fell Into a Black Hole?",
+      "topic": "space",
+      "views": 0,
+      "hook": "What if you fell into a black hole? Which one matters more than you'd think."
     },
     {
       "title": "What If the Sun Suddenly Disappeared?",
@@ -210,7 +219,7 @@
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely.",
       "published_at": "2026-10-24T13:40:39Z",
       "privacy": "public",
-      "views": 410,
+      "views": 411,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c"
@@ -234,7 +243,7 @@
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
       "published_at": "2026-10-24T21:00:32Z",
       "privacy": "public",
-      "views": 1412,
+      "views": 1415,
       "likes": 27,
       "comments": 4,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg"
@@ -282,10 +291,34 @@
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes.",
       "published_at": "2026-10-26T02:30:21Z",
       "privacy": "public",
-      "views": 353,
+      "views": 354,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/a9uI0J8lYDA"
+    },
+    "PyXFeRMftHU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Fell Into a Black Hole?",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you fell into a black hole? Which one matters more than you'd think.",
+      "published_at": "2026-10-26T16:28:20Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/PyXFeRMftHU"
     },
     "2bwg6x0eZVY": {
       "upload_status": "processed",
@@ -306,7 +339,7 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 847,
+      "views": 891,
       "likes": 19,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY"
