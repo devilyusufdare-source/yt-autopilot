@@ -1,38 +1,31 @@
 {
-  "updated_at": "2026-10-26T17:45:13+00:00",
+  "updated_at": "2026-10-26T19:23:28+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 40530,
-    "video_count": 111
+    "video_count": 113
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/LCa_cpMsZOQ",
-      "https://youtube.com/shorts/_X77GXV_cLE"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/_X77GXV_cLE"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/_X77GXV_cLE"
-    ]
+    "sd_only": []
   },
   "retention": {
-    "videos_with_data": 88,
-    "avg_view_percent": 69.9,
+    "videos_with_data": 95,
+    "avg_view_percent": 69.4,
     "by_topic": {
       "psychology": 71.3,
       "science": 65.9,
-      "animals": 72.4,
+      "animals": 71.7,
       "human body": 86.7,
-      "history": 56.6,
+      "history": 54.0,
       "space": 72.4,
       "technology": 28.3
     },
@@ -93,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 111,
-  "total_views": 40570,
+  "total_views": 40617,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -107,7 +100,7 @@
     },
     "animals": {
       "videos": 60,
-      "avg_views": 372,
+      "avg_views": 373,
       "best_views": 1507
     },
     "human body": {
@@ -134,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 95,
-      "avg_views": 355,
+      "avg_views": 356,
       "over_1500": 3
     },
     "punch": {
@@ -146,7 +139,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 25,
-      "avg_views": 97
+      "avg_views": 99
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -162,7 +155,7 @@
     },
     "en-US-AvaMultilingualNeural": {
       "videos": 1,
-      "avg_views": 20
+      "avg_views": 21
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -784,7 +777,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo",
       "avg_view_seconds": 22.0,
-      "avg_view_percent": 54.3,
+      "avg_view_percent": 55.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -811,8 +804,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PBbydRJloRA",
-      "avg_view_seconds": 28.0,
-      "avg_view_percent": 70.2,
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 65.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -839,8 +832,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/pp65J4Foq4E",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 48.7,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 45.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -861,11 +854,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
-      "published_at": "2026-10-26T16:32:50Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-26T18:00:13Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ"
     },
     "_iAc9-aQoR4": {
@@ -919,8 +912,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C2m63XKX8rg",
-      "avg_view_seconds": 44.0,
-      "avg_view_percent": 80.9,
+      "avg_view_seconds": 33.0,
+      "avg_view_percent": 60.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -981,14 +974,14 @@
       "subscribers_gained": 0
     },
     "_X77GXV_cLE": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT23S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -997,9 +990,9 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Thirty-three engines fire at once.",
-      "published_at": "2026-10-26T17:45:05Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-26T18:30:19Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/_X77GXV_cLE"
@@ -1360,7 +1353,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw",
       "avg_view_seconds": 36.0,
-      "avg_view_percent": 85.5,
+      "avg_view_percent": 85.3,
       "shares": 1,
       "subscribers_gained": 1
     },
@@ -1388,7 +1381,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/a_7ULbNzldk",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 73.1,
+      "avg_view_percent": 73.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1635,7 +1628,7 @@
       "hook": "In 1958, a wave 1,720 feet tall hit Alaska.",
       "published_at": "2026-10-18T22:30:27Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/oUmGCbVNL3k",
@@ -1915,7 +1908,7 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 1011,
+      "views": 1012,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/wyObPwWsA0g",
@@ -2088,7 +2081,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4",
       "avg_view_seconds": 17.0,
-      "avg_view_percent": 49.3,
+      "avg_view_percent": 49.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2167,10 +2160,14 @@
       "hook": "This bird flew 8,400 miles without landing. Eleven days.",
       "published_at": "2026-10-24T15:00:18Z",
       "privacy": "public",
-      "views": 20,
+      "views": 21,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/jLxl9OEAacQ"
+      "url": "https://youtube.com/shorts/jLxl9OEAacQ",
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 71.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "lSMWTUoJceo": {
       "upload_status": "processed",
@@ -2195,8 +2192,8 @@
       "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/lSMWTUoJceo",
-      "avg_view_seconds": 19.0,
-      "avg_view_percent": 53.1,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 51.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2224,7 +2221,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 41.5,
+      "avg_view_percent": 40.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2280,7 +2277,7 @@
       "comments": 2,
       "url": "https://youtube.com/shorts/650vI7wznrM",
       "avg_view_seconds": 10.0,
-      "avg_view_percent": 33.6,
+      "avg_view_percent": 33.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2476,7 +2473,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU",
       "avg_view_seconds": 8.0,
-      "avg_view_percent": 30.5,
+      "avg_view_percent": 29.4,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -2530,7 +2527,11 @@
       "views": 80,
       "likes": 6,
       "comments": 1,
-      "url": "https://youtube.com/shorts/_jeX-UKxfww"
+      "url": "https://youtube.com/shorts/_jeX-UKxfww",
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 42.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "kKWolYqlfOc": {
       "upload_status": "processed",
@@ -2554,7 +2555,11 @@
       "views": 37,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/kKWolYqlfOc"
+      "url": "https://youtube.com/shorts/kKWolYqlfOc",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 53.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "TKL8_1FJz8Q": {
       "upload_status": "processed",
@@ -2575,10 +2580,14 @@
       "hook": "This worm lives in water hotter than 140 degrees.",
       "published_at": "2026-10-25T00:00:28Z",
       "privacy": "public",
-      "views": 87,
+      "views": 88,
       "likes": 6,
       "comments": 1,
-      "url": "https://youtube.com/shorts/TKL8_1FJz8Q"
+      "url": "https://youtube.com/shorts/TKL8_1FJz8Q",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 77.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "EWLYa_RnJi0": {
       "upload_status": "processed",
@@ -2599,10 +2608,14 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 441,
+      "views": 454,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/EWLYa_RnJi0"
+      "url": "https://youtube.com/shorts/EWLYa_RnJi0",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 57.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "T4gdnphQUUE": {
       "upload_status": "processed",
@@ -2655,8 +2668,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MJ6FRS8q71M",
-      "avg_view_seconds": 10.0,
-      "avg_view_percent": 37.8,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 40.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2679,12 +2692,12 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1043,
+      "views": 1049,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 57.3,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 63.1,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -2711,8 +2724,8 @@
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 53.6,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 48.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2735,12 +2748,12 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 202,
+      "views": 201,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY",
-      "avg_view_seconds": 10.0,
-      "avg_view_percent": 46.9,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 48.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2768,7 +2781,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 42.5,
+      "avg_view_percent": 43.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2795,8 +2808,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 62.3,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 68.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2822,7 +2835,11 @@
       "views": 1024,
       "likes": 6,
       "comments": 1,
-      "url": "https://youtube.com/shorts/3JIgcw-3dJU"
+      "url": "https://youtube.com/shorts/3JIgcw-3dJU",
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 91.7,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "wgJfNru7RlQ": {
       "upload_status": "processed",
@@ -2846,7 +2863,11 @@
       "views": 127,
       "likes": 4,
       "comments": 1,
-      "url": "https://youtube.com/shorts/wgJfNru7RlQ"
+      "url": "https://youtube.com/shorts/wgJfNru7RlQ",
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 73.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",
@@ -2947,7 +2968,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 55,
+      "views": 67,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
@@ -2999,7 +3020,7 @@
       "hook": "A condor flew over a hundred miles without flapping once.",
       "published_at": "2026-10-26T12:40:15Z",
       "privacy": "public",
-      "views": 11,
+      "views": 9,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA"
@@ -3099,7 +3120,7 @@
       "hook": "A sloth can hold its breath for forty minutes.",
       "published_at": "2026-10-26T02:30:27Z",
       "privacy": "public",
-      "views": 42,
+      "views": 45,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/MB2BicyS1rs"
@@ -3151,8 +3172,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 64.8,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 62.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3203,8 +3224,8 @@
       "hook": "Yellowstone's most dangerous animal isn't a bear.",
       "published_at": "2026-10-26T15:40:35Z",
       "privacy": "public",
-      "views": 8,
-      "likes": 0,
+      "views": 16,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TjxKsQKmMj4"
     },
@@ -3251,7 +3272,7 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
