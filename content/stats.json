@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-27T22:12:58+00:00",
+  "updated_at": "2026-10-27T23:42:09+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 40813,
-    "video_count": 124
+    "video_count": 125
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/pNq_22cuP4E"
+      "https://youtube.com/shorts/vhWj8eW74zg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/pNq_22cuP4E"
+      "https://youtube.com/shorts/vhWj8eW74zg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/pNq_22cuP4E"
+      "https://youtube.com/shorts/vhWj8eW74zg"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 123,
-  "total_views": 41195,
+  "total_videos": 124,
+  "total_views": 41257,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,7 +106,7 @@
     },
     "animals": {
       "videos": 71,
-      "avg_views": 322,
+      "avg_views": 323,
       "best_views": 1507
     },
     "human body": {
@@ -120,8 +120,8 @@
       "best_views": 1110
     },
     "space": {
-      "videos": 18,
-      "avg_views": 453,
+      "videos": 19,
+      "avg_views": 429,
       "best_views": 1512
     },
     "technology": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 107,
-      "avg_views": 321,
+      "videos": 108,
+      "avg_views": 319,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 37,
-      "avg_views": 82
+      "videos": 38,
+      "avg_views": 81
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -754,7 +754,7 @@
       "hook": "A diver once surfaced and asked, who told me to get out?",
       "published_at": "2026-10-26T16:50:11Z",
       "privacy": "public",
-      "views": 25,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w"
@@ -862,9 +862,9 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 17,
+      "views": 23,
       "likes": 2,
-      "comments": 1,
+      "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ"
     },
     "_iAc9-aQoR4": {
@@ -914,7 +914,7 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 41,
+      "views": 44,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k"
@@ -938,7 +938,7 @@
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
       "published_at": "2026-10-27T02:30:38Z",
       "privacy": "public",
-      "views": 68,
+      "views": 76,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8"
@@ -962,7 +962,7 @@
       "hook": "Divers off Japan kept finding perfect circles on the seabed. Nobody knew who made them.",
       "published_at": "2026-10-27T12:10:34Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sqsrbQ8u4jw"
@@ -996,14 +996,14 @@
       "subscribers_gained": 0
     },
     "pNq_22cuP4E": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT34S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1012,8 +1012,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
-      "published_at": "2026-10-27T22:12:50Z",
-      "privacy": "private",
+      "published_at": "2026-10-27T22:40:13Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -1038,7 +1038,7 @@
       "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
       "published_at": "2026-10-27T16:30:20Z",
       "privacy": "public",
-      "views": 4,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DmqaHptWqAY"
@@ -1062,8 +1062,8 @@
       "hook": "This worm has no mouth, no stomach, and it grows taller than you.",
       "published_at": "2026-10-27T14:00:23Z",
       "privacy": "public",
-      "views": 39,
-      "likes": 1,
+      "views": 41,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY"
     },
@@ -1114,7 +1114,7 @@
       "hook": "A tiny bird on the Galapagos drinks blood from birds far bigger than itself.",
       "published_at": "2026-10-27T17:00:25Z",
       "privacy": "public",
-      "views": 9,
+      "views": 15,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zlMkir0Z0S4"
@@ -1190,7 +1190,7 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 58,
+      "views": 59,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0",
@@ -1242,8 +1242,8 @@
       "hook": "This toad grows its babies inside her own back.",
       "published_at": "2026-10-27T18:20:03Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 15,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/qOYToJpqKag"
     },
@@ -1354,6 +1354,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vosG2Q9tRXk"
+    },
+    "vhWj8eW74zg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Planets With the Longest Days, Ranked (The Sun's Neighbor Is Only #2)",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The slowest-spinning planet is not the one closest to the Sun.",
+      "published_at": "2026-10-27T23:41:55Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/vhWj8eW74zg"
     },
     "UUHeyNuVn8M": {
       "upload_status": "processed",
@@ -2746,7 +2770,7 @@
       "hook": "There's water at 750 degrees that never boils.",
       "published_at": "2026-10-27T19:50:26Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/V5bBt2yI2PY"
@@ -2770,8 +2794,8 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 21,
-      "likes": 1,
+      "views": 41,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
     },
@@ -3374,7 +3398,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 21,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
