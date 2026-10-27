@@ -1,0 +1,57 @@
+{
+  "id": "2027-06-01-what-if-a-cosmic-ray-flipped-a-bit",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 7,
+  "title": "What If a Cosmic Ray Flipped One Bit in a Computer?",
+  "scenes": [
+    {
+      "text": "What if a cosmic ray flipped one bit in a computer? It may have once changed an election.",
+      "keywords": "cosmic ray particle"
+    },
+    {
+      "text": "In May 2003, a Belgian town counted electronic votes. One party's tally came out 4,096 votes too high.",
+      "keywords": "electronic voting machine"
+    },
+    {
+      "text": "Officials caught it because that party had more preferential votes than votes for its own list, which is impossible.",
+      "keywords": "election ballot counting"
+    },
+    {
+      "text": "The number is the clue. 4,096 is two to the power of twelve, exactly what one flipped bit adds.",
+      "keywords": "computer memory chip"
+    },
+    {
+      "text": "The government blamed a bit that appeared spontaneously in memory. One explanation is a cosmic ray hitting the chip.",
+      "keywords": "space radiation stars"
+    },
+    {
+      "text": "Smaller chips need less energy to hold a bit, so it takes less radiation to flip one. When the count was rerun, every other number matched.",
+      "keywords": "circuit board close up"
+    }
+  ],
+  "description": "What if a single cosmic ray flipped one bit in a computer?\nIn 2003, a Belgian election tally came out 4,096 votes too high, exactly what one flipped bit would add.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "cosmic ray",
+    "bit flip",
+    "single event upset",
+    "computer errors",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#cosmicray",
+    "#technology"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Electronic_voting_in_Belgium",
+    "https://www.johndcook.com/blog/2019/05/20/cosmic-rays-flipping-bits/"
+  ],
+  "thumbnail_text": "ONE COSMIC RAY. 4,096 VOTES.",
+  "first_comment": "Have you ever had a computer glitch you could never explain? Drop your own 'what if'."
+}
