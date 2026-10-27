@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-27T16:30:55+00:00",
+  "updated_at": "2026-10-27T17:54:13+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 40813,
-    "video_count": 119
+    "video_count": 121
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/zlMkir0Z0S4",
-      "https://youtube.com/shorts/hzWEks56BAU"
+      "https://youtube.com/shorts/qOYToJpqKag",
+      "https://youtube.com/shorts/4tjLDcWwrTM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/hzWEks56BAU"
+      "https://youtube.com/shorts/4tjLDcWwrTM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/hzWEks56BAU"
+      "https://youtube.com/shorts/4tjLDcWwrTM"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 119,
-  "total_views": 41015,
+  "total_videos": 121,
+  "total_views": 41055,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 68,
-      "avg_views": 334,
+      "videos": 70,
+      "avg_views": 325,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 103,
-      "avg_views": 332,
+      "videos": 105,
+      "avg_views": 326,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 33,
-      "avg_views": 86
+      "videos": 35,
+      "avg_views": 83
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -915,7 +915,7 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 38,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k"
@@ -1017,7 +1017,7 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/DmqaHptWqAY"
     },
     "MEVi7vL7saY": {
@@ -1089,11 +1089,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A tiny bird on the Galapagos drinks blood from birds far bigger than itself.",
-      "published_at": "2026-10-27T16:29:05Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-27T17:00:25Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/zlMkir0Z0S4"
     },
     "lrbMTCxwBCU": {
@@ -1173,14 +1173,14 @@
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
     },
     "hzWEks56BAU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT27S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1189,12 +1189,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This beetle does a headstand every night. It's how it drinks.",
-      "published_at": "2026-10-27T16:30:44Z",
+      "published_at": "2026-10-27T17:20:01Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/hzWEks56BAU"
+    },
+    "qOYToJpqKag": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT24S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Surinam Toad Babies Burst Out of Mom's Back Skin",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This toad grows its babies inside her own back.",
+      "published_at": "2026-10-27T17:51:58Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/hzWEks56BAU"
+      "url": "https://youtube.com/shorts/qOYToJpqKag"
     },
     "8nzpCGs_PM0": {
       "upload_status": "processed",
@@ -2676,6 +2700,30 @@
       "shares": 0,
       "subscribers_gained": 1
     },
+    "4tjLDcWwrTM": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Hippos Kill About 500 People a Year and Run at 22 mph",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Hippos kill about 500 people a year. And they only eat grass.",
+      "published_at": "2026-10-27T17:54:05Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/4tjLDcWwrTM"
+    },
     "TtDH4yL4P10": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -2947,7 +2995,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 204,
+      "views": 205,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY",
@@ -3143,7 +3191,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 101,
+      "views": 105,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -3167,7 +3215,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 96,
+      "views": 98,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
@@ -3219,7 +3267,7 @@
       "hook": "A condor flew over a hundred miles without flapping once.",
       "published_at": "2026-10-26T12:40:15Z",
       "privacy": "public",
-      "views": 26,
+      "views": 27,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA"
@@ -3267,7 +3315,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 15,
+      "views": 19,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
@@ -3423,7 +3471,7 @@
       "hook": "Yellowstone's most dangerous animal isn't a bear.",
       "published_at": "2026-10-26T15:40:35Z",
       "privacy": "public",
-      "views": 63,
+      "views": 88,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/TjxKsQKmMj4"
@@ -3471,7 +3519,7 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 14,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
