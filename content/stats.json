@@ -1,39 +1,38 @@
 {
-  "updated_at": "2026-10-27T17:54:13+00:00",
+  "updated_at": "2026-10-27T19:27:28+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 40813,
-    "video_count": 121
+    "video_count": 123
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/qOYToJpqKag",
-      "https://youtube.com/shorts/4tjLDcWwrTM"
+      "https://youtube.com/shorts/V5bBt2yI2PY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/4tjLDcWwrTM"
+      "https://youtube.com/shorts/V5bBt2yI2PY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/4tjLDcWwrTM"
+      "https://youtube.com/shorts/V5bBt2yI2PY"
     ]
   },
   "retention": {
-    "videos_with_data": 95,
-    "avg_view_percent": 69.4,
+    "videos_with_data": 101,
+    "avg_view_percent": 68.2,
     "by_topic": {
       "psychology": 71.3,
-      "science": 65.9,
-      "animals": 71.6,
+      "science": 67.3,
+      "animals": 70.2,
       "human body": 86.7,
-      "history": 54.0,
-      "space": 72.4,
+      "history": 54.4,
+      "space": 67.4,
       "technology": 28.3
     },
     "best": [
@@ -70,30 +69,30 @@
         "views": 2
       },
       {
+        "title": "A Man o' War Isn't a Jellyfish. It's a Colony With 150-Foot Stingers",
+        "avg_view_percent": 22.1,
+        "views": 105
+      },
+      {
         "title": "The Shortest War in History Lasted 38 Minutes",
         "avg_view_percent": 23.1,
         "views": 12
       },
       {
+        "title": "Europe's Hera Reaches the Asteroid NASA Smashed in December",
+        "avg_view_percent": 23.2,
+        "views": 1
+      },
+      {
         "title": "A Crocodile Bites With 3,700 Pounds of Force (Hardest Ever Measured)",
         "avg_view_percent": 27.6,
         "views": 111
-      },
-      {
-        "title": "Scientists Drilled 7.5 Miles Down. The Earth Fought Back",
-        "avg_view_percent": 28.3,
-        "views": 3
-      },
-      {
-        "title": "This Lake Gets Hit by Lightning Almost 300 Nights a Year",
-        "avg_view_percent": 29.2,
-        "views": 11
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 121,
-  "total_views": 41055,
+  "total_videos": 122,
+  "total_views": 41093,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,13 +100,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 15,
-      "avg_views": 356,
+      "videos": 16,
+      "avg_views": 334,
       "best_views": 1648
     },
     "animals": {
       "videos": 70,
-      "avg_views": 325,
+      "avg_views": 326,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 105,
-      "avg_views": 326,
+      "videos": 106,
+      "avg_views": 323,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 35,
-      "avg_views": 83
+      "videos": 36,
+      "avg_views": 81
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -592,7 +591,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/FMEjskaXejU",
       "avg_view_seconds": 25.0,
-      "avg_view_percent": 81.0,
+      "avg_view_percent": 80.5,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -783,8 +782,8 @@
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 55.6,
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 65.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -811,8 +810,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PBbydRJloRA",
-      "avg_view_seconds": 26.0,
-      "avg_view_percent": 65.9,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 63.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -863,7 +862,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 13,
+      "views": 16,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ"
@@ -939,7 +938,7 @@
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
       "published_at": "2026-10-27T02:30:38Z",
       "privacy": "public",
-      "views": 36,
+      "views": 62,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8"
@@ -963,7 +962,7 @@
       "hook": "Divers off Japan kept finding perfect circles on the seabed. Nobody knew who made them.",
       "published_at": "2026-10-27T12:10:34Z",
       "privacy": "public",
-      "views": 27,
+      "views": 32,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sqsrbQ8u4jw"
@@ -1170,7 +1169,11 @@
       "views": 53,
       "likes": 5,
       "comments": 1,
-      "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
+      "url": "https://youtube.com/shorts/HUKVi1Kn7E0",
+      "avg_view_seconds": 35.0,
+      "avg_view_percent": 87.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "hzWEks56BAU": {
       "upload_status": "processed",
@@ -1213,11 +1216,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This toad grows its babies inside her own back.",
-      "published_at": "2026-10-27T17:51:58Z",
-      "privacy": "private",
+      "published_at": "2026-10-27T18:20:03Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/qOYToJpqKag"
     },
     "8nzpCGs_PM0": {
@@ -1272,7 +1275,7 @@
       "comments": 3,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k",
       "avg_view_seconds": 18.0,
-      "avg_view_percent": 57.8,
+      "avg_view_percent": 57.6,
       "shares": 1,
       "subscribers_gained": 0
     },
@@ -2299,7 +2302,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 439,
+      "views": 440,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4",
@@ -2387,8 +2390,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/jLxl9OEAacQ",
-      "avg_view_seconds": 27.0,
-      "avg_view_percent": 71.6,
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 73.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2700,7 +2703,7 @@
       "shares": 0,
       "subscribers_gained": 1
     },
-    "4tjLDcWwrTM": {
+    "V5bBt2yI2PY": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -2712,16 +2715,40 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
+      "title": "Water at 750 Degrees That Never Boils (1.5 Miles Under the Sea)",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "There's water at 750 degrees that never boils.",
+      "published_at": "2026-10-27T19:27:19Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/V5bBt2yI2PY"
+    },
+    "4tjLDcWwrTM": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT31S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
       "title": "Hippos Kill About 500 People a Year and Run at 22 mph",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
-      "published_at": "2026-10-27T17:54:05Z",
-      "privacy": "private",
+      "published_at": "2026-10-27T18:40:35Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
     },
     "TtDH4yL4P10": {
@@ -2775,8 +2802,8 @@
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww",
-      "avg_view_seconds": 10.0,
-      "avg_view_percent": 42.1,
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 37.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2803,8 +2830,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/kKWolYqlfOc",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 53.0,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 57.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2831,10 +2858,10 @@
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q",
-      "avg_view_seconds": 19.0,
-      "avg_view_percent": 77.4,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 74.2,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 3
     },
     "EWLYa_RnJi0": {
       "upload_status": "processed",
@@ -2859,8 +2886,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 57.4,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 54.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2939,12 +2966,12 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1063,
+      "views": 1065,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 63.1,
+      "avg_view_percent": 62.9,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -2972,7 +2999,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 48.6,
+      "avg_view_percent": 48.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2999,8 +3026,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY",
-      "avg_view_seconds": 11.0,
-      "avg_view_percent": 48.9,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 53.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3084,7 +3111,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 91.7,
+      "avg_view_percent": 90.7,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -3111,8 +3138,8 @@
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/wgJfNru7RlQ",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 73.2,
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 70.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3194,7 +3221,11 @@
       "views": 105,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
+      "url": "https://youtube.com/shorts/Ns_EX-TGGOM",
+      "avg_view_seconds": 6.0,
+      "avg_view_percent": 22.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "nib97oLvxwI": {
       "upload_status": "processed",
@@ -3294,7 +3325,11 @@
       "views": 200,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/tq008mZVJQU"
+      "url": "https://youtube.com/shorts/tq008mZVJQU",
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 79.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "JBpnVxvYLEM": {
       "upload_status": "processed",
@@ -3370,7 +3405,11 @@
       "views": 69,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/MB2BicyS1rs"
+      "url": "https://youtube.com/shorts/MB2BicyS1rs",
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 36.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "O2zL5iipSFs": {
       "upload_status": "processed",
@@ -3394,7 +3433,11 @@
       "views": 19,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/O2zL5iipSFs"
+      "url": "https://youtube.com/shorts/O2zL5iipSFs",
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 37.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "sSBPt5yFR_c": {
       "upload_status": "processed",
@@ -3419,8 +3462,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
-      "avg_view_seconds": 19.0,
-      "avg_view_percent": 62.0,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 65.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3498,7 +3541,11 @@
       "views": 1,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/VY98speDz40"
+      "url": "https://youtube.com/shorts/VY98speDz40",
+      "avg_view_seconds": 5.0,
+      "avg_view_percent": 23.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "VuyOz5b3Dk8": {
       "upload_status": "processed",
@@ -3519,7 +3566,7 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
