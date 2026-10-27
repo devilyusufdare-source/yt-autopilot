@@ -1,0 +1,56 @@
+{
+  "id": "2027-05-20-what-if-the-internet-ran-out-of-addresses",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 5,
+  "title": "What If the Internet Ran Out of Addresses? It Already Did",
+  "scenes": [
+    {
+      "text": "What if the internet ran out of addresses? It already did, and you probably never noticed.",
+      "keywords": "server room blinking lights"
+    },
+    {
+      "text": "The original system, called IPv4, has about 4.3 billion addresses, a limit set back in 1981.",
+      "keywords": "computer network cables"
+    },
+    {
+      "text": "On February 3, 2011, the group that hands out addresses announced it had given away the last free blocks.",
+      "keywords": "data center rows servers"
+    },
+    {
+      "text": "ARIN, the registry for North America, officially ran out of IPv4 addresses in 2015.",
+      "keywords": "laptop typing code"
+    },
+    {
+      "text": "The fix is IPv6, with 128-bit addresses. That's about 340 undecillion, a 340 followed by 36 zeros.",
+      "keywords": "binary code screen"
+    },
+    {
+      "text": "So nothing broke. The internet just moved to a number so big we're very unlikely to run out again.",
+      "keywords": "global network map glowing"
+    }
+  ],
+  "description": "What if the internet ran out of addresses?\nIPv4 had about 4.3 billion, and the last free blocks were handed out in 2011. IPv6 has about 340 undecillion.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "ipv4",
+    "ipv6",
+    "internet addresses",
+    "how the internet works",
+    "technology facts",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#internet",
+    "#tech"
+  ],
+  "sources": [
+    "https://www.arin.net/blog/2011/12/06/the-12-days-of-ipv6-day-2-the-imminent-sign-that-ipv4-addresses-are-near-extinction",
+    "https://www.techspot.com/news/62238-weve-finally-run-out-ipv4-addresses.html"
+  ],
+  "thumbnail_text": "WHAT IF THE INTERNET RAN OUT?",
+  "first_comment": "Did you know the internet ran out of addresses back in 2011? Drop your own 'what if' below."
+}
