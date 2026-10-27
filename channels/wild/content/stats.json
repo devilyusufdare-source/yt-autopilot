@@ -1,59 +1,70 @@
 {
-  "updated_at": "2026-10-26T20:37:02+00:00",
+  "updated_at": "2026-10-27T01:55:04+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 7,
+    "subscribers": 6,
     "channel_views": 4793,
     "video_count": 10
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/6nUPnY94QPA"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/6nUPnY94QPA"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/6nUPnY94QPA"
+    ]
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
-  "total_videos": 10,
-  "total_views": 5144,
+  "total_videos": 11,
+  "total_views": 5257,
   "by_topic": {
     "earth": {
       "videos": 3,
-      "avg_views": 486,
-      "best_views": 915
+      "avg_views": 494,
+      "best_views": 935
     },
     "space": {
       "videos": 5,
-      "avg_views": 372,
+      "avg_views": 389,
       "best_views": 1278
     },
     "society": {
       "videos": 1,
-      "avg_views": 411,
-      "best_views": 411
+      "avg_views": 412,
+      "best_views": 412
     },
     "animals": {
       "videos": 1,
       "avg_views": 1416,
       "best_views": 1416
+    },
+    "body": {
+      "videos": 1,
+      "avg_views": 0,
+      "best_views": 0
     }
   },
   "by_style": {
     "classic": {
-      "videos": 10,
-      "avg_views": 514,
+      "videos": 11,
+      "avg_views": 478,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 10,
-      "avg_views": 514
+      "videos": 11,
+      "avg_views": 478
     }
   },
   "top_videos": [
@@ -72,7 +83,7 @@
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 915,
+      "views": 935,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -84,37 +95,37 @@
     {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
-      "views": 411,
+      "views": 412,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
     },
     {
       "title": "What If the Sun Went Out Right Now?",
       "topic": "space",
-      "views": 354,
+      "views": 369,
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes."
     },
     {
       "title": "What If You Fell Into a Black Hole?",
       "topic": "space",
-      "views": 188,
+      "views": 239,
       "hook": "What if you fell into a black hole? Which one matters more than you'd think."
     },
     {
       "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
       "topic": "earth",
-      "views": 112,
+      "views": 116,
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger."
     },
     {
       "title": "What If the Sun Suddenly Disappeared?",
       "topic": "space",
-      "views": 27,
+      "views": 48,
       "hook": "What if the Sun suddenly vanished? For eight minutes, nobody would know."
     },
     {
       "title": "What If the Moon Disappeared Tonight?",
       "topic": "space",
-      "views": 11,
+      "views": 12,
       "hook": "What if the Moon vanished tonight? The first thing you'd notice isn't the dark."
     }
   ],
@@ -162,7 +173,7 @@
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger.",
       "published_at": "2026-10-25T02:15:13Z",
       "privacy": "public",
-      "views": 112,
+      "views": 116,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/jKyqYNkFqgE"
@@ -210,7 +221,7 @@
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely.",
       "published_at": "2026-10-24T13:40:39Z",
       "privacy": "public",
-      "views": 411,
+      "views": 412,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c"
@@ -258,7 +269,7 @@
       "hook": "What if the Moon vanished tonight? The first thing you'd notice isn't the dark.",
       "published_at": "2026-10-25T21:00:16Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UBTO3oOKAF0"
@@ -282,8 +293,8 @@
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes.",
       "published_at": "2026-10-26T02:30:21Z",
       "privacy": "public",
-      "views": 354,
-      "likes": 12,
+      "views": 369,
+      "likes": 14,
       "comments": 1,
       "url": "https://youtube.com/shorts/a9uI0J8lYDA"
     },
@@ -306,10 +317,34 @@
       "hook": "What if you fell into a black hole? Which one matters more than you'd think.",
       "published_at": "2026-10-26T17:00:07Z",
       "privacy": "public",
-      "views": 188,
-      "likes": 6,
+      "views": 239,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/PyXFeRMftHU"
+    },
+    "6nUPnY94QPA": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Never Slept Again?",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you never slept again? Day one feels fine. It isn't.",
+      "published_at": "2026-10-27T01:55:01Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/6nUPnY94QPA"
     },
     "2bwg6x0eZVY": {
       "upload_status": "processed",
@@ -330,8 +365,8 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 915,
-      "likes": 19,
+      "views": 935,
+      "likes": 20,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY"
     },
@@ -354,7 +389,7 @@
       "hook": "What if the Sun suddenly vanished? For eight minutes, nobody would know.",
       "published_at": "2026-10-26T16:30:05Z",
       "privacy": "public",
-      "views": 27,
+      "views": 48,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/jwre0VbiRCc"
