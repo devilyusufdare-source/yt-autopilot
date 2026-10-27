@@ -1,0 +1,57 @@
+{
+  "id": "2027-05-04-what-if-power-grid-failed-for-a-week",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 5,
+  "title": "What If the Power Grid Failed for a Whole Week?",
+  "scenes": [
+    {
+      "text": "What if the power grid failed for a whole week? The first hours are not the worst part.",
+      "keywords": "dark city blackout"
+    },
+    {
+      "text": "Phone and TV signals stop at once, and factories go quiet. Within hours, batteries run flat.",
+      "keywords": "phone dead battery"
+    },
+    {
+      "text": "Emergency power supplies run out of fuel in a few hours, and intensive care and dialysis units struggle to continue.",
+      "keywords": "hospital corridor"
+    },
+    {
+      "text": "Few gas stations have backup power for their pumps, so refueling stops for the public and for first responders.",
+      "keywords": "gas station pumps"
+    },
+    {
+      "text": "Water plants with limited backup power can lose pressure. Refrigerated medicines spoil without electricity.",
+      "keywords": "water treatment plant"
+    },
+    {
+      "text": "After a few days, a German study found the supply of vital goods to the population collapses.",
+      "keywords": "empty supermarket shelves"
+    }
+  ],
+  "description": "What if the power grid failed for a whole week?\nResearchers found phones, hospitals, fuel and water all depend on electricity, and supplies collapse after a few days.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "power outage",
+    "blackout",
+    "power grid",
+    "infrastructure",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#blackout",
+    "#technology"
+  ],
+  "sources": [
+    "https://www.kit.edu/kit/english/pi_2011_7010.php",
+    "https://www.scemd.org/media/1774/annex-a-impacts-to-community-lifelines.pdf"
+  ],
+  "thumbnail_text": "WHAT IF THE GRID FAILED A WEEK?",
+  "first_comment": "What would you stock up on first? Drop your own what if below."
+}
