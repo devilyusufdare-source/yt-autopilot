@@ -1,0 +1,59 @@
+{
+  "id": "2026-10-27-what-if-you-spent-a-year-on-mars",
+  "format": "whatif",
+  "topic": "space",
+  "priority": 6,
+  "title": "What If You Lived on Mars for a Whole Year?",
+  "scenes": [
+    {
+      "text": "What if you spent a year on Mars? The day would feel familiar. Almost nothing else would.",
+      "keywords": "mars surface landscape"
+    },
+    {
+      "text": "A Martian day is 24 hours and 39 minutes, but a Martian year lasts 687 Earth days.",
+      "keywords": "mars planet rotating"
+    },
+    {
+      "text": "Gravity is only 38 percent of Earth's, so a 100 pound person would weigh about 38 pounds.",
+      "keywords": "astronaut bouncing low gravity"
+    },
+    {
+      "text": "The air is 95 percent carbon dioxide, under one percent as thick as ours, and averages minus 64 degrees Fahrenheit.",
+      "keywords": "mars red desert"
+    },
+    {
+      "text": "Radiation on the surface is about 0.64 millisieverts a day, roughly 230 over a year, with nothing overhead to stop it.",
+      "keywords": "radiation warning space"
+    },
+    {
+      "text": "Add the trips there and back, and a full mission adds up to about one sievert, the entire career limit set by the European Space Agency.",
+      "keywords": "rocket launch spacecraft"
+    }
+  ],
+  "description": "What if you lived on Mars for a whole year?\nA Martian year lasts 687 Earth days, gravity is 38 percent of Earth's, and the radiation on the surface is about 0.64 millisieverts a day.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "mars",
+    "living on mars",
+    "mars facts",
+    "space facts",
+    "mars radiation",
+    "mars mission",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#mars",
+    "#space"
+  ],
+  "sources": [
+    "https://www.jpl.nasa.gov/news/press_kits/insight/launch/facts/mars-at-a-glance",
+    "https://www.scientificamerican.com/article/radiation-on-mars-managea",
+    "https://www.nbcnews.com/sciencemain/radiation-mars-manageable-manned-mission-curiosity-finds-2D11716674"
+  ],
+  "thumbnail_text": "A YEAR ON MARS?",
+  "first_comment": "Would you sign up for the one-way trip? Drop your own what if below."
+}
