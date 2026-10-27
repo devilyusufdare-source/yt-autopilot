@@ -1,0 +1,57 @@
+{
+  "topic": "space",
+  "priority": 7,
+  "title": "What If the Sun Suddenly Went Out?",
+  "scenes": [
+    {
+      "text": "What if the Sun went out right now? For eight minutes, you wouldn't even know.",
+      "keywords": "sun bright sunset sky"
+    },
+    {
+      "text": "Sunlight and gravity both take about eight minutes to arrive, so Earth keeps orbiting and glowing until then.",
+      "keywords": "earth from space orbit"
+    },
+    {
+      "text": "Then darkness. Photosynthesis stops at once, and the average surface temperature falls below zero Fahrenheit within about a week.",
+      "keywords": "frozen landscape night"
+    },
+    {
+      "text": "After one year it's around minus 100 degrees. Most plants die within weeks, though big trees can last decades.",
+      "keywords": "frozen forest snow dead trees"
+    },
+    {
+      "text": "The oceans freeze from the top, but that ice insulates the deep water, which could stay liquid for hundreds of thousands of years.",
+      "keywords": "frozen ocean sea ice"
+    },
+    {
+      "text": "Life wouldn't vanish. Microbes in Earth's crust and vent creatures run on the planet's own heat, not sunlight.",
+      "keywords": "hydrothermal vent deep sea"
+    }
+  ],
+  "description": "What if the Sun suddenly went out?\nWe wouldn't notice for about eight minutes, and then Earth would freeze to roughly minus 100 degrees within a year.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "sun goes out",
+    "what if the sun disappeared",
+    "space facts",
+    "earth science",
+    "what would happen",
+    "science explained",
+    "astronomy",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#sun",
+    "#space"
+  ],
+  "sources": [
+    "https://www.popsci.com/science/article/2013-07/if-sun-went-out-how-long-could-life-earth-survive/",
+    "https://www.scienceabc.com/nature/universe/what-happen-sun-suddenly-disappeared-earth-life-light-night-dark-moon.html"
+  ],
+  "thumbnail_text": "WHAT IF THE SUN WENT OUT?",
+  "first_comment": "Where would you shelter if the Sun went dark? Drop your own what if below.",
+  "id": "2026-10-27-what-if-the-sun-went-out",
+  "format": "whatif"
+}
