@@ -1,0 +1,62 @@
+{
+  "id": "2026-10-29-pompeii-worm-80-degree-tail",
+  "topic": "animals",
+  "format": "fact",
+  "title": "A Worm Lives With Its Tail in 80°C Water, Its Head in Cool Sea",
+  "subject": "Pompeii worm",
+  "scenes": [
+    {
+      "text": "This worm lives in water hot enough to hurt. Its head stays cool.",
+      "keywords": "Pompeii worm hydrothermal vent"
+    },
+    {
+      "text": "It lives in tubes on deep sea vent chimneys, about 2,500 meters down.",
+      "keywords": "hydrothermal vent chimney black smoker"
+    },
+    {
+      "text": "Its tail sits in water that can reach 80 degrees Celsius.",
+      "keywords": "hydrothermal vent hot water deep sea"
+    },
+    {
+      "text": "Its head pokes out into cool seawater at the tube's mouth.",
+      "keywords": "tube worm deep sea"
+    },
+    {
+      "text": "And its back is covered in a grey fuzz of bacteria, which may work like a thermal blanket.",
+      "keywords": "bacteria colony microscope"
+    },
+    {
+      "text": "So the worm stays cool in a place hot enough to hurt.",
+      "keywords": "Pompeii worm hydrothermal vent"
+    }
+  ],
+  "description": "A Pompeii worm lives with its tail in water that can reach 80 degrees Celsius and its head in cool seawater.\nIts back is covered in a fuzz of bacteria that may act as a thermal blanket.\nCould you stand a bath at 80 degrees?",
+  "tags": [
+    "pompeii worm",
+    "deep sea animals",
+    "hydrothermal vents",
+    "hottest animal",
+    "heat tolerant",
+    "ocean facts",
+    "weird animal facts",
+    "animal facts",
+    "amazing animals",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#facts",
+    "#ocean"
+  ],
+  "sources": [
+    "https://www.sciencefocus.com/nature/pompeii-worm",
+    "https://annex.exploratorium.edu/aaas-2001/dispatches/thermal_worm.html",
+    "https://www1.udel.edu/PR/Messenger/96/2/40.html"
+  ],
+  "thumbnail_text": "TAIL AT 80°C. HEAD IN COLD.",
+  "priority": 6,
+  "first_comment": "The fuzz can be up to a centimeter thick, and the bacteria feed on sugars the worm secretes. Which extreme animal should we cover next?",
+  "_parked": "same fact as an already published video: This Worm Lives in Water Hotter Than 140 Degrees"
+}

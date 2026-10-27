@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import json
+import re
 import math
 import os
 import shutil
@@ -165,6 +166,44 @@ def duplicate_of(pkg: dict) -> str | None:
     return None
 
 
+# Words that carry no fact (function words, shot words); what is left is what a script is about.
+_FACT_STOP = set("""this that these those it its is are was were be been has have had can could will would just than then there
+their they them you your our we he she his her what when who how why which into onto over under about after before more most very
+also only even still once every each some any all no not yes so and or but if of in on at to for from by with as up out off one two
+three four five six seven eight nine ten doesn don isn here""".split())
+SAME_FACT = 0.2   # 26 Oct: re-told facts scored 0.31-0.43, different facts about the same animal 0.04-0.08
+
+
+def _fact_words(pkg: dict) -> set[str]:
+    from .visuals import _FOCUS_STOP
+    txt = " ".join([str(pkg.get("title", ""))] + [str(s.get("text", "")) for s in pkg.get("scenes", [])]).lower()
+    return {w[:-1] if len(w) > 3 and w.endswith("s") else w for w in re.findall(r"[a-z]+|\d[\d,.]*", txt)
+            if len(w) > 2 and w not in _FACT_STOP and w not in _FOCUS_STOP}
+
+
+_PUBLISHED_FACTS: list[tuple[set[str], str]] | None = None
+
+
+def same_fact_as(pkg: dict) -> str | None:
+    """Title of a published video whose script tells the same fact under another title (key-word overlap >= SAME_FACT)."""
+    global _PUBLISHED_FACTS
+    if _PUBLISHED_FACTS is None:
+        _PUBLISHED_FACTS = []
+        for f in PUBLISHED_DIR.glob("*.json"):
+            try:
+                other = json.loads(f.read_text(encoding="utf-8"))
+            except Exception:  # noqa: BLE001
+                continue
+            _PUBLISHED_FACTS.append((_fact_words(other), str(other.get("title", ""))))
+    mine = _fact_words(pkg)
+    if not mine:
+        return None
+    for theirs, title in _PUBLISHED_FACTS:
+        if theirs and len(mine & theirs) / len(mine | theirs) >= SAME_FACT:
+            return title
+    return None
+
+
 def package_format(pkg: dict) -> str:
     return str(pkg.get("format") or "fact").lower()
 
@@ -271,6 +310,10 @@ def pick_package(cfg, explicit: Path | None, skip: set[str]) -> tuple[Path, dict
         dup = duplicate_of(pkg)
         if dup:
             _fail(path, pkg, f"duplicate of an already published video: {dup}")
+            continue
+        twin = same_fact_as(pkg)
+        if twin:
+            _fail(path, pkg, f"same fact as an already published video: {twin}")
             continue
         return path, pkg
     return None

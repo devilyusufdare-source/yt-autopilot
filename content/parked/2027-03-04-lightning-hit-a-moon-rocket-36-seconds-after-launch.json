@@ -1,0 +1,62 @@
+{
+  "id": "2027-03-04-lightning-hit-a-moon-rocket-36-seconds-after-launch",
+  "topic": "space",
+  "title": "Lightning Hit a Moon Rocket 36 Seconds After Launch. Then Hit It Again",
+  "scenes": [
+    {
+      "text": "Lightning hit a Moon rocket 36 seconds after launch. Then again.",
+      "keywords": "lightning strike rocket launch storm"
+    },
+    {
+      "text": "November 1969. Apollo 12 climbs into a rain cloud, three astronauts on top.",
+      "keywords": "Saturn V rocket launch clouds"
+    },
+    {
+      "text": "At 36 seconds, a bolt runs down the rocket to the ground. At 52 seconds, a second strike.",
+      "keywords": "lightning bolt storm cloud strike"
+    },
+    {
+      "text": "Every warning light comes on. The fuel cells drop offline.",
+      "keywords": "spacecraft cockpit warning lights control panel"
+    },
+    {
+      "text": "A 26-year-old engineer says: try S C E to auxiliary. One switch. The data comes back.",
+      "keywords": "mission control room engineers screens"
+    },
+    {
+      "text": "The rocket had made its own lightning. Ten days later, they walked on the Moon.",
+      "keywords": "astronaut walking on moon surface"
+    }
+  ],
+  "description": "On 14 November 1969, Apollo 12 was struck by lightning twice during launch, at 36.5 seconds and 52 seconds after liftoff.\nThe strikes knocked all three fuel cells offline and scrambled the navigation platform. Flight controller John Aaron's call, SCE to AUX, restored the telemetry and let the crew reset the fuel cells. A later study found the cloud was too weak to make lightning by itself: the rocket and its hot exhaust plume triggered the strikes.\nWould you have pressed on to the Moon after that launch? Comment below.",
+  "tags": [
+    "apollo 12",
+    "lightning strike rocket",
+    "sce to aux",
+    "saturn v launch",
+    "nasa facts",
+    "space facts",
+    "moon landing",
+    "apollo program",
+    "rocket launch",
+    "astronaut facts",
+    "space history",
+    "mind blowing facts",
+    "shorts facts",
+    "did you know"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#nasa",
+    "#apollo"
+  ],
+  "sources": [
+    "https://science.nasa.gov/resource/lightning-strikes-twice/",
+    "https://ntrs.nasa.gov/api/citations/20090037586/downloads/20090037586.pdf"
+  ],
+  "thumbnail_text": "LIGHTNING HIT THE ROCKET. TWICE",
+  "priority": 3,
+  "first_comment": "The engineer who made the call, John Aaron, was 26 years old. He only knew the fix because he had seen the same weird telemetry pattern in a test a year earlier. Would you have trusted a switch nobody had heard of?",
+  "_parked": "same fact as an already published video: Lightning Hit Apollo 12 Twice 52 Seconds After Launch"
+}

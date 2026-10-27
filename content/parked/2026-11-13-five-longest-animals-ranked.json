@@ -1,0 +1,72 @@
+{
+  "id": "2026-11-13-five-longest-animals-ranked",
+  "format": "ranking",
+  "ranking_by": "body length",
+  "topic": "animals",
+  "title": "The 5 Longest Animals on Earth, Ranked (#1 Isn't a Whale)",
+  "scenes": [
+    {
+      "text": "The five longest animals on Earth, ranked. The blue whale isn't number one, or even number two.",
+      "keywords": "blue whale ocean"
+    },
+    {
+      "rank": 5,
+      "label": "Sei whale · ~20 m",
+      "text": "Number five: the sei whale. Around twenty meters long, still longer than a school bus.",
+      "keywords": "sei whale"
+    },
+    {
+      "rank": 4,
+      "label": "Fin whale · up to 27 m",
+      "text": "Number four: the fin whale. Up to about twenty-seven meters, the second-longest whale alive today.",
+      "keywords": "fin whale"
+    },
+    {
+      "rank": 3,
+      "label": "Blue whale · ~30 m",
+      "text": "Number three: the blue whale. Around thirty meters, with the longest ever recorded reaching about thirty-three.",
+      "keywords": "blue whale swimming"
+    },
+    {
+      "rank": 2,
+      "label": "Lion's mane · 36 m tentacles",
+      "text": "Number two: the lion's mane jellyfish. One reported specimen had tentacles about thirty-six meters long.",
+      "keywords": "lion's mane jellyfish"
+    },
+    {
+      "rank": 1,
+      "label": "Bootlace worm · up to 55 m",
+      "text": "Number one: the bootlace worm, a ribbon worm. Reported up to fifty-five meters, washed ashore in Scotland in eighteen sixty-four.",
+      "keywords": "bootlace worm"
+    }
+  ],
+  "description": "The five longest animals on Earth, ranked by length.\nFrom the sei whale to a worm reported at up to fifty-five meters, which beats the blue whale.\nWhich of these would you least want to find on a beach?",
+  "tags": [
+    "longest animals",
+    "longest animal",
+    "bootlace worm",
+    "lion's mane jellyfish",
+    "blue whale",
+    "fin whale",
+    "sei whale",
+    "animal rankings",
+    "top 5 animals",
+    "animal facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#ocean",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/longest-animal/",
+    "https://www.discoverwildlife.com/animal-facts/marine-animals/bootlace-worm",
+    "https://en.wikipedia.org/wiki/Lion%27s_mane_jellyfish"
+  ],
+  "thumbnail_text": "5 LONGEST ANIMALS, RANKED",
+  "priority": 6,
+  "first_comment": "Which one surprised you most? And what should we rank next?",
+  "_parked": "same fact as an already published video: The 5 Longest Animals Ever Measured, Ranked (#1 Is a Worm)"
+}
