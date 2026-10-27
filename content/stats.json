@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-27T02:07:24+00:00",
+  "updated_at": "2026-10-27T11:55:26+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
-    "channel_views": 40530,
-    "video_count": 114
+    "channel_views": 40813,
+    "video_count": 116
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/nHXJKky23q8"
+      "https://youtube.com/shorts/sqsrbQ8u4jw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/nHXJKky23q8"
+      "https://youtube.com/shorts/sqsrbQ8u4jw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/nHXJKky23q8"
+      "https://youtube.com/shorts/sqsrbQ8u4jw"
     ]
   },
   "retention": {
@@ -29,7 +29,7 @@
     "by_topic": {
       "psychology": 71.3,
       "science": 65.9,
-      "animals": 71.7,
+      "animals": 71.6,
       "human body": 86.7,
       "history": 54.0,
       "space": 72.4,
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 114,
-  "total_views": 40741,
+  "total_videos": 115,
+  "total_views": 40880,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,12 +101,12 @@
     },
     "science": {
       "videos": 15,
-      "avg_views": 355,
+      "avg_views": 356,
       "best_views": 1648
     },
     "animals": {
-      "videos": 63,
-      "avg_views": 357,
+      "videos": 64,
+      "avg_views": 353,
       "best_views": 1507
     },
     "human body": {
@@ -126,14 +126,14 @@
     },
     "technology": {
       "videos": 2,
-      "avg_views": 14,
-      "best_views": 24
+      "avg_views": 28,
+      "best_views": 53
     }
   },
   "by_style": {
     "classic": {
-      "videos": 98,
-      "avg_views": 346,
+      "videos": 99,
+      "avg_views": 344,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 28,
-      "avg_views": 93
+      "videos": 29,
+      "avg_views": 94
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -157,7 +157,7 @@
     },
     "en-US-GuyNeural": {
       "videos": 4,
-      "avg_views": 31
+      "avg_views": 32
     },
     "en-US-AvaMultilingualNeural": {
       "videos": 1,
@@ -754,7 +754,7 @@
       "hook": "A diver once surfaced and asked, who told me to get out?",
       "published_at": "2026-10-26T16:50:11Z",
       "privacy": "public",
-      "views": 7,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w"
@@ -862,8 +862,8 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 6,
-      "likes": 1,
+      "views": 11,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ"
     },
@@ -914,20 +914,20 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 25,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k"
     },
     "nHXJKky23q8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT30S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -936,12 +936,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
-      "published_at": "2026-10-27T02:07:15Z",
+      "published_at": "2026-10-27T02:30:38Z",
+      "privacy": "public",
+      "views": 15,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/nHXJKky23q8"
+    },
+    "sqsrbQ8u4jw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Divers Found Perfect Circles on the Seabed. A 5-Inch Fish Made Them",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Divers off Japan kept finding perfect circles on the seabed. Nobody knew who made them.",
+      "published_at": "2026-10-27T11:55:19Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/nHXJKky23q8"
+      "url": "https://youtube.com/shorts/sqsrbQ8u4jw"
     },
     "C2m63XKX8rg": {
       "upload_status": "processed",
@@ -1046,7 +1070,7 @@
       "hook": "Thirty-three engines fire at once.",
       "published_at": "2026-10-26T18:30:19Z",
       "privacy": "public",
-      "views": 24,
+      "views": 53,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_X77GXV_cLE"
@@ -1070,7 +1094,7 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 45,
+      "views": 49,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
@@ -2042,7 +2066,7 @@
       "hook": "In 1999, a tornado hit 302 miles an hour. The fastest wind ever measured.",
       "published_at": "2026-10-21T13:30:38Z",
       "privacy": "public",
-      "views": 22,
+      "views": 23,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q",
@@ -2154,7 +2178,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 438,
+      "views": 439,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4",
@@ -2271,7 +2295,7 @@
       "comments": 2,
       "url": "https://youtube.com/shorts/lSMWTUoJceo",
       "avg_view_seconds": 18.0,
-      "avg_view_percent": 51.3,
+      "avg_view_percent": 50.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2355,7 +2379,7 @@
       "comments": 2,
       "url": "https://youtube.com/shorts/650vI7wznrM",
       "avg_view_seconds": 10.0,
-      "avg_view_percent": 33.7,
+      "avg_view_percent": 33.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2658,7 +2682,7 @@
       "hook": "This worm lives in water hotter than 140 degrees.",
       "published_at": "2026-10-25T00:00:28Z",
       "privacy": "public",
-      "views": 88,
+      "views": 90,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q",
@@ -2686,7 +2710,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 455,
+      "views": 456,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0",
@@ -2770,7 +2794,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1054,
+      "views": 1060,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -2798,7 +2822,7 @@
       "hook": "This fish swims two thousand miles upstream. And it never eats.",
       "published_at": "2026-10-23T16:50:18Z",
       "privacy": "public",
-      "views": 927,
+      "views": 926,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE",
@@ -2854,7 +2878,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 106,
+      "views": 105,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A",
@@ -2966,7 +2990,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 66,
+      "views": 67,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uMujdO5WqYo",
@@ -3022,7 +3046,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 93,
+      "views": 99,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -3046,7 +3070,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 75,
+      "views": 89,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
@@ -3098,7 +3122,7 @@
       "hook": "A condor flew over a hundred miles without flapping once.",
       "published_at": "2026-10-26T12:40:15Z",
       "privacy": "public",
-      "views": 18,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA"
@@ -3122,7 +3146,7 @@
       "hook": "The most successful hunter in Africa isn't a lion.",
       "published_at": "2026-10-25T21:00:13Z",
       "privacy": "public",
-      "views": 193,
+      "views": 200,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU"
@@ -3146,8 +3170,8 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 0,
+      "views": 10,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
     },
@@ -3198,7 +3222,7 @@
       "hook": "A sloth can hold its breath for forty minutes.",
       "published_at": "2026-10-26T02:30:27Z",
       "privacy": "public",
-      "views": 68,
+      "views": 69,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/MB2BicyS1rs"
@@ -3222,7 +3246,7 @@
       "hook": "Four astronauts just flew 100 million miles without leaving orbit.",
       "published_at": "2026-10-25T14:10:31Z",
       "privacy": "public",
-      "views": 18,
+      "views": 19,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/O2zL5iipSFs"
@@ -3302,7 +3326,7 @@
       "hook": "Yellowstone's most dangerous animal isn't a bear.",
       "published_at": "2026-10-26T15:40:35Z",
       "privacy": "public",
-      "views": 23,
+      "views": 41,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TjxKsQKmMj4"
@@ -3350,7 +3374,7 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 7,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
