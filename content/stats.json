@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-10-27T19:27:28+00:00",
+  "updated_at": "2026-10-27T20:42:52+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 40813,
-    "video_count": 123
+    "video_count": 124
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/V5bBt2yI2PY"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/V5bBt2yI2PY"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/V5bBt2yI2PY"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 101,
@@ -92,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 122,
-  "total_views": 41093,
+  "total_views": 41166,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,7 +100,7 @@
     },
     "animals": {
       "videos": 70,
-      "avg_views": 326,
+      "avg_views": 327,
       "best_views": 1507
     },
     "human body": {
@@ -127,13 +121,13 @@
     "technology": {
       "videos": 2,
       "avg_views": 30,
-      "best_views": 56
+      "best_views": 57
     }
   },
   "by_style": {
     "classic": {
       "videos": 106,
-      "avg_views": 323,
+      "avg_views": 324,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +139,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 36,
-      "avg_views": 81
+      "avg_views": 83
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -754,7 +748,7 @@
       "hook": "A diver once surfaced and asked, who told me to get out?",
       "published_at": "2026-10-26T16:50:11Z",
       "privacy": "public",
-      "views": 19,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w"
@@ -862,7 +856,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ"
@@ -938,7 +932,7 @@
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
       "published_at": "2026-10-27T02:30:38Z",
       "privacy": "public",
-      "views": 62,
+      "views": 75,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8"
@@ -1014,7 +1008,7 @@
       "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
       "published_at": "2026-10-27T16:30:20Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DmqaHptWqAY"
@@ -1038,7 +1032,7 @@
       "hook": "This worm has no mouth, no stomach, and it grows taller than you.",
       "published_at": "2026-10-27T14:00:23Z",
       "privacy": "public",
-      "views": 18,
+      "views": 39,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY"
@@ -1090,8 +1084,8 @@
       "hook": "A tiny bird on the Galapagos drinks blood from birds far bigger than itself.",
       "published_at": "2026-10-27T17:00:25Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 9,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zlMkir0Z0S4"
     },
@@ -1142,7 +1136,7 @@
       "hook": "Thirty-three engines fire at once.",
       "published_at": "2026-10-26T18:30:19Z",
       "privacy": "public",
-      "views": 56,
+      "views": 57,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_X77GXV_cLE"
@@ -1166,7 +1160,7 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 53,
+      "views": 58,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0",
@@ -2704,14 +2698,14 @@
       "subscribers_gained": 1
     },
     "V5bBt2yI2PY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2720,11 +2714,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "There's water at 750 degrees that never boils.",
-      "published_at": "2026-10-27T19:27:19Z",
-      "privacy": "private",
+      "published_at": "2026-10-27T19:50:26Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/V5bBt2yI2PY"
     },
     "4tjLDcWwrTM": {
@@ -2746,7 +2740,7 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
@@ -3246,8 +3240,8 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 98,
-      "likes": 3,
+      "views": 99,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
     },
@@ -3350,7 +3344,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 19,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
@@ -3514,7 +3508,7 @@
       "hook": "Yellowstone's most dangerous animal isn't a bear.",
       "published_at": "2026-10-26T15:40:35Z",
       "privacy": "public",
-      "views": 88,
+      "views": 101,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/TjxKsQKmMj4"
@@ -3566,7 +3560,7 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 14,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
