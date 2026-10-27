@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-10-27T15:14:12+00:00",
+  "updated_at": "2026-10-27T16:30:55+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 40813,
-    "video_count": 118
+    "video_count": 119
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/DmqaHptWqAY"
+      "https://youtube.com/shorts/zlMkir0Z0S4",
+      "https://youtube.com/shorts/hzWEks56BAU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/DmqaHptWqAY"
+      "https://youtube.com/shorts/hzWEks56BAU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/DmqaHptWqAY"
+      "https://youtube.com/shorts/hzWEks56BAU"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 117,
-  "total_views": 40967,
+  "total_videos": 119,
+  "total_views": 41015,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 66,
-      "avg_views": 344,
+      "videos": 68,
+      "avg_views": 334,
       "best_views": 1507
     },
     "human body": {
@@ -126,14 +127,14 @@
     },
     "technology": {
       "videos": 2,
-      "avg_views": 28,
-      "best_views": 53
+      "avg_views": 30,
+      "best_views": 56
     }
   },
   "by_style": {
     "classic": {
-      "videos": 101,
-      "avg_views": 338,
+      "videos": 103,
+      "avg_views": 332,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 31,
-      "avg_views": 91
+      "videos": 33,
+      "avg_views": 86
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -914,7 +915,7 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 37,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k"
@@ -938,7 +939,7 @@
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
       "published_at": "2026-10-27T02:30:38Z",
       "privacy": "public",
-      "views": 16,
+      "views": 36,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8"
@@ -962,7 +963,7 @@
       "hook": "Divers off Japan kept finding perfect circles on the seabed. Nobody knew who made them.",
       "published_at": "2026-10-27T12:10:34Z",
       "privacy": "public",
-      "views": 23,
+      "views": 27,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sqsrbQ8u4jw"
@@ -996,14 +997,14 @@
       "subscribers_gained": 0
     },
     "DmqaHptWqAY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT34S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1012,8 +1013,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
-      "published_at": "2026-10-27T15:14:01Z",
-      "privacy": "private",
+      "published_at": "2026-10-27T16:30:20Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -1038,8 +1039,8 @@
       "hook": "This worm has no mouth, no stomach, and it grows taller than you.",
       "published_at": "2026-10-27T14:00:23Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 18,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY"
     },
@@ -1070,6 +1071,30 @@
       "avg_view_percent": 68.9,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "zlMkir0Z0S4": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT31S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Tiny Bird Drinks Blood From Birds Many Times Its Size",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A tiny bird on the Galapagos drinks blood from birds far bigger than itself.",
+      "published_at": "2026-10-27T16:29:05Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/zlMkir0Z0S4"
     },
     "lrbMTCxwBCU": {
       "upload_status": "processed",
@@ -1118,7 +1143,7 @@
       "hook": "Thirty-three engines fire at once.",
       "published_at": "2026-10-26T18:30:19Z",
       "privacy": "public",
-      "views": 53,
+      "views": 56,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_X77GXV_cLE"
@@ -1142,10 +1167,34 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 52,
+      "views": 53,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
+    },
+    "hzWEks56BAU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Beetle Does a Headstand to Drink 30% of Its Weight",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This beetle does a headstand every night. It's how it drinks.",
+      "published_at": "2026-10-27T16:30:44Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/hzWEks56BAU"
     },
     "8nzpCGs_PM0": {
       "upload_status": "processed",
@@ -2842,7 +2891,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1060,
+      "views": 1063,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -3094,7 +3143,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 103,
+      "views": 101,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -3218,7 +3267,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 14,
+      "views": 15,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
@@ -3374,7 +3423,7 @@
       "hook": "Yellowstone's most dangerous animal isn't a bear.",
       "published_at": "2026-10-26T15:40:35Z",
       "privacy": "public",
-      "views": 64,
+      "views": 63,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/TjxKsQKmMj4"
@@ -3422,7 +3471,7 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
