@@ -1,0 +1,58 @@
+{
+  "id": "2027-06-07-what-if-one-unit-mixup-crashed-a-spacecraft",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If a Unit Mix-Up Crashed a Spacecraft? NASA Lost One",
+  "scenes": [
+    {
+      "text": "What if a spacecraft was lost over a unit conversion? NASA lost one that way.",
+      "keywords": "mars orbiter spacecraft"
+    },
+    {
+      "text": "Mars Climate Orbiter cost 125 million dollars and launched in December 1998.",
+      "keywords": "rocket launch cape canaveral"
+    },
+    {
+      "text": "Two software components used different units. One calculated thrust in pound-seconds, the other expected newton-seconds.",
+      "keywords": "computer code screen"
+    },
+    {
+      "text": "The small errors piled up through almost ten months of cruising to Mars.",
+      "keywords": "spacecraft deep space"
+    },
+    {
+      "text": "On September 23, 1999, the orbiter came within 57 kilometers of the surface, far lower than planned.",
+      "keywords": "mars planet surface"
+    },
+    {
+      "text": "It broke apart in the Martian atmosphere. One metric unit, and 125 million dollars were gone.",
+      "keywords": "spacecraft burning atmosphere"
+    }
+  ],
+  "description": "What if a unit mix-up crashed a spacecraft?\nIn 1999, NASA's 125 million dollar Mars Climate Orbiter was lost after two software components used pound-seconds and newton-seconds.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "mars climate orbiter",
+    "nasa failure",
+    "metric vs imperial",
+    "engineering mistakes",
+    "space history",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#nasa",
+    "#mars"
+  ],
+  "sources": [
+    "https://commonplacefacts.com/2016/01/23/major-metric-malfunction-means-missed-mars-mission-and-millions-of-moolah/",
+    "https://interestingengineering.com/science/nasa-mars-climate-orbiter"
+  ],
+  "thumbnail_text": "ONE UNIT. $125 MILLION GONE.",
+  "first_comment": "What is the dumbest mistake you have ever seen cost something huge? Drop your own 'what if'."
+}
