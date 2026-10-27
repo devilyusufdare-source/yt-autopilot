@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-27T13:31:39+00:00",
+  "updated_at": "2026-10-27T15:14:12+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 40813,
-    "video_count": 117
+    "video_count": 118
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/MEVi7vL7saY"
+      "https://youtube.com/shorts/DmqaHptWqAY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/MEVi7vL7saY"
+      "https://youtube.com/shorts/DmqaHptWqAY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/MEVi7vL7saY"
+      "https://youtube.com/shorts/DmqaHptWqAY"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 116,
-  "total_views": 40881,
+  "total_videos": 117,
+  "total_views": 40967,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 65,
-      "avg_views": 348,
+      "videos": 66,
+      "avg_views": 344,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 100,
-      "avg_views": 341,
+      "videos": 101,
+      "avg_views": 338,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 30,
+      "videos": 31,
       "avg_views": 91
     },
     "en-US-BrianNeural": {
@@ -754,7 +754,7 @@
       "hook": "A diver once surfaced and asked, who told me to get out?",
       "published_at": "2026-10-26T16:50:11Z",
       "privacy": "public",
-      "views": 9,
+      "views": 19,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w"
@@ -862,7 +862,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 11,
+      "views": 13,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ"
@@ -938,7 +938,7 @@
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
       "published_at": "2026-10-27T02:30:38Z",
       "privacy": "public",
-      "views": 15,
+      "views": 16,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8"
@@ -962,9 +962,9 @@
       "hook": "Divers off Japan kept finding perfect circles on the seabed. Nobody knew who made them.",
       "published_at": "2026-10-27T12:10:34Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "views": 23,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/sqsrbQ8u4jw"
     },
     "C2m63XKX8rg": {
@@ -995,7 +995,7 @@
       "shares": 0,
       "subscribers_gained": 0
     },
-    "MEVi7vL7saY": {
+    "DmqaHptWqAY": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -1007,16 +1007,40 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
+      "title": "Scientists Swore This Fish Died Out With the Dinosaurs",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
+      "published_at": "2026-10-27T15:14:01Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/DmqaHptWqAY"
+    },
+    "MEVi7vL7saY": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT31S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
       "title": "This Worm Has No Mouth and No Stomach, and Grows Over 6 Feet",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This worm has no mouth, no stomach, and it grows taller than you.",
-      "published_at": "2026-10-27T13:31:33Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-27T14:00:23Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY"
     },
     "W2Swu8Jkmjs": {
@@ -1118,7 +1142,7 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 49,
+      "views": 52,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
@@ -2818,7 +2842,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1059,
+      "views": 1060,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -2874,7 +2898,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 202,
+      "views": 204,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY",
@@ -3070,7 +3094,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 99,
+      "views": 103,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM"
@@ -3094,7 +3118,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 89,
+      "views": 96,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
@@ -3146,7 +3170,7 @@
       "hook": "A condor flew over a hundred miles without flapping once.",
       "published_at": "2026-10-26T12:40:15Z",
       "privacy": "public",
-      "views": 24,
+      "views": 26,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA"
@@ -3194,7 +3218,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 10,
+      "views": 14,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
@@ -3350,8 +3374,8 @@
       "hook": "Yellowstone's most dangerous animal isn't a bear.",
       "published_at": "2026-10-26T15:40:35Z",
       "privacy": "public",
-      "views": 41,
-      "likes": 1,
+      "views": 64,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/TjxKsQKmMj4"
     },
@@ -3398,7 +3422,7 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 10,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
