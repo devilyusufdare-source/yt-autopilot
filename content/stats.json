@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T20:42:52+00:00",
+  "updated_at": "2026-10-27T22:12:58+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,13 +9,19 @@
     "video_count": 124
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/pNq_22cuP4E"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/pNq_22cuP4E"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/pNq_22cuP4E"
+    ]
   },
   "retention": {
     "videos_with_data": 101,
@@ -85,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 122,
-  "total_views": 41166,
+  "total_videos": 123,
+  "total_views": 41195,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -99,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 70,
-      "avg_views": 327,
+      "videos": 71,
+      "avg_views": 322,
       "best_views": 1507
     },
     "human body": {
@@ -126,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 106,
-      "avg_views": 324,
+      "videos": 107,
+      "avg_views": 321,
       "over_1500": 3
     },
     "punch": {
@@ -138,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 36,
-      "avg_views": 83
+      "videos": 37,
+      "avg_views": 82
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -608,7 +614,7 @@
       "hook": "You are taller right now than you'll be tonight.",
       "published_at": "2026-10-15T02:30:20Z",
       "privacy": "public",
-      "views": 222,
+      "views": 223,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/I75xo-ENbtA",
@@ -932,7 +938,7 @@
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
       "published_at": "2026-10-27T02:30:38Z",
       "privacy": "public",
-      "views": 75,
+      "views": 68,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8"
@@ -956,7 +962,7 @@
       "hook": "Divers off Japan kept finding perfect circles on the seabed. Nobody knew who made them.",
       "published_at": "2026-10-27T12:10:34Z",
       "privacy": "public",
-      "views": 32,
+      "views": 40,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sqsrbQ8u4jw"
@@ -989,6 +995,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "pNq_22cuP4E": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Frog Swallows This Beetle Whole, and It Walks Back Out",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
+      "published_at": "2026-10-27T22:12:50Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/pNq_22cuP4E"
+    },
     "DmqaHptWqAY": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -1008,7 +1038,7 @@
       "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
       "published_at": "2026-10-27T16:30:20Z",
       "privacy": "public",
-      "views": 1,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DmqaHptWqAY"
@@ -2740,8 +2770,8 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 21,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
     },
@@ -3292,7 +3322,7 @@
       "hook": "A condor flew over a hundred miles without flapping once.",
       "published_at": "2026-10-26T12:40:15Z",
       "privacy": "public",
-      "views": 27,
+      "views": 28,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA"
@@ -3316,7 +3346,7 @@
       "hook": "The most successful hunter in Africa isn't a lion.",
       "published_at": "2026-10-25T21:00:13Z",
       "privacy": "public",
-      "views": 200,
+      "views": 202,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU",
@@ -3344,7 +3374,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 20,
+      "views": 21,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
