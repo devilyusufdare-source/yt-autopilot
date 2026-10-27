@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-10-26T23:37:26+00:00",
+  "updated_at": "2026-10-27T02:07:24+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 40530,
-    "video_count": 115
+    "video_count": 114
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/nHXJKky23q8"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/nHXJKky23q8"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/nHXJKky23q8"
+    ]
   },
   "retention": {
     "videos_with_data": 95,
@@ -85,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 113,
-  "total_views": 40717,
+  "total_videos": 114,
+  "total_views": 40741,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -99,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 62,
-      "avg_views": 362,
+      "videos": 63,
+      "avg_views": 357,
       "best_views": 1507
     },
     "human body": {
@@ -120,14 +126,14 @@
     },
     "technology": {
       "videos": 2,
-      "avg_views": 13,
-      "best_views": 23
+      "avg_views": 14,
+      "best_views": 24
     }
   },
   "by_style": {
     "classic": {
-      "videos": 97,
-      "avg_views": 350,
+      "videos": 98,
+      "avg_views": 346,
       "over_1500": 3
     },
     "punch": {
@@ -138,12 +144,12 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 27,
-      "avg_views": 95
+      "videos": 28,
+      "avg_views": 93
     },
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 267
+      "avg_views": 268
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
@@ -748,7 +754,7 @@
       "hook": "A diver once surfaced and asked, who told me to get out?",
       "published_at": "2026-10-26T16:50:11Z",
       "privacy": "public",
-      "views": 2,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w"
@@ -908,10 +914,34 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 19,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k"
+    },
+    "nHXJKky23q8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bird Flies for Two Months and Sleeps in 12-Second Bursts",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A bird that can stay in the air for two months. When does it sleep?",
+      "published_at": "2026-10-27T02:07:15Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/nHXJKky23q8"
     },
     "C2m63XKX8rg": {
       "upload_status": "processed",
@@ -1016,7 +1046,7 @@
       "hook": "Thirty-three engines fire at once.",
       "published_at": "2026-10-26T18:30:19Z",
       "privacy": "public",
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_X77GXV_cLE"
@@ -1040,7 +1070,7 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 44,
+      "views": 45,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0"
@@ -2656,7 +2686,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 453,
+      "views": 455,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0",
@@ -2712,7 +2742,7 @@
       "hook": "Scientists filmed a deep-sea creature 150 feet long.",
       "published_at": "2026-10-23T15:10:07Z",
       "privacy": "public",
-      "views": 33,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MJ6FRS8q71M",
@@ -2740,7 +2770,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1052,
+      "views": 1054,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -3016,7 +3046,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 74,
+      "views": 75,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
@@ -3068,7 +3098,7 @@
       "hook": "A condor flew over a hundred miles without flapping once.",
       "published_at": "2026-10-26T12:40:15Z",
       "privacy": "public",
-      "views": 16,
+      "views": 18,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA"
@@ -3168,7 +3198,7 @@
       "hook": "A sloth can hold its breath for forty minutes.",
       "published_at": "2026-10-26T02:30:27Z",
       "privacy": "public",
-      "views": 65,
+      "views": 68,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/MB2BicyS1rs"
