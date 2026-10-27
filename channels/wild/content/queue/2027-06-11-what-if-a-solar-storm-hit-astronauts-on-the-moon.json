@@ -1,0 +1,60 @@
+{
+  "id": "2027-06-11-what-if-a-solar-storm-hit-astronauts-on-the-moon",
+  "topic": "space",
+  "format": "whatif",
+  "priority": 7,
+  "title": "What If a Giant Solar Storm Hit Astronauts on the Moon?",
+  "scenes": [
+    {
+      "text": "What if the Sun blasted astronauts walking on the Moon? It almost happened.",
+      "keywords": "astronaut moon surface"
+    },
+    {
+      "text": "In August 1972, between Apollo 16 and Apollo 17, a huge solar storm erupted from a giant sunspot.",
+      "keywords": "solar flare eruption sun"
+    },
+    {
+      "text": "The Moon has no air to stop the particles. Outside a spacecraft, the dose rate reached about 241 rem an hour.",
+      "keywords": "moon surface radiation"
+    },
+    {
+      "text": "NASA's Francis Cucinotta estimated a moonwalker could absorb around 400 rem. Half of people dosed above 300 rem would die within sixty days without care.",
+      "keywords": "astronaut hospital medical"
+    },
+    {
+      "text": "Inside the Apollo command module, the dose would have dropped to under 35 rem. Shelter mattered.",
+      "keywords": "apollo command module"
+    },
+    {
+      "text": "Nobody was on the Moon that week. Apollo 17 landed four months later, and a few millimeters of aluminum can shield against such storms.",
+      "keywords": "apollo 17 moon landing"
+    }
+  ],
+  "description": "What if a giant solar storm hit astronauts on the Moon?\nIt nearly happened in August 1972, and a moonwalker could have absorbed around 400 rem, but nobody was up there.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "solar storm",
+    "solar flare",
+    "apollo",
+    "moon",
+    "1972 solar storm",
+    "space radiation",
+    "space facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#moon",
+    "#space"
+  ],
+  "sources": [
+    "https://www.space.com/749-bad-week-moon.html",
+    "https://www.nationalacademies.org/read/10249/chapter/11",
+    "https://www.scientificamerican.com/article/can-a-moon-base-be-safe-for-astronauts"
+  ],
+  "thumbnail_text": "STORM ON THE MOON: 400 REM",
+  "first_comment": "Would you walk on the Moon knowing a solar storm could hit? Drop your own what if below."
+}
