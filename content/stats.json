@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-10-28T17:52:57+00:00",
+  "updated_at": "2026-10-28T19:31:46+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 41251,
-    "video_count": 130
+    "video_count": 132
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/q18WSuE5NJ0",
-      "https://youtube.com/shorts/78YbRLetQWA"
+      "https://youtube.com/shorts/RhsRw5DbPD4",
+      "https://youtube.com/shorts/szMs6LVs_BM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/78YbRLetQWA"
+      "https://youtube.com/shorts/szMs6LVs_BM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/78YbRLetQWA"
+      "https://youtube.com/shorts/szMs6LVs_BM"
     ]
   },
   "retention": {
-    "videos_with_data": 101,
-    "avg_view_percent": 68.3,
+    "videos_with_data": 111,
+    "avg_view_percent": 65.8,
     "by_topic": {
       "psychology": 71.3,
-      "science": 67.3,
-      "animals": 70.4,
+      "science": 67.2,
+      "animals": 65.7,
       "human body": 86.7,
-      "history": 54.4,
+      "history": 53.8,
       "space": 67.4,
-      "technology": 28.3
+      "technology": 51.8
     },
     "best": [
       {
@@ -70,9 +70,9 @@
         "views": 2
       },
       {
-        "title": "A Man o' War Isn't a Jellyfish. It's a Colony With 150-Foot Stingers",
-        "avg_view_percent": 22.1,
-        "views": 105
+        "title": "A Whale Once Fooled a Diver Into Hearing a Human Voice",
+        "avg_view_percent": 18.5,
+        "views": 35
       },
       {
         "title": "The Shortest War in History Lasted 38 Minutes",
@@ -85,15 +85,15 @@
         "views": 1
       },
       {
-        "title": "A Crocodile Bites With 3,700 Pounds of Force (Hardest Ever Measured)",
-        "avg_view_percent": 27.6,
-        "views": 112
+        "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
+        "avg_view_percent": 23.7,
+        "views": 53
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 130,
-  "total_views": 41696,
+  "total_videos": 132,
+  "total_views": 41765,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 77,
-      "avg_views": 303,
+      "videos": 79,
+      "avg_views": 296,
       "best_views": 1507
     },
     "human body": {
@@ -122,7 +122,7 @@
     },
     "space": {
       "videos": 19,
-      "avg_views": 430,
+      "avg_views": 431,
       "best_views": 1512
     },
     "technology": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 114,
-      "avg_views": 306,
+      "videos": 116,
+      "avg_views": 301,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 44,
-      "avg_views": 80
+      "videos": 46,
+      "avg_views": 78
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -755,10 +755,14 @@
       "hook": "A diver once surfaced and asked, who told me to get out?",
       "published_at": "2026-10-26T16:50:11Z",
       "privacy": "public",
-      "views": 31,
+      "views": 35,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Rahl0RiZm5w"
+      "url": "https://youtube.com/shorts/Rahl0RiZm5w",
+      "avg_view_seconds": 5.0,
+      "avg_view_percent": 18.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "0-l77m9gWbo": {
       "upload_status": "processed",
@@ -866,7 +870,11 @@
       "views": 31,
       "likes": 2,
       "comments": 2,
-      "url": "https://youtube.com/shorts/LCa_cpMsZOQ"
+      "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 38.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "_iAc9-aQoR4": {
       "upload_status": "processed",
@@ -918,7 +926,11 @@
       "views": 53,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/9s8UtHBrp8k"
+      "url": "https://youtube.com/shorts/9s8UtHBrp8k",
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 23.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "nHXJKky23q8": {
       "upload_status": "processed",
@@ -942,7 +954,11 @@
       "views": 109,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/nHXJKky23q8"
+      "url": "https://youtube.com/shorts/nHXJKky23q8",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 45.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "sqsrbQ8u4jw": {
       "upload_status": "processed",
@@ -963,7 +979,7 @@
       "hook": "Divers off Japan kept finding perfect circles on the seabed. Nobody knew who made them.",
       "published_at": "2026-10-27T12:10:34Z",
       "privacy": "public",
-      "views": 60,
+      "views": 63,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sqsrbQ8u4jw"
@@ -1015,7 +1031,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 28,
+      "views": 43,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E"
@@ -1039,7 +1055,7 @@
       "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
       "published_at": "2026-10-27T16:30:20Z",
       "privacy": "public",
-      "views": 24,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DmqaHptWqAY"
@@ -1063,7 +1079,7 @@
       "hook": "This worm has no mouth, no stomach, and it grows taller than you.",
       "published_at": "2026-10-27T14:00:23Z",
       "privacy": "public",
-      "views": 70,
+      "views": 73,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY"
@@ -1170,7 +1186,11 @@
       "views": 57,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/_X77GXV_cLE"
+      "url": "https://youtube.com/shorts/_X77GXV_cLE",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 75.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "HUKVi1Kn7E0": {
       "upload_status": "processed",
@@ -1195,8 +1215,8 @@
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0",
-      "avg_view_seconds": 35.0,
-      "avg_view_percent": 87.5,
+      "avg_view_seconds": 34.0,
+      "avg_view_percent": 84.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1219,7 +1239,7 @@
       "hook": "This beetle does a headstand every night. It's how it drinks.",
       "published_at": "2026-10-27T17:20:01Z",
       "privacy": "public",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hzWEks56BAU"
@@ -1243,7 +1263,7 @@
       "hook": "This toad grows its babies inside her own back.",
       "published_at": "2026-10-27T18:20:03Z",
       "privacy": "public",
-      "views": 60,
+      "views": 61,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qOYToJpqKag"
@@ -1351,10 +1371,14 @@
       "hook": "The five longest animals on Earth, ranked. Number one is not a whale.",
       "published_at": "2026-10-26T22:30:34Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/vosG2Q9tRXk"
+      "url": "https://youtube.com/shorts/vosG2Q9tRXk",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "vhWj8eW74zg": {
       "upload_status": "processed",
@@ -1375,7 +1399,7 @@
       "hook": "The slowest-spinning planet is not the one closest to the Sun.",
       "published_at": "2026-10-28T00:00:10Z",
       "privacy": "public",
-      "views": 26,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhWj8eW74zg"
@@ -2244,7 +2268,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q",
       "avg_view_seconds": 10.0,
-      "avg_view_percent": 30.3,
+      "avg_view_percent": 31.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2439,8 +2463,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/jLxl9OEAacQ",
-      "avg_view_seconds": 28.0,
-      "avg_view_percent": 73.8,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 66.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2771,7 +2795,7 @@
       "hook": "There's water at 750 degrees that never boils.",
       "published_at": "2026-10-27T19:50:26Z",
       "privacy": "public",
-      "views": 20,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/V5bBt2yI2PY"
@@ -2795,7 +2819,7 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 117,
+      "views": 129,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
@@ -2819,7 +2843,7 @@
       "hook": "An electric eel just zapped 860 volts.",
       "published_at": "2026-10-28T02:40:25Z",
       "privacy": "public",
-      "views": 13,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qH9gd2N8yTg"
@@ -2843,7 +2867,7 @@
       "hook": "This frog freezes solid and comes back to life.",
       "published_at": "2026-10-28T12:20:12Z",
       "privacy": "public",
-      "views": 19,
+      "views": 30,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo"
@@ -3004,7 +3028,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/TKL8_1FJz8Q",
       "avg_view_seconds": 18.0,
-      "avg_view_percent": 74.2,
+      "avg_view_percent": 72.5,
       "shares": 0,
       "subscribers_gained": 3
     },
@@ -3032,7 +3056,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 54.1,
+      "avg_view_percent": 53.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3053,22 +3077,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A python swallowed an alligator. Then it burst.",
-      "published_at": "2026-10-28T16:32:19Z",
-      "privacy": "private",
+      "published_at": "2026-10-28T18:00:24Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0"
     },
     "78YbRLetQWA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT26S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3077,11 +3101,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
-      "published_at": "2026-10-28T17:52:47Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-28T18:20:25Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA"
     },
     "T4gdnphQUUE": {
@@ -3111,6 +3135,54 @@
       "avg_view_percent": 50.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "RhsRw5DbPD4": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT25S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Killer Whales Make a Wave to Wash a Seal Off the Ice",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Killer whales make their own waves to hunt.",
+      "published_at": "2026-10-28T19:29:43Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/RhsRw5DbPD4"
+    },
+    "szMs6LVs_BM": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Snake Flattens Its Body and Glides 79 Feet Through the Air",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Some snakes launch themselves off trees and glide.",
+      "published_at": "2026-10-28T19:31:38Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/szMs6LVs_BM"
     },
     "MJ6FRS8q71M": {
       "upload_status": "processed",
@@ -3159,12 +3231,12 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1065,
+      "views": 1068,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 62.9,
+      "avg_view_percent": 62.7,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -3327,12 +3399,12 @@
       "hook": "A leopard can haul prey heavier than itself up a tree.",
       "published_at": "2026-10-25T02:40:00Z",
       "privacy": "public",
-      "views": 127,
+      "views": 128,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/wgJfNru7RlQ",
       "avg_view_seconds": 17.0,
-      "avg_view_percent": 70.9,
+      "avg_view_percent": 69.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3415,8 +3487,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM",
-      "avg_view_seconds": 6.0,
-      "avg_view_percent": 22.1,
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 28.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3439,10 +3511,14 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 104,
+      "views": 105,
       "likes": 4,
       "comments": 1,
-      "url": "https://youtube.com/shorts/nib97oLvxwI"
+      "url": "https://youtube.com/shorts/nib97oLvxwI",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 51.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "HS8O59SC0rc": {
       "upload_status": "processed",
@@ -3494,7 +3570,11 @@
       "views": 29,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/MvTzV6WNdAA"
+      "url": "https://youtube.com/shorts/MvTzV6WNdAA",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 50.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "tq008mZVJQU": {
       "upload_status": "processed",
@@ -3519,8 +3599,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 79.0,
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 74.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3543,10 +3623,14 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 29,
+      "views": 30,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/JBpnVxvYLEM"
+      "url": "https://youtube.com/shorts/JBpnVxvYLEM",
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 60.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "EwlfYEnJaiU": {
       "upload_status": "processed",
@@ -3599,8 +3683,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/MB2BicyS1rs",
-      "avg_view_seconds": 8.0,
-      "avg_view_percent": 36.2,
+      "avg_view_seconds": 6.0,
+      "avg_view_percent": 28.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3655,8 +3739,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
-      "avg_view_seconds": 21.0,
-      "avg_view_percent": 65.7,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 60.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3710,7 +3794,11 @@
       "views": 101,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/TjxKsQKmMj4"
+      "url": "https://youtube.com/shorts/TjxKsQKmMj4",
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 46.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "VY98speDz40": {
       "upload_status": "processed",
@@ -3762,7 +3850,11 @@
       "views": 24,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
+      "url": "https://youtube.com/shorts/VuyOz5b3Dk8",
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 28.0,
+      "shares": 0,
+      "subscribers_gained": 0
     }
   }
 }
