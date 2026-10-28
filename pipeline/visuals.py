@@ -228,9 +228,19 @@ class Visuals:
         return out
 
     # ------------------------------------------------------------------ choosing + downloading
+    def _must_show(self, query: str, cands: list[Candidate]) -> list[Candidate]:
+        """When the query names the video's subject ("frozen frog ice winter" in a frog video), keep only clips whose
+        description shows it, if any do; otherwise scenery words ('frozen', 'winter') can outvote the animal."""
+        must = {w for f in self.focus for w in _words(f) if w not in _FOCUS_STOP and len(w) >= 3} & _words(query)
+        if not must:
+            return cands
+        hits = [c for c in cands if must & _words(c.text)]
+        return hits or cands
+
     def _pick(self, cands: list[Candidate], min_duration: float, query: str = "", strict: bool = False) -> Candidate | None:
         cands = [c for c in cands if c.uid not in self.used]
         if strict and query:
+            cands = self._must_show(query, cands)
             # Only clips whose tags/link mention the subject ("alligator teeth close up" must not return a bee close-up);
             # the best-matching ones first. Nothing relevant -> None, so the next search (the video's subject) runs.
             scored = [(relevance(c, query), c) for c in cands]
@@ -291,7 +301,7 @@ class Visuals:
         cands: list[Candidate] = []
         for provider in (self._pixabay_videos, self._pexels_videos):
             cands += provider(keywords)
-        cands = [c for c in cands if c.uid not in self.used and c.kind == "video"]
+        cands = self._must_show(keywords, [c for c in cands if c.uid not in self.used and c.kind == "video"])
         scored = [(relevance(c, keywords), c) for c in cands]
         if any(r is not None for r, _ in scored):
             best = max((r or 0) for r, _ in scored)
