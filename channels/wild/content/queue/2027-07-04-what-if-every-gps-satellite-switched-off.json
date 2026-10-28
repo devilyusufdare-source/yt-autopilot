@@ -1,0 +1,57 @@
+{
+  "id": "2027-07-04-what-if-every-gps-satellite-switched-off",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If Every GPS Satellite Switched Off Tomorrow?",
+  "scenes": [
+    {
+      "text": "What if every GPS satellite switched off tomorrow? Your map is the least of it.",
+      "keywords": "gps satellite orbit earth"
+    },
+    {
+      "text": "GPS also carries the time. Banks, phone networks and utilities use its clock signal to stay in sync.",
+      "keywords": "atomic clock close up"
+    },
+    {
+      "text": "Within hours, systems that need tight timing would start to drift, and some would begin to fail.",
+      "keywords": "stock market screens"
+    },
+    {
+      "text": "A study commissioned by a US government agency put the loss at about one billion dollars a day.",
+      "keywords": "cargo ship port"
+    },
+    {
+      "text": "Ports would slow down, because they use GPS to coordinate unloading ships.",
+      "keywords": "container port cranes"
+    },
+    {
+      "text": "Phone service would worsen within two days. The satellites don't just guide us. They keep time for the modern world.",
+      "keywords": "cell tower sky"
+    }
+  ],
+  "description": "What if every GPS satellite switched off?\nA US study put the cost at about one billion dollars a day, and the timing signal matters as much as the maps.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "gps",
+    "satellites",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "navigation",
+    "modern world",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#gps",
+    "#technology"
+  ],
+  "sources": [
+    "https://www.engineering.org.cn/engi/EN/10.1016/j.eng.2019.10.007",
+    "https://gizmodo.com/what-would-happen-if-all-our-satellites-were-suddenly-d-1709006681"
+  ],
+  "thumbnail_text": "WHAT IF GPS SWITCHED OFF?",
+  "first_comment": "What would you miss first without GPS? Drop your own 'what if' below."
+}
