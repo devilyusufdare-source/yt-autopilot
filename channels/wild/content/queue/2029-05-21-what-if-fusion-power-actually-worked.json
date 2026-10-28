@@ -1,0 +1,57 @@
+{
+  "id": "2029-05-21-what-if-fusion-power-actually-worked",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If Fusion Power Worked? It Did Once, With a Catch",
+  "scenes": [
+    {
+      "text": "What if fusion power worked? It did once. There's a catch.",
+      "keywords": "fusion reactor laser"
+    },
+    {
+      "text": "On December 5, 2022, the National Ignition Facility fired its giant lasers at a tiny fuel capsule.",
+      "keywords": "laser facility"
+    },
+    {
+      "text": "The lasers delivered 2.05 megajoules to the target.",
+      "keywords": "laser beams target"
+    },
+    {
+      "text": "The fusion burst released 3.15 megajoules, the first time a lab got more fusion energy out than the laser energy delivered to the target.",
+      "keywords": "fusion explosion plasma"
+    },
+    {
+      "text": "The catch: those lasers drew about 300 megajoules from the power grid to make that pulse.",
+      "keywords": "power plant electricity"
+    },
+    {
+      "text": "So it was a scientific win, not a power plant. A real plant needs far more gain, and many shots every second.",
+      "keywords": "scientist laboratory control room"
+    }
+  ],
+  "description": "What if fusion power worked? In December 2022 a US lab got more fusion energy out than the laser energy it put on the target.\nBut the lasers themselves drew about 300 megajoules from the grid.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "fusion power",
+    "nuclear fusion",
+    "National Ignition Facility",
+    "energy breakthrough",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#fusion",
+    "#energy"
+  ],
+  "sources": [
+    "https://ans.org/news/article-4575/breakeven-breakthrough-at-the-national-ignition-facility",
+    "https://en.wikipedia.org/wiki/National_Ignition_Facility"
+  ],
+  "thumbnail_text": "WHAT IF FUSION POWER WORKED?",
+  "first_comment": "Would you live next to a fusion plant? Drop your own 'what if' below."
+}
