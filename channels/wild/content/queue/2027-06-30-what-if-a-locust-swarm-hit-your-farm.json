@@ -1,0 +1,57 @@
+{
+  "id": "2027-06-30-what-if-a-locust-swarm-hit-your-farm",
+  "format": "whatif",
+  "topic": "animals",
+  "priority": 6,
+  "title": "What If a Locust Swarm Hit Your Town?",
+  "subject": "desert locust swarm",
+  "scenes": [
+    {
+      "text": "What if locusts landed on your town? The sky goes dark first.",
+      "keywords": "locust swarm sky"
+    },
+    {
+      "text": "A swarm just one square kilometer wide can hold up to 80 million adult locusts.",
+      "keywords": "locusts close up swarm"
+    },
+    {
+      "text": "Each locust eats about its own weight every day. That swarm eats as much as 35,000 people.",
+      "keywords": "locusts eating crops field"
+    },
+    {
+      "text": "And it moves. Riding the wind, a swarm can travel up to 150 kilometers in a single day.",
+      "keywords": "swarm flying over field"
+    },
+    {
+      "text": "In 2020, one swarm in northern Kenya covered about 2,400 square kilometers, roughly the size of Luxembourg.",
+      "keywords": "farmland aerial kenya"
+    },
+    {
+      "text": "Swarms like that hit 23 countries, from East Africa to Pakistan. Nothing green was safe.",
+      "keywords": "stripped crops farmer"
+    }
+  ],
+  "description": "What if a locust swarm landed on your town?\nOne square kilometer of swarm can hold 80 million locusts and eat as much as 35,000 people each day.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "what would happen",
+    "science explained",
+    "shorts facts",
+    "locust swarm",
+    "desert locust",
+    "animal facts",
+    "kenya locusts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#locusts",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.fao.org/locusts/en/",
+    "https://theweek.com/news/science-health/954861/east-africa-locust-plagues"
+  ],
+  "thumbnail_text": "WHAT IF LOCUSTS HIT YOUR TOWN?",
+  "first_comment": "Would you rather face a locust swarm or a flood? Drop your own what-if."
+}
