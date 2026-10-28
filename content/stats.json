@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-28T13:38:41+00:00",
+  "updated_at": "2026-10-28T15:20:18+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 41251,
-    "video_count": 128
+    "video_count": 129
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/eBJwSEoXZoQ"
+      "https://youtube.com/shorts/0eDxP_Mfsoo"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/eBJwSEoXZoQ"
+      "https://youtube.com/shorts/0eDxP_Mfsoo"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/eBJwSEoXZoQ"
+      "https://youtube.com/shorts/0eDxP_Mfsoo"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 127,
-  "total_views": 41582,
+  "total_videos": 128,
+  "total_views": 41617,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 74,
-      "avg_views": 314,
+      "videos": 75,
+      "avg_views": 310,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 111,
-      "avg_views": 313,
+      "videos": 112,
+      "avg_views": 311,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 41,
-      "avg_views": 83
+      "videos": 42,
+      "avg_views": 82
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -754,7 +754,7 @@
       "hook": "A diver once surfaced and asked, who told me to get out?",
       "published_at": "2026-10-26T16:50:11Z",
       "privacy": "public",
-      "views": 29,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w"
@@ -1014,7 +1014,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 14,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E"
@@ -1038,7 +1038,7 @@
       "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
       "published_at": "2026-10-27T16:30:20Z",
       "privacy": "public",
-      "views": 21,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DmqaHptWqAY"
@@ -1114,7 +1114,7 @@
       "hook": "A tiny bird on the Galapagos drinks blood from birds far bigger than itself.",
       "published_at": "2026-10-27T17:00:25Z",
       "privacy": "public",
-      "views": 38,
+      "views": 52,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zlMkir0Z0S4"
@@ -1190,7 +1190,7 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 59,
+      "views": 60,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0",
@@ -1374,7 +1374,7 @@
       "hook": "The slowest-spinning planet is not the one closest to the Sun.",
       "published_at": "2026-10-28T00:00:10Z",
       "privacy": "public",
-      "views": 23,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhWj8eW74zg"
@@ -2794,7 +2794,7 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 99,
+      "views": 109,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
@@ -2876,6 +2876,30 @@
       "subscribers_gained": 0
     },
     "eBJwSEoXZoQ": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT23S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Beetle Fires Near-Boiling Spray 500 Times a Second",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This beetle blasts near-boiling liquid from its rear end.",
+      "published_at": "2026-10-28T15:00:04Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/eBJwSEoXZoQ"
+    },
+    "0eDxP_Mfsoo": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -2887,17 +2911,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "This Beetle Fires Near-Boiling Spray 500 Times a Second",
+      "title": "A Shark Was Caught 700 Miles Up the Mississippi River",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "This beetle blasts near-boiling liquid from its rear end.",
-      "published_at": "2026-10-28T13:38:34Z",
+      "hook": "A shark was caught 700 miles up the Mississippi River.",
+      "published_at": "2026-10-28T15:20:10Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/eBJwSEoXZoQ"
+      "url": "https://youtube.com/shorts/0eDxP_Mfsoo"
     },
     "_jeX-UKxfww": {
       "upload_status": "processed",
@@ -3366,7 +3390,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 103,
+      "views": 104,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
