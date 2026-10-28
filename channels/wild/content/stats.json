@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T20:40:26+00:00",
+  "updated_at": "2026-10-28T02:06:39+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,76 +9,88 @@
     "video_count": 13
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/pf34SeLuJgk"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/pf34SeLuJgk"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/pf34SeLuJgk"
+    ]
   },
   "retention": null,
   "retention_note": "analytics query failed: PERMISSION_DENIED: YouTube Analytics API has not been used in project 1019980911630 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview (accessNotConfigured)",
-  "total_videos": 13,
-  "total_views": 6103,
+  "total_videos": 14,
+  "total_views": 6650,
   "by_topic": {
     "earth": {
       "videos": 3,
-      "avg_views": 512,
-      "best_views": 982
+      "avg_views": 518,
+      "best_views": 1000
     },
     "space": {
-      "videos": 7,
-      "avg_views": 348,
-      "best_views": 1279
+      "videos": 8,
+      "avg_views": 367,
+      "best_views": 1282
     },
     "society": {
       "videos": 1,
-      "avg_views": 413,
-      "best_views": 413
+      "avg_views": 414,
+      "best_views": 414
     },
     "animals": {
       "videos": 1,
-      "avg_views": 1419,
-      "best_views": 1419
+      "avg_views": 1422,
+      "best_views": 1422
     },
     "body": {
       "videos": 1,
-      "avg_views": 298,
-      "best_views": 298
+      "avg_views": 325,
+      "best_views": 325
     }
   },
   "by_style": {
     "classic": {
-      "videos": 13,
-      "avg_views": 469,
+      "videos": 14,
+      "avg_views": 475,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 13,
-      "avg_views": 469
+      "videos": 14,
+      "avg_views": 475
     }
   },
   "top_videos": [
     {
       "title": "What If Every Mosquito Went Extinct?",
       "topic": "animals",
-      "views": 1419,
+      "views": 1422,
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
     },
     {
       "title": "What If Earth Stopped Spinning?",
       "topic": "space",
-      "views": 1279,
+      "views": 1282,
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
     },
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 982,
+      "views": 1000,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
+    },
+    {
+      "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
+      "topic": "space",
+      "views": 829,
+      "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes."
     },
     {
       "title": "What If All the Ice on Earth Melted?",
@@ -87,27 +99,21 @@
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
     },
     {
-      "title": "What If Everyone on Earth Jumped at the Same Time?",
-      "topic": "society",
-      "views": 413,
-      "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
-    },
-    {
       "title": "What If the Sun Went Out Right Now?",
       "topic": "space",
-      "views": 398,
+      "views": 420,
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes."
     },
     {
-      "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
-      "topic": "space",
-      "views": 393,
-      "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes."
+      "title": "What If Everyone on Earth Jumped at the Same Time?",
+      "topic": "society",
+      "views": 414,
+      "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
     },
     {
       "title": "What If You Never Slept Again?",
       "topic": "body",
-      "views": 298,
+      "views": 325,
       "hook": "What if you never slept again? Day one feels fine. It isn't."
     },
     {
@@ -191,7 +197,7 @@
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed.",
       "published_at": "2026-10-24T02:15:12Z",
       "privacy": "public",
-      "views": 1279,
+      "views": 1282,
       "likes": 25,
       "comments": 1,
       "url": "https://youtube.com/shorts/2yCHo6hsGYU"
@@ -215,7 +221,7 @@
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely.",
       "published_at": "2026-10-24T13:40:39Z",
       "privacy": "public",
-      "views": 413,
+      "views": 414,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c"
@@ -239,7 +245,7 @@
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
       "published_at": "2026-10-24T21:00:32Z",
       "privacy": "public",
-      "views": 1419,
+      "views": 1422,
       "likes": 27,
       "comments": 4,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg"
@@ -287,8 +293,8 @@
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes.",
       "published_at": "2026-10-26T02:30:21Z",
       "privacy": "public",
-      "views": 398,
-      "likes": 17,
+      "views": 420,
+      "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/a9uI0J8lYDA"
     },
@@ -335,8 +341,8 @@
       "hook": "What if you never slept again? Day one feels fine. It isn't.",
       "published_at": "2026-10-27T02:15:23Z",
       "privacy": "public",
-      "views": 298,
-      "likes": 9,
+      "views": 325,
+      "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/6nUPnY94QPA"
     },
@@ -359,8 +365,8 @@
       "hook": "What if a star exploded 50 light-years away? You wouldn't feel a thing, and that's the danger.",
       "published_at": "2026-10-27T14:00:17Z",
       "privacy": "public",
-      "views": 9,
-      "likes": 0,
+      "views": 32,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8"
     },
@@ -383,7 +389,7 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 982,
+      "views": 1000,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY"
@@ -407,10 +413,34 @@
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes.",
       "published_at": "2026-10-27T16:50:07Z",
       "privacy": "public",
-      "views": 393,
-      "likes": 20,
+      "views": 829,
+      "likes": 32,
       "comments": 1,
       "url": "https://youtube.com/shorts/vvwy7bHBZt4"
+    },
+    "pf34SeLuJgk": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Stood on Saturn's Moon Titan?",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly.",
+      "published_at": "2026-10-28T02:06:35Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/pf34SeLuJgk"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
@@ -431,8 +461,8 @@
       "hook": "What if the Sun suddenly vanished? For eight minutes, nobody would know.",
       "published_at": "2026-10-26T16:30:05Z",
       "privacy": "public",
-      "views": 99,
-      "likes": 5,
+      "views": 113,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/jwre0VbiRCc"
     }
