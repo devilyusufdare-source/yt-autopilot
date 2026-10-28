@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T04:01:24+00:00",
+  "updated_at": "2026-10-28T12:01:32+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,21 +9,27 @@
     "video_count": 127
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/a74rNzBmIfo"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/a74rNzBmIfo"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/a74rNzBmIfo"
+    ]
   },
   "retention": {
     "videos_with_data": 101,
-    "avg_view_percent": 68.2,
+    "avg_view_percent": 68.3,
     "by_topic": {
       "psychology": 71.3,
       "science": 67.3,
-      "animals": 70.2,
+      "animals": 70.4,
       "human body": 86.7,
       "history": 54.4,
       "space": 67.4,
@@ -80,13 +86,13 @@
       {
         "title": "A Crocodile Bites With 3,700 Pounds of Force (Hardest Ever Measured)",
         "avg_view_percent": 27.6,
-        "views": 111
+        "views": 112
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 125,
-  "total_views": 41395,
+  "total_videos": 126,
+  "total_views": 41550,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -99,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 72,
-      "avg_views": 321,
+      "videos": 73,
+      "avg_views": 318,
       "best_views": 1507
     },
     "human body": {
@@ -115,7 +121,7 @@
     },
     "space": {
       "videos": 19,
-      "avg_views": 429,
+      "avg_views": 430,
       "best_views": 1512
     },
     "technology": {
@@ -126,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 109,
-      "avg_views": 317,
+      "videos": 110,
+      "avg_views": 316,
       "over_1500": 3
     },
     "punch": {
@@ -138,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 39,
-      "avg_views": 83
+      "videos": 40,
+      "avg_views": 84
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -147,7 +153,7 @@
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
-      "avg_views": 13
+      "avg_views": 14
     },
     "en-US-GuyNeural": {
       "videos": 4,
@@ -748,7 +754,7 @@
       "hook": "A diver once surfaced and asked, who told me to get out?",
       "published_at": "2026-10-26T16:50:11Z",
       "privacy": "public",
-      "views": 27,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w"
@@ -772,12 +778,12 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 136,
+      "views": 138,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo",
-      "avg_view_seconds": 26.0,
-      "avg_view_percent": 65.8,
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 65.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -908,7 +914,7 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 45,
+      "views": 49,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k"
@@ -932,8 +938,8 @@
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
       "published_at": "2026-10-27T02:30:38Z",
       "privacy": "public",
-      "views": 84,
-      "likes": 1,
+      "views": 101,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8"
     },
@@ -956,7 +962,7 @@
       "hook": "Divers off Japan kept finding perfect circles on the seabed. Nobody knew who made them.",
       "published_at": "2026-10-27T12:10:34Z",
       "privacy": "public",
-      "views": 44,
+      "views": 56,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sqsrbQ8u4jw"
@@ -1008,7 +1014,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 12,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E"
@@ -1032,7 +1038,7 @@
       "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
       "published_at": "2026-10-27T16:30:20Z",
       "privacy": "public",
-      "views": 11,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DmqaHptWqAY"
@@ -1056,7 +1062,7 @@
       "hook": "This worm has no mouth, no stomach, and it grows taller than you.",
       "published_at": "2026-10-27T14:00:23Z",
       "privacy": "public",
-      "views": 52,
+      "views": 63,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY"
@@ -1108,7 +1114,7 @@
       "hook": "A tiny bird on the Galapagos drinks blood from birds far bigger than itself.",
       "published_at": "2026-10-27T17:00:25Z",
       "privacy": "public",
-      "views": 21,
+      "views": 40,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zlMkir0Z0S4"
@@ -1212,7 +1218,7 @@
       "hook": "This beetle does a headstand every night. It's how it drinks.",
       "published_at": "2026-10-27T17:20:01Z",
       "privacy": "public",
-      "views": 1,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hzWEks56BAU"
@@ -1236,8 +1242,8 @@
       "hook": "This toad grows its babies inside her own back.",
       "published_at": "2026-10-27T18:20:03Z",
       "privacy": "public",
-      "views": 40,
-      "likes": 1,
+      "views": 46,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qOYToJpqKag"
     },
@@ -1368,7 +1374,7 @@
       "hook": "The slowest-spinning planet is not the one closest to the Sun.",
       "published_at": "2026-10-28T00:00:10Z",
       "privacy": "public",
-      "views": 3,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhWj8eW74zg"
@@ -1924,7 +1930,7 @@
       "hook": "A crocodile bites with 3,700 pounds of force.",
       "published_at": "2026-10-20T15:00:22Z",
       "privacy": "public",
-      "views": 111,
+      "views": 112,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUX5ClQ4so",
@@ -2624,7 +2630,7 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/l57MjoYS9NY",
@@ -2736,7 +2742,7 @@
       "hook": "This jellyfish has 24 eyes and stops your heart in two minutes.",
       "published_at": "2026-10-22T21:00:13Z",
       "privacy": "public",
-      "views": 165,
+      "views": 164,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/D1RgFDxYIeU",
@@ -2764,7 +2770,7 @@
       "hook": "There's water at 750 degrees that never boils.",
       "published_at": "2026-10-27T19:50:26Z",
       "privacy": "public",
-      "views": 10,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/V5bBt2yI2PY"
@@ -2788,7 +2794,7 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 75,
+      "views": 94,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
@@ -2812,10 +2818,34 @@
       "hook": "An electric eel just zapped 860 volts.",
       "published_at": "2026-10-28T02:40:25Z",
       "privacy": "public",
-      "views": 1,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qH9gd2N8yTg"
+    },
+    "a74rNzBmIfo": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Frog Freezes Solid, Stops Its Heart, Then Hops Away",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This frog freezes solid and comes back to life.",
+      "published_at": "2026-10-28T12:01:24Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/a74rNzBmIfo"
     },
     "TtDH4yL4P10": {
       "upload_status": "processed",
@@ -2948,7 +2978,7 @@
       "hook": "A cockroach can keep living after its head is gone.",
       "published_at": "2026-10-25T00:20:04Z",
       "privacy": "public",
-      "views": 457,
+      "views": 456,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0",
@@ -3064,8 +3094,8 @@
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 48.1,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 47.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3088,7 +3118,7 @@
       "hook": "One octopus guarded her eggs for four and a half years.",
       "published_at": "2026-10-23T17:10:25Z",
       "privacy": "public",
-      "views": 205,
+      "views": 206,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY",
@@ -3148,8 +3178,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o",
-      "avg_view_seconds": 19.0,
-      "avg_view_percent": 68.3,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 76.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3200,7 +3230,7 @@
       "hook": "A leopard can haul prey heavier than itself up a tree.",
       "published_at": "2026-10-25T02:40:00Z",
       "privacy": "public",
-      "views": 128,
+      "views": 127,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/wgJfNru7RlQ",
@@ -3228,7 +3258,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 67,
+      "views": 68,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uMujdO5WqYo",
@@ -3312,7 +3342,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 101,
+      "views": 103,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI"
@@ -3416,7 +3446,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 23,
+      "views": 26,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
@@ -3524,7 +3554,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
@@ -3632,8 +3662,8 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 18,
-      "likes": 0,
+      "views": 21,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
     }
