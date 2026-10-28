@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T16:32:27+00:00",
+  "updated_at": "2026-10-28T17:52:57+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/q18WSuE5NJ0"
+      "https://youtube.com/shorts/q18WSuE5NJ0",
+      "https://youtube.com/shorts/78YbRLetQWA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/q18WSuE5NJ0"
+      "https://youtube.com/shorts/78YbRLetQWA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/q18WSuE5NJ0"
+      "https://youtube.com/shorts/78YbRLetQWA"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 129,
-  "total_views": 41677,
+  "total_videos": 130,
+  "total_views": 41696,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,12 +102,12 @@
     },
     "science": {
       "videos": 16,
-      "avg_views": 335,
+      "avg_views": 336,
       "best_views": 1648
     },
     "animals": {
-      "videos": 76,
-      "avg_views": 307,
+      "videos": 77,
+      "avg_views": 303,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 113,
-      "avg_views": 309,
+      "videos": 114,
+      "avg_views": 306,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 43,
-      "avg_views": 81
+      "videos": 44,
+      "avg_views": 80
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -862,7 +863,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 29,
+      "views": 31,
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ"
@@ -938,7 +939,7 @@
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
       "published_at": "2026-10-27T02:30:38Z",
       "privacy": "public",
-      "views": 106,
+      "views": 109,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8"
@@ -1114,7 +1115,7 @@
       "hook": "A tiny bird on the Galapagos drinks blood from birds far bigger than itself.",
       "published_at": "2026-10-27T17:00:25Z",
       "privacy": "public",
-      "views": 48,
+      "views": 56,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zlMkir0Z0S4"
@@ -2770,7 +2771,7 @@
       "hook": "There's water at 750 degrees that never boils.",
       "published_at": "2026-10-27T19:50:26Z",
       "privacy": "public",
-      "views": 18,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/V5bBt2yI2PY"
@@ -2794,7 +2795,7 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 116,
+      "views": 117,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
@@ -2842,7 +2843,7 @@
       "hook": "This frog freezes solid and comes back to life.",
       "published_at": "2026-10-28T12:20:12Z",
       "privacy": "public",
-      "views": 20,
+      "views": 19,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo"
@@ -2920,7 +2921,7 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/0eDxP_Mfsoo"
     },
     "_jeX-UKxfww": {
@@ -3036,14 +3037,14 @@
       "subscribers_gained": 0
     },
     "q18WSuE5NJ0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT26S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3058,6 +3059,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0"
+    },
+    "78YbRLetQWA": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Giant Catfish Throws Itself Onto Land to Eat Pigeons",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A giant catfish throws itself onto land to catch pigeons.",
+      "published_at": "2026-10-28T17:52:47Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/78YbRLetQWA"
     },
     "T4gdnphQUUE": {
       "upload_status": "processed",
@@ -3518,7 +3543,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 27,
+      "views": 29,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM"
@@ -3734,7 +3759,7 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 22,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8"
