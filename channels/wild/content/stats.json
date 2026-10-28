@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-10-28T16:28:33+00:00",
+  "updated_at": "2026-10-28T20:43:18+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 10,
     "channel_views": 5729,
-    "video_count": 15
+    "video_count": 16
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/yxeZpoL6wKQ"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/yxeZpoL6wKQ"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/yxeZpoL6wKQ"
-    ]
+    "sd_only": []
   },
   "retention": {
-    "videos_with_data": 8,
-    "avg_view_percent": 70.9,
+    "videos_with_data": 11,
+    "avg_view_percent": 72.2,
     "by_topic": {
-      "earth": 76.6,
-      "space": 63.3,
-      "society": 65.8,
-      "animals": 81.7
+      "earth": 76.8,
+      "space": 71.0,
+      "society": 67.4,
+      "animals": 81.7,
+      "body": 60.3
     },
     "best": [
+      {
+        "title": "What If the Sun Suddenly Disappeared?",
+        "avg_view_percent": 108.6,
+        "views": 180
+      },
       {
         "title": "What If All the Ice on Earth Melted?",
         "avg_view_percent": 98.4,
@@ -41,64 +41,59 @@
       {
         "title": "What If Every Mosquito Went Extinct?",
         "avg_view_percent": 81.7,
-        "views": 1423
+        "views": 1424
       },
       {
         "title": "What If the Sun Went Out Right Now?",
-        "avg_view_percent": 74.6,
+        "avg_view_percent": 73.1,
         "views": 428
       },
       {
-        "title": "What If Earth Stopped Spinning?",
-        "avg_view_percent": 69.9,
-        "views": 1281
-      },
-      {
         "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
-        "avg_view_percent": 69.1,
+        "avg_view_percent": 70.0,
         "views": 120
       }
     ],
     "worst": [
       {
         "title": "What If the Moon Disappeared Tonight?",
-        "avg_view_percent": 45.5,
+        "avg_view_percent": 51.1,
         "views": 12
       },
       {
+        "title": "What If You Fell Into a Black Hole?",
+        "avg_view_percent": 52.1,
+        "views": 246
+      },
+      {
+        "title": "What If You Never Slept Again?",
+        "avg_view_percent": 60.3,
+        "views": 423
+      },
+      {
         "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
-        "avg_view_percent": 62.4,
-        "views": 1014
+        "avg_view_percent": 62.1,
+        "views": 1015
       },
       {
         "title": "What If Everyone on Earth Jumped at the Same Time?",
-        "avg_view_percent": 65.8,
+        "avg_view_percent": 67.4,
         "views": 414
-      },
-      {
-        "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
-        "avg_view_percent": 69.1,
-        "views": 120
-      },
-      {
-        "title": "What If Earth Stopped Spinning?",
-        "avg_view_percent": 69.9,
-        "views": 1281
       }
     ]
   },
   "retention_note": null,
   "total_videos": 16,
-  "total_views": 7203,
+  "total_views": 7249,
   "by_topic": {
     "earth": {
       "videos": 3,
       "avg_views": 523,
-      "best_views": 1014
+      "best_views": 1015
     },
     "space": {
       "videos": 10,
-      "avg_views": 339,
+      "avg_views": 342,
       "best_views": 1281
     },
     "society": {
@@ -108,33 +103,33 @@
     },
     "animals": {
       "videos": 1,
-      "avg_views": 1423,
-      "best_views": 1423
+      "avg_views": 1424,
+      "best_views": 1424
     },
     "body": {
       "videos": 1,
-      "avg_views": 409,
-      "best_views": 409
+      "avg_views": 423,
+      "best_views": 423
     }
   },
   "by_style": {
     "classic": {
       "videos": 16,
-      "avg_views": 450,
+      "avg_views": 453,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 16,
-      "avg_views": 450
+      "avg_views": 453
     }
   },
   "top_videos": [
     {
       "title": "What If Every Mosquito Went Extinct?",
       "topic": "animals",
-      "views": 1423,
+      "views": 1424,
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
     },
     {
@@ -146,7 +141,7 @@
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 1014,
+      "views": 1015,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -168,16 +163,16 @@
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes."
     },
     {
+      "title": "What If You Never Slept Again?",
+      "topic": "body",
+      "views": 423,
+      "hook": "What if you never slept again? Day one feels fine. It isn't."
+    },
+    {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
       "views": 414,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
-    },
-    {
-      "title": "What If You Never Slept Again?",
-      "topic": "body",
-      "views": 409,
-      "hook": "What if you never slept again? Day one feels fine. It isn't."
     },
     {
       "title": "What If You Fell Into a Black Hole?",
@@ -188,7 +183,7 @@
     {
       "title": "What If You Stood on Saturn's Moon Titan?",
       "topic": "space",
-      "views": 236,
+      "views": 246,
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly."
     }
   ],
@@ -245,7 +240,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/jKyqYNkFqgE",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 69.1,
+      "avg_view_percent": 70.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -301,7 +296,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c",
       "avg_view_seconds": 22.0,
-      "avg_view_percent": 65.8,
+      "avg_view_percent": 67.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -324,7 +319,7 @@
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
       "published_at": "2026-10-24T21:00:32Z",
       "privacy": "public",
-      "views": 1423,
+      "views": 1424,
       "likes": 27,
       "comments": 4,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg",
@@ -356,8 +351,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UBTO3oOKAF0",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 45.5,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 51.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -385,7 +380,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/a9uI0J8lYDA",
       "avg_view_seconds": 26.0,
-      "avg_view_percent": 74.6,
+      "avg_view_percent": 73.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -411,7 +406,11 @@
       "views": 246,
       "likes": 5,
       "comments": 1,
-      "url": "https://youtube.com/shorts/PyXFeRMftHU"
+      "url": "https://youtube.com/shorts/PyXFeRMftHU",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 52.1,
+      "shares": 0,
+      "subscribers_gained": 2
     },
     "6nUPnY94QPA": {
       "upload_status": "processed",
@@ -432,10 +431,14 @@
       "hook": "What if you never slept again? Day one feels fine. It isn't.",
       "published_at": "2026-10-27T02:15:23Z",
       "privacy": "public",
-      "views": 409,
-      "likes": 10,
+      "views": 423,
+      "likes": 11,
       "comments": 1,
-      "url": "https://youtube.com/shorts/6nUPnY94QPA"
+      "url": "https://youtube.com/shorts/6nUPnY94QPA",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 60.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "S5qOoYJHgX8": {
       "upload_status": "processed",
@@ -456,7 +459,7 @@
       "hook": "What if a star exploded 50 light-years away? You wouldn't feel a thing, and that's the danger.",
       "published_at": "2026-10-27T14:00:17Z",
       "privacy": "public",
-      "views": 73,
+      "views": 79,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8"
@@ -480,12 +483,12 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 1014,
+      "views": 1015,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 62.4,
+      "avg_view_percent": 62.1,
       "shares": 0,
       "subscribers_gained": 2
     },
@@ -532,7 +535,7 @@
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly.",
       "published_at": "2026-10-28T02:30:11Z",
       "privacy": "public",
-      "views": 236,
+      "views": 246,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/pf34SeLuJgk"
@@ -556,20 +559,20 @@
       "hook": "What if you flew at 99 percent of light speed? Your clock would run seven times slower.",
       "published_at": "2026-10-28T14:00:34Z",
       "privacy": "public",
-      "views": 18,
+      "views": 30,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/hJIo0ee4tPA"
     },
     "yxeZpoL6wKQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT36S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -578,11 +581,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you visited a neutron star? Its tallest mountain is thinner than a hair.",
-      "published_at": "2026-10-28T16:28:29Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-28T17:00:16Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/yxeZpoL6wKQ"
     },
     "jwre0VbiRCc": {
@@ -604,10 +607,14 @@
       "hook": "What if the Sun suddenly vanished? For eight minutes, nobody would know.",
       "published_at": "2026-10-26T16:30:05Z",
       "privacy": "public",
-      "views": 179,
+      "views": 180,
       "likes": 7,
       "comments": 1,
-      "url": "https://youtube.com/shorts/jwre0VbiRCc"
+      "url": "https://youtube.com/shorts/jwre0VbiRCc",
+      "avg_view_seconds": 40.0,
+      "avg_view_percent": 108.6,
+      "shares": 0,
+      "subscribers_gained": 0
     }
   }
 }

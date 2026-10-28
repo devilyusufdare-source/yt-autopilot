@@ -1,0 +1,27 @@
+run failed at 2026-10-28T20:43:19+00:00 UTC (last 25 lines, secrets removed)
+
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/asyncio/base_events.py", line 691, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/work/yt-autopilot/yt-autopilot/pipeline/tts.py", line 138, in _edge_one
+    async for chunk in communicate.stream():
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/edge_tts/communicate.py", line 588, in stream
+    async for message in self.__stream():
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+[run] (1/1) 2026-10-26-what-if-humans-could-photosynthesize.json  title: What If Humans Could Photosynthesize?
+[run] style: classic
+[run] voice: 7 scenes (en-US-AndrewNeural)
+[tts] edge-tts scene 0 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying
+[tts] edge-tts scene 2 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying
+[tts] edge-tts scene 2 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying
+[run] stats refreshed: 16 videos, 7249 views total
+
+[run] finished: 0 video(s) done, 1 failed
