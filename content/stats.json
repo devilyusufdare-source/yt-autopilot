@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-28T22:16:40+00:00",
+  "updated_at": "2026-10-28T23:44:59+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 41656,
-    "video_count": 135
+    "video_count": 136
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/mzel-4ZbiC0"
+      "https://youtube.com/shorts/14_g6NqKatc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/mzel-4ZbiC0"
+      "https://youtube.com/shorts/14_g6NqKatc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/mzel-4ZbiC0"
+      "https://youtube.com/shorts/14_g6NqKatc"
     ]
   },
   "retention": {
@@ -71,7 +71,7 @@
       {
         "title": "A Whale Once Fooled a Diver Into Hearing a Human Voice",
         "avg_view_percent": 18.5,
-        "views": 36
+        "views": 35
       },
       {
         "title": "The Shortest War in History Lasted 38 Minutes",
@@ -86,13 +86,13 @@
       {
         "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
         "avg_view_percent": 23.7,
-        "views": 54
+        "views": 56
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 134,
-  "total_views": 41842,
+  "total_videos": 135,
+  "total_views": 41921,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,7 +106,7 @@
     },
     "animals": {
       "videos": 80,
-      "avg_views": 293,
+      "avg_views": 294,
       "best_views": 1507
     },
     "human body": {
@@ -125,15 +125,15 @@
       "best_views": 1512
     },
     "technology": {
-      "videos": 2,
-      "avg_views": 30,
+      "videos": 3,
+      "avg_views": 20,
       "best_views": 57
     }
   },
   "by_style": {
     "classic": {
-      "videos": 118,
-      "avg_views": 297,
+      "videos": 119,
+      "avg_views": 295,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 48,
+      "videos": 49,
       "avg_views": 76
     },
     "en-US-BrianNeural": {
@@ -754,7 +754,7 @@
       "hook": "A diver once surfaced and asked, who told me to get out?",
       "published_at": "2026-10-26T16:50:11Z",
       "privacy": "public",
-      "views": 36,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w",
@@ -866,7 +866,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 31,
+      "views": 36,
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
@@ -922,7 +922,7 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 54,
+      "views": 56,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k",
@@ -978,7 +978,7 @@
       "hook": "Divers off Japan kept finding perfect circles on the seabed. Nobody knew who made them.",
       "published_at": "2026-10-27T12:10:34Z",
       "privacy": "public",
-      "views": 64,
+      "views": 68,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sqsrbQ8u4jw"
@@ -1030,7 +1030,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 51,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E"
@@ -1238,7 +1238,7 @@
       "hook": "This beetle does a headstand every night. It's how it drinks.",
       "published_at": "2026-10-27T17:20:01Z",
       "privacy": "public",
-      "views": 14,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hzWEks56BAU"
@@ -1262,7 +1262,7 @@
       "hook": "This toad grows its babies inside her own back.",
       "published_at": "2026-10-27T18:20:03Z",
       "privacy": "public",
-      "views": 69,
+      "views": 71,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qOYToJpqKag"
@@ -1398,10 +1398,34 @@
       "hook": "The slowest-spinning planet is not the one closest to the Sun.",
       "published_at": "2026-10-28T00:00:10Z",
       "privacy": "public",
-      "views": 31,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhWj8eW74zg"
+    },
+    "14_g6NqKatc": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Farthest Human-Made Objects, Ranked (#1 Is Almost a Light-Day Away)",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The farthest thing humans ever built is almost a full light-day from home.",
+      "published_at": "2026-10-28T23:44:52Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/14_g6NqKatc"
     },
     "UUHeyNuVn8M": {
       "upload_status": "processed",
@@ -2818,7 +2842,7 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 129,
+      "views": 132,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
@@ -2842,7 +2866,7 @@
       "hook": "An electric eel just zapped 860 volts.",
       "published_at": "2026-10-28T02:40:25Z",
       "privacy": "public",
-      "views": 18,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qH9gd2N8yTg"
@@ -2866,8 +2890,8 @@
       "hook": "This frog freezes solid and comes back to life.",
       "published_at": "2026-10-28T12:20:12Z",
       "privacy": "public",
-      "views": 36,
-      "likes": 1,
+      "views": 38,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo"
     },
@@ -3102,9 +3126,9 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 0,
+      "views": 19,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0"
     },
     "78YbRLetQWA": {
@@ -3126,7 +3150,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 4,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA"
@@ -3394,7 +3418,7 @@
       "hook": "This bird can fly for two months without ever landing.",
       "published_at": "2026-10-25T02:15:36Z",
       "privacy": "public",
-      "views": 1025,
+      "views": 1026,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU",
@@ -3404,14 +3428,14 @@
       "subscribers_gained": 1
     },
     "mzel-4ZbiC0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT26S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3420,11 +3444,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A goblin shark can shoot its jaws out of its own face.",
-      "published_at": "2026-10-28T22:16:33Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-28T22:40:04Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/mzel-4ZbiC0"
     },
     "wgJfNru7RlQ": {
