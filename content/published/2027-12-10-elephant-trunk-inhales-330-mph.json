@@ -54,5 +54,21 @@
   ],
   "thumbnail_text": "ELEPHANTS INHALE AT 330 MPH",
   "priority": 7,
-  "first_comment": "Which is more impressive, the speed or the gentleness?"
+  "first_comment": "Which is more impressive, the speed or the gentleness?",
+  "youtube_id": "oHOSiC4XktU",
+  "url": "https://youtube.com/shorts/oHOSiC4XktU",
+  "uploaded_at": "2026-10-29T12:07:34+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-29T12:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 9,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 27.5,
+  "style": "classic",
+  "kind": "shorts"
 }

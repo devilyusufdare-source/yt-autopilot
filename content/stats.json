@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-29T02:11:58+00:00",
+  "updated_at": "2026-10-29T12:07:36+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
-    "channel_views": 41656,
-    "video_count": 137
+    "channel_views": 41966,
+    "video_count": 138
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/tB1PyAE5HZs"
+      "https://youtube.com/shorts/oHOSiC4XktU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/tB1PyAE5HZs"
+      "https://youtube.com/shorts/oHOSiC4XktU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/tB1PyAE5HZs"
+      "https://youtube.com/shorts/oHOSiC4XktU"
     ]
   },
   "retention": {
@@ -29,7 +29,7 @@
     "by_topic": {
       "psychology": 71.3,
       "science": 67.2,
-      "animals": 65.7,
+      "animals": 65.8,
       "human body": 86.7,
       "history": 53.8,
       "space": 67.4,
@@ -86,13 +86,13 @@
       {
         "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
         "avg_view_percent": 23.7,
-        "views": 56
+        "views": 57
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 136,
-  "total_views": 42009,
+  "total_videos": 137,
+  "total_views": 42454,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,12 +101,12 @@
     },
     "science": {
       "videos": 17,
-      "avg_views": 316,
+      "avg_views": 318,
       "best_views": 1648
     },
     "animals": {
-      "videos": 81,
-      "avg_views": 292,
+      "videos": 82,
+      "avg_views": 293,
       "best_views": 1507
     },
     "human body": {
@@ -122,18 +122,18 @@
     "space": {
       "videos": 19,
       "avg_views": 431,
-      "best_views": 1512
+      "best_views": 1513
     },
     "technology": {
       "videos": 3,
-      "avg_views": 20,
+      "avg_views": 26,
       "best_views": 57
     }
   },
   "by_style": {
     "classic": {
-      "videos": 120,
-      "avg_views": 293,
+      "videos": 121,
+      "avg_views": 295,
       "over_1500": 3
     },
     "punch": {
@@ -144,12 +144,12 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 50,
-      "avg_views": 77
+      "videos": 51,
+      "avg_views": 84
     },
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 268
+      "avg_views": 269
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
@@ -178,7 +178,7 @@
     {
       "title": "If Your Car Could Drive Straight Up, Space Is an Hour Away",
       "topic": "space",
-      "views": 1512,
+      "views": 1513,
       "hook": "If your car could drive straight up, you'd reach space in an hour."
     },
     {
@@ -866,7 +866,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 37,
+      "views": 38,
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
@@ -922,7 +922,7 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 56,
+      "views": 57,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k",
@@ -950,7 +950,7 @@
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
       "published_at": "2026-10-27T02:30:38Z",
       "privacy": "public",
-      "views": 113,
+      "views": 114,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8",
@@ -978,7 +978,7 @@
       "hook": "Divers off Japan kept finding perfect circles on the seabed. Nobody knew who made them.",
       "published_at": "2026-10-27T12:10:34Z",
       "privacy": "public",
-      "views": 68,
+      "views": 67,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sqsrbQ8u4jw"
@@ -1002,7 +1002,7 @@
       "hook": "The five deadliest eruptions since 1500. The deadliest one didn't kill most people with lava, ash or fire.",
       "published_at": "2026-10-24T02:20:26Z",
       "privacy": "public",
-      "views": 27,
+      "views": 28,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C2m63XKX8rg",
@@ -1030,7 +1030,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 61,
+      "views": 72,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E"
@@ -1054,7 +1054,7 @@
       "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
       "published_at": "2026-10-27T16:30:20Z",
       "privacy": "public",
-      "views": 26,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DmqaHptWqAY"
@@ -1078,7 +1078,7 @@
       "hook": "This worm has no mouth, no stomach, and it grows taller than you.",
       "published_at": "2026-10-27T14:00:23Z",
       "privacy": "public",
-      "views": 78,
+      "views": 83,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY"
@@ -1130,8 +1130,8 @@
       "hook": "A tiny bird on the Galapagos drinks blood from birds far bigger than itself.",
       "published_at": "2026-10-27T17:00:25Z",
       "privacy": "public",
-      "views": 63,
-      "likes": 1,
+      "views": 70,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/zlMkir0Z0S4"
     },
@@ -1238,7 +1238,7 @@
       "hook": "This beetle does a headstand every night. It's how it drinks.",
       "published_at": "2026-10-27T17:20:01Z",
       "privacy": "public",
-      "views": 17,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hzWEks56BAU"
@@ -1262,7 +1262,7 @@
       "hook": "This toad grows its babies inside her own back.",
       "published_at": "2026-10-27T18:20:03Z",
       "privacy": "public",
-      "views": 71,
+      "views": 92,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qOYToJpqKag"
@@ -1370,7 +1370,7 @@
       "hook": "The five longest animals on Earth, ranked. Number one is not a whale.",
       "published_at": "2026-10-26T22:30:34Z",
       "privacy": "public",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vosG2Q9tRXk",
@@ -1398,7 +1398,7 @@
       "hook": "The slowest-spinning planet is not the one closest to the Sun.",
       "published_at": "2026-10-28T00:00:10Z",
       "privacy": "public",
-      "views": 34,
+      "views": 39,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhWj8eW74zg"
@@ -1422,8 +1422,8 @@
       "hook": "The farthest thing humans ever built is almost a full light-day from home.",
       "published_at": "2026-10-29T00:10:36Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 18,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc"
     },
@@ -1698,7 +1698,7 @@
       "hook": "If your car could drive straight up, you'd reach space in an hour.",
       "published_at": "2026-10-18T10:30:02Z",
       "privacy": "public",
-      "views": 1512,
+      "views": 1513,
       "likes": 18,
       "comments": 1,
       "url": "https://youtube.com/shorts/a_7ULbNzldk",
@@ -2426,7 +2426,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 295,
+      "views": 298,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
@@ -2818,7 +2818,7 @@
       "hook": "There's water at 750 degrees that never boils.",
       "published_at": "2026-10-27T19:50:26Z",
       "privacy": "public",
-      "views": 24,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/V5bBt2yI2PY"
@@ -2842,8 +2842,8 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 140,
-      "likes": 2,
+      "views": 150,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
     },
@@ -2866,7 +2866,7 @@
       "hook": "An electric eel just zapped 860 volts.",
       "published_at": "2026-10-28T02:40:25Z",
       "privacy": "public",
-      "views": 20,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qH9gd2N8yTg"
@@ -2890,7 +2890,7 @@
       "hook": "This frog freezes solid and comes back to life.",
       "published_at": "2026-10-28T12:20:12Z",
       "privacy": "public",
-      "views": 42,
+      "views": 56,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo"
@@ -2942,7 +2942,7 @@
       "hook": "This beetle blasts near-boiling liquid from its rear end.",
       "published_at": "2026-10-28T15:00:04Z",
       "privacy": "public",
-      "views": 14,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eBJwSEoXZoQ"
@@ -2966,7 +2966,7 @@
       "hook": "A shark was caught 700 miles up the Mississippi River.",
       "published_at": "2026-10-28T16:30:27Z",
       "privacy": "public",
-      "views": 11,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0eDxP_Mfsoo"
@@ -2990,7 +2990,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 80,
+      "views": 81,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww",
@@ -3046,7 +3046,7 @@
       "hook": "A lake at the bottom of the sea kills what swims in.",
       "published_at": "2026-10-28T21:20:34Z",
       "privacy": "public",
-      "views": 7,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u7j4uSn2hiE"
@@ -3126,7 +3126,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 28,
+      "views": 85,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0"
@@ -3150,7 +3150,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 52,
+      "views": 108,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA"
@@ -3202,7 +3202,7 @@
       "hook": "Killer whales make their own waves to hunt.",
       "published_at": "2026-10-28T20:00:33Z",
       "privacy": "public",
-      "views": 28,
+      "views": 82,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RhsRw5DbPD4"
@@ -3226,7 +3226,7 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 4,
+      "views": 108,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM"
@@ -3310,8 +3310,8 @@
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/mCHZ0xPm6SE",
-      "avg_view_seconds": 11.0,
-      "avg_view_percent": 47.9,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 48.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3362,7 +3362,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 105,
+      "views": 106,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A",
@@ -3390,7 +3390,7 @@
       "hook": "Some adult insects live for less than five minutes.",
       "published_at": "2026-10-23T19:40:06Z",
       "privacy": "public",
-      "views": 30,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o",
@@ -3418,12 +3418,12 @@
       "hook": "This bird can fly for two months without ever landing.",
       "published_at": "2026-10-25T02:15:36Z",
       "privacy": "public",
-      "views": 1026,
+      "views": 1027,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 90.7,
+      "avg_view_percent": 91.2,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -3446,20 +3446,20 @@
       "hook": "A goblin shark can shoot its jaws out of its own face.",
       "published_at": "2026-10-28T22:40:04Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 4,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/mzel-4ZbiC0"
     },
     "tB1PyAE5HZs": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT27S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3468,12 +3468,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Orcas throw themselves onto a beach to catch their dinner.",
-      "published_at": "2026-10-29T02:11:48Z",
+      "published_at": "2026-10-29T02:40:02Z",
+      "privacy": "public",
+      "views": 16,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/tB1PyAE5HZs"
+    },
+    "oHOSiC4XktU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "An Elephant's Trunk Inhales Air at 330 Miles an Hour",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "An elephant sniffs air in at 330 miles per hour.",
+      "published_at": "2026-10-29T12:07:30Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/tB1PyAE5HZs"
+      "url": "https://youtube.com/shorts/oHOSiC4XktU"
     },
     "wgJfNru7RlQ": {
       "upload_status": "processed",
@@ -3606,7 +3630,7 @@
       "hook": "Crocodiles can't chew, so they spin.",
       "published_at": "2026-10-26T12:20:02Z",
       "privacy": "public",
-      "views": 105,
+      "views": 106,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI",
@@ -3662,7 +3686,7 @@
       "hook": "A condor flew over a hundred miles without flapping once.",
       "published_at": "2026-10-26T12:40:15Z",
       "privacy": "public",
-      "views": 30,
+      "views": 31,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA",
@@ -3690,7 +3714,7 @@
       "hook": "The most successful hunter in Africa isn't a lion.",
       "published_at": "2026-10-25T21:00:13Z",
       "privacy": "public",
-      "views": 202,
+      "views": 201,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tq008mZVJQU",
