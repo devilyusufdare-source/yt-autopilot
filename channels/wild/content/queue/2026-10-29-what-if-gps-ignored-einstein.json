@@ -1,0 +1,57 @@
+{
+  "id": "2026-10-29-what-if-gps-ignored-einstein",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If GPS Ignored Einstein? You'd Be 10 Kilometers Off",
+  "subject": "GPS satellite",
+  "scenes": [
+    {
+      "text": "What if GPS ignored Einstein? Your map would be wrong by miles within a day.",
+      "keywords": "gps map phone"
+    },
+    {
+      "text": "GPS satellites orbit about 20,200 kilometers up, moving roughly 14,000 kilometers an hour.",
+      "keywords": "satellite orbiting earth"
+    },
+    {
+      "text": "That speed slows their clocks by about 7 microseconds a day.",
+      "keywords": "atomic clock"
+    },
+    {
+      "text": "But weaker gravity up there speeds them up by about 45 microseconds.",
+      "keywords": "earth from space gravity"
+    },
+    {
+      "text": "Net result: satellite clocks run 38 microseconds fast every day compared with clocks on the ground.",
+      "keywords": "clock ticking close up"
+    },
+    {
+      "text": "Light travels about 11 kilometers in that time, so uncorrected, errors would pile up about 10 kilometers a day.",
+      "keywords": "car navigation gps road"
+    }
+  ],
+  "description": "What if GPS ignored Einstein? Your map would be wrong by miles within a day.\nThat speed slows their clocks by about 7 microseconds a day.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "what would happen",
+    "science explained",
+    "shorts facts",
+    "gps",
+    "einstein",
+    "relativity",
+    "technology facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#science",
+    "#facts"
+  ],
+  "sources": [
+    "https://www.techforspace.com/missions/galileo/gps-and-relativity/",
+    "https://maketecheasier.com/gps-clock-relativity-correction/"
+  ],
+  "thumbnail_text": "WHAT IF GPS IGNORED EINSTEIN?",
+  "first_comment": "What's the one 'what if' you want answered next? Drop it below."
+}
