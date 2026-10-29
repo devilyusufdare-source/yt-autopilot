@@ -1,0 +1,72 @@
+{
+  "id": "2026-10-29-five-biggest-power-plants-ranked",
+  "format": "ranking",
+  "ranking_by": "installed power capacity in gigawatts",
+  "topic": "technology",
+  "title": "The 5 Biggest Power Plants on Earth, Ranked (None Burns Anything)",
+  "scenes": [
+    {
+      "text": "The five biggest power plants on Earth. Not one of them burns anything.",
+      "keywords": "hydroelectric dam"
+    },
+    {
+      "rank": 5,
+      "label": "Belo Monte · 11.2 GW",
+      "text": "Number five: Belo Monte in Brazil. About eleven gigawatts, built on the Xingu River.",
+      "keywords": "belo monte dam"
+    },
+    {
+      "rank": 4,
+      "label": "Xiluodu · 13.9 GW",
+      "text": "Number four: Xiluodu in China. About fourteen gigawatts, on the Jinsha River.",
+      "keywords": "xiluodu dam"
+    },
+    {
+      "rank": 3,
+      "label": "Itaipu · 14 GW",
+      "text": "Number three: Itaipu, shared by Brazil and Paraguay. Exactly fourteen gigawatts, from one river.",
+      "keywords": "itaipu dam"
+    },
+    {
+      "rank": 2,
+      "label": "Baihetan · 16 GW",
+      "text": "Number two: Baihetan in China. Sixteen gigawatts, a giant that is only a few years old.",
+      "keywords": "baihetan dam"
+    },
+    {
+      "rank": 1,
+      "label": "Three Gorges · 22.5 GW",
+      "text": "Number one: the Three Gorges Dam in China. Twenty-two and a half gigawatts, more than double any nuclear plant.",
+      "keywords": "three gorges dam"
+    }
+  ],
+  "description": "The five biggest power plants on Earth, ranked by installed capacity.\nAll five are hydroelectric dams, and the biggest nuclear plant doesn't make the list.\nWhich would you have guessed was number one?",
+  "tags": [
+    "biggest power plants",
+    "largest power station",
+    "three gorges dam",
+    "itaipu dam",
+    "baihetan dam",
+    "hydroelectric power",
+    "dams",
+    "engineering facts",
+    "technology facts",
+    "rankings",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#technology",
+    "#engineering",
+    "#ranking"
+  ],
+  "sources": [
+    "https://worldpowerplants.com/en-gb/blog/the-worlds-largest-10-power-plants-2026",
+    "https://www.energyencyclopedia.com/en/renewable-energy/water-energy/the-largest-hydroelectric-power-plants-in-the-world",
+    "https://www.power-technology.com/features/feature-the-10-biggest-hydroelectric-power-plants-in-the-world/"
+  ],
+  "thumbnail_text": "5 BIGGEST POWER PLANTS",
+  "priority": 5,
+  "first_comment": "Did you expect zero nuclear plants on this list? Which record should we rank next?"
+}
