@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T16:33:19+00:00",
+  "updated_at": "2026-10-29T17:54:43+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/qR2EsU5H4ZM"
+      "https://youtube.com/shorts/qR2EsU5H4ZM",
+      "https://youtube.com/shorts/QsLlW3CpAWM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/qR2EsU5H4ZM"
+      "https://youtube.com/shorts/QsLlW3CpAWM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/qR2EsU5H4ZM"
+      "https://youtube.com/shorts/QsLlW3CpAWM"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 140,
-  "total_views": 42781,
+  "total_videos": 141,
+  "total_views": 42955,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 85,
-      "avg_views": 286,
+      "videos": 86,
+      "avg_views": 285,
       "best_views": 1507
     },
     "human body": {
@@ -126,14 +127,14 @@
     },
     "technology": {
       "videos": 3,
-      "avg_views": 31,
+      "avg_views": 32,
       "best_views": 57
     }
   },
   "by_style": {
     "classic": {
-      "videos": 124,
-      "avg_views": 290,
+      "videos": 125,
+      "avg_views": 289,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 54,
-      "avg_views": 85
+      "videos": 55,
+      "avg_views": 87
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1030,7 +1031,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 83,
+      "views": 87,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E"
@@ -1054,7 +1055,7 @@
       "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
       "published_at": "2026-10-27T16:30:20Z",
       "privacy": "public",
-      "views": 28,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DmqaHptWqAY"
@@ -1078,7 +1079,7 @@
       "hook": "This worm has no mouth, no stomach, and it grows taller than you.",
       "published_at": "2026-10-27T14:00:23Z",
       "privacy": "public",
-      "views": 84,
+      "views": 90,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY"
@@ -1238,7 +1239,7 @@
       "hook": "This beetle does a headstand every night. It's how it drinks.",
       "published_at": "2026-10-27T17:20:01Z",
       "privacy": "public",
-      "views": 23,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hzWEks56BAU"
@@ -1262,7 +1263,7 @@
       "hook": "This toad grows its babies inside her own back.",
       "published_at": "2026-10-27T18:20:03Z",
       "privacy": "public",
-      "views": 120,
+      "views": 138,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/qOYToJpqKag"
@@ -1398,7 +1399,7 @@
       "hook": "The slowest-spinning planet is not the one closest to the Sun.",
       "published_at": "2026-10-28T00:00:10Z",
       "privacy": "public",
-      "views": 39,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhWj8eW74zg"
@@ -1422,7 +1423,7 @@
       "hook": "The farthest thing humans ever built is almost a full light-day from home.",
       "published_at": "2026-10-29T00:10:36Z",
       "privacy": "public",
-      "views": 32,
+      "views": 36,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc"
@@ -2118,7 +2119,7 @@
       "hook": "This animal eats cobras. And it survives the bite.",
       "published_at": "2026-10-20T22:30:27Z",
       "privacy": "public",
-      "views": 71,
+      "views": 73,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/YX7zSStVK_k",
@@ -2818,7 +2819,7 @@
       "hook": "There's water at 750 degrees that never boils.",
       "published_at": "2026-10-27T19:50:26Z",
       "privacy": "public",
-      "views": 27,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/V5bBt2yI2PY"
@@ -2842,7 +2843,7 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 156,
+      "views": 163,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
@@ -2890,7 +2891,7 @@
       "hook": "This frog freezes solid and comes back to life.",
       "published_at": "2026-10-28T12:20:12Z",
       "privacy": "public",
-      "views": 64,
+      "views": 75,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo"
@@ -2942,7 +2943,7 @@
       "hook": "This beetle blasts near-boiling liquid from its rear end.",
       "published_at": "2026-10-28T15:00:04Z",
       "privacy": "public",
-      "views": 41,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eBJwSEoXZoQ"
@@ -3046,7 +3047,7 @@
       "hook": "A lake at the bottom of the sea kills what swims in.",
       "published_at": "2026-10-28T21:20:34Z",
       "privacy": "public",
-      "views": 29,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u7j4uSn2hiE"
@@ -3126,8 +3127,8 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 185,
-      "likes": 1,
+      "views": 217,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0"
     },
@@ -3150,7 +3151,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 142,
+      "views": 163,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA"
@@ -3202,7 +3203,7 @@
       "hook": "Killer whales make their own waves to hunt.",
       "published_at": "2026-10-28T20:00:33Z",
       "privacy": "public",
-      "views": 91,
+      "views": 93,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RhsRw5DbPD4"
@@ -3226,8 +3227,8 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 157,
-      "likes": 0,
+      "views": 196,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM"
     },
@@ -3494,7 +3495,7 @@
       "hook": "An elephant sniffs air in at 330 miles per hour.",
       "published_at": "2026-10-29T12:20:01Z",
       "privacy": "public",
-      "views": 12,
+      "views": 16,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/oHOSiC4XktU"
@@ -3572,18 +3573,18 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4"
     },
     "qR2EsU5H4ZM": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT27S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3598,6 +3599,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/qR2EsU5H4ZM"
+    },
+    "QsLlW3CpAWM": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Fish Leaps Out of the Water to Catch Flying Birds",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This fish leaps out of the water and catches flying birds.",
+      "published_at": "2026-10-29T17:54:36Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/QsLlW3CpAWM"
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",
