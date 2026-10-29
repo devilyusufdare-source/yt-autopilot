@@ -1,0 +1,57 @@
+{
+  "id": "2026-10-29-what-if-one-number-was-too-big-for-its-box",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If One Number Was Too Big for Its Box? A Rocket Died",
+  "scenes": [
+    {
+      "text": "What if one number was too big for its box? In 1996 it destroyed a rocket.",
+      "keywords": "rocket launch explosion"
+    },
+    {
+      "text": "Ariane 5 lifted off on June 4th, 1996, carrying four science satellites.",
+      "keywords": "rocket liftoff smoke"
+    },
+    {
+      "text": "Thirty-seven seconds later, its guidance computer tried to squeeze a 64-bit number into 16 bits.",
+      "keywords": "computer code screen"
+    },
+    {
+      "text": "The number was too large, the software failed, and the error message was read as real flight data.",
+      "keywords": "error warning screen"
+    },
+    {
+      "text": "The engines swung hard over, the rocket broke apart, and it self-destructed about four kilometers up.",
+      "keywords": "rocket explosion sky"
+    },
+    {
+      "text": "The code was reused from Ariane 4, which flew slower. The loss topped 370 million dollars.",
+      "keywords": "engineers control room"
+    }
+  ],
+  "description": "What if one number was too big for its box?\nIn 1996 a software conversion error destroyed Europe's Ariane 5 rocket 37 seconds after liftoff.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "what would happen",
+    "science explained",
+    "shorts facts",
+    "ariane 5",
+    "software bug",
+    "rocket failure",
+    "space history",
+    "engineering"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#rocket",
+    "#coding"
+  ],
+  "sources": [
+    "https://www.csm.ornl.gov/~sheldon/cs422/ariane5fr.html",
+    "https://en.wikipedia.org/wiki/Ariane_flight_V88"
+  ],
+  "thumbnail_text": "ONE NUMBER DESTROYED A ROCKET",
+  "first_comment": "What's the most expensive tiny mistake you know of? Drop your own what-if."
+}
