@@ -1,0 +1,57 @@
+{
+  "id": "2026-10-29-what-if-apollo-computer-ran-your-phone",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If Your Phone Had the Apollo Computer Inside?",
+  "scenes": [
+    {
+      "text": "What if your phone ran on the computer that flew Apollo to the Moon?",
+      "keywords": "apollo moon landing"
+    },
+    {
+      "text": "The Apollo Guidance Computer had about 2,048 words of working memory. That is roughly four kilobytes.",
+      "keywords": "vintage computer circuit"
+    },
+    {
+      "text": "Its storage was about 72 kilobytes. One photo from your phone is many times bigger.",
+      "keywords": "smartphone camera photo"
+    },
+    {
+      "text": "It ran at about 0.043 megahertz. A modern phone chip runs at several thousand megahertz.",
+      "keywords": "smartphone processor chip"
+    },
+    {
+      "text": "A phone with four gigabytes of RAM has over a million times the working memory of that computer.",
+      "keywords": "smartphone close up"
+    },
+    {
+      "text": "Your phone wouldn't be limited by power. It would just have to be programmed as carefully as Apollo's was.",
+      "keywords": "astronaut moon walk"
+    }
+  ],
+  "description": "What if your phone ran on the Apollo computer?\nThe Apollo Guidance Computer had about 4 kilobytes of working memory and ran at 0.043 megahertz. A modern phone has over a million times the memory.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "what would happen",
+    "science explained",
+    "shorts facts",
+    "apollo",
+    "technology facts",
+    "smartphone",
+    "computer history",
+    "nasa"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#apollo",
+    "#technology"
+  ],
+  "sources": [
+    "https://theconversation.com/would-your-mobile-phone-be-powerful-enough-to-get-you-to-the-moon-115933",
+    "https://www.popsci.com/mobile-phone-moon-power/"
+  ],
+  "thumbnail_text": "APOLLO'S COMPUTER VS YOUR PHONE",
+  "first_comment": "Which old machine should we compare next? Drop your own 'what if' below."
+}
