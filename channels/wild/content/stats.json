@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-10-29T13:39:41+00:00",
+  "updated_at": "2026-10-29T16:29:29+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 11,
-    "channel_views": 7274,
-    "video_count": 17
+    "channel_views": 7463,
+    "video_count": 18
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/tbvnEMmFn7Y"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/tbvnEMmFn7Y"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/tbvnEMmFn7Y"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 11,
@@ -79,7 +73,7 @@
       {
         "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
         "avg_view_percent": 62.1,
-        "views": 1021
+        "views": 1022
       },
       {
         "title": "What If Everyone on Earth Jumped at the Same Time?",
@@ -90,16 +84,16 @@
   },
   "retention_note": null,
   "total_videos": 18,
-  "total_views": 7752,
+  "total_views": 7889,
   "by_topic": {
     "earth": {
       "videos": 3,
-      "avg_views": 525,
-      "best_views": 1021
+      "avg_views": 526,
+      "best_views": 1022
     },
     "space": {
       "videos": 11,
-      "avg_views": 340,
+      "avg_views": 351,
       "best_views": 1281
     },
     "society": {
@@ -114,21 +108,21 @@
     },
     "body": {
       "videos": 2,
-      "avg_views": 300,
+      "avg_views": 305,
       "best_views": 505
     }
   },
   "by_style": {
     "classic": {
       "videos": 18,
-      "avg_views": 431,
+      "avg_views": 438,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 18,
-      "avg_views": 431
+      "avg_views": 438
     }
   },
   "top_videos": [
@@ -153,7 +147,7 @@
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 1021,
+      "views": 1022,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -183,7 +177,7 @@
     {
       "title": "What If You Stood on Saturn's Moon Titan?",
       "topic": "space",
-      "views": 275,
+      "views": 282,
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly."
     },
     {
@@ -465,7 +459,7 @@
       "hook": "What if a star exploded 50 light-years away? You wouldn't feel a thing, and that's the danger.",
       "published_at": "2026-10-27T14:00:17Z",
       "privacy": "public",
-      "views": 124,
+      "views": 127,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8"
@@ -489,7 +483,7 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 1021,
+      "views": 1022,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY",
@@ -541,7 +535,7 @@
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly.",
       "published_at": "2026-10-28T02:30:11Z",
       "privacy": "public",
-      "views": 275,
+      "views": 282,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/pf34SeLuJgk"
@@ -565,7 +559,7 @@
       "hook": "What if you flew at 99 percent of light speed? Your clock would run seven times slower.",
       "published_at": "2026-10-28T14:00:34Z",
       "privacy": "public",
-      "views": 47,
+      "views": 53,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/hJIo0ee4tPA"
@@ -589,7 +583,7 @@
       "hook": "What if you visited a neutron star? Its tallest mountain is thinner than a hair.",
       "published_at": "2026-10-28T17:00:16Z",
       "privacy": "public",
-      "views": 56,
+      "views": 57,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yxeZpoL6wKQ"
@@ -613,20 +607,20 @@
       "hook": "What if humans could photosynthesize? Sunlight on your skin beats your diet, but it wouldn't feed you.",
       "published_at": "2026-10-29T02:40:23Z",
       "privacy": "public",
-      "views": 94,
+      "views": 105,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Dfr7U_PG5ng"
     },
     "tbvnEMmFn7Y": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT42S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -635,11 +629,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if sound traveled through space? You'd hear the Sun, and it would arrive years late.",
-      "published_at": "2026-10-29T13:39:38Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-29T14:10:27Z",
+      "privacy": "public",
+      "views": 108,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y"
     },
     "jwre0VbiRCc": {
