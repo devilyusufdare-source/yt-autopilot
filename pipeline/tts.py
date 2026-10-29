@@ -151,8 +151,11 @@ def _synth_edge(texts: list[str], cfg: Config, workdir: Path, voice: str | None)
     for i, text in enumerate(texts):
         mp3 = workdir / f"scene{i:02d}.mp3"
         wav = workdir / f"scene{i:02d}.wav"
-        # Microsoft's service fails now and then for a few seconds; retry before giving up on the scene.
-        for attempt in range(3):
+        # Microsoft's service answers "No audio was received" for a minute or two now and then (seen around
+        # 20:30-21:00 UTC three nights running); the same text works a few minutes later. Retry with growing waits
+        # (about 2 minutes in total) before giving up on the scene.
+        waits = (5, 10, 20, 40, 60)
+        for attempt in range(len(waits) + 1):
             try:
                 boundaries = asyncio.run(_edge_one(text, voice, rate, mp3))
                 if mp3.stat().st_size >= 1000:
@@ -160,9 +163,9 @@ def _synth_edge(texts: list[str], cfg: Config, workdir: Path, voice: str | None)
                 err = RuntimeError("edge-tts returned no audio")
             except Exception as e:  # noqa: BLE001
                 err = e
-            if attempt < 2:
-                print(f"[tts] edge-tts scene {i} attempt {attempt + 1} failed ({type(err).__name__}: {err}); retrying")
-                time.sleep(4 * (attempt + 1))
+            if attempt < len(waits):
+                print(f"[tts] edge-tts scene {i} attempt {attempt + 1} failed ({type(err).__name__}: {err}); retrying in {waits[attempt]} s")
+                time.sleep(waits[attempt])
         else:
             raise err
         _ffmpeg_to_wav(mp3, wav)
