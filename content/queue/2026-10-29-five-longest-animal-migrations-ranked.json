@@ -1,0 +1,72 @@
+{
+  "id": "2026-10-29-five-longest-animal-migrations-ranked",
+  "format": "ranking",
+  "ranking_by": "distance travelled in a year",
+  "topic": "animals",
+  "priority": 6,
+  "title": "The 5 Longest Animal Migrations, Ranked (#1 Is Not a Whale)",
+  "subject": "migrating animal",
+  "scenes": [
+    {
+      "text": "You'd expect a whale to win this one. It doesn't even come close.",
+      "keywords": "whale breaching ocean"
+    },
+    {
+      "rank": 5,
+      "label": "Humpback whale · 10,000 mi",
+      "text": "Number five: the humpback whale. Roughly ten thousand miles a year between cold feeding waters and warm breeding ones.",
+      "keywords": "humpback whale"
+    },
+    {
+      "rank": 4,
+      "label": "Elephant seal · 13,000 mi",
+      "text": "Number four: the northern elephant seal. Up to thirteen thousand miles a year, and almost all of it spent at sea.",
+      "keywords": "northern elephant seal"
+    },
+    {
+      "rank": 3,
+      "label": "Gray whale · 14,000 mi",
+      "text": "Number three: the gray whale. One tagged female swam about fourteen thousand miles there and back, in just 172 days.",
+      "keywords": "gray whale"
+    },
+    {
+      "rank": 2,
+      "label": "Sooty shearwater · 40,000 mi",
+      "text": "Number two: the sooty shearwater. This seabird loops around the whole Pacific, about forty thousand miles a year.",
+      "keywords": "shearwater seabird flying"
+    },
+    {
+      "rank": 1,
+      "label": "Arctic tern · 44,000 mi",
+      "text": "Number one: the Arctic tern. About forty-four thousand miles a year, pole to pole and back. A bird beats every whale.",
+      "keywords": "arctic tern flying"
+    }
+  ],
+  "description": "The five longest animal migrations, ranked by distance travelled in a year.\nThe winner isn't a whale. The Arctic tern flies roughly 44,000 miles every year, from the Arctic to Antarctica and back, with the sooty shearwater close behind at around 40,000 miles.\nWhich one surprised you most?",
+  "tags": [
+    "longest migration",
+    "animal migration",
+    "arctic tern",
+    "sooty shearwater",
+    "gray whale",
+    "animal rankings",
+    "animal facts",
+    "top 5 animals",
+    "nature facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#migration",
+    "#ranking"
+  ],
+  "sources": [
+    "https://phys.org/news/2010-01-arctic-terns-longest-animal-migration.html",
+    "https://news.ucsc.edu/2006/08/study-documents-the-marathon-migrations-of-sooty-shearwaters/",
+    "https://www.marinemammalcenter.org/news/studying-elephant-seals-of-the-central-california-coast",
+    "https://www.mentalfloss.com/article/63213/11-amazingly-long-animal-migrations"
+  ],
+  "thumbnail_text": "5 LONGEST MIGRATIONS, RANKED",
+  "first_comment": "Which animal would you have put at number one, and what should we rank next?"
+}
