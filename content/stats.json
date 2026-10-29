@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-29T19:31:53+00:00",
+  "updated_at": "2026-10-29T20:52:41+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 42489,
-    "video_count": 143
+    "video_count": 144
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/KZhvfyr0xgY"
+      "https://youtube.com/shorts/N-Lb2WZv0VA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/KZhvfyr0xgY"
+      "https://youtube.com/shorts/N-Lb2WZv0VA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/KZhvfyr0xgY"
+      "https://youtube.com/shorts/N-Lb2WZv0VA"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 142,
-  "total_views": 43097,
+  "total_videos": 143,
+  "total_views": 43181,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 87,
-      "avg_views": 283,
+      "videos": 88,
+      "avg_views": 281,
       "best_views": 1507
     },
     "human body": {
@@ -126,14 +126,14 @@
     },
     "technology": {
       "videos": 3,
-      "avg_views": 32,
+      "avg_views": 34,
       "best_views": 57
     }
   },
   "by_style": {
     "classic": {
-      "videos": 126,
-      "avg_views": 288,
+      "videos": 127,
+      "avg_views": 286,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 56,
+      "videos": 57,
       "avg_views": 87
     },
     "en-US-BrianNeural": {
@@ -866,7 +866,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 39,
+      "views": 40,
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
@@ -1034,7 +1034,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 88,
+      "views": 87,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E",
@@ -1286,7 +1286,7 @@
       "hook": "This toad grows its babies inside her own back.",
       "published_at": "2026-10-27T18:20:03Z",
       "privacy": "public",
-      "views": 132,
+      "views": 152,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/qOYToJpqKag",
@@ -1454,7 +1454,7 @@
       "hook": "The farthest thing humans ever built is almost a full light-day from home.",
       "published_at": "2026-10-29T00:10:36Z",
       "privacy": "public",
-      "views": 36,
+      "views": 42,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc"
@@ -2878,7 +2878,7 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 163,
+      "views": 169,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM",
@@ -2934,7 +2934,7 @@
       "hook": "This frog freezes solid and comes back to life.",
       "published_at": "2026-10-28T12:20:12Z",
       "privacy": "public",
-      "views": 75,
+      "views": 76,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo"
@@ -3270,8 +3270,8 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 234,
-      "likes": 3,
+      "views": 257,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM"
     },
@@ -3538,8 +3538,8 @@
       "hook": "An elephant sniffs air in at 330 miles per hour.",
       "published_at": "2026-10-29T12:20:01Z",
       "privacy": "public",
-      "views": 16,
-      "likes": 1,
+      "views": 35,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/oHOSiC4XktU"
     },
@@ -3614,7 +3614,7 @@
       "hook": "An ant's jaws can close at up to 145 miles an hour.",
       "published_at": "2026-10-29T16:30:10Z",
       "privacy": "public",
-      "views": 0,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4"
@@ -3808,14 +3808,14 @@
       "subscribers_gained": 0
     },
     "KZhvfyr0xgY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3824,11 +3824,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
-      "published_at": "2026-10-29T19:31:46Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-29T20:00:25Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY"
     },
     "MvTzV6WNdAA": {
@@ -3858,6 +3858,30 @@
       "avg_view_percent": 50.6,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "N-Lb2WZv0VA": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Baby Geese Jump Off a 400-Foot Cliff Within a Day of Hatching",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Baby geese jump off a four-hundred-foot cliff.",
+      "published_at": "2026-10-29T20:52:36Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/N-Lb2WZv0VA"
     },
     "tq008mZVJQU": {
       "upload_status": "processed",
