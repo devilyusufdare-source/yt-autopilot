@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-29T20:52:41+00:00",
+  "updated_at": "2026-10-29T22:17:40+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 42489,
-    "video_count": 144
+    "video_count": 145
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/N-Lb2WZv0VA"
+      "https://youtube.com/shorts/8HPrrfRBnJA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/N-Lb2WZv0VA"
+      "https://youtube.com/shorts/8HPrrfRBnJA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/N-Lb2WZv0VA"
+      "https://youtube.com/shorts/8HPrrfRBnJA"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 143,
-  "total_views": 43181,
+  "total_videos": 144,
+  "total_views": 43258,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -100,13 +100,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 17,
-      "avg_views": 319,
+      "videos": 18,
+      "avg_views": 301,
       "best_views": 1648
     },
     "animals": {
       "videos": 88,
-      "avg_views": 281,
+      "avg_views": 282,
       "best_views": 1507
     },
     "human body": {
@@ -126,14 +126,14 @@
     },
     "technology": {
       "videos": 3,
-      "avg_views": 34,
+      "avg_views": 35,
       "best_views": 57
     }
   },
   "by_style": {
     "classic": {
-      "videos": 127,
-      "avg_views": 286,
+      "videos": 128,
+      "avg_views": 285,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 57,
+      "videos": 58,
       "avg_views": 87
     },
     "en-US-BrianNeural": {
@@ -1034,7 +1034,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 87,
+      "views": 90,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E",
@@ -1286,7 +1286,7 @@
       "hook": "This toad grows its babies inside her own back.",
       "published_at": "2026-10-27T18:20:03Z",
       "privacy": "public",
-      "views": 152,
+      "views": 159,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/qOYToJpqKag",
@@ -1454,7 +1454,7 @@
       "hook": "The farthest thing humans ever built is almost a full light-day from home.",
       "published_at": "2026-10-29T00:10:36Z",
       "privacy": "public",
-      "views": 42,
+      "views": 44,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc"
@@ -2906,7 +2906,7 @@
       "hook": "An electric eel just zapped 860 volts.",
       "published_at": "2026-10-28T02:40:25Z",
       "privacy": "public",
-      "views": 25,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qH9gd2N8yTg",
@@ -2986,7 +2986,7 @@
       "hook": "This beetle blasts near-boiling liquid from its rear end.",
       "published_at": "2026-10-28T15:00:04Z",
       "privacy": "public",
-      "views": 54,
+      "views": 61,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eBJwSEoXZoQ"
@@ -3010,7 +3010,7 @@
       "hook": "A shark was caught 700 miles up the Mississippi River.",
       "published_at": "2026-10-28T16:30:27Z",
       "privacy": "public",
-      "views": 25,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0eDxP_Mfsoo"
@@ -3090,10 +3090,34 @@
       "hook": "A lake at the bottom of the sea kills what swims in.",
       "published_at": "2026-10-28T21:20:34Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u7j4uSn2hiE"
+    },
+    "8HPrrfRBnJA": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Lava Once Shot 1,900 Feet in the Air in Hawaii",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Lava once shot nineteen hundred feet into the air.",
+      "published_at": "2026-10-29T22:17:32Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/8HPrrfRBnJA"
     },
     "TKL8_1FJz8Q": {
       "upload_status": "processed",
@@ -3170,7 +3194,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 212,
+      "views": 234,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0"
@@ -3194,7 +3218,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 211,
+      "views": 237,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA"
@@ -3270,7 +3294,7 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 257,
+      "views": 248,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM"
@@ -3490,7 +3514,7 @@
       "hook": "A goblin shark can shoot its jaws out of its own face.",
       "published_at": "2026-10-28T22:40:04Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/mzel-4ZbiC0"
@@ -3514,7 +3538,7 @@
       "hook": "Orcas throw themselves onto a beach to catch their dinner.",
       "published_at": "2026-10-29T02:40:02Z",
       "privacy": "public",
-      "views": 37,
+      "views": 56,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/tB1PyAE5HZs"
@@ -3538,8 +3562,8 @@
       "hook": "An elephant sniffs air in at 330 miles per hour.",
       "published_at": "2026-10-29T12:20:01Z",
       "privacy": "public",
-      "views": 35,
-      "likes": 2,
+      "views": 29,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/oHOSiC4XktU"
     },
@@ -3614,7 +3638,7 @@
       "hook": "An ant's jaws can close at up to 145 miles an hour.",
       "published_at": "2026-10-29T16:30:10Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4"
@@ -3662,7 +3686,7 @@
       "hook": "This fish leaps out of the water and catches flying birds.",
       "published_at": "2026-10-29T18:20:15Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QsLlW3CpAWM"
@@ -3860,14 +3884,14 @@
       "subscribers_gained": 0
     },
     "N-Lb2WZv0VA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT25S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3876,11 +3900,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
-      "published_at": "2026-10-29T20:52:36Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-29T21:20:18Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA"
     },
     "tq008mZVJQU": {
