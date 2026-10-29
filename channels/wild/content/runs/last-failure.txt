@@ -1,4 +1,4 @@
-run failed at 2026-10-29T16:29:30+00:00 UTC (last 25 lines, secrets removed)
+run failed at 2026-10-29T20:46:05+00:00 UTC (last 25 lines, secrets removed)
 
             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/home/runner/work/yt-autopilot/yt-autopilot/pipeline/render.py", line 99, in render_final
@@ -22,6 +22,6 @@ subprocess.CalledProcessError: Command '['ffmpeg', '-y', '-loglevel', 'error', '
 [visuals] download failed (pixabay-video): file too large
 [visuals] download failed (pixabay-video): file too large
 [run] rendering final video
-[run] stats refreshed: 18 videos, 7889 views total
+[run] stats refreshed: 18 videos, 7927 views total
 
 [run] finished: 0 video(s) done, 1 failed

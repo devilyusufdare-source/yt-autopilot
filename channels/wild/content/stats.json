@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T16:29:29+00:00",
+  "updated_at": "2026-10-29T20:46:04+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -18,34 +18,34 @@
     "sd_only": []
   },
   "retention": {
-    "videos_with_data": 11,
-    "avg_view_percent": 72.2,
+    "videos_with_data": 14,
+    "avg_view_percent": 69.4,
     "by_topic": {
-      "earth": 76.8,
-      "space": 71.0,
-      "society": 67.3,
-      "animals": 81.7,
-      "body": 60.3
+      "earth": 77.0,
+      "space": 66.3,
+      "society": 67.0,
+      "animals": 81.6,
+      "body": 61.1
     },
     "best": [
-      {
-        "title": "What If the Sun Suddenly Disappeared?",
-        "avg_view_percent": 108.6,
-        "views": 179
-      },
       {
         "title": "What If All the Ice on Earth Melted?",
         "avg_view_percent": 98.4,
         "views": 435
       },
       {
+        "title": "What If the Sun Suddenly Disappeared?",
+        "avg_view_percent": 92.7,
+        "views": 179
+      },
+      {
         "title": "What If Every Mosquito Went Extinct?",
-        "avg_view_percent": 81.7,
+        "avg_view_percent": 81.6,
         "views": 1424
       },
       {
         "title": "What If the Sun Went Out Right Now?",
-        "avg_view_percent": 73.1,
+        "avg_view_percent": 70.5,
         "views": 427
       },
       {
@@ -62,29 +62,29 @@
       },
       {
         "title": "What If You Fell Into a Black Hole?",
-        "avg_view_percent": 52.1,
+        "avg_view_percent": 51.7,
         "views": 246
       },
       {
         "title": "What If You Never Slept Again?",
-        "avg_view_percent": 60.3,
-        "views": 505
+        "avg_view_percent": 61.1,
+        "views": 499
       },
       {
         "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
-        "avg_view_percent": 62.1,
+        "avg_view_percent": 62.5,
         "views": 1022
       },
       {
-        "title": "What If Everyone on Earth Jumped at the Same Time?",
-        "avg_view_percent": 67.3,
-        "views": 414
+        "title": "What If a Star Exploded 50 Light-Years From Earth?",
+        "avg_view_percent": 62.6,
+        "views": 128
       }
     ]
   },
   "retention_note": null,
   "total_videos": 18,
-  "total_views": 7889,
+  "total_views": 7927,
   "by_topic": {
     "earth": {
       "videos": 3,
@@ -93,7 +93,7 @@
     },
     "space": {
       "videos": 11,
-      "avg_views": 351,
+      "avg_views": 355,
       "best_views": 1281
     },
     "society": {
@@ -108,21 +108,21 @@
     },
     "body": {
       "videos": 2,
-      "avg_views": 305,
-      "best_views": 505
+      "avg_views": 302,
+      "best_views": 499
     }
   },
   "by_style": {
     "classic": {
       "videos": 18,
-      "avg_views": 438,
+      "avg_views": 440,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 18,
-      "avg_views": 438
+      "avg_views": 440
     }
   },
   "top_videos": [
@@ -141,7 +141,7 @@
     {
       "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
       "topic": "space",
-      "views": 1092,
+      "views": 1095,
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes."
     },
     {
@@ -153,7 +153,7 @@
     {
       "title": "What If You Never Slept Again?",
       "topic": "body",
-      "views": 505,
+      "views": 499,
       "hook": "What if you never slept again? Day one feels fine. It isn't."
     },
     {
@@ -177,7 +177,7 @@
     {
       "title": "What If You Stood on Saturn's Moon Titan?",
       "topic": "space",
-      "views": 282,
+      "views": 287,
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly."
     },
     {
@@ -296,7 +296,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/iRFTcrDOT5c",
       "avg_view_seconds": 22.0,
-      "avg_view_percent": 67.3,
+      "avg_view_percent": 67.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -324,7 +324,7 @@
       "comments": 4,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg",
       "avg_view_seconds": 27.0,
-      "avg_view_percent": 81.7,
+      "avg_view_percent": 81.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -379,8 +379,8 @@
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/a9uI0J8lYDA",
-      "avg_view_seconds": 26.0,
-      "avg_view_percent": 73.1,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 70.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -408,7 +408,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/PyXFeRMftHU",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 52.1,
+      "avg_view_percent": 51.7,
       "shares": 0,
       "subscribers_gained": 2
     },
@@ -431,12 +431,12 @@
       "hook": "What if you never slept again? Day one feels fine. It isn't.",
       "published_at": "2026-10-27T02:15:23Z",
       "privacy": "public",
-      "views": 505,
+      "views": 499,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/6nUPnY94QPA",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 60.3,
+      "avg_view_percent": 61.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -459,10 +459,14 @@
       "hook": "What if a star exploded 50 light-years away? You wouldn't feel a thing, and that's the danger.",
       "published_at": "2026-10-27T14:00:17Z",
       "privacy": "public",
-      "views": 127,
+      "views": 128,
       "likes": 5,
       "comments": 1,
-      "url": "https://youtube.com/shorts/S5qOoYJHgX8"
+      "url": "https://youtube.com/shorts/S5qOoYJHgX8",
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 62.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "2bwg6x0eZVY": {
       "upload_status": "processed",
@@ -488,7 +492,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 62.1,
+      "avg_view_percent": 62.5,
       "shares": 0,
       "subscribers_gained": 2
     },
@@ -511,10 +515,14 @@
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes.",
       "published_at": "2026-10-27T16:50:07Z",
       "privacy": "public",
-      "views": 1092,
+      "views": 1095,
       "likes": 36,
       "comments": 1,
-      "url": "https://youtube.com/shorts/vvwy7bHBZt4"
+      "url": "https://youtube.com/shorts/vvwy7bHBZt4",
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 63.8,
+      "shares": 0,
+      "subscribers_gained": 5
     },
     "pf34SeLuJgk": {
       "upload_status": "processed",
@@ -535,10 +543,14 @@
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly.",
       "published_at": "2026-10-28T02:30:11Z",
       "privacy": "public",
-      "views": 282,
+      "views": 287,
       "likes": 7,
       "comments": 1,
-      "url": "https://youtube.com/shorts/pf34SeLuJgk"
+      "url": "https://youtube.com/shorts/pf34SeLuJgk",
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 68.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "hJIo0ee4tPA": {
       "upload_status": "processed",
@@ -559,7 +571,7 @@
       "hook": "What if you flew at 99 percent of light speed? Your clock would run seven times slower.",
       "published_at": "2026-10-28T14:00:34Z",
       "privacy": "public",
-      "views": 53,
+      "views": 55,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/hJIo0ee4tPA"
@@ -583,7 +595,7 @@
       "hook": "What if you visited a neutron star? Its tallest mountain is thinner than a hair.",
       "published_at": "2026-10-28T17:00:16Z",
       "privacy": "public",
-      "views": 57,
+      "views": 62,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yxeZpoL6wKQ"
@@ -607,7 +619,7 @@
       "hook": "What if humans could photosynthesize? Sunlight on your skin beats your diet, but it wouldn't feed you.",
       "published_at": "2026-10-29T02:40:23Z",
       "privacy": "public",
-      "views": 105,
+      "views": 106,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Dfr7U_PG5ng"
@@ -631,7 +643,7 @@
       "hook": "What if sound traveled through space? You'd hear the Sun, and it would arrive years late.",
       "published_at": "2026-10-29T14:10:27Z",
       "privacy": "public",
-      "views": 108,
+      "views": 135,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y"
@@ -659,8 +671,8 @@
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/jwre0VbiRCc",
-      "avg_view_seconds": 40.0,
-      "avg_view_percent": 108.6,
+      "avg_view_seconds": 34.0,
+      "avg_view_percent": 92.7,
       "shares": 0,
       "subscribers_gained": 0
     }
