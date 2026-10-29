@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-10-29T02:08:13+00:00",
+  "updated_at": "2026-10-29T04:05:12+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 11,
-    "channel_views": 6848,
-    "video_count": 16
+    "channel_views": 7274,
+    "video_count": 17
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/Dfr7U_PG5ng"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/Dfr7U_PG5ng"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/Dfr7U_PG5ng"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 11,
@@ -74,7 +68,7 @@
       {
         "title": "What If You Never Slept Again?",
         "avg_view_percent": 60.3,
-        "views": 479
+        "views": 472
       },
       {
         "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
@@ -90,7 +84,7 @@
   },
   "retention_note": null,
   "total_videos": 17,
-  "total_views": 7363,
+  "total_views": 7441,
   "by_topic": {
     "earth": {
       "videos": 3,
@@ -99,7 +93,7 @@
     },
     "space": {
       "videos": 10,
-      "avg_views": 348,
+      "avg_views": 350,
       "best_views": 1281
     },
     "society": {
@@ -114,21 +108,21 @@
     },
     "body": {
       "videos": 2,
-      "avg_views": 240,
-      "best_views": 479
+      "avg_views": 266,
+      "best_views": 472
     }
   },
   "by_style": {
     "classic": {
       "videos": 17,
-      "avg_views": 433,
+      "avg_views": 438,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 17,
-      "avg_views": 433
+      "avg_views": 438
     }
   },
   "top_videos": [
@@ -159,7 +153,7 @@
     {
       "title": "What If You Never Slept Again?",
       "topic": "body",
-      "views": 479,
+      "views": 472,
       "hook": "What if you never slept again? Day one feels fine. It isn't."
     },
     {
@@ -183,7 +177,7 @@
     {
       "title": "What If You Stood on Saturn's Moon Titan?",
       "topic": "space",
-      "views": 260,
+      "views": 262,
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly."
     },
     {
@@ -437,7 +431,7 @@
       "hook": "What if you never slept again? Day one feels fine. It isn't.",
       "published_at": "2026-10-27T02:15:23Z",
       "privacy": "public",
-      "views": 479,
+      "views": 472,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/6nUPnY94QPA",
@@ -465,8 +459,8 @@
       "hook": "What if a star exploded 50 light-years away? You wouldn't feel a thing, and that's the danger.",
       "published_at": "2026-10-27T14:00:17Z",
       "privacy": "public",
-      "views": 100,
-      "likes": 5,
+      "views": 101,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8"
     },
@@ -541,7 +535,7 @@
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly.",
       "published_at": "2026-10-28T02:30:11Z",
       "privacy": "public",
-      "views": 260,
+      "views": 262,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/pf34SeLuJgk"
@@ -565,8 +559,8 @@
       "hook": "What if you flew at 99 percent of light speed? Your clock would run seven times slower.",
       "published_at": "2026-10-28T14:00:34Z",
       "privacy": "public",
-      "views": 42,
-      "likes": 2,
+      "views": 43,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/hJIo0ee4tPA"
     },
@@ -589,20 +583,20 @@
       "hook": "What if you visited a neutron star? Its tallest mountain is thinner than a hair.",
       "published_at": "2026-10-28T17:00:16Z",
       "privacy": "public",
-      "views": 12,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yxeZpoL6wKQ"
     },
     "Dfr7U_PG5ng": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT40S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -611,11 +605,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if humans could photosynthesize? Sunlight on your skin beats your diet, but it wouldn't feed you.",
-      "published_at": "2026-10-29T02:08:06Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-29T02:40:23Z",
+      "privacy": "public",
+      "views": 60,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Dfr7U_PG5ng"
     },
     "jwre0VbiRCc": {
