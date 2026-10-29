@@ -84,6 +84,11 @@ def footage_focus(scenes: list[dict]) -> list[str]:
     return [best[0]] if best else [word]
 
 
+# Tags that mean the clip shows food or a fake animal, not the living thing ("shrimp" also finds shrimp noodles).
+_NOT_ALIVE = set("""food dish cooked cooking cook recipe meal restaurant plate kitchen cuisine dinner lunch breakfast chef seafood
+sushi noodle noodles pasta rice sauce soup salad spicy delicious tasty snack menu barbecue bbq fried frying grilled grill roasted
+roast baked stew curry steamed boiled toy plush cartoon drawing illustration statue sculpture logo icon figurine""".split())
+
 def _words(text: str) -> set[str]:
     """Lower-case words with a trailing plural 's' removed ("ants" -> "ant"), for matching queries to clip tags."""
     return {w[:-1] if len(w) > 3 and w.endswith("s") else w for w in re.findall(r"[a-z]+", text.lower())}
@@ -228,6 +233,12 @@ class Visuals:
         return out
 
     # ------------------------------------------------------------------ choosing + downloading
+    def _alive(self, cands: list[Candidate]) -> list[Candidate]:
+        """Animal videos: drop clips tagged as food or as toys/drawings (keep everything for other topics)."""
+        if self.topic != "animals":
+            return cands
+        return [c for c in cands if not (_words(c.text) & _NOT_ALIVE)]
+
     def _must_show(self, query: str, cands: list[Candidate]) -> list[Candidate]:
         """When the query names the video's subject ("frozen frog ice winter" in a frog video), keep only clips whose
         description shows it; otherwise scenery words ('frozen', 'winter') can outvote the animal."""
@@ -240,6 +251,7 @@ class Visuals:
 
     def _pick(self, cands: list[Candidate], min_duration: float, query: str = "", strict: bool = False) -> Candidate | None:
         cands = [c for c in cands if c.uid not in self.used]
+        cands = self._alive(cands)
         if strict and query:
             cands = self._must_show(query, cands)
             # Only clips whose tags/link mention the subject ("alligator teeth close up" must not return a bee close-up);
@@ -302,7 +314,7 @@ class Visuals:
         cands: list[Candidate] = []
         for provider in (self._pixabay_videos, self._pexels_videos):
             cands += provider(keywords)
-        cands = self._must_show(keywords, [c for c in cands if c.uid not in self.used and c.kind == "video"])
+        cands = self._must_show(keywords, self._alive([c for c in cands if c.uid not in self.used and c.kind == "video"]))
         scored = [(relevance(c, keywords), c) for c in cands]
         if any(r is not None for r, _ in scored):
             best = max((r or 0) for r, _ in scored)
