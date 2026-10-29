@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-10-28T20:43:18+00:00",
+  "updated_at": "2026-10-29T02:08:13+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 10,
-    "channel_views": 5729,
+    "subscribers": 11,
+    "channel_views": 6848,
     "video_count": 16
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/Dfr7U_PG5ng"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/Dfr7U_PG5ng"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/Dfr7U_PG5ng"
+    ]
   },
   "retention": {
     "videos_with_data": 11,
@@ -31,7 +37,7 @@
       {
         "title": "What If the Sun Suddenly Disappeared?",
         "avg_view_percent": 108.6,
-        "views": 180
+        "views": 179
       },
       {
         "title": "What If All the Ice on Earth Melted?",
@@ -68,12 +74,12 @@
       {
         "title": "What If You Never Slept Again?",
         "avg_view_percent": 60.3,
-        "views": 423
+        "views": 479
       },
       {
         "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
         "avg_view_percent": 62.1,
-        "views": 1015
+        "views": 1016
       },
       {
         "title": "What If Everyone on Earth Jumped at the Same Time?",
@@ -83,17 +89,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 16,
-  "total_views": 7249,
+  "total_videos": 17,
+  "total_views": 7363,
   "by_topic": {
     "earth": {
       "videos": 3,
-      "avg_views": 523,
-      "best_views": 1015
+      "avg_views": 524,
+      "best_views": 1016
     },
     "space": {
       "videos": 10,
-      "avg_views": 342,
+      "avg_views": 348,
       "best_views": 1281
     },
     "society": {
@@ -107,22 +113,22 @@
       "best_views": 1424
     },
     "body": {
-      "videos": 1,
-      "avg_views": 423,
-      "best_views": 423
+      "videos": 2,
+      "avg_views": 240,
+      "best_views": 479
     }
   },
   "by_style": {
     "classic": {
-      "videos": 16,
-      "avg_views": 453,
+      "videos": 17,
+      "avg_views": 433,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 16,
-      "avg_views": 453
+      "videos": 17,
+      "avg_views": 433
     }
   },
   "top_videos": [
@@ -141,7 +147,7 @@
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 1015,
+      "views": 1016,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -149,6 +155,12 @@
       "topic": "space",
       "views": 915,
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes."
+    },
+    {
+      "title": "What If You Never Slept Again?",
+      "topic": "body",
+      "views": 479,
+      "hook": "What if you never slept again? Day one feels fine. It isn't."
     },
     {
       "title": "What If All the Ice on Earth Melted?",
@@ -163,28 +175,22 @@
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes."
     },
     {
-      "title": "What If You Never Slept Again?",
-      "topic": "body",
-      "views": 423,
-      "hook": "What if you never slept again? Day one feels fine. It isn't."
-    },
-    {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
       "views": 414,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
     },
     {
+      "title": "What If You Stood on Saturn's Moon Titan?",
+      "topic": "space",
+      "views": 260,
+      "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly."
+    },
+    {
       "title": "What If You Fell Into a Black Hole?",
       "topic": "space",
       "views": 246,
       "hook": "What if you fell into a black hole? Which one matters more than you'd think."
-    },
-    {
-      "title": "What If You Stood on Saturn's Moon Titan?",
-      "topic": "space",
-      "views": 246,
-      "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly."
     }
   ],
   "videos": {
@@ -431,8 +437,8 @@
       "hook": "What if you never slept again? Day one feels fine. It isn't.",
       "published_at": "2026-10-27T02:15:23Z",
       "privacy": "public",
-      "views": 423,
-      "likes": 11,
+      "views": 479,
+      "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/6nUPnY94QPA",
       "avg_view_seconds": 19.0,
@@ -459,7 +465,7 @@
       "hook": "What if a star exploded 50 light-years away? You wouldn't feel a thing, and that's the danger.",
       "published_at": "2026-10-27T14:00:17Z",
       "privacy": "public",
-      "views": 79,
+      "views": 100,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8"
@@ -483,7 +489,7 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 1015,
+      "views": 1016,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY",
@@ -535,8 +541,8 @@
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly.",
       "published_at": "2026-10-28T02:30:11Z",
       "privacy": "public",
-      "views": 246,
-      "likes": 5,
+      "views": 260,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/pf34SeLuJgk"
     },
@@ -559,7 +565,7 @@
       "hook": "What if you flew at 99 percent of light speed? Your clock would run seven times slower.",
       "published_at": "2026-10-28T14:00:34Z",
       "privacy": "public",
-      "views": 30,
+      "views": 42,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/hJIo0ee4tPA"
@@ -583,10 +589,34 @@
       "hook": "What if you visited a neutron star? Its tallest mountain is thinner than a hair.",
       "published_at": "2026-10-28T17:00:16Z",
       "privacy": "public",
-      "views": 1,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yxeZpoL6wKQ"
+    },
+    "Dfr7U_PG5ng": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Humans Could Photosynthesize?",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if humans could photosynthesize? Sunlight on your skin beats your diet, but it wouldn't feed you.",
+      "published_at": "2026-10-29T02:08:06Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Dfr7U_PG5ng"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
@@ -607,7 +637,7 @@
       "hook": "What if the Sun suddenly vanished? For eight minutes, nobody would know.",
       "published_at": "2026-10-26T16:30:05Z",
       "privacy": "public",
-      "views": 180,
+      "views": 179,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/jwre0VbiRCc",
