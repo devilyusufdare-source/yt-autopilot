@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-29T13:41:34+00:00",
+  "updated_at": "2026-10-29T15:26:23+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 41966,
-    "video_count": 139
+    "video_count": 140
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/0wfI9vjWDs0"
+      "https://youtube.com/shorts/zvjqPSPmyk4"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/0wfI9vjWDs0"
+      "https://youtube.com/shorts/zvjqPSPmyk4"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/0wfI9vjWDs0"
+      "https://youtube.com/shorts/zvjqPSPmyk4"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 138,
-  "total_views": 42531,
+  "total_videos": 139,
+  "total_views": 42610,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 83,
-      "avg_views": 290,
+      "videos": 84,
+      "avg_views": 288,
       "best_views": 1507
     },
     "human body": {
@@ -126,14 +126,14 @@
     },
     "technology": {
       "videos": 3,
-      "avg_views": 27,
+      "avg_views": 28,
       "best_views": 57
     }
   },
   "by_style": {
     "classic": {
-      "videos": 122,
-      "avg_views": 293,
+      "videos": 123,
+      "avg_views": 291,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 52,
-      "avg_views": 84
+      "videos": 53,
+      "avg_views": 83
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1030,7 +1030,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 75,
+      "views": 83,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E"
@@ -1054,7 +1054,7 @@
       "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
       "published_at": "2026-10-27T16:30:20Z",
       "privacy": "public",
-      "views": 28,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DmqaHptWqAY"
@@ -1078,7 +1078,7 @@
       "hook": "This worm has no mouth, no stomach, and it grows taller than you.",
       "published_at": "2026-10-27T14:00:23Z",
       "privacy": "public",
-      "views": 83,
+      "views": 87,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY"
@@ -1238,7 +1238,7 @@
       "hook": "This beetle does a headstand every night. It's how it drinks.",
       "published_at": "2026-10-27T17:20:01Z",
       "privacy": "public",
-      "views": 21,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hzWEks56BAU"
@@ -1398,7 +1398,7 @@
       "hook": "The slowest-spinning planet is not the one closest to the Sun.",
       "published_at": "2026-10-28T00:00:10Z",
       "privacy": "public",
-      "views": 39,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhWj8eW74zg"
@@ -1422,8 +1422,8 @@
       "hook": "The farthest thing humans ever built is almost a full light-day from home.",
       "published_at": "2026-10-29T00:10:36Z",
       "privacy": "public",
-      "views": 20,
-      "likes": 1,
+      "views": 25,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc"
     },
@@ -2314,7 +2314,7 @@
       "hook": "In 1958, the US dropped a nuclear bomb on South Carolina. By accident.",
       "published_at": "2026-10-21T15:00:12Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/bB08mIirOGo",
@@ -2842,7 +2842,7 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 153,
+      "views": 151,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM"
@@ -2890,7 +2890,7 @@
       "hook": "This frog freezes solid and comes back to life.",
       "published_at": "2026-10-28T12:20:12Z",
       "privacy": "public",
-      "views": 58,
+      "views": 68,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo"
@@ -2942,7 +2942,7 @@
       "hook": "This beetle blasts near-boiling liquid from its rear end.",
       "published_at": "2026-10-28T15:00:04Z",
       "privacy": "public",
-      "views": 33,
+      "views": 42,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eBJwSEoXZoQ"
@@ -2966,7 +2966,7 @@
       "hook": "A shark was caught 700 miles up the Mississippi River.",
       "published_at": "2026-10-28T16:30:27Z",
       "privacy": "public",
-      "views": 20,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0eDxP_Mfsoo"
@@ -3046,7 +3046,7 @@
       "hook": "A lake at the bottom of the sea kills what swims in.",
       "published_at": "2026-10-28T21:20:34Z",
       "privacy": "public",
-      "views": 25,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u7j4uSn2hiE"
@@ -3126,7 +3126,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 101,
+      "views": 136,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0"
@@ -3202,7 +3202,7 @@
       "hook": "Killer whales make their own waves to hunt.",
       "published_at": "2026-10-28T20:00:33Z",
       "privacy": "public",
-      "views": 89,
+      "views": 93,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RhsRw5DbPD4"
@@ -3226,7 +3226,7 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 125,
+      "views": 113,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM"
@@ -3390,7 +3390,7 @@
       "hook": "Some adult insects live for less than five minutes.",
       "published_at": "2026-10-23T19:40:06Z",
       "privacy": "public",
-      "views": 31,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o",
@@ -3446,7 +3446,7 @@
       "hook": "A goblin shark can shoot its jaws out of its own face.",
       "published_at": "2026-10-28T22:40:04Z",
       "privacy": "public",
-      "views": 6,
+      "views": 9,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/mzel-4ZbiC0"
@@ -3470,8 +3470,8 @@
       "hook": "Orcas throw themselves onto a beach to catch their dinner.",
       "published_at": "2026-10-29T02:40:02Z",
       "privacy": "public",
-      "views": 19,
-      "likes": 1,
+      "views": 23,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/tB1PyAE5HZs"
     },
@@ -3494,7 +3494,7 @@
       "hook": "An elephant sniffs air in at 330 miles per hour.",
       "published_at": "2026-10-29T12:20:01Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/oHOSiC4XktU"
@@ -3528,6 +3528,30 @@
       "subscribers_gained": 0
     },
     "0wfI9vjWDs0": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT23S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Shrimp's Claw Snap Is Louder Than a Gunshot",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This shrimp snaps its claw and makes a sound louder than a gunshot.",
+      "published_at": "2026-10-29T15:00:17Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/0wfI9vjWDs0"
+    },
+    "zvjqPSPmyk4": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -3539,17 +3563,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "This Shrimp's Claw Snap Is Louder Than a Gunshot",
+      "title": "An Ant's Jaws Snap Shut at Up to 145 Miles an Hour",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "This shrimp snaps its claw and makes a sound louder than a gunshot.",
-      "published_at": "2026-10-29T13:41:26Z",
+      "hook": "An ant's jaws can close at up to 145 miles an hour.",
+      "published_at": "2026-10-29T15:26:16Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/0wfI9vjWDs0"
+      "url": "https://youtube.com/shorts/zvjqPSPmyk4"
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",
