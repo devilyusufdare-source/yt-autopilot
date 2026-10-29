@@ -1,0 +1,57 @@
+{
+  "id": "2029-06-09-what-if-one-update-crashed-8-million-computers",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If One Software Update Crashed 8.5 Million Computers?",
+  "scenes": [
+    {
+      "text": "What if one software update grounded planes around the world? In July 2024, one did.",
+      "keywords": "airport departure board delayed"
+    },
+    {
+      "text": "A faulty update from the cybersecurity firm CrowdStrike crashed about 8.5 million Windows computers.",
+      "keywords": "computer blue screen error"
+    },
+    {
+      "text": "Microsoft said that was less than one percent of all Windows machines. Less than one percent was enough.",
+      "keywords": "office computers screens"
+    },
+    {
+      "text": "Thousands of flights were cancelled worldwide, and Delta was still rescheduling hundreds of flights days later.",
+      "keywords": "airport terminal crowd stranded"
+    },
+    {
+      "text": "Insurers estimated the damage to America's biggest companies at about 5.4 billion dollars.",
+      "keywords": "stock market screens finance"
+    },
+    {
+      "text": "It wasn't a hack. It was a faulty update, shipped by a company paid to protect those very machines.",
+      "keywords": "server room blinking lights"
+    }
+  ],
+  "description": "What if one software update crashed millions of computers at once?\nIn July 2024 a faulty CrowdStrike update took down about 8.5 million Windows machines, and insurers put the cost to big US companies near 5.4 billion dollars.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "crowdstrike outage",
+    "windows crash",
+    "software update",
+    "airline delays",
+    "technology facts",
+    "what would happen",
+    "tech explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#technology",
+    "#crowdstrike"
+  ],
+  "sources": [
+    "https://www.malaymail.com/amp/news/money/2024/07/21/microsoft-says-crowdstrike-mayhem-took-out-85-million-windows-devices/144464",
+    "https://uk.finance.yahoo.com/news/crowdstrike-global-outage-cost-us-161917841.html"
+  ],
+  "thumbnail_text": "ONE UPDATE. 8.5M CRASHES.",
+  "first_comment": "Were you stuck at an airport that day? Drop your own 'what if' below."
+}
