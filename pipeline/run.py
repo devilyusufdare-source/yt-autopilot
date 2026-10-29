@@ -845,6 +845,7 @@ def main(argv: list[str] | None = None) -> int:
             claimed.append(slot)
         pkg["tts_engine"] = result["tts_engine"]
         pkg["voice_used"] = result.get("voice")
+        pkg["footage"] = result.get("footage")   # clips by source (pixabay-video / pexels-video / pixabay-photo ...)
         pkg["highlight_color"] = result.get("highlight_color")
         pkg["duration_seconds"] = round(result["duration"], 1)
         pkg["style"] = style

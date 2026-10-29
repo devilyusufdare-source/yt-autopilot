@@ -230,12 +230,13 @@ class Visuals:
     # ------------------------------------------------------------------ choosing + downloading
     def _must_show(self, query: str, cands: list[Candidate]) -> list[Candidate]:
         """When the query names the video's subject ("frozen frog ice winter" in a frog video), keep only clips whose
-        description shows it, if any do; otherwise scenery words ('frozen', 'winter') can outvote the animal."""
+        description shows it; otherwise scenery words ('frozen', 'winter') can outvote the animal."""
         must = {w for f in self.focus for w in _words(f) if w not in _FOCUS_STOP and len(w) >= 3} & _words(query)
         if not must:
             return cands
-        hits = [c for c in cands if must & _words(c.text)]
-        return hits or cands
+        # None of these shows the animal: return nothing, so the search for the subject itself runs next
+        # instead of settling for scenery.
+        return [c for c in cands if must & _words(c.text)]
 
     def _pick(self, cands: list[Candidate], min_duration: float, query: str = "", strict: bool = False) -> Candidate | None:
         cands = [c for c in cands if c.uid not in self.used]
@@ -332,21 +333,27 @@ class Visuals:
             found = self._find_energetic(keywords, duration)
             if found:
                 return found
-        # Specific query first across all providers, so a relevant photo beats a generic video.
-        queries = ([keywords] + [q for q in self.focus if q.lower() != keywords.lower().strip()]
-                   + TOPIC_FALLBACK_QUERIES.get(self.topic, [])[:2] + GENERIC_QUERIES[:1])
-        providers = (self._pixabay_videos, self._pexels_videos, self._pixabay_photos)
-        strict_queries = {keywords.lower().strip(), *[q.lower() for q in self.focus]}
-        for q in queries:
-            for provider in providers:
-                picked = self._pick(provider(q), duration, query=q, strict=q.lower().strip() in strict_queries)
-                if not picked:
-                    continue
-                path = self._download(picked)
-                if path:
-                    self.used.add(picked.uid)
-                    self.credits.append({"query": q, "provider": picked.provider, "url": picked.page_url, "author": picked.author})
-                    return path, picked
+        # Order: a relevant VIDEO for the scene or the video's subject, then a relevant photo, then generic clips.
+        # (Videos first across both subject searches: with relevance filtering, well-tagged Pixabay photos would
+        # otherwise win over moving footage whose Pexels link lacks the animal's name, and stills hold viewers less.)
+        subject_qs = [keywords] + [q for q in self.focus if q.lower() != keywords.lower().strip()]
+        generic_qs = TOPIC_FALLBACK_QUERIES.get(self.topic, [])[:2] + GENERIC_QUERIES[:1]
+        videos, photos = (self._pixabay_videos, self._pexels_videos), (self._pixabay_photos,)
+        plan = ([(q, p, True) for q in subject_qs for p in videos] + [(q, p, True) for q in subject_qs for p in photos]
+                + [(q, p, False) for q in generic_qs for p in videos + photos])
+        results: dict[tuple, list[Candidate]] = {}
+        for q, provider, strict in plan:
+            key = (q, provider)
+            if key not in results:
+                results[key] = provider(q)
+            picked = self._pick(results[key], duration, query=q, strict=strict)
+            if not picked:
+                continue
+            path = self._download(picked)
+            if path:
+                self.used.add(picked.uid)
+                self.credits.append({"query": q, "provider": picked.provider, "url": picked.page_url, "author": picked.author})
+                return path, picked
         return None
 
     # ------------------------------------------------------------------ rendering
