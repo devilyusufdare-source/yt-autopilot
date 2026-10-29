@@ -1,40 +1,39 @@
 {
-  "updated_at": "2026-10-29T17:54:43+00:00",
+  "updated_at": "2026-10-29T19:31:53+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 42489,
-    "video_count": 141
+    "video_count": 143
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/qR2EsU5H4ZM",
-      "https://youtube.com/shorts/QsLlW3CpAWM"
+      "https://youtube.com/shorts/KZhvfyr0xgY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/QsLlW3CpAWM"
+      "https://youtube.com/shorts/KZhvfyr0xgY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/QsLlW3CpAWM"
+      "https://youtube.com/shorts/KZhvfyr0xgY"
     ]
   },
   "retention": {
-    "videos_with_data": 111,
-    "avg_view_percent": 65.8,
+    "videos_with_data": 122,
+    "avg_view_percent": 64.6,
     "by_topic": {
       "psychology": 71.3,
-      "science": 67.2,
-      "animals": 65.8,
+      "science": 69.8,
+      "animals": 63.3,
       "human body": 86.7,
-      "history": 53.8,
-      "space": 67.4,
-      "technology": 51.8
+      "history": 54.1,
+      "space": 65.6,
+      "technology": 53.9
     },
     "best": [
       {
@@ -58,9 +57,9 @@
         "views": 3
       },
       {
-        "title": "A Meteor Blew Up Over Russia With 30 Times the Power of Hiroshima",
-        "avg_view_percent": 104.8,
-        "views": 3
+        "title": "Water at 750 Degrees That Never Boils (1.5 Miles Under the Sea)",
+        "avg_view_percent": 106.3,
+        "views": 30
       }
     ],
     "worst": [
@@ -70,9 +69,9 @@
         "views": 2
       },
       {
-        "title": "A Whale Once Fooled a Diver Into Hearing a Human Voice",
-        "avg_view_percent": 18.5,
-        "views": 37
+        "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
+        "avg_view_percent": 22.3,
+        "views": 59
       },
       {
         "title": "The Shortest War in History Lasted 38 Minutes",
@@ -85,15 +84,15 @@
         "views": 1
       },
       {
-        "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
-        "avg_view_percent": 23.7,
-        "views": 58
+        "title": "This Beetle Does a Headstand to Drink 30% of Its Weight",
+        "avg_view_percent": 25.7,
+        "views": 33
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 141,
-  "total_views": 42955,
+  "total_videos": 142,
+  "total_views": 43097,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -102,12 +101,12 @@
     },
     "science": {
       "videos": 17,
-      "avg_views": 318,
+      "avg_views": 319,
       "best_views": 1648
     },
     "animals": {
-      "videos": 86,
-      "avg_views": 285,
+      "videos": 87,
+      "avg_views": 283,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 125,
-      "avg_views": 289,
+      "videos": 126,
+      "avg_views": 288,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 55,
+      "videos": 56,
       "avg_views": 87
     },
     "en-US-BrianNeural": {
@@ -475,7 +474,7 @@
       "hook": "Sharks are older than trees.",
       "published_at": "2026-10-16T10:18:30Z",
       "privacy": "public",
-      "views": 194,
+      "views": 195,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/dAX8nRPkNMY",
@@ -759,8 +758,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w",
-      "avg_view_seconds": 5.0,
-      "avg_view_percent": 18.5,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 41.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -787,8 +786,8 @@
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo",
-      "avg_view_seconds": 27.0,
-      "avg_view_percent": 65.9,
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 63.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -871,8 +870,8 @@
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
-      "avg_view_seconds": 10.0,
-      "avg_view_percent": 38.9,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 62.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -895,7 +894,7 @@
       "hook": "Wombats poop cubes. Scientists finally figured out how.",
       "published_at": "2026-10-15T07:30:08Z",
       "privacy": "public",
-      "views": 1211,
+      "views": 1212,
       "likes": 28,
       "comments": 1,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4",
@@ -923,12 +922,12 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 58,
+      "views": 59,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k",
-      "avg_view_seconds": 8.0,
-      "avg_view_percent": 23.7,
+      "avg_view_seconds": 7.0,
+      "avg_view_percent": 22.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -955,8 +954,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 45.1,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 40.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -982,7 +981,11 @@
       "views": 69,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/sqsrbQ8u4jw"
+      "url": "https://youtube.com/shorts/sqsrbQ8u4jw",
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 30.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "C2m63XKX8rg": {
       "upload_status": "processed",
@@ -1031,10 +1034,14 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 87,
+      "views": 88,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/pNq_22cuP4E"
+      "url": "https://youtube.com/shorts/pNq_22cuP4E",
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 35.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "DmqaHptWqAY": {
       "upload_status": "processed",
@@ -1055,10 +1062,14 @@
       "hook": "Scientists swore this fish died out with the dinosaurs. Then one turned up in a fishing net.",
       "published_at": "2026-10-27T16:30:20Z",
       "privacy": "public",
-      "views": 29,
+      "views": 33,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/DmqaHptWqAY"
+      "url": "https://youtube.com/shorts/DmqaHptWqAY",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 57.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "MEVi7vL7saY": {
       "upload_status": "processed",
@@ -1082,7 +1093,11 @@
       "views": 90,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/MEVi7vL7saY"
+      "url": "https://youtube.com/shorts/MEVi7vL7saY",
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 32.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "W2Swu8Jkmjs": {
       "upload_status": "processed",
@@ -1131,10 +1146,14 @@
       "hook": "A tiny bird on the Galapagos drinks blood from birds far bigger than itself.",
       "published_at": "2026-10-27T17:00:25Z",
       "privacy": "public",
-      "views": 75,
+      "views": 76,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/zlMkir0Z0S4"
+      "url": "https://youtube.com/shorts/zlMkir0Z0S4",
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 50.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "lrbMTCxwBCU": {
       "upload_status": "processed",
@@ -1187,8 +1206,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_X77GXV_cLE",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 75.3,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 79.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1216,7 +1235,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0",
       "avg_view_seconds": 34.0,
-      "avg_view_percent": 84.6,
+      "avg_view_percent": 83.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1239,10 +1258,14 @@
       "hook": "This beetle does a headstand every night. It's how it drinks.",
       "published_at": "2026-10-27T17:20:01Z",
       "privacy": "public",
-      "views": 30,
+      "views": 33,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/hzWEks56BAU"
+      "url": "https://youtube.com/shorts/hzWEks56BAU",
+      "avg_view_seconds": 6.0,
+      "avg_view_percent": 25.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "qOYToJpqKag": {
       "upload_status": "processed",
@@ -1263,10 +1286,14 @@
       "hook": "This toad grows its babies inside her own back.",
       "published_at": "2026-10-27T18:20:03Z",
       "privacy": "public",
-      "views": 138,
+      "views": 132,
       "likes": 4,
       "comments": 1,
-      "url": "https://youtube.com/shorts/qOYToJpqKag"
+      "url": "https://youtube.com/shorts/qOYToJpqKag",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 50.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "8nzpCGs_PM0": {
       "upload_status": "processed",
@@ -1399,10 +1426,14 @@
       "hook": "The slowest-spinning planet is not the one closest to the Sun.",
       "published_at": "2026-10-28T00:00:10Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/vhWj8eW74zg"
+      "url": "https://youtube.com/shorts/vhWj8eW74zg",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 33.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "14_g6NqKatc": {
       "upload_status": "processed",
@@ -1900,7 +1931,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/5pKsRTupbRY",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 43.8,
+      "avg_view_percent": 45.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2427,7 +2458,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 298,
+      "views": 302,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
@@ -2683,8 +2714,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/l57MjoYS9NY",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 41.0,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 38.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2822,7 +2853,11 @@
       "views": 30,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/V5bBt2yI2PY"
+      "url": "https://youtube.com/shorts/V5bBt2yI2PY",
+      "avg_view_seconds": 34.0,
+      "avg_view_percent": 106.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "4tjLDcWwrTM": {
       "upload_status": "processed",
@@ -2846,7 +2881,11 @@
       "views": 163,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/4tjLDcWwrTM"
+      "url": "https://youtube.com/shorts/4tjLDcWwrTM",
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 48.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "qH9gd2N8yTg": {
       "upload_status": "processed",
@@ -2870,7 +2909,11 @@
       "views": 25,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/qH9gd2N8yTg"
+      "url": "https://youtube.com/shorts/qH9gd2N8yTg",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 59.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "a74rNzBmIfo": {
       "upload_status": "processed",
@@ -2943,7 +2986,7 @@
       "hook": "This beetle blasts near-boiling liquid from its rear end.",
       "published_at": "2026-10-28T15:00:04Z",
       "privacy": "public",
-      "views": 52,
+      "views": 54,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eBJwSEoXZoQ"
@@ -2967,7 +3010,7 @@
       "hook": "A shark was caught 700 miles up the Mississippi River.",
       "published_at": "2026-10-28T16:30:27Z",
       "privacy": "public",
-      "views": 23,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0eDxP_Mfsoo"
@@ -3047,7 +3090,7 @@
       "hook": "A lake at the bottom of the sea kills what swims in.",
       "published_at": "2026-10-28T21:20:34Z",
       "privacy": "public",
-      "views": 30,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u7j4uSn2hiE"
@@ -3127,7 +3170,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 217,
+      "views": 212,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0"
@@ -3151,7 +3194,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 163,
+      "views": 211,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA"
@@ -3203,7 +3246,7 @@
       "hook": "Killer whales make their own waves to hunt.",
       "published_at": "2026-10-28T20:00:33Z",
       "privacy": "public",
-      "views": 93,
+      "views": 107,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RhsRw5DbPD4"
@@ -3227,7 +3270,7 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 196,
+      "views": 234,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM"
@@ -3284,7 +3327,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 62.7,
+      "avg_view_percent": 62.6,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -3340,7 +3383,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/34Pjo1b82WY",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 53.6,
+      "avg_view_percent": 53.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3424,7 +3467,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 91.2,
+      "avg_view_percent": 91.1,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -3447,7 +3490,7 @@
       "hook": "A goblin shark can shoot its jaws out of its own face.",
       "published_at": "2026-10-28T22:40:04Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/mzel-4ZbiC0"
@@ -3471,7 +3514,7 @@
       "hook": "Orcas throw themselves onto a beach to catch their dinner.",
       "published_at": "2026-10-29T02:40:02Z",
       "privacy": "public",
-      "views": 23,
+      "views": 37,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/tB1PyAE5HZs"
@@ -3547,9 +3590,9 @@
       "hook": "This shrimp snaps its claw and makes a sound louder than a gunshot.",
       "published_at": "2026-10-29T15:00:17Z",
       "privacy": "public",
-      "views": 0,
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/0wfI9vjWDs0"
     },
     "zvjqPSPmyk4": {
@@ -3593,22 +3636,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A wasp turns cockroaches into zombies.",
-      "published_at": "2026-10-29T16:33:09Z",
-      "privacy": "private",
+      "published_at": "2026-10-29T18:00:29Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/qR2EsU5H4ZM"
     },
     "QsLlW3CpAWM": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT22S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3617,11 +3660,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fish leaps out of the water and catches flying birds.",
-      "published_at": "2026-10-29T17:54:36Z",
-      "privacy": "private",
+      "published_at": "2026-10-29T18:20:15Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/QsLlW3CpAWM"
     },
     "uMujdO5WqYo": {
@@ -3647,8 +3690,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uMujdO5WqYo",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 48.1,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 50.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3704,7 +3747,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM",
       "avg_view_seconds": 8.0,
-      "avg_view_percent": 28.1,
+      "avg_view_percent": 27.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3732,7 +3775,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/nib97oLvxwI",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 51.5,
+      "avg_view_percent": 52.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3763,6 +3806,30 @@
       "avg_view_percent": 53.1,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "KZhvfyr0xgY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Lizard Shoots Blood From Its Eyes Up to 5 Feet",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This lizard shoots blood from its eyes. Up to five feet.",
+      "published_at": "2026-10-29T19:31:46Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/KZhvfyr0xgY"
     },
     "MvTzV6WNdAA": {
       "upload_status": "processed",
@@ -3843,8 +3910,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 60.7,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 48.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3923,7 +3990,7 @@
       "hook": "Four astronauts just flew 100 million miles without leaving orbit.",
       "published_at": "2026-10-25T14:10:31Z",
       "privacy": "public",
-      "views": 19,
+      "views": 23,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/O2zL5iipSFs",
@@ -3955,8 +4022,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
-      "avg_view_seconds": 19.0,
-      "avg_view_percent": 60.3,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 63.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4012,7 +4079,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/TjxKsQKmMj4",
       "avg_view_seconds": 10.0,
-      "avg_view_percent": 46.4,
+      "avg_view_percent": 45.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4067,8 +4134,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8",
-      "avg_view_seconds": 8.0,
-      "avg_view_percent": 28.0,
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 35.4,
       "shares": 0,
       "subscribers_gained": 0
     }
