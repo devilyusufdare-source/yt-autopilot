@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T20:46:04+00:00",
+  "updated_at": "2026-10-30T02:09:54+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,13 +9,19 @@
     "video_count": 18
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/ZUqekDSPv74"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/ZUqekDSPv74"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/ZUqekDSPv74"
+    ]
   },
   "retention": {
     "videos_with_data": 14,
@@ -73,27 +79,27 @@
       {
         "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
         "avg_view_percent": 62.5,
-        "views": 1022
+        "views": 1023
       },
       {
         "title": "What If a Star Exploded 50 Light-Years From Earth?",
         "avg_view_percent": 62.6,
-        "views": 128
+        "views": 131
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 18,
-  "total_views": 7927,
+  "total_videos": 19,
+  "total_views": 7946,
   "by_topic": {
     "earth": {
-      "videos": 3,
-      "avg_views": 526,
-      "best_views": 1022
+      "videos": 4,
+      "avg_views": 394,
+      "best_views": 1023
     },
     "space": {
       "videos": 11,
-      "avg_views": 355,
+      "avg_views": 357,
       "best_views": 1281
     },
     "society": {
@@ -114,15 +120,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 18,
-      "avg_views": 440,
+      "videos": 19,
+      "avg_views": 418,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 18,
-      "avg_views": 440
+      "videos": 19,
+      "avg_views": 418
     }
   },
   "top_videos": [
@@ -141,13 +147,13 @@
     {
       "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
       "topic": "space",
-      "views": 1095,
+      "views": 1096,
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes."
     },
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 1022,
+      "views": 1023,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -177,7 +183,7 @@
     {
       "title": "What If You Stood on Saturn's Moon Titan?",
       "topic": "space",
-      "views": 287,
+      "views": 290,
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly."
     },
     {
@@ -459,7 +465,7 @@
       "hook": "What if a star exploded 50 light-years away? You wouldn't feel a thing, and that's the danger.",
       "published_at": "2026-10-27T14:00:17Z",
       "privacy": "public",
-      "views": 128,
+      "views": 131,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8",
@@ -487,7 +493,7 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 1022,
+      "views": 1023,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY",
@@ -515,7 +521,7 @@
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes.",
       "published_at": "2026-10-27T16:50:07Z",
       "privacy": "public",
-      "views": 1095,
+      "views": 1096,
       "likes": 36,
       "comments": 1,
       "url": "https://youtube.com/shorts/vvwy7bHBZt4",
@@ -543,7 +549,7 @@
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly.",
       "published_at": "2026-10-28T02:30:11Z",
       "privacy": "public",
-      "views": 287,
+      "views": 290,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/pf34SeLuJgk",
@@ -571,8 +577,8 @@
       "hook": "What if you flew at 99 percent of light speed? Your clock would run seven times slower.",
       "published_at": "2026-10-28T14:00:34Z",
       "privacy": "public",
-      "views": 55,
-      "likes": 2,
+      "views": 57,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/hJIo0ee4tPA"
     },
@@ -595,7 +601,7 @@
       "hook": "What if you visited a neutron star? Its tallest mountain is thinner than a hair.",
       "published_at": "2026-10-28T17:00:16Z",
       "privacy": "public",
-      "views": 62,
+      "views": 63,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yxeZpoL6wKQ"
@@ -643,10 +649,34 @@
       "hook": "What if sound traveled through space? You'd hear the Sun, and it would arrive years late.",
       "published_at": "2026-10-29T14:10:27Z",
       "privacy": "public",
-      "views": 135,
+      "views": 143,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y"
+    },
+    "ZUqekDSPv74": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If the Siberian Traps Erupted Again?",
+      "topic": "earth",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
+      "published_at": "2026-10-30T02:09:48Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/ZUqekDSPv74"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
