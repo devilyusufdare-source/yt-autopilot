@@ -54,5 +54,20 @@
   "thumbnail_text": "WHAT IF YOU HIT OPEN SPACE?",
   "priority": 7,
   "first_comment": "What should we run through next? Drop a 'what if' below.",
-  "_attempts": 2
+  "youtube_id": "vRwTuMJXX7Q",
+  "url": "https://youtube.com/shorts/vRwTuMJXX7Q",
+  "uploaded_at": "2026-10-30T13:37:53+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-30T14:10:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FDA4AF",
+  "duration_seconds": 35.5,
+  "style": "classic",
+  "kind": "shorts"
 }
