@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-10-30T02:13:29+00:00",
+  "updated_at": "2026-10-30T04:05:19+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 42489,
-    "video_count": 147
+    "video_count": 148
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/nUqBVOHGP2c"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/nUqBVOHGP2c"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/nUqBVOHGP2c"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 122,
@@ -44,7 +38,7 @@
       {
         "title": "Your Body Is Glowing Right Now and You Can't See It",
         "avg_view_percent": 158.9,
-        "views": 246
+        "views": 247
       },
       {
         "title": "In 2022, a Volcano Fired 2,600 Lightning Bolts a Minute",
@@ -92,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 146,
-  "total_views": 43587,
+  "total_views": 43660,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,12 +95,12 @@
     },
     "science": {
       "videos": 18,
-      "avg_views": 301,
+      "avg_views": 302,
       "best_views": 1648
     },
     "animals": {
       "videos": 89,
-      "avg_views": 282,
+      "avg_views": 283,
       "best_views": 1507
     },
     "human body": {
@@ -133,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 130,
-      "avg_views": 283,
+      "avg_views": 284,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +139,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 60,
-      "avg_views": 90
+      "avg_views": 91
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -698,7 +692,7 @@
       "hook": "Your body is glowing right now. You just can't see it.",
       "published_at": "2026-10-15T05:30:37Z",
       "privacy": "public",
-      "views": 246,
+      "views": 247,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/T00_3CUDt5s",
@@ -3010,7 +3004,7 @@
       "hook": "This beetle blasts near-boiling liquid from its rear end.",
       "published_at": "2026-10-28T15:00:04Z",
       "privacy": "public",
-      "views": 62,
+      "views": 63,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eBJwSEoXZoQ"
@@ -3034,8 +3028,8 @@
       "hook": "A shark was caught 700 miles up the Mississippi River.",
       "published_at": "2026-10-28T16:30:27Z",
       "privacy": "public",
-      "views": 32,
-      "likes": 0,
+      "views": 42,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0eDxP_Mfsoo"
     },
@@ -3138,7 +3132,7 @@
       "hook": "Lava once shot nineteen hundred feet into the air.",
       "published_at": "2026-10-29T22:40:34Z",
       "privacy": "public",
-      "views": 5,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8HPrrfRBnJA"
@@ -3242,7 +3236,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 260,
+      "views": 274,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA"
@@ -3294,7 +3288,7 @@
       "hook": "Killer whales make their own waves to hunt.",
       "published_at": "2026-10-28T20:00:33Z",
       "privacy": "public",
-      "views": 112,
+      "views": 116,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RhsRw5DbPD4"
@@ -3538,7 +3532,7 @@
       "hook": "A goblin shark can shoot its jaws out of its own face.",
       "published_at": "2026-10-28T22:40:04Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/mzel-4ZbiC0"
@@ -3586,7 +3580,7 @@
       "hook": "An elephant sniffs air in at 330 miles per hour.",
       "published_at": "2026-10-29T12:20:01Z",
       "privacy": "public",
-      "views": 45,
+      "views": 47,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/oHOSiC4XktU"
@@ -3874,7 +3868,7 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 24,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY"
@@ -3926,7 +3920,7 @@
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
       "published_at": "2026-10-29T21:20:18Z",
       "privacy": "public",
-      "views": 3,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA"
@@ -4212,14 +4206,14 @@
       "subscribers_gained": 0
     },
     "nUqBVOHGP2c": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT40S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4228,11 +4222,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
-      "published_at": "2026-10-30T02:13:20Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-30T02:40:36Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c"
     }
   }
