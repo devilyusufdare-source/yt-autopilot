@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30T13:40:31+00:00",
+  "updated_at": "2026-10-30T15:01:48+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 43494,
-    "video_count": 149
+    "video_count": 150
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/kSrIjnopHTY"
+      "https://youtube.com/shorts/aXBXlTcf_ys"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/kSrIjnopHTY"
+      "https://youtube.com/shorts/aXBXlTcf_ys"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/kSrIjnopHTY"
+      "https://youtube.com/shorts/aXBXlTcf_ys"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 148,
-  "total_views": 44689,
+  "total_videos": 149,
+  "total_views": 44698,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 91,
-      "avg_views": 287,
+      "videos": 92,
+      "avg_views": 284,
       "best_views": 1507
     },
     "human body": {
@@ -126,14 +126,14 @@
     },
     "technology": {
       "videos": 3,
-      "avg_views": 40,
-      "best_views": 60
+      "avg_views": 42,
+      "best_views": 65
     }
   },
   "by_style": {
     "classic": {
-      "videos": 132,
-      "avg_views": 287,
+      "videos": 133,
+      "avg_views": 285,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 62,
-      "avg_views": 105
+      "videos": 63,
+      "avg_views": 103
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1478,7 +1478,7 @@
       "hook": "The farthest thing humans ever built is almost a full light-day from home.",
       "published_at": "2026-10-29T00:10:36Z",
       "privacy": "public",
-      "views": 60,
+      "views": 65,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc"
@@ -4180,14 +4180,14 @@
       "subscribers_gained": 0
     },
     "kSrIjnopHTY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT23S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4196,12 +4196,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A blue whale swallows more than its own weight.",
-      "published_at": "2026-10-30T13:40:20Z",
-      "privacy": "private",
+      "published_at": "2026-10-30T15:00:13Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/kSrIjnopHTY"
+    },
+    "aXBXlTcf_ys": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Praying Mantises Catch and Eat Birds Alive: 147 Cases Found",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Praying mantises catch and eat live birds.",
+      "published_at": "2026-10-30T15:01:37Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/aXBXlTcf_ys"
     },
     "VY98speDz40": {
       "upload_status": "processed",
@@ -4278,7 +4302,7 @@
       "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
       "published_at": "2026-10-30T02:40:36Z",
       "privacy": "public",
-      "views": 24,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c"
