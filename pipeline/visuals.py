@@ -132,6 +132,7 @@ class Candidate:
     author: str = ""
     kind: str = "video"    # video | image
     text: str = ""         # what the clip shows: Pixabay tags, or the words in a Pexels page link
+    smaller: tuple = ()    # smaller renditions of the same clip, tried when file_url turns out too big to download
 
     @property
     def portrait(self) -> bool:
@@ -184,14 +185,15 @@ class Visuals:
         out: list[Candidate] = []
         for hit in (data or {}).get("hits", []):
             files = hit.get("videos") or {}
-            # Prefer the largest rendition that is not absurdly big to download.
-            for size in ("large", "medium", "small"):
-                f = files.get(size) or {}
-                if f.get("url") and f.get("width") and f.get("height") and (f.get("size") or 0) < MAX_DOWNLOAD_MB * 1024 * 1024:
-                    out.append(Candidate("pixabay-video", f"pxb{hit['id']}", f["url"], int(f["width"]), int(f["height"]),
-                                         float(hit.get("duration", 0)), hit.get("pageURL", ""), hit.get("user", ""),
-                                         text=str(hit.get("tags", ""))))
-                    break
+            # Prefer the largest rendition that is not absurdly big to download. The listed size is not always the real
+            # one (29-30 Oct: every astronaut clip came down over the limit), so the smaller renditions stay as fallbacks.
+            ok = [f for f in (files.get(size) or {} for size in ("large", "medium", "small"))
+                  if f.get("url") and f.get("width") and f.get("height") and (f.get("size") or 0) < MAX_DOWNLOAD_MB * 1024 * 1024]
+            if ok:
+                f = ok[0]
+                out.append(Candidate("pixabay-video", f"pxb{hit['id']}", f["url"], int(f["width"]), int(f["height"]),
+                                     float(hit.get("duration", 0)), hit.get("pageURL", ""), hit.get("user", ""),
+                                     text=str(hit.get("tags", "")), smaller=tuple(x["url"] for x in ok[1:])))
         return out
 
     def _pexels_videos(self, query: str) -> list[Candidate]:
@@ -277,21 +279,27 @@ class Visuals:
         dst = self.cache / f"{c.uid}{ext}"
         if dst.exists() and dst.stat().st_size > 10_000:
             return dst
-        try:
-            with requests.get(c.file_url, stream=True, timeout=120) as r:
-                r.raise_for_status()
-                size = 0
-                with open(dst, "wb") as f:
-                    for chunk in r.iter_content(chunk_size=1 << 16):
-                        f.write(chunk)
-                        size += len(chunk)
-                        if size > MAX_DOWNLOAD_MB * 1024 * 1024:
-                            raise RuntimeError("file too large")
-            return dst
-        except Exception as e:  # noqa: BLE001
-            print(f"[visuals] download failed ({c.provider}): {e}")
-            dst.unlink(missing_ok=True)
-            return None
+        urls = [c.file_url, *c.smaller]
+        for k, url in enumerate(urls):
+            try:
+                with requests.get(url, stream=True, timeout=120) as r:
+                    r.raise_for_status()
+                    size = 0
+                    with open(dst, "wb") as f:
+                        for chunk in r.iter_content(chunk_size=1 << 16):
+                            f.write(chunk)
+                            size += len(chunk)
+                            if size > MAX_DOWNLOAD_MB * 1024 * 1024:
+                                raise RuntimeError("file too large")
+                return dst
+            except Exception as e:  # noqa: BLE001
+                dst.unlink(missing_ok=True)
+                if "too large" in str(e) and k + 1 < len(urls):
+                    print(f"[visuals] {c.uid}: file too large, trying a smaller version")
+                    continue
+                print(f"[visuals] download failed ({c.provider}): {e}")
+                return None
+        return None
 
     @staticmethod
     def _energy(path: Path) -> tuple[float, float]:

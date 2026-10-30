@@ -115,7 +115,8 @@ def render_final(visual: Path, voice: Path, ass: Path, music: Path | None, cfg: 
         filters.append(f"[v0][bar]overlay=x='-w+w*t/{total:.3f}':y=H-h:shortest=1[v]")
         vout = "[v]"
     lufs = float(cfg.get("voice.loudness_lufs", -16))
-    filters.append(f"[1:a]loudnorm=I={lufs}:TP=-1.5:LRA=11,aresample=48000[va]")
+    voice_filter = f"[1:a]loudnorm=I={lufs}:TP=-1.5:LRA=11,aresample=48000[va]"
+    filters.append(voice_filter)
     inputs = ["-i", str(visual), "-i", str(voice)]
     aout = "[va]"
     if music:
@@ -130,8 +131,34 @@ def render_final(visual: Path, voice: Path, ass: Path, music: Path | None, cfg: 
            "-c:v", "libx264", "-preset", str(cfg.get("video.preset", "medium")), "-crf", str(cfg.get("video.crf", 20)), "-pix_fmt", "yuv420p",
            "-r", str(fps), "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart",
            "-t", f"{total:.3f}", str(out)]
-    _ffmpeg(cmd)
+    try:
+        _ffmpeg(cmd)
+    except FFmpegError as e:
+        if "nan" not in (e.stderr or "").lower():
+            raise
+        # 30 Oct: loudnorm's dynamic mode now and then hands the AAC encoder invalid samples ("Input contains (near)
+        # NaN/+-Inf", exit 234): What If lost two slots to it. Same loudness target, reached with one fixed gain and a
+        # peak limiter instead.
+        gain = lufs - measure_lufs(voice)
+        print(f"[render] loudnorm produced invalid samples; using a fixed gain of {gain:+.1f} dB instead")
+        safe = f"[1:a]volume={gain:.2f}dB,alimiter=limit={10 ** (-1.5 / 20):.4f}:level=false,aresample=48000[va]"
+        fc = cmd.index("-filter_complex") + 1
+        cmd[fc] = cmd[fc].replace(voice_filter, safe)
+        _ffmpeg(cmd)
     return out
+
+
+def measure_lufs(path: Path) -> float:
+    """Integrated loudness (EBU R128) of an audio file; -70 for silence or when it cannot be measured."""
+    err = subprocess.run(["ffmpeg", "-hide_banner", "-nostats", "-i", str(path), "-af", "ebur128=framelog=quiet", "-f", "null", "-"],
+                         capture_output=True, text=True, errors="replace").stderr
+    import re
+    found = re.findall(r"I:\s+(-?[\d.]+|-inf) LUFS", err)
+    try:
+        value = float(found[-1])
+    except (IndexError, ValueError):
+        return -70.0
+    return value if value > -70 else -70.0
 
 
 # ----------------------------------------------------------------------------- thumbnail
