@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30T19:27:46+00:00",
+  "updated_at": "2026-10-30T20:49:18+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 57,
     "channel_views": 43494,
-    "video_count": 153
+    "video_count": 154
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Hs38proZTyc"
+      "https://youtube.com/shorts/qRaw9tphoKk"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Hs38proZTyc"
+      "https://youtube.com/shorts/qRaw9tphoKk"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Hs38proZTyc"
+      "https://youtube.com/shorts/qRaw9tphoKk"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 152,
-  "total_views": 45455,
+  "total_videos": 153,
+  "total_views": 45644,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 95,
-      "avg_views": 283,
+      "videos": 96,
+      "avg_views": 282,
       "best_views": 1507
     },
     "human body": {
@@ -121,18 +121,18 @@
     },
     "space": {
       "videos": 20,
-      "avg_views": 412,
+      "avg_views": 413,
       "best_views": 1513
     },
     "technology": {
       "videos": 3,
-      "avg_views": 42,
-      "best_views": 66
+      "avg_views": 43,
+      "best_views": 69
     }
   },
   "by_style": {
     "classic": {
-      "videos": 136,
+      "videos": 137,
       "avg_views": 284,
       "over_1500": 3
     },
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 66,
-      "avg_views": 110
+      "videos": 67,
+      "avg_views": 111
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1258,7 +1258,7 @@
       "hook": "Almost every turtle on this reef is female.",
       "published_at": "2026-10-30T00:10:36Z",
       "privacy": "public",
-      "views": 51,
+      "views": 60,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/SVJipZiOpJM"
@@ -1478,7 +1478,7 @@
       "hook": "The farthest thing humans ever built is almost a full light-day from home.",
       "published_at": "2026-10-29T00:10:36Z",
       "privacy": "public",
-      "views": 66,
+      "views": 69,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc",
@@ -2962,7 +2962,7 @@
       "hook": "This frog freezes solid and comes back to life.",
       "published_at": "2026-10-28T12:20:12Z",
       "privacy": "public",
-      "views": 96,
+      "views": 90,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo",
@@ -3018,7 +3018,7 @@
       "hook": "This beetle blasts near-boiling liquid from its rear end.",
       "published_at": "2026-10-28T15:00:04Z",
       "privacy": "public",
-      "views": 75,
+      "views": 76,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eBJwSEoXZoQ",
@@ -3158,7 +3158,7 @@
       "hook": "Lava once shot nineteen hundred feet into the air.",
       "published_at": "2026-10-29T22:40:34Z",
       "privacy": "public",
-      "views": 47,
+      "views": 49,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8HPrrfRBnJA"
@@ -3238,7 +3238,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 376,
+      "views": 414,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -3322,7 +3322,7 @@
       "hook": "Killer whales make their own waves to hunt.",
       "published_at": "2026-10-28T20:00:33Z",
       "privacy": "public",
-      "views": 142,
+      "views": 143,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RhsRw5DbPD4",
@@ -3350,7 +3350,7 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 514,
+      "views": 557,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM",
@@ -3682,7 +3682,7 @@
       "hook": "This shrimp snaps its claw and makes a sound louder than a gunshot.",
       "published_at": "2026-10-29T15:00:17Z",
       "privacy": "public",
-      "views": 25,
+      "views": 26,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0wfI9vjWDs0"
@@ -3706,7 +3706,7 @@
       "hook": "An ant's jaws can close at up to 145 miles an hour.",
       "published_at": "2026-10-29T16:30:10Z",
       "privacy": "public",
-      "views": 113,
+      "views": 115,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4"
@@ -3730,7 +3730,7 @@
       "hook": "A wasp turns cockroaches into zombies.",
       "published_at": "2026-10-29T18:00:29Z",
       "privacy": "public",
-      "views": 675,
+      "views": 739,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qR2EsU5H4ZM"
@@ -3754,7 +3754,7 @@
       "hook": "This fish leaps out of the water and catches flying birds.",
       "published_at": "2026-10-29T18:20:15Z",
       "privacy": "public",
-      "views": 37,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QsLlW3CpAWM"
@@ -3918,7 +3918,7 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 96,
+      "views": 100,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY"
@@ -3970,7 +3970,7 @@
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
       "published_at": "2026-10-29T21:20:18Z",
       "privacy": "public",
-      "views": 70,
+      "views": 76,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA"
@@ -4190,7 +4190,7 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 72,
+      "views": 84,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
@@ -4242,7 +4242,7 @@
       "hook": "A blue whale swallows more than its own weight.",
       "published_at": "2026-10-30T15:00:13Z",
       "privacy": "public",
-      "views": 8,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY"
@@ -4266,7 +4266,7 @@
       "hook": "Praying mantises catch and eat live birds.",
       "published_at": "2026-10-30T15:30:08Z",
       "privacy": "public",
-      "views": 7,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys"
@@ -4318,7 +4318,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 5,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU"
@@ -4348,6 +4348,30 @@
       "url": "https://youtube.com/shorts/c1_iRJblyEI"
     },
     "Hs38proZTyc": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT27S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Satellites Found 1.5 Million Penguins by Spotting Their Poop",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Satellites found 1.5 million penguins by spotting their poop.",
+      "published_at": "2026-10-30T19:50:22Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/Hs38proZTyc"
+    },
+    "qRaw9tphoKk": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -4359,17 +4383,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "Satellites Found 1.5 Million Penguins by Spotting Their Poop",
+      "title": "Jellyfish Shut Down a 1,400-Megawatt Nuclear Reactor in Sweden",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "Satellites found 1.5 million penguins by spotting their poop.",
-      "published_at": "2026-10-30T19:27:35Z",
+      "hook": "Jellyfish shut down a nuclear reactor.",
+      "published_at": "2026-10-30T20:49:08Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/Hs38proZTyc"
+      "url": "https://youtube.com/shorts/qRaw9tphoKk"
     },
     "VuyOz5b3Dk8": {
       "upload_status": "processed",
@@ -4418,7 +4442,7 @@
       "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
       "published_at": "2026-10-30T02:40:36Z",
       "privacy": "public",
-      "views": 48,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c"
