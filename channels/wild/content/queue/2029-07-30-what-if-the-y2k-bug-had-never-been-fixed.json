@@ -1,0 +1,57 @@
+{
+  "id": "2029-07-30-what-if-the-y2k-bug-had-never-been-fixed",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If the Y2K Bug Had Never Been Fixed?",
+  "scenes": [
+    {
+      "text": "What if nobody fixed the Y2K bug? Computers might have read the year 2000 as 1900.",
+      "keywords": "old computer mainframe room"
+    },
+    {
+      "text": "To save costly memory, early programmers stored only the last two digits of the year.",
+      "keywords": "vintage computer code screen"
+    },
+    {
+      "text": "Banks, utilities and government mainframes were most exposed, plus chips in elevators and medical equipment.",
+      "keywords": "bank data center servers"
+    },
+    {
+      "text": "Fixing it was not cheap. The research firm Gartner estimated 300 to 600 billion dollars.",
+      "keywords": "money counting dollars"
+    },
+    {
+      "text": "When the clocks rolled over, a Senate committee counted over 50 incidents in the U.S. and over 100 elsewhere, all minor.",
+      "keywords": "new year fireworks midnight countdown"
+    },
+    {
+      "text": "The bug was real, but the Smithsonian notes it caused no epidemic of failures. Some call that success, others a hoax.",
+      "keywords": "clock midnight ticking"
+    }
+  ],
+  "description": "What if the Y2K bug had never been fixed?\nTwo-digit years put banks, utilities and elevators at risk, and fixing it cost an estimated 300 to 600 billion dollars.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "y2k",
+    "millennium bug",
+    "computer history",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#y2k",
+    "#tech"
+  ],
+  "sources": [
+    "https://www.si.edu/spotlight/y2k",
+    "https://www.straightdope.com/21343978/was-all-that-money-spent-on-y2k-wasted",
+    "https://www.computerworld.com/?p=1372100"
+  ],
+  "thumbnail_text": "WHAT IF Y2K WASN'T FIXED?",
+  "first_comment": "Did you stay up for the year 2000? Drop your own what if below."
+}
