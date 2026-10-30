@@ -1,0 +1,57 @@
+{
+  "id": "2029-07-24-what-if-you-jumped-on-a-comet",
+  "format": "whatif",
+  "topic": "space",
+  "priority": 6,
+  "title": "What If You Jumped on a Comet?",
+  "scenes": [
+    {
+      "text": "What if you jumped on a comet? You might never come back down.",
+      "keywords": "comet in space tail"
+    },
+    {
+      "text": "Comet 67P is only a few kilometers wide, so its gravity is tiny.",
+      "keywords": "comet nucleus rocky"
+    },
+    {
+      "text": "Escape speed there is about one to two miles an hour, slower than a walk.",
+      "keywords": "astronaut floating space"
+    },
+    {
+      "text": "On Earth, escape speed is about 25,000 miles an hour.",
+      "keywords": "rocket launch earth"
+    },
+    {
+      "text": "In 2014, Europe's lander Philae touched down, and its harpoons failed to fire.",
+      "keywords": "space probe landing comet"
+    },
+    {
+      "text": "It bounced more than a kilometer high, and finally stopped two hours after first touching down.",
+      "keywords": "spacecraft lander asteroid surface"
+    }
+  ],
+  "description": "What if you jumped on a comet?\nOn comet 67P, escape speed is only about one to two miles an hour, so a good jump could leave it for good.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "comet 67p",
+    "philae lander",
+    "rosetta mission",
+    "space facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#comet",
+    "#space"
+  ],
+  "sources": [
+    "https://www.fleetscience.org/blog/2014/12/things-you-might-have-missed-about-philae-landing-comet-67p",
+    "https://www.dlr.de/en/images/2020/4/philae-s-path-on-comet-67p",
+    "https://thatsmaths.com/2014/11/27/falling-bodies-2-philae/"
+  ],
+  "thumbnail_text": "WHAT IF YOU JUMPED OFF A COMET?",
+  "first_comment": "Would you dare to jump on a comet? Drop your own 'what if' below."
+}
