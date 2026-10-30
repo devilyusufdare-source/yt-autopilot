@@ -1,0 +1,58 @@
+{
+  "id": "2029-08-07-what-if-one-cloud-region-went-dark-aws",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If One Cloud Region Went Dark? Amazon's Did in 2025",
+  "scenes": [
+    {
+      "text": "What if one block of the internet's servers went dark? On October 20, 2025, it did.",
+      "keywords": "data center server room"
+    },
+    {
+      "text": "Early that Monday, a database service in Amazon's Northern Virginia region lost its address.",
+      "keywords": "server room blinking lights"
+    },
+    {
+      "text": "A bug in the system that manages its DNS left that address blank, so apps could not find the service.",
+      "keywords": "computer code screen error"
+    },
+    {
+      "text": "Snapchat, Fortnite, Venmo, Reddit and Alexa all stumbled or went down.",
+      "keywords": "phone scrolling social media"
+    },
+    {
+      "text": "The blank address was fixed within hours, but new servers kept failing to start and the trouble rippled on.",
+      "keywords": "engineer monitoring screens"
+    },
+    {
+      "text": "Some problems lasted around 15 hours. One software bug in one region, and dozens of apps you use went quiet.",
+      "keywords": "phone offline error screen"
+    }
+  ],
+  "description": "What if one cloud region went dark?\nOn October 20, 2025, a DNS bug in Amazon's Northern Virginia region knocked apps like Snapchat, Fortnite and Venmo offline for hours.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "aws outage",
+    "cloud outage",
+    "dns bug",
+    "technology facts",
+    "internet",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#aws",
+    "#internet"
+  ],
+  "sources": [
+    "https://www.thousandeyes.com/blog/aws-outage-analysis-october-20-2025",
+    "https://www.engadget.com/big-tech/aws-fell-on-its-face-knocking-many-apps-websites-and-games-offline-142935040.html",
+    "https://www.infoq.com/news/2025/11/aws-dynamodb-outage-postmortem"
+  ],
+  "thumbnail_text": "WHAT IF ONE CLOUD WENT DARK?",
+  "first_comment": "Which app would you miss most if it went down? Drop your own what-if below."
+}
