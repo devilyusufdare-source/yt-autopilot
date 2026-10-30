@@ -55,5 +55,21 @@
   ],
   "thumbnail_text": "BIRD THAT RUNS 45 MPH",
   "priority": 7,
-  "first_comment": "45 miles an hour on two legs. Could you outrun an ostrich with a head start?"
+  "first_comment": "45 miles an hour on two legs. Could you outrun an ostrich with a head start?",
+  "youtube_id": "c1_iRJblyEI",
+  "url": "https://youtube.com/shorts/c1_iRJblyEI",
+  "uploaded_at": "2026-10-30T17:48:35+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-30T18:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 8,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 23.4,
+  "style": "classic",
+  "kind": "shorts"
 }
