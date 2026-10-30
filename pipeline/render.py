@@ -14,6 +14,33 @@ from .config import ASSETS_DIR, MUSIC_DIR, ROOT, Config
 from .tts import SAMPLE_RATE, SceneAudio, Word, read_wav, write_wav
 
 
+class FFmpegError(subprocess.CalledProcessError):
+    """A failed ffmpeg run whose message carries ffmpeg's own last lines. The command line alone says nothing, and the
+    Actions log is out of reach, so the reason has to travel in the exception (it ends up in runs/last-failure.txt)."""
+
+    def __str__(self) -> str:
+        lines = [ln.strip() for ln in (self.stderr or "").replace("\r", "\n").splitlines()
+                 if ln.strip() and not ln.lstrip().startswith(("frame=", "size="))]
+        return f"ffmpeg exited with {self.returncode}: " + (" | ".join(lines[-6:]) or "(no error output)")
+
+
+def _ffmpeg(cmd: list[str]) -> None:
+    proc = subprocess.run(cmd, stderr=subprocess.PIPE, text=True, errors="replace")
+    if proc.returncode != 0:
+        raise FFmpegError(proc.returncode, cmd, stderr=proc.stderr)
+
+
+def has_picture(path: Path) -> bool:
+    """True when the file has a video stream with at least one frame (a clip can come out of ffmpeg without one)."""
+    try:
+        out = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-count_packets",
+                              "-show_entries", "stream=nb_read_packets", "-of", "csv=p=0", str(path)],
+                             capture_output=True, text=True, timeout=120).stdout.strip()
+    except (subprocess.SubprocessError, OSError):
+        return False
+    return out.isdigit() and int(out) > 0
+
+
 def _ff_escape(path: Path) -> str:
     """Escape a path for use inside an ffmpeg filter graph argument."""
     return str(path).replace("\\", "\\\\").replace(":", "\\:").replace("'", "\\'").replace(",", "\\,")
@@ -52,10 +79,17 @@ def assemble_voice(scenes: list[SceneAudio], gap: float, out: Path) -> tuple[lis
 def concat_clips(clips: list[Path], out: Path) -> float:
     lst = out.with_suffix(".txt")
     lst.write_text("".join(f"file '{c.as_posix()}'\n" for c in clips), encoding="utf-8")
-    subprocess.run(
-        ["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(lst), "-c", "copy", str(out)],
-        check=True,
-    )
+    _ffmpeg(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(lst), "-c", "copy", str(out)])
+    if not has_picture(out):
+        # 30 Oct: a What If render failed twice with "Stream specifier ':v' ... matches no streams": the joined
+        # track had no picture. Join again with re-encoding, which rebuilds the stream from every clip that has one.
+        good = [c for c in clips if has_picture(c)]
+        if not good:
+            raise RuntimeError("none of the scene clips has a picture")
+        print(f"[render] joined clips had no picture ({len(clips) - len(good)} of {len(clips)} clips without one); re-encoding")
+        lst.write_text("".join(f"file '{c.as_posix()}'\n" for c in good), encoding="utf-8")
+        _ffmpeg(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(lst), "-an",
+                 "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-pix_fmt", "yuv420p", str(out)])
     return probe_duration(out)
 
 
@@ -96,7 +130,7 @@ def render_final(visual: Path, voice: Path, ass: Path, music: Path | None, cfg: 
            "-c:v", "libx264", "-preset", str(cfg.get("video.preset", "medium")), "-crf", str(cfg.get("video.crf", 20)), "-pix_fmt", "yuv420p",
            "-r", str(fps), "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart",
            "-t", f"{total:.3f}", str(out)]
-    subprocess.run(cmd, check=True)
+    _ffmpeg(cmd)
     return out
 
 

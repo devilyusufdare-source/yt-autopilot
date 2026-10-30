@@ -25,6 +25,7 @@ from pathlib import Path
 import requests
 
 from .config import CACHE_DIR, Config
+from .render import has_picture
 
 PEXELS_SEARCH = "https://api.pexels.com/videos/search"
 PIXABAY_VIDEOS = "https://pixabay.com/api/videos/"
@@ -493,7 +494,8 @@ class Visuals:
             if pic:
                 try:
                     self._render_drawing(pic, duration, out, index)
-                    return out
+                    if has_picture(out):
+                        return out
                 except subprocess.CalledProcessError as e:
                     print(f"[visuals] ffmpeg failed on a drawing ({e}); using footage for this scene")
             else:
@@ -506,7 +508,10 @@ class Visuals:
                     self._render_image(src, duration, out)
                 else:
                     self._render_video(src, duration, out)
-                return out
+                if has_picture(out):
+                    return out
+                # ffmpeg can finish "successfully" with nothing encoded (a file it cannot decode)
+                print(f"[visuals] {cand.provider} clip {cand.uid} came out without a picture; using procedural background")
             except subprocess.CalledProcessError as e:
                 print(f"[visuals] ffmpeg failed on {cand.provider} file ({e}); using procedural background")
         self._render_procedural(duration, out, index)

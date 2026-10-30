@@ -75,6 +75,8 @@ A what-if is the normal schema plus `"format": "whatif"`. Models: `channels/wild
 
 **Never re-tell a published fact under a new title (27 Oct).** The picker now compares the key words of every script with everything already published and rejects an idea that overlaps 20% or more (36 queued ideas were thrown away for this on 27 Oct: the hairy frog, octopus hearts, hornet-cooking bees, the gannet dive...). Before writing, check the *facts* in content/published/ and content/parked/ (scene texts, not just titles); a new animal or a genuinely new fact about it is fine.
 
+**`pipeline.validate` now refuses repeats (30 Oct).** It rejects a title that already exists in either channel's queue, published, parked, failed or sold folder (also a title that only adds words to one, like "What If You Never Slept Again? Day by Day"), and a script that re-tells a video the channel already published. On 30 Oct, 13 what-if ideas had to be parked as repeats (the same scenario written two or three times: Jupiter as a star, Earth with rings, the continents merging, never sleeping). When the validator says "title repeats" or "re-tells", write a different idea; do not rename the same one. Rankings by a different measure are fine (hottest planets after longest days).
+
 ## Steps
 
 1. **Get the repository.** Attach it with `add_repo` (access `push`) and clone it, or `git pull` if

@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import itertools
 import json
 import re
 import math
@@ -172,6 +173,9 @@ their they them you your our we he she his her what when who how why which into 
 also only even still once every each some any all no not yes so and or but if of in on at to for from by with as up out off one two
 three four five six seven eight nine ten doesn don isn here""".split())
 SAME_FACT = 0.2   # 26 Oct: re-told facts scored 0.31-0.43, different facts about the same animal 0.04-0.08
+# 30 Oct: two rankings share their items by nature (the same planets), so rankings by a different measure scored
+# 0.21-0.23 against 'The 5 Planets With the Longest Days'; a re-told ranking (same measure, same items) scored 0.34.
+SAME_FACT_RANKING = 0.32
 
 
 def _fact_words(pkg: dict) -> set[str]:
@@ -181,7 +185,7 @@ def _fact_words(pkg: dict) -> set[str]:
             if len(w) > 2 and w not in _FACT_STOP and w not in _FOCUS_STOP}
 
 
-_PUBLISHED_FACTS: list[tuple[set[str], str]] | None = None
+_PUBLISHED_FACTS: list[tuple[set[str], str, bool]] | None = None
 
 
 def same_fact_as(pkg: dict) -> str | None:
@@ -194,12 +198,14 @@ def same_fact_as(pkg: dict) -> str | None:
                 other = json.loads(f.read_text(encoding="utf-8"))
             except Exception:  # noqa: BLE001
                 continue
-            _PUBLISHED_FACTS.append((_fact_words(other), str(other.get("title", ""))))
+            _PUBLISHED_FACTS.append((_fact_words(other), str(other.get("title", "")), is_ranking(other)))
     mine = _fact_words(pkg)
     if not mine:
         return None
-    for theirs, title in _PUBLISHED_FACTS:
-        if theirs and len(mine & theirs) / len(mine | theirs) >= SAME_FACT:
+    ranking = is_ranking(pkg)
+    for theirs, title, their_ranking in _PUBLISHED_FACTS:
+        limit = SAME_FACT_RANKING if (ranking and their_ranking) else SAME_FACT
+        if theirs and len(mine & theirs) / len(mine | theirs) >= limit:
             return title
     return None
 
@@ -695,7 +701,12 @@ def main(argv: list[str] | None = None) -> int:
     failures = 0
     limit_hit = False
     claimed: list[str] = []   # publish times handed out in this run
-    for i in range(count):
+    # 30 Oct: one idea that cannot be rendered used to cost its run's slot (What If lost two slots in a row to the
+    # same broken idea). Once per run, a render failure is replaced by the next idea.
+    spare = 0 if args.dry_run else 1
+    for i in itertools.count():
+        if i >= count:
+            break
         kind = "shorts"
         picked = None
         long_slot = None
@@ -776,6 +787,10 @@ def main(argv: list[str] | None = None) -> int:
             summaries.append({"id": pkg["id"], "title": pkg["title"], "status": f"render failed: {type(e).__name__}: {e}"[:300]})
             if not args.dry_run and path.parent in (QUEUE_DIR, LONGFORM_QUEUE_DIR):
                 _note_attempt(path, pkg, str(e))
+            if spare:
+                spare -= 1
+                count += 1
+                print("[run] render failed; trying the next idea so this run still publishes a video")
             continue
 
         summary = {"id": pkg["id"], "title": pkg["title"], "duration_seconds": round(result["duration"], 1),

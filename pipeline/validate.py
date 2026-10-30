@@ -219,6 +219,50 @@ def validate_longform(pkg: dict, cfg=None) -> list[str]:
     return errs
 
 
+def _norm_title(title) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", str(title or "").lower()).strip()
+
+
+_KNOWN_TITLES: list[tuple[str, Path]] | None = None
+
+
+def repeats(path: Path, pkg: dict) -> list[str]:
+    """30 Oct: the idea writer kept re-adding ideas that already existed (the same what-if three times, a 'Day by Day'
+    re-tell of a published hit). Reject a title already used in either channel's queue, published, parked, failed or
+    sold folder (also when it only adds words to one), and a script that re-tells a video this channel published."""
+    global _KNOWN_TITLES
+    root = Path(__file__).resolve().parent.parent
+    if _KNOWN_TITLES is None:
+        _KNOWN_TITLES = []
+        for base in (root / "content", *sorted((root / "channels").glob("*/content"))):
+            for sub in ("queue", "published", "parked", "failed", "sold"):
+                for f in sorted((base / sub).glob("*.json")):
+                    try:
+                        _KNOWN_TITLES.append((_norm_title(json.loads(f.read_text(encoding="utf-8")).get("title")), f))
+                    except Exception:  # noqa: BLE001
+                        continue
+    errs: list[str] = []
+    mine = _norm_title(pkg.get("title"))
+    me = path.resolve()
+    for theirs, f in _KNOWN_TITLES:
+        if not theirs or not mine or f.resolve() == me:
+            continue
+        short, long_ = sorted((theirs, mine), key=len)
+        # "...? Day by Day" extends a title; "...Pluto's Moon Charon" (possessive) names something else
+        extends = len(short) >= 18 and long_.startswith(short + " ") and not long_.startswith(short + " s ")
+        if theirs == mine or extends:
+            errs.append(f"title repeats {f.relative_to(root)} - write a different idea, not a renamed one")
+            break
+    try:
+        from .run import same_fact_as   # this channel's published videos (YT_CHANNEL picks the channel)
+        twin = same_fact_as(pkg)
+        if twin:
+            errs.append(f"re-tells the published video '{twin}' - pick a different fact or scenario")
+    except Exception:  # noqa: BLE001
+        pass
+    return errs
+
+
 def main(argv: list[str]) -> int:
     if not argv:
         print(__doc__)
@@ -238,7 +282,7 @@ def main(argv: list[str]) -> int:
             bad += 1
             continue
         long = is_longform(pkg)
-        errs = validate_longform(pkg, cfg) if long else validate_package(pkg, cfg)
+        errs = validate_longform(pkg, cfg) if long else validate_package(pkg, cfg) + repeats(path, pkg)
         if errs:
             bad += 1
             print(f"✗ {path}")

@@ -268,14 +268,17 @@ jobs:
             mkdir -p content/runs
             python - <<'PY'
           import os, re, datetime
-          lines = open("output/run.log", encoding="utf-8", errors="replace").read().splitlines()[-25:]
-          text = "\n".join(lines)
+          log = open("output/run.log", encoding="utf-8", errors="replace").read().splitlines()
+          # the cause often sits above the traceback, so keep earlier error lines too (not the routine download misses)
+          err = re.compile(r"(?i)error|exception|invalid|no such file|matches no streams|failed")
+          earlier = [ln for ln in log[:-25] if err.search(ln) and "download failed" not in ln][-12:]
+          text = ("earlier error lines:\n" + "\n".join(earlier) + "\n\nlast 25 lines:\n" if earlier else "") + "\n".join(log[-25:])
           for name, value in os.environ.items():
               if value and len(value) >= 8 and any(k in name for k in ("KEY", "TOKEN", "SECRET", "CLIENT", "PAGE_ID")):
                   text = text.replace(value, "***")
           text = re.sub(r"(?i)((?:key|token|secret|access_token|refresh_token|client_id|client_secret|password)=)[^&\s'\"]+", r"\1***", text)
           stamp = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
-          open("content/runs/last-failure.txt", "w", encoding="utf-8").write(f"run failed at {stamp} UTC (last 25 lines, secrets removed)\n\n{text}\n")
+          open("content/runs/last-failure.txt", "w", encoding="utf-8").write(f"run failed at {stamp} UTC (error lines and last 25 lines, secrets removed)\n\n{text}\n")
           PY
           fi
           git config user.name "yt-autopilot"
