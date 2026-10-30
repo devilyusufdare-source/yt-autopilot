@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30T20:49:18+00:00",
+  "updated_at": "2026-10-30T22:14:31+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 57,
-    "channel_views": 43494,
-    "video_count": 154
+    "channel_views": 44333,
+    "video_count": 155
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/qRaw9tphoKk"
+      "https://youtube.com/shorts/C3SZcCFa7Vw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/qRaw9tphoKk"
+      "https://youtube.com/shorts/C3SZcCFa7Vw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/qRaw9tphoKk"
+      "https://youtube.com/shorts/C3SZcCFa7Vw"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 153,
-  "total_views": 45644,
+  "total_videos": 154,
+  "total_views": 45720,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 96,
-      "avg_views": 282,
+      "videos": 97,
+      "avg_views": 279,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 137,
-      "avg_views": 284,
+      "videos": 138,
+      "avg_views": 282,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 67,
-      "avg_views": 111
+      "videos": 68,
+      "avg_views": 110
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -3706,8 +3706,8 @@
       "hook": "An ant's jaws can close at up to 145 miles an hour.",
       "published_at": "2026-10-29T16:30:10Z",
       "privacy": "public",
-      "views": 115,
-      "likes": 2,
+      "views": 118,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4"
     },
@@ -3754,7 +3754,7 @@
       "hook": "This fish leaps out of the water and catches flying birds.",
       "published_at": "2026-10-29T18:20:15Z",
       "privacy": "public",
-      "views": 35,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QsLlW3CpAWM"
@@ -3918,7 +3918,7 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 100,
+      "views": 111,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY"
@@ -4190,8 +4190,8 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 84,
-      "likes": 0,
+      "views": 123,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
     },
@@ -4318,7 +4318,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 4,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU"
@@ -4372,14 +4372,14 @@
       "url": "https://youtube.com/shorts/Hs38proZTyc"
     },
     "qRaw9tphoKk": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT29S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4388,12 +4388,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Jellyfish shut down a nuclear reactor.",
-      "published_at": "2026-10-30T20:49:08Z",
+      "published_at": "2026-10-30T21:20:15Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/qRaw9tphoKk"
+    },
+    "C3SZcCFa7Vw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Dung Beetles Steer by the Milky Way, and Cardboard Hats Proved It",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Dung beetles steer by the Milky Way.",
+      "published_at": "2026-10-30T22:14:24Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/qRaw9tphoKk"
+      "url": "https://youtube.com/shorts/C3SZcCFa7Vw"
     },
     "VuyOz5b3Dk8": {
       "upload_status": "processed",

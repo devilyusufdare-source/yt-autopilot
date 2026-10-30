@@ -55,5 +55,21 @@
   ],
   "thumbnail_text": "BEETLES NAVIGATE BY THE GALAXY",
   "priority": 7,
-  "first_comment": "Cardboard hats on beetles. Would you volunteer to be the scientist?"
+  "first_comment": "Cardboard hats on beetles. Would you volunteer to be the scientist?",
+  "youtube_id": "C3SZcCFa7Vw",
+  "url": "https://youtube.com/shorts/C3SZcCFa7Vw",
+  "uploaded_at": "2026-10-30T22:14:29+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-30T22:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 10,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 26.3,
+  "style": "classic",
+  "kind": "shorts"
 }
