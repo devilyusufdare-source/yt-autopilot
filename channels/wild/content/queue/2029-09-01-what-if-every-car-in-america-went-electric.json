@@ -1,0 +1,57 @@
+{
+  "id": "2029-09-01-what-if-every-car-in-america-went-electric",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 0,
+  "title": "What If Every Car in America Went Electric?",
+  "scenes": [
+    {
+      "text": "What if every car in America went electric? Everyone fears the power grid. The numbers are less scary.",
+      "keywords": "electric car charging"
+    },
+    {
+      "text": "Americans drive about 2.9 trillion miles a year in cars and light trucks. The average electric car covers 3.1 miles per kilowatt-hour.",
+      "keywords": "highway traffic aerial"
+    },
+    {
+      "text": "Powering all of that takes roughly 950 billion kilowatt-hours a year, about 22 percent more electricity than the US generates.",
+      "keywords": "power plant electricity"
+    },
+    {
+      "text": "Germany lands close: Fraunhofer calculates that all 45 million German cars switching would add about 20 percent.",
+      "keywords": "germany autobahn cars"
+    },
+    {
+      "text": "Fleets turn over slowly, so generation would need to grow only about one percent a year. Over 70 years it has averaged 3.2.",
+      "keywords": "electric grid power lines"
+    },
+    {
+      "text": "The real strain is local. One home charger draws 11 to 22 kilowatts, so smart charging at night is the fix.",
+      "keywords": "suburban street charging cars night"
+    }
+  ],
+  "description": "What if every car in America went electric?\nIt would take about 22 percent more electricity, but generation would only need to grow around one percent a year.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "electric cars",
+    "power grid",
+    "ev charging",
+    "electricity demand",
+    "technology",
+    "clean energy",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#electriccars",
+    "#powergrid"
+  ],
+  "sources": [
+    "https://advocacy.consumerreports.org/research/blog-can-the-grid-handle-evs-yes/",
+    "https://www.tuev-nord.de/explore/en/knowledge/is-there-enough-electricity-for-electric-cars"
+  ],
+  "thumbnail_text": "WHAT IF EVERY CAR WENT ELECTRIC?",
+  "first_comment": "Would you switch to an electric car? Drop your own 'what if' below."
+}
