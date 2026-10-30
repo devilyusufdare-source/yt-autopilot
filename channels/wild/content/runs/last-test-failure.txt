@@ -1,0 +1,27 @@
+run failed at 2026-10-30T04:28:46+00:00 UTC (error lines and last 25 lines, secrets removed)
+
+    final = render_final(visual, outdir / "voice.wav", ass, pick_music(cfg, pkg["id"]), cfg,
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/yt-autopilot/yt-autopilot/pipeline/render.py", line 133, in render_final
+    _ffmpeg(cmd)
+  File "/home/runner/work/yt-autopilot/yt-autopilot/pipeline/render.py", line 30, in _ffmpeg
+    raise FFmpegError(proc.returncode, cmd, stderr=proc.stderr)
+pipeline.render.FFmpegError: ffmpeg exited with 234: [aac @ 0x558515328a40] Input contains (near) NaN/+-Inf | [aost#0:1/aac @ 0x558515327180] [enc:aac @ 0x558515327b00] Error submitting audio frame to the encoder | [aost#0:1/aac @ 0x558515327180] [enc:aac @ 0x558515327b00] Error encoding a frame: Invalid argument | [aost#0:1/aac @ 0x558515327180] Task finished with error: Invalid argument | [aost#0:1/aac @ 0x558515327180] Terminating thread with error: Invalid argument
+
+[run] (1/1) 2026-10-26-what-if-you-were-in-space-without-a-suit.json  title: What If You Floated Into Space Without a Suit?
+[run] style: classic
+[run] voice: 7 scenes (en-US-AndrewNeural)
+[run] visuals: pixabay
+[run] footage focus: ['astronaut']
+[visuals] first clip candidate pxb127428: motion 1.0, brightness 118
+[visuals] download failed (pixabay-video): file too large
+[visuals] first clip candidate pxb232: motion 4.0, brightness 127
+[visuals] download failed (pixabay-video): file too large
+[visuals] download failed (pixabay-video): file too large
+[visuals] download failed (pixabay-video): file too large
+[visuals] download failed (pixabay-video): file too large
+[visuals] download failed (pixabay-video): file too large
+[visuals] download failed (pixabay-video): file too large
+[run] rendering final video
+
+[run] finished: 0 video(s) done, 1 failed
