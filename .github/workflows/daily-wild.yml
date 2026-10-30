@@ -9,6 +9,7 @@ on:
     - cron: "20 1 * * *"
     - cron: "35 12 * * *"
     - cron: "35 15 * * *"
+    - cron: "5 18 * * *"    # for the 00:30 IST slot (added 31 Oct)
     - cron: "5 20 * * *"
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
