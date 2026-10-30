@@ -1,0 +1,57 @@
+{
+ "id": "2029-08-12-what-if-flash-crash-algorithm-2010",
+ "format": "whatif",
+ "topic": "society",
+ "priority": 6,
+ "title": "What If One Algorithm Erased $1 Trillion in Minutes?",
+ "scenes": [
+  {
+   "text": "What if a single computer program made the stock market plunge in minutes? One did.",
+   "keywords": "stock market trading screens"
+  },
+  {
+   "text": "On May 6, 2010, a firm began selling 75,000 futures contracts, worth about 4.1 billion dollars.",
+   "keywords": "stock exchange floor"
+  },
+  {
+   "text": "The program ignored price and time, and it sold for about 20 minutes in an already shaky market.",
+   "keywords": "computer code screen"
+  },
+  {
+   "text": "High-speed trading algorithms piled on, and the Dow lost almost 1,000 points within minutes.",
+   "keywords": "stock chart falling"
+  },
+  {
+   "text": "About one trillion dollars of market value vanished. Exchanges later canceled nearly 21,000 trades.",
+   "keywords": "trader looking at screens"
+  },
+  {
+   "text": "Regulators added circuit breakers that pause trading when prices swing too fast.",
+   "keywords": "emergency stop button"
+  }
+ ],
+ "description": "What if one algorithm crashed the market in minutes?\nIn the 2010 flash crash, a single automated sell program helped wipe about one trillion dollars off market value before prices rebounded.\nWhat should we run through next?",
+ "tags": [
+  "what if",
+  "flash crash",
+  "2010 flash crash",
+  "stock market",
+  "algorithm",
+  "high frequency trading",
+  "society facts",
+  "what would happen",
+  "shorts facts"
+ ],
+ "hashtags": [
+  "#shorts",
+  "#whatif",
+  "#flashcrash",
+  "#stockmarket"
+ ],
+ "sources": [
+  "https://www.plansponsor.com/?p=92346",
+  "https://corporatefinanceinstitute.com/resources/equities/2010-flash-crash"
+ ],
+ "thumbnail_text": "ONE ALGORITHM. $1 TRILLION.",
+ "first_comment": "Should computers be allowed to trade this fast? Drop your own what-if below."
+}
