@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-10-30T16:26:22+00:00",
+  "updated_at": "2026-10-30T20:43:04+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 11,
     "channel_views": 7937,
-    "video_count": 20
+    "video_count": 21
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/6MBak6NID4o"
+      "https://youtube.com/shorts/rcXHfkgMvcU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/6MBak6NID4o"
+      "https://youtube.com/shorts/rcXHfkgMvcU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/6MBak6NID4o"
+      "https://youtube.com/shorts/rcXHfkgMvcU"
     ]
   },
   "retention": {
-    "videos_with_data": 14,
-    "avg_view_percent": 69.4,
+    "videos_with_data": 17,
+    "avg_view_percent": 66.1,
     "by_topic": {
-      "earth": 77.0,
-      "space": 66.3,
+      "earth": 76.9,
+      "space": 62.5,
       "society": 67.0,
-      "animals": 81.6,
-      "body": 61.1
+      "animals": 81.5,
+      "body": 60.0
     },
     "best": [
       {
@@ -41,26 +41,31 @@
       },
       {
         "title": "What If the Sun Suddenly Disappeared?",
-        "avg_view_percent": 92.7,
+        "avg_view_percent": 89.4,
         "views": 179
       },
       {
         "title": "What If Every Mosquito Went Extinct?",
-        "avg_view_percent": 81.6,
+        "avg_view_percent": 81.5,
         "views": 1424
+      },
+      {
+        "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
+        "avg_view_percent": 77.7,
+        "views": 1094
       },
       {
         "title": "What If the Sun Went Out Right Now?",
         "avg_view_percent": 70.5,
         "views": 427
-      },
-      {
-        "title": "What If a Magnitude 9 Quake Hit the Pacific Northwest?",
-        "avg_view_percent": 70.0,
-        "views": 120
       }
     ],
     "worst": [
+      {
+        "title": "What If You Traveled at 99 Percent the Speed of Light?",
+        "avg_view_percent": 32.1,
+        "views": 66
+      },
       {
         "title": "What If the Moon Disappeared Tonight?",
         "avg_view_percent": 51.1,
@@ -72,34 +77,29 @@
         "views": 245
       },
       {
-        "title": "What If You Never Slept Again?",
-        "avg_view_percent": 61.1,
-        "views": 498
+        "title": "What If You Could Visit a Neutron Star?",
+        "avg_view_percent": 55.9,
+        "views": 70
       },
       {
-        "title": "What If a Star Exploded 50 Light-Years From Earth?",
-        "avg_view_percent": 62.6,
-        "views": 131
-      },
-      {
-        "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
-        "avg_view_percent": 62.6,
-        "views": 1023
+        "title": "What If Humans Could Photosynthesize?",
+        "avg_view_percent": 58.9,
+        "views": 108
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 21,
-  "total_views": 9060,
+  "total_videos": 22,
+  "total_views": 9186,
   "by_topic": {
     "earth": {
       "videos": 5,
-      "avg_views": 526,
-      "best_views": 1054
+      "avg_views": 541,
+      "best_views": 1059
     },
     "space": {
-      "videos": 11,
-      "avg_views": 360,
+      "videos": 12,
+      "avg_views": 331,
       "best_views": 1281
     },
     "society": {
@@ -114,21 +114,21 @@
     },
     "body": {
       "videos": 3,
-      "avg_views": 208,
+      "avg_views": 226,
       "best_views": 498
     }
   },
   "by_style": {
     "classic": {
-      "videos": 21,
-      "avg_views": 431,
+      "videos": 22,
+      "avg_views": 418,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 21,
-      "avg_views": 431
+      "videos": 22,
+      "avg_views": 418
     }
   },
   "top_videos": [
@@ -147,13 +147,13 @@
     {
       "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
       "topic": "space",
-      "views": 1096,
+      "views": 1094,
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes."
     },
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1054,
+      "views": 1059,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -189,7 +189,7 @@
     {
       "title": "What If You Stood on Saturn's Moon Titan?",
       "topic": "space",
-      "views": 290,
+      "views": 291,
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly."
     }
   ],
@@ -330,7 +330,7 @@
       "comments": 4,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg",
       "avg_view_seconds": 27.0,
-      "avg_view_percent": 81.6,
+      "avg_view_percent": 81.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -442,7 +442,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/6nUPnY94QPA",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 61.1,
+      "avg_view_percent": 61.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -469,8 +469,8 @@
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 62.6,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 61.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -498,9 +498,9 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 62.6,
+      "avg_view_percent": 62.4,
       "shares": 0,
-      "subscribers_gained": 2
+      "subscribers_gained": 3
     },
     "vvwy7bHBZt4": {
       "upload_status": "processed",
@@ -521,12 +521,12 @@
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes.",
       "published_at": "2026-10-27T16:50:07Z",
       "privacy": "public",
-      "views": 1096,
+      "views": 1094,
       "likes": 36,
       "comments": 1,
       "url": "https://youtube.com/shorts/vvwy7bHBZt4",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 63.8,
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 77.7,
       "shares": 0,
       "subscribers_gained": 5
     },
@@ -549,12 +549,12 @@
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly.",
       "published_at": "2026-10-28T02:30:11Z",
       "privacy": "public",
-      "views": 290,
+      "views": 291,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/pf34SeLuJgk",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 68.4,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 64.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -577,10 +577,14 @@
       "hook": "What if you flew at 99 percent of light speed? Your clock would run seven times slower.",
       "published_at": "2026-10-28T14:00:34Z",
       "privacy": "public",
-      "views": 63,
+      "views": 66,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/hJIo0ee4tPA"
+      "url": "https://youtube.com/shorts/hJIo0ee4tPA",
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 32.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "yxeZpoL6wKQ": {
       "upload_status": "processed",
@@ -604,7 +608,11 @@
       "views": 70,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/yxeZpoL6wKQ"
+      "url": "https://youtube.com/shorts/yxeZpoL6wKQ",
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 55.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "Dfr7U_PG5ng": {
       "upload_status": "processed",
@@ -625,10 +633,14 @@
       "hook": "What if humans could photosynthesize? Sunlight on your skin beats your diet, but it wouldn't feed you.",
       "published_at": "2026-10-29T02:40:23Z",
       "privacy": "public",
-      "views": 109,
+      "views": 108,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Dfr7U_PG5ng"
+      "url": "https://youtube.com/shorts/Dfr7U_PG5ng",
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 58.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "tbvnEMmFn7Y": {
       "upload_status": "processed",
@@ -673,12 +685,36 @@
       "hook": "What if you floated into space with no suit? You wouldn't explode. The truth is stranger.",
       "published_at": "2026-10-30T14:10:27Z",
       "privacy": "public",
-      "views": 18,
-      "likes": 0,
+      "views": 72,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/vRwTuMJXX7Q"
     },
     "6MBak6NID4o": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT49S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Lake Exploded With Gas? One Did in 1986",
+      "topic": "earth",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a quiet lake suddenly breathed out a deadly cloud? In 1986, one did.",
+      "published_at": "2026-10-30T16:50:05Z",
+      "privacy": "public",
+      "views": 66,
+      "likes": 2,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/6MBak6NID4o"
+    },
+    "rcXHfkgMvcU": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -690,17 +726,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If a Lake Exploded With Gas? One Did in 1986",
-      "topic": "earth",
+      "title": "What If the Whole Asteroid Belt Became One Planet?",
+      "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if a quiet lake suddenly breathed out a deadly cloud? In 1986, one did.",
-      "published_at": "2026-10-30T16:26:18Z",
+      "hook": "What if the whole asteroid belt became one planet? It would be smaller than Pluto.",
+      "published_at": "2026-10-30T20:43:00Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/6MBak6NID4o"
+      "url": "https://youtube.com/shorts/rcXHfkgMvcU"
     },
     "ZUqekDSPv74": {
       "upload_status": "processed",
@@ -721,7 +757,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1054,
+      "views": 1059,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74"
@@ -749,8 +785,8 @@
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/jwre0VbiRCc",
-      "avg_view_seconds": 34.0,
-      "avg_view_percent": 92.7,
+      "avg_view_seconds": 33.0,
+      "avg_view_percent": 89.4,
       "shares": 0,
       "subscribers_gained": 0
     }
