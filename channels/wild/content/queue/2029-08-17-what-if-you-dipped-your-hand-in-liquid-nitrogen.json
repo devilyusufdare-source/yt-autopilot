@@ -1,0 +1,43 @@
+{
+  "id": "2029-08-17-what-if-you-dipped-your-hand-in-liquid-nitrogen",
+  "format": "whatif",
+  "topic": "body",
+  "priority": 5,
+  "title": "What If You Dipped Your Hand in Liquid Nitrogen? A Gas Shield Forms",
+  "subject": "liquid nitrogen",
+  "scenes": [
+    {
+      "text": "What if you dipped your hand in liquid nitrogen? It would not freeze at once.",
+      "keywords": "liquid nitrogen pour"
+    },
+    {
+      "text": "Liquid nitrogen boils at minus 195.8 Celsius. Your hand is 37, so it is far above its boiling point.",
+      "keywords": "liquid nitrogen smoke"
+    },
+    {
+      "text": "The skin boils a thin layer of the liquid into gas. That gas forms an insulating cushion between you and the liquid.",
+      "keywords": "boiling liquid vapor"
+    },
+    {
+      "text": "It is the Leidenfrost effect, the same trick that makes water drops skate across a hot pan.",
+      "keywords": "water drops hot pan"
+    },
+    {
+      "text": "But the shield is brief. Pull out in a fraction of a second, or frostbite sets in. If it soaks into clothing, it fails.",
+      "keywords": "frostbite hand"
+    },
+    {
+      "text": "So the cold itself isn't the trap. The cushion is, because it only lasts a moment. Never try this.",
+      "keywords": "laboratory scientist gloves"
+    }
+  ],
+  "description": "What if you dipped your hand into liquid nitrogen?\nIt boils at minus 195.8 Celsius, and your skin briefly sits on a cushion of gas called the Leidenfrost effect. It lasts only a fraction of a second.\nWhat should we run through next?",
+  "tags": ["what if", "liquid nitrogen", "leidenfrost effect", "physics facts", "science experiment", "what would happen", "science explained", "shorts facts", "extreme cold", "body facts"],
+  "hashtags": ["#shorts", "#whatif", "#physics", "#science"],
+  "sources": [
+    "https://www.comsol.com/blogs/leidenfrost-effect",
+    "https://www.popsci.com/diy/article/2010-08/cool-hand-theo/"
+  ],
+  "thumbnail_text": "WHAT IF YOU TOUCHED -196 C?",
+  "first_comment": "Which everyday thing would you drop into liquid nitrogen? Drop your own 'what if' below."
+}

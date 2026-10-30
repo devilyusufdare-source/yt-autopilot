@@ -1,0 +1,43 @@
+{
+  "id": "2029-08-16-what-if-you-spent-the-lunar-night-outside",
+  "format": "whatif",
+  "topic": "space",
+  "priority": 6,
+  "title": "What If Night on the Moon Lasted Two Weeks? Your Base Would Freeze",
+  "subject": "lunar surface",
+  "scenes": [
+    {
+      "text": "What if you built a Moon base? The Sun sets, and it doesn't rise for two weeks.",
+      "keywords": "moon surface sunset"
+    },
+    {
+      "text": "At the equator, the Moon's daytime surface can climb to about 120 degrees Celsius. That is hotter than boiling water.",
+      "keywords": "moon surface sunlight"
+    },
+    {
+      "text": "With no air to hold heat, the ground drops fast once the Sun sets. Night falls below minus 130 Celsius.",
+      "keywords": "frozen landscape night"
+    },
+    {
+      "text": "Solar panels make nothing for roughly 14 Earth days, so a base needs stored heat, batteries, or nuclear power.",
+      "keywords": "solar panels"
+    },
+    {
+      "text": "Near the poles, some craters never see sunlight at all. They can fall to about minus 250 Celsius, among the coldest places known in the solar system.",
+      "keywords": "moon crater shadow"
+    },
+    {
+      "text": "That is why ESA studies using lunar soil to store daytime heat for the night. The Moon gives you light and cold in equal measure.",
+      "keywords": "moon base rocket"
+    }
+  ],
+  "description": "What if you built a base on the Moon and the Sun set for two weeks?\nThe surface swings from about 120 Celsius by day to below minus 130 at night, and some polar craters never see sunlight.\nWhat should we run through next?",
+  "tags": ["what if", "moon base", "lunar night", "moon temperature", "space facts", "artemis", "what would happen", "science explained", "shorts facts", "moon facts"],
+  "hashtags": ["#shorts", "#whatif", "#moon", "#space"],
+  "sources": [
+    "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Surviving_the_long_dark_night_of_the_Moon",
+    "https://www.space.com/18175-moon-temperature.html"
+  ],
+  "thumbnail_text": "WHAT IF MOON NIGHT LASTED 2 WEEKS?",
+  "first_comment": "Would you volunteer for the first lunar night? Drop your own 'what if' below."
+}
