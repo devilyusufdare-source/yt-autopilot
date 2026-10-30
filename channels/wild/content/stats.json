@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30T13:37:54+00:00",
+  "updated_at": "2026-10-30T16:26:22+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 11,
-    "channel_views": 7463,
-    "video_count": 19
+    "channel_views": 7937,
+    "video_count": 20
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/vRwTuMJXX7Q"
+      "https://youtube.com/shorts/6MBak6NID4o"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/vRwTuMJXX7Q"
+      "https://youtube.com/shorts/6MBak6NID4o"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/vRwTuMJXX7Q"
+      "https://youtube.com/shorts/6MBak6NID4o"
     ]
   },
   "retention": {
@@ -74,7 +74,7 @@
       {
         "title": "What If You Never Slept Again?",
         "avg_view_percent": 61.1,
-        "views": 499
+        "views": 498
       },
       {
         "title": "What If a Star Exploded 50 Light-Years From Earth?",
@@ -89,13 +89,13 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 20,
-  "total_views": 9019,
+  "total_videos": 21,
+  "total_views": 9060,
   "by_topic": {
     "earth": {
-      "videos": 4,
-      "avg_views": 653,
-      "best_views": 1035
+      "videos": 5,
+      "avg_views": 526,
+      "best_views": 1054
     },
     "space": {
       "videos": 11,
@@ -114,21 +114,21 @@
     },
     "body": {
       "videos": 3,
-      "avg_views": 203,
-      "best_views": 499
+      "avg_views": 208,
+      "best_views": 498
     }
   },
   "by_style": {
     "classic": {
-      "videos": 20,
-      "avg_views": 451,
+      "videos": 21,
+      "avg_views": 431,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 20,
-      "avg_views": 451
+      "videos": 21,
+      "avg_views": 431
     }
   },
   "top_videos": [
@@ -153,7 +153,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1035,
+      "views": 1054,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -165,7 +165,7 @@
     {
       "title": "What If You Never Slept Again?",
       "topic": "body",
-      "views": 499,
+      "views": 498,
       "hook": "What if you never slept again? Day one feels fine. It isn't."
     },
     {
@@ -437,7 +437,7 @@
       "hook": "What if you never slept again? Day one feels fine. It isn't.",
       "published_at": "2026-10-27T02:15:23Z",
       "privacy": "public",
-      "views": 499,
+      "views": 498,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/6nUPnY94QPA",
@@ -601,7 +601,7 @@
       "hook": "What if you visited a neutron star? Its tallest mountain is thinner than a hair.",
       "published_at": "2026-10-28T17:00:16Z",
       "privacy": "public",
-      "views": 68,
+      "views": 70,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/yxeZpoL6wKQ"
@@ -649,12 +649,36 @@
       "hook": "What if sound traveled through space? You'd hear the Sun, and it would arrive years late.",
       "published_at": "2026-10-29T14:10:27Z",
       "privacy": "public",
-      "views": 168,
+      "views": 171,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y"
     },
     "vRwTuMJXX7Q": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT36S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Floated Into Space Without a Suit?",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you floated into space with no suit? You wouldn't explode. The truth is stranger.",
+      "published_at": "2026-10-30T14:10:27Z",
+      "privacy": "public",
+      "views": 18,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/vRwTuMJXX7Q"
+    },
+    "6MBak6NID4o": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -666,17 +690,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Floated Into Space Without a Suit?",
-      "topic": "body",
+      "title": "What If a Lake Exploded With Gas? One Did in 1986",
+      "topic": "earth",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you floated into space with no suit? You wouldn't explode. The truth is stranger.",
-      "published_at": "2026-10-30T13:37:50Z",
+      "hook": "What if a quiet lake suddenly breathed out a deadly cloud? In 1986, one did.",
+      "published_at": "2026-10-30T16:26:18Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/vRwTuMJXX7Q"
+      "url": "https://youtube.com/shorts/6MBak6NID4o"
     },
     "ZUqekDSPv74": {
       "upload_status": "processed",
@@ -697,7 +721,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1035,
+      "views": 1054,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74"
