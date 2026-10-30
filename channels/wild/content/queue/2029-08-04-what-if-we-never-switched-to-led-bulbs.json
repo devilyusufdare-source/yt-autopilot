@@ -1,0 +1,57 @@
+{
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 5,
+  "title": "What If the World Never Switched to LED Bulbs?",
+  "scenes": [
+    {
+      "text": "What if we'd never switched to LED bulbs? Your power bill would be the smallest problem.",
+      "keywords": "light bulb glowing"
+    },
+    {
+      "text": "Lighting still uses about 8 percent of the world's electricity, roughly 2,200 terawatt hours a year. That's with LEDs.",
+      "keywords": "city lights night aerial"
+    },
+    {
+      "text": "A halogen bulb makes about 20 lumens per watt. A typical LED today makes close to 100. The best make 230.",
+      "keywords": "led bulb close up"
+    },
+    {
+      "text": "Without that gain, homes would burn over 500 extra terawatt hours a year. That's about South Korea's entire electricity demand.",
+      "keywords": "power plant electricity"
+    },
+    {
+      "text": "Shops and offices would need another 800 terawatt hours. That's more than all of Africa uses.",
+      "keywords": "office building lights night"
+    },
+    {
+      "text": "Indoor lighting would use roughly 70 percent more power. One humble bulb swap became a huge energy win.",
+      "keywords": "light switch turning on"
+    }
+  ],
+  "description": "What if the world had never switched to LED bulbs?\nWithout LEDs, lighting inside buildings would use roughly 70 percent more electricity, according to the International Energy Agency.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "led bulbs",
+    "energy efficiency",
+    "electricity",
+    "lighting",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#led",
+    "#energy"
+  ],
+  "sources": [
+    "https://www.iea.org/commentaries/the-next-wave-of-led-lighting-smarter-circular-and-more-efficient",
+    "https://www.iea.org/reports/targeting-100-led-lighting-sales-by-2025"
+  ],
+  "thumbnail_text": "WHAT IF NO LED BULBS?",
+  "first_comment": "What everyday invention do you think quietly saves the most energy? Drop your own 'what if' below.",
+  "id": "2029-08-04-what-if-we-never-switched-to-led-bulbs"
+}
