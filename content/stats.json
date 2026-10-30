@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-29T23:45:55+00:00",
+  "updated_at": "2026-10-30T02:13:29+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 56,
     "channel_views": 42489,
-    "video_count": 146
+    "video_count": 147
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/SVJipZiOpJM"
+      "https://youtube.com/shorts/nUqBVOHGP2c"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/SVJipZiOpJM"
+      "https://youtube.com/shorts/nUqBVOHGP2c"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/SVJipZiOpJM"
+      "https://youtube.com/shorts/nUqBVOHGP2c"
     ]
   },
   "retention": {
@@ -71,7 +71,7 @@
       {
         "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
         "avg_view_percent": 22.3,
-        "views": 59
+        "views": 60
       },
       {
         "title": "The Shortest War in History Lasted 38 Minutes",
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 145,
-  "total_views": 43328,
+  "total_videos": 146,
+  "total_views": 43587,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,7 +106,7 @@
     },
     "animals": {
       "videos": 89,
-      "avg_views": 279,
+      "avg_views": 282,
       "best_views": 1507
     },
     "human body": {
@@ -120,19 +120,19 @@
       "best_views": 1110
     },
     "space": {
-      "videos": 19,
-      "avg_views": 431,
+      "videos": 20,
+      "avg_views": 410,
       "best_views": 1513
     },
     "technology": {
       "videos": 3,
-      "avg_views": 34,
+      "avg_views": 37,
       "best_views": 57
     }
   },
   "by_style": {
     "classic": {
-      "videos": 129,
+      "videos": 130,
       "avg_views": 283,
       "over_1500": 3
     },
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 59,
-      "avg_views": 87
+      "videos": 60,
+      "avg_views": 90
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -699,7 +699,7 @@
       "published_at": "2026-10-15T05:30:37Z",
       "privacy": "public",
       "views": 246,
-      "likes": 9,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/T00_3CUDt5s",
       "avg_view_seconds": 58.0,
@@ -866,7 +866,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
@@ -922,7 +922,7 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 59,
+      "views": 60,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k",
@@ -1034,7 +1034,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 90,
+      "views": 92,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E",
@@ -1240,14 +1240,14 @@
       "subscribers_gained": 0
     },
     "SVJipZiOpJM": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1256,11 +1256,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Almost every turtle on this reef is female.",
-      "published_at": "2026-10-29T23:45:46Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-10-30T00:10:36Z",
+      "privacy": "public",
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/SVJipZiOpJM"
     },
     "hzWEks56BAU": {
@@ -1478,7 +1478,7 @@
       "hook": "The farthest thing humans ever built is almost a full light-day from home.",
       "published_at": "2026-10-29T00:10:36Z",
       "privacy": "public",
-      "views": 42,
+      "views": 52,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc"
@@ -2902,7 +2902,7 @@
       "hook": "Hippos kill about 500 people a year. And they only eat grass.",
       "published_at": "2026-10-27T18:40:35Z",
       "privacy": "public",
-      "views": 167,
+      "views": 169,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM",
@@ -2958,7 +2958,7 @@
       "hook": "This frog freezes solid and comes back to life.",
       "published_at": "2026-10-28T12:20:12Z",
       "privacy": "public",
-      "views": 76,
+      "views": 85,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo"
@@ -3010,7 +3010,7 @@
       "hook": "This beetle blasts near-boiling liquid from its rear end.",
       "published_at": "2026-10-28T15:00:04Z",
       "privacy": "public",
-      "views": 61,
+      "views": 62,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eBJwSEoXZoQ"
@@ -3034,7 +3034,7 @@
       "hook": "A shark was caught 700 miles up the Mississippi River.",
       "published_at": "2026-10-28T16:30:27Z",
       "privacy": "public",
-      "views": 28,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0eDxP_Mfsoo"
@@ -3138,7 +3138,7 @@
       "hook": "Lava once shot nineteen hundred feet into the air.",
       "published_at": "2026-10-29T22:40:34Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8HPrrfRBnJA"
@@ -3218,7 +3218,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 243,
+      "views": 275,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0"
@@ -3242,7 +3242,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 231,
+      "views": 260,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA"
@@ -3294,7 +3294,7 @@
       "hook": "Killer whales make their own waves to hunt.",
       "published_at": "2026-10-28T20:00:33Z",
       "privacy": "public",
-      "views": 107,
+      "views": 112,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RhsRw5DbPD4"
@@ -3318,8 +3318,8 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 260,
-      "likes": 4,
+      "views": 336,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM"
     },
@@ -3562,7 +3562,7 @@
       "hook": "Orcas throw themselves onto a beach to catch their dinner.",
       "published_at": "2026-10-29T02:40:02Z",
       "privacy": "public",
-      "views": 53,
+      "views": 68,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/tB1PyAE5HZs"
@@ -3586,7 +3586,7 @@
       "hook": "An elephant sniffs air in at 330 miles per hour.",
       "published_at": "2026-10-29T12:20:01Z",
       "privacy": "public",
-      "views": 36,
+      "views": 45,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/oHOSiC4XktU"
@@ -3638,7 +3638,7 @@
       "hook": "This shrimp snaps its claw and makes a sound louder than a gunshot.",
       "published_at": "2026-10-29T15:00:17Z",
       "privacy": "public",
-      "views": 3,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0wfI9vjWDs0"
@@ -3662,7 +3662,7 @@
       "hook": "An ant's jaws can close at up to 145 miles an hour.",
       "published_at": "2026-10-29T16:30:10Z",
       "privacy": "public",
-      "views": 11,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4"
@@ -3686,7 +3686,7 @@
       "hook": "A wasp turns cockroaches into zombies.",
       "published_at": "2026-10-29T18:00:29Z",
       "privacy": "public",
-      "views": 18,
+      "views": 51,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qR2EsU5H4ZM"
@@ -3710,7 +3710,7 @@
       "hook": "This fish leaps out of the water and catches flying birds.",
       "published_at": "2026-10-29T18:20:15Z",
       "privacy": "public",
-      "views": 4,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QsLlW3CpAWM"
@@ -3874,7 +3874,7 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 22,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY"
@@ -3926,7 +3926,7 @@
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
       "published_at": "2026-10-29T21:20:18Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA"
@@ -4210,6 +4210,30 @@
       "avg_view_percent": 35.4,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "nUqBVOHGP2c": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Heaviest Meteorites Ever Found, Ranked (#1 Never Moved)",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
+      "published_at": "2026-10-30T02:13:20Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/nUqBVOHGP2c"
     }
   }
 }
