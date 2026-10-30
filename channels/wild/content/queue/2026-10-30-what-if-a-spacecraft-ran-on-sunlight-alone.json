@@ -1,0 +1,56 @@
+{
+  "format": "whatif",
+  "topic": "space",
+  "priority": 6,
+  "title": "What If a Spacecraft Ran on Sunlight Alone? One Did",
+  "scenes": [
+    {
+      "text": "What if a spacecraft needed no fuel at all? The push is weaker than a paperclip's weight.",
+      "keywords": "solar sail spacecraft"
+    },
+    {
+      "text": "Sunlight carries momentum. A big, thin mirror catches it, the way a sail catches wind.",
+      "keywords": "sunlight space sun"
+    },
+    {
+      "text": "LightSail 2 had a sail of 32 square meters, about the size of a boxing ring.",
+      "keywords": "boxing ring"
+    },
+    {
+      "text": "The craft itself was only the size of a loaf of bread, riding up in June 2019.",
+      "keywords": "satellite in orbit earth"
+    },
+    {
+      "text": "The push was tiny, but it never stopped, and the orbit climbed by up to a few hundred meters a day.",
+      "keywords": "earth orbit from space"
+    },
+    {
+      "text": "Sunlight alone moved a spacecraft for years. Fuel runs out. Sunshine won't, for billions of years.",
+      "keywords": "sun rising over earth"
+    }
+  ],
+  "description": "What if a spacecraft needed no fuel?\nLightSail 2 used a sail the size of a boxing ring and sunlight alone.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "solar sail",
+    "LightSail 2",
+    "space facts",
+    "sunlight propulsion",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#space",
+    "#science"
+  ],
+  "sources": [
+    "https://www.planetary.org/articles/ls2-deploys-sail",
+    "https://www.universetoday.com/articles/lightsail-2-has-been-flying-for-30-months-now-paving-the-way-for-future-solar-sail-missions"
+  ],
+  "thumbnail_text": "WHAT IF SUNLIGHT FLEW A SHIP?",
+  "first_comment": "Would you ride a solar sail to Mars? Drop your own what-if below.",
+  "id": "2026-10-30-what-if-a-spacecraft-ran-on-sunlight-alone"
+}

@@ -1,0 +1,56 @@
+{
+  "format": "whatif",
+  "topic": "body",
+  "priority": 7,
+  "title": "What If You Could See Infrared Light? Volunteers Did",
+  "scenes": [
+    {
+      "text": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
+      "keywords": "laser laboratory eye"
+    },
+    {
+      "text": "Human eyes normally see wavelengths from about 400 to 720 nanometers. Infrared sits beyond that.",
+      "keywords": "rainbow light spectrum"
+    },
+    {
+      "text": "Scientists pulsed infrared lasers at the eye, and the retina absorbed two photons at once.",
+      "keywords": "infrared laser beam"
+    },
+    {
+      "text": "Two photons together carry the energy of one visible photon. The brain read it as normal light.",
+      "keywords": "human eye close up"
+    },
+    {
+      "text": "All thirty volunteers saw lasers at 950 to 1,200 nanometers, and they looked like a pale green glow.",
+      "keywords": "green laser glow"
+    },
+    {
+      "text": "So infrared vision isn't impossible. The light is just too weak, unless you pulse it hard.",
+      "keywords": "eye iris macro"
+    }
+  ],
+  "description": "What if you could see infrared light?\nA 2014 study found people can, if the laser pulses fast enough.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "infrared vision",
+    "human eye",
+    "body facts",
+    "PNAS study",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#science",
+    "#body"
+  ],
+  "sources": [
+    "https://www.sci.news/biology/science-humans-can-see-infrared-light-02313.html",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4273384"
+  ],
+  "thumbnail_text": "WHAT IF YOU SAW INFRARED?",
+  "first_comment": "What invisible thing would you want to see? Drop your what-if below.",
+  "id": "2026-10-30-what-if-you-could-see-infrared-light"
+}
