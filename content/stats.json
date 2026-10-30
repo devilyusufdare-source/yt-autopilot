@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T04:05:19+00:00",
+  "updated_at": "2026-10-30T11:45:14+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,13 +9,19 @@
     "video_count": 148
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/Y6sGcLt5JUI"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/Y6sGcLt5JUI"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/Y6sGcLt5JUI"
+    ]
   },
   "retention": {
     "videos_with_data": 122,
@@ -53,7 +59,7 @@
       {
         "title": "Water at 750 Degrees That Never Boils (1.5 Miles Under the Sea)",
         "avg_view_percent": 106.3,
-        "views": 30
+        "views": 31
       }
     ],
     "worst": [
@@ -85,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 146,
-  "total_views": 43660,
+  "total_videos": 147,
+  "total_views": 44351,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -95,12 +101,12 @@
     },
     "science": {
       "videos": 18,
-      "avg_views": 302,
+      "avg_views": 303,
       "best_views": 1648
     },
     "animals": {
-      "videos": 89,
-      "avg_views": 283,
+      "videos": 90,
+      "avg_views": 287,
       "best_views": 1507
     },
     "human body": {
@@ -115,19 +121,19 @@
     },
     "space": {
       "videos": 20,
-      "avg_views": 410,
+      "avg_views": 411,
       "best_views": 1513
     },
     "technology": {
       "videos": 3,
-      "avg_views": 37,
-      "best_views": 57
+      "avg_views": 41,
+      "best_views": 63
     }
   },
   "by_style": {
     "classic": {
-      "videos": 130,
-      "avg_views": 284,
+      "videos": 131,
+      "avg_views": 287,
       "over_1500": 3
     },
     "punch": {
@@ -138,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 60,
-      "avg_views": 91
+      "videos": 61,
+      "avg_views": 101
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1084,7 +1090,7 @@
       "hook": "This worm has no mouth, no stomach, and it grows taller than you.",
       "published_at": "2026-10-27T14:00:23Z",
       "privacy": "public",
-      "views": 90,
+      "views": 91,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY",
@@ -1252,7 +1258,7 @@
       "hook": "Almost every turtle on this reef is female.",
       "published_at": "2026-10-30T00:10:36Z",
       "privacy": "public",
-      "views": 3,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SVJipZiOpJM"
@@ -1472,7 +1478,7 @@
       "hook": "The farthest thing humans ever built is almost a full light-day from home.",
       "published_at": "2026-10-29T00:10:36Z",
       "privacy": "public",
-      "views": 52,
+      "views": 63,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc"
@@ -1608,7 +1614,7 @@
       "hook": "Jupiter doesn't orbit the Sun. Not exactly.",
       "published_at": "2026-10-17T07:00:34Z",
       "privacy": "public",
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SLTRR1243fU",
@@ -2868,7 +2874,7 @@
       "hook": "There's water at 750 degrees that never boils.",
       "published_at": "2026-10-27T19:50:26Z",
       "privacy": "public",
-      "views": 30,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/V5bBt2yI2PY",
@@ -2952,7 +2958,7 @@
       "hook": "This frog freezes solid and comes back to life.",
       "published_at": "2026-10-28T12:20:12Z",
       "privacy": "public",
-      "views": 85,
+      "views": 87,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo"
@@ -3004,7 +3010,7 @@
       "hook": "This beetle blasts near-boiling liquid from its rear end.",
       "published_at": "2026-10-28T15:00:04Z",
       "privacy": "public",
-      "views": 63,
+      "views": 67,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eBJwSEoXZoQ"
@@ -3028,7 +3034,7 @@
       "hook": "A shark was caught 700 miles up the Mississippi River.",
       "published_at": "2026-10-28T16:30:27Z",
       "privacy": "public",
-      "views": 42,
+      "views": 60,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0eDxP_Mfsoo"
@@ -3108,7 +3114,7 @@
       "hook": "A lake at the bottom of the sea kills what swims in.",
       "published_at": "2026-10-28T21:20:34Z",
       "privacy": "public",
-      "views": 41,
+      "views": 45,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u7j4uSn2hiE"
@@ -3132,7 +3138,7 @@
       "hook": "Lava once shot nineteen hundred feet into the air.",
       "published_at": "2026-10-29T22:40:34Z",
       "privacy": "public",
-      "views": 20,
+      "views": 32,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8HPrrfRBnJA"
@@ -3212,8 +3218,8 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 275,
-      "likes": 2,
+      "views": 325,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0"
     },
@@ -3236,7 +3242,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 274,
+      "views": 316,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA"
@@ -3288,7 +3294,7 @@
       "hook": "Killer whales make their own waves to hunt.",
       "published_at": "2026-10-28T20:00:33Z",
       "privacy": "public",
-      "views": 116,
+      "views": 126,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RhsRw5DbPD4"
@@ -3312,7 +3318,7 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 336,
+      "views": 409,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM"
@@ -3509,7 +3515,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 91.1,
+      "avg_view_percent": 91.3,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -3532,7 +3538,7 @@
       "hook": "A goblin shark can shoot its jaws out of its own face.",
       "published_at": "2026-10-28T22:40:04Z",
       "privacy": "public",
-      "views": 17,
+      "views": 18,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/mzel-4ZbiC0"
@@ -3556,7 +3562,7 @@
       "hook": "Orcas throw themselves onto a beach to catch their dinner.",
       "published_at": "2026-10-29T02:40:02Z",
       "privacy": "public",
-      "views": 68,
+      "views": 91,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/tB1PyAE5HZs"
@@ -3580,8 +3586,8 @@
       "hook": "An elephant sniffs air in at 330 miles per hour.",
       "published_at": "2026-10-29T12:20:01Z",
       "privacy": "public",
-      "views": 47,
-      "likes": 2,
+      "views": 58,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/oHOSiC4XktU"
     },
@@ -3632,8 +3638,8 @@
       "hook": "This shrimp snaps its claw and makes a sound louder than a gunshot.",
       "published_at": "2026-10-29T15:00:17Z",
       "privacy": "public",
-      "views": 7,
-      "likes": 0,
+      "views": 15,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0wfI9vjWDs0"
     },
@@ -3656,7 +3662,7 @@
       "hook": "An ant's jaws can close at up to 145 miles an hour.",
       "published_at": "2026-10-29T16:30:10Z",
       "privacy": "public",
-      "views": 24,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4"
@@ -3680,8 +3686,8 @@
       "hook": "A wasp turns cockroaches into zombies.",
       "published_at": "2026-10-29T18:00:29Z",
       "privacy": "public",
-      "views": 51,
-      "likes": 0,
+      "views": 372,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qR2EsU5H4ZM"
     },
@@ -3704,7 +3710,7 @@
       "hook": "This fish leaps out of the water and catches flying birds.",
       "published_at": "2026-10-29T18:20:15Z",
       "privacy": "public",
-      "views": 10,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QsLlW3CpAWM"
@@ -3868,7 +3874,7 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 33,
+      "views": 60,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY"
@@ -3920,8 +3926,8 @@
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
       "published_at": "2026-10-29T21:20:18Z",
       "privacy": "public",
-      "views": 18,
-      "likes": 0,
+      "views": 43,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA"
     },
@@ -4121,6 +4127,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "Y6sGcLt5JUI": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A 500-Pound Fish Swallowed a Hooked Shark in One Gulp",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This fish swallowed a shark in one gulp.",
+      "published_at": "2026-10-30T11:45:00Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
+    },
     "TjxKsQKmMj4": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -4224,7 +4254,7 @@
       "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
       "published_at": "2026-10-30T02:40:36Z",
       "privacy": "public",
-      "views": 1,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c"

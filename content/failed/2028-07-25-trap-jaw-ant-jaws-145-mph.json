@@ -54,5 +54,7 @@
   ],
   "first_comment": "Which tiny animal do you think is the most dangerous for its size?",
   "thumbnail_text": "ANT JAWS: 145 MPH",
-  "priority": 7
+  "priority": 7,
+  "_error": "duplicate of an already published video: An Ant's Jaws Snap Shut at Up to 145 Miles an Hour",
+  "_failed_at": "2026-10-30T11:44:13+00:00"
 }

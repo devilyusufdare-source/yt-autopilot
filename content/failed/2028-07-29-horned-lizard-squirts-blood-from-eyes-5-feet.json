@@ -53,5 +53,7 @@
   ],
   "first_comment": "Which animal has the strangest defense you know of?",
   "thumbnail_text": "LIZARD SQUIRTS BLOOD FROM EYES",
-  "priority": 7
+  "priority": 7,
+  "_error": "duplicate of an already published video: This Lizard Shoots Blood From Its Eyes Up to 5 Feet",
+  "_failed_at": "2026-10-30T11:44:13+00:00"
 }
