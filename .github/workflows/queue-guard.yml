@@ -1,0 +1,86 @@
+name: Queue guard (park repeated ideas)
+
+# The idea writer sometimes adds an idea that already exists (the same what-if three or four times, a re-told
+# published fact). Every push that adds queue files is checked here with the same rules as `pipeline.validate`
+# (title already used in either channel, also with words added; script that re-tells a published video), and a
+# repeat is moved to the channel's parked/ folder. Pushes made with the workflow token do not start workflows,
+# so the guard's own commit cannot loop.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/queue/**"
+      - "channels/wild/content/queue/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: queue-guard
+  cancel-in-progress: false
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Park ideas that repeat an existing one
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: |
+          # Files added to either queue by this push (on a manual run: by the last day of commits).
+          if [ -n "$BEFORE" ] && git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then RANGE="$BEFORE..HEAD"; else RANGE="$(git rev-list -n1 --before='1 day ago' HEAD)..HEAD"; fi
+          git diff --name-only --diff-filter=A "$RANGE" -- content/queue channels/wild/content/queue > /tmp/added.txt || true
+          echo "added in $RANGE: $(wc -l < /tmp/added.txt) file(s)"
+          for CH in main wild; do
+            if [ "$CH" = wild ]; then PREFIX=channels/wild/content/queue/; export YT_CHANNEL=wild; else PREFIX=content/queue/; unset YT_CHANNEL; fi
+            grep "^$PREFIX" /tmp/added.txt | while read -r f; do [ -f "$f" ] && echo "$f"; done > /tmp/check.txt || true
+            [ -s /tmp/check.txt ] || continue
+            python - <<'PY'
+          import json, subprocess
+          from pathlib import Path
+          from pipeline.validate import repeats
+          parked_now = set()
+          for line in open("/tmp/check.txt"):
+              path = Path(line.strip())
+              try:
+                  pkg = json.loads(path.read_text(encoding="utf-8"))
+              except Exception:  # noqa: BLE001
+                  continue
+              why = repeats(path, pkg)
+              # two copies added in the same push: park the first, keep the second
+              if not why or any(str(q) in why[0] for q in parked_now):
+                  continue
+              parked_now.add(path)
+              dst = path.parent.parent / "parked" / path.name
+              dst.parent.mkdir(parents=True, exist_ok=True)
+              if dst.exists():
+                  subprocess.run(["git", "rm", "-q", str(path)], check=True)
+              else:
+                  subprocess.run(["git", "mv", str(path), str(dst)], check=True)
+              print(f"parked {path.name}: {why[0]}")
+          PY
+          done
+          git config user.name "yt-autopilot"
+          git config user.email "yt-autopilot@users.noreply.github.com"
+          if git diff --cached --quiet; then
+            echo "no repeats"
+          else
+            N=$(git diff --cached --no-renames --name-only --diff-filter=A | wc -l)
+            git commit -q -m "guard: parked $N repeated idea(s)"
+            for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done
+          fi
