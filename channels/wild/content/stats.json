@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-10-30T02:09:54+00:00",
+  "updated_at": "2026-10-30T04:05:44+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 11,
+    "subscribers": 12,
     "channel_views": 7463,
-    "video_count": 18
+    "video_count": 19
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/ZUqekDSPv74"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/ZUqekDSPv74"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/ZUqekDSPv74"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 14,
@@ -69,7 +63,7 @@
       {
         "title": "What If You Fell Into a Black Hole?",
         "avg_view_percent": 51.7,
-        "views": 246
+        "views": 245
       },
       {
         "title": "What If You Never Slept Again?",
@@ -90,11 +84,11 @@
   },
   "retention_note": null,
   "total_videos": 19,
-  "total_views": 7946,
+  "total_views": 8372,
   "by_topic": {
     "earth": {
       "videos": 4,
-      "avg_views": 394,
+      "avg_views": 500,
       "best_views": 1023
     },
     "space": {
@@ -121,14 +115,14 @@
   "by_style": {
     "classic": {
       "videos": 19,
-      "avg_views": 418,
+      "avg_views": 441,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 19,
-      "avg_views": 418
+      "avg_views": 441
     }
   },
   "top_videos": [
@@ -175,6 +169,12 @@
       "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes."
     },
     {
+      "title": "What If the Siberian Traps Erupted Again?",
+      "topic": "earth",
+      "views": 421,
+      "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
+    },
+    {
       "title": "What If Everyone on Earth Jumped at the Same Time?",
       "topic": "society",
       "views": 414,
@@ -185,12 +185,6 @@
       "topic": "space",
       "views": 290,
       "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly."
-    },
-    {
-      "title": "What If You Fell Into a Black Hole?",
-      "topic": "space",
-      "views": 246,
-      "hook": "What if you fell into a black hole? Which one matters more than you'd think."
     }
   ],
   "videos": {
@@ -409,7 +403,7 @@
       "hook": "What if you fell into a black hole? Which one matters more than you'd think.",
       "published_at": "2026-10-26T17:00:07Z",
       "privacy": "public",
-      "views": 246,
+      "views": 245,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/PyXFeRMftHU",
@@ -602,7 +596,7 @@
       "published_at": "2026-10-28T17:00:16Z",
       "privacy": "public",
       "views": 63,
-      "likes": 1,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/yxeZpoL6wKQ"
     },
@@ -649,20 +643,20 @@
       "hook": "What if sound traveled through space? You'd hear the Sun, and it would arrive years late.",
       "published_at": "2026-10-29T14:10:27Z",
       "privacy": "public",
-      "views": 143,
+      "views": 149,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y"
     },
     "ZUqekDSPv74": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -671,11 +665,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
-      "published_at": "2026-10-30T02:09:48Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-30T02:40:39Z",
+      "privacy": "public",
+      "views": 421,
+      "likes": 9,
+      "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74"
     },
     "jwre0VbiRCc": {
