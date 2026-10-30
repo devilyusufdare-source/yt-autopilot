@@ -252,9 +252,10 @@ jobs:
           fi
 
       - name: Record the result in the repository
-        if: ${{ always() && github.event_name != 'push' && inputs.dry_run != true }}
+        if: ${{ always() && github.event_name != 'push' }}
         env:
           MAKE_OUTCOME: ${{ steps.make.outcome }}
+          TEST_RUN: ${{ inputs.dry_run == true && 'true' || 'false' }}
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
@@ -264,6 +265,9 @@ jobs:
         run: |
           # A failed run leaves its last lines in the repository (secrets and key=/token= values removed), so
           # the cause can be read without the Actions log. The file is overwritten by the next failure.
+          # A failed test render (dry run) writes runs/last-test-failure.txt and commits nothing else.
+          export FAIL_FILE=content/runs/last-failure.txt
+          if [ "$TEST_RUN" = "true" ]; then export FAIL_FILE=content/runs/last-test-failure.txt; fi
           if [ "${MAKE_OUTCOME}" = "failure" ] && [ -f output/run.log ]; then
             mkdir -p content/runs
             python - <<'PY'
@@ -278,12 +282,16 @@ jobs:
                   text = text.replace(value, "***")
           text = re.sub(r"(?i)((?:key|token|secret|access_token|refresh_token|client_id|client_secret|password)=)[^&\s'\"]+", r"\1***", text)
           stamp = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
-          open("content/runs/last-failure.txt", "w", encoding="utf-8").write(f"run failed at {stamp} UTC (error lines and last 25 lines, secrets removed)\n\n{text}\n")
+          open(os.environ["FAIL_FILE"], "w", encoding="utf-8").write(f"run failed at {stamp} UTC (error lines and last 25 lines, secrets removed)\n\n{text}\n")
           PY
           fi
           git config user.name "yt-autopilot"
           git config user.email "yt-autopilot@users.noreply.github.com"
-          git add content
+          if [ "$TEST_RUN" = "true" ]; then
+            if [ -f "$FAIL_FILE" ]; then git add "$FAIL_FILE"; fi
+          else
+            git add content
+          fi
           if git diff --cached --quiet; then
             echo "nothing to commit"
           else
