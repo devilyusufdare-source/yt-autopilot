@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-10-31T02:07:24+00:00",
+  "updated_at": "2026-10-31T04:02:06+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 11,
     "channel_views": 7977,
-    "video_count": 22
+    "video_count": 23
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/FJ7GavEjUw8"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/FJ7GavEjUw8"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/FJ7GavEjUw8"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 17,
@@ -52,7 +46,7 @@
       {
         "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
         "avg_view_percent": 77.7,
-        "views": 1094
+        "views": 1096
       },
       {
         "title": "What If the Sun Went Out Right Now?",
@@ -90,16 +84,16 @@
   },
   "retention_note": null,
   "total_videos": 23,
-  "total_views": 9643,
+  "total_views": 9857,
   "by_topic": {
     "earth": {
       "videos": 5,
-      "avg_views": 583,
-      "best_views": 1073
+      "avg_views": 587,
+      "best_views": 1075
     },
     "space": {
       "videos": 12,
-      "avg_views": 350,
+      "avg_views": 351,
       "best_views": 1281
     },
     "society": {
@@ -114,30 +108,30 @@
     },
     "body": {
       "videos": 3,
-      "avg_views": 232,
+      "avg_views": 235,
       "best_views": 498
     },
     "technology": {
       "videos": 1,
-      "avg_views": 0,
-      "best_views": 0
+      "avg_views": 171,
+      "best_views": 171
     }
   },
   "by_style": {
     "classic": {
       "videos": 23,
-      "avg_views": 419,
+      "avg_views": 429,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 22,
-      "avg_views": 438
+      "avg_views": 440
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 0
+      "avg_views": 171
     }
   },
   "top_videos": [
@@ -156,13 +150,13 @@
     {
       "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
       "topic": "space",
-      "views": 1094,
+      "views": 1096,
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes."
     },
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1073,
+      "views": 1075,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -530,7 +524,7 @@
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes.",
       "published_at": "2026-10-27T16:50:07Z",
       "privacy": "public",
-      "views": 1094,
+      "views": 1096,
       "likes": 36,
       "comments": 1,
       "url": "https://youtube.com/shorts/vvwy7bHBZt4",
@@ -670,7 +664,7 @@
       "hook": "What if sound traveled through space? You'd hear the Sun, and it would arrive years late.",
       "published_at": "2026-10-29T14:10:27Z",
       "privacy": "public",
-      "views": 171,
+      "views": 173,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y"
@@ -694,7 +688,7 @@
       "hook": "What if you floated into space with no suit? You wouldn't explode. The truth is stranger.",
       "published_at": "2026-10-30T14:10:27Z",
       "privacy": "public",
-      "views": 88,
+      "views": 97,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/vRwTuMJXX7Q"
@@ -718,7 +712,7 @@
       "hook": "What if a quiet lake suddenly breathed out a deadly cloud? In 1986, one did.",
       "published_at": "2026-10-30T16:50:05Z",
       "privacy": "public",
-      "views": 262,
+      "views": 281,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/6MBak6NID4o"
@@ -742,20 +736,20 @@
       "hook": "What if the whole asteroid belt became one planet? It would be smaller than Pluto.",
       "published_at": "2026-10-30T21:10:24Z",
       "privacy": "public",
-      "views": 227,
+      "views": 236,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rcXHfkgMvcU"
     },
     "FJ7GavEjUw8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -764,11 +758,11 @@
       "style": "classic",
       "voice": "en-US-EricNeural",
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
-      "published_at": "2026-10-31T02:07:18Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-31T02:40:35Z",
+      "privacy": "public",
+      "views": 171,
+      "likes": 2,
+      "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8"
     },
     "ZUqekDSPv74": {
@@ -790,7 +784,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1073,
+      "views": 1075,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74"
