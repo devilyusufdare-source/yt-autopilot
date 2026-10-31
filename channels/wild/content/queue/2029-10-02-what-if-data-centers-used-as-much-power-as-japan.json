@@ -1,0 +1,57 @@
+{
+  "id": "2029-10-02-what-if-data-centers-used-as-much-power-as-japan",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If Data Centers Used as Much Power as All of Japan?",
+  "scenes": [
+    {
+      "text": "What if the internet needed as much electricity as an entire country? It is heading there.",
+      "keywords": "server room blinking lights"
+    },
+    {
+      "text": "In 2024, the world's data centers used about 415 terawatt-hours, roughly 1.5 percent of all electricity.",
+      "keywords": "data center racks"
+    },
+    {
+      "text": "The International Energy Agency expects that to reach about 945 terawatt-hours by 2030.",
+      "keywords": "power plant transmission lines"
+    },
+    {
+      "text": "That is more than double in six years, and about what Japan uses in a whole year.",
+      "keywords": "tokyo city night aerial"
+    },
+    {
+      "text": "Artificial intelligence is the biggest driver. AI servers were already 15 percent of data center energy in 2024.",
+      "keywords": "computer server hardware"
+    },
+    {
+      "text": "So the next time a chatbot answers in seconds, a power plant somewhere is working harder.",
+      "keywords": "electric power station"
+    }
+  ],
+  "description": "What if the internet used as much power as a whole country?\nThe IEA projects data centers will go from about 415 to 945 terawatt-hours by 2030, roughly Japan's yearly use.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "data centers",
+    "artificial intelligence",
+    "electricity",
+    "energy",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#datacenter",
+    "#ai"
+  ],
+  "sources": [
+    "https://scientificamerican.com/article/ai-will-drive-doubling-of-data-center-energy-demand-by-2030",
+    "https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai"
+  ],
+  "thumbnail_text": "THE INTERNET VS. JAPAN'S GRID",
+  "first_comment": "Would you give up your favorite app to save power? Drop your own 'what if' below."
+}
