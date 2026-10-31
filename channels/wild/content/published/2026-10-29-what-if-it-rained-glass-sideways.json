@@ -54,5 +54,21 @@
   ],
   "thumbnail_text": "WHAT IF IT RAINED GLASS?",
   "first_comment": "Would you rather dodge glass rain or diamond rain? Drop your own 'what if' 👇",
-  "subject": "HD 189733b planet"
+  "subject": "HD 189733b planet",
+  "youtube_id": "aR40zT0kxg8",
+  "url": "https://youtube.com/shorts/aR40zT0kxg8",
+  "uploaded_at": "2026-10-31T20:39:21+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-31T21:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 16,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#C4B5FD",
+  "duration_seconds": 41.8,
+  "style": "classic",
+  "kind": "shorts"
 }

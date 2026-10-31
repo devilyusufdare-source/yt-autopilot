@@ -1,43 +1,48 @@
 {
-  "updated_at": "2026-10-31T18:46:37+00:00",
+  "updated_at": "2026-10-31T20:39:22+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 11,
-    "channel_views": 9335,
-    "video_count": 25
+    "channel_views": 9764,
+    "video_count": 26
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/ZzVBYBDzKGA"
+      "https://youtube.com/shorts/aR40zT0kxg8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/ZzVBYBDzKGA"
+      "https://youtube.com/shorts/aR40zT0kxg8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/ZzVBYBDzKGA"
+      "https://youtube.com/shorts/aR40zT0kxg8"
     ]
   },
   "retention": {
-    "videos_with_data": 17,
-    "avg_view_percent": 66.1,
+    "videos_with_data": 19,
+    "avg_view_percent": 69.4,
     "by_topic": {
-      "earth": 76.9,
-      "space": 62.5,
+      "earth": 77.6,
+      "space": 67.7,
       "society": 67.0,
       "animals": 81.5,
-      "body": 60.0
+      "body": 57.3
     },
     "best": [
       {
+        "title": "What If You Could Visit a Neutron Star?",
+        "avg_view_percent": 106.5,
+        "views": 71
+      },
+      {
         "title": "What If All the Ice on Earth Melted?",
         "avg_view_percent": 98.4,
-        "views": 435
+        "views": 436
       },
       {
         "title": "What If the Sun Suddenly Disappeared?",
@@ -45,25 +50,20 @@
         "views": 179
       },
       {
-        "title": "What If Every Mosquito Went Extinct?",
-        "avg_view_percent": 81.5,
-        "views": 1424
-      },
-      {
         "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
-        "avg_view_percent": 77.7,
+        "avg_view_percent": 85.7,
         "views": 1096
       },
       {
-        "title": "What If the Sun Went Out Right Now?",
-        "avg_view_percent": 70.3,
-        "views": 427
+        "title": "What If Every Mosquito Went Extinct?",
+        "avg_view_percent": 81.5,
+        "views": 1424
       }
     ],
     "worst": [
       {
         "title": "What If You Traveled at 99 Percent the Speed of Light?",
-        "avg_view_percent": 32.1,
+        "avg_view_percent": 35.8,
         "views": 68
       },
       {
@@ -77,34 +77,34 @@
         "views": 245
       },
       {
-        "title": "What If You Could Visit a Neutron Star?",
-        "avg_view_percent": 55.9,
-        "views": 71
+        "title": "What If Humans Could Photosynthesize?",
+        "avg_view_percent": 53.6,
+        "views": 109
       },
       {
-        "title": "What If Humans Could Photosynthesize?",
-        "avg_view_percent": 58.9,
-        "views": 109
+        "title": "What If Sound Could Travel Through Space? You'd Hear the Sun",
+        "avg_view_percent": 59.6,
+        "views": 182
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 26,
-  "total_views": 10795,
+  "total_videos": 27,
+  "total_views": 10841,
   "by_topic": {
     "earth": {
       "videos": 5,
-      "avg_views": 589,
+      "avg_views": 588,
       "best_views": 1081
     },
     "space": {
-      "videos": 13,
-      "avg_views": 328,
+      "videos": 14,
+      "avg_views": 305,
       "best_views": 1281
     },
     "society": {
       "videos": 2,
-      "avg_views": 227,
+      "avg_views": 243,
       "best_views": 414
     },
     "animals": {
@@ -114,30 +114,30 @@
     },
     "body": {
       "videos": 4,
-      "avg_views": 189,
+      "avg_views": 190,
       "best_views": 499
     },
     "technology": {
       "videos": 1,
-      "avg_views": 948,
-      "best_views": 948
+      "avg_views": 958,
+      "best_views": 958
     }
   },
   "by_style": {
     "classic": {
-      "videos": 26,
-      "avg_views": 415,
+      "videos": 27,
+      "avg_views": 402,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 25,
-      "avg_views": 394
+      "videos": 26,
+      "avg_views": 380
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 948
+      "avg_views": 958
     }
   },
   "top_videos": [
@@ -174,7 +174,7 @@
     {
       "title": "What If We Launched Our Nuclear Waste Into the Sun?",
       "topic": "technology",
-      "views": 948,
+      "views": 958,
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
     },
     {
@@ -186,7 +186,7 @@
     {
       "title": "What If All the Ice on Earth Melted?",
       "topic": "earth",
-      "views": 435,
+      "views": 436,
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
     },
     {
@@ -222,7 +222,7 @@
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres.",
       "published_at": "2026-10-23T21:00:29Z",
       "privacy": "public",
-      "views": 435,
+      "views": 436,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16E2OJLBg8",
@@ -479,7 +479,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8",
       "avg_view_seconds": 22.0,
-      "avg_view_percent": 61.9,
+      "avg_view_percent": 61.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -534,10 +534,10 @@
       "likes": 36,
       "comments": 1,
       "url": "https://youtube.com/shorts/vvwy7bHBZt4",
-      "avg_view_seconds": 27.0,
-      "avg_view_percent": 77.7,
+      "avg_view_seconds": 30.0,
+      "avg_view_percent": 85.7,
       "shares": 0,
-      "subscribers_gained": 5
+      "subscribers_gained": 6
     },
     "pf34SeLuJgk": {
       "upload_status": "processed",
@@ -563,7 +563,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/pf34SeLuJgk",
       "avg_view_seconds": 21.0,
-      "avg_view_percent": 64.4,
+      "avg_view_percent": 62.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -590,8 +590,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/hJIo0ee4tPA",
-      "avg_view_seconds": 11.0,
-      "avg_view_percent": 32.1,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 35.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -618,8 +618,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/yxeZpoL6wKQ",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 55.9,
+      "avg_view_seconds": 38.0,
+      "avg_view_percent": 106.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -646,8 +646,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Dfr7U_PG5ng",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 58.9,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 53.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -670,10 +670,14 @@
       "hook": "What if sound traveled through space? You'd hear the Sun, and it would arrive years late.",
       "published_at": "2026-10-29T14:10:27Z",
       "privacy": "public",
-      "views": 181,
+      "views": 182,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/tbvnEMmFn7Y"
+      "url": "https://youtube.com/shorts/tbvnEMmFn7Y",
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 59.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "vRwTuMJXX7Q": {
       "upload_status": "processed",
@@ -694,7 +698,7 @@
       "hook": "What if you floated into space with no suit? You wouldn't explode. The truth is stranger.",
       "published_at": "2026-10-30T14:10:27Z",
       "privacy": "public",
-      "views": 118,
+      "views": 120,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/vRwTuMJXX7Q"
@@ -718,7 +722,7 @@
       "hook": "What if a quiet lake suddenly breathed out a deadly cloud? In 1986, one did.",
       "published_at": "2026-10-30T16:50:05Z",
       "privacy": "public",
-      "views": 284,
+      "views": 282,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/6MBak6NID4o"
@@ -766,7 +770,7 @@
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
-      "views": 948,
+      "views": 958,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8"
@@ -814,12 +818,36 @@
       "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
       "published_at": "2026-10-31T16:30:24Z",
       "privacy": "public",
-      "views": 40,
+      "views": 72,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uirFWqmtLZs"
     },
     "ZzVBYBDzKGA": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT38S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If It Rained Diamonds? Neptune May Have",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if it rained diamonds? Deep inside Neptune and Uranus, scientists think it does.",
+      "published_at": "2026-10-31T19:10:39Z",
+      "privacy": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/ZzVBYBDzKGA"
+    },
+    "aR40zT0kxg8": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -831,17 +859,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If It Rained Diamonds? Neptune May Have",
+      "title": "What If It Rained Glass Sideways? One Planet May",
       "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if it rained diamonds? Deep inside Neptune and Uranus, scientists think it does.",
-      "published_at": "2026-10-31T18:46:30Z",
+      "hook": "What if it rained glass, sideways, at thousands of miles an hour? One planet possibly does.",
+      "published_at": "2026-10-31T20:39:18Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/ZzVBYBDzKGA"
+      "url": "https://youtube.com/shorts/aR40zT0kxg8"
     },
     "ZUqekDSPv74": {
       "upload_status": "processed",
@@ -865,7 +893,11 @@
       "views": 1081,
       "likes": 17,
       "comments": 1,
-      "url": "https://youtube.com/shorts/ZUqekDSPv74"
+      "url": "https://youtube.com/shorts/ZUqekDSPv74",
+      "avg_view_seconds": 29.0,
+      "avg_view_percent": 79.6,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
