@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-31T20:43:24+00:00",
+  "updated_at": "2026-10-31T22:10:52+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 59,
     "channel_views": 46757,
-    "video_count": 164
+    "video_count": 165
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/PXVQE8MFDkM"
+      "https://youtube.com/shorts/-R8EwEsb9-s"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/PXVQE8MFDkM"
+      "https://youtube.com/shorts/-R8EwEsb9-s"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/PXVQE8MFDkM"
+      "https://youtube.com/shorts/-R8EwEsb9-s"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 163,
-  "total_views": 47092,
+  "total_videos": 164,
+  "total_views": 47175,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,13 +105,13 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 104,
-      "avg_views": 273,
+      "videos": 105,
+      "avg_views": 271,
       "best_views": 1507
     },
     "human body": {
       "videos": 4,
-      "avg_views": 554,
+      "avg_views": 555,
       "best_views": 1384
     },
     "history": {
@@ -127,13 +127,13 @@
     "technology": {
       "videos": 3,
       "avg_views": 44,
-      "best_views": 73
+      "best_views": 72
     }
   },
   "by_style": {
     "classic": {
-      "videos": 147,
-      "avg_views": 274,
+      "videos": 148,
+      "avg_views": 273,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 77,
+      "videos": 78,
       "avg_views": 115
     },
     "en-US-BrianNeural": {
@@ -334,7 +334,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 364,
+      "views": 365,
       "likes": 11,
       "comments": 3,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA",
@@ -1034,7 +1034,7 @@
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
       "published_at": "2026-10-31T12:10:01Z",
       "privacy": "public",
-      "views": 20,
+      "views": 23,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
@@ -1058,7 +1058,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 90,
+      "views": 91,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E",
@@ -1282,7 +1282,7 @@
       "hook": "Almost every turtle on this reef is female.",
       "published_at": "2026-10-30T00:10:36Z",
       "privacy": "public",
-      "views": 98,
+      "views": 100,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/SVJipZiOpJM",
@@ -1506,7 +1506,7 @@
       "hook": "The farthest thing humans ever built is almost a full light-day from home.",
       "published_at": "2026-10-29T00:10:36Z",
       "privacy": "public",
-      "views": 73,
+      "views": 72,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc",
@@ -3798,7 +3798,7 @@
       "hook": "A wasp turns cockroaches into zombies.",
       "published_at": "2026-10-29T18:00:29Z",
       "privacy": "public",
-      "views": 935,
+      "views": 930,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/qR2EsU5H4ZM",
@@ -4274,7 +4274,7 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 369,
+      "views": 386,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
@@ -4326,7 +4326,7 @@
       "hook": "A blue whale swallows more than its own weight.",
       "published_at": "2026-10-30T15:00:13Z",
       "privacy": "public",
-      "views": 102,
+      "views": 106,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY"
@@ -4350,7 +4350,7 @@
       "hook": "Praying mantises catch and eat live birds.",
       "published_at": "2026-10-30T15:30:08Z",
       "privacy": "public",
-      "views": 99,
+      "views": 107,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys"
@@ -4402,7 +4402,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 101,
+      "views": 107,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU"
@@ -4426,7 +4426,7 @@
       "hook": "This bird that cannot fly runs 45 miles an hour.",
       "published_at": "2026-10-30T18:20:23Z",
       "privacy": "public",
-      "views": 41,
+      "views": 43,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/c1_iRJblyEI"
@@ -4450,7 +4450,7 @@
       "hook": "Satellites found 1.5 million penguins by spotting their poop.",
       "published_at": "2026-10-30T19:50:22Z",
       "privacy": "public",
-      "views": 62,
+      "views": 64,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hs38proZTyc"
@@ -4474,7 +4474,7 @@
       "hook": "Jellyfish shut down a nuclear reactor.",
       "published_at": "2026-10-30T21:20:15Z",
       "privacy": "public",
-      "views": 28,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qRaw9tphoKk"
@@ -4522,8 +4522,8 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 30,
-      "likes": 3,
+      "views": 38,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA"
     },
@@ -4546,7 +4546,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 75,
+      "views": 91,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
@@ -4594,7 +4594,7 @@
       "hook": "One bird sees more daylight than any other animal. It weighs about three and a half ounces.",
       "published_at": "2026-10-31T16:40:04Z",
       "privacy": "public",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VTw9ctTNLLw"
@@ -4646,7 +4646,7 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 4,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4"
@@ -4670,12 +4670,36 @@
       "hook": "A gas company once found its pipeline leaks by following vultures.",
       "published_at": "2026-10-31T19:50:12Z",
       "privacy": "public",
-      "views": 2,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zl1SdlXN0H0"
     },
     "PXVQE8MFDkM": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT28S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Sand tiger shark pups fight to the death before birth",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Some shark pups fight to the death before they are born.",
+      "published_at": "2026-10-31T21:10:27Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/PXVQE8MFDkM"
+    },
+    "-R8EwEsb9-s": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -4687,17 +4711,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "Sand tiger shark pups fight to the death before birth",
+      "title": "Sperm Whales Have a Click Alphabet. Scientists Just Found It",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "Some shark pups fight to the death before they are born.",
-      "published_at": "2026-10-31T20:43:15Z",
+      "hook": "Sperm whales may be talking in an alphabet.",
+      "published_at": "2026-10-31T22:10:45Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/PXVQE8MFDkM"
+      "url": "https://youtube.com/shorts/-R8EwEsb9-s"
     },
     "nUqBVOHGP2c": {
       "upload_status": "processed",
