@@ -55,5 +55,21 @@
   ],
   "thumbnail_text": "CRAB > BEAR BITE",
   "priority": 7,
-  "first_comment": "Which animal would you least want to meet? We can rank them."
+  "first_comment": "Which animal would you least want to meet? We can rank them.",
+  "youtube_id": "RzL3iaVRiV4",
+  "url": "https://youtube.com/shorts/RzL3iaVRiV4",
+  "uploaded_at": "2026-10-31T17:40:41+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-31T18:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 31.0,
+  "style": "classic",
+  "kind": "shorts"
 }
