@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-10-31T17:40:44+00:00",
+  "updated_at": "2026-10-31T19:21:39+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 59,
     "channel_views": 45937,
-    "video_count": 162
+    "video_count": 163
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/RzL3iaVRiV4"
+      "https://youtube.com/shorts/Zl1SdlXN0H0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/RzL3iaVRiV4"
+      "https://youtube.com/shorts/Zl1SdlXN0H0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/RzL3iaVRiV4"
+      "https://youtube.com/shorts/Zl1SdlXN0H0"
     ]
   },
   "retention": {
-    "videos_with_data": 134,
-    "avg_view_percent": 63.8,
+    "videos_with_data": 144,
+    "avg_view_percent": 63.5,
     "by_topic": {
       "psychology": 71.3,
-      "science": 67.2,
-      "animals": 62.5,
-      "human body": 86.7,
+      "science": 67.8,
+      "animals": 62.4,
+      "human body": 86.5,
       "history": 54.1,
-      "space": 65.9,
-      "technology": 59.2
+      "space": 64.7,
+      "technology": 57.6
     },
     "best": [
       {
@@ -48,7 +48,7 @@
       },
       {
         "title": "Your Body Is Glowing Right Now and You Can't See It",
-        "avg_view_percent": 158.9,
+        "avg_view_percent": 158.2,
         "views": 247
       },
       {
@@ -85,14 +85,14 @@
       },
       {
         "title": "Divers Found Perfect Circles on the Seabed. A 5-Inch Fish Made Them",
-        "avg_view_percent": 25.8,
+        "avg_view_percent": 26.0,
         "views": 69
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 161,
-  "total_views": 46966,
+  "total_videos": 162,
+  "total_views": 47071,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,12 +101,12 @@
     },
     "science": {
       "videos": 19,
-      "avg_views": 292,
+      "avg_views": 293,
       "best_views": 1648
     },
     "animals": {
-      "videos": 102,
-      "avg_views": 277,
+      "videos": 103,
+      "avg_views": 275,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 145,
-      "avg_views": 277,
+      "videos": 146,
+      "avg_views": 276,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 75,
-      "avg_views": 117
+      "videos": 76,
+      "avg_views": 116
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -478,8 +478,8 @@
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/dAX8nRPkNMY",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 86.7,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 85.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -703,7 +703,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/T00_3CUDt5s",
       "avg_view_seconds": 58.0,
-      "avg_view_percent": 158.9,
+      "avg_view_percent": 158.2,
       "shares": 1,
       "subscribers_gained": 1
     },
@@ -983,7 +983,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/sqsrbQ8u4jw",
       "avg_view_seconds": 8.0,
-      "avg_view_percent": 25.8,
+      "avg_view_percent": 26.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1062,8 +1062,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E",
-      "avg_view_seconds": 11.0,
-      "avg_view_percent": 34.7,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 35.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1119,7 +1119,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY",
       "avg_view_seconds": 9.0,
-      "avg_view_percent": 30.8,
+      "avg_view_percent": 29.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1174,8 +1174,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/zlMkir0Z0S4",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 53.7,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 51.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1285,7 +1285,11 @@
       "views": 97,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/SVJipZiOpJM"
+      "url": "https://youtube.com/shorts/SVJipZiOpJM",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 57.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "hzWEks56BAU": {
       "upload_status": "processed",
@@ -1339,7 +1343,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/qOYToJpqKag",
       "avg_view_seconds": 10.0,
-      "avg_view_percent": 44.8,
+      "avg_view_percent": 45.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1478,8 +1482,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhWj8eW74zg",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 41.0,
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 43.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1506,8 +1510,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc",
-      "avg_view_seconds": 29.0,
-      "avg_view_percent": 69.6,
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 65.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1646,8 +1650,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SLTRR1243fU",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 55.5,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 53.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2207,7 +2211,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/YX7zSStVK_k",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 57.7,
+      "avg_view_percent": 57.6,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -2514,8 +2518,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 41.1,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 40.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2934,8 +2938,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/4tjLDcWwrTM",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 42.1,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 40.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2990,8 +2994,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 50.3,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 87.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3046,8 +3050,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eBJwSEoXZoQ",
-      "avg_view_seconds": 10.0,
-      "avg_view_percent": 43.6,
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 41.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3074,8 +3078,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0eDxP_Mfsoo",
-      "avg_view_seconds": 8.0,
-      "avg_view_percent": 32.9,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 50.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3098,7 +3102,7 @@
       "hook": "Male emperor penguins go 120 days without eating.",
       "published_at": "2026-10-24T22:30:39Z",
       "privacy": "public",
-      "views": 81,
+      "views": 85,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww",
@@ -3158,8 +3162,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u7j4uSn2hiE",
-      "avg_view_seconds": 11.0,
-      "avg_view_percent": 49.8,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 56.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3182,10 +3186,14 @@
       "hook": "Lava once shot nineteen hundred feet into the air.",
       "published_at": "2026-10-29T22:40:34Z",
       "privacy": "public",
-      "views": 81,
+      "views": 83,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/8HPrrfRBnJA"
+      "url": "https://youtube.com/shorts/8HPrrfRBnJA",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 70.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "TKL8_1FJz8Q": {
       "upload_status": "processed",
@@ -3234,7 +3242,7 @@
       "hook": "A wildfire once spun up a tornado made of fire.",
       "published_at": "2026-10-31T00:10:10Z",
       "privacy": "public",
-      "views": 36,
+      "views": 49,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ"
@@ -3286,12 +3294,12 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 416,
+      "views": 418,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 62.4,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 55.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3318,8 +3326,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA",
-      "avg_view_seconds": 8.0,
-      "avg_view_percent": 34.1,
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 40.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3374,8 +3382,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RhsRw5DbPD4",
-      "avg_view_seconds": 11.0,
-      "avg_view_percent": 45.1,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 51.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3398,12 +3406,12 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 573,
+      "views": 574,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM",
       "avg_view_seconds": 10.0,
-      "avg_view_percent": 45.9,
+      "avg_view_percent": 44.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3627,7 +3635,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/mzel-4ZbiC0",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 53.9,
+      "avg_view_percent": 57.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3655,7 +3663,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/tB1PyAE5HZs",
       "avg_view_seconds": 16.0,
-      "avg_view_percent": 59.4,
+      "avg_view_percent": 61.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3681,7 +3689,11 @@
       "views": 103,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/oHOSiC4XktU"
+      "url": "https://youtube.com/shorts/oHOSiC4XktU",
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 93.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "wgJfNru7RlQ": {
       "upload_status": "processed",
@@ -3730,10 +3742,14 @@
       "hook": "This shrimp snaps its claw and makes a sound louder than a gunshot.",
       "published_at": "2026-10-29T15:00:17Z",
       "privacy": "public",
-      "views": 35,
+      "views": 37,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/0wfI9vjWDs0"
+      "url": "https://youtube.com/shorts/0wfI9vjWDs0",
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 49.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "zvjqPSPmyk4": {
       "upload_status": "processed",
@@ -3757,7 +3773,11 @@
       "views": 165,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/zvjqPSPmyk4"
+      "url": "https://youtube.com/shorts/zvjqPSPmyk4",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 54.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "qR2EsU5H4ZM": {
       "upload_status": "processed",
@@ -3778,10 +3798,14 @@
       "hook": "A wasp turns cockroaches into zombies.",
       "published_at": "2026-10-29T18:00:29Z",
       "privacy": "public",
-      "views": 934,
+      "views": 935,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/qR2EsU5H4ZM"
+      "url": "https://youtube.com/shorts/qR2EsU5H4ZM",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 47.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "QsLlW3CpAWM": {
       "upload_status": "processed",
@@ -3802,10 +3826,14 @@
       "hook": "This fish leaps out of the water and catches flying birds.",
       "published_at": "2026-10-29T18:20:15Z",
       "privacy": "public",
-      "views": 47,
+      "views": 49,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/QsLlW3CpAWM"
+      "url": "https://youtube.com/shorts/QsLlW3CpAWM",
+      "avg_view_seconds": 7.0,
+      "avg_view_percent": 34.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",
@@ -3966,10 +3994,14 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 161,
-      "likes": 1,
+      "views": 173,
+      "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/KZhvfyr0xgY"
+      "url": "https://youtube.com/shorts/KZhvfyr0xgY",
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 36.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "MvTzV6WNdAA": {
       "upload_status": "processed",
@@ -3995,7 +4027,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/MvTzV6WNdAA",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 48.0,
+      "avg_view_percent": 46.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4021,7 +4053,11 @@
       "views": 98,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/N-Lb2WZv0VA"
+      "url": "https://youtube.com/shorts/N-Lb2WZv0VA",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 59.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "tq008mZVJQU": {
       "upload_status": "processed",
@@ -4238,7 +4274,7 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 344,
+      "views": 369,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
@@ -4290,7 +4326,7 @@
       "hook": "A blue whale swallows more than its own weight.",
       "published_at": "2026-10-30T15:00:13Z",
       "privacy": "public",
-      "views": 91,
+      "views": 97,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY"
@@ -4438,7 +4474,7 @@
       "hook": "Jellyfish shut down a nuclear reactor.",
       "published_at": "2026-10-30T21:20:15Z",
       "privacy": "public",
-      "views": 26,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qRaw9tphoKk"
@@ -4486,8 +4522,8 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 28,
-      "likes": 2,
+      "views": 30,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA"
     },
@@ -4510,8 +4546,8 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 56,
-      "likes": 4,
+      "views": 77,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
     },
@@ -4534,7 +4570,7 @@
       "hook": "An electric eel can shock things that aren't even in the water. Here's how.",
       "published_at": "2026-10-31T15:10:39Z",
       "privacy": "public",
-      "views": 4,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VAHBFzaup4g"
@@ -4558,7 +4594,7 @@
       "hook": "One bird sees more daylight than any other animal. It weighs about three and a half ounces.",
       "published_at": "2026-10-31T16:40:04Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VTw9ctTNLLw"
@@ -4592,14 +4628,14 @@
       "subscribers_gained": 0
     },
     "RzL3iaVRiV4": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT31S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4608,12 +4644,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
-      "published_at": "2026-10-31T17:40:31Z",
+      "published_at": "2026-10-31T18:00:28Z",
+      "privacy": "public",
+      "views": 4,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/RzL3iaVRiV4"
+    },
+    "Zl1SdlXN0H0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Gas Company Found Pipeline Leaks by Following Vultures",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A gas company once found its pipeline leaks by following vultures.",
+      "published_at": "2026-10-31T19:21:29Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/RzL3iaVRiV4"
+      "url": "https://youtube.com/shorts/Zl1SdlXN0H0"
     },
     "nUqBVOHGP2c": {
       "upload_status": "processed",
@@ -4634,10 +4694,14 @@
       "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
       "published_at": "2026-10-30T02:40:36Z",
       "privacy": "public",
-      "views": 71,
+      "views": 73,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/nUqBVOHGP2c"
+      "url": "https://youtube.com/shorts/nUqBVOHGP2c",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 43.4,
+      "shares": 0,
+      "subscribers_gained": 0
     }
   }
 }
