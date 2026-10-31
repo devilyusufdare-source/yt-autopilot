@@ -53,5 +53,7 @@
   "thumbnail_text": "WHAT IF THE SUN WENT OUT?",
   "first_comment": "Where would you shelter if the Sun went dark? Drop your own what if below.",
   "id": "2026-10-27-what-if-the-sun-went-out",
-  "format": "whatif"
+  "format": "whatif",
+  "_error": "duplicate of an already published video: What If the Sun Went Out Right Now?",
+  "_failed_at": "2026-10-31T02:06:00+00:00"
 }
