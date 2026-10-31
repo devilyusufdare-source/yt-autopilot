@@ -180,18 +180,19 @@ jobs:
       - name: Keep the rendered video as a downloadable artifact (test renders only)
         # Scheduled runs upload to YouTube, so no copy is kept; test renders keep one for 3 days.
         # Never fails the run: artifact storage is a convenience, not part of publishing.
+        # 31 Oct: videos are no longer kept (the free 0.5 GB of artifact storage filled up in two weeks); the contact
+        # sheet in content/previews/ is the review copy. Only the small files are kept, for one day.
         if: ${{ always() && github.event_name != 'schedule' }}
         continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
           name: video-${{ github.run_number }}
           path: |
-            output/*/*.mp4
             output/*/thumbnail.jpg
             output/*/captions.ass
             output/summary.json
           if-no-files-found: ignore
-          retention-days: 3
+          retention-days: 1
 
       - name: Keep today's finished videos for cross-posting (Instagram, Reddit)
         # Uploaded videos are attached to a release named after the day (IST), so they can be downloaded on
