@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-31T13:28:24+00:00",
+  "updated_at": "2026-10-31T14:42:51+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 58,
     "channel_views": 45937,
-    "video_count": 159
+    "video_count": 160
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/UYo-aCcD5oA"
+      "https://youtube.com/shorts/VAHBFzaup4g"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/UYo-aCcD5oA"
+      "https://youtube.com/shorts/VAHBFzaup4g"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/UYo-aCcD5oA"
+      "https://youtube.com/shorts/VAHBFzaup4g"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 158,
-  "total_views": 46741,
+  "total_videos": 159,
+  "total_views": 46801,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 99,
-      "avg_views": 283,
+      "videos": 100,
+      "avg_views": 281,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 142,
-      "avg_views": 281,
+      "videos": 143,
+      "avg_views": 280,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 72,
+      "videos": 73,
       "avg_views": 118
     },
     "en-US-BrianNeural": {
@@ -1034,8 +1034,8 @@
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
       "published_at": "2026-10-31T12:10:01Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 1,
+      "views": 7,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
     },
@@ -3234,7 +3234,7 @@
       "hook": "A wildfire once spun up a tornado made of fire.",
       "published_at": "2026-10-31T00:10:10Z",
       "privacy": "public",
-      "views": 25,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ"
@@ -3538,7 +3538,7 @@
       "hook": "Male anglerfish permanently melt into the female's body.",
       "published_at": "2026-10-23T18:00:14Z",
       "privacy": "public",
-      "views": 106,
+      "views": 107,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A",
@@ -3678,7 +3678,7 @@
       "hook": "An elephant sniffs air in at 330 miles per hour.",
       "published_at": "2026-10-29T12:20:01Z",
       "privacy": "public",
-      "views": 96,
+      "views": 103,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/oHOSiC4XktU"
@@ -3754,7 +3754,7 @@
       "hook": "An ant's jaws can close at up to 145 miles an hour.",
       "published_at": "2026-10-29T16:30:10Z",
       "privacy": "public",
-      "views": 152,
+      "views": 158,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4"
@@ -3778,7 +3778,7 @@
       "hook": "A wasp turns cockroaches into zombies.",
       "published_at": "2026-10-29T18:00:29Z",
       "privacy": "public",
-      "views": 931,
+      "views": 934,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/qR2EsU5H4ZM"
@@ -3802,7 +3802,7 @@
       "hook": "This fish leaps out of the water and catches flying birds.",
       "published_at": "2026-10-29T18:20:15Z",
       "privacy": "public",
-      "views": 46,
+      "views": 47,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QsLlW3CpAWM"
@@ -3966,7 +3966,7 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 152,
+      "views": 161,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY"
@@ -4018,7 +4018,7 @@
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
       "published_at": "2026-10-29T21:20:18Z",
       "privacy": "public",
-      "views": 93,
+      "views": 95,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA"
@@ -4238,8 +4238,8 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 332,
-      "likes": 1,
+      "views": 344,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
     },
@@ -4314,7 +4314,7 @@
       "hook": "Praying mantises catch and eat live birds.",
       "published_at": "2026-10-30T15:30:08Z",
       "privacy": "public",
-      "views": 83,
+      "views": 78,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys"
@@ -4366,7 +4366,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 87,
+      "views": 90,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU"
@@ -4414,7 +4414,7 @@
       "hook": "Satellites found 1.5 million penguins by spotting their poop.",
       "published_at": "2026-10-30T19:50:22Z",
       "privacy": "public",
-      "views": 40,
+      "views": 50,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hs38proZTyc"
@@ -4486,20 +4486,20 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 15,
-      "likes": 0,
+      "views": 18,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA"
     },
     "UYo-aCcD5oA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4508,12 +4508,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Elephants have names. Scientists finally proved it.",
-      "published_at": "2026-10-31T13:28:02Z",
+      "published_at": "2026-10-31T14:00:11Z",
+      "privacy": "public",
+      "views": 3,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/UYo-aCcD5oA"
+    },
+    "VAHBFzaup4g": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "How Does an Electric Eel Shock Something Above the Water? It Jumps",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "An electric eel can shock things that aren't even in the water. Here's how.",
+      "published_at": "2026-10-31T14:42:40Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/UYo-aCcD5oA"
+      "url": "https://youtube.com/shorts/VAHBFzaup4g"
     },
     "VuyOz5b3Dk8": {
       "upload_status": "processed",
