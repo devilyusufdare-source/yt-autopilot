@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-31T19:21:39+00:00",
+  "updated_at": "2026-10-31T20:43:24+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 59,
-    "channel_views": 45937,
-    "video_count": 163
+    "channel_views": 46757,
+    "video_count": 164
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Zl1SdlXN0H0"
+      "https://youtube.com/shorts/PXVQE8MFDkM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Zl1SdlXN0H0"
+      "https://youtube.com/shorts/PXVQE8MFDkM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Zl1SdlXN0H0"
+      "https://youtube.com/shorts/PXVQE8MFDkM"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 162,
-  "total_views": 47071,
+  "total_videos": 163,
+  "total_views": 47092,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 103,
-      "avg_views": 275,
+      "videos": 104,
+      "avg_views": 273,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 146,
-      "avg_views": 276,
+      "videos": 147,
+      "avg_views": 274,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 76,
-      "avg_views": 116
+      "videos": 77,
+      "avg_views": 115
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1282,7 +1282,7 @@
       "hook": "Almost every turtle on this reef is female.",
       "published_at": "2026-10-30T00:10:36Z",
       "privacy": "public",
-      "views": 97,
+      "views": 98,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/SVJipZiOpJM",
@@ -4050,7 +4050,7 @@
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
       "published_at": "2026-10-29T21:20:18Z",
       "privacy": "public",
-      "views": 98,
+      "views": 100,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA",
@@ -4326,7 +4326,7 @@
       "hook": "A blue whale swallows more than its own weight.",
       "published_at": "2026-10-30T15:00:13Z",
       "privacy": "public",
-      "views": 97,
+      "views": 102,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY"
@@ -4350,7 +4350,7 @@
       "hook": "Praying mantises catch and eat live birds.",
       "published_at": "2026-10-30T15:30:08Z",
       "privacy": "public",
-      "views": 91,
+      "views": 99,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys"
@@ -4426,7 +4426,7 @@
       "hook": "This bird that cannot fly runs 45 miles an hour.",
       "published_at": "2026-10-30T18:20:23Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/c1_iRJblyEI"
@@ -4498,7 +4498,7 @@
       "hook": "Dung beetles steer by the Milky Way.",
       "published_at": "2026-10-30T22:40:40Z",
       "privacy": "public",
-      "views": 13,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/C3SZcCFa7Vw"
@@ -4546,7 +4546,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 77,
+      "views": 75,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
@@ -4652,14 +4652,14 @@
       "url": "https://youtube.com/shorts/RzL3iaVRiV4"
     },
     "Zl1SdlXN0H0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4668,12 +4668,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A gas company once found its pipeline leaks by following vultures.",
-      "published_at": "2026-10-31T19:21:29Z",
+      "published_at": "2026-10-31T19:50:12Z",
+      "privacy": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/Zl1SdlXN0H0"
+    },
+    "PXVQE8MFDkM": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Sand tiger shark pups fight to the death before birth",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Some shark pups fight to the death before they are born.",
+      "published_at": "2026-10-31T20:43:15Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/Zl1SdlXN0H0"
+      "url": "https://youtube.com/shorts/PXVQE8MFDkM"
     },
     "nUqBVOHGP2c": {
       "upload_status": "processed",
@@ -4694,7 +4718,7 @@
       "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
       "published_at": "2026-10-30T02:40:36Z",
       "privacy": "public",
-      "views": 73,
+      "views": 74,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c",
