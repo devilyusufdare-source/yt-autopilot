@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-10-31T04:02:06+00:00",
+  "updated_at": "2026-10-31T13:26:08+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 11,
-    "channel_views": 7977,
+    "channel_views": 9335,
     "video_count": 23
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/MwU7gIiJAtk"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/MwU7gIiJAtk"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/MwU7gIiJAtk"
+    ]
   },
   "retention": {
     "videos_with_data": 17,
@@ -50,7 +56,7 @@
       },
       {
         "title": "What If the Sun Went Out Right Now?",
-        "avg_view_percent": 70.5,
+        "avg_view_percent": 70.3,
         "views": 427
       }
     ],
@@ -58,7 +64,7 @@
       {
         "title": "What If You Traveled at 99 Percent the Speed of Light?",
         "avg_view_percent": 32.1,
-        "views": 67
+        "views": 68
       },
       {
         "title": "What If the Moon Disappeared Tonight?",
@@ -67,7 +73,7 @@
       },
       {
         "title": "What If You Fell Into a Black Hole?",
-        "avg_view_percent": 51.7,
+        "avg_view_percent": 52.1,
         "views": 245
       },
       {
@@ -83,17 +89,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 23,
-  "total_views": 9857,
+  "total_videos": 24,
+  "total_views": 10702,
   "by_topic": {
     "earth": {
       "videos": 5,
-      "avg_views": 587,
-      "best_views": 1075
+      "avg_views": 588,
+      "best_views": 1077
     },
     "space": {
       "videos": 12,
-      "avg_views": 351,
+      "avg_views": 356,
       "best_views": 1281
     },
     "society": {
@@ -107,31 +113,31 @@
       "best_views": 1424
     },
     "body": {
-      "videos": 3,
-      "avg_views": 235,
-      "best_views": 498
+      "videos": 4,
+      "avg_views": 181,
+      "best_views": 499
     },
     "technology": {
       "videos": 1,
-      "avg_views": 171,
-      "best_views": 171
+      "avg_views": 934,
+      "best_views": 934
     }
   },
   "by_style": {
     "classic": {
-      "videos": 23,
-      "avg_views": 429,
+      "videos": 24,
+      "avg_views": 446,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 22,
-      "avg_views": 440
+      "videos": 23,
+      "avg_views": 425
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 171
+      "avg_views": 934
     }
   },
   "top_videos": [
@@ -156,7 +162,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1075,
+      "views": 1077,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -166,9 +172,15 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
+      "title": "What If We Launched Our Nuclear Waste Into the Sun?",
+      "topic": "technology",
+      "views": 934,
+      "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
+    },
+    {
       "title": "What If You Never Slept Again?",
       "topic": "body",
-      "views": 498,
+      "views": 499,
       "hook": "What if you never slept again? Day one feels fine. It isn't."
     },
     {
@@ -188,12 +200,6 @@
       "topic": "society",
       "views": 414,
       "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
-    },
-    {
-      "title": "What If You Stood on Saturn's Moon Titan?",
-      "topic": "space",
-      "views": 292,
-      "hook": "What if you stood on Titan? It's the easiest place in the solar system to fly."
     }
   ],
   "videos": {
@@ -389,7 +395,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/a9uI0J8lYDA",
       "avg_view_seconds": 25.0,
-      "avg_view_percent": 70.5,
+      "avg_view_percent": 70.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -417,7 +423,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/PyXFeRMftHU",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 51.7,
+      "avg_view_percent": 52.1,
       "shares": 0,
       "subscribers_gained": 2
     },
@@ -440,7 +446,7 @@
       "hook": "What if you never slept again? Day one feels fine. It isn't.",
       "published_at": "2026-10-27T02:15:23Z",
       "privacy": "public",
-      "views": 498,
+      "views": 499,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/6nUPnY94QPA",
@@ -580,7 +586,7 @@
       "hook": "What if you flew at 99 percent of light speed? Your clock would run seven times slower.",
       "published_at": "2026-10-28T14:00:34Z",
       "privacy": "public",
-      "views": 67,
+      "views": 68,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/hJIo0ee4tPA",
@@ -664,7 +670,7 @@
       "hook": "What if sound traveled through space? You'd hear the Sun, and it would arrive years late.",
       "published_at": "2026-10-29T14:10:27Z",
       "privacy": "public",
-      "views": 173,
+      "views": 180,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y"
@@ -688,7 +694,7 @@
       "hook": "What if you floated into space with no suit? You wouldn't explode. The truth is stranger.",
       "published_at": "2026-10-30T14:10:27Z",
       "privacy": "public",
-      "views": 97,
+      "views": 115,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/vRwTuMJXX7Q"
@@ -712,7 +718,7 @@
       "hook": "What if a quiet lake suddenly breathed out a deadly cloud? In 1986, one did.",
       "published_at": "2026-10-30T16:50:05Z",
       "privacy": "public",
-      "views": 281,
+      "views": 284,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/6MBak6NID4o"
@@ -736,7 +742,7 @@
       "hook": "What if the whole asteroid belt became one planet? It would be smaller than Pluto.",
       "published_at": "2026-10-30T21:10:24Z",
       "privacy": "public",
-      "views": 236,
+      "views": 286,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rcXHfkgMvcU"
@@ -760,10 +766,34 @@
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
-      "views": 171,
-      "likes": 2,
+      "views": 934,
+      "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8"
+    },
+    "MwU7gIiJAtk": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Stopped Eating for a Whole Year?",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you stopped eating for a whole year? One man did. The ending is the strange part.",
+      "published_at": "2026-10-31T13:26:03Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/MwU7gIiJAtk"
     },
     "ZUqekDSPv74": {
       "upload_status": "processed",
@@ -784,7 +814,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1075,
+      "views": 1077,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74"

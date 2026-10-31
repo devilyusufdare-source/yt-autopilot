@@ -52,5 +52,21 @@
   ],
   "thumbnail_text": "382 DAYS WITHOUT FOOD",
   "priority": 7,
-  "first_comment": "Could you last even one week without food? What should we run through next?"
+  "first_comment": "Could you last even one week without food? What should we run through next?",
+  "youtube_id": "MwU7gIiJAtk",
+  "url": "https://youtube.com/shorts/MwU7gIiJAtk",
+  "uploaded_at": "2026-10-31T13:26:07+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-31T13:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FDA4AF",
+  "duration_seconds": 40.3,
+  "style": "classic",
+  "kind": "shorts"
 }
