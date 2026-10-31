@@ -1,0 +1,70 @@
+{
+  "id": "2029-06-14-five-best-selling-cars-ranked",
+  "format": "ranking",
+  "ranking_by": "units sold per nameplate",
+  "topic": "technology",
+  "title": "The 5 Best-Selling Cars of All Time, Ranked (#1 Hits 50 Million)",
+  "scenes": [
+    {
+      "text": "The five best-selling cars ever. The Beetle and the Model T don't even make the list.",
+      "keywords": "car assembly line"
+    },
+    {
+      "rank": 5,
+      "label": "Honda Civic · 27M+",
+      "text": "Number five: the Honda Civic. Over twenty-seven million sold since nineteen seventy-two, and still being built.",
+      "keywords": "honda civic"
+    },
+    {
+      "rank": 4,
+      "label": "VW Passat · 30M+",
+      "text": "Number four: the Volkswagen Passat. Volkswagen built its thirty millionth in twenty nineteen, and it's still going.",
+      "keywords": "volkswagen passat"
+    },
+    {
+      "rank": 3,
+      "label": "VW Golf · 35M+",
+      "text": "Number three: the Volkswagen Golf. Over thirty-five million sold since nineteen seventy-four.",
+      "keywords": "volkswagen golf"
+    },
+    {
+      "rank": 2,
+      "label": "Ford F-Series · 42M+",
+      "text": "Number two: the Ford F-Series pickup. Over forty-two million trucks sold since nineteen forty-eight.",
+      "keywords": "ford f-150 pickup truck"
+    },
+    {
+      "rank": 1,
+      "label": "Corolla · 50M",
+      "text": "Number one: the Toyota Corolla. Fifty million sold since nineteen sixty-six, more than any other car in history.",
+      "keywords": "toyota corolla"
+    }
+  ],
+  "description": "The five best-selling car nameplates ever, ranked by units sold.\nThe Beetle and the Model T are not on the list, and the winner passed 50 million sales.\nWhich car would you have bet on for number one?",
+  "tags": [
+    "best selling cars",
+    "toyota corolla",
+    "ford f-series",
+    "volkswagen golf",
+    "honda civic",
+    "volkswagen passat",
+    "car facts",
+    "technology rankings",
+    "top 5 cars",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#cars",
+    "#ranking",
+    "#carfacts"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_best-selling_automobiles",
+    "https://www.autoindustriya.com/features/all-time-best-sellers-50-m-toyota-corolla-to-ford-model-t.html",
+    "https://www.autoblog.com/2019/04/05/vw-builds-30-millionth-passat/"
+  ],
+  "thumbnail_text": "5 BEST-SELLING CARS, RANKED",
+  "priority": 5,
+  "first_comment": "Which car did you expect at number one? And what should we rank next?"
+}
