@@ -55,5 +55,21 @@
   ],
   "thumbnail_text": "FROG HIDES ITS OWN BLOOD",
   "priority": 7,
-  "first_comment": "The blood goes to the liver without clotting. Scientists want to know how. Any guesses?"
+  "first_comment": "The blood goes to the liver without clotting. Scientists want to know how. Any guesses?",
+  "youtube_id": "rf0TPyQvKzA",
+  "url": "https://youtube.com/shorts/rf0TPyQvKzA",
+  "uploaded_at": "2026-10-31T02:11:52+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-31T02:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 8,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 23.1,
+  "style": "classic",
+  "kind": "shorts"
 }
