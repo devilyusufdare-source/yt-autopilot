@@ -1,0 +1,57 @@
+{
+  "id": "2029-09-08-what-if-every-car-drove-itself",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If Every Car Drove Itself? It Wouldn't Fix Most Crashes",
+  "scenes": [
+    {
+      "text": "What if every car on Earth drove itself? It still wouldn't stop most crashes.",
+      "keywords": "self driving car road"
+    },
+    {
+      "text": "Researchers at the IIHS studied more than 5,000 real crashes across the United States.",
+      "keywords": "car crash highway traffic"
+    },
+    {
+      "text": "Then they asked which ones a perfect robot driver would have prevented.",
+      "keywords": "autonomous car sensors"
+    },
+    {
+      "text": "Only about one third. Those are crashes from missed sightings, or a driver who was incapacitated.",
+      "keywords": "driver looking at road"
+    },
+    {
+      "text": "The other two thirds came from bad judgment, like misreading another driver's next move, or the wrong speed for the road.",
+      "keywords": "busy intersection cars"
+    },
+    {
+      "text": "So a robot has to be a better guesser than a person, not just a better watcher.",
+      "keywords": "self driving car dashboard"
+    }
+  ],
+  "description": "What if every car on Earth drove itself?\nAn IIHS study of more than 5,000 crashes found robots might prevent only about a third of them.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "self driving cars",
+    "autonomous vehicles",
+    "road safety",
+    "IIHS",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#selfdriving",
+    "#technology"
+  ],
+  "sources": [
+    "https://www.consumerreports.org/autonomous-driving/self-driving-cars-may-prevent-only-a-third-of-crashes-iihs",
+    "https://amp.claimsjournal.com/news/national/2020/06/04/297427.htm"
+  ],
+  "thumbnail_text": "ROBOT DRIVERS: ONLY 1 IN 3",
+  "first_comment": "Would you trust a self-driving car with your family? Drop your own what-if below."
+}
