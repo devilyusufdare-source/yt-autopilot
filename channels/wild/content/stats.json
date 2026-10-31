@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-31T13:26:08+00:00",
+  "updated_at": "2026-10-31T16:09:44+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 11,
     "channel_views": 9335,
-    "video_count": 23
+    "video_count": 24
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/MwU7gIiJAtk"
+      "https://youtube.com/shorts/uirFWqmtLZs"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/MwU7gIiJAtk"
+      "https://youtube.com/shorts/uirFWqmtLZs"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/MwU7gIiJAtk"
+      "https://youtube.com/shorts/uirFWqmtLZs"
     ]
   },
   "retention": {
@@ -89,8 +89,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 24,
-  "total_views": 10702,
+  "total_videos": 25,
+  "total_views": 10728,
   "by_topic": {
     "earth": {
       "videos": 5,
@@ -103,8 +103,8 @@
       "best_views": 1281
     },
     "society": {
-      "videos": 1,
-      "avg_views": 414,
+      "videos": 2,
+      "avg_views": 207,
       "best_views": 414
     },
     "animals": {
@@ -114,30 +114,30 @@
     },
     "body": {
       "videos": 4,
-      "avg_views": 181,
+      "avg_views": 184,
       "best_views": 499
     },
     "technology": {
       "videos": 1,
-      "avg_views": 934,
-      "best_views": 934
+      "avg_views": 944,
+      "best_views": 944
     }
   },
   "by_style": {
     "classic": {
-      "videos": 24,
-      "avg_views": 446,
+      "videos": 25,
+      "avg_views": 429,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 23,
-      "avg_views": 425
+      "videos": 24,
+      "avg_views": 408
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 934
+      "avg_views": 944
     }
   },
   "top_videos": [
@@ -174,7 +174,7 @@
     {
       "title": "What If We Launched Our Nuclear Waste Into the Sun?",
       "topic": "technology",
-      "views": 934,
+      "views": 944,
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
     },
     {
@@ -670,7 +670,7 @@
       "hook": "What if sound traveled through space? You'd hear the Sun, and it would arrive years late.",
       "published_at": "2026-10-29T14:10:27Z",
       "privacy": "public",
-      "views": 180,
+      "views": 181,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y"
@@ -766,12 +766,36 @@
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
-      "views": 934,
+      "views": 944,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8"
     },
     "MwU7gIiJAtk": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT41S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Stopped Eating for a Whole Year?",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you stopped eating for a whole year? One man did. The ending is the strange part.",
+      "published_at": "2026-10-31T13:50:09Z",
+      "privacy": "public",
+      "views": 15,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/MwU7gIiJAtk"
+    },
+    "uirFWqmtLZs": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -783,17 +807,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Stopped Eating for a Whole Year?",
-      "topic": "body",
+      "title": "What If Daylight Saving Time Never Ended?",
+      "topic": "society",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you stopped eating for a whole year? One man did. The ending is the strange part.",
-      "published_at": "2026-10-31T13:26:03Z",
+      "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
+      "published_at": "2026-10-31T16:09:40Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/MwU7gIiJAtk"
+      "url": "https://youtube.com/shorts/uirFWqmtLZs"
     },
     "ZUqekDSPv74": {
       "upload_status": "processed",
