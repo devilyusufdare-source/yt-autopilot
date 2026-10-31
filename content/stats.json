@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-31T11:41:34+00:00",
+  "updated_at": "2026-10-31T13:28:24+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 58,
     "channel_views": 45937,
-    "video_count": 158
+    "video_count": 159
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/lBMAQUOlFT0"
+      "https://youtube.com/shorts/UYo-aCcD5oA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/lBMAQUOlFT0"
+      "https://youtube.com/shorts/UYo-aCcD5oA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/lBMAQUOlFT0"
+      "https://youtube.com/shorts/UYo-aCcD5oA"
     ]
   },
   "retention": {
@@ -71,7 +71,7 @@
       {
         "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
         "avg_view_percent": 22.6,
-        "views": 60
+        "views": 61
       },
       {
         "title": "The Shortest War in History Lasted 38 Minutes",
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 157,
-  "total_views": 46689,
+  "total_videos": 158,
+  "total_views": 46741,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 98,
-      "avg_views": 286,
+      "videos": 99,
+      "avg_views": 283,
       "best_views": 1507
     },
     "human body": {
@@ -121,7 +121,7 @@
     },
     "space": {
       "videos": 21,
-      "avg_views": 393,
+      "avg_views": 394,
       "best_views": 1513
     },
     "technology": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 141,
-      "avg_views": 283,
+      "videos": 142,
+      "avg_views": 281,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 71,
-      "avg_views": 119
+      "videos": 72,
+      "avg_views": 118
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -922,7 +922,7 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 60,
+      "views": 61,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k",
@@ -1016,14 +1016,14 @@
       "subscribers_gained": 0
     },
     "lBMAQUOlFT0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1032,11 +1032,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
-      "published_at": "2026-10-31T11:41:25Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-10-31T12:10:01Z",
+      "privacy": "public",
+      "views": 4,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
     },
     "pNq_22cuP4E": {
@@ -2762,7 +2762,7 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 38,
+      "views": 39,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/l57MjoYS9NY",
@@ -3182,7 +3182,7 @@
       "hook": "Lava once shot nineteen hundred feet into the air.",
       "published_at": "2026-10-29T22:40:34Z",
       "privacy": "public",
-      "views": 75,
+      "views": 76,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8HPrrfRBnJA"
@@ -3730,7 +3730,7 @@
       "hook": "This shrimp snaps its claw and makes a sound louder than a gunshot.",
       "published_at": "2026-10-29T15:00:17Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0wfI9vjWDs0"
@@ -3778,7 +3778,7 @@
       "hook": "A wasp turns cockroaches into zombies.",
       "published_at": "2026-10-29T18:00:29Z",
       "privacy": "public",
-      "views": 925,
+      "views": 931,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/qR2EsU5H4ZM"
@@ -3966,7 +3966,7 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 145,
+      "views": 152,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY"
@@ -4018,7 +4018,7 @@
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
       "published_at": "2026-10-29T21:20:18Z",
       "privacy": "public",
-      "views": 90,
+      "views": 93,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA"
@@ -4290,7 +4290,7 @@
       "hook": "A blue whale swallows more than its own weight.",
       "published_at": "2026-10-30T15:00:13Z",
       "privacy": "public",
-      "views": 88,
+      "views": 91,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY"
@@ -4314,7 +4314,7 @@
       "hook": "Praying mantises catch and eat live birds.",
       "published_at": "2026-10-30T15:30:08Z",
       "privacy": "public",
-      "views": 78,
+      "views": 83,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys"
@@ -4366,7 +4366,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 82,
+      "views": 87,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU"
@@ -4390,7 +4390,7 @@
       "hook": "This bird that cannot fly runs 45 miles an hour.",
       "published_at": "2026-10-30T18:20:23Z",
       "privacy": "public",
-      "views": 34,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/c1_iRJblyEI"
@@ -4414,7 +4414,7 @@
       "hook": "Satellites found 1.5 million penguins by spotting their poop.",
       "published_at": "2026-10-30T19:50:22Z",
       "privacy": "public",
-      "views": 39,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hs38proZTyc"
@@ -4462,7 +4462,7 @@
       "hook": "Dung beetles steer by the Milky Way.",
       "published_at": "2026-10-30T22:40:40Z",
       "privacy": "public",
-      "views": 8,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/C3SZcCFa7Vw"
@@ -4486,10 +4486,34 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 11,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA"
+    },
+    "UYo-aCcD5oA": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Elephants Call Each Other by Name, Scientists Proved",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Elephants have names. Scientists finally proved it.",
+      "published_at": "2026-10-31T13:28:02Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/UYo-aCcD5oA"
     },
     "VuyOz5b3Dk8": {
       "upload_status": "processed",
@@ -4538,7 +4562,7 @@
       "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
       "published_at": "2026-10-30T02:40:36Z",
       "privacy": "public",
-      "views": 63,
+      "views": 67,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c"
