@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-31T16:09:44+00:00",
+  "updated_at": "2026-10-31T18:46:37+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 11,
     "channel_views": 9335,
-    "video_count": 24
+    "video_count": 25
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/uirFWqmtLZs"
+      "https://youtube.com/shorts/ZzVBYBDzKGA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/uirFWqmtLZs"
+      "https://youtube.com/shorts/ZzVBYBDzKGA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/uirFWqmtLZs"
+      "https://youtube.com/shorts/ZzVBYBDzKGA"
     ]
   },
   "retention": {
@@ -89,22 +89,22 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 25,
-  "total_views": 10728,
+  "total_videos": 26,
+  "total_views": 10795,
   "by_topic": {
     "earth": {
       "videos": 5,
-      "avg_views": 588,
-      "best_views": 1077
+      "avg_views": 589,
+      "best_views": 1081
     },
     "space": {
-      "videos": 12,
-      "avg_views": 356,
+      "videos": 13,
+      "avg_views": 328,
       "best_views": 1281
     },
     "society": {
       "videos": 2,
-      "avg_views": 207,
+      "avg_views": 227,
       "best_views": 414
     },
     "animals": {
@@ -114,30 +114,30 @@
     },
     "body": {
       "videos": 4,
-      "avg_views": 184,
+      "avg_views": 189,
       "best_views": 499
     },
     "technology": {
       "videos": 1,
-      "avg_views": 944,
-      "best_views": 944
+      "avg_views": 948,
+      "best_views": 948
     }
   },
   "by_style": {
     "classic": {
-      "videos": 25,
-      "avg_views": 429,
+      "videos": 26,
+      "avg_views": 415,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 24,
-      "avg_views": 408
+      "videos": 25,
+      "avg_views": 394
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 944
+      "avg_views": 948
     }
   },
   "top_videos": [
@@ -162,7 +162,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1077,
+      "views": 1081,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -174,7 +174,7 @@
     {
       "title": "What If We Launched Our Nuclear Waste Into the Sun?",
       "topic": "technology",
-      "views": 944,
+      "views": 948,
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
     },
     {
@@ -694,7 +694,7 @@
       "hook": "What if you floated into space with no suit? You wouldn't explode. The truth is stranger.",
       "published_at": "2026-10-30T14:10:27Z",
       "privacy": "public",
-      "views": 115,
+      "views": 118,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/vRwTuMJXX7Q"
@@ -766,7 +766,7 @@
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
-      "views": 944,
+      "views": 948,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8"
@@ -790,12 +790,36 @@
       "hook": "What if you stopped eating for a whole year? One man did. The ending is the strange part.",
       "published_at": "2026-10-31T13:50:09Z",
       "privacy": "public",
-      "views": 15,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MwU7gIiJAtk"
     },
     "uirFWqmtLZs": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT38S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Daylight Saving Time Never Ended?",
+      "topic": "society",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
+      "published_at": "2026-10-31T16:30:24Z",
+      "privacy": "public",
+      "views": 40,
+      "likes": 3,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/uirFWqmtLZs"
+    },
+    "ZzVBYBDzKGA": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -807,17 +831,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If Daylight Saving Time Never Ended?",
-      "topic": "society",
+      "title": "What If It Rained Diamonds? Neptune May Have",
+      "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
-      "published_at": "2026-10-31T16:09:40Z",
+      "hook": "What if it rained diamonds? Deep inside Neptune and Uranus, scientists think it does.",
+      "published_at": "2026-10-31T18:46:30Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/uirFWqmtLZs"
+      "url": "https://youtube.com/shorts/ZzVBYBDzKGA"
     },
     "ZUqekDSPv74": {
       "upload_status": "processed",
@@ -838,7 +862,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1077,
+      "views": 1081,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74"
