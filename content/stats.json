@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T04:01:43+00:00",
+  "updated_at": "2026-10-31T11:41:34+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,13 +9,19 @@
     "video_count": 158
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/lBMAQUOlFT0"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/lBMAQUOlFT0"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/lBMAQUOlFT0"
+    ]
   },
   "retention": {
     "videos_with_data": 134,
@@ -85,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 156,
-  "total_views": 46141,
+  "total_videos": 157,
+  "total_views": 46689,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -95,12 +101,12 @@
     },
     "science": {
       "videos": 19,
-      "avg_views": 289,
+      "avg_views": 291,
       "best_views": 1648
     },
     "animals": {
       "videos": 98,
-      "avg_views": 281,
+      "avg_views": 286,
       "best_views": 1507
     },
     "human body": {
@@ -110,12 +116,12 @@
     },
     "history": {
       "videos": 10,
-      "avg_views": 184,
-      "best_views": 1110
+      "avg_views": 185,
+      "best_views": 1112
     },
     "space": {
-      "videos": 20,
-      "avg_views": 413,
+      "videos": 21,
+      "avg_views": 393,
       "best_views": 1513
     },
     "technology": {
@@ -126,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 140,
-      "avg_views": 281,
+      "videos": 141,
+      "avg_views": 283,
       "over_1500": 3
     },
     "punch": {
@@ -138,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 70,
-      "avg_views": 113
+      "videos": 71,
+      "avg_views": 119
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -944,7 +950,7 @@
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
       "published_at": "2026-10-27T02:30:38Z",
       "privacy": "public",
-      "views": 114,
+      "views": 115,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8",
@@ -1008,6 +1014,30 @@
       "avg_view_percent": 60.5,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "lBMAQUOlFT0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Largest Moons in the Solar System, Ranked (#1 Beats a Planet)",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
+      "published_at": "2026-10-31T11:41:25Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/lBMAQUOlFT0"
     },
     "pNq_22cuP4E": {
       "upload_status": "processed",
@@ -1252,7 +1282,7 @@
       "hook": "Almost every turtle on this reef is female.",
       "published_at": "2026-10-30T00:10:36Z",
       "privacy": "public",
-      "views": 70,
+      "views": 86,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/SVJipZiOpJM"
@@ -1360,7 +1390,7 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 1110,
+      "views": 1112,
       "likes": 25,
       "comments": 3,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k",
@@ -1444,7 +1474,7 @@
       "hook": "The slowest-spinning planet is not the one closest to the Sun.",
       "published_at": "2026-10-28T00:00:10Z",
       "privacy": "public",
-      "views": 41,
+      "views": 42,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhWj8eW74zg",
@@ -3152,7 +3182,7 @@
       "hook": "Lava once shot nineteen hundred feet into the air.",
       "published_at": "2026-10-29T22:40:34Z",
       "privacy": "public",
-      "views": 63,
+      "views": 75,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8HPrrfRBnJA"
@@ -3204,7 +3234,7 @@
       "hook": "A wildfire once spun up a tornado made of fire.",
       "published_at": "2026-10-31T00:10:10Z",
       "privacy": "public",
-      "views": 2,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ"
@@ -3256,7 +3286,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 415,
+      "views": 416,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -3368,7 +3398,7 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 572,
+      "views": 573,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM",
@@ -3396,7 +3426,7 @@
       "hook": "Scientists filmed a deep-sea creature 150 feet long.",
       "published_at": "2026-10-23T15:10:07Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MJ6FRS8q71M",
@@ -3536,7 +3566,7 @@
       "hook": "Some adult insects live for less than five minutes.",
       "published_at": "2026-10-23T19:40:06Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xf0BF_g7K8o",
@@ -3620,7 +3650,7 @@
       "hook": "Orcas throw themselves onto a beach to catch their dinner.",
       "published_at": "2026-10-29T02:40:02Z",
       "privacy": "public",
-      "views": 143,
+      "views": 145,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/tB1PyAE5HZs",
@@ -3648,7 +3678,7 @@
       "hook": "An elephant sniffs air in at 330 miles per hour.",
       "published_at": "2026-10-29T12:20:01Z",
       "privacy": "public",
-      "views": 80,
+      "views": 96,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/oHOSiC4XktU"
@@ -3700,7 +3730,7 @@
       "hook": "This shrimp snaps its claw and makes a sound louder than a gunshot.",
       "published_at": "2026-10-29T15:00:17Z",
       "privacy": "public",
-      "views": 29,
+      "views": 34,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0wfI9vjWDs0"
@@ -3724,7 +3754,7 @@
       "hook": "An ant's jaws can close at up to 145 miles an hour.",
       "published_at": "2026-10-29T16:30:10Z",
       "privacy": "public",
-      "views": 134,
+      "views": 152,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4"
@@ -3748,8 +3778,8 @@
       "hook": "A wasp turns cockroaches into zombies.",
       "published_at": "2026-10-29T18:00:29Z",
       "privacy": "public",
-      "views": 825,
-      "likes": 2,
+      "views": 925,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/qR2EsU5H4ZM"
     },
@@ -3772,7 +3802,7 @@
       "hook": "This fish leaps out of the water and catches flying birds.",
       "published_at": "2026-10-29T18:20:15Z",
       "privacy": "public",
-      "views": 41,
+      "views": 46,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QsLlW3CpAWM"
@@ -3936,7 +3966,7 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 129,
+      "views": 145,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY"
@@ -3988,7 +4018,7 @@
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
       "published_at": "2026-10-29T21:20:18Z",
       "privacy": "public",
-      "views": 85,
+      "views": 90,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA"
@@ -4040,7 +4070,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 31,
+      "views": 32,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM",
@@ -4068,7 +4098,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 124,
+      "views": 126,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU",
@@ -4208,8 +4238,8 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 214,
-      "likes": 0,
+      "views": 332,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
     },
@@ -4260,8 +4290,8 @@
       "hook": "A blue whale swallows more than its own weight.",
       "published_at": "2026-10-30T15:00:13Z",
       "privacy": "public",
-      "views": 30,
-      "likes": 1,
+      "views": 88,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY"
     },
@@ -4284,8 +4314,8 @@
       "hook": "Praying mantises catch and eat live birds.",
       "published_at": "2026-10-30T15:30:08Z",
       "privacy": "public",
-      "views": 32,
-      "likes": 1,
+      "views": 78,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys"
     },
@@ -4336,7 +4366,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 48,
+      "views": 82,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU"
@@ -4360,7 +4390,7 @@
       "hook": "This bird that cannot fly runs 45 miles an hour.",
       "published_at": "2026-10-30T18:20:23Z",
       "privacy": "public",
-      "views": 22,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/c1_iRJblyEI"
@@ -4384,7 +4414,7 @@
       "hook": "Satellites found 1.5 million penguins by spotting their poop.",
       "published_at": "2026-10-30T19:50:22Z",
       "privacy": "public",
-      "views": 15,
+      "views": 39,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hs38proZTyc"
@@ -4408,7 +4438,7 @@
       "hook": "Jellyfish shut down a nuclear reactor.",
       "published_at": "2026-10-30T21:20:15Z",
       "privacy": "public",
-      "views": 12,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qRaw9tphoKk"
@@ -4432,7 +4462,7 @@
       "hook": "Dung beetles steer by the Milky Way.",
       "published_at": "2026-10-30T22:40:40Z",
       "privacy": "public",
-      "views": 6,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/C3SZcCFa7Vw"
@@ -4456,7 +4486,7 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 4,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA"
@@ -4508,7 +4538,7 @@
       "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
       "published_at": "2026-10-30T02:40:36Z",
       "privacy": "public",
-      "views": 56,
+      "views": 63,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c"

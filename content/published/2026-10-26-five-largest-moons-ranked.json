@@ -67,5 +67,21 @@
   ],
   "thumbnail_text": "5 BIGGEST MOONS, RANKED",
   "priority": 6,
-  "first_comment": "Which moon would you land on first? And what should we rank next?"
+  "first_comment": "Which moon would you land on first? And what should we rank next?",
+  "youtube_id": "lBMAQUOlFT0",
+  "url": "https://youtube.com/shorts/lBMAQUOlFT0",
+  "uploaded_at": "2026-10-31T11:41:32+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-31T12:10:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#7DD3FC",
+  "duration_seconds": 40.7,
+  "style": "classic",
+  "kind": "shorts"
 }
