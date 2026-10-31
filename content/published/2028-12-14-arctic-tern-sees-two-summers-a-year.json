@@ -52,5 +52,21 @@
   ],
   "thumbnail_text": "2 SUMMERS A YEAR. 44,000 MILES",
   "priority": 7,
-  "first_comment": "Which animal would you track next? Tell us and we'll cover it."
+  "first_comment": "Which animal would you track next? Tell us and we'll cover it.",
+  "youtube_id": "VTw9ctTNLLw",
+  "url": "https://youtube.com/shorts/VTw9ctTNLLw",
+  "uploaded_at": "2026-10-31T16:15:20+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-10-31T16:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 30.8,
+  "style": "classic",
+  "kind": "shorts"
 }

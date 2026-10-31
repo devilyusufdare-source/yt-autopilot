@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-31T14:42:51+00:00",
+  "updated_at": "2026-10-31T16:15:24+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 58,
     "channel_views": 45937,
-    "video_count": 160
+    "video_count": 161
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/VAHBFzaup4g"
+      "https://youtube.com/shorts/VTw9ctTNLLw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/VAHBFzaup4g"
+      "https://youtube.com/shorts/VTw9ctTNLLw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/VAHBFzaup4g"
+      "https://youtube.com/shorts/VTw9ctTNLLw"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 159,
-  "total_views": 46801,
+  "total_videos": 160,
+  "total_views": 46890,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,12 +101,12 @@
     },
     "science": {
       "videos": 19,
-      "avg_views": 291,
+      "avg_views": 292,
       "best_views": 1648
     },
     "animals": {
-      "videos": 100,
-      "avg_views": 281,
+      "videos": 101,
+      "avg_views": 279,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 143,
-      "avg_views": 280,
+      "videos": 144,
+      "avg_views": 278,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 73,
-      "avg_views": 118
+      "videos": 74,
+      "avg_views": 117
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1034,8 +1034,8 @@
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
       "published_at": "2026-10-31T12:10:01Z",
       "privacy": "public",
-      "views": 7,
-      "likes": 2,
+      "views": 12,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
     },
@@ -1282,7 +1282,7 @@
       "hook": "Almost every turtle on this reef is female.",
       "published_at": "2026-10-30T00:10:36Z",
       "privacy": "public",
-      "views": 86,
+      "views": 94,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/SVJipZiOpJM"
@@ -3182,7 +3182,7 @@
       "hook": "Lava once shot nineteen hundred feet into the air.",
       "published_at": "2026-10-29T22:40:34Z",
       "privacy": "public",
-      "views": 76,
+      "views": 78,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8HPrrfRBnJA"
@@ -3234,7 +3234,7 @@
       "hook": "A wildfire once spun up a tornado made of fire.",
       "published_at": "2026-10-31T00:10:10Z",
       "privacy": "public",
-      "views": 27,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ"
@@ -3730,7 +3730,7 @@
       "hook": "This shrimp snaps its claw and makes a sound louder than a gunshot.",
       "published_at": "2026-10-29T15:00:17Z",
       "privacy": "public",
-      "views": 35,
+      "views": 37,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0wfI9vjWDs0"
@@ -3754,7 +3754,7 @@
       "hook": "An ant's jaws can close at up to 145 miles an hour.",
       "published_at": "2026-10-29T16:30:10Z",
       "privacy": "public",
-      "views": 158,
+      "views": 156,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4"
@@ -3966,7 +3966,7 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 161,
+      "views": 165,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY"
@@ -4238,7 +4238,7 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 344,
+      "views": 353,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
@@ -4314,7 +4314,7 @@
       "hook": "Praying mantises catch and eat live birds.",
       "published_at": "2026-10-30T15:30:08Z",
       "privacy": "public",
-      "views": 78,
+      "views": 87,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys"
@@ -4366,7 +4366,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 90,
+      "views": 91,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU"
@@ -4390,7 +4390,7 @@
       "hook": "This bird that cannot fly runs 45 miles an hour.",
       "published_at": "2026-10-30T18:20:23Z",
       "privacy": "public",
-      "views": 37,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/c1_iRJblyEI"
@@ -4414,7 +4414,7 @@
       "hook": "Satellites found 1.5 million penguins by spotting their poop.",
       "published_at": "2026-10-30T19:50:22Z",
       "privacy": "public",
-      "views": 50,
+      "views": 58,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hs38proZTyc"
@@ -4438,7 +4438,7 @@
       "hook": "Jellyfish shut down a nuclear reactor.",
       "published_at": "2026-10-30T21:20:15Z",
       "privacy": "public",
-      "views": 23,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qRaw9tphoKk"
@@ -4462,7 +4462,7 @@
       "hook": "Dung beetles steer by the Milky Way.",
       "published_at": "2026-10-30T22:40:40Z",
       "privacy": "public",
-      "views": 11,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/C3SZcCFa7Vw"
@@ -4486,7 +4486,7 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 18,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA"
@@ -4510,12 +4510,36 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 3,
-      "likes": 0,
+      "views": 17,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
     },
     "VAHBFzaup4g": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT38S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "How Does an Electric Eel Shock Something Above the Water? It Jumps",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "An electric eel can shock things that aren't even in the water. Here's how.",
+      "published_at": "2026-10-31T15:10:39Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/VAHBFzaup4g"
+    },
+    "VTw9ctTNLLw": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -4527,17 +4551,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "How Does an Electric Eel Shock Something Above the Water? It Jumps",
+      "title": "This Bird Sees Two Summers a Year, 44,000 Miles Apart",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "An electric eel can shock things that aren't even in the water. Here's how.",
-      "published_at": "2026-10-31T14:42:40Z",
+      "hook": "One bird sees more daylight than any other animal. It weighs about three and a half ounces.",
+      "published_at": "2026-10-31T16:15:13Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/VAHBFzaup4g"
+      "url": "https://youtube.com/shorts/VTw9ctTNLLw"
     },
     "VuyOz5b3Dk8": {
       "upload_status": "processed",
@@ -4586,7 +4610,7 @@
       "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
       "published_at": "2026-10-30T02:40:36Z",
       "privacy": "public",
-      "views": 67,
+      "views": 71,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c"
