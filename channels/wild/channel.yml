@@ -72,13 +72,13 @@ looks:
   body:       { highlight_color: "#FDA4AF", voice: "en-US-AndrewNeural", zoom: 0.09 }
   society:    { highlight_color: "#FACC15", voice: "en-US-AndrewNeural", zoom: 0.08 }
   animals:    { highlight_color: "#86EFAC", voice: "en-US-AndrewNeural", zoom: 0.10 }
-  science:    { highlight_color: "#FFD400", voice: "en-US-GuyNeural",    zoom: 0.08 }
-  human body: { highlight_color: "#FDA4AF", voice: "en-US-AvaNeural",    zoom: 0.09 }
-  history:    { highlight_color: "#FCD34D", voice: "en-US-ChristopherNeural", zoom: 0.07 }
-  psychology: { highlight_color: "#C4B5FD", voice: "en-US-EmmaNeural",   zoom: 0.08 }
-  technology: { highlight_color: "#67E8F9", voice: "en-US-EricNeural",   zoom: 0.08 }
-  games:      { highlight_color: "#A3E635", voice: "en-US-RogerNeural",  zoom: 0.09 }
-  internet:   { highlight_color: "#F9A8D4", voice: "en-US-AriaNeural",   zoom: 0.08 }
+  science:    { highlight_color: "#FFD400", voice: "en-US-AndrewNeural",    zoom: 0.08 }
+  human body: { highlight_color: "#FDA4AF", voice: "en-US-AndrewNeural",    zoom: 0.09 }
+  history:    { highlight_color: "#FCD34D", voice: "en-US-AndrewNeural", zoom: 0.07 }
+  psychology: { highlight_color: "#C4B5FD", voice: "en-US-AndrewNeural",   zoom: 0.08 }
+  technology: { highlight_color: "#67E8F9", voice: "en-US-AndrewNeural",   zoom: 0.08 }
+  games:      { highlight_color: "#A3E635", voice: "en-US-AndrewNeural",  zoom: 0.09 }
+  internet:   { highlight_color: "#F9A8D4", voice: "en-US-AndrewNeural",   zoom: 0.08 }
 
 # Client prospecting (python -m pipeline.prospects / the "Find client prospects" workflow):
 # niches where small creators post Shorts and would buy ready-made ones.
