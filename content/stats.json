@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-01T17:40:55+00:00",
+  "updated_at": "2026-11-01T19:23:04+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 61,
-    "channel_views": 47357,
-    "video_count": 173
+    "channel_views": 48645,
+    "video_count": 174
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/nSoZ0iq1pOI"
+      "https://youtube.com/shorts/yG0G66LdnXU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/nSoZ0iq1pOI"
+      "https://youtube.com/shorts/yG0G66LdnXU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/nSoZ0iq1pOI"
+      "https://youtube.com/shorts/yG0G66LdnXU"
     ]
   },
   "retention": {
@@ -71,7 +71,7 @@
       {
         "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
         "avg_view_percent": 22.6,
-        "views": 63
+        "views": 64
       },
       {
         "title": "The Shortest War in History Lasted 38 Minutes",
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 172,
-  "total_views": 49517,
+  "total_videos": 173,
+  "total_views": 49545,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,12 +101,12 @@
     },
     "science": {
       "videos": 20,
-      "avg_views": 284,
+      "avg_views": 283,
       "best_views": 1648
     },
     "animals": {
-      "videos": 111,
-      "avg_views": 276,
+      "videos": 112,
+      "avg_views": 274,
       "best_views": 1507
     },
     "human body": {
@@ -121,7 +121,7 @@
     },
     "space": {
       "videos": 22,
-      "avg_views": 379,
+      "avg_views": 380,
       "best_views": 1513
     },
     "technology": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 156,
-      "avg_views": 274,
+      "videos": 157,
+      "avg_views": 272,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 86,
-      "avg_views": 131
+      "videos": 87,
+      "avg_views": 130
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -922,7 +922,7 @@
       "hook": "This male fish fuses into a female for life, and her body doesn't reject him.",
       "published_at": "2026-10-26T21:10:03Z",
       "privacy": "public",
-      "views": 63,
+      "views": 64,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k",
@@ -1058,7 +1058,7 @@
       "hook": "Five planets, five very long years. Number one has barely had a birthday since 1846.",
       "published_at": "2026-11-01T12:00:26Z",
       "privacy": "public",
-      "views": 15,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U2GOkyJ9noA"
@@ -3266,7 +3266,7 @@
       "hook": "A wildfire once spun up a tornado made of fire.",
       "published_at": "2026-10-31T00:10:10Z",
       "privacy": "public",
-      "views": 76,
+      "views": 62,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ"
@@ -3374,7 +3374,7 @@
       "hook": "There's a tree that explodes like a bomb.",
       "published_at": "2026-11-01T02:40:27Z",
       "privacy": "public",
-      "views": 87,
+      "views": 88,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/-bqtL8ZVsbw"
@@ -4154,7 +4154,7 @@
       "hook": "These ants cut leaves, but they never eat them.",
       "published_at": "2026-10-26T16:30:37Z",
       "privacy": "public",
-      "views": 32,
+      "views": 33,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JBpnVxvYLEM",
@@ -4322,7 +4322,7 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 472,
+      "views": 471,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
@@ -4398,7 +4398,7 @@
       "hook": "Praying mantises catch and eat live birds.",
       "published_at": "2026-10-30T15:30:08Z",
       "privacy": "public",
-      "views": 142,
+      "views": 152,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys"
@@ -4474,7 +4474,7 @@
       "hook": "This bird that cannot fly runs 45 miles an hour.",
       "published_at": "2026-10-30T18:20:23Z",
       "privacy": "public",
-      "views": 60,
+      "views": 62,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/c1_iRJblyEI"
@@ -4570,8 +4570,8 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 56,
-      "likes": 3,
+      "views": 58,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA"
     },
@@ -4642,7 +4642,7 @@
       "hook": "One bird sees more daylight than any other animal. It weighs about three and a half ounces.",
       "published_at": "2026-10-31T16:40:04Z",
       "privacy": "public",
-      "views": 15,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VTw9ctTNLLw"
@@ -4742,7 +4742,7 @@
       "hook": "Some shark pups fight to the death before they are born.",
       "published_at": "2026-10-31T21:10:27Z",
       "privacy": "public",
-      "views": 36,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PXVQE8MFDkM"
@@ -4790,7 +4790,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 183,
+      "views": 185,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU"
@@ -4838,7 +4838,7 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 33,
+      "views": 45,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
@@ -4920,14 +4920,14 @@
       "subscribers_gained": 0
     },
     "nSoZ0iq1pOI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT33S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4936,12 +4936,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A fish hunts insects above the water. Water bends light, so it should miss.",
-      "published_at": "2026-11-01T17:40:47Z",
+      "published_at": "2026-11-01T18:00:16Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/nSoZ0iq1pOI"
+    },
+    "yG0G66LdnXU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Animal Has 200 Eyes, and Every One Is a Mirror",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This animal has two hundred eyes. And none of them uses a lens.",
+      "published_at": "2026-11-01T19:22:57Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/nSoZ0iq1pOI"
+      "url": "https://youtube.com/shorts/yG0G66LdnXU"
     }
   }
 }
