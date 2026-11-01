@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-31T20:39:22+00:00",
+  "updated_at": "2026-11-01T02:13:36+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 11,
     "channel_views": 9764,
-    "video_count": 26
+    "video_count": 27
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/aR40zT0kxg8"
+      "https://youtube.com/shorts/DV-7AuiUc9E"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/aR40zT0kxg8"
+      "https://youtube.com/shorts/DV-7AuiUc9E"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/aR40zT0kxg8"
+      "https://youtube.com/shorts/DV-7AuiUc9E"
     ]
   },
   "retention": {
@@ -84,60 +84,60 @@
       {
         "title": "What If Sound Could Travel Through Space? You'd Hear the Sun",
         "avg_view_percent": 59.6,
-        "views": 182
+        "views": 183
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 27,
-  "total_views": 10841,
+  "total_videos": 28,
+  "total_views": 10927,
   "by_topic": {
     "earth": {
       "videos": 5,
-      "avg_views": 588,
-      "best_views": 1081
+      "avg_views": 589,
+      "best_views": 1083
     },
     "space": {
       "videos": 14,
-      "avg_views": 305,
+      "avg_views": 309,
       "best_views": 1281
     },
     "society": {
       "videos": 2,
-      "avg_views": 243,
+      "avg_views": 252,
       "best_views": 414
     },
     "animals": {
-      "videos": 1,
-      "avg_views": 1424,
+      "videos": 2,
+      "avg_views": 712,
       "best_views": 1424
     },
     "body": {
       "videos": 4,
-      "avg_views": 190,
+      "avg_views": 194,
       "best_views": 499
     },
     "technology": {
       "videos": 1,
-      "avg_views": 958,
-      "best_views": 958
+      "avg_views": 961,
+      "best_views": 961
     }
   },
   "by_style": {
     "classic": {
-      "videos": 27,
-      "avg_views": 402,
+      "videos": 28,
+      "avg_views": 390,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 26,
-      "avg_views": 380
+      "videos": 27,
+      "avg_views": 369
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 958
+      "avg_views": 961
     }
   },
   "top_videos": [
@@ -162,7 +162,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1081,
+      "views": 1083,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -174,7 +174,7 @@
     {
       "title": "What If We Launched Our Nuclear Waste Into the Sun?",
       "topic": "technology",
-      "views": 958,
+      "views": 961,
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
     },
     {
@@ -670,7 +670,7 @@
       "hook": "What if sound traveled through space? You'd hear the Sun, and it would arrive years late.",
       "published_at": "2026-10-29T14:10:27Z",
       "privacy": "public",
-      "views": 182,
+      "views": 183,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y",
@@ -698,7 +698,7 @@
       "hook": "What if you floated into space with no suit? You wouldn't explode. The truth is stranger.",
       "published_at": "2026-10-30T14:10:27Z",
       "privacy": "public",
-      "views": 120,
+      "views": 121,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/vRwTuMJXX7Q"
@@ -746,7 +746,7 @@
       "hook": "What if the whole asteroid belt became one planet? It would be smaller than Pluto.",
       "published_at": "2026-10-30T21:10:24Z",
       "privacy": "public",
-      "views": 286,
+      "views": 285,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rcXHfkgMvcU"
@@ -770,7 +770,7 @@
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
-      "views": 958,
+      "views": 961,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8"
@@ -794,7 +794,7 @@
       "hook": "What if you stopped eating for a whole year? One man did. The ending is the strange part.",
       "published_at": "2026-10-31T13:50:09Z",
       "privacy": "public",
-      "views": 31,
+      "views": 45,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MwU7gIiJAtk"
@@ -818,7 +818,7 @@
       "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
       "published_at": "2026-10-31T16:30:24Z",
       "privacy": "public",
-      "views": 72,
+      "views": 89,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uirFWqmtLZs"
@@ -842,12 +842,36 @@
       "hook": "What if it rained diamonds? Deep inside Neptune and Uranus, scientists think it does.",
       "published_at": "2026-10-31T19:10:39Z",
       "privacy": "public",
-      "views": 2,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZzVBYBDzKGA"
     },
     "aR40zT0kxg8": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT42S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If It Rained Glass Sideways? One Planet May",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if it rained glass, sideways, at thousands of miles an hour? One planet possibly does.",
+      "published_at": "2026-10-31T21:00:07Z",
+      "privacy": "public",
+      "views": 43,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/aR40zT0kxg8"
+    },
+    "DV-7AuiUc9E": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -859,17 +883,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If It Rained Glass Sideways? One Planet May",
-      "topic": "space",
+      "title": "What If a Mouse Fell Off a Skyscraper? Size Decides",
+      "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if it rained glass, sideways, at thousands of miles an hour? One planet possibly does.",
-      "published_at": "2026-10-31T20:39:18Z",
+      "hook": "What if a mouse fell off a skyscraper? A rat wouldn't walk away. A mouse might.",
+      "published_at": "2026-11-01T02:13:31Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/aR40zT0kxg8"
+      "url": "https://youtube.com/shorts/DV-7AuiUc9E"
     },
     "ZUqekDSPv74": {
       "upload_status": "processed",
@@ -890,7 +914,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1081,
+      "views": 1083,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
