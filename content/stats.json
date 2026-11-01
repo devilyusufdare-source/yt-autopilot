@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-01T11:41:42+00:00",
+  "updated_at": "2026-11-01T13:30:44+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 61,
     "channel_views": 47357,
-    "video_count": 169
+    "video_count": 170
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/U2GOkyJ9noA"
+      "https://youtube.com/shorts/U9WHN5tJCbY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/U2GOkyJ9noA"
+      "https://youtube.com/shorts/U9WHN5tJCbY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/U2GOkyJ9noA"
+      "https://youtube.com/shorts/U9WHN5tJCbY"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 168,
-  "total_views": 48449,
+  "total_videos": 169,
+  "total_views": 48920,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,12 +101,12 @@
     },
     "science": {
       "videos": 20,
-      "avg_views": 281,
+      "avg_views": 283,
       "best_views": 1648
     },
     "animals": {
-      "videos": 107,
-      "avg_views": 277,
+      "videos": 108,
+      "avg_views": 278,
       "best_views": 1507
     },
     "human body": {
@@ -121,7 +121,7 @@
     },
     "space": {
       "videos": 22,
-      "avg_views": 378,
+      "avg_views": 379,
       "best_views": 1513
     },
     "technology": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 152,
-      "avg_views": 274,
+      "videos": 153,
+      "avg_views": 275,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 82,
-      "avg_views": 125
+      "videos": 83,
+      "avg_views": 129
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1034,20 +1034,20 @@
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
       "published_at": "2026-10-31T12:10:01Z",
       "privacy": "public",
-      "views": 44,
+      "views": 48,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
     },
     "U2GOkyJ9noA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT39S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1056,11 +1056,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Five planets, five very long years. Number one has barely had a birthday since 1846.",
-      "published_at": "2026-11-01T11:41:36Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-01T12:00:26Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/U2GOkyJ9noA"
     },
     "pNq_22cuP4E": {
@@ -3374,7 +3374,7 @@
       "hook": "There's a tree that explodes like a bomb.",
       "published_at": "2026-11-01T02:40:27Z",
       "privacy": "public",
-      "views": 26,
+      "views": 69,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/-bqtL8ZVsbw"
@@ -3902,7 +3902,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 68,
+      "views": 69,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uMujdO5WqYo",
@@ -4322,7 +4322,7 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 465,
+      "views": 467,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
@@ -4398,7 +4398,7 @@
       "hook": "Praying mantises catch and eat live birds.",
       "published_at": "2026-10-30T15:30:08Z",
       "privacy": "public",
-      "views": 139,
+      "views": 142,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys"
@@ -4498,7 +4498,7 @@
       "hook": "Satellites found 1.5 million penguins by spotting their poop.",
       "published_at": "2026-10-30T19:50:22Z",
       "privacy": "public",
-      "views": 76,
+      "views": 79,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hs38proZTyc"
@@ -4522,7 +4522,7 @@
       "hook": "Jellyfish shut down a nuclear reactor.",
       "published_at": "2026-10-30T21:20:15Z",
       "privacy": "public",
-      "views": 30,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qRaw9tphoKk"
@@ -4570,7 +4570,7 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 49,
+      "views": 51,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA"
@@ -4594,8 +4594,8 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 199,
-      "likes": 8,
+      "views": 317,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
     },
@@ -4642,7 +4642,7 @@
       "hook": "One bird sees more daylight than any other animal. It weighs about three and a half ounces.",
       "published_at": "2026-10-31T16:40:04Z",
       "privacy": "public",
-      "views": 14,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VTw9ctTNLLw"
@@ -4694,7 +4694,7 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 219,
+      "views": 264,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4"
@@ -4742,7 +4742,7 @@
       "hook": "Some shark pups fight to the death before they are born.",
       "published_at": "2026-10-31T21:10:27Z",
       "privacy": "public",
-      "views": 21,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PXVQE8MFDkM"
@@ -4766,7 +4766,7 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 39,
+      "views": 47,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s"
@@ -4790,8 +4790,8 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 127,
-      "likes": 2,
+      "views": 141,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU"
     },
@@ -4814,10 +4814,34 @@
       "hook": "This bug hunts ants, then wears their bodies as a disguise.",
       "published_at": "2026-11-01T03:10:01Z",
       "privacy": "public",
-      "views": 474,
-      "likes": 7,
+      "views": 692,
+      "likes": 9,
       "comments": 2,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE"
+    },
+    "U9WHN5tJCbY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Animal Regrows a Leg, a Heart Piece, Even Brain",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Cut off this animal's leg, and it grows back perfectly.",
+      "published_at": "2026-11-01T13:30:32Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/U9WHN5tJCbY"
     },
     "nUqBVOHGP2c": {
       "upload_status": "processed",
