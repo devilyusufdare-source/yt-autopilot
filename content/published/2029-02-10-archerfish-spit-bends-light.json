@@ -52,5 +52,21 @@
   ],
   "thumbnail_text": "FISH. WATER SNIPER.",
   "priority": 7,
-  "first_comment": "Could you hit a target with your mouth? Which animal next?"
+  "first_comment": "Could you hit a target with your mouth? Which animal next?",
+  "youtube_id": "nSoZ0iq1pOI",
+  "url": "https://youtube.com/shorts/nSoZ0iq1pOI",
+  "uploaded_at": "2026-11-01T17:40:52+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-01T18:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 32.6,
+  "style": "classic",
+  "kind": "shorts"
 }

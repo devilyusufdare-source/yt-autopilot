@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-01T16:19:39+00:00",
+  "updated_at": "2026-11-01T17:40:55+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 61,
     "channel_views": 47357,
-    "video_count": 172
+    "video_count": 173
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/dXprcguqTJA"
+      "https://youtube.com/shorts/nSoZ0iq1pOI"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/dXprcguqTJA"
+      "https://youtube.com/shorts/nSoZ0iq1pOI"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/dXprcguqTJA"
+      "https://youtube.com/shorts/nSoZ0iq1pOI"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 171,
-  "total_views": 49425,
+  "total_videos": 172,
+  "total_views": 49517,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 110,
-      "avg_views": 277,
+      "videos": 111,
+      "avg_views": 276,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 155,
-      "avg_views": 275,
+      "videos": 156,
+      "avg_views": 274,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 85,
-      "avg_views": 132
+      "videos": 86,
+      "avg_views": 131
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1058,7 +1058,7 @@
       "hook": "Five planets, five very long years. Number one has barely had a birthday since 1846.",
       "published_at": "2026-11-01T12:00:26Z",
       "privacy": "public",
-      "views": 16,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U2GOkyJ9noA"
@@ -3374,7 +3374,7 @@
       "hook": "There's a tree that explodes like a bomb.",
       "published_at": "2026-11-01T02:40:27Z",
       "privacy": "public",
-      "views": 84,
+      "views": 87,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/-bqtL8ZVsbw"
@@ -4322,7 +4322,7 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 471,
+      "views": 472,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
@@ -4374,7 +4374,7 @@
       "hook": "A blue whale swallows more than its own weight.",
       "published_at": "2026-10-30T15:00:13Z",
       "privacy": "public",
-      "views": 125,
+      "views": 127,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY"
@@ -4450,7 +4450,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 122,
+      "views": 128,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU"
@@ -4474,8 +4474,8 @@
       "hook": "This bird that cannot fly runs 45 miles an hour.",
       "published_at": "2026-10-30T18:20:23Z",
       "privacy": "public",
-      "views": 59,
-      "likes": 2,
+      "views": 60,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/c1_iRJblyEI"
     },
@@ -4522,7 +4522,7 @@
       "hook": "Jellyfish shut down a nuclear reactor.",
       "published_at": "2026-10-30T21:20:15Z",
       "privacy": "public",
-      "views": 31,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qRaw9tphoKk"
@@ -4570,7 +4570,7 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 54,
+      "views": 56,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA"
@@ -4594,7 +4594,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 421,
+      "views": 419,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
@@ -4618,7 +4618,7 @@
       "hook": "An electric eel can shock things that aren't even in the water. Here's how.",
       "published_at": "2026-10-31T15:10:39Z",
       "privacy": "public",
-      "views": 13,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VAHBFzaup4g"
@@ -4694,7 +4694,7 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 312,
+      "views": 330,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4"
@@ -4718,7 +4718,7 @@
       "hook": "A gas company once found its pipeline leaks by following vultures.",
       "published_at": "2026-10-31T19:50:12Z",
       "privacy": "public",
-      "views": 14,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zl1SdlXN0H0"
@@ -4742,7 +4742,7 @@
       "hook": "Some shark pups fight to the death before they are born.",
       "published_at": "2026-10-31T21:10:27Z",
       "privacy": "public",
-      "views": 26,
+      "views": 36,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PXVQE8MFDkM"
@@ -4766,8 +4766,8 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 48,
-      "likes": 3,
+      "views": 52,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s"
     },
@@ -4790,8 +4790,8 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 167,
-      "likes": 3,
+      "views": 183,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU"
     },
@@ -4814,7 +4814,7 @@
       "hook": "This bug hunts ants, then wears their bodies as a disguise.",
       "published_at": "2026-11-01T03:10:01Z",
       "privacy": "public",
-      "views": 950,
+      "views": 952,
       "likes": 8,
       "comments": 2,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE"
@@ -4838,20 +4838,20 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 12,
-      "likes": 2,
+      "views": 33,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
     },
     "dXprcguqTJA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT29S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4860,9 +4860,9 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This beetle runs so fast that it cannot see where it is going.",
-      "published_at": "2026-11-01T16:19:31Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-01T16:50:16Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/dXprcguqTJA"
@@ -4886,8 +4886,8 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 3,
-      "likes": 1,
+      "views": 4,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
     },
@@ -4918,6 +4918,30 @@
       "avg_view_percent": 43.4,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "nSoZ0iq1pOI": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Fish Shoots Down Insects and Fixes Light's Lie First",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A fish hunts insects above the water. Water bends light, so it should miss.",
+      "published_at": "2026-11-01T17:40:47Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/nSoZ0iq1pOI"
     }
   }
 }
