@@ -1,28 +1,21 @@
 {
-  "updated_at": "2026-11-01T02:18:26+00:00",
+  "updated_at": "2026-11-01T04:01:50+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 59,
+    "subscribers": 60,
     "channel_views": 46757,
-    "video_count": 167
+    "video_count": 169
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/-bqtL8ZVsbw",
-      "https://youtube.com/shorts/x9pCkBDxsLE"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/x9pCkBDxsLE"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/x9pCkBDxsLE"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 144,
@@ -93,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 167,
-  "total_views": 47428,
+  "total_views": 47526,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -102,12 +95,12 @@
     },
     "science": {
       "videos": 20,
-      "avg_views": 279,
+      "avg_views": 280,
       "best_views": 1648
     },
     "animals": {
       "videos": 107,
-      "avg_views": 268,
+      "avg_views": 269,
       "best_views": 1507
     },
     "human body": {
@@ -122,7 +115,7 @@
     },
     "space": {
       "videos": 21,
-      "avg_views": 395,
+      "avg_views": 396,
       "best_views": 1513
     },
     "technology": {
@@ -134,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 151,
-      "avg_views": 269,
+      "avg_views": 270,
       "over_1500": 3
     },
     "punch": {
@@ -146,7 +139,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 81,
-      "avg_views": 114
+      "avg_views": 115
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1035,7 +1028,7 @@
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
       "published_at": "2026-10-31T12:10:01Z",
       "privacy": "public",
-      "views": 28,
+      "views": 31,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
@@ -2963,7 +2956,7 @@
       "hook": "An electric eel just zapped 860 volts.",
       "published_at": "2026-10-28T02:40:25Z",
       "privacy": "public",
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qH9gd2N8yTg",
@@ -3243,7 +3236,7 @@
       "hook": "A wildfire once spun up a tornado made of fire.",
       "published_at": "2026-10-31T00:10:10Z",
       "privacy": "public",
-      "views": 57,
+      "views": 73,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ"
@@ -3295,7 +3288,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 417,
+      "views": 416,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -3349,11 +3342,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "There's a tree that explodes like a bomb.",
-      "published_at": "2026-11-01T02:16:11Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-01T02:40:27Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/-bqtL8ZVsbw"
     },
     "T4gdnphQUUE": {
@@ -4351,7 +4344,7 @@
       "hook": "A blue whale swallows more than its own weight.",
       "published_at": "2026-10-30T15:00:13Z",
       "privacy": "public",
-      "views": 107,
+      "views": 108,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY"
@@ -4427,7 +4420,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 118,
+      "views": 120,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU"
@@ -4475,7 +4468,7 @@
       "hook": "Satellites found 1.5 million penguins by spotting their poop.",
       "published_at": "2026-10-30T19:50:22Z",
       "privacy": "public",
-      "views": 71,
+      "views": 72,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hs38proZTyc"
@@ -4547,7 +4540,7 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 41,
+      "views": 44,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA"
@@ -4571,7 +4564,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 124,
+      "views": 123,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
@@ -4619,7 +4612,7 @@
       "hook": "One bird sees more daylight than any other animal. It weighs about three and a half ounces.",
       "published_at": "2026-10-31T16:40:04Z",
       "privacy": "public",
-      "views": 5,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VTw9ctTNLLw"
@@ -4671,8 +4664,8 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 92,
-      "likes": 2,
+      "views": 136,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4"
     },
@@ -4695,7 +4688,7 @@
       "hook": "A gas company once found its pipeline leaks by following vultures.",
       "published_at": "2026-10-31T19:50:12Z",
       "privacy": "public",
-      "views": 12,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zl1SdlXN0H0"
@@ -4719,7 +4712,7 @@
       "hook": "Some shark pups fight to the death before they are born.",
       "published_at": "2026-10-31T21:10:27Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PXVQE8MFDkM"
@@ -4743,8 +4736,8 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 5,
-      "likes": 0,
+      "views": 11,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s"
     },
@@ -4767,20 +4760,20 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 10,
+      "views": 14,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU"
     },
     "x9pCkBDxsLE": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT31S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4789,11 +4782,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This bug hunts ants, then wears their bodies as a disguise.",
-      "published_at": "2026-11-01T02:18:14Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-01T03:10:01Z",
+      "privacy": "public",
+      "views": 7,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE"
     },
     "nUqBVOHGP2c": {
