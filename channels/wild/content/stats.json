@@ -1,28 +1,34 @@
 {
-  "updated_at": "2026-11-01T04:02:11+00:00",
+  "updated_at": "2026-11-01T13:28:30+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
-    "channel_views": 9764,
+    "channel_views": 10852,
     "video_count": 28
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/dwe3rjCTsoo"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/dwe3rjCTsoo"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/dwe3rjCTsoo"
+    ]
   },
   "retention": {
     "videos_with_data": 19,
     "avg_view_percent": 69.4,
     "by_topic": {
       "earth": 77.6,
-      "space": 67.7,
+      "space": 67.8,
       "society": 67.0,
       "animals": 81.5,
       "body": 57.3
@@ -45,13 +51,13 @@
       },
       {
         "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
-        "avg_view_percent": 85.7,
+        "avg_view_percent": 85.8,
         "views": 1096
       },
       {
         "title": "What If Every Mosquito Went Extinct?",
         "avg_view_percent": 81.5,
-        "views": 1424
+        "views": 1425
       }
     ],
     "worst": [
@@ -83,62 +89,62 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 28,
-  "total_views": 10979,
+  "total_videos": 29,
+  "total_views": 11203,
   "by_topic": {
     "earth": {
       "videos": 5,
-      "avg_views": 589,
-      "best_views": 1084
+      "avg_views": 590,
+      "best_views": 1087
     },
     "space": {
-      "videos": 14,
-      "avg_views": 310,
+      "videos": 15,
+      "avg_views": 290,
       "best_views": 1281
     },
     "society": {
       "videos": 2,
-      "avg_views": 258,
+      "avg_views": 270,
       "best_views": 414
     },
     "animals": {
       "videos": 2,
-      "avg_views": 722,
-      "best_views": 1424
+      "avg_views": 771,
+      "best_views": 1425
     },
     "body": {
       "videos": 4,
-      "avg_views": 193,
+      "avg_views": 197,
       "best_views": 497
     },
     "technology": {
       "videos": 1,
-      "avg_views": 966,
-      "best_views": 966
+      "avg_views": 1035,
+      "best_views": 1035
     }
   },
   "by_style": {
     "classic": {
-      "videos": 28,
-      "avg_views": 392,
+      "videos": 29,
+      "avg_views": 386,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 27,
-      "avg_views": 371
+      "videos": 28,
+      "avg_views": 363
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 966
+      "avg_views": 1035
     }
   },
   "top_videos": [
     {
       "title": "What If Every Mosquito Went Extinct?",
       "topic": "animals",
-      "views": 1424,
+      "views": 1425,
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
     },
     {
@@ -156,20 +162,20 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1084,
+      "views": 1087,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
+    },
+    {
+      "title": "What If We Launched Our Nuclear Waste Into the Sun?",
+      "topic": "technology",
+      "views": 1035,
+      "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
     },
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
       "views": 1023,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
-    },
-    {
-      "title": "What If We Launched Our Nuclear Waste Into the Sun?",
-      "topic": "technology",
-      "views": 966,
-      "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
     },
     {
       "title": "What If You Never Slept Again?",
@@ -328,7 +334,7 @@
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
       "published_at": "2026-10-24T21:00:32Z",
       "privacy": "public",
-      "views": 1424,
+      "views": 1425,
       "likes": 27,
       "comments": 4,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg",
@@ -468,12 +474,12 @@
       "hook": "What if a star exploded 50 light-years away? You wouldn't feel a thing, and that's the danger.",
       "published_at": "2026-10-27T14:00:17Z",
       "privacy": "public",
-      "views": 131,
+      "views": 130,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 61.8,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 62.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -529,7 +535,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/vvwy7bHBZt4",
       "avg_view_seconds": 30.0,
-      "avg_view_percent": 85.7,
+      "avg_view_percent": 85.8,
       "shares": 0,
       "subscribers_gained": 6
     },
@@ -692,7 +698,7 @@
       "hook": "What if you floated into space with no suit? You wouldn't explode. The truth is stranger.",
       "published_at": "2026-10-30T14:10:27Z",
       "privacy": "public",
-      "views": 122,
+      "views": 123,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/vRwTuMJXX7Q"
@@ -764,7 +770,7 @@
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
-      "views": 966,
+      "views": 1035,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8"
@@ -788,7 +794,7 @@
       "hook": "What if you stopped eating for a whole year? One man did. The ending is the strange part.",
       "published_at": "2026-10-31T13:50:09Z",
       "privacy": "public",
-      "views": 45,
+      "views": 61,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MwU7gIiJAtk"
@@ -812,7 +818,7 @@
       "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
       "published_at": "2026-10-31T16:30:24Z",
       "privacy": "public",
-      "views": 102,
+      "views": 126,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uirFWqmtLZs"
@@ -860,7 +866,7 @@
       "hook": "What if it rained glass, sideways, at thousands of miles an hour? One planet possibly does.",
       "published_at": "2026-10-31T21:00:07Z",
       "privacy": "public",
-      "views": 58,
+      "views": 72,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aR40zT0kxg8"
@@ -884,10 +890,34 @@
       "hook": "What if a mouse fell off a skyscraper? A rat wouldn't walk away. A mouse might.",
       "published_at": "2026-11-01T02:40:17Z",
       "privacy": "public",
-      "views": 20,
+      "views": 117,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DV-7AuiUc9E"
+    },
+    "dwe3rjCTsoo": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Your Helmet Filled With Water in Space? One Did",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if your spacesuit helmet filled with water in space? It happened to a real astronaut.",
+      "published_at": "2026-11-01T13:28:25Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/dwe3rjCTsoo"
     },
     "ZUqekDSPv74": {
       "upload_status": "processed",
@@ -908,7 +938,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1084,
+      "views": 1087,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
