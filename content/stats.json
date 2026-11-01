@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-01T20:48:14+00:00",
+  "updated_at": "2026-11-01T22:12:37+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 61,
+    "subscribers": 62,
     "channel_views": 48645,
-    "video_count": 175
+    "video_count": 176
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/MW0loEuWxf4"
+      "https://youtube.com/shorts/UXcOCvbzdF8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/MW0loEuWxf4"
+      "https://youtube.com/shorts/UXcOCvbzdF8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/MW0loEuWxf4"
+      "https://youtube.com/shorts/UXcOCvbzdF8"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 174,
-  "total_views": 49673,
+  "total_videos": 175,
+  "total_views": 49745,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 113,
-      "avg_views": 272,
+      "videos": 114,
+      "avg_views": 270,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 158,
-      "avg_views": 271,
+      "videos": 159,
+      "avg_views": 270,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 88,
-      "avg_views": 130
+      "videos": 89,
+      "avg_views": 129
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1034,7 +1034,7 @@
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
       "published_at": "2026-10-31T12:10:01Z",
       "privacy": "public",
-      "views": 56,
+      "views": 57,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
@@ -1058,7 +1058,7 @@
       "hook": "Five planets, five very long years. Number one has barely had a birthday since 1846.",
       "published_at": "2026-11-01T12:00:26Z",
       "privacy": "public",
-      "views": 21,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U2GOkyJ9noA"
@@ -4634,8 +4634,8 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 483,
-      "likes": 12,
+      "views": 495,
+      "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
     },
@@ -4830,7 +4830,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 191,
+      "views": 203,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU"
@@ -4878,7 +4878,7 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 35,
+      "views": 59,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
@@ -4926,7 +4926,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 9,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5008,14 +5008,14 @@
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
     },
     "MW0loEuWxf4": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT30S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5024,12 +5024,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This animal eats algae, and steals its sunlight power.",
-      "published_at": "2026-11-01T20:48:06Z",
+      "published_at": "2026-11-01T21:20:13Z",
+      "privacy": "public",
+      "views": 4,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/MW0loEuWxf4"
+    },
+    "UXcOCvbzdF8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The Only Vertebrate With Clear Blood Lives in Freezing Antarctic Water",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "There's a fish whose blood is clear. And it has no red blood cells at all.",
+      "published_at": "2026-11-01T22:12:28Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/MW0loEuWxf4"
+      "url": "https://youtube.com/shorts/UXcOCvbzdF8"
     }
   }
 }
