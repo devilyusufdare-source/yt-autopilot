@@ -1,42 +1,43 @@
 {
-  "updated_at": "2026-11-01T18:52:38+00:00",
+  "updated_at": "2026-11-01T20:45:26+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 11203,
-    "video_count": 30
+    "video_count": 31
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/KGhwdyTT0do"
+      "https://youtube.com/shorts/wV86RRTPfaY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/KGhwdyTT0do"
+      "https://youtube.com/shorts/wV86RRTPfaY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/KGhwdyTT0do"
+      "https://youtube.com/shorts/wV86RRTPfaY"
     ]
   },
   "retention": {
-    "videos_with_data": 19,
-    "avg_view_percent": 69.4,
+    "videos_with_data": 23,
+    "avg_view_percent": 67.0,
     "by_topic": {
-      "earth": 77.6,
-      "space": 67.8,
+      "earth": 71.8,
+      "space": 63.9,
       "society": 67.0,
       "animals": 81.5,
-      "body": 57.3
+      "body": 66.6,
+      "technology": 67.1
     },
     "best": [
       {
         "title": "What If You Could Visit a Neutron Star?",
-        "avg_view_percent": 106.5,
+        "avg_view_percent": 99.5,
         "views": 71
       },
       {
@@ -50,21 +51,31 @@
         "views": 179
       },
       {
+        "title": "What If You Floated Into Space Without a Suit?",
+        "avg_view_percent": 86.0,
+        "views": 123
+      },
+      {
         "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
         "avg_view_percent": 85.8,
         "views": 1096
-      },
-      {
-        "title": "What If Every Mosquito Went Extinct?",
-        "avg_view_percent": 81.5,
-        "views": 1425
       }
     ],
     "worst": [
       {
+        "title": "What If the Whole Asteroid Belt Became One Planet?",
+        "avg_view_percent": 31.5,
+        "views": 285
+      },
+      {
         "title": "What If You Traveled at 99 Percent the Speed of Light?",
-        "avg_view_percent": 35.8,
+        "avg_view_percent": 35.1,
         "views": 68
+      },
+      {
+        "title": "What If a Lake Exploded With Gas? One Did in 1986",
+        "avg_view_percent": 48.2,
+        "views": 282
       },
       {
         "title": "What If the Moon Disappeared Tonight?",
@@ -75,46 +86,36 @@
         "title": "What If You Fell Into a Black Hole?",
         "avg_view_percent": 52.1,
         "views": 245
-      },
-      {
-        "title": "What If Humans Could Photosynthesize?",
-        "avg_view_percent": 53.6,
-        "views": 108
-      },
-      {
-        "title": "What If Sound Could Travel Through Space? You'd Hear the Sun",
-        "avg_view_percent": 59.6,
-        "views": 183
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 31,
-  "total_views": 11391,
+  "total_videos": 32,
+  "total_views": 11417,
   "by_topic": {
     "earth": {
       "videos": 5,
-      "avg_views": 590,
-      "best_views": 1088
+      "avg_views": 591,
+      "best_views": 1092
     },
     "space": {
-      "videos": 16,
-      "avg_views": 283,
+      "videos": 17,
+      "avg_views": 266,
       "best_views": 1281
     },
     "society": {
       "videos": 2,
-      "avg_views": 274,
+      "avg_views": 277,
       "best_views": 414
     },
     "animals": {
       "videos": 3,
-      "avg_views": 513,
+      "avg_views": 514,
       "best_views": 1425
     },
     "body": {
       "videos": 4,
-      "avg_views": 198,
+      "avg_views": 201,
       "best_views": 497
     },
     "technology": {
@@ -125,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 31,
-      "avg_views": 367,
+      "videos": 32,
+      "avg_views": 357,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 30,
-      "avg_views": 345
+      "videos": 31,
+      "avg_views": 335
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -162,7 +163,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1088,
+      "views": 1092,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -451,7 +452,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/6nUPnY94QPA",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 61.0,
+      "avg_view_percent": 61.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -563,7 +564,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/pf34SeLuJgk",
       "avg_view_seconds": 21.0,
-      "avg_view_percent": 62.8,
+      "avg_view_percent": 62.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -591,7 +592,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/hJIo0ee4tPA",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 35.8,
+      "avg_view_percent": 35.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -618,8 +619,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/yxeZpoL6wKQ",
-      "avg_view_seconds": 38.0,
-      "avg_view_percent": 106.5,
+      "avg_view_seconds": 35.0,
+      "avg_view_percent": 99.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -647,7 +648,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Dfr7U_PG5ng",
       "avg_view_seconds": 21.0,
-      "avg_view_percent": 53.6,
+      "avg_view_percent": 52.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -674,8 +675,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 59.6,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 56.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -701,7 +702,11 @@
       "views": 123,
       "likes": 5,
       "comments": 1,
-      "url": "https://youtube.com/shorts/vRwTuMJXX7Q"
+      "url": "https://youtube.com/shorts/vRwTuMJXX7Q",
+      "avg_view_seconds": 30.0,
+      "avg_view_percent": 86.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "6MBak6NID4o": {
       "upload_status": "processed",
@@ -725,7 +730,11 @@
       "views": 282,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/6MBak6NID4o"
+      "url": "https://youtube.com/shorts/6MBak6NID4o",
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 48.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "rcXHfkgMvcU": {
       "upload_status": "processed",
@@ -749,7 +758,11 @@
       "views": 285,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/rcXHfkgMvcU"
+      "url": "https://youtube.com/shorts/rcXHfkgMvcU",
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 31.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "FJ7GavEjUw8": {
       "upload_status": "processed",
@@ -773,7 +786,11 @@
       "views": 1035,
       "likes": 10,
       "comments": 1,
-      "url": "https://youtube.com/shorts/FJ7GavEjUw8"
+      "url": "https://youtube.com/shorts/FJ7GavEjUw8",
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 67.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "MwU7gIiJAtk": {
       "upload_status": "processed",
@@ -794,7 +811,7 @@
       "hook": "What if you stopped eating for a whole year? One man did. The ending is the strange part.",
       "published_at": "2026-10-31T13:50:09Z",
       "privacy": "public",
-      "views": 64,
+      "views": 77,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MwU7gIiJAtk"
@@ -818,7 +835,7 @@
       "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
       "published_at": "2026-10-31T16:30:24Z",
       "privacy": "public",
-      "views": 134,
+      "views": 140,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uirFWqmtLZs"
@@ -866,7 +883,7 @@
       "hook": "What if it rained glass, sideways, at thousands of miles an hour? One planet possibly does.",
       "published_at": "2026-10-31T21:00:07Z",
       "privacy": "public",
-      "views": 72,
+      "views": 74,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aR40zT0kxg8"
@@ -920,14 +937,14 @@
       "url": "https://youtube.com/shorts/dwe3rjCTsoo"
     },
     "KGhwdyTT0do": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -936,11 +953,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if a living animal spent ten days in open space? Tiny tardigrades did.",
-      "published_at": "2026-11-01T18:52:35Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-01T19:10:06Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/KGhwdyTT0do"
     },
     "ZUqekDSPv74": {
@@ -962,12 +979,12 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1088,
+      "views": 1092,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 79.6,
+      "avg_view_percent": 80.2,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -994,6 +1011,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gcgl97taucQ"
+    },
+    "wV86RRTPfaY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Phoned Voyager 1? Your Voice Takes a Full Day",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you phoned Voyager 1? Your voice would take a full day to arrive.",
+      "published_at": "2026-11-01T20:45:21Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/wV86RRTPfaY"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
