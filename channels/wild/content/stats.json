@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-01T02:13:36+00:00",
+  "updated_at": "2026-11-01T04:02:11+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 11,
+    "subscribers": 12,
     "channel_views": 9764,
-    "video_count": 27
+    "video_count": 28
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/DV-7AuiUc9E"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/DV-7AuiUc9E"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/DV-7AuiUc9E"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 19,
@@ -79,7 +73,7 @@
       {
         "title": "What If Humans Could Photosynthesize?",
         "avg_view_percent": 53.6,
-        "views": 109
+        "views": 108
       },
       {
         "title": "What If Sound Could Travel Through Space? You'd Hear the Sun",
@@ -90,54 +84,54 @@
   },
   "retention_note": null,
   "total_videos": 28,
-  "total_views": 10927,
+  "total_views": 10979,
   "by_topic": {
     "earth": {
       "videos": 5,
       "avg_views": 589,
-      "best_views": 1083
+      "best_views": 1084
     },
     "space": {
       "videos": 14,
-      "avg_views": 309,
+      "avg_views": 310,
       "best_views": 1281
     },
     "society": {
       "videos": 2,
-      "avg_views": 252,
+      "avg_views": 258,
       "best_views": 414
     },
     "animals": {
       "videos": 2,
-      "avg_views": 712,
+      "avg_views": 722,
       "best_views": 1424
     },
     "body": {
       "videos": 4,
-      "avg_views": 194,
-      "best_views": 499
+      "avg_views": 193,
+      "best_views": 497
     },
     "technology": {
       "videos": 1,
-      "avg_views": 961,
-      "best_views": 961
+      "avg_views": 966,
+      "best_views": 966
     }
   },
   "by_style": {
     "classic": {
       "videos": 28,
-      "avg_views": 390,
+      "avg_views": 392,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 27,
-      "avg_views": 369
+      "avg_views": 371
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 961
+      "avg_views": 966
     }
   },
   "top_videos": [
@@ -162,7 +156,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1083,
+      "views": 1084,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -174,13 +168,13 @@
     {
       "title": "What If We Launched Our Nuclear Waste Into the Sun?",
       "topic": "technology",
-      "views": 961,
+      "views": 966,
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
     },
     {
       "title": "What If You Never Slept Again?",
       "topic": "body",
-      "views": 499,
+      "views": 497,
       "hook": "What if you never slept again? Day one feels fine. It isn't."
     },
     {
@@ -446,7 +440,7 @@
       "hook": "What if you never slept again? Day one feels fine. It isn't.",
       "published_at": "2026-10-27T02:15:23Z",
       "privacy": "public",
-      "views": 499,
+      "views": 497,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/6nUPnY94QPA",
@@ -642,7 +636,7 @@
       "hook": "What if humans could photosynthesize? Sunlight on your skin beats your diet, but it wouldn't feed you.",
       "published_at": "2026-10-29T02:40:23Z",
       "privacy": "public",
-      "views": 109,
+      "views": 108,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Dfr7U_PG5ng",
@@ -698,7 +692,7 @@
       "hook": "What if you floated into space with no suit? You wouldn't explode. The truth is stranger.",
       "published_at": "2026-10-30T14:10:27Z",
       "privacy": "public",
-      "views": 121,
+      "views": 122,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/vRwTuMJXX7Q"
@@ -770,7 +764,7 @@
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
-      "views": 961,
+      "views": 966,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8"
@@ -818,7 +812,7 @@
       "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
       "published_at": "2026-10-31T16:30:24Z",
       "privacy": "public",
-      "views": 89,
+      "views": 102,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uirFWqmtLZs"
@@ -866,20 +860,20 @@
       "hook": "What if it rained glass, sideways, at thousands of miles an hour? One planet possibly does.",
       "published_at": "2026-10-31T21:00:07Z",
       "privacy": "public",
-      "views": 43,
+      "views": 58,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aR40zT0kxg8"
     },
     "DV-7AuiUc9E": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -888,11 +882,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if a mouse fell off a skyscraper? A rat wouldn't walk away. A mouse might.",
-      "published_at": "2026-11-01T02:13:31Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-01T02:40:17Z",
+      "privacy": "public",
+      "views": 20,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/DV-7AuiUc9E"
     },
     "ZUqekDSPv74": {
@@ -914,7 +908,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1083,
+      "views": 1084,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
