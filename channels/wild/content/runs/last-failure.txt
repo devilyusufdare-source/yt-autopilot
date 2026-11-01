@@ -1,27 +1,37 @@
-run failed at 2026-10-29T20:46:05+00:00 UTC (last 25 lines, secrets removed)
+run failed at 2026-11-01T16:16:37+00:00 UTC (error lines and last 25 lines, secrets removed)
 
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/yt-autopilot/yt-autopilot/pipeline/render.py", line 99, in render_final
-    subprocess.run(cmd, check=True)
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/subprocess.py", line 571, in run
-    raise CalledProcessError(retcode, process.args,
-subprocess.CalledProcessError: Command '['ffmpeg', '-y', '-loglevel', 'error', '-stats_period', '5', '-i', '/home/runner/work/yt-autopilot/yt-autopilot/output/2026-10-26-what-if-you-were-in-space-without-a-suit/visual.mp4', '-i', '/home/runner/work/yt-autopilot/yt-autopilot/output/2026-10-26-what-if-you-were-in-space-without-a-suit/voice.wav', '-filter_complex', "[0:v]subtitles=filename='/home/runner/work/yt-autopilot/yt-autopilot/output/2026-10-26-what-if-you-were-in-space-without-a-suit/captions.ass':fontsdir='/home/runner/work/yt-autopilot/yt-autopilot/assets/fonts'[v0];color=c=0xFDA4AF@0.95:s=1080x12:r=30:d=35.500[bar];[v0][bar]overlay=x='-w+w*t/35.500':y=H-h:shortest=1[v];[1:a]loudnorm=I=-19.0:TP=-1.5:LRA=11,aresample=48000[va]", '-map', '[v]', '-map', '[va]', '-c:v', 'libx264', '-preset', 'medium', '-crf', '20', '-pix_fmt', 'yuv420p', '-r', '30', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', '-movflags', '+faststart', '-t', '35.500', '/home/runner/work/yt-autopilot/yt-autopilot/output/2026-10-26-what-if-you-were-in-space-without-a-suit/2026-10-26-what-if-you-were-in-space-without-a-suit.mp4']' returned non-zero exit status 234.
+earlier error lines:
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+[tts] edge-tts scene 0 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 0 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 0 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
+[tts] edge-tts scene 0 attempt 4 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 40 s
+[tts] edge-tts scene 0 attempt 5 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 60 s
+[run] render failed; trying the next idea so this run still publishes a video
 
-[run] (1/1) 2026-10-26-what-if-you-were-in-space-without-a-suit.json  title: What If You Floated Into Space Without a Suit?
+last 25 lines:
 [run] style: classic
 [run] voice: 7 scenes (en-US-AndrewNeural)
+[tts] edge-tts scene 0 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 0 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 0 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
+[tts] edge-tts scene 0 attempt 4 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 40 s
+[tts] edge-tts scene 2 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 2 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 2 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
+[tts] edge-tts scene 2 attempt 4 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 40 s
+[tts] edge-tts scene 5 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
 [run] visuals: pixabay
-[run] footage focus: ['astronaut']
-[visuals] first clip candidate pxb127428: motion 1.0, brightness 118
-[visuals] download failed (pixabay-video): file too large
-[visuals] first clip candidate pxb232: motion 4.0, brightness 127
-[visuals] download failed (pixabay-video): file too large
-[visuals] download failed (pixabay-video): file too large
-[visuals] download failed (pixabay-video): file too large
-[visuals] download failed (pixabay-video): file too large
-[visuals] download failed (pixabay-video): file too large
-[visuals] download failed (pixabay-video): file too large
+[run] footage focus: ['solar']
+[visuals] first clip candidate pxb370344: motion 0.4, brightness 31
+[visuals] first clip candidate pxb384849: motion 0.7, brightness 28
+[visuals] first clip candidate pxb156444: motion 6.6, brightness 109
 [run] rendering final video
-[run] stats refreshed: 18 videos, 7927 views total
+[run] rendered 2026-10-29-what-if-you-flew-into-the-suns-atmosphere.mp4 (33.7s, voice=edge)
+[upload] 41%
+[upload] 82%
+[run] uploaded: https://youtube.com/shorts/Gcgl97taucQ  (goes public at 2026-11-01T16:40:00Z)
+[upload] thumbnail not set (403); verify your channel at youtube.com/verify to enable custom thumbnails
+[run] stats refreshed: 30 videos, 11319 views total
 
-[run] finished: 0 video(s) done, 1 failed
+[run] finished: 1 video(s) done, 1 failed

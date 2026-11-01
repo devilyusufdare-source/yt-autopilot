@@ -54,5 +54,21 @@
     "https://www.sci.news/space/parker-solar-probe-closest-ever-approach-sun-13544.html"
   ],
   "thumbnail_text": "WHAT IF YOU FLEW INTO THE SUN?",
-  "first_comment": "Would you ride a heat-shield ship this close to the Sun? Drop your own 'what if'."
+  "first_comment": "Would you ride a heat-shield ship this close to the Sun? Drop your own 'what if'.",
+  "youtube_id": "Gcgl97taucQ",
+  "url": "https://youtube.com/shorts/Gcgl97taucQ",
+  "uploaded_at": "2026-11-01T16:16:36+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-01T16:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#C4B5FD",
+  "duration_seconds": 33.7,
+  "style": "classic",
+  "kind": "shorts"
 }

@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-01T13:28:30+00:00",
+  "updated_at": "2026-11-01T16:16:36+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 10852,
-    "video_count": 28
+    "video_count": 29
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/dwe3rjCTsoo"
+      "https://youtube.com/shorts/Gcgl97taucQ"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/dwe3rjCTsoo"
+      "https://youtube.com/shorts/Gcgl97taucQ"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/dwe3rjCTsoo"
+      "https://youtube.com/shorts/Gcgl97taucQ"
     ]
   },
   "retention": {
@@ -89,17 +89,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 29,
-  "total_views": 11203,
+  "total_videos": 30,
+  "total_views": 11319,
   "by_topic": {
     "earth": {
       "videos": 5,
       "avg_views": 590,
-      "best_views": 1087
+      "best_views": 1088
     },
     "space": {
-      "videos": 15,
-      "avg_views": 290,
+      "videos": 16,
+      "avg_views": 279,
       "best_views": 1281
     },
     "society": {
@@ -125,15 +125,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 29,
-      "avg_views": 386,
+      "videos": 30,
+      "avg_views": 377,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 28,
-      "avg_views": 363
+      "videos": 29,
+      "avg_views": 355
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -162,7 +162,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1087,
+      "views": 1088,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -818,7 +818,7 @@
       "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
       "published_at": "2026-10-31T16:30:24Z",
       "privacy": "public",
-      "views": 126,
+      "views": 127,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uirFWqmtLZs"
@@ -896,14 +896,14 @@
       "url": "https://youtube.com/shorts/DV-7AuiUc9E"
     },
     "dwe3rjCTsoo": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -912,11 +912,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if your spacesuit helmet filled with water in space? It happened to a real astronaut.",
-      "published_at": "2026-11-01T13:28:25Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-01T13:50:38Z",
+      "privacy": "public",
+      "views": 114,
+      "likes": 2,
+      "comments": 1,
       "url": "https://youtube.com/shorts/dwe3rjCTsoo"
     },
     "ZUqekDSPv74": {
@@ -938,7 +938,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1087,
+      "views": 1088,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -946,6 +946,30 @@
       "avg_view_percent": 79.6,
       "shares": 0,
       "subscribers_gained": 1
+    },
+    "Gcgl97taucQ": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Flew Into the Sun's Atmosphere?",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you flew into the Sun's atmosphere? One spacecraft already did, and it survived.",
+      "published_at": "2026-11-01T16:16:33Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Gcgl97taucQ"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
