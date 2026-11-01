@@ -1,0 +1,34 @@
+run failed at 2026-11-01T14:47:55+00:00 UTC (error lines and last 25 lines, secrets removed)
+
+earlier error lines:
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+[tts] edge-tts scene 1 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 1 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 2 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+
+last 25 lines:
+[tts] edge-tts scene 2 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 2 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
+[tts] edge-tts scene 2 attempt 4 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 40 s
+[tts] edge-tts scene 2 attempt 5 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 60 s
+[run] render failed; trying the next idea so this run still publishes a video
+
+[run] (2/2) 2029-01-22-tarantula-hawk-wasp-keeps-spider-alive.json  title: This Wasp Doesn't Kill a Tarantula. What It Does Is Worse
+[run] style: classic
+[run] voice: 7 scenes (en-US-AndrewNeural)
+[tts] edge-tts scene 0 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 0 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 0 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
+[run] visuals: pixabay
+[run] footage focus: ['tarantula hawk']
+[visuals] first clip candidate pxb131648: motion 1.0, brightness 80
+[visuals] first clip candidate pxb131649: motion 0.8, brightness 74
+[visuals] first clip candidate pxb131647: motion 4.0, brightness 106
+[run] rendering final video
+[run] rendered 2029-01-22-tarantula-hawk-wasp-keeps-spider-alive.mp4 (34.2s, voice=edge)
+[upload] 38%
+[upload] 76%
+[run] uploaded: https://youtube.com/shorts/5hzE5T5d1Z0  (goes public at 2026-11-01T15:10:00Z)
+[run] stats refreshed: 170 videos, 49173 views total
+
+[run] finished: 1 video(s) done, 1 failed

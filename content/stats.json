@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-01T13:30:44+00:00",
+  "updated_at": "2026-11-01T14:47:54+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 61,
     "channel_views": 47357,
-    "video_count": 170
+    "video_count": 171
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/U9WHN5tJCbY"
+      "https://youtube.com/shorts/5hzE5T5d1Z0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/U9WHN5tJCbY"
+      "https://youtube.com/shorts/5hzE5T5d1Z0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/U9WHN5tJCbY"
+      "https://youtube.com/shorts/5hzE5T5d1Z0"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 169,
-  "total_views": 48920,
+  "total_videos": 170,
+  "total_views": 49173,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,11 +101,11 @@
     },
     "science": {
       "videos": 20,
-      "avg_views": 283,
+      "avg_views": 284,
       "best_views": 1648
     },
     "animals": {
-      "videos": 108,
+      "videos": 109,
       "avg_views": 278,
       "best_views": 1507
     },
@@ -132,7 +132,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 153,
+      "videos": 154,
       "avg_views": 275,
       "over_1500": 3
     },
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 83,
-      "avg_views": 129
+      "videos": 84,
+      "avg_views": 130
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1034,7 +1034,7 @@
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
       "published_at": "2026-10-31T12:10:01Z",
       "privacy": "public",
-      "views": 48,
+      "views": 50,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
@@ -1058,9 +1058,9 @@
       "hook": "Five planets, five very long years. Number one has barely had a birthday since 1846.",
       "published_at": "2026-11-01T12:00:26Z",
       "privacy": "public",
-      "views": 4,
+      "views": 0,
       "likes": 0,
-      "comments": 1,
+      "comments": 0,
       "url": "https://youtube.com/shorts/U2GOkyJ9noA"
     },
     "pNq_22cuP4E": {
@@ -3374,7 +3374,7 @@
       "hook": "There's a tree that explodes like a bomb.",
       "published_at": "2026-11-01T02:40:27Z",
       "privacy": "public",
-      "views": 69,
+      "views": 84,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/-bqtL8ZVsbw"
@@ -4322,7 +4322,7 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 467,
+      "views": 471,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI"
@@ -4450,7 +4450,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 121,
+      "views": 123,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU"
@@ -4474,8 +4474,8 @@
       "hook": "This bird that cannot fly runs 45 miles an hour.",
       "published_at": "2026-10-30T18:20:23Z",
       "privacy": "public",
-      "views": 56,
-      "likes": 1,
+      "views": 59,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/c1_iRJblyEI"
     },
@@ -4594,8 +4594,8 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 317,
-      "likes": 9,
+      "views": 348,
+      "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
     },
@@ -4814,12 +4814,36 @@
       "hook": "This bug hunts ants, then wears their bodies as a disguise.",
       "published_at": "2026-11-01T03:10:01Z",
       "privacy": "public",
-      "views": 692,
+      "views": 890,
       "likes": 9,
       "comments": 2,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE"
     },
     "U9WHN5tJCbY": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT31S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Animal Regrows a Leg, a Heart Piece, Even Brain",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Cut off this animal's leg, and it grows back perfectly.",
+      "published_at": "2026-11-01T14:00:34Z",
+      "privacy": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/U9WHN5tJCbY"
+    },
+    "5hzE5T5d1Z0": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -4831,17 +4855,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "This Animal Regrows a Leg, a Heart Piece, Even Brain",
+      "title": "This Wasp Doesn't Kill a Tarantula. What It Does Is Worse",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "Cut off this animal's leg, and it grows back perfectly.",
-      "published_at": "2026-11-01T13:30:32Z",
+      "hook": "This wasp doesn't kill a tarantula. It does something worse.",
+      "published_at": "2026-11-01T14:47:42Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/U9WHN5tJCbY"
+      "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
     },
     "nUqBVOHGP2c": {
       "upload_status": "processed",
