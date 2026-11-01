@@ -65,5 +65,21 @@
   ],
   "thumbnail_text": "5 LONGEST YEARS, RANKED",
   "priority": 6,
-  "first_comment": "How old would you be on Neptune? And what should we rank next?"
+  "first_comment": "How old would you be on Neptune? And what should we rank next?",
+  "youtube_id": "U2GOkyJ9noA",
+  "url": "https://youtube.com/shorts/U2GOkyJ9noA",
+  "uploaded_at": "2026-11-01T11:41:40+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-01T12:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 14,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#7DD3FC",
+  "duration_seconds": 38.4,
+  "style": "classic",
+  "kind": "shorts"
 }
