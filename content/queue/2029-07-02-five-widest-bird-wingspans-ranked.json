@@ -1,0 +1,72 @@
+{
+  "id": "2029-07-02-five-widest-bird-wingspans-ranked",
+  "format": "ranking",
+  "ranking_by": "maximum wingspan of living flying birds, in feet",
+  "topic": "animals",
+  "title": "The 5 Widest Bird Wingspans Alive, Ranked (#1 Beats a Small Car)",
+  "scenes": [
+    {
+      "text": "A condor doesn't win. Number one has wings wider than a small car is long.",
+      "keywords": "andean condor flying"
+    },
+    {
+      "text": "Number five: the marabou stork. Over ten feet from wingtip to wingtip, on a bird that scavenges.",
+      "keywords": "marabou stork",
+      "rank": 5,
+      "label": "Marabou stork \u00b7 10.5 ft"
+    },
+    {
+      "text": "Number four: the Andean condor. Close to eleven feet, and it can soar for hours.",
+      "keywords": "andean condor",
+      "rank": 4,
+      "label": "Andean condor \u00b7 10.8 ft"
+    },
+    {
+      "text": "Number three: the Dalmatian pelican. About eleven and a half feet, the largest pelican in Europe.",
+      "keywords": "dalmatian pelican",
+      "rank": 3,
+      "label": "Dalmatian pelican \u00b7 11.5 ft"
+    },
+    {
+      "text": "Number two: the great white pelican. Almost twelve feet across, and it can still take off from water.",
+      "keywords": "great white pelican",
+      "rank": 2,
+      "label": "Great white pelican \u00b7 11.8 ft"
+    },
+    {
+      "text": "Number one: the wandering albatross. About twelve feet, and it glides over the ocean for months.",
+      "keywords": "wandering albatross",
+      "rank": 1,
+      "label": "Wandering albatross \u00b7 12 ft"
+    }
+  ],
+  "description": "The five widest wingspans of any living flying bird, ranked by maximum wingspan.\nSources differ by a few inches, so the figures are approximate, but the order holds.\nWhich bird would you put at number one?",
+  "tags": [
+    "widest wingspan",
+    "bird wingspan",
+    "wandering albatross",
+    "great white pelican",
+    "dalmatian pelican",
+    "andean condor",
+    "marabou stork",
+    "biggest birds",
+    "bird facts",
+    "animal rankings",
+    "animal facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#birds",
+    "#animals",
+    "#ranking"
+  ],
+  "sources": [
+    "https://a-z-animals.com/blog/largest-flying-birds/",
+    "https://en.wikipedia.org/wiki/Largest_living_flying_birds_by_wingspan",
+    "https://www.discoverwildlife.com/animal-facts/birds/biggest-flying-birds"
+  ],
+  "thumbnail_text": "5 WIDEST WINGSPANS, RANKED",
+  "priority": 5,
+  "first_comment": "Did the albatross surprise you? Which animal list should we rank next?"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2029-07-01-paddlefish-sword-snout-is-an-antenna",
+  "topic": "animals",
+  "format": "fact",
+  "subject": "paddlefish",
+  "title": "This Fish Has a Sword on Its Face and Never Stabs Anything",
+  "scenes": [
+    {"text": "This fish has a sword on its face. It has never stabbed anything.", "keywords": "paddlefish swimming"},
+    {"text": "The American paddlefish grows over eight feet long. On a young one, that snout is nearly half its body.", "keywords": "paddlefish"},
+    {"text": "It isn't a weapon. It isn't a shovel either. Scientists found it is covered in electric sensors.", "keywords": "paddlefish snout"},
+    {"text": "Plankton give off faint electric signals. In muddy water, a young paddlefish can sense a single one.", "keywords": "plankton microscope"},
+    {"text": "So it just swims with its mouth wide open, and long gill rakers sieve out whatever the snout found.", "keywords": "paddlefish"},
+    {"text": "That sword is really an antenna. The fish hunts with electricity.", "keywords": "paddlefish swimming"}
+  ],
+  "description": "This fish has a sword on its face, and it has never stabbed anything.\nThe American paddlefish snout is covered in electric sensors that pick up faint signals from plankton, even in muddy water.\nWould you have guessed that was an antenna?",
+  "tags": ["paddlefish", "american paddlefish", "electroreception", "fish facts", "animal facts", "weird fish", "strange animals", "ancient fish", "animal superpowers", "mind blowing facts", "nature facts", "shorts facts"],
+  "hashtags": ["#shorts", "#animals", "#fish", "#nature"],
+  "sources": [
+    "https://animaldiversity.org/accounts/Polyodon_spathula",
+    "https://outdoor.wildlifeillinois.org/articles/why-the-long-face-what-is-up-with-the-big-nose-on-paddlefish",
+    "https://science.umd.edu/faculty/wilkinson/BSCI338/Rev093/Wilkens07.htm"
+  ],
+  "thumbnail_text": "A SWORD THAT NEVER STABS",
+  "priority": 5,
+  "first_comment": "Which animal would you give a built-in antenna to? Tell us the weirdest sensor you know."
+}
