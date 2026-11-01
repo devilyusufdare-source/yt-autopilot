@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-01T14:47:54+00:00",
+  "updated_at": "2026-11-01T16:19:39+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 61,
     "channel_views": 47357,
-    "video_count": 171
+    "video_count": 172
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/5hzE5T5d1Z0"
+      "https://youtube.com/shorts/dXprcguqTJA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/5hzE5T5d1Z0"
+      "https://youtube.com/shorts/dXprcguqTJA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/5hzE5T5d1Z0"
+      "https://youtube.com/shorts/dXprcguqTJA"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 170,
-  "total_views": 49173,
+  "total_videos": 171,
+  "total_views": 49425,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 109,
-      "avg_views": 278,
+      "videos": 110,
+      "avg_views": 277,
       "best_views": 1507
     },
     "human body": {
@@ -132,7 +132,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 154,
+      "videos": 155,
       "avg_views": 275,
       "over_1500": 3
     },
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 84,
-      "avg_views": 130
+      "videos": 85,
+      "avg_views": 132
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1034,7 +1034,7 @@
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
       "published_at": "2026-10-31T12:10:01Z",
       "privacy": "public",
-      "views": 50,
+      "views": 54,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
@@ -1058,9 +1058,9 @@
       "hook": "Five planets, five very long years. Number one has barely had a birthday since 1846.",
       "published_at": "2026-11-01T12:00:26Z",
       "privacy": "public",
-      "views": 0,
+      "views": 16,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/U2GOkyJ9noA"
     },
     "pNq_22cuP4E": {
@@ -4374,7 +4374,7 @@
       "hook": "A blue whale swallows more than its own weight.",
       "published_at": "2026-10-30T15:00:13Z",
       "privacy": "public",
-      "views": 118,
+      "views": 125,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY"
@@ -4450,7 +4450,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 123,
+      "views": 122,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU"
@@ -4498,7 +4498,7 @@
       "hook": "Satellites found 1.5 million penguins by spotting their poop.",
       "published_at": "2026-10-30T19:50:22Z",
       "privacy": "public",
-      "views": 79,
+      "views": 80,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hs38proZTyc"
@@ -4570,8 +4570,8 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 51,
-      "likes": 2,
+      "views": 54,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA"
     },
@@ -4594,8 +4594,8 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 348,
-      "likes": 10,
+      "views": 421,
+      "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
     },
@@ -4694,7 +4694,7 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 264,
+      "views": 312,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4"
@@ -4742,7 +4742,7 @@
       "hook": "Some shark pups fight to the death before they are born.",
       "published_at": "2026-10-31T21:10:27Z",
       "privacy": "public",
-      "views": 25,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PXVQE8MFDkM"
@@ -4766,8 +4766,8 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 47,
-      "likes": 2,
+      "views": 48,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s"
     },
@@ -4790,7 +4790,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 141,
+      "views": 167,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU"
@@ -4814,8 +4814,8 @@
       "hook": "This bug hunts ants, then wears their bodies as a disguise.",
       "published_at": "2026-11-01T03:10:01Z",
       "privacy": "public",
-      "views": 890,
-      "likes": 9,
+      "views": 950,
+      "likes": 8,
       "comments": 2,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE"
     },
@@ -4838,15 +4838,15 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 2,
-      "likes": 0,
+      "views": 12,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
     },
-    "5hzE5T5d1Z0": {
+    "dXprcguqTJA": {
       "upload_status": "uploaded",
       "rejection_reason": null,
-      "made_for_kids": false,
+      "made_for_kids": null,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
@@ -4855,16 +4855,40 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
+      "title": "This Beetle Runs So Fast It Goes Blind Mid-Chase",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This beetle runs so fast that it cannot see where it is going.",
+      "published_at": "2026-11-01T16:19:31Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/dXprcguqTJA"
+    },
+    "5hzE5T5d1Z0": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT35S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
       "title": "This Wasp Doesn't Kill a Tarantula. What It Does Is Worse",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
-      "published_at": "2026-11-01T14:47:42Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-01T15:10:07Z",
+      "privacy": "public",
+      "views": 3,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
     },
     "nUqBVOHGP2c": {

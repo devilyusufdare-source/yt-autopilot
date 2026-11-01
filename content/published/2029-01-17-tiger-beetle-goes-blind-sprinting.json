@@ -55,5 +55,20 @@
   ],
   "thumbnail_text": "IT RUNS SO FAST IT GOES BLIND",
   "first_comment": "The fastest beetles top out around 5 miles an hour, which sounds slow until you scale it to their size. What is the fastest animal you have ever seen?",
-  "_attempts": 1
+  "youtube_id": "dXprcguqTJA",
+  "url": "https://youtube.com/shorts/dXprcguqTJA",
+  "uploaded_at": "2026-11-01T16:19:37+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-01T16:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 28.2,
+  "style": "classic",
+  "kind": "shorts"
 }
