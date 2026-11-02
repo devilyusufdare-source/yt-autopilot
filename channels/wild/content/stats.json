@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-11-02T19:01:05+00:00",
+  "updated_at": "2026-11-02T20:48:29+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
-    "channel_views": 11260,
-    "video_count": 35
+    "channel_views": 11668,
+    "video_count": 36
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/V1bjB6HEpF8"
+      "https://youtube.com/shorts/haGtgFdSl9I"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/V1bjB6HEpF8"
+      "https://youtube.com/shorts/haGtgFdSl9I"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/V1bjB6HEpF8"
+      "https://youtube.com/shorts/haGtgFdSl9I"
     ]
   },
   "retention": {
-    "videos_with_data": 23,
-    "avg_view_percent": 67.0,
+    "videos_with_data": 28,
+    "avg_view_percent": 65.3,
     "by_topic": {
-      "earth": 71.8,
-      "space": 63.9,
-      "society": 67.0,
-      "animals": 81.5,
-      "body": 66.6,
-      "technology": 67.1
+      "earth": 71.9,
+      "space": 63.1,
+      "society": 73.3,
+      "animals": 60.6,
+      "body": 62.6,
+      "technology": 66.7
     },
     "best": [
       {
@@ -42,7 +42,7 @@
       },
       {
         "title": "What If All the Ice on Earth Melted?",
-        "avg_view_percent": 98.4,
+        "avg_view_percent": 98.3,
         "views": 436
       },
       {
@@ -51,14 +51,14 @@
         "views": 179
       },
       {
-        "title": "What If You Floated Into Space Without a Suit?",
-        "avg_view_percent": 86.0,
-        "views": 125
-      },
-      {
         "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
         "avg_view_percent": 85.8,
         "views": 1096
+      },
+      {
+        "title": "What If Every Mosquito Went Extinct?",
+        "avg_view_percent": 81.5,
+        "views": 1426
       }
     ],
     "worst": [
@@ -73,25 +73,25 @@
         "views": 68
       },
       {
+        "title": "What If It Rained Glass Sideways? One Planet May",
+        "avg_view_percent": 37.3,
+        "views": 79
+      },
+      {
+        "title": "What If a Mouse Fell Off a Skyscraper? Size Decides",
+        "avg_view_percent": 39.7,
+        "views": 121
+      },
+      {
         "title": "What If a Lake Exploded With Gas? One Did in 1986",
-        "avg_view_percent": 48.2,
+        "avg_view_percent": 48.6,
         "views": 282
-      },
-      {
-        "title": "What If the Moon Disappeared Tonight?",
-        "avg_view_percent": 51.1,
-        "views": 12
-      },
-      {
-        "title": "What If You Fell Into a Black Hole?",
-        "avg_view_percent": 52.1,
-        "views": 245
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 36,
-  "total_views": 11752,
+  "total_videos": 37,
+  "total_views": 11770,
   "by_topic": {
     "earth": {
       "videos": 5,
@@ -105,13 +105,13 @@
     },
     "society": {
       "videos": 3,
-      "avg_views": 194,
+      "avg_views": 197,
       "best_views": 414
     },
     "animals": {
-      "videos": 5,
-      "avg_views": 321,
-      "best_views": 1425
+      "videos": 6,
+      "avg_views": 268,
+      "best_views": 1426
     },
     "body": {
       "videos": 5,
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 36,
-      "avg_views": 326,
+      "videos": 37,
+      "avg_views": 318,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 35,
-      "avg_views": 306
+      "videos": 36,
+      "avg_views": 298
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -145,7 +145,7 @@
     {
       "title": "What If Every Mosquito Went Extinct?",
       "topic": "animals",
-      "views": 1425,
+      "views": 1426,
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
     },
     {
@@ -228,7 +228,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/T16E2OJLBg8",
       "avg_view_seconds": 33.0,
-      "avg_view_percent": 98.4,
+      "avg_view_percent": 98.3,
       "shares": 0,
       "subscribers_gained": 2
     },
@@ -335,7 +335,7 @@
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
       "published_at": "2026-10-24T21:00:32Z",
       "privacy": "public",
-      "views": 1425,
+      "views": 1426,
       "likes": 27,
       "comments": 4,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg",
@@ -676,7 +676,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 56.9,
+      "avg_view_percent": 56.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -703,8 +703,8 @@
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/vRwTuMJXX7Q",
-      "avg_view_seconds": 30.0,
-      "avg_view_percent": 86.0,
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 80.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -732,7 +732,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/6MBak6NID4o",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 48.2,
+      "avg_view_percent": 48.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -788,7 +788,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 67.1,
+      "avg_view_percent": 66.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -814,7 +814,11 @@
       "views": 87,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/MwU7gIiJAtk"
+      "url": "https://youtube.com/shorts/MwU7gIiJAtk",
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 56.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "uirFWqmtLZs": {
       "upload_status": "processed",
@@ -838,7 +842,11 @@
       "views": 167,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/uirFWqmtLZs"
+      "url": "https://youtube.com/shorts/uirFWqmtLZs",
+      "avg_view_seconds": 30.0,
+      "avg_view_percent": 79.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ZzVBYBDzKGA": {
       "upload_status": "processed",
@@ -862,7 +870,11 @@
       "views": 10,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/ZzVBYBDzKGA"
+      "url": "https://youtube.com/shorts/ZzVBYBDzKGA",
+      "avg_view_seconds": 30.0,
+      "avg_view_percent": 80.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "aR40zT0kxg8": {
       "upload_status": "processed",
@@ -886,7 +898,11 @@
       "views": 79,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/aR40zT0kxg8"
+      "url": "https://youtube.com/shorts/aR40zT0kxg8",
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 37.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "DV-7AuiUc9E": {
       "upload_status": "processed",
@@ -910,7 +926,11 @@
       "views": 121,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/DV-7AuiUc9E"
+      "url": "https://youtube.com/shorts/DV-7AuiUc9E",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 39.7,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "dwe3rjCTsoo": {
       "upload_status": "processed",
@@ -984,7 +1004,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 80.2,
+      "avg_view_percent": 80.1,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1007,7 +1027,7 @@
       "hook": "What if you flew into the Sun's atmosphere? One spacecraft already did, and it survived.",
       "published_at": "2026-11-01T16:40:32Z",
       "privacy": "public",
-      "views": 59,
+      "views": 60,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gcgl97taucQ"
@@ -1079,7 +1099,7 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 6,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc"
@@ -1103,12 +1123,36 @@
       "hook": "What if every human vanished tonight? The first disaster wouldn't take long to arrive.",
       "published_at": "2026-11-02T17:00:15Z",
       "privacy": "public",
-      "views": 2,
+      "views": 10,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/bIzjV_Zwq6Y"
     },
     "V1bjB6HEpF8": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT38S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Someone Added One Fish to a Lake? Lake Victoria Did",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
+      "published_at": "2026-11-02T19:30:30Z",
+      "privacy": "public",
+      "views": 5,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/V1bjB6HEpF8"
+    },
+    "haGtgFdSl9I": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1120,17 +1164,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If Someone Added One Fish to a Lake? Lake Victoria Did",
+      "title": "What If Pet Snakes Escaped Into a National Park? Florida's Did",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
-      "published_at": "2026-11-02T19:01:02Z",
+      "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
+      "published_at": "2026-11-02T20:48:26Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/V1bjB6HEpF8"
+      "url": "https://youtube.com/shorts/haGtgFdSl9I"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
