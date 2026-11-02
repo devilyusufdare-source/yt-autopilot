@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-02T20:57:06+00:00",
+  "updated_at": "2026-11-02T23:45:39+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 63,
     "channel_views": 50659,
-    "video_count": 186
+    "video_count": 188
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/E7R9OiRvj3s",
-      "https://youtube.com/shorts/y5-MSH3z9d0"
+      "https://youtube.com/shorts/91RksZPLfHU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/y5-MSH3z9d0"
+      "https://youtube.com/shorts/91RksZPLfHU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/y5-MSH3z9d0"
+      "https://youtube.com/shorts/91RksZPLfHU"
     ]
   },
   "retention": {
@@ -92,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 186,
-  "total_views": 51124,
+  "total_videos": 187,
+  "total_views": 51211,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 124,
-      "avg_views": 259,
+      "videos": 125,
+      "avg_views": 258,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 170,
-      "avg_views": 261,
+      "videos": 171,
+      "avg_views": 260,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 100,
+      "videos": 101,
       "avg_views": 129
     },
     "en-US-BrianNeural": {
@@ -895,7 +894,7 @@
       "hook": "Wombats poop cubes. Scientists finally figured out how.",
       "published_at": "2026-10-15T07:30:08Z",
       "privacy": "public",
-      "views": 1212,
+      "views": 1214,
       "likes": 28,
       "comments": 1,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4",
@@ -4691,7 +4690,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 606,
+      "views": 614,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
@@ -4803,7 +4802,7 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 784,
+      "views": 785,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4",
@@ -4831,7 +4830,7 @@
       "hook": "A gas company once found its pipeline leaks by following vultures.",
       "published_at": "2026-10-31T19:50:12Z",
       "privacy": "public",
-      "views": 17,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zl1SdlXN0H0",
@@ -4887,7 +4886,7 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 90,
+      "views": 84,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s",
@@ -4915,7 +4914,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 257,
+      "views": 258,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU",
@@ -4971,7 +4970,7 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 181,
+      "views": 183,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
@@ -4995,7 +4994,7 @@
       "hook": "This beetle runs so fast that it cannot see where it is going.",
       "published_at": "2026-11-01T16:50:16Z",
       "privacy": "public",
-      "views": 55,
+      "views": 60,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dXprcguqTJA"
@@ -5019,7 +5018,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 78,
+      "views": 80,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5071,7 +5070,7 @@
       "hook": "A fish hunts insects above the water. Water bends light, so it should miss.",
       "published_at": "2026-11-01T18:00:16Z",
       "privacy": "public",
-      "views": 24,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nSoZ0iq1pOI"
@@ -5095,7 +5094,7 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 263,
+      "views": 300,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
@@ -5167,7 +5166,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 19,
+      "views": 21,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4"
@@ -5191,7 +5190,7 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 50,
+      "views": 65,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
@@ -5215,7 +5214,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 5,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5263,8 +5262,8 @@
       "hook": "A fox walked from Norway to Canada. Nobody believed it.",
       "published_at": "2026-11-02T18:00:31Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 4,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lcilP6jC87M"
     },
@@ -5287,7 +5286,7 @@
       "hook": "A bird buries thirty thousand seeds. It never writes down where.",
       "published_at": "2026-11-02T19:00:16Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TxValGbuqZU"
@@ -5311,7 +5310,7 @@
       "hook": "Every eel in Europe is born in a place no one has ever seen.",
       "published_at": "2026-11-02T20:00:29Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8"
@@ -5333,14 +5332,38 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fish feeds in near-freezing water and stays warm as a mammal.",
-      "published_at": "2026-11-02T19:57:33Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-02T21:00:03Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/E7R9OiRvj3s"
     },
     "y5-MSH3z9d0": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT39S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Parrot Once Asked, 'What Color?' Looking in a Mirror",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A parrot once looked in a mirror and asked a question.",
+      "published_at": "2026-11-02T21:20:22Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/y5-MSH3z9d0"
+    },
+    "91RksZPLfHU": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -5352,17 +5375,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A Parrot Once Asked, 'What Color?' Looking in a Mirror",
+      "title": "Only Mammals Make Milk. This Egg-Laying Animal Does Too",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "A parrot once looked in a mirror and asked a question.",
-      "published_at": "2026-11-02T20:56:57Z",
+      "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
+      "published_at": "2026-11-02T23:45:26Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/y5-MSH3z9d0"
+      "url": "https://youtube.com/shorts/91RksZPLfHU"
     }
   }
 }
