@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-02T02:17:07+00:00",
+  "updated_at": "2026-11-02T04:01:42+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
-    "channel_views": 11203,
-    "video_count": 32
+    "channel_views": 11260,
+    "video_count": 33
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/Z0QgS6RgYvM"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/Z0QgS6RgYvM"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/Z0QgS6RgYvM"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 23,
@@ -91,12 +85,12 @@
   },
   "retention_note": null,
   "total_videos": 33,
-  "total_views": 11560,
+  "total_views": 11577,
   "by_topic": {
     "earth": {
       "videos": 5,
       "avg_views": 591,
-      "best_views": 1094
+      "best_views": 1095
     },
     "space": {
       "videos": 17,
@@ -110,7 +104,7 @@
     },
     "animals": {
       "videos": 4,
-      "avg_views": 386,
+      "avg_views": 388,
       "best_views": 1425
     },
     "body": {
@@ -127,7 +121,7 @@
   "by_style": {
     "classic": {
       "videos": 33,
-      "avg_views": 350,
+      "avg_views": 351,
       "over_1500": 0
     }
   },
@@ -163,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1094,
+      "views": 1095,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -835,7 +829,7 @@
       "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
       "published_at": "2026-10-31T16:30:24Z",
       "privacy": "public",
-      "views": 145,
+      "views": 147,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uirFWqmtLZs"
@@ -907,7 +901,7 @@
       "hook": "What if a mouse fell off a skyscraper? A rat wouldn't walk away. A mouse might.",
       "published_at": "2026-11-01T02:40:17Z",
       "privacy": "public",
-      "views": 119,
+      "views": 120,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DV-7AuiUc9E"
@@ -979,7 +973,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1094,
+      "views": 1095,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1007,7 +1001,7 @@
       "hook": "What if you flew into the Sun's atmosphere? One spacecraft already did, and it survived.",
       "published_at": "2026-11-01T16:40:32Z",
       "privacy": "public",
-      "views": 37,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gcgl97taucQ"
@@ -1031,20 +1025,20 @@
       "hook": "What if you phoned Voyager 1? Your voice would take a full day to arrive.",
       "published_at": "2026-11-01T21:00:27Z",
       "privacy": "public",
-      "views": 90,
+      "views": 94,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wV86RRTPfaY"
     },
     "Z0QgS6RgYvM": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1053,11 +1047,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if an animal frozen for 46,000 years came back to life? One did.",
-      "published_at": "2026-11-02T02:17:03Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-02T02:40:20Z",
+      "privacy": "public",
+      "views": 6,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Z0QgS6RgYvM"
     },
     "jwre0VbiRCc": {
