@@ -53,5 +53,21 @@
     "https://en.wikipedia.org/wiki/Megamouth_shark"
   ],
   "thumbnail_text": "THE SHARK NOBODY KNEW",
-  "first_comment": "What do you think the ocean is still hiding? Tell us your guess."
+  "first_comment": "What do you think the ocean is still hiding? Tell us your guess.",
+  "youtube_id": "f8nYYRdfoyE",
+  "url": "https://youtube.com/shorts/f8nYYRdfoyE",
+  "uploaded_at": "2026-11-02T13:49:56+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-02T15:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 32.5,
+  "style": "classic",
+  "kind": "shorts"
 }
