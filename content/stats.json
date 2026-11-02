@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-02T18:56:48+00:00",
+  "updated_at": "2026-11-02T19:57:40+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 63,
-    "channel_views": 49871,
-    "video_count": 184
+    "channel_views": 50659,
+    "video_count": 185
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/TxValGbuqZU",
-      "https://youtube.com/shorts/DN6jpzoIDp8"
+      "https://youtube.com/shorts/DN6jpzoIDp8",
+      "https://youtube.com/shorts/E7R9OiRvj3s"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/DN6jpzoIDp8"
+      "https://youtube.com/shorts/E7R9OiRvj3s"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/DN6jpzoIDp8"
+      "https://youtube.com/shorts/E7R9OiRvj3s"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 184,
-  "total_views": 51053,
+  "total_videos": 185,
+  "total_views": 51104,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 122,
-      "avg_views": 263,
+      "videos": 123,
+      "avg_views": 261,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 168,
-      "avg_views": 263,
+      "videos": 169,
+      "avg_views": 262,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 98,
-      "avg_views": 131
+      "videos": 99,
+      "avg_views": 130
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4707,7 +4707,7 @@
       "hook": "An electric eel can shock things that aren't even in the water. Here's how.",
       "published_at": "2026-10-31T15:10:39Z",
       "privacy": "public",
-      "views": 23,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VAHBFzaup4g"
@@ -4783,8 +4783,8 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 756,
-      "likes": 10,
+      "views": 784,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4"
     },
@@ -4807,7 +4807,7 @@
       "hook": "A gas company once found its pipeline leaks by following vultures.",
       "published_at": "2026-10-31T19:50:12Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zl1SdlXN0H0"
@@ -4831,7 +4831,7 @@
       "hook": "Some shark pups fight to the death before they are born.",
       "published_at": "2026-10-31T21:10:27Z",
       "privacy": "public",
-      "views": 48,
+      "views": 49,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PXVQE8MFDkM"
@@ -4879,7 +4879,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 251,
+      "views": 257,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU"
@@ -4905,7 +4905,7 @@
       "privacy": "public",
       "views": 961,
       "likes": 8,
-      "comments": 2,
+      "comments": 1,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE"
     },
     "U9WHN5tJCbY": {
@@ -4927,7 +4927,7 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 174,
+      "views": 181,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
@@ -4951,7 +4951,7 @@
       "hook": "This beetle runs so fast that it cannot see where it is going.",
       "published_at": "2026-11-01T16:50:16Z",
       "privacy": "public",
-      "views": 54,
+      "views": 55,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dXprcguqTJA"
@@ -4975,7 +4975,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 75,
+      "views": 72,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5051,7 +5051,7 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 253,
+      "views": 263,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
@@ -5099,7 +5099,7 @@
       "hook": "There's a fish whose blood is clear. And it has no red blood cells at all.",
       "published_at": "2026-11-01T22:40:34Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UXcOCvbzdF8"
@@ -5123,7 +5123,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 18,
+      "views": 16,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4"
@@ -5171,7 +5171,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 3,
+      "views": 0,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5241,22 +5241,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A bird buries thirty thousand seeds. It never writes down where.",
-      "published_at": "2026-11-02T18:01:57Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-02T19:00:16Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/TxValGbuqZU"
     },
     "DN6jpzoIDp8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT35S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5271,6 +5271,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8"
+    },
+    "E7R9OiRvj3s": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Fish Stays Warm in Water Near Freezing",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This fish feeds in near-freezing water and stays warm as a mammal.",
+      "published_at": "2026-11-02T19:57:33Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/E7R9OiRvj3s"
     }
   }
 }
