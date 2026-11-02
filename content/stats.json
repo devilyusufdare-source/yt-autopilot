@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-02T15:03:12+00:00",
+  "updated_at": "2026-11-02T16:42:29+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 62,
     "channel_views": 49871,
-    "video_count": 182
+    "video_count": 183
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/8oPON8E6LtM"
+      "https://youtube.com/shorts/lcilP6jC87M"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/8oPON8E6LtM"
+      "https://youtube.com/shorts/lcilP6jC87M"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/8oPON8E6LtM"
+      "https://youtube.com/shorts/lcilP6jC87M"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 181,
-  "total_views": 50704,
+  "total_videos": 182,
+  "total_views": 50917,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 119,
-      "avg_views": 267,
+      "videos": 120,
+      "avg_views": 266,
       "best_views": 1507
     },
     "human body": {
@@ -132,7 +132,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 165,
+      "videos": 166,
       "avg_views": 266,
       "over_1500": 3
     },
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 95,
-      "avg_views": 131
+      "videos": 96,
+      "avg_views": 132
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1034,7 +1034,7 @@
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
       "published_at": "2026-10-31T12:10:01Z",
       "privacy": "public",
-      "views": 63,
+      "views": 64,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
@@ -3510,7 +3510,7 @@
       "hook": "An astronaut nearly drowned in space.",
       "published_at": "2026-11-02T02:50:07Z",
       "privacy": "public",
-      "views": 34,
+      "views": 43,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yf9Gl1SzDAU"
@@ -4683,7 +4683,7 @@
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
       "views": 591,
-      "likes": 14,
+      "likes": 13,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
     },
@@ -4730,7 +4730,7 @@
       "hook": "One bird sees more daylight than any other animal. It weighs about three and a half ounces.",
       "published_at": "2026-10-31T16:40:04Z",
       "privacy": "public",
-      "views": 27,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VTw9ctTNLLw"
@@ -4782,8 +4782,8 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 626,
-      "likes": 8,
+      "views": 756,
+      "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4"
     },
@@ -4854,7 +4854,7 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 88,
+      "views": 82,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s"
@@ -4926,8 +4926,8 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 158,
-      "likes": 3,
+      "views": 174,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
     },
@@ -4950,7 +4950,7 @@
       "hook": "This beetle runs so fast that it cannot see where it is going.",
       "published_at": "2026-11-01T16:50:16Z",
       "privacy": "public",
-      "views": 49,
+      "views": 54,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dXprcguqTJA"
@@ -5050,8 +5050,8 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 176,
-      "likes": 3,
+      "views": 222,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
     },
@@ -5146,8 +5146,8 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 12,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
     },
@@ -5172,18 +5172,18 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
     },
     "8oPON8E6LtM": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5192,12 +5192,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "There's a shark that eats salad.",
-      "published_at": "2026-11-02T15:03:06Z",
+      "published_at": "2026-11-02T16:30:00Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/8oPON8E6LtM"
+    },
+    "lcilP6jC87M": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "An Arctic Fox Walked 2,175 Miles From Norway to Canada",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A fox walked from Norway to Canada. Nobody believed it.",
+      "published_at": "2026-11-02T16:42:20Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/8oPON8E6LtM"
+      "url": "https://youtube.com/shorts/lcilP6jC87M"
     }
   }
 }
