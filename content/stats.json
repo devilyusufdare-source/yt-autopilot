@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-02T02:19:28+00:00",
+  "updated_at": "2026-11-02T04:01:23+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 62,
-    "channel_views": 48645,
-    "video_count": 178
+    "channel_views": 49871,
+    "video_count": 179
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/yf9Gl1SzDAU"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/yf9Gl1SzDAU"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/yf9Gl1SzDAU"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 154,
@@ -71,7 +65,7 @@
       {
         "title": "This Frog Hides 89% of Its Blood to Turn Invisible While Asleep",
         "avg_view_percent": 19.6,
-        "views": 68
+        "views": 69
       },
       {
         "title": "Dung Beetles Steer by the Milky Way, and Cardboard Hats Proved It",
@@ -92,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 177,
-  "total_views": 49933,
+  "total_views": 50020,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,7 +95,7 @@
     },
     "science": {
       "videos": 20,
-      "avg_views": 283,
+      "avg_views": 284,
       "best_views": 1648
     },
     "animals": {
@@ -145,7 +139,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 91,
-      "avg_views": 129
+      "avg_views": 130
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1034,7 +1028,7 @@
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
       "published_at": "2026-10-31T12:10:01Z",
       "privacy": "public",
-      "views": 58,
+      "views": 62,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
@@ -1058,7 +1052,7 @@
       "hook": "Five planets, five very long years. Number one has barely had a birthday since 1846.",
       "published_at": "2026-11-01T12:00:26Z",
       "privacy": "public",
-      "views": 29,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U2GOkyJ9noA"
@@ -3210,7 +3204,7 @@
       "hook": "Lava once shot nineteen hundred feet into the air.",
       "published_at": "2026-10-29T22:40:34Z",
       "privacy": "public",
-      "views": 86,
+      "views": 87,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8HPrrfRBnJA",
@@ -3468,14 +3462,14 @@
       "subscribers_gained": 0
     },
     "yf9Gl1SzDAU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT29S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3484,11 +3478,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "An astronaut nearly drowned in space.",
-      "published_at": "2026-11-02T02:19:19Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-02T02:50:07Z",
+      "privacy": "public",
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/yf9Gl1SzDAU"
     },
     "MJ6FRS8q71M": {
@@ -3734,7 +3728,7 @@
       "hook": "Orcas throw themselves onto a beach to catch their dinner.",
       "published_at": "2026-10-29T02:40:02Z",
       "privacy": "public",
-      "views": 145,
+      "views": 144,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/tB1PyAE5HZs",
@@ -4070,7 +4064,7 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 180,
+      "views": 179,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY",
@@ -4630,7 +4624,7 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 68,
+      "views": 69,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA",
@@ -4658,7 +4652,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 510,
+      "views": 530,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
@@ -4682,7 +4676,7 @@
       "hook": "An electric eel can shock things that aren't even in the water. Here's how.",
       "published_at": "2026-10-31T15:10:39Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VAHBFzaup4g"
@@ -4706,7 +4700,7 @@
       "hook": "One bird sees more daylight than any other animal. It weighs about three and a half ounces.",
       "published_at": "2026-10-31T16:40:04Z",
       "privacy": "public",
-      "views": 23,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VTw9ctTNLLw"
@@ -4730,7 +4724,7 @@
       "hook": "This animal survives eighteen minutes with zero oxygen.",
       "published_at": "2026-10-26T16:10:05Z",
       "privacy": "public",
-      "views": 24,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/VuyOz5b3Dk8",
@@ -4758,8 +4752,8 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 411,
-      "likes": 4,
+      "views": 426,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4"
     },
@@ -4806,7 +4800,7 @@
       "hook": "Some shark pups fight to the death before they are born.",
       "published_at": "2026-10-31T21:10:27Z",
       "privacy": "public",
-      "views": 42,
+      "views": 47,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PXVQE8MFDkM"
@@ -4830,7 +4824,7 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 64,
+      "views": 66,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s"
@@ -4854,7 +4848,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 217,
+      "views": 216,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU"
@@ -4902,8 +4896,8 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 83,
-      "likes": 2,
+      "views": 87,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
     },
@@ -4926,7 +4920,7 @@
       "hook": "This beetle runs so fast that it cannot see where it is going.",
       "published_at": "2026-11-01T16:50:16Z",
       "privacy": "public",
-      "views": 20,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dXprcguqTJA"
@@ -4950,7 +4944,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 28,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5002,7 +4996,7 @@
       "hook": "A fish hunts insects above the water. Water bends light, so it should miss.",
       "published_at": "2026-11-01T18:00:16Z",
       "privacy": "public",
-      "views": 9,
+      "views": 11,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nSoZ0iq1pOI"
@@ -5026,7 +5020,7 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 20,
+      "views": 26,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
@@ -5050,7 +5044,7 @@
       "hook": "This animal eats algae, and steals its sunlight power.",
       "published_at": "2026-11-01T21:20:13Z",
       "privacy": "public",
-      "views": 12,
+      "views": 19,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MW0loEuWxf4"
@@ -5098,7 +5092,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4"
