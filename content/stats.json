@@ -1,23 +1,27 @@
 {
-  "updated_at": "2026-11-02T17:56:12+00:00",
+  "updated_at": "2026-11-02T18:02:08+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 63,
     "channel_views": 49871,
-    "video_count": 183
+    "video_count": 184
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/lcilP6jC87M"
+      "https://youtube.com/shorts/TxValGbuqZU"
     ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/TxValGbuqZU"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/TxValGbuqZU"
+    ]
   },
   "retention": {
     "videos_with_data": 154,
@@ -87,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 182,
-  "total_views": 50963,
+  "total_videos": 183,
+  "total_views": 50991,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 120,
-      "avg_views": 266,
+      "videos": 121,
+      "avg_views": 264,
       "best_views": 1507
     },
     "human body": {
@@ -128,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 166,
-      "avg_views": 266,
+      "videos": 167,
+      "avg_views": 265,
       "over_1500": 3
     },
     "punch": {
@@ -140,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 96,
-      "avg_views": 133
+      "videos": 97,
+      "avg_views": 132
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1030,7 +1034,7 @@
       "hook": "The five biggest moons in the solar system, ranked. Number one is bigger than an actual planet.",
       "published_at": "2026-10-31T12:10:01Z",
       "privacy": "public",
-      "views": 64,
+      "views": 65,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0"
@@ -1274,7 +1278,7 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 61,
+      "views": 62,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0",
@@ -3506,7 +3510,7 @@
       "hook": "An astronaut nearly drowned in space.",
       "published_at": "2026-11-02T02:50:07Z",
       "privacy": "public",
-      "views": 45,
+      "views": 46,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yf9Gl1SzDAU"
@@ -4678,7 +4682,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 606,
+      "views": 608,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
@@ -4702,7 +4706,7 @@
       "hook": "An electric eel can shock things that aren't even in the water. Here's how.",
       "published_at": "2026-10-31T15:10:39Z",
       "privacy": "public",
-      "views": 23,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VAHBFzaup4g"
@@ -4778,7 +4782,7 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 756,
+      "views": 753,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4"
@@ -4802,7 +4806,7 @@
       "hook": "A gas company once found its pipeline leaks by following vultures.",
       "published_at": "2026-10-31T19:50:12Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zl1SdlXN0H0"
@@ -4850,7 +4854,7 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 82,
+      "views": 88,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s"
@@ -4874,7 +4878,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 251,
+      "views": 255,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU"
@@ -4922,7 +4926,7 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 174,
+      "views": 172,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
@@ -4946,7 +4950,7 @@
       "hook": "This beetle runs so fast that it cannot see where it is going.",
       "published_at": "2026-11-01T16:50:16Z",
       "privacy": "public",
-      "views": 54,
+      "views": 56,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dXprcguqTJA"
@@ -4970,7 +4974,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 75,
+      "views": 74,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5022,7 +5026,7 @@
       "hook": "A fish hunts insects above the water. Water bends light, so it should miss.",
       "published_at": "2026-11-01T18:00:16Z",
       "privacy": "public",
-      "views": 24,
+      "views": 23,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nSoZ0iq1pOI"
@@ -5046,8 +5050,8 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 222,
-      "likes": 4,
+      "views": 236,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
     },
@@ -5070,7 +5074,7 @@
       "hook": "This animal eats algae, and steals its sunlight power.",
       "published_at": "2026-11-01T21:20:13Z",
       "privacy": "public",
-      "views": 31,
+      "views": 33,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MW0loEuWxf4"
@@ -5118,7 +5122,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 13,
+      "views": 18,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4"
@@ -5142,7 +5146,7 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 12,
+      "views": 9,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
@@ -5166,7 +5170,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 3,
+      "views": 0,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5212,12 +5216,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A fox walked from Norway to Canada. Nobody believed it.",
-      "published_at": "2026-11-02T16:42:20Z",
-      "privacy": "private",
+      "published_at": "2026-11-02T18:00:31Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/lcilP6jC87M"
+    },
+    "TxValGbuqZU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bird Buries 30,000 Seeds and Finds Them Under Snow",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A bird buries thirty thousand seeds. It never writes down where.",
+      "published_at": "2026-11-02T18:01:57Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/TxValGbuqZU"
     }
   }
 }
