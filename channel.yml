@@ -39,7 +39,9 @@ release:
   # getting views during the 19-21 Oct collapse, so it replaces the 4 PM slot (India afternoon = US night).
   # Optional throttles, both off: `videos_per_day: N` caps uploads below YouTube's limit, `only_topics: [...]`
   # restricts the queue to some topics.
-  shorts_slots: ["07:45", "17:30", "19:00", "20:30", "22:00", "23:30", "01:00", "02:30", "04:00", "05:30"]
+  # 2 Nov: the 04:00 slot averaged 20 views over 5 videos while 23:30 averaged 416, so it moved next to the best hour
+  # (23:30, 00:30, 01:30, 02:30 = 1-4 PM US East); 01:00 shifted to 01:30 to keep an hour between releases.
+  shorts_slots: ["07:45", "17:30", "19:00", "20:30", "22:00", "23:30", "00:30", "01:30", "02:30", "05:30"]
   longform_slots: ["06:30"]        # used only while longform.enabled is true
   daily_limit: 10                  # starting value; content/limits.json keeps the live value, raised automatically by the weekly probe
   probe_limit: true                # once a week, try one upload beyond the limit to learn whether YouTube raised it

@@ -15,9 +15,9 @@ on:
     - cron: "10 14 * * *"
     - cron: "40 15 * * *"
     - cron: "10 17 * * *"
-    - cron: "40 18 * * *"
+    - cron: "5 18 * * *"
+    - cron: "5 19 * * *"
     - cron: "10 20 * * *"
-    - cron: "40 21 * * *"
     - cron: "10 23 * * *"
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
