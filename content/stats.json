@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-01T23:41:55+00:00",
+  "updated_at": "2026-11-02T02:19:28+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 62,
     "channel_views": 48645,
-    "video_count": 177
+    "video_count": 178
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/w85RZwds4x4"
+      "https://youtube.com/shorts/yf9Gl1SzDAU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/w85RZwds4x4"
+      "https://youtube.com/shorts/yf9Gl1SzDAU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/w85RZwds4x4"
+      "https://youtube.com/shorts/yf9Gl1SzDAU"
     ]
   },
   "retention": {
@@ -71,7 +71,7 @@
       {
         "title": "This Frog Hides 89% of Its Blood to Turn Invisible While Asleep",
         "avg_view_percent": 19.6,
-        "views": 67
+        "views": 68
       },
       {
         "title": "Dung Beetles Steer by the Milky Way, and Cardboard Hats Proved It",
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 176,
-  "total_views": 49815,
+  "total_videos": 177,
+  "total_views": 49933,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,7 +106,7 @@
     },
     "animals": {
       "videos": 115,
-      "avg_views": 269,
+      "avg_views": 270,
       "best_views": 1507
     },
     "human body": {
@@ -120,20 +120,20 @@
       "best_views": 1112
     },
     "space": {
-      "videos": 22,
-      "avg_views": 380,
+      "videos": 23,
+      "avg_views": 364,
       "best_views": 1513
     },
     "technology": {
       "videos": 3,
       "avg_views": 44,
-      "best_views": 72
+      "best_views": 71
     }
   },
   "by_style": {
     "classic": {
-      "videos": 160,
-      "avg_views": 269,
+      "videos": 161,
+      "avg_views": 268,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 90,
+      "videos": 91,
       "avg_views": 129
     },
     "en-US-BrianNeural": {
@@ -1530,7 +1530,7 @@
       "hook": "The farthest thing humans ever built is almost a full light-day from home.",
       "published_at": "2026-10-29T00:10:36Z",
       "privacy": "public",
-      "views": 72,
+      "views": 71,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/14_g6NqKatc",
@@ -3154,7 +3154,7 @@
       "hook": "This animal runs 35 miles an hour for four miles straight.",
       "published_at": "2026-10-24T21:00:07Z",
       "privacy": "public",
-      "views": 37,
+      "views": 38,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/kKWolYqlfOc",
@@ -3466,6 +3466,30 @@
       "avg_view_percent": 46.9,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "yf9Gl1SzDAU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "An Astronaut's Helmet Filled With Water During a Spacewalk",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "An astronaut nearly drowned in space.",
+      "published_at": "2026-11-02T02:19:19Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/yf9Gl1SzDAU"
     },
     "MJ6FRS8q71M": {
       "upload_status": "processed",
@@ -3822,7 +3846,7 @@
       "hook": "An ant's jaws can close at up to 145 miles an hour.",
       "published_at": "2026-10-29T16:30:10Z",
       "privacy": "public",
-      "views": 165,
+      "views": 166,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4",
@@ -4606,7 +4630,7 @@
       "hook": "This frog turns see-through when it sleeps.",
       "published_at": "2026-10-31T02:40:25Z",
       "privacy": "public",
-      "views": 67,
+      "views": 68,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA",
@@ -4682,7 +4706,7 @@
       "hook": "One bird sees more daylight than any other animal. It weighs about three and a half ounces.",
       "published_at": "2026-10-31T16:40:04Z",
       "privacy": "public",
-      "views": 21,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VTw9ctTNLLw"
@@ -4734,7 +4758,7 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 363,
+      "views": 411,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4"
@@ -4806,7 +4830,7 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 55,
+      "views": 64,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s"
@@ -4830,7 +4854,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 207,
+      "views": 217,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU"
@@ -4854,7 +4878,7 @@
       "hook": "This bug hunts ants, then wears their bodies as a disguise.",
       "published_at": "2026-11-01T03:10:01Z",
       "privacy": "public",
-      "views": 956,
+      "views": 957,
       "likes": 8,
       "comments": 2,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE"
@@ -4878,8 +4902,8 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 66,
-      "likes": 0,
+      "views": 83,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
     },
@@ -4926,7 +4950,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 23,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -4978,7 +5002,7 @@
       "hook": "A fish hunts insects above the water. Water bends light, so it should miss.",
       "published_at": "2026-11-01T18:00:16Z",
       "privacy": "public",
-      "views": 4,
+      "views": 9,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nSoZ0iq1pOI"
@@ -5002,7 +5026,7 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 10,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
@@ -5026,7 +5050,7 @@
       "hook": "This animal eats algae, and steals its sunlight power.",
       "published_at": "2026-11-01T21:20:13Z",
       "privacy": "public",
-      "views": 4,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MW0loEuWxf4"
@@ -5056,14 +5080,14 @@
       "url": "https://youtube.com/shorts/UXcOCvbzdF8"
     },
     "w85RZwds4x4": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5072,11 +5096,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This bird can fake a whole flock of panicking birds.",
-      "published_at": "2026-11-01T23:41:45Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-02T00:10:24Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4"
     }
   }
