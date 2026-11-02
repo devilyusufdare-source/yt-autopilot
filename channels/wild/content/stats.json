@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-02T13:46:05+00:00",
+  "updated_at": "2026-11-02T16:38:20+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 11260,
-    "video_count": 33
+    "video_count": 34
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/_RcytBECyXc"
+      "https://youtube.com/shorts/bIzjV_Zwq6Y"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/_RcytBECyXc"
+      "https://youtube.com/shorts/bIzjV_Zwq6Y"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/_RcytBECyXc"
+      "https://youtube.com/shorts/bIzjV_Zwq6Y"
     ]
   },
   "retention": {
@@ -90,32 +90,32 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 34,
-  "total_views": 11727,
+  "total_videos": 35,
+  "total_views": 11744,
   "by_topic": {
     "earth": {
       "videos": 5,
-      "avg_views": 592,
-      "best_views": 1100
+      "avg_views": 593,
+      "best_views": 1101
     },
     "space": {
       "videos": 17,
-      "avg_views": 278,
+      "avg_views": 279,
       "best_views": 1281
     },
     "society": {
-      "videos": 2,
-      "avg_views": 290,
+      "videos": 3,
+      "avg_views": 194,
       "best_views": 414
     },
     "animals": {
       "videos": 4,
-      "avg_views": 400,
+      "avg_views": 401,
       "best_views": 1425
     },
     "body": {
       "videos": 5,
-      "avg_views": 163,
+      "avg_views": 164,
       "best_views": 497
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 34,
-      "avg_views": 345,
+      "videos": 35,
+      "avg_views": 336,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 33,
-      "avg_views": 324
+      "videos": 34,
+      "avg_views": 315
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1100,
+      "views": 1101,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -835,7 +835,7 @@
       "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
       "published_at": "2026-10-31T16:30:24Z",
       "privacy": "public",
-      "views": 165,
+      "views": 167,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uirFWqmtLZs"
@@ -907,7 +907,7 @@
       "hook": "What if a mouse fell off a skyscraper? A rat wouldn't walk away. A mouse might.",
       "published_at": "2026-11-01T02:40:17Z",
       "privacy": "public",
-      "views": 120,
+      "views": 121,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DV-7AuiUc9E"
@@ -955,7 +955,7 @@
       "hook": "What if a living animal spent ten days in open space? Tiny tardigrades did.",
       "published_at": "2026-11-01T19:10:06Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KGhwdyTT0do"
@@ -979,7 +979,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1100,
+      "views": 1101,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1007,7 +1007,7 @@
       "hook": "What if you flew into the Sun's atmosphere? One spacecraft already did, and it survived.",
       "published_at": "2026-11-01T16:40:32Z",
       "privacy": "public",
-      "views": 52,
+      "views": 59,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gcgl97taucQ"
@@ -1031,7 +1031,7 @@
       "hook": "What if you phoned Voyager 1? Your voice would take a full day to arrive.",
       "published_at": "2026-11-01T21:00:27Z",
       "privacy": "public",
-      "views": 135,
+      "views": 136,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wV86RRTPfaY"
@@ -1055,12 +1055,36 @@
       "hook": "What if an animal frozen for 46,000 years came back to life? One did.",
       "published_at": "2026-11-02T02:40:20Z",
       "privacy": "public",
-      "views": 55,
+      "views": 56,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Z0QgS6RgYvM"
     },
     "_RcytBECyXc": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT38S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Could See Infrared Light? Volunteers Did",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
+      "published_at": "2026-11-02T14:10:22Z",
+      "privacy": "public",
+      "views": 3,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/_RcytBECyXc"
+    },
+    "bIzjV_Zwq6Y": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -1072,17 +1096,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Could See Infrared Light? Volunteers Did",
-      "topic": "body",
+      "title": "What If Every Human Vanished Overnight?",
+      "topic": "society",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
-      "published_at": "2026-11-02T13:45:59Z",
+      "hook": "What if every human vanished tonight? The first disaster wouldn't take long to arrive.",
+      "published_at": "2026-11-02T16:38:13Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/_RcytBECyXc"
+      "url": "https://youtube.com/shorts/bIzjV_Zwq6Y"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
