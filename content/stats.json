@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02T16:42:29+00:00",
+  "updated_at": "2026-11-02T17:56:12+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 62,
+    "subscribers": 63,
     "channel_views": 49871,
     "video_count": 183
   },
@@ -13,15 +13,11 @@
       "https://youtube.com/shorts/lcilP6jC87M"
     ],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/lcilP6jC87M"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/lcilP6jC87M"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 154,
@@ -92,7 +88,7 @@
   },
   "retention_note": null,
   "total_videos": 182,
-  "total_views": 50917,
+  "total_views": 50963,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -145,7 +141,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 96,
-      "avg_views": 132
+      "avg_views": 133
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1058,7 +1054,7 @@
       "hook": "Five planets, five very long years. Number one has barely had a birthday since 1846.",
       "published_at": "2026-11-01T12:00:26Z",
       "privacy": "public",
-      "views": 35,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U2GOkyJ9noA"
@@ -1306,7 +1302,7 @@
       "hook": "You'd expect a whale to win this one. It doesn't even come close.",
       "published_at": "2026-11-02T12:50:22Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u3uqa1Xy358"
@@ -1974,7 +1970,7 @@
       "hook": "A new dinosaur was just discovered. In a museum drawer.",
       "published_at": "2026-10-18T15:00:38Z",
       "privacy": "public",
-      "views": 1015,
+      "views": 1017,
       "likes": 19,
       "comments": 1,
       "url": "https://youtube.com/shorts/jNVKvOMi3ko",
@@ -3346,7 +3342,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 416,
+      "views": 418,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -3510,7 +3506,7 @@
       "hook": "An astronaut nearly drowned in space.",
       "published_at": "2026-11-02T02:50:07Z",
       "privacy": "public",
-      "views": 43,
+      "views": 45,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yf9Gl1SzDAU"
@@ -4682,8 +4678,8 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 591,
-      "likes": 13,
+      "views": 606,
+      "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA"
     },
@@ -4974,7 +4970,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 61,
+      "views": 75,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5026,7 +5022,7 @@
       "hook": "A fish hunts insects above the water. Water bends light, so it should miss.",
       "published_at": "2026-11-01T18:00:16Z",
       "privacy": "public",
-      "views": 21,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nSoZ0iq1pOI"
@@ -5170,7 +5166,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5200,14 +5196,14 @@
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
     },
     "lcilP6jC87M": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT33S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
