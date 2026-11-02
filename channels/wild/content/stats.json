@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-02T16:38:20+00:00",
+  "updated_at": "2026-11-02T17:56:49+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 11260,
-    "video_count": 34
+    "video_count": 35
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/bIzjV_Zwq6Y"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/bIzjV_Zwq6Y"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/bIzjV_Zwq6Y"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 23,
@@ -91,7 +85,7 @@
   },
   "retention_note": null,
   "total_videos": 35,
-  "total_views": 11744,
+  "total_views": 11747,
   "by_topic": {
     "earth": {
       "videos": 5,
@@ -105,7 +99,7 @@
     },
     "society": {
       "videos": 3,
-      "avg_views": 194,
+      "avg_views": 195,
       "best_views": 414
     },
     "animals": {
@@ -1079,20 +1073,20 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 3,
+      "views": 1,
       "likes": 0,
-      "comments": 1,
+      "comments": 0,
       "url": "https://youtube.com/shorts/_RcytBECyXc"
     },
     "bIzjV_Zwq6Y": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1101,11 +1095,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if every human vanished tonight? The first disaster wouldn't take long to arrive.",
-      "published_at": "2026-11-02T16:38:13Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-02T17:00:15Z",
+      "privacy": "public",
+      "views": 5,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/bIzjV_Zwq6Y"
     },
     "jwre0VbiRCc": {
