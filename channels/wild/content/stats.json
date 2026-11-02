@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T17:56:49+00:00",
+  "updated_at": "2026-11-02T19:01:05+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,13 +9,19 @@
     "video_count": 35
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/V1bjB6HEpF8"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/V1bjB6HEpF8"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/V1bjB6HEpF8"
+    ]
   },
   "retention": {
     "videos_with_data": 23,
@@ -84,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 35,
-  "total_views": 11747,
+  "total_videos": 36,
+  "total_views": 11752,
   "by_topic": {
     "earth": {
       "videos": 5,
@@ -99,40 +105,40 @@
     },
     "society": {
       "videos": 3,
-      "avg_views": 195,
+      "avg_views": 194,
       "best_views": 414
     },
     "animals": {
-      "videos": 4,
-      "avg_views": 401,
+      "videos": 5,
+      "avg_views": 321,
       "best_views": 1425
     },
     "body": {
       "videos": 5,
-      "avg_views": 164,
+      "avg_views": 165,
       "best_views": 497
     },
     "technology": {
       "videos": 1,
-      "avg_views": 1037,
-      "best_views": 1037
+      "avg_views": 1038,
+      "best_views": 1038
     }
   },
   "by_style": {
     "classic": {
-      "videos": 35,
-      "avg_views": 336,
+      "videos": 36,
+      "avg_views": 326,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 34,
-      "avg_views": 315
+      "videos": 35,
+      "avg_views": 306
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 1037
+      "avg_views": 1038
     }
   },
   "top_videos": [
@@ -163,7 +169,7 @@
     {
       "title": "What If We Launched Our Nuclear Waste Into the Sun?",
       "topic": "technology",
-      "views": 1037,
+      "views": 1038,
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
     },
     {
@@ -777,7 +783,7 @@
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
-      "views": 1037,
+      "views": 1038,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8",
@@ -925,7 +931,7 @@
       "hook": "What if your spacesuit helmet filled with water in space? It happened to a real astronaut.",
       "published_at": "2026-11-01T13:50:38Z",
       "privacy": "public",
-      "views": 182,
+      "views": 184,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/dwe3rjCTsoo"
@@ -1073,9 +1079,9 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 1,
+      "views": 6,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc"
     },
     "bIzjV_Zwq6Y": {
@@ -1097,10 +1103,34 @@
       "hook": "What if every human vanished tonight? The first disaster wouldn't take long to arrive.",
       "published_at": "2026-11-02T17:00:15Z",
       "privacy": "public",
-      "views": 5,
+      "views": 2,
       "likes": 0,
-      "comments": 1,
+      "comments": 0,
       "url": "https://youtube.com/shorts/bIzjV_Zwq6Y"
+    },
+    "V1bjB6HEpF8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Someone Added One Fish to a Lake? Lake Victoria Did",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
+      "published_at": "2026-11-02T19:01:02Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/V1bjB6HEpF8"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
