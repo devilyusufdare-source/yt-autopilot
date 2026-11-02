@@ -1,0 +1,71 @@
+{
+  "id": "2029-07-15-five-fastest-wingbeats-ranked",
+  "format": "ranking",
+  "ranking_by": "wingbeats per second",
+  "topic": "animals",
+  "title": "The 5 Fastest Wingbeats in Nature, Ranked (Hummingbirds Barely Make It)",
+  "scenes": [
+    {
+      "text": "A hummingbird's wings are a blur. They only rank fifth.",
+      "keywords": "bee hummingbird flying"
+    },
+    {
+      "rank": 5,
+      "label": "Hummingbird · 80/sec",
+      "text": "Number five: the bee hummingbird. About eighty wingbeats a second in normal flight, and up to two hundred in courtship.",
+      "keywords": "bee hummingbird"
+    },
+    {
+      "rank": 4,
+      "label": "Honeybee · 230/sec",
+      "text": "Number four: the honeybee. Around two hundred to two hundred thirty beats a second, which makes that buzz.",
+      "keywords": "honeybee flying"
+    },
+    {
+      "rank": 3,
+      "label": "Mosquito · 300-600/sec",
+      "text": "Number three: the mosquito. Roughly three hundred to six hundred beats a second, depending on species.",
+      "keywords": "mosquito"
+    },
+    {
+      "rank": 2,
+      "label": "Midge · 650-700/sec",
+      "text": "Number two: the chironomid midge. Six hundred fifty to seven hundred beats every second.",
+      "keywords": "midge swarm"
+    },
+    {
+      "rank": 1,
+      "label": "Biting midge · 1,046/sec",
+      "text": "Number one: a tiny biting midge. Over a thousand beats a second, over sixty-two thousand a minute. A record.",
+      "keywords": "tiny midge insect"
+    }
+  ],
+  "description": "The five fastest wingbeats in nature, measured in beats per second.\nThe record is a tiny midge at 1,046 beats per second, measured in 1947.\nWhich animal would you rank next?",
+  "tags": [
+    "wingbeat",
+    "fastest wings",
+    "insect facts",
+    "hummingbird",
+    "midge",
+    "mosquito",
+    "honeybee",
+    "animal facts",
+    "animal rankings",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#insects",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/70633-fastest-wing-beat-of-an-insect",
+    "https://entnemdept.ufl.edu/walker/ufbir/chapters/chapter_09.shtml",
+    "https://www.audubon.org/magazine/get-know-bee-hummingbird-worlds-smallest-bird"
+  ],
+  "thumbnail_text": "5 FASTEST WINGBEATS, RANKED",
+  "priority": 6,
+  "first_comment": "Did you guess a midge? Tell us which animal to rank next."
+}
