@@ -1,0 +1,57 @@
+{
+  "format": "whatif",
+  "topic": "body",
+  "priority": 6,
+  "title": "What If a Diver Rose to the Surface Too Fast?",
+  "scenes": [
+    {
+      "text": "What if a diver shot to the surface? The gas in their body turns on them.",
+      "keywords": "scuba diver ascending"
+    },
+    {
+      "text": "Underwater, pressure pushes extra nitrogen from every breath into your blood and tissues.",
+      "keywords": "diver deep blue water"
+    },
+    {
+      "text": "Rise slowly and you breathe it out. The US Navy and NOAA use about 30 feet a minute.",
+      "keywords": "diver slow ascent bubbles"
+    },
+    {
+      "text": "Rise too fast and the dissolved gas forms bubbles, a bit like fizz in a shaken soda.",
+      "keywords": "soda bubbles fizz"
+    },
+    {
+      "text": "Bubbles can block blood flow. The first sign is usually pain near a joint, which is why it's called the bends.",
+      "keywords": "doctor hospital"
+    },
+    {
+      "text": "The cure is a pressure chamber that squeezes you back down, then brings you up slowly. The hard part of a dive is the way back up.",
+      "keywords": "hyperbaric chamber"
+    }
+  ],
+  "description": "What if a diver rose to the surface too fast?\nDissolved nitrogen can form bubbles in the blood, a condition divers call the bends.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "the bends",
+    "scuba diving",
+    "decompression sickness",
+    "diving facts",
+    "ocean facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#scuba",
+    "#ocean"
+  ],
+  "sources": [
+    "https://dan.org/alert-diver/article/ascent-rates/",
+    "https://www.deseret.com/2000/6/16/19512356/tips-for-avoiding-the-bends-when-diving-in-deep-waters"
+  ],
+  "thumbnail_text": "THE BENDS: BUBBLES IN YOUR BLOOD",
+  "first_comment": "Would you ever try scuba diving? Drop your own 'what if' below.",
+  "id": "2029-11-17-what-if-a-diver-rose-to-the-surface-too-fast"
+}
