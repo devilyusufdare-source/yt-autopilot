@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T04:01:42+00:00",
+  "updated_at": "2026-11-02T13:46:05+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,13 +9,19 @@
     "video_count": 33
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/_RcytBECyXc"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/_RcytBECyXc"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/_RcytBECyXc"
+    ]
   },
   "retention": {
     "videos_with_data": 23,
@@ -47,7 +53,7 @@
       {
         "title": "What If You Floated Into Space Without a Suit?",
         "avg_view_percent": 86.0,
-        "views": 123
+        "views": 125
       },
       {
         "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
@@ -59,7 +65,7 @@
       {
         "title": "What If the Whole Asteroid Belt Became One Planet?",
         "avg_view_percent": 31.5,
-        "views": 285
+        "views": 286
       },
       {
         "title": "What If You Traveled at 99 Percent the Speed of Light?",
@@ -84,55 +90,55 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 33,
-  "total_views": 11577,
+  "total_videos": 34,
+  "total_views": 11727,
   "by_topic": {
     "earth": {
       "videos": 5,
-      "avg_views": 591,
-      "best_views": 1095
+      "avg_views": 592,
+      "best_views": 1100
     },
     "space": {
       "videos": 17,
-      "avg_views": 274,
+      "avg_views": 278,
       "best_views": 1281
     },
     "society": {
       "videos": 2,
-      "avg_views": 280,
+      "avg_views": 290,
       "best_views": 414
     },
     "animals": {
       "videos": 4,
-      "avg_views": 388,
+      "avg_views": 400,
       "best_views": 1425
     },
     "body": {
-      "videos": 4,
-      "avg_views": 202,
+      "videos": 5,
+      "avg_views": 163,
       "best_views": 497
     },
     "technology": {
       "videos": 1,
-      "avg_views": 1036,
-      "best_views": 1036
+      "avg_views": 1037,
+      "best_views": 1037
     }
   },
   "by_style": {
     "classic": {
-      "videos": 33,
-      "avg_views": 351,
+      "videos": 34,
+      "avg_views": 345,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 32,
-      "avg_views": 329
+      "videos": 33,
+      "avg_views": 324
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 1036
+      "avg_views": 1037
     }
   },
   "top_videos": [
@@ -149,21 +155,21 @@
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
     },
     {
+      "title": "What If the Siberian Traps Erupted Again?",
+      "topic": "earth",
+      "views": 1100,
+      "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
+    },
+    {
       "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
       "topic": "space",
       "views": 1096,
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes."
     },
     {
-      "title": "What If the Siberian Traps Erupted Again?",
-      "topic": "earth",
-      "views": 1095,
-      "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
-    },
-    {
       "title": "What If We Launched Our Nuclear Waste Into the Sun?",
       "topic": "technology",
-      "views": 1036,
+      "views": 1037,
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
     },
     {
@@ -469,7 +475,7 @@
       "hook": "What if a star exploded 50 light-years away? You wouldn't feel a thing, and that's the danger.",
       "published_at": "2026-10-27T14:00:17Z",
       "privacy": "public",
-      "views": 131,
+      "views": 132,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8",
@@ -693,7 +699,7 @@
       "hook": "What if you floated into space with no suit? You wouldn't explode. The truth is stranger.",
       "published_at": "2026-10-30T14:10:27Z",
       "privacy": "public",
-      "views": 123,
+      "views": 125,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/vRwTuMJXX7Q",
@@ -749,7 +755,7 @@
       "hook": "What if the whole asteroid belt became one planet? It would be smaller than Pluto.",
       "published_at": "2026-10-30T21:10:24Z",
       "privacy": "public",
-      "views": 285,
+      "views": 286,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rcXHfkgMvcU",
@@ -777,7 +783,7 @@
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
-      "views": 1036,
+      "views": 1037,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8",
@@ -805,7 +811,7 @@
       "hook": "What if you stopped eating for a whole year? One man did. The ending is the strange part.",
       "published_at": "2026-10-31T13:50:09Z",
       "privacy": "public",
-      "views": 81,
+      "views": 87,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MwU7gIiJAtk"
@@ -829,7 +835,7 @@
       "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
       "published_at": "2026-10-31T16:30:24Z",
       "privacy": "public",
-      "views": 147,
+      "views": 165,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uirFWqmtLZs"
@@ -853,7 +859,7 @@
       "hook": "What if it rained diamonds? Deep inside Neptune and Uranus, scientists think it does.",
       "published_at": "2026-10-31T19:10:39Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZzVBYBDzKGA"
@@ -877,7 +883,7 @@
       "hook": "What if it rained glass, sideways, at thousands of miles an hour? One planet possibly does.",
       "published_at": "2026-10-31T21:00:07Z",
       "privacy": "public",
-      "views": 77,
+      "views": 79,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aR40zT0kxg8"
@@ -925,7 +931,7 @@
       "hook": "What if your spacesuit helmet filled with water in space? It happened to a real astronaut.",
       "published_at": "2026-11-01T13:50:38Z",
       "privacy": "public",
-      "views": 171,
+      "views": 182,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/dwe3rjCTsoo"
@@ -973,7 +979,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1095,
+      "views": 1100,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1001,7 +1007,7 @@
       "hook": "What if you flew into the Sun's atmosphere? One spacecraft already did, and it survived.",
       "published_at": "2026-11-01T16:40:32Z",
       "privacy": "public",
-      "views": 40,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gcgl97taucQ"
@@ -1025,7 +1031,7 @@
       "hook": "What if you phoned Voyager 1? Your voice would take a full day to arrive.",
       "published_at": "2026-11-01T21:00:27Z",
       "privacy": "public",
-      "views": 94,
+      "views": 135,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wV86RRTPfaY"
@@ -1049,10 +1055,34 @@
       "hook": "What if an animal frozen for 46,000 years came back to life? One did.",
       "published_at": "2026-11-02T02:40:20Z",
       "privacy": "public",
-      "views": 6,
-      "likes": 0,
+      "views": 55,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Z0QgS6RgYvM"
+    },
+    "_RcytBECyXc": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Could See Infrared Light? Volunteers Did",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
+      "published_at": "2026-11-02T13:45:59Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/_RcytBECyXc"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
