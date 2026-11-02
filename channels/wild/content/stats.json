@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-01T20:45:26+00:00",
+  "updated_at": "2026-11-02T02:17:07+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 11203,
-    "video_count": 31
+    "video_count": 32
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/wV86RRTPfaY"
+      "https://youtube.com/shorts/Z0QgS6RgYvM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/wV86RRTPfaY"
+      "https://youtube.com/shorts/Z0QgS6RgYvM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/wV86RRTPfaY"
+      "https://youtube.com/shorts/Z0QgS6RgYvM"
     ]
   },
   "retention": {
@@ -90,55 +90,55 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 32,
-  "total_views": 11417,
+  "total_videos": 33,
+  "total_views": 11560,
   "by_topic": {
     "earth": {
       "videos": 5,
       "avg_views": 591,
-      "best_views": 1092
+      "best_views": 1094
     },
     "space": {
       "videos": 17,
-      "avg_views": 266,
+      "avg_views": 274,
       "best_views": 1281
     },
     "society": {
       "videos": 2,
-      "avg_views": 277,
+      "avg_views": 280,
       "best_views": 414
     },
     "animals": {
-      "videos": 3,
-      "avg_views": 514,
+      "videos": 4,
+      "avg_views": 386,
       "best_views": 1425
     },
     "body": {
       "videos": 4,
-      "avg_views": 201,
+      "avg_views": 202,
       "best_views": 497
     },
     "technology": {
       "videos": 1,
-      "avg_views": 1035,
-      "best_views": 1035
+      "avg_views": 1036,
+      "best_views": 1036
     }
   },
   "by_style": {
     "classic": {
-      "videos": 32,
-      "avg_views": 357,
+      "videos": 33,
+      "avg_views": 350,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 31,
-      "avg_views": 335
+      "videos": 32,
+      "avg_views": 329
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 1035
+      "avg_views": 1036
     }
   },
   "top_videos": [
@@ -163,13 +163,13 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1092,
+      "views": 1094,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
       "title": "What If We Launched Our Nuclear Waste Into the Sun?",
       "topic": "technology",
-      "views": 1035,
+      "views": 1036,
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
     },
     {
@@ -251,7 +251,7 @@
       "hook": "What if the fault off the Pacific Northwest snapped? The ground is not the biggest danger.",
       "published_at": "2026-10-25T02:15:13Z",
       "privacy": "public",
-      "views": 120,
+      "views": 121,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/jKyqYNkFqgE",
@@ -475,7 +475,7 @@
       "hook": "What if a star exploded 50 light-years away? You wouldn't feel a thing, and that's the danger.",
       "published_at": "2026-10-27T14:00:17Z",
       "privacy": "public",
-      "views": 130,
+      "views": 131,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8",
@@ -783,7 +783,7 @@
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
-      "views": 1035,
+      "views": 1036,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8",
@@ -811,7 +811,7 @@
       "hook": "What if you stopped eating for a whole year? One man did. The ending is the strange part.",
       "published_at": "2026-10-31T13:50:09Z",
       "privacy": "public",
-      "views": 77,
+      "views": 81,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MwU7gIiJAtk"
@@ -835,7 +835,7 @@
       "hook": "What if daylight saving time never ended? America tried it once, and quit within a year.",
       "published_at": "2026-10-31T16:30:24Z",
       "privacy": "public",
-      "views": 140,
+      "views": 145,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uirFWqmtLZs"
@@ -859,7 +859,7 @@
       "hook": "What if it rained diamonds? Deep inside Neptune and Uranus, scientists think it does.",
       "published_at": "2026-10-31T19:10:39Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZzVBYBDzKGA"
@@ -883,7 +883,7 @@
       "hook": "What if it rained glass, sideways, at thousands of miles an hour? One planet possibly does.",
       "published_at": "2026-10-31T21:00:07Z",
       "privacy": "public",
-      "views": 74,
+      "views": 77,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aR40zT0kxg8"
@@ -907,7 +907,7 @@
       "hook": "What if a mouse fell off a skyscraper? A rat wouldn't walk away. A mouse might.",
       "published_at": "2026-11-01T02:40:17Z",
       "privacy": "public",
-      "views": 115,
+      "views": 119,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DV-7AuiUc9E"
@@ -931,7 +931,7 @@
       "hook": "What if your spacesuit helmet filled with water in space? It happened to a real astronaut.",
       "published_at": "2026-11-01T13:50:38Z",
       "privacy": "public",
-      "views": 150,
+      "views": 171,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/dwe3rjCTsoo"
@@ -955,7 +955,7 @@
       "hook": "What if a living animal spent ten days in open space? Tiny tardigrades did.",
       "published_at": "2026-11-01T19:10:06Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KGhwdyTT0do"
@@ -979,7 +979,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1092,
+      "views": 1094,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1007,12 +1007,36 @@
       "hook": "What if you flew into the Sun's atmosphere? One spacecraft already did, and it survived.",
       "published_at": "2026-11-01T16:40:32Z",
       "privacy": "public",
-      "views": 28,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gcgl97taucQ"
     },
     "wV86RRTPfaY": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT32S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Phoned Voyager 1? Your Voice Takes a Full Day",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you phoned Voyager 1? Your voice would take a full day to arrive.",
+      "published_at": "2026-11-01T21:00:27Z",
+      "privacy": "public",
+      "views": 90,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/wV86RRTPfaY"
+    },
+    "Z0QgS6RgYvM": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1024,17 +1048,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Phoned Voyager 1? Your Voice Takes a Full Day",
-      "topic": "space",
+      "title": "What If a Worm Frozen 46,000 Years Woke Up and Had Babies?",
+      "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you phoned Voyager 1? Your voice would take a full day to arrive.",
-      "published_at": "2026-11-01T20:45:21Z",
+      "hook": "What if an animal frozen for 46,000 years came back to life? One did.",
+      "published_at": "2026-11-02T02:17:03Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/wV86RRTPfaY"
+      "url": "https://youtube.com/shorts/Z0QgS6RgYvM"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
