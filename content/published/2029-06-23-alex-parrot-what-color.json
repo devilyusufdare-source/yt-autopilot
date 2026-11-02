@@ -55,5 +55,21 @@
     "https://animalwise.org/2011/11/"
   ],
   "thumbnail_text": "THE PARROT WHO ASKED",
-  "first_comment": "What question would you ask a parrot? Drop it below."
+  "first_comment": "What question would you ask a parrot? Drop it below.",
+  "youtube_id": "y5-MSH3z9d0",
+  "url": "https://youtube.com/shorts/y5-MSH3z9d0",
+  "uploaded_at": "2026-11-02T20:57:03+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-02T21:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 14,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 38.1,
+  "style": "classic",
+  "kind": "shorts"
 }

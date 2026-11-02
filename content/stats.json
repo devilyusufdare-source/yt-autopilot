@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-02T19:57:40+00:00",
+  "updated_at": "2026-11-02T20:57:06+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 63,
     "channel_views": 50659,
-    "video_count": 185
+    "video_count": 186
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/DN6jpzoIDp8",
-      "https://youtube.com/shorts/E7R9OiRvj3s"
+      "https://youtube.com/shorts/E7R9OiRvj3s",
+      "https://youtube.com/shorts/y5-MSH3z9d0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/E7R9OiRvj3s"
+      "https://youtube.com/shorts/y5-MSH3z9d0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/E7R9OiRvj3s"
+      "https://youtube.com/shorts/y5-MSH3z9d0"
     ]
   },
   "retention": {
-    "videos_with_data": 154,
-    "avg_view_percent": 63.2,
+    "videos_with_data": 165,
+    "avg_view_percent": 62.4,
     "by_topic": {
       "psychology": 71.3,
-      "science": 67.0,
-      "animals": 61.9,
+      "science": 66.7,
+      "animals": 60.9,
       "human body": 86.5,
       "history": 54.1,
-      "space": 65.5,
+      "space": 65.1,
       "technology": 58.4
     },
     "best": [
@@ -48,11 +48,6 @@
         "views": 33
       },
       {
-        "title": "A 500-Pound Fish Swallowed a Hooked Shark in One Gulp",
-        "avg_view_percent": 168.6,
-        "views": 472
-      },
-      {
         "title": "Your Body Is Glowing Right Now and You Can't See It",
         "avg_view_percent": 158.2,
         "views": 247
@@ -61,6 +56,11 @@
         "title": "In 2022, a Volcano Fired 2,600 Lightning Bolts a Minute",
         "avg_view_percent": 153.4,
         "views": 6
+      },
+      {
+        "title": "A 500-Pound Fish Swallowed a Hooked Shark in One Gulp",
+        "avg_view_percent": 133.7,
+        "views": 472
       }
     ],
     "worst": [
@@ -70,30 +70,30 @@
         "views": 2
       },
       {
-        "title": "This Frog Hides 89% of Its Blood to Turn Invisible While Asleep",
-        "avg_view_percent": 19.6,
-        "views": 71
-      },
-      {
-        "title": "Dung Beetles Steer by the Milky Way, and Cardboard Hats Proved It",
-        "avg_view_percent": 21.5,
-        "views": 18
+        "title": "How Does an Electric Eel Shock Something Above the Water? It Jumps",
+        "avg_view_percent": 15.2,
+        "views": 25
       },
       {
         "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
-        "avg_view_percent": 22.6,
+        "avg_view_percent": 20.9,
         "views": 64
       },
       {
         "title": "The Shortest War in History Lasted 38 Minutes",
         "avg_view_percent": 23.1,
         "views": 12
+      },
+      {
+        "title": "Europe's Hera Reaches the Asteroid NASA Smashed in December",
+        "avg_view_percent": 23.2,
+        "views": 1
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 185,
-  "total_views": 51104,
+  "total_videos": 186,
+  "total_views": 51124,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 123,
-      "avg_views": 261,
+      "videos": 124,
+      "avg_views": 259,
       "best_views": 1507
     },
     "human body": {
@@ -122,7 +122,7 @@
     },
     "space": {
       "videos": 23,
-      "avg_views": 366,
+      "avg_views": 367,
       "best_views": 1513
     },
     "technology": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 169,
-      "avg_views": 262,
+      "videos": 170,
+      "avg_views": 261,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 99,
-      "avg_views": 130
+      "videos": 100,
+      "avg_views": 129
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -928,7 +928,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/9s8UtHBrp8k",
       "avg_view_seconds": 7.0,
-      "avg_view_percent": 22.6,
+      "avg_view_percent": 20.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1038,7 +1038,11 @@
       "views": 65,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/lBMAQUOlFT0"
+      "url": "https://youtube.com/shorts/lBMAQUOlFT0",
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 60.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "U2GOkyJ9noA": {
       "upload_status": "processed",
@@ -1087,8 +1091,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 35.6,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 38.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1335,8 +1339,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/SVJipZiOpJM",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 43.1,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 41.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1448,7 +1452,7 @@
       "comments": 3,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k",
       "avg_view_seconds": 18.0,
-      "avg_view_percent": 57.6,
+      "avg_view_percent": 57.5,
       "shares": 1,
       "subscribers_gained": 0
     },
@@ -2820,7 +2824,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/l57MjoYS9NY",
       "avg_view_seconds": 11.0,
-      "avg_view_percent": 38.6,
+      "avg_view_percent": 37.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3155,8 +3159,8 @@
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/_jeX-UKxfww",
-      "avg_view_seconds": 9.0,
-      "avg_view_percent": 37.5,
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 42.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3239,8 +3243,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8HPrrfRBnJA",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 65.3,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 62.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3295,8 +3299,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 60.5,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 41.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3352,7 +3356,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 53.3,
+      "avg_view_percent": 53.0,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -3406,7 +3410,11 @@
       "views": 88,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/-bqtL8ZVsbw"
+      "url": "https://youtube.com/shorts/-bqtL8ZVsbw",
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 80.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "T4gdnphQUUE": {
       "upload_status": "processed",
@@ -3511,7 +3519,7 @@
       "hook": "An astronaut nearly drowned in space.",
       "published_at": "2026-11-02T02:50:07Z",
       "privacy": "public",
-      "views": 45,
+      "views": 47,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yf9Gl1SzDAU"
@@ -3651,8 +3659,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mmv9b2xQG2A",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 43.0,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 41.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3792,7 +3800,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/oHOSiC4XktU",
       "avg_view_seconds": 18.0,
-      "avg_view_percent": 65.1,
+      "avg_view_percent": 65.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3875,8 +3883,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 51.7,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 49.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3904,7 +3912,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/qR2EsU5H4ZM",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 46.8,
+      "avg_view_percent": 46.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3931,8 +3939,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QsLlW3CpAWM",
-      "avg_view_seconds": 9.0,
-      "avg_view_percent": 42.8,
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 50.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4100,7 +4108,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY",
       "avg_view_seconds": 9.0,
-      "avg_view_percent": 34.2,
+      "avg_view_percent": 35.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4155,8 +4163,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA",
-      "avg_view_seconds": 11.0,
-      "avg_view_percent": 47.2,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 49.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4379,8 +4387,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI",
-      "avg_view_seconds": 33.0,
-      "avg_view_percent": 168.6,
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 133.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4435,8 +4443,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 73.3,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 64.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4464,7 +4472,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 63.4,
+      "avg_view_percent": 62.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4519,8 +4527,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 54.7,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 60.1,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -4547,8 +4555,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/c1_iRJblyEI",
-      "avg_view_seconds": 9.0,
-      "avg_view_percent": 37.9,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 51.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4575,8 +4583,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hs38proZTyc",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 45.8,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 79.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4603,8 +4611,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qRaw9tphoKk",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 88.6,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 73.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4631,8 +4639,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/C3SZcCFa7Vw",
-      "avg_view_seconds": 5.0,
-      "avg_view_percent": 21.5,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 42.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4659,8 +4667,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA",
-      "avg_view_seconds": 4.0,
-      "avg_view_percent": 19.6,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 66.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4686,7 +4694,11 @@
       "views": 606,
       "likes": 15,
       "comments": 1,
-      "url": "https://youtube.com/shorts/UYo-aCcD5oA"
+      "url": "https://youtube.com/shorts/UYo-aCcD5oA",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 60.9,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "VAHBFzaup4g": {
       "upload_status": "processed",
@@ -4710,7 +4722,11 @@
       "views": 25,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/VAHBFzaup4g"
+      "url": "https://youtube.com/shorts/VAHBFzaup4g",
+      "avg_view_seconds": 5.0,
+      "avg_view_percent": 15.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "VTw9ctTNLLw": {
       "upload_status": "processed",
@@ -4734,7 +4750,11 @@
       "views": 28,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/VTw9ctTNLLw"
+      "url": "https://youtube.com/shorts/VTw9ctTNLLw",
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 31.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "VuyOz5b3Dk8": {
       "upload_status": "processed",
@@ -4786,7 +4806,11 @@
       "views": 784,
       "likes": 9,
       "comments": 1,
-      "url": "https://youtube.com/shorts/RzL3iaVRiV4"
+      "url": "https://youtube.com/shorts/RzL3iaVRiV4",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 42.7,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "Zl1SdlXN0H0": {
       "upload_status": "processed",
@@ -4810,7 +4834,11 @@
       "views": 17,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Zl1SdlXN0H0"
+      "url": "https://youtube.com/shorts/Zl1SdlXN0H0",
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 34.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "PXVQE8MFDkM": {
       "upload_status": "processed",
@@ -4834,7 +4862,11 @@
       "views": 49,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/PXVQE8MFDkM"
+      "url": "https://youtube.com/shorts/PXVQE8MFDkM",
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 36.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "-R8EwEsb9-s": {
       "upload_status": "processed",
@@ -4858,7 +4890,11 @@
       "views": 90,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/-R8EwEsb9-s"
+      "url": "https://youtube.com/shorts/-R8EwEsb9-s",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 51.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "_53QIS8NovU": {
       "upload_status": "processed",
@@ -4882,7 +4918,11 @@
       "views": 257,
       "likes": 5,
       "comments": 1,
-      "url": "https://youtube.com/shorts/_53QIS8NovU"
+      "url": "https://youtube.com/shorts/_53QIS8NovU",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 49.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "x9pCkBDxsLE": {
       "upload_status": "processed",
@@ -4906,7 +4946,11 @@
       "views": 961,
       "likes": 8,
       "comments": 1,
-      "url": "https://youtube.com/shorts/x9pCkBDxsLE"
+      "url": "https://youtube.com/shorts/x9pCkBDxsLE",
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 48.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "U9WHN5tJCbY": {
       "upload_status": "processed",
@@ -4975,7 +5019,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 72,
+      "views": 78,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5003,8 +5047,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 58.3,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 56.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5123,7 +5167,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 16,
+      "views": 19,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4"
@@ -5171,7 +5215,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 0,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5195,7 +5239,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
@@ -5265,22 +5309,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Every eel in Europe is born in a place no one has ever seen.",
-      "published_at": "2026-11-02T18:56:38Z",
-      "privacy": "private",
+      "published_at": "2026-11-02T20:00:29Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8"
     },
     "E7R9OiRvj3s": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT30S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5295,6 +5339,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/E7R9OiRvj3s"
+    },
+    "y5-MSH3z9d0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Parrot Once Asked, 'What Color?' Looking in a Mirror",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A parrot once looked in a mirror and asked a question.",
+      "published_at": "2026-11-02T20:56:57Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/y5-MSH3z9d0"
     }
   }
 }
