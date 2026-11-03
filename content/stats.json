@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-03T15:01:24+00:00",
+  "updated_at": "2026-11-03T17:56:46+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 63,
     "channel_views": 51352,
-    "video_count": 193
+    "video_count": 194
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/KS48QzMQ-QI"
+      "https://youtube.com/shorts/zrF56f4voZw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/KS48QzMQ-QI"
+      "https://youtube.com/shorts/zrF56f4voZw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/KS48QzMQ-QI"
+      "https://youtube.com/shorts/zrF56f4voZw"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 192,
-  "total_views": 51525,
+  "total_videos": 193,
+  "total_views": 51646,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 128,
-      "avg_views": 254,
+      "videos": 129,
+      "avg_views": 253,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 176,
-      "avg_views": 254,
+      "videos": 177,
+      "avg_views": 253,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 106,
+      "videos": 107,
       "avg_views": 125
     },
     "en-US-BrianNeural": {
@@ -735,6 +735,30 @@
       "shares": 2,
       "subscribers_gained": 4
     },
+    "zrF56f4voZw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Rhino Weighs Up to 3,000 Pounds and Charges at 35 MPH",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A rhino charges at 35 miles an hour.",
+      "published_at": "2026-11-03T17:56:39Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/zrF56f4voZw"
+    },
     "Rahl0RiZm5w": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -782,7 +806,7 @@
       "hook": "The five animals that kill the most people every year, ranked. Sharks don't even make the list.",
       "published_at": "2026-10-23T21:00:08Z",
       "privacy": "public",
-      "views": 138,
+      "views": 139,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/0-l77m9gWbo",
@@ -1282,9 +1306,9 @@
       "hook": "Only five computers on Earth are this fast. Number one is brand new.",
       "published_at": "2026-11-03T15:00:10Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/DpnhUFqNzQc"
     },
     "HUKVi1Kn7E0": {
@@ -3402,7 +3426,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 495,
+      "views": 496,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA",
@@ -3514,7 +3538,7 @@
       "hook": "Some snakes launch themselves off trees and glide.",
       "published_at": "2026-10-28T20:20:09Z",
       "privacy": "public",
-      "views": 575,
+      "views": 577,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/szMs6LVs_BM",
@@ -3542,7 +3566,7 @@
       "hook": "An astronaut nearly drowned in space.",
       "published_at": "2026-11-02T02:50:07Z",
       "privacy": "public",
-      "views": 53,
+      "views": 55,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yf9Gl1SzDAU"
@@ -3566,8 +3590,8 @@
       "hook": "Ships climb 85 feet without a single pump.",
       "published_at": "2026-11-03T02:50:00Z",
       "privacy": "public",
-      "views": 29,
-      "likes": 0,
+      "views": 35,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28"
     },
@@ -4738,8 +4762,8 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 627,
-      "likes": 16,
+      "views": 634,
+      "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
       "avg_view_seconds": 17.0,
@@ -4878,7 +4902,7 @@
       "hook": "A gas company once found its pipeline leaks by following vultures.",
       "published_at": "2026-10-31T19:50:12Z",
       "privacy": "public",
-      "views": 18,
+      "views": 19,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zl1SdlXN0H0",
@@ -5018,7 +5042,7 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 196,
+      "views": 205,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
@@ -5042,7 +5066,7 @@
       "hook": "This beetle runs so fast that it cannot see where it is going.",
       "published_at": "2026-11-01T16:50:16Z",
       "privacy": "public",
-      "views": 64,
+      "views": 65,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dXprcguqTJA"
@@ -5066,7 +5090,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 109,
+      "views": 110,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5118,7 +5142,7 @@
       "hook": "A fish hunts insects above the water. Water bends light, so it should miss.",
       "published_at": "2026-11-01T18:00:16Z",
       "privacy": "public",
-      "views": 25,
+      "views": 26,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nSoZ0iq1pOI"
@@ -5142,8 +5166,8 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 385,
-      "likes": 4,
+      "views": 408,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
     },
@@ -5190,7 +5214,7 @@
       "hook": "There's a fish whose blood is clear. And it has no red blood cells at all.",
       "published_at": "2026-11-01T22:40:34Z",
       "privacy": "public",
-      "views": 2,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UXcOCvbzdF8"
@@ -5214,7 +5238,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 25,
+      "views": 28,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4"
@@ -5238,7 +5262,7 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 86,
+      "views": 88,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
@@ -5286,7 +5310,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 30,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
@@ -5310,7 +5334,7 @@
       "hook": "A fox walked from Norway to Canada. Nobody believed it.",
       "published_at": "2026-11-02T18:00:31Z",
       "privacy": "public",
-      "views": 11,
+      "views": 13,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lcilP6jC87M"
@@ -5334,7 +5358,7 @@
       "hook": "A bird buries thirty thousand seeds. It never writes down where.",
       "published_at": "2026-11-02T19:00:16Z",
       "privacy": "public",
-      "views": 5,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TxValGbuqZU"
@@ -5358,7 +5382,7 @@
       "hook": "Every eel in Europe is born in a place no one has ever seen.",
       "published_at": "2026-11-02T20:00:29Z",
       "privacy": "public",
-      "views": 16,
+      "views": 22,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8"
@@ -5382,7 +5406,7 @@
       "hook": "This fish feeds in near-freezing water and stays warm as a mammal.",
       "published_at": "2026-11-02T21:00:03Z",
       "privacy": "public",
-      "views": 6,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/E7R9OiRvj3s"
@@ -5430,7 +5454,7 @@
       "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
       "published_at": "2026-11-03T00:10:06Z",
       "privacy": "public",
-      "views": 20,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU"
@@ -5454,8 +5478,8 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 36,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs"
     },
@@ -5478,20 +5502,20 @@
       "hook": "This insect isn't a flower. Bees fly to it more than to real ones.",
       "published_at": "2026-11-03T14:20:11Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SUtsfcR8bGA"
     },
     "KS48QzMQ-QI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT33S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5500,9 +5524,9 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This snake makes fish run away from it. And they swim straight into its mouth.",
-      "published_at": "2026-11-03T15:01:15Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-03T15:30:28Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/KS48QzMQ-QI"
