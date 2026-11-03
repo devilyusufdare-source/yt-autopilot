@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-03T13:52:08+00:00",
+  "updated_at": "2026-11-03T16:44:32+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 11840,
-    "video_count": 38
+    "video_count": 39
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/ZxEWLYdNKhk"
+      "https://youtube.com/shorts/sg7h0dFtCCg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/ZxEWLYdNKhk"
+      "https://youtube.com/shorts/sg7h0dFtCCg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/ZxEWLYdNKhk"
+      "https://youtube.com/shorts/sg7h0dFtCCg"
     ]
   },
   "retention": {
@@ -90,12 +90,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 39,
-  "total_views": 11992,
+  "total_videos": 40,
+  "total_views": 12008,
   "by_topic": {
     "earth": {
       "videos": 6,
-      "avg_views": 494,
+      "avg_views": 495,
       "best_views": 1104
     },
     "space": {
@@ -110,7 +110,7 @@
     },
     "animals": {
       "videos": 6,
-      "avg_views": 291,
+      "avg_views": 293,
       "best_views": 1426
     },
     "body": {
@@ -119,22 +119,22 @@
       "best_views": 497
     },
     "technology": {
-      "videos": 1,
-      "avg_views": 1041,
+      "videos": 2,
+      "avg_views": 520,
       "best_views": 1041
     }
   },
   "by_style": {
     "classic": {
-      "videos": 39,
-      "avg_views": 307,
+      "videos": 40,
+      "avg_views": 300,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 38,
-      "avg_views": 288
+      "videos": 39,
+      "avg_views": 281
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1147,7 +1147,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 47,
+      "views": 49,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8"
@@ -1171,8 +1171,8 @@
       "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
       "published_at": "2026-11-02T21:10:15Z",
       "privacy": "public",
-      "views": 92,
-      "likes": 1,
+      "views": 100,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I"
     },
@@ -1201,14 +1201,14 @@
       "url": "https://youtube.com/shorts/QElYghl0l6s"
     },
     "ZxEWLYdNKhk": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1217,12 +1217,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you jumped into a tunnel straight through Earth? You would not fall forever.",
-      "published_at": "2026-11-03T13:52:03Z",
+      "published_at": "2026-11-03T14:10:22Z",
+      "privacy": "public",
+      "views": 6,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/ZxEWLYdNKhk"
+    },
+    "sg7h0dFtCCg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Helicopter Flew on Mars? NASA's Flew 72 Times",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you flew a helicopter on Mars? The air there is almost too thin to fly.",
+      "published_at": "2026-11-03T16:44:19Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/ZxEWLYdNKhk"
+      "url": "https://youtube.com/shorts/sg7h0dFtCCg"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
