@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-03T17:56:46+00:00",
+  "updated_at": "2026-11-03T18:51:38+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 63,
     "channel_views": 51352,
-    "video_count": 194
+    "video_count": 193
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/zrF56f4voZw"
+      "https://youtube.com/shorts/zrF56f4voZw",
+      "https://youtube.com/shorts/C0-01Rinu20"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/zrF56f4voZw"
+      "https://youtube.com/shorts/C0-01Rinu20"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/zrF56f4voZw"
+      "https://youtube.com/shorts/C0-01Rinu20"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 193,
-  "total_views": 51646,
+  "total_videos": 194,
+  "total_views": 51733,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 129,
-      "avg_views": 253,
+      "videos": 130,
+      "avg_views": 252,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 177,
-      "avg_views": 253,
+      "videos": 178,
+      "avg_views": 252,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +145,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 107,
+      "videos": 108,
       "avg_views": 125
     },
     "en-US-BrianNeural": {
@@ -736,14 +737,14 @@
       "subscribers_gained": 4
     },
     "zrF56f4voZw": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT22S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -758,6 +759,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/zrF56f4voZw"
+    },
+    "C0-01Rinu20": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Fish Breathes Air and Has Two Rows of Teeth",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This fish breathes air. And it has two rows of teeth.",
+      "published_at": "2026-11-03T18:51:29Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/C0-01Rinu20"
     },
     "Rahl0RiZm5w": {
       "upload_status": "processed",
@@ -3590,7 +3615,7 @@
       "hook": "Ships climb 85 feet without a single pump.",
       "published_at": "2026-11-03T02:50:00Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28"
@@ -4762,7 +4787,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 634,
+      "views": 636,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
@@ -5090,7 +5115,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 110,
+      "views": 109,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5166,8 +5191,8 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 408,
-      "likes": 7,
+      "views": 482,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
     },
@@ -5190,7 +5215,7 @@
       "hook": "This animal eats algae, and steals its sunlight power.",
       "published_at": "2026-11-01T21:20:13Z",
       "privacy": "public",
-      "views": 41,
+      "views": 42,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MW0loEuWxf4"
@@ -5262,7 +5287,7 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 88,
+      "views": 91,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
@@ -5310,7 +5335,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 37,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
@@ -5406,7 +5431,7 @@
       "hook": "This fish feeds in near-freezing water and stays warm as a mammal.",
       "published_at": "2026-11-02T21:00:03Z",
       "privacy": "public",
-      "views": 8,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/E7R9OiRvj3s"
@@ -5454,7 +5479,7 @@
       "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
       "published_at": "2026-11-03T00:10:06Z",
       "privacy": "public",
-      "views": 24,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU"
@@ -5478,7 +5503,7 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 36,
+      "views": 35,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs"
@@ -5526,7 +5551,7 @@
       "hook": "This snake makes fish run away from it. And they swim straight into its mouth.",
       "published_at": "2026-11-03T15:30:28Z",
       "privacy": "public",
-      "views": 1,
+      "views": 10,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/KS48QzMQ-QI"
