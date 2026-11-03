@@ -1,26 +1,29 @@
 {
-  "updated_at": "2026-11-03T16:44:32+00:00",
+  "updated_at": "2026-11-03T19:07:08+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 11840,
-    "video_count": 39
+    "video_count": 40
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/sg7h0dFtCCg"
+      "https://youtube.com/shorts/sg7h0dFtCCg",
+      "https://youtube.com/shorts/IzRTbLLmQ1c"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/sg7h0dFtCCg"
+      "https://youtube.com/shorts/sg7h0dFtCCg",
+      "https://youtube.com/shorts/IzRTbLLmQ1c"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/sg7h0dFtCCg"
+      "https://youtube.com/shorts/sg7h0dFtCCg",
+      "https://youtube.com/shorts/IzRTbLLmQ1c"
     ]
   },
   "retention": {
@@ -75,12 +78,12 @@
       {
         "title": "What If It Rained Glass Sideways? One Planet May",
         "avg_view_percent": 37.3,
-        "views": 79
+        "views": 80
       },
       {
         "title": "What If a Mouse Fell Off a Skyscraper? Size Decides",
         "avg_view_percent": 39.7,
-        "views": 122
+        "views": 123
       },
       {
         "title": "What If a Lake Exploded With Gas? One Did in 1986",
@@ -90,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 40,
-  "total_views": 12008,
+  "total_videos": 41,
+  "total_views": 12022,
   "by_topic": {
     "earth": {
       "videos": 6,
@@ -99,8 +102,8 @@
       "best_views": 1104
     },
     "space": {
-      "videos": 18,
-      "avg_views": 265,
+      "videos": 19,
+      "avg_views": 251,
       "best_views": 1281
     },
     "society": {
@@ -110,12 +113,12 @@
     },
     "animals": {
       "videos": 6,
-      "avg_views": 293,
+      "avg_views": 295,
       "best_views": 1426
     },
     "body": {
       "videos": 5,
-      "avg_views": 167,
+      "avg_views": 168,
       "best_views": 497
     },
     "technology": {
@@ -126,15 +129,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 40,
-      "avg_views": 300,
+      "videos": 41,
+      "avg_views": 293,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 39,
-      "avg_views": 281
+      "videos": 40,
+      "avg_views": 275
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -895,7 +898,7 @@
       "hook": "What if it rained glass, sideways, at thousands of miles an hour? One planet possibly does.",
       "published_at": "2026-10-31T21:00:07Z",
       "privacy": "public",
-      "views": 79,
+      "views": 80,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aR40zT0kxg8",
@@ -923,7 +926,7 @@
       "hook": "What if a mouse fell off a skyscraper? A rat wouldn't walk away. A mouse might.",
       "published_at": "2026-11-01T02:40:17Z",
       "privacy": "public",
-      "views": 122,
+      "views": 123,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DV-7AuiUc9E",
@@ -1099,7 +1102,7 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 17,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc"
@@ -1171,7 +1174,7 @@
       "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
       "published_at": "2026-11-02T21:10:15Z",
       "privacy": "public",
-      "views": 100,
+      "views": 109,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I"
@@ -1247,6 +1250,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/sg7h0dFtCCg"
+    },
+    "IzRTbLLmQ1c": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If an Interstellar Comet Flew Past Us? 3I/ATLAS Did",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
+      "published_at": "2026-11-03T19:07:05Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/IzRTbLLmQ1c"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
