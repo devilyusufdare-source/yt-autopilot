@@ -1,0 +1,55 @@
+{
+  "topic": "animals",
+  "format": "fact",
+  "title": "A Springbok Runs 55 MPH, So Why Does It Bounce 6 Feet Up Instead?",
+  "subject": "springbok",
+  "scenes": [
+    {
+      "text": "A springbok can run 55 miles an hour. So why does it sometimes bounce instead?",
+      "keywords": "springbok pronking"
+    },
+    {
+      "text": "It leaps up to six and a half feet into the air, legs stiff, back bowed, again and again.",
+      "keywords": "springbok jumping"
+    },
+    {
+      "text": "It's called pronking, and the whole herd can do it at once.",
+      "keywords": "springbok herd"
+    },
+    {
+      "text": "Mid-leap, it flips open a white flap of hair along its rump and releases a strong scent.",
+      "keywords": "springbok white crest"
+    },
+    {
+      "text": "The leading theory: the bounce warns the herd, confuses a predator, or gives a better view of one hiding.",
+      "keywords": "springbok savanna"
+    },
+    {
+      "text": "Scientists still argue about it. A springbok can outrun almost anything, and sometimes it jumps instead.",
+      "keywords": "springbok running"
+    }
+  ],
+  "description": "A springbok can run 55 miles an hour, yet sometimes it bounces straight up instead.\nPronking sends it up to six and a half feet, stiff-legged, with a white flap of hair flipped open.\nWhy do you think it does it? Tell us below.",
+  "tags": [
+    "springbok",
+    "springbok pronking",
+    "pronking",
+    "animal facts",
+    "african animals",
+    "antelope facts",
+    "weird animal behavior",
+    "animal mysteries",
+    "nature facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": ["#shorts", "#animals", "#springbok", "#wildlife"],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Springbok",
+    "https://www.britannica.com/animal/springbok-mammal"
+  ],
+  "thumbnail_text": "55 MPH. SO WHY BOUNCE?",
+  "priority": 5,
+  "first_comment": "Why do you think it jumps instead of running? Pick: warning, bluff or showing off.",
+  "id": "2026-11-03-springbok-bounces-instead-of-running"
+}
