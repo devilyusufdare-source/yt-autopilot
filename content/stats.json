@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-03T02:26:17+00:00",
+  "updated_at": "2026-11-03T11:54:31+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 63,
-    "channel_views": 50659,
-    "video_count": 189
+    "channel_views": 51352,
+    "video_count": 190
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/JB0ZuvAxI28"
+      "https://youtube.com/shorts/TLT9ERJWEDs"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/JB0ZuvAxI28"
+      "https://youtube.com/shorts/TLT9ERJWEDs"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/JB0ZuvAxI28"
+      "https://youtube.com/shorts/TLT9ERJWEDs"
     ]
   },
   "retention": {
@@ -59,7 +59,7 @@
       {
         "title": "A 500-Pound Fish Swallowed a Hooked Shark in One Gulp",
         "avg_view_percent": 133.7,
-        "views": 472
+        "views": 471
       }
     ],
     "worst": [
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 188,
-  "total_views": 51277,
+  "total_videos": 189,
+  "total_views": 51475,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,11 +101,11 @@
     },
     "science": {
       "videos": 21,
-      "avg_views": 270,
+      "avg_views": 271,
       "best_views": 1648
     },
     "animals": {
-      "videos": 125,
+      "videos": 126,
       "avg_views": 258,
       "best_views": 1507
     },
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 172,
-      "avg_views": 259,
+      "videos": 173,
+      "avg_views": 258,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 102,
-      "avg_views": 128
+      "videos": 103,
+      "avg_views": 129
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -220,7 +220,7 @@
     {
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
-      "views": 1268,
+      "views": 1269,
       "hook": "There's a planet where it rains glass. Sideways."
     },
     {
@@ -726,7 +726,7 @@
       "hook": "There's a planet where it rains glass. Sideways.",
       "published_at": "2026-10-15T06:30:27Z",
       "privacy": "public",
-      "views": 1268,
+      "views": 1269,
       "likes": 60,
       "comments": 3,
       "url": "https://youtube.com/shorts/_AAxfyJTzHU",
@@ -1062,7 +1062,7 @@
       "hook": "Five planets, five very long years. Number one has barely had a birthday since 1846.",
       "published_at": "2026-11-01T12:00:26Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U2GOkyJ9noA"
@@ -1310,7 +1310,7 @@
       "hook": "You'd expect a whale to win this one. It doesn't even come close.",
       "published_at": "2026-11-02T12:50:22Z",
       "privacy": "public",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u3uqa1Xy358"
@@ -1334,7 +1334,7 @@
       "hook": "Almost every turtle on this reef is female.",
       "published_at": "2026-10-30T00:10:36Z",
       "privacy": "public",
-      "views": 101,
+      "views": 100,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/SVJipZiOpJM",
@@ -2566,7 +2566,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 302,
+      "views": 303,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
@@ -2818,7 +2818,7 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 39,
+      "views": 40,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/l57MjoYS9NY",
@@ -3126,7 +3126,7 @@
       "hook": "A shark was caught 700 miles up the Mississippi River.",
       "published_at": "2026-10-28T16:30:27Z",
       "privacy": "public",
-      "views": 79,
+      "views": 80,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0eDxP_Mfsoo",
@@ -3350,7 +3350,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 419,
+      "views": 420,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -3518,20 +3518,20 @@
       "hook": "An astronaut nearly drowned in space.",
       "published_at": "2026-11-02T02:50:07Z",
       "privacy": "public",
-      "views": 47,
+      "views": 51,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yf9Gl1SzDAU"
     },
     "JB0ZuvAxI28": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT26S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3540,11 +3540,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Ships climb 85 feet without a single pump.",
-      "published_at": "2026-11-03T02:26:09Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-03T02:50:00Z",
+      "privacy": "public",
+      "views": 20,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28"
     },
     "MJ6FRS8q71M": {
@@ -4126,7 +4126,7 @@
       "hook": "This lizard shoots blood from its eyes. Up to five feet.",
       "published_at": "2026-10-29T20:00:25Z",
       "privacy": "public",
-      "views": 179,
+      "views": 177,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/KZhvfyr0xgY",
@@ -4406,7 +4406,7 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 472,
+      "views": 471,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI",
@@ -4462,7 +4462,7 @@
       "hook": "A blue whale swallows more than its own weight.",
       "published_at": "2026-10-30T15:00:13Z",
       "privacy": "public",
-      "views": 127,
+      "views": 126,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY",
@@ -4630,7 +4630,7 @@
       "hook": "Jellyfish shut down a nuclear reactor.",
       "published_at": "2026-10-30T21:20:15Z",
       "privacy": "public",
-      "views": 33,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qRaw9tphoKk",
@@ -4714,7 +4714,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 615,
+      "views": 626,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
@@ -4938,7 +4938,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 260,
+      "views": 261,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU",
@@ -4994,7 +4994,7 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 184,
+      "views": 196,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
@@ -5018,7 +5018,7 @@
       "hook": "This beetle runs so fast that it cannot see where it is going.",
       "published_at": "2026-11-01T16:50:16Z",
       "privacy": "public",
-      "views": 58,
+      "views": 64,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dXprcguqTJA"
@@ -5042,7 +5042,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 87,
+      "views": 109,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5118,7 +5118,7 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 324,
+      "views": 361,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
@@ -5142,7 +5142,7 @@
       "hook": "This animal eats algae, and steals its sunlight power.",
       "published_at": "2026-11-01T21:20:13Z",
       "privacy": "public",
-      "views": 38,
+      "views": 39,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MW0loEuWxf4"
@@ -5190,7 +5190,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 22,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4"
@@ -5214,7 +5214,7 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 76,
+      "views": 86,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
@@ -5238,7 +5238,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 11,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5262,7 +5262,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 9,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
@@ -5286,7 +5286,7 @@
       "hook": "A fox walked from Norway to Canada. Nobody believed it.",
       "published_at": "2026-11-02T18:00:31Z",
       "privacy": "public",
-      "views": 7,
+      "views": 11,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lcilP6jC87M"
@@ -5310,8 +5310,8 @@
       "hook": "A bird buries thirty thousand seeds. It never writes down where.",
       "published_at": "2026-11-02T19:00:16Z",
       "privacy": "public",
-      "views": 3,
-      "likes": 1,
+      "views": 5,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TxValGbuqZU"
     },
@@ -5334,7 +5334,7 @@
       "hook": "Every eel in Europe is born in a place no one has ever seen.",
       "published_at": "2026-11-02T20:00:29Z",
       "privacy": "public",
-      "views": 2,
+      "views": 13,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8"
@@ -5358,7 +5358,7 @@
       "hook": "This fish feeds in near-freezing water and stays warm as a mammal.",
       "published_at": "2026-11-02T21:00:03Z",
       "privacy": "public",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/E7R9OiRvj3s"
@@ -5382,7 +5382,7 @@
       "hook": "A parrot once looked in a mirror and asked a question.",
       "published_at": "2026-11-02T21:20:22Z",
       "privacy": "public",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/y5-MSH3z9d0"
@@ -5406,10 +5406,34 @@
       "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
       "published_at": "2026-11-03T00:10:06Z",
       "privacy": "public",
-      "views": 6,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU"
+    },
+    "TLT9ERJWEDs": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Parasite Makes Crickets Walk Into Water and Drown Themselves",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
+      "published_at": "2026-11-03T11:54:21Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/TLT9ERJWEDs"
     }
   }
 }
