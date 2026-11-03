@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-03T18:51:38+00:00",
+  "updated_at": "2026-11-03T19:55:07+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 63,
+    "subscribers": 64,
     "channel_views": 51352,
-    "video_count": 193
+    "video_count": 195
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/zrF56f4voZw",
-      "https://youtube.com/shorts/C0-01Rinu20"
+      "https://youtube.com/shorts/C0-01Rinu20",
+      "https://youtube.com/shorts/OpQgaCam59s"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/C0-01Rinu20"
+      "https://youtube.com/shorts/OpQgaCam59s"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/C0-01Rinu20"
+      "https://youtube.com/shorts/OpQgaCam59s"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 194,
-  "total_views": 51733,
+  "total_videos": 195,
+  "total_views": 51879,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 130,
-      "avg_views": 252,
+      "videos": 131,
+      "avg_views": 251,
       "best_views": 1507
     },
     "human body": {
@@ -133,7 +133,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 178,
+      "videos": 179,
       "avg_views": 252,
       "over_1500": 3
     },
@@ -145,7 +145,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 108,
+      "videos": 109,
       "avg_views": 125
     },
     "en-US-BrianNeural": {
@@ -753,22 +753,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A rhino charges at 35 miles an hour.",
-      "published_at": "2026-11-03T17:56:39Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-03T19:00:19Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/zrF56f4voZw"
     },
     "C0-01Rinu20": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT27S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -783,6 +783,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/C0-01Rinu20"
+    },
+    "OpQgaCam59s": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Primate Knocks on Trees to Find Food Hiding Inside",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This primate knocks on trees like a doctor tapping a chest.",
+      "published_at": "2026-11-03T19:54:55Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/OpQgaCam59s"
     },
     "Rahl0RiZm5w": {
       "upload_status": "processed",
@@ -1331,7 +1355,7 @@
       "hook": "Only five computers on Earth are this fast. Number one is brand new.",
       "published_at": "2026-11-03T15:00:10Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DpnhUFqNzQc"
@@ -3615,8 +3639,8 @@
       "hook": "Ships climb 85 feet without a single pump.",
       "published_at": "2026-11-03T02:50:00Z",
       "privacy": "public",
-      "views": 36,
-      "likes": 1,
+      "views": 41,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28"
     },
@@ -4787,7 +4811,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 636,
+      "views": 627,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
@@ -5115,7 +5139,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 109,
+      "views": 110,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5191,8 +5215,8 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 482,
-      "likes": 6,
+      "views": 602,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
     },
@@ -5239,7 +5263,7 @@
       "hook": "There's a fish whose blood is clear. And it has no red blood cells at all.",
       "published_at": "2026-11-01T22:40:34Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UXcOCvbzdF8"
@@ -5263,7 +5287,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 28,
+      "views": 29,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4"
@@ -5287,7 +5311,7 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 91,
+      "views": 94,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
@@ -5311,7 +5335,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5335,7 +5359,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 34,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
@@ -5407,7 +5431,7 @@
       "hook": "Every eel in Europe is born in a place no one has ever seen.",
       "published_at": "2026-11-02T20:00:29Z",
       "privacy": "public",
-      "views": 22,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8"
@@ -5431,7 +5455,7 @@
       "hook": "This fish feeds in near-freezing water and stays warm as a mammal.",
       "published_at": "2026-11-02T21:00:03Z",
       "privacy": "public",
-      "views": 6,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/E7R9OiRvj3s"
@@ -5479,7 +5503,7 @@
       "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
       "published_at": "2026-11-03T00:10:06Z",
       "privacy": "public",
-      "views": 28,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU"
@@ -5503,7 +5527,7 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs"
@@ -5551,7 +5575,7 @@
       "hook": "This snake makes fish run away from it. And they swim straight into its mouth.",
       "published_at": "2026-11-03T15:30:28Z",
       "privacy": "public",
-      "views": 10,
+      "views": 20,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/KS48QzMQ-QI"
