@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-03T11:54:31+00:00",
+  "updated_at": "2026-11-03T13:57:10+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 63,
     "channel_views": 51352,
-    "video_count": 190
+    "video_count": 191
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/TLT9ERJWEDs"
+      "https://youtube.com/shorts/DpnhUFqNzQc",
+      "https://youtube.com/shorts/SUtsfcR8bGA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/TLT9ERJWEDs"
+      "https://youtube.com/shorts/SUtsfcR8bGA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/TLT9ERJWEDs"
+      "https://youtube.com/shorts/SUtsfcR8bGA"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 189,
-  "total_views": 51475,
+  "total_videos": 191,
+  "total_views": 51497,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 126,
-      "avg_views": 258,
+      "videos": 127,
+      "avg_views": 256,
       "best_views": 1507
     },
     "human body": {
@@ -125,15 +126,15 @@
       "best_views": 1513
     },
     "technology": {
-      "videos": 3,
-      "avg_views": 44,
+      "videos": 4,
+      "avg_views": 33,
       "best_views": 71
     }
   },
   "by_style": {
     "classic": {
-      "videos": 173,
-      "avg_views": 258,
+      "videos": 175,
+      "avg_views": 255,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 103,
-      "avg_views": 129
+      "videos": 105,
+      "avg_views": 126
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1263,6 +1264,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "DpnhUFqNzQc": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT46S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Fastest Supercomputers on Earth, Ranked (#1 Is Brand New)",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Only five computers on Earth are this fast. Number one is brand new.",
+      "published_at": "2026-11-03T13:54:52Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/DpnhUFqNzQc"
+    },
     "HUKVi1Kn7E0": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -1310,7 +1335,7 @@
       "hook": "You'd expect a whale to win this one. It doesn't even come close.",
       "published_at": "2026-11-02T12:50:22Z",
       "privacy": "public",
-      "views": 6,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u3uqa1Xy358"
@@ -3518,7 +3543,7 @@
       "hook": "An astronaut nearly drowned in space.",
       "published_at": "2026-11-02T02:50:07Z",
       "privacy": "public",
-      "views": 51,
+      "views": 52,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yf9Gl1SzDAU"
@@ -3542,7 +3567,7 @@
       "hook": "Ships climb 85 feet without a single pump.",
       "published_at": "2026-11-03T02:50:00Z",
       "privacy": "public",
-      "views": 20,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28"
@@ -4715,7 +4740,7 @@
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
       "views": 626,
-      "likes": 15,
+      "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
       "avg_view_seconds": 17.0,
@@ -4938,7 +4963,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 261,
+      "views": 263,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU",
@@ -4994,7 +5019,7 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 196,
+      "views": 198,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
@@ -5042,7 +5067,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 109,
+      "views": 110,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5118,7 +5143,7 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 361,
+      "views": 363,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
@@ -5190,7 +5215,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 25,
+      "views": 27,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4"
@@ -5214,7 +5239,7 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 86,
+      "views": 82,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
@@ -5262,7 +5287,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 28,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
@@ -5334,7 +5359,7 @@
       "hook": "Every eel in Europe is born in a place no one has ever seen.",
       "published_at": "2026-11-02T20:00:29Z",
       "privacy": "public",
-      "views": 13,
+      "views": 12,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8"
@@ -5358,7 +5383,7 @@
       "hook": "This fish feeds in near-freezing water and stays warm as a mammal.",
       "published_at": "2026-11-02T21:00:03Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/E7R9OiRvj3s"
@@ -5382,7 +5407,7 @@
       "hook": "A parrot once looked in a mirror and asked a question.",
       "published_at": "2026-11-02T21:20:22Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/y5-MSH3z9d0"
@@ -5406,12 +5431,36 @@
       "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
       "published_at": "2026-11-03T00:10:06Z",
       "privacy": "public",
-      "views": 20,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU"
     },
     "TLT9ERJWEDs": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT30S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Parasite Makes Crickets Walk Into Water and Drown Themselves",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
+      "published_at": "2026-11-03T12:20:06Z",
+      "privacy": "public",
+      "views": 4,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/TLT9ERJWEDs"
+    },
+    "SUtsfcR8bGA": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -5423,17 +5472,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A Parasite Makes Crickets Walk Into Water and Drown Themselves",
+      "title": "This Insect Looks Like a Flower and Beats Real Flowers at Their Own Job",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
-      "published_at": "2026-11-03T11:54:21Z",
+      "hook": "This insect isn't a flower. Bees fly to it more than to real ones.",
+      "published_at": "2026-11-03T13:57:01Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/TLT9ERJWEDs"
+      "url": "https://youtube.com/shorts/SUtsfcR8bGA"
     }
   }
 }
