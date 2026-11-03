@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-03T20:55:58+00:00",
+  "updated_at": "2026-11-03T23:47:06+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 64,
     "channel_views": 51552,
-    "video_count": 196
+    "video_count": 198
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/OpQgaCam59s",
-      "https://youtube.com/shorts/L4uQ8K8FaRU"
+      "https://youtube.com/shorts/Sj0vVznqKCQ"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/L4uQ8K8FaRU"
+      "https://youtube.com/shorts/Sj0vVznqKCQ"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/L4uQ8K8FaRU"
+      "https://youtube.com/shorts/Sj0vVznqKCQ"
     ]
   },
   "retention": {
@@ -92,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 196,
-  "total_views": 52038,
+  "total_videos": 197,
+  "total_views": 52174,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 132,
-      "avg_views": 250,
+      "videos": 133,
+      "avg_views": 249,
       "best_views": 1507
     },
     "human body": {
@@ -127,13 +126,13 @@
     },
     "technology": {
       "videos": 4,
-      "avg_views": 33,
+      "avg_views": 34,
       "best_views": 71
     }
   },
   "by_style": {
     "classic": {
-      "videos": 180,
+      "videos": 181,
       "avg_views": 251,
       "over_1500": 3
     },
@@ -145,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 110,
+      "videos": 111,
       "avg_views": 126
     },
     "en-US-BrianNeural": {
@@ -755,7 +754,7 @@
       "hook": "A rhino charges at 35 miles an hour.",
       "published_at": "2026-11-03T19:00:19Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw"
@@ -779,7 +778,7 @@
       "hook": "This fish breathes air. And it has two rows of teeth.",
       "published_at": "2026-11-03T20:00:10Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/C0-01Rinu20"
@@ -801,11 +800,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This primate knocks on trees like a doctor tapping a chest.",
-      "published_at": "2026-11-03T19:54:55Z",
-      "privacy": "private",
+      "published_at": "2026-11-03T21:00:21Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/OpQgaCam59s"
     },
     "Rahl0RiZm5w": {
@@ -1005,6 +1004,30 @@
       "subscribers_gained": 0
     },
     "L4uQ8K8FaRU": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT29S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bird Builds an Optical Illusion to Win Over a Mate",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A bird that learned a trick film directors use, and it works on mates.",
+      "published_at": "2026-11-03T21:20:30Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/L4uQ8K8FaRU"
+    },
+    "Sj0vVznqKCQ": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -1016,17 +1039,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "This Bird Builds an Optical Illusion to Win Over a Mate",
+      "title": "The Strongest Insect Ever Measured Fits on Your Fingernail",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "A bird that learned a trick film directors use, and it works on mates.",
-      "published_at": "2026-11-03T20:55:51Z",
+      "hook": "The strongest insect ever measured fits on your fingernail.",
+      "published_at": "2026-11-03T23:46:54Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/L4uQ8K8FaRU"
+      "url": "https://youtube.com/shorts/Sj0vVznqKCQ"
     },
     "nHXJKky23q8": {
       "upload_status": "processed",
@@ -1383,7 +1406,7 @@
       "hook": "Only five computers on Earth are this fast. Number one is brand new.",
       "published_at": "2026-11-03T15:00:10Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DpnhUFqNzQc"
@@ -3671,7 +3694,7 @@
       "hook": "Ships climb 85 feet without a single pump.",
       "published_at": "2026-11-03T02:50:00Z",
       "privacy": "public",
-      "views": 42,
+      "views": 43,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28"
@@ -4843,7 +4866,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 642,
+      "views": 643,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
@@ -5263,7 +5286,7 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 718,
+      "views": 831,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU",
@@ -5291,7 +5314,7 @@
       "hook": "This animal eats algae, and steals its sunlight power.",
       "published_at": "2026-11-01T21:20:13Z",
       "privacy": "public",
-      "views": 42,
+      "views": 44,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MW0loEuWxf4",
@@ -5343,7 +5366,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 28,
+      "views": 31,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4",
@@ -5371,8 +5394,8 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 93,
-      "likes": 1,
+      "views": 95,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
     },
@@ -5395,7 +5418,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 26,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5419,7 +5442,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 37,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
@@ -5539,7 +5562,7 @@
       "hook": "A parrot once looked in a mirror and asked a question.",
       "published_at": "2026-11-02T21:20:22Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/y5-MSH3z9d0"
@@ -5587,7 +5610,7 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 43,
+      "views": 47,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs"
