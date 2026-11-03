@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-02T23:45:39+00:00",
+  "updated_at": "2026-11-03T02:26:17+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 63,
     "channel_views": 50659,
-    "video_count": 188
+    "video_count": 189
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/91RksZPLfHU"
+      "https://youtube.com/shorts/JB0ZuvAxI28"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/91RksZPLfHU"
+      "https://youtube.com/shorts/JB0ZuvAxI28"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/91RksZPLfHU"
+      "https://youtube.com/shorts/JB0ZuvAxI28"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 187,
-  "total_views": 51211,
+  "total_videos": 188,
+  "total_views": 51277,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -100,8 +100,8 @@
       "best_views": 364
     },
     "science": {
-      "videos": 20,
-      "avg_views": 284,
+      "videos": 21,
+      "avg_views": 270,
       "best_views": 1648
     },
     "animals": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 171,
-      "avg_views": 260,
+      "videos": 172,
+      "avg_views": 259,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 101,
-      "avg_views": 129
+      "videos": 102,
+      "avg_views": 128
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -866,7 +866,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 41,
+      "views": 42,
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
@@ -3350,7 +3350,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 418,
+      "views": 419,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -3522,6 +3522,30 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yf9Gl1SzDAU"
+    },
+    "JB0ZuvAxI28": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The Panama Canal Lifts Giant Ships 85 Feet With No Pumps",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Ships climb 85 feet without a single pump.",
+      "published_at": "2026-11-03T02:26:09Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/JB0ZuvAxI28"
     },
     "MJ6FRS8q71M": {
       "upload_status": "processed",
@@ -4690,7 +4714,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 614,
+      "views": 615,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
@@ -4802,7 +4826,7 @@
       "hook": "A crab that climbs trees can pinch harder than a bear can bite.",
       "published_at": "2026-10-31T18:00:28Z",
       "privacy": "public",
-      "views": 785,
+      "views": 787,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4",
@@ -4858,7 +4882,7 @@
       "hook": "Some shark pups fight to the death before they are born.",
       "published_at": "2026-10-31T21:10:27Z",
       "privacy": "public",
-      "views": 49,
+      "views": 50,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PXVQE8MFDkM",
@@ -4886,7 +4910,7 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 84,
+      "views": 85,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s",
@@ -4914,7 +4938,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 258,
+      "views": 260,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU",
@@ -4942,7 +4966,7 @@
       "hook": "This bug hunts ants, then wears their bodies as a disguise.",
       "published_at": "2026-11-01T03:10:01Z",
       "privacy": "public",
-      "views": 961,
+      "views": 958,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE",
@@ -4970,7 +4994,7 @@
       "hook": "Cut off this animal's leg, and it grows back perfectly.",
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
-      "views": 183,
+      "views": 184,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY"
@@ -4994,7 +5018,7 @@
       "hook": "This beetle runs so fast that it cannot see where it is going.",
       "published_at": "2026-11-01T16:50:16Z",
       "privacy": "public",
-      "views": 60,
+      "views": 58,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dXprcguqTJA"
@@ -5018,7 +5042,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 80,
+      "views": 87,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
@@ -5094,7 +5118,7 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 300,
+      "views": 324,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU"
@@ -5118,7 +5142,7 @@
       "hook": "This animal eats algae, and steals its sunlight power.",
       "published_at": "2026-11-01T21:20:13Z",
       "privacy": "public",
-      "views": 35,
+      "views": 38,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MW0loEuWxf4"
@@ -5166,7 +5190,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 21,
+      "views": 22,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4"
@@ -5190,7 +5214,7 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 65,
+      "views": 76,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
@@ -5214,7 +5238,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 12,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5238,7 +5262,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 4,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
@@ -5262,7 +5286,7 @@
       "hook": "A fox walked from Norway to Canada. Nobody believed it.",
       "published_at": "2026-11-02T18:00:31Z",
       "privacy": "public",
-      "views": 4,
+      "views": 7,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lcilP6jC87M"
@@ -5287,7 +5311,7 @@
       "published_at": "2026-11-02T19:00:16Z",
       "privacy": "public",
       "views": 3,
-      "likes": 0,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TxValGbuqZU"
     },
@@ -5311,7 +5335,7 @@
       "published_at": "2026-11-02T20:00:29Z",
       "privacy": "public",
       "views": 2,
-      "likes": 0,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8"
     },
@@ -5334,7 +5358,7 @@
       "hook": "This fish feeds in near-freezing water and stays warm as a mammal.",
       "published_at": "2026-11-02T21:00:03Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/E7R9OiRvj3s"
@@ -5364,14 +5388,14 @@
       "url": "https://youtube.com/shorts/y5-MSH3z9d0"
     },
     "91RksZPLfHU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT40S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5380,11 +5404,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
-      "published_at": "2026-11-02T23:45:26Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-03T00:10:06Z",
+      "privacy": "public",
+      "views": 6,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU"
     }
   }

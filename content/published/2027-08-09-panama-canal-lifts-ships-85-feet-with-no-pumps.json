@@ -54,5 +54,21 @@
   ],
   "thumbnail_text": "SHIPS CLIMB 85 FEET, NO PUMPS",
   "priority": 7,
-  "first_comment": "Gravity does all the lifting. What is your favorite piece of engineering?"
+  "first_comment": "Gravity does all the lifting. What is your favorite piece of engineering?",
+  "youtube_id": "JB0ZuvAxI28",
+  "url": "https://youtube.com/shorts/JB0ZuvAxI28",
+  "uploaded_at": "2026-11-03T02:26:15+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-03T02:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 9,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FFD400",
+  "duration_seconds": 25.6,
+  "style": "classic",
+  "kind": "shorts"
 }
