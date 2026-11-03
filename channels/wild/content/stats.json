@@ -1,40 +1,37 @@
 {
-  "updated_at": "2026-11-03T19:07:08+00:00",
+  "updated_at": "2026-11-03T20:50:32+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 11840,
-    "video_count": 40
+    "video_count": 41
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/sg7h0dFtCCg",
-      "https://youtube.com/shorts/IzRTbLLmQ1c"
+      "https://youtube.com/shorts/nOw9IX9Y6Fg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/sg7h0dFtCCg",
-      "https://youtube.com/shorts/IzRTbLLmQ1c"
+      "https://youtube.com/shorts/nOw9IX9Y6Fg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/sg7h0dFtCCg",
-      "https://youtube.com/shorts/IzRTbLLmQ1c"
+      "https://youtube.com/shorts/nOw9IX9Y6Fg"
     ]
   },
   "retention": {
-    "videos_with_data": 28,
-    "avg_view_percent": 65.3,
+    "videos_with_data": 33,
+    "avg_view_percent": 63.8,
     "by_topic": {
-      "earth": 71.9,
+      "earth": 71.8,
       "space": 63.1,
-      "society": 73.3,
-      "animals": 60.6,
-      "body": 62.6,
+      "society": 68.8,
+      "animals": 53.6,
+      "body": 63.2,
       "technology": 66.7
     },
     "best": [
@@ -66,6 +63,11 @@
     ],
     "worst": [
       {
+        "title": "What If an Animal Floated in Open Space? Tardigrades Did",
+        "avg_view_percent": 18.7,
+        "views": 3
+      },
+      {
         "title": "What If the Whole Asteroid Belt Became One Planet?",
         "avg_view_percent": 31.5,
         "views": 286
@@ -77,24 +79,19 @@
       },
       {
         "title": "What If It Rained Glass Sideways? One Planet May",
-        "avg_view_percent": 37.3,
+        "avg_view_percent": 39.2,
         "views": 80
       },
       {
         "title": "What If a Mouse Fell Off a Skyscraper? Size Decides",
-        "avg_view_percent": 39.7,
+        "avg_view_percent": 43.5,
         "views": 123
-      },
-      {
-        "title": "What If a Lake Exploded With Gas? One Did in 1986",
-        "avg_view_percent": 48.6,
-        "views": 282
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 41,
-  "total_views": 12022,
+  "total_videos": 42,
+  "total_views": 12026,
   "by_topic": {
     "earth": {
       "videos": 6,
@@ -102,8 +99,8 @@
       "best_views": 1104
     },
     "space": {
-      "videos": 19,
-      "avg_views": 251,
+      "videos": 20,
+      "avg_views": 238,
       "best_views": 1281
     },
     "society": {
@@ -123,21 +120,21 @@
     },
     "technology": {
       "videos": 2,
-      "avg_views": 520,
+      "avg_views": 521,
       "best_views": 1041
     }
   },
   "by_style": {
     "classic": {
-      "videos": 41,
-      "avg_views": 293,
+      "videos": 42,
+      "avg_views": 286,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 40,
-      "avg_views": 275
+      "videos": 41,
+      "avg_views": 268
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -483,7 +480,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 62.5,
+      "avg_view_percent": 63.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -707,7 +704,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/vRwTuMJXX7Q",
       "avg_view_seconds": 28.0,
-      "avg_view_percent": 80.1,
+      "avg_view_percent": 80.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -818,8 +815,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MwU7gIiJAtk",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 56.7,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 58.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -846,8 +843,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uirFWqmtLZs",
-      "avg_view_seconds": 30.0,
-      "avg_view_percent": 79.7,
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 70.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -902,8 +899,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aR40zT0kxg8",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 37.3,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 39.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -930,8 +927,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DV-7AuiUc9E",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 39.7,
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 43.5,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -957,7 +954,11 @@
       "views": 184,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/dwe3rjCTsoo"
+      "url": "https://youtube.com/shorts/dwe3rjCTsoo",
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 73.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "KGhwdyTT0do": {
       "upload_status": "processed",
@@ -981,7 +982,11 @@
       "views": 3,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/KGhwdyTT0do"
+      "url": "https://youtube.com/shorts/KGhwdyTT0do",
+      "avg_view_seconds": 7.0,
+      "avg_view_percent": 18.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ZUqekDSPv74": {
       "upload_status": "processed",
@@ -1007,7 +1012,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 80.1,
+      "avg_view_percent": 79.8,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1030,10 +1035,14 @@
       "hook": "What if you flew into the Sun's atmosphere? One spacecraft already did, and it survived.",
       "published_at": "2026-11-01T16:40:32Z",
       "privacy": "public",
-      "views": 67,
+      "views": 68,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Gcgl97taucQ"
+      "url": "https://youtube.com/shorts/Gcgl97taucQ",
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 59.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "wV86RRTPfaY": {
       "upload_status": "processed",
@@ -1057,7 +1066,11 @@
       "views": 138,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/wV86RRTPfaY"
+      "url": "https://youtube.com/shorts/wV86RRTPfaY",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 52.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "Z0QgS6RgYvM": {
       "upload_status": "processed",
@@ -1081,7 +1094,11 @@
       "views": 58,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Z0QgS6RgYvM"
+      "url": "https://youtube.com/shorts/Z0QgS6RgYvM",
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 70.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "_RcytBECyXc": {
       "upload_status": "processed",
@@ -1174,7 +1191,7 @@
       "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
       "published_at": "2026-11-02T21:10:15Z",
       "privacy": "public",
-      "views": 109,
+      "views": 112,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I"
@@ -1198,7 +1215,7 @@
       "hook": "What if a sports car was launched into space and never came back? One was.",
       "published_at": "2026-11-03T02:40:09Z",
       "privacy": "public",
-      "views": 9,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QElYghl0l6s"
@@ -1228,6 +1245,54 @@
       "url": "https://youtube.com/shorts/ZxEWLYdNKhk"
     },
     "sg7h0dFtCCg": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT35S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Helicopter Flew on Mars? NASA's Flew 72 Times",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you flew a helicopter on Mars? The air there is almost too thin to fly.",
+      "published_at": "2026-11-03T17:00:31Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/sg7h0dFtCCg"
+    },
+    "IzRTbLLmQ1c": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT39S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If an Interstellar Comet Flew Past Us? 3I/ATLAS Did",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
+      "published_at": "2026-11-03T19:20:06Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/IzRTbLLmQ1c"
+    },
+    "nOw9IX9Y6Fg": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1239,41 +1304,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If a Helicopter Flew on Mars? NASA's Flew 72 Times",
-      "topic": "technology",
-      "style": "classic",
-      "voice": "en-US-AndrewNeural",
-      "hook": "What if you flew a helicopter on Mars? The air there is almost too thin to fly.",
-      "published_at": "2026-11-03T16:44:19Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "url": "https://youtube.com/shorts/sg7h0dFtCCg"
-    },
-    "IzRTbLLmQ1c": {
-      "upload_status": "uploaded",
-      "rejection_reason": null,
-      "made_for_kids": false,
-      "self_declared_made_for_kids": false,
-      "embeddable": true,
-      "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
-      "region_restriction": null,
-      "content_rating": null,
-      "category_id": "27",
-      "title": "What If an Interstellar Comet Flew Past Us? 3I/ATLAS Did",
+      "title": "What If You Lived Inside a Cave on the Moon?",
       "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
-      "published_at": "2026-11-03T19:07:05Z",
+      "hook": "What if humans lived in a Moon cave? Scientists found one, and it's room temperature.",
+      "published_at": "2026-11-03T20:50:29Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/IzRTbLLmQ1c"
+      "url": "https://youtube.com/shorts/nOw9IX9Y6Fg"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
