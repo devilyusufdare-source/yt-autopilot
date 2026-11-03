@@ -146,7 +146,13 @@ _STOP = {"the","a","an","of","in","on","and","or","is","are","was","were","to","
 def _title_words(title: str) -> set[str]:
     import re
     words = re.findall(r"[a-z0-9']+", title.lower())
-    return {w for w in words if w not in _STOP and len(w) > 1}
+    # 3 Nov: words every ranking title shares ("the 5 fastest ... on earth, ranked") made "fastest supercomputers"
+    # a duplicate of "fastest animals"; they carry no subject, so they do not count.
+    return {w for w in words if w not in _STOP and w not in _RANKING_WORDS and len(w) > 1}
+
+
+_RANKING_WORDS = {"ranked", "ranking", "earth", "ever", "only", "brand", "new", "found", "top", "biggest", "largest", "fastest",
+                  "longest", "heaviest", "hottest", "deadliest", "smallest", "oldest", "strongest", "5", "five", "1", "2", "3", "4"}
 
 
 def duplicate_of(pkg: dict) -> str | None:
