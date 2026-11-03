@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-03T19:55:07+00:00",
+  "updated_at": "2026-11-03T20:55:58+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 64,
-    "channel_views": 51352,
-    "video_count": 195
+    "channel_views": 51552,
+    "video_count": 196
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/C0-01Rinu20",
-      "https://youtube.com/shorts/OpQgaCam59s"
+      "https://youtube.com/shorts/OpQgaCam59s",
+      "https://youtube.com/shorts/L4uQ8K8FaRU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/OpQgaCam59s"
+      "https://youtube.com/shorts/L4uQ8K8FaRU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/OpQgaCam59s"
+      "https://youtube.com/shorts/L4uQ8K8FaRU"
     ]
   },
   "retention": {
-    "videos_with_data": 165,
-    "avg_view_percent": 62.4,
+    "videos_with_data": 174,
+    "avg_view_percent": 61.2,
     "by_topic": {
       "psychology": 71.3,
-      "science": 66.7,
-      "animals": 60.9,
+      "science": 66.1,
+      "animals": 59.5,
       "human body": 86.5,
       "history": 54.1,
-      "space": 65.1,
+      "space": 63.9,
       "technology": 58.4
     },
     "best": [
@@ -59,7 +59,7 @@
       },
       {
         "title": "A 500-Pound Fish Swallowed a Hooked Shark in One Gulp",
-        "avg_view_percent": 133.7,
+        "avg_view_percent": 132.8,
         "views": 471
       }
     ],
@@ -68,11 +68,6 @@
         "title": "In 1932, Australia Went to War Against Emus. The Emus Won",
         "avg_view_percent": 10.6,
         "views": 2
-      },
-      {
-        "title": "How Does an Electric Eel Shock Something Above the Water? It Jumps",
-        "avg_view_percent": 15.2,
-        "views": 25
       },
       {
         "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
@@ -88,12 +83,17 @@
         "title": "Europe's Hera Reaches the Asteroid NASA Smashed in December",
         "avg_view_percent": 23.2,
         "views": 1
+      },
+      {
+        "title": "Divers Found Perfect Circles on the Seabed. A 5-Inch Fish Made Them",
+        "avg_view_percent": 26.0,
+        "views": 69
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 195,
-  "total_views": 51879,
+  "total_videos": 196,
+  "total_views": 52038,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 131,
-      "avg_views": 251,
+      "videos": 132,
+      "avg_views": 250,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 179,
-      "avg_views": 252,
+      "videos": 180,
+      "avg_views": 251,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 109,
-      "avg_views": 125
+      "videos": 110,
+      "avg_views": 126
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -755,9 +755,9 @@
       "hook": "A rhino charges at 35 miles an hour.",
       "published_at": "2026-11-03T19:00:19Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw"
     },
     "C0-01Rinu20": {
@@ -777,22 +777,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fish breathes air. And it has two rows of teeth.",
-      "published_at": "2026-11-03T18:51:29Z",
-      "privacy": "private",
+      "published_at": "2026-11-03T20:00:10Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/C0-01Rinu20"
     },
     "OpQgaCam59s": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT25S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1004,6 +1004,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "L4uQ8K8FaRU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bird Builds an Optical Illusion to Win Over a Mate",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A bird that learned a trick film directors use, and it works on mates.",
+      "published_at": "2026-11-03T20:55:51Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/L4uQ8K8FaRU"
+    },
     "nHXJKky23q8": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -1111,8 +1135,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lBMAQUOlFT0",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 60.4,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 52.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1138,7 +1162,11 @@
       "views": 41,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/U2GOkyJ9noA"
+      "url": "https://youtube.com/shorts/U2GOkyJ9noA",
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 72.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "pNq_22cuP4E": {
       "upload_status": "processed",
@@ -1407,7 +1435,7 @@
       "hook": "You'd expect a whale to win this one. It doesn't even come close.",
       "published_at": "2026-11-02T12:50:22Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u3uqa1Xy358"
@@ -3339,8 +3367,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8HPrrfRBnJA",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 62.9,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 60.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3424,7 +3452,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/EWLYa_RnJi0",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 53.2,
+      "avg_view_percent": 53.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3507,8 +3535,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/-bqtL8ZVsbw",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 80.4,
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 69.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3618,7 +3646,11 @@
       "views": 55,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/yf9Gl1SzDAU"
+      "url": "https://youtube.com/shorts/yf9Gl1SzDAU",
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 39.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "JB0ZuvAxI28": {
       "upload_status": "processed",
@@ -3639,7 +3671,7 @@
       "hook": "Ships climb 85 feet without a single pump.",
       "published_at": "2026-11-03T02:50:00Z",
       "privacy": "public",
-      "views": 41,
+      "views": 42,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28"
@@ -3836,7 +3868,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/3JIgcw-3dJU",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 91.0,
+      "avg_view_percent": 90.9,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -4087,8 +4119,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uMujdO5WqYo",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 50.3,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 52.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4284,7 +4316,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 49.3,
+      "avg_view_percent": 51.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4508,7 +4540,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI",
       "avg_view_seconds": 26.0,
-      "avg_view_percent": 133.7,
+      "avg_view_percent": 132.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4564,7 +4596,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/kSrIjnopHTY",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 64.4,
+      "avg_view_percent": 64.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4592,7 +4624,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 62.4,
+      "avg_view_percent": 61.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4648,7 +4680,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 60.1,
+      "avg_view_percent": 61.5,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -4675,8 +4707,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/c1_iRJblyEI",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 51.5,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 48.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4703,8 +4735,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hs38proZTyc",
-      "avg_view_seconds": 21.0,
-      "avg_view_percent": 79.7,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 77.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4787,8 +4819,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/rf0TPyQvKzA",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 66.8,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 61.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4811,12 +4843,12 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 627,
+      "views": 642,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 60.9,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 70.4,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -4843,8 +4875,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VAHBFzaup4g",
-      "avg_view_seconds": 5.0,
-      "avg_view_percent": 15.2,
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 28.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4871,8 +4903,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VTw9ctTNLLw",
-      "avg_view_seconds": 9.0,
-      "avg_view_percent": 31.7,
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 34.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4928,7 +4960,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/RzL3iaVRiV4",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 42.7,
+      "avg_view_percent": 44.8,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -4955,8 +4987,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zl1SdlXN0H0",
-      "avg_view_seconds": 10.0,
-      "avg_view_percent": 34.3,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 50.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4983,8 +5015,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PXVQE8MFDkM",
-      "avg_view_seconds": 10.0,
-      "avg_view_percent": 36.2,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 49.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5011,8 +5043,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 51.6,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 50.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5039,10 +5071,10 @@
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 49.6,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 47.1,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 1
     },
     "x9pCkBDxsLE": {
       "upload_status": "processed",
@@ -5067,10 +5099,10 @@
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 48.8,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 43.0,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 1
     },
     "U9WHN5tJCbY": {
       "upload_status": "processed",
@@ -5094,7 +5126,11 @@
       "views": 205,
       "likes": 4,
       "comments": 1,
-      "url": "https://youtube.com/shorts/U9WHN5tJCbY"
+      "url": "https://youtube.com/shorts/U9WHN5tJCbY",
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 33.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "dXprcguqTJA": {
       "upload_status": "processed",
@@ -5118,7 +5154,11 @@
       "views": 65,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/dXprcguqTJA"
+      "url": "https://youtube.com/shorts/dXprcguqTJA",
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 34.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "5hzE5T5d1Z0": {
       "upload_status": "processed",
@@ -5142,7 +5182,11 @@
       "views": 110,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/5hzE5T5d1Z0"
+      "url": "https://youtube.com/shorts/5hzE5T5d1Z0",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 37.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "nUqBVOHGP2c": {
       "upload_status": "processed",
@@ -5191,10 +5235,14 @@
       "hook": "A fish hunts insects above the water. Water bends light, so it should miss.",
       "published_at": "2026-11-01T18:00:16Z",
       "privacy": "public",
-      "views": 26,
+      "views": 27,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/nSoZ0iq1pOI"
+      "url": "https://youtube.com/shorts/nSoZ0iq1pOI",
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 27.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "yG0G66LdnXU": {
       "upload_status": "processed",
@@ -5215,10 +5263,14 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 602,
+      "views": 718,
       "likes": 9,
       "comments": 1,
-      "url": "https://youtube.com/shorts/yG0G66LdnXU"
+      "url": "https://youtube.com/shorts/yG0G66LdnXU",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 39.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "MW0loEuWxf4": {
       "upload_status": "processed",
@@ -5242,7 +5294,11 @@
       "views": 42,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/MW0loEuWxf4"
+      "url": "https://youtube.com/shorts/MW0loEuWxf4",
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 27.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "UXcOCvbzdF8": {
       "upload_status": "processed",
@@ -5263,7 +5319,7 @@
       "hook": "There's a fish whose blood is clear. And it has no red blood cells at all.",
       "published_at": "2026-11-01T22:40:34Z",
       "privacy": "public",
-      "views": 2,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UXcOCvbzdF8"
@@ -5287,10 +5343,14 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 29,
+      "views": 28,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/w85RZwds4x4"
+      "url": "https://youtube.com/shorts/w85RZwds4x4",
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 28.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "yErqYXfCIOI": {
       "upload_status": "processed",
@@ -5311,7 +5371,7 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 94,
+      "views": 93,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
@@ -5335,7 +5395,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 24,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5383,7 +5443,7 @@
       "hook": "A fox walked from Norway to Canada. Nobody believed it.",
       "published_at": "2026-11-02T18:00:31Z",
       "privacy": "public",
-      "views": 13,
+      "views": 14,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lcilP6jC87M"
@@ -5431,7 +5491,7 @@
       "hook": "Every eel in Europe is born in a place no one has ever seen.",
       "published_at": "2026-11-02T20:00:29Z",
       "privacy": "public",
-      "views": 25,
+      "views": 27,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8"
@@ -5503,7 +5563,7 @@
       "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
       "published_at": "2026-11-03T00:10:06Z",
       "privacy": "public",
-      "views": 29,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU"
@@ -5527,7 +5587,7 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 36,
+      "views": 43,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs"
@@ -5551,7 +5611,7 @@
       "hook": "This insect isn't a flower. Bees fly to it more than to real ones.",
       "published_at": "2026-11-03T14:20:11Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SUtsfcR8bGA"
@@ -5575,7 +5635,7 @@
       "hook": "This snake makes fish run away from it. And they swim straight into its mouth.",
       "published_at": "2026-11-03T15:30:28Z",
       "privacy": "public",
-      "views": 20,
+      "views": 32,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/KS48QzMQ-QI"

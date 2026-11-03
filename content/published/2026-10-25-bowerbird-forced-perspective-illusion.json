@@ -55,5 +55,22 @@
   "thumbnail_text": "BIRD. STONES. OPTICAL ILLUSION.",
   "priority": 6,
   "first_comment": "Would an illusion like this work on you? Tell us below.",
-  "id": "2026-10-25-bowerbird-forced-perspective-illusion"
+  "id": "2026-10-25-bowerbird-forced-perspective-illusion",
+  "youtube_id": "L4uQ8K8FaRU",
+  "url": "https://youtube.com/shorts/L4uQ8K8FaRU",
+  "uploaded_at": "2026-11-03T20:55:56+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-03T21:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-photo": 3,
+    "pixabay-video": 8,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 29.0,
+  "style": "classic",
+  "kind": "shorts"
 }
