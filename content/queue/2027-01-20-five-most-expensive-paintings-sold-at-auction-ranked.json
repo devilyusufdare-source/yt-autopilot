@@ -1,0 +1,72 @@
+{
+  "id": "2027-01-20-five-most-expensive-paintings-sold-at-auction-ranked",
+  "format": "ranking",
+  "ranking_by": "price paid at public auction, including fees",
+  "topic": "history",
+  "title": "The 5 Most Expensive Paintings Ever Auctioned, Ranked (#1 Once Sold for 45 Pounds)",
+  "scenes": [
+    {
+      "text": "The five priciest paintings ever sold at auction. Number one was once bought for 45 pounds.",
+      "keywords": "auction house gavel bidding"
+    },
+    {
+      "rank": 5,
+      "label": "Picasso · $179 million",
+      "text": "Number five: Picasso's Women of Algiers. 179 million dollars at Christie's in 2015. It was the world record for two years.",
+      "keywords": "picasso painting museum"
+    },
+    {
+      "rank": 4,
+      "label": "Pollock · $181 million",
+      "text": "Number four: Jackson Pollock's Number 7A. 181 million dollars in May 2026. Bidding opened at 82 million.",
+      "keywords": "abstract drip painting"
+    },
+    {
+      "rank": 3,
+      "label": "Warhol · $195 million",
+      "text": "Number three: Andy Warhol's Shot Sage Blue Marilyn. 195 million dollars in 2022, the most ever for an American artist at the time.",
+      "keywords": "pop art gallery"
+    },
+    {
+      "rank": 2,
+      "label": "Klimt · $236 million",
+      "text": "Number two: Gustav Klimt's Portrait of Elisabeth Lederer. 236 million dollars in 2025, after a 20-minute bidding war.",
+      "keywords": "gold ornate portrait painting"
+    },
+    {
+      "rank": 1,
+      "label": "Leonardo · $450 million",
+      "text": "Number one: Leonardo da Vinci's Salvator Mundi. 450 million dollars in 2017, after 19 minutes of bidding. In 1958 it sold for 45 pounds. Some experts still doubt Leonardo painted it.",
+      "keywords": "renaissance painting close up"
+    }
+  ],
+  "description": "The five most expensive paintings ever sold at public auction, ranked by price paid including fees.\nSalvator Mundi, attributed to Leonardo da Vinci, sold for $450.3 million at Christie's in 2017 after 19 minutes of bidding. In 1958 the same painting had sold at auction for 45 pounds, and some experts still question the attribution.\nWould you pay 450 million for a painting whose artist is disputed?",
+  "tags": [
+    "most expensive paintings",
+    "salvator mundi",
+    "leonardo da vinci",
+    "klimt",
+    "warhol marilyn",
+    "jackson pollock",
+    "picasso",
+    "art auction records",
+    "history facts",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#art",
+    "#history",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.npr.org/sections/thetwo-way/2017/11/16/564527819/da-vinci-portrait-of-christ-sells-for-record-shattering-450-million",
+    "https://en.thevalue.com/articles/christies-new-york-the-private-collection-of-si-2026-spring-sales-jackson-pollock-drip-painting-record-breaking",
+    "https://news.artprice.com/en/12149/gustav-klimt-at-sotheby-s-the-portrait-of-elisabeth-lederer-becomes-the-second-most-expensive-artwork-in-art-market-history"
+  ],
+  "thumbnail_text": "5 PRICIEST PAINTINGS, RANKED",
+  "priority": 6,
+  "first_comment": "Private sales can go higher: de Kooning's Interchange reportedly changed hands for about 300 million in 2015, but nobody outside the deal saw the receipt. Which would you have put at number one, and what should we rank next?"
+}
