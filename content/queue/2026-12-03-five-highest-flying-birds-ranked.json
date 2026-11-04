@@ -1,0 +1,73 @@
+{
+  "id": "2026-12-03-five-highest-flying-birds-ranked",
+  "format": "ranking",
+  "ranking_by": "highest recorded flight altitude",
+  "topic": "animals",
+  "title": "The 5 Highest-Flying Birds Ever Recorded, Ranked (#1 Hit a Jet)",
+  "scenes": [
+    {
+      "text": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
+      "keywords": "birds flying high clouds aerial"
+    },
+    {
+      "rank": 5,
+      "label": "Mallard · 6,400 m",
+      "text": "Number five: the mallard. 6,400 metres, after one struck an airliner over Nevada in 1962.",
+      "keywords": "mallard duck flying flock"
+    },
+    {
+      "rank": 4,
+      "label": "Bar-headed goose · 7,290 m",
+      "text": "Number four: the bar-headed goose. 7,290 metres on a GPS tag, climbing over the Himalayas in a single night.",
+      "keywords": "bar-headed geese flying himalayas"
+    },
+    {
+      "rank": 3,
+      "label": "Whooper swan · 8,200 m",
+      "text": "Number three: the whooper swan. 8,200 metres, a flock picked up on air traffic radar between Iceland and Ireland in 1967.",
+      "keywords": "whooper swans flying flock"
+    },
+    {
+      "rank": 2,
+      "label": "Great snipe · 8,700 m",
+      "text": "Number two: the great snipe. 8,700 metres, logged by a tiny backpack tracker on a non-stop migration flight.",
+      "keywords": "great snipe bird wetland"
+    },
+    {
+      "rank": 1,
+      "label": "Rüppell's vulture · 11,300 m",
+      "text": "Number one: Rüppell's vulture. 11,300 metres, confirmed after one was sucked into a jet engine over Ivory Coast in 1973.",
+      "keywords": "ruppells griffon vulture soaring"
+    }
+  ],
+  "description": "The five highest-flying birds ever recorded, ranked by maximum documented altitude.\nA Rüppell's vulture was ingested by a jet engine at 11,300 metres (37,000 feet) over Abidjan, Ivory Coast, on 29 November 1973; a great snipe wearing a data logger reached 8,700 metres (Lund University, 2021); a flock of whooper swans was tracked by radar at 8,200 metres in 1967.\nWhich bird would you have guessed for number one?",
+  "tags": [
+    "highest flying birds",
+    "ruppell's vulture",
+    "bar-headed goose",
+    "whooper swan",
+    "great snipe",
+    "bird altitude record",
+    "bird facts",
+    "animal records",
+    "top 5 ranking",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#birds",
+    "#animals",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/70927-highest-flying-birds",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3574432",
+    "https://www.lunduniversity.lu.se/article/astonishing-altitude-changes-marathon-flights-migratory-birds",
+    "https://en.wikipedia.org/wiki/List_of_birds_by_flight_heights"
+  ],
+  "thumbnail_text": "5 HIGHEST FLYING BIRDS",
+  "priority": 6,
+  "first_comment": "The common crane is often said to cross the Himalayas at 10,000 metres, but nobody has ever measured it, so it stays off the list. Which would you put at number one, and what should we rank next?"
+}
