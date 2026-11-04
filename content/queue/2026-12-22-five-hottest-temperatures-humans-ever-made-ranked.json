@@ -1,0 +1,75 @@
+{
+  "id": "2026-12-22-five-hottest-temperatures-humans-ever-made-ranked",
+  "format": "ranking",
+  "ranking_by": "highest temperature reached in a machine",
+  "topic": "science",
+  "title": "The 5 Hottest Temperatures Humans Ever Made, Ranked (#3 Beats a Star)",
+  "scenes": [
+    {
+      "text": "The five hottest temperatures humans ever made, ranked. Number three already beats the inside of a star.",
+      "keywords": "plasma glowing reactor"
+    },
+    {
+      "rank": 5,
+      "label": "KSTAR · 100 million °C",
+      "text": "Number five: KSTAR, South Korea's fusion reactor. 100 million degrees Celsius, held for 48 seconds in 2024.",
+      "keywords": "tokamak fusion reactor interior"
+    },
+    {
+      "rank": 4,
+      "label": "EAST · 160 million °C",
+      "text": "Number four: EAST, China's artificial sun. 160 million degrees for 20 seconds in 2021.",
+      "keywords": "fusion reactor plasma glow"
+    },
+    {
+      "rank": 3,
+      "label": "Z machine · 2 billion °C",
+      "text": "Number three: the Z machine in New Mexico. Over 2 billion degrees in 2006, hotter than the interior of a star.",
+      "keywords": "electric arc lightning laboratory"
+    },
+    {
+      "rank": 2,
+      "label": "RHIC · 4 trillion °C",
+      "text": "Number two: the RHIC collider in New York. 4 trillion degrees, about 250,000 times hotter than the centre of the Sun.",
+      "keywords": "particle accelerator tunnel"
+    },
+    {
+      "rank": 1,
+      "label": "LHC · 5 trillion °C",
+      "text": "Number one: the Large Hadron Collider. In 2012 it smashed lead ions together and reached about 5 trillion degrees. The hottest thing humans have ever made.",
+      "keywords": "large hadron collider detector"
+    }
+  ],
+  "description": "The five hottest temperatures ever made by humans, ranked by peak temperature.\nCERN's Large Hadron Collider reached about 5 trillion kelvin, perhaps 5.5 trillion, by colliding lead ions in August 2012; Brookhaven's RHIC made a 4 trillion degree quark-gluon plasma, roughly 250,000 times hotter than the Sun's core; Sandia's Z machine passed 2 billion degrees in 2006; China's EAST tokamak held 160 million degrees for 20 seconds in 2021; and Korea's KSTAR held 100 million degrees for 48 seconds in 2024.\nWhich number here surprised you the most?",
+  "tags": [
+    "hottest temperature ever",
+    "large hadron collider",
+    "quark gluon plasma",
+    "rhic brookhaven",
+    "z machine sandia",
+    "east tokamak",
+    "kstar fusion",
+    "fusion reactor",
+    "physics facts",
+    "science records",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#physics",
+    "#science",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/highest-man-made-temperature",
+    "https://www.bnl.gov/newsroom/news.php?a=23161",
+    "https://newsreleases.sandia.gov/releases/2006/physics-astron/hottest-z-output.html",
+    "https://english.cas.cn/newsroom/mutimedia_news/202105/t20210531_271412_1.shtml",
+    "https://en.wikipedia.org/wiki/KSTAR"
+  ],
+  "thumbnail_text": "5 HOTTEST THINGS EVER MADE",
+  "priority": 5,
+  "first_comment": "Guinness certified RHIC's 4 trillion degrees in 2012; the LHC's lead-ion run that same year came out hotter, listed as 5 trillion, perhaps 5.5. Which would you put at number one, and what should we rank next?"
+}
