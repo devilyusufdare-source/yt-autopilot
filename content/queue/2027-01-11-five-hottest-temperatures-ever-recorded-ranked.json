@@ -1,0 +1,75 @@
+{
+  "id": "2027-01-11-five-hottest-temperatures-ever-recorded-ranked",
+  "format": "ranking",
+  "ranking_by": "highest air temperature officially recorded",
+  "topic": "science",
+  "subject": "scorching desert heat",
+  "title": "The 5 Hottest Temperatures Ever Recorded, Ranked (#1 Has Stood Since 1913)",
+  "scenes": [
+    {
+      "text": "The five hottest temperatures ever recorded, ranked. Number one was measured before World War One.",
+      "keywords": "desert heat haze sun"
+    },
+    {
+      "rank": 5,
+      "label": "Turbat · 53.7 °C",
+      "text": "Number five: Turbat, Pakistan, May 2017. 53.7 Celsius, nearly 129 Fahrenheit. The World Meteorological Organization took two years to verify it.",
+      "keywords": "pakistan desert town heat"
+    },
+    {
+      "rank": 4,
+      "label": "Mitribah · 53.9 °C",
+      "text": "Number four: Mitribah, Kuwait, July 2016. 53.9 Celsius, 129 Fahrenheit. The official record for all of Asia.",
+      "keywords": "kuwait desert sand heat"
+    },
+    {
+      "rank": 3,
+      "label": "Tirat Tsvi · 54 °C",
+      "text": "Number three: Tirat Tsvi, Israel, June 1942. 54 Celsius, about 129 Fahrenheit, in the Jordan Valley, and it took 74 years for anywhere in Asia to come close.",
+      "keywords": "jordan valley arid landscape"
+    },
+    {
+      "rank": 2,
+      "label": "Kebili · 55 °C",
+      "text": "Number two: Kebili, Tunisia, July 1931. 55 Celsius, 131 Fahrenheit, the hottest reading ever taken in Africa.",
+      "keywords": "sahara desert oasis palm trees"
+    },
+    {
+      "rank": 1,
+      "label": "Furnace Creek · 56.7 °C",
+      "text": "Number one: Furnace Creek, Death Valley, California, July 10, 1913. 56.7 Celsius, 134 Fahrenheit, at a place that was then called Greenland Ranch.",
+      "keywords": "death valley salt flats heat"
+    }
+  ],
+  "description": "The five highest air temperatures officially recognised by the World Meteorological Organization, ranked.\nTurbat, Pakistan reached 53.7 °C on 28 May 2017 and Mitribah, Kuwait 53.9 °C on 21 July 2016, both verified by the WMO in 2019 as the third and fourth hottest readings ever and the record for Asia. Tirat Tsvi, Israel recorded 54.0 °C on 21 June 1942, Kebili, Tunisia 55.0 °C on 7 July 1931, the African record, and Furnace Creek in Death Valley, California 56.7 °C (134 °F) on 10 July 1913, the world record.\nWhich of these could you survive an afternoon in?",
+  "tags": [
+    "hottest temperature ever",
+    "hottest places on earth",
+    "Death Valley",
+    "Furnace Creek",
+    "Kebili",
+    "Mitribah",
+    "weather records",
+    "WMO",
+    "science facts",
+    "top 5 science",
+    "weather facts",
+    "earth facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#weather",
+    "#ranking"
+  ],
+  "sources": [
+    "https://public.wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf",
+    "https://wmo.int/media/news/wmo-verifies-3rd-and-4th-hottest-temperature-recorded-earth",
+    "https://news.asu.edu/20190618-global-engagement-wmo-verifies-third-and-fourth-hottest-temperatures-recorded-earth"
+  ],
+  "thumbnail_text": "5 HOTTEST PLACES EVER, RANKED",
+  "priority": 5,
+  "first_comment": "Some weather historians doubt the 1913 Death Valley reading and would hand the record to Kebili or to newer Death Valley readings, but the WMO still lists 56.7 °C as official. Which would you have put at number one? And what should we rank next: the wettest places on Earth?"
+}

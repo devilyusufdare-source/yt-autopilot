@@ -1,0 +1,75 @@
+{
+  "id": "2027-01-10-five-animals-that-sleep-the-most-ranked",
+  "format": "ranking",
+  "ranking_by": "hours of sleep per day",
+  "topic": "animals",
+  "subject": "sleeping koala",
+  "title": "The 5 Animals That Sleep the Most, Ranked (The Sloth Doesn't Make the List)",
+  "scenes": [
+    {
+      "text": "The five sleepiest animals, ranked. The sloth is not on the list, and number one barely wakes up.",
+      "keywords": "sleeping koala tree"
+    },
+    {
+      "rank": 5,
+      "label": "Python · 18 hours",
+      "text": "Number five: the python. Around 18 hours a day, and after a big meal it lies still for days.",
+      "keywords": "python snake coiled resting"
+    },
+    {
+      "rank": 4,
+      "label": "Giant armadillo · 18.1 h",
+      "text": "Number four: the giant armadillo. About 18.1 hours, almost all of it underground in burrows it digs itself.",
+      "keywords": "giant armadillo walking"
+    },
+    {
+      "rank": 3,
+      "label": "Opossum · 18–19 hours",
+      "text": "Number three: the North American opossum. Around 18 to 19 hours a day, playing dead the rest of the time.",
+      "keywords": "opossum sleeping"
+    },
+    {
+      "rank": 2,
+      "label": "Brown bat · 19.9 hours",
+      "text": "Number two: the little brown bat. 19.9 hours a day, hanging upside down, awake only long enough to hunt.",
+      "keywords": "brown bat hanging roost"
+    },
+    {
+      "rank": 1,
+      "label": "Koala · up to 22 hours",
+      "text": "Number one: the koala. 18 to 22 hours a day. Eucalyptus leaves give so little energy that staying awake is a luxury.",
+      "keywords": "koala sleeping eucalyptus"
+    }
+  ],
+  "description": "The five animals that sleep the most hours per day, ranked.\nPythons sleep about 18 hours a day, giant armadillos about 18.1, North American opossums roughly 18 to 19, and little brown bats 19.9, according to sleep-lab data compiled by neuroscientists at the University of Washington from studies by Jerome Siegel and others. Koalas sleep 18 to 22 hours a day because their eucalyptus diet is so low in nutrients and slow to digest. Sloths are left off: the old 20-hour figure came from captive animals, and wild sloths sleep far less.\nWhich of these would you trade places with?",
+  "tags": [
+    "animals that sleep the most",
+    "koala sleep",
+    "sleepiest animals",
+    "brown bat",
+    "opossum",
+    "giant armadillo",
+    "python",
+    "animal rankings",
+    "top 5 animals",
+    "sleep facts",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#koala",
+    "#ranking"
+  ],
+  "sources": [
+    "https://faculty.washington.edu/chudler/chasleep.html",
+    "https://www.sciencefocus.com/nature/top-10-which-animals-sleep-the-most/",
+    "https://www.australia.com/en/things-to-do/wildlife/facts-about-koalas.html",
+    "https://www.mpg.de/567312/pressRelease20080521"
+  ],
+  "thumbnail_text": "5 SLEEPIEST ANIMALS, RANKED",
+  "priority": 5,
+  "first_comment": "Wild sloths fitted with tiny brain recorders in Panama slept only about 9.6 hours a day, so the famous 20-hour sloth was a zoo animal with nothing to do. Which would you have put at number one? And what should we rank next: the animals that sleep the least?"
+}
