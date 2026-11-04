@@ -1,0 +1,74 @@
+{
+  "id": "2027-02-20-five-fastest-piloted-aircraft-ever-ranked",
+  "format": "ranking",
+  "ranking_by": "top speed reached with a pilot on board",
+  "topic": "technology",
+  "subject": "supersonic aircraft",
+  "title": "The 5 Fastest Piloted Aircraft Ever, Ranked (#1 Has Stood Since 1967)",
+  "scenes": [
+    {
+      "text": "The five fastest aircraft ever flown with a pilot. Number one is twice as fast as number two.",
+      "keywords": "jet fighter afterburner takeoff"
+    },
+    {
+      "rank": 5,
+      "label": "XB-70 Valkyrie · 2,056 mph",
+      "text": "Number five: the XB-70 Valkyrie. An experimental Mach 3 bomber that hit 2,056 miles an hour in the 1960s.",
+      "keywords": "XB-70 Valkyrie bomber"
+    },
+    {
+      "rank": 4,
+      "label": "Bell X-2 · 2,094 mph",
+      "text": "Number four: the Bell X-2. 2,094 miles an hour on September 27, 1956, a flight that killed its pilot.",
+      "keywords": "Bell X-2 rocket plane"
+    },
+    {
+      "rank": 3,
+      "label": "MiG-25 · about 2,190 mph",
+      "text": "Number three: the Soviet MiG-25. Around 2,190 miles an hour flat out, the fastest fighter ever built.",
+      "keywords": "MiG-25 fighter jet"
+    },
+    {
+      "rank": 2,
+      "label": "SR-71 Blackbird · 2,193 mph",
+      "text": "Number two: the SR-71 Blackbird. 2,193 miles an hour, Mach 3.3, a jet record set in 1976.",
+      "keywords": "SR-71 Blackbird jet"
+    },
+    {
+      "rank": 1,
+      "label": "X-15 · 4,520 mph",
+      "text": "Number one: the X-15 rocket plane. October 1967, Pete Knight, 4,520 miles an hour, Mach 6.7. Nobody has flown faster since.",
+      "keywords": "X-15 rocket plane"
+    }
+  ],
+  "description": "The five fastest aircraft ever flown with a pilot on board, ranked by top speed. The X-15 rocket plane reached 4,520 mph (Mach 6.7) on 3 October 1967, a crewed-aircraft record that still stands.\nThe SR-71 Blackbird's 1976 record of 2,193 mph remains the fastest for a jet; the MiG-25, Bell X-2 and XB-70 Valkyrie round out the list.\nWhich of these would you want to fly?",
+  "tags": [
+    "fastest aircraft",
+    "x-15",
+    "sr-71 blackbird",
+    "mig-25",
+    "xb-70 valkyrie",
+    "bell x-2",
+    "speed records",
+    "aviation facts",
+    "fighter jets",
+    "top 5 ranking",
+    "technology facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#aviation",
+    "#jets",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/North_American_X-15",
+    "https://www.aftc.af.mil/About-Us/History/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2335023/october-3-1967-x-15-human-speed-record/",
+    "https://aerocorner.com/blog/fastest-aircraft-in-the-world/"
+  ],
+  "thumbnail_text": "5 FASTEST AIRCRAFT, RANKED",
+  "priority": 5,
+  "first_comment": "The X-15 flew so high its pilots earned astronaut wings. Which would you put at number one, and what should we rank next?"
+}
