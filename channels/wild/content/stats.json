@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-11-04T04:02:20+00:00",
+  "updated_at": "2026-11-04T13:58:10+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
-    "channel_views": 11840,
+    "channel_views": 12034,
     "video_count": 43
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/uEVMR_vc2XI"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/uEVMR_vc2XI"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/uEVMR_vc2XI"
+    ]
   },
   "retention": {
     "videos_with_data": 33,
@@ -25,7 +31,7 @@
       "space": 63.1,
       "society": 68.8,
       "animals": 53.6,
-      "body": 63.2,
+      "body": 63.3,
       "technology": 66.7
     },
     "best": [
@@ -84,17 +90,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 43,
-  "total_views": 12080,
+  "total_videos": 44,
+  "total_views": 12195,
   "by_topic": {
     "earth": {
       "videos": 6,
       "avg_views": 496,
-      "best_views": 1105
+      "best_views": 1106
     },
     "space": {
-      "videos": 21,
-      "avg_views": 229,
+      "videos": 22,
+      "avg_views": 220,
       "best_views": 1281
     },
     "society": {
@@ -104,31 +110,31 @@
     },
     "animals": {
       "videos": 6,
-      "avg_views": 297,
+      "avg_views": 308,
       "best_views": 1426
     },
     "body": {
       "videos": 5,
       "avg_views": 168,
-      "best_views": 497
+      "best_views": 498
     },
     "technology": {
       "videos": 2,
-      "avg_views": 521,
+      "avg_views": 522,
       "best_views": 1041
     }
   },
   "by_style": {
     "classic": {
-      "videos": 43,
-      "avg_views": 281,
+      "videos": 44,
+      "avg_views": 277,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 42,
-      "avg_views": 263
+      "videos": 43,
+      "avg_views": 259
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -151,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1105,
+      "views": 1106,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -175,7 +181,7 @@
     {
       "title": "What If You Never Slept Again?",
       "topic": "body",
-      "views": 497,
+      "views": 498,
       "hook": "What if you never slept again? Day one feels fine. It isn't."
     },
     {
@@ -441,12 +447,12 @@
       "hook": "What if you never slept again? Day one feels fine. It isn't.",
       "published_at": "2026-10-27T02:15:23Z",
       "privacy": "public",
-      "views": 497,
+      "views": 498,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/6nUPnY94QPA",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 61.1,
+      "avg_view_percent": 61.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -945,7 +951,7 @@
       "hook": "What if your spacesuit helmet filled with water in space? It happened to a real astronaut.",
       "published_at": "2026-11-01T13:50:38Z",
       "privacy": "public",
-      "views": 184,
+      "views": 185,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/dwe3rjCTsoo",
@@ -1001,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1105,
+      "views": 1106,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1029,7 +1035,7 @@
       "hook": "What if you flew into the Sun's atmosphere? One spacecraft already did, and it survived.",
       "published_at": "2026-11-01T16:40:32Z",
       "privacy": "public",
-      "views": 69,
+      "views": 75,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gcgl97taucQ",
@@ -1085,7 +1091,7 @@
       "hook": "What if an animal frozen for 46,000 years came back to life? One did.",
       "published_at": "2026-11-02T02:40:20Z",
       "privacy": "public",
-      "views": 58,
+      "views": 59,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Z0QgS6RgYvM",
@@ -1113,7 +1119,7 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 20,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc"
@@ -1161,7 +1167,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 53,
+      "views": 59,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8"
@@ -1185,7 +1191,7 @@
       "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
       "published_at": "2026-11-02T21:10:15Z",
       "privacy": "public",
-      "views": 120,
+      "views": 181,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I"
@@ -1257,7 +1263,7 @@
       "hook": "What if you flew a helicopter on Mars? The air there is almost too thin to fly.",
       "published_at": "2026-11-03T17:00:31Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sg7h0dFtCCg"
@@ -1281,7 +1287,7 @@
       "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
       "published_at": "2026-11-03T19:20:06Z",
       "privacy": "public",
-      "views": 18,
+      "views": 42,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c"
@@ -1305,10 +1311,34 @@
       "hook": "What if humans lived in a Moon cave? Scientists found one, and it's room temperature.",
       "published_at": "2026-11-03T21:20:29Z",
       "privacy": "public",
-      "views": 15,
+      "views": 19,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nOw9IX9Y6Fg"
+    },
+    "uEVMR_vc2XI": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If an Asteroid Hit the Moon in 2032? There's a Real 4% Chance",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
+      "published_at": "2026-11-04T13:58:07Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/uEVMR_vc2XI"
     },
     "GWYrx6xGSRU": {
       "upload_status": "processed",
@@ -1329,7 +1359,7 @@
       "hook": "What if an asteroid a kilometer wide hit Earth? The impact isn't the deadliest part.",
       "published_at": "2026-11-04T02:40:35Z",
       "privacy": "public",
-      "views": 1,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GWYrx6xGSRU"
