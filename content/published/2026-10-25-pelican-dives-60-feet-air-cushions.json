@@ -55,5 +55,21 @@
   ],
   "thumbnail_text": "60-FOOT DIVE. NO INJURY.",
   "priority": 6,
-  "first_comment": "Pelicans dive at a steep angle, 60 to 90 degrees, to aim through the water's glare. Would you try it?"
+  "first_comment": "Pelicans dive at a steep angle, 60 to 90 degrees, to aim through the water's glare. Would you try it?",
+  "youtube_id": "MDK0CXlX8Jk",
+  "url": "https://youtube.com/shorts/MDK0CXlX8Jk",
+  "uploaded_at": "2026-11-04T02:31:33+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-04T03:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 7,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 22.0,
+  "style": "classic",
+  "kind": "shorts"
 }
