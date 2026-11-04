@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-04T15:03:13+00:00",
+  "updated_at": "2026-11-04T18:03:26+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
     "channel_views": 52272,
-    "video_count": 202
+    "video_count": 204
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/lAm9Gs-Ayzk",
-      "https://youtube.com/shorts/9PNCyQB-l7I"
+      "https://youtube.com/shorts/i1aKZDNCR68",
+      "https://youtube.com/shorts/2Ky1kAzkOT8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/lAm9Gs-Ayzk"
+      "https://youtube.com/shorts/2Ky1kAzkOT8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/lAm9Gs-Ayzk"
+      "https://youtube.com/shorts/2Ky1kAzkOT8"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 202,
-  "total_views": 53306,
+  "total_videos": 204,
+  "total_views": 53555,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 136,
-      "avg_views": 252,
+      "videos": 138,
+      "avg_views": 250,
       "best_views": 1507
     },
     "human body": {
@@ -127,14 +127,14 @@
     },
     "technology": {
       "videos": 4,
-      "avg_views": 35,
+      "avg_views": 36,
       "best_views": 71
     }
   },
   "by_style": {
     "classic": {
-      "videos": 186,
-      "avg_views": 250,
+      "videos": 188,
+      "avg_views": 249,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +145,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 116,
+      "videos": 118,
       "avg_views": 130
     },
     "en-US-BrianNeural": {
@@ -755,7 +755,7 @@
       "hook": "A rhino charges at 35 miles an hour.",
       "published_at": "2026-11-03T19:00:19Z",
       "privacy": "public",
-      "views": 109,
+      "views": 158,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw"
@@ -1099,7 +1099,7 @@
       "hook": "This bird dives into the ocean from 60 feet up.",
       "published_at": "2026-11-04T03:00:24Z",
       "privacy": "public",
-      "views": 20,
+      "views": 44,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MDK0CXlX8Jk"
@@ -1431,7 +1431,7 @@
       "hook": "Only five computers on Earth are this fast. Number one is brand new.",
       "published_at": "2026-11-03T15:00:10Z",
       "privacy": "public",
-      "views": 10,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DpnhUFqNzQc"
@@ -1657,6 +1657,54 @@
       "subscribers_gained": 0
     },
     "lAm9Gs-Ayzk": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT36S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Parasite Makes Rats Walk Straight Up to Cats",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Some rats walk straight up to a cat. On purpose.",
+      "published_at": "2026-11-04T16:30:00Z",
+      "privacy": "public",
+      "views": 3,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/lAm9Gs-Ayzk"
+    },
+    "i1aKZDNCR68": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT31S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Snail's Eyes Pulse Like Caterpillars. They Aren't Its Eyes",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This snail's eyes are pulsing. And they are not its eyes anymore.",
+      "published_at": "2026-11-04T18:00:22Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/i1aKZDNCR68"
+    },
+    "2Ky1kAzkOT8": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1668,17 +1716,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A Parasite Makes Rats Walk Straight Up to Cats",
+      "title": "A Wasp Turns a Caterpillar Into a Bodyguard for Its Own Killers",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "Some rats walk straight up to a cat. On purpose.",
-      "published_at": "2026-11-04T15:03:05Z",
+      "hook": "This caterpillar is guarding the babies that ate it alive.",
+      "published_at": "2026-11-04T18:03:18Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/lAm9Gs-Ayzk"
+      "url": "https://youtube.com/shorts/2Ky1kAzkOT8"
     },
     "ELVS4Bl4MT0": {
       "upload_status": "processed",
@@ -1749,11 +1797,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five longest-living cells in your body, ranked. Most of you is under ten years old.",
-      "published_at": "2026-11-04T15:00:15Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-04T15:30:10Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/9PNCyQB-l7I"
     },
     "vhWj8eW74zg": {
@@ -3623,7 +3671,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 499,
+      "views": 500,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA",
@@ -3791,7 +3839,7 @@
       "hook": "Ships climb 85 feet without a single pump.",
       "published_at": "2026-11-03T02:50:00Z",
       "privacy": "public",
-      "views": 56,
+      "views": 65,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28"
@@ -3815,7 +3863,7 @@
       "hook": "There's a planet hotter than most stars.",
       "published_at": "2026-11-04T03:20:07Z",
       "privacy": "public",
-      "views": 28,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PJlr06UakxU"
@@ -5323,7 +5371,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 110,
+      "views": 111,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0",
@@ -5515,7 +5563,7 @@
       "hook": "Something frozen for 24,000 years just woke up and had babies.",
       "published_at": "2026-11-02T12:30:18Z",
       "privacy": "public",
-      "views": 101,
+      "views": 105,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI"
@@ -5539,7 +5587,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 31,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5563,7 +5611,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 55,
+      "views": 61,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
@@ -5587,7 +5635,7 @@
       "hook": "A fox walked from Norway to Canada. Nobody believed it.",
       "published_at": "2026-11-02T18:00:31Z",
       "privacy": "public",
-      "views": 24,
+      "views": 26,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/lcilP6jC87M"
@@ -5635,7 +5683,7 @@
       "hook": "Every eel in Europe is born in a place no one has ever seen.",
       "published_at": "2026-11-02T20:00:29Z",
       "privacy": "public",
-      "views": 33,
+      "views": 34,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8"
@@ -5707,7 +5755,7 @@
       "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
       "published_at": "2026-11-03T00:10:06Z",
       "privacy": "public",
-      "views": 42,
+      "views": 43,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU"
@@ -5731,8 +5779,8 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 408,
-      "likes": 7,
+      "views": 485,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs"
     },
@@ -5755,7 +5803,7 @@
       "hook": "This insect isn't a flower. Bees fly to it more than to real ones.",
       "published_at": "2026-11-03T14:20:11Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SUtsfcR8bGA"
@@ -5779,7 +5827,7 @@
       "hook": "This snake makes fish run away from it. And they swim straight into its mouth.",
       "published_at": "2026-11-03T15:30:28Z",
       "privacy": "public",
-      "views": 241,
+      "views": 303,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/KS48QzMQ-QI"
