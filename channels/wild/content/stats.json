@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-03T20:50:32+00:00",
+  "updated_at": "2026-11-04T02:29:14+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 11840,
-    "video_count": 41
+    "video_count": 42
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/nOw9IX9Y6Fg"
+      "https://youtube.com/shorts/GWYrx6xGSRU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/nOw9IX9Y6Fg"
+      "https://youtube.com/shorts/GWYrx6xGSRU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/nOw9IX9Y6Fg"
+      "https://youtube.com/shorts/GWYrx6xGSRU"
     ]
   },
   "retention": {
@@ -90,27 +90,27 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 42,
-  "total_views": 12026,
+  "total_videos": 43,
+  "total_views": 12079,
   "by_topic": {
     "earth": {
       "videos": 6,
-      "avg_views": 495,
-      "best_views": 1104
+      "avg_views": 496,
+      "best_views": 1105
     },
     "space": {
-      "videos": 20,
-      "avg_views": 238,
+      "videos": 21,
+      "avg_views": 229,
       "best_views": 1281
     },
     "society": {
       "videos": 3,
-      "avg_views": 213,
+      "avg_views": 214,
       "best_views": 414
     },
     "animals": {
       "videos": 6,
-      "avg_views": 295,
+      "avg_views": 297,
       "best_views": 1426
     },
     "body": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 42,
-      "avg_views": 286,
+      "videos": 43,
+      "avg_views": 281,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 41,
-      "avg_views": 268
+      "videos": 42,
+      "avg_views": 263
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1104,
+      "views": 1105,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -175,7 +175,7 @@
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 1023,
+      "views": 1024,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -503,7 +503,7 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 1023,
+      "views": 1024,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY",
@@ -1007,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1104,
+      "views": 1105,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1035,7 +1035,7 @@
       "hook": "What if you flew into the Sun's atmosphere? One spacecraft already did, and it survived.",
       "published_at": "2026-11-01T16:40:32Z",
       "privacy": "public",
-      "views": 68,
+      "views": 69,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gcgl97taucQ",
@@ -1143,7 +1143,7 @@
       "hook": "What if every human vanished tonight? The first disaster wouldn't take long to arrive.",
       "published_at": "2026-11-02T17:00:15Z",
       "privacy": "public",
-      "views": 58,
+      "views": 60,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/bIzjV_Zwq6Y"
@@ -1167,7 +1167,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 49,
+      "views": 53,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8"
@@ -1191,7 +1191,7 @@
       "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
       "published_at": "2026-11-02T21:10:15Z",
       "privacy": "public",
-      "views": 112,
+      "views": 120,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I"
@@ -1215,7 +1215,7 @@
       "hook": "What if a sports car was launched into space and never came back? One was.",
       "published_at": "2026-11-03T02:40:09Z",
       "privacy": "public",
-      "views": 8,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QElYghl0l6s"
@@ -1239,7 +1239,7 @@
       "hook": "What if you jumped into a tunnel straight through Earth? You would not fall forever.",
       "published_at": "2026-11-03T14:10:22Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZxEWLYdNKhk"
@@ -1287,12 +1287,36 @@
       "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
       "published_at": "2026-11-03T19:20:06Z",
       "privacy": "public",
-      "views": 0,
+      "views": 18,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c"
     },
     "nOw9IX9Y6Fg": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT36S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Lived Inside a Cave on the Moon?",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if humans lived in a Moon cave? Scientists found one, and it's room temperature.",
+      "published_at": "2026-11-03T21:20:29Z",
+      "privacy": "public",
+      "views": 15,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/nOw9IX9Y6Fg"
+    },
+    "GWYrx6xGSRU": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1304,17 +1328,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Lived Inside a Cave on the Moon?",
+      "title": "What If a Kilometer-Wide Asteroid Hit Earth?",
       "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if humans lived in a Moon cave? Scientists found one, and it's room temperature.",
-      "published_at": "2026-11-03T20:50:29Z",
+      "hook": "What if an asteroid a kilometer wide hit Earth? The impact isn't the deadliest part.",
+      "published_at": "2026-11-04T02:29:09Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/nOw9IX9Y6Fg"
+      "url": "https://youtube.com/shorts/GWYrx6xGSRU"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
