@@ -1,0 +1,59 @@
+{
+  "id": "2027-01-25-what-if-the-first-atomic-bomb-set-the-air-on-fire",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "atomic bomb test",
+  "title": "What If the First Atomic Bomb Had Set the Sky on Fire? Physicists Checked",
+  "scenes": [
+    {
+      "text": "What if the first atomic bomb had set the air on fire? Its builders had to check.",
+      "keywords": "nuclear explosion mushroom cloud"
+    },
+    {
+      "text": "In 1942, Edward Teller asked: could the fireball get hot enough to fuse the nitrogen in the air, and spread?",
+      "keywords": "physicists chalkboard 1940s"
+    },
+    {
+      "text": "Hans Bethe worked it by hand. The bomb would reach a few million degrees. Nitrogen nuclei need far more than that to fuse.",
+      "keywords": "handwritten equations paper"
+    },
+    {
+      "text": "And air is thin. X-rays carry heat out of the fireball faster than fusion can add it. The flame starves in a fraction of a second.",
+      "keywords": "fireball explosion slow motion"
+    },
+    {
+      "text": "A 1946 Los Alamos report checked again. Same answer. On July 16, 1945, Trinity lit the desert. The sky stayed.",
+      "keywords": "trinity test desert explosion"
+    },
+    {
+      "text": "In 1961, a bomb over 2,000 times bigger went off. Nothing. Bethe later wrote: it is not a matter of probabilities, it is simply impossible.",
+      "keywords": "tsar bomba huge mushroom cloud"
+    }
+  ],
+  "description": "What if the first atomic bomb had ignited the atmosphere? In 1942 Edward Teller raised exactly that worry, and Hans Bethe calculated the answer by hand.\nA fission bomb heats air to a few million degrees, far short of what nitrogen nuclei need to fuse, and the thin air radiates heat away as X-rays faster than fusion could add it. A 1946 Los Alamos report confirmed the margin, the Trinity test went ahead on July 16, 1945, and the 50-megaton Tsar Bomba of 1961 came nowhere near igniting anything. Bethe wrote in 1975 that ignition is not a matter of probabilities but simply impossible.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "atomic bomb",
+    "trinity test",
+    "manhattan project",
+    "oppenheimer",
+    "nuclear physics",
+    "what would happen",
+    "history explained",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#history",
+    "#physics"
+  ],
+  "sources": [
+    "https://physicstoday.aip.org/features/manhattan-project-astrophysics",
+    "https://inverse.com/science/did-oppenheimer-really-worry-about-setting-the-atmosphere-on-fire"
+  ],
+  "thumbnail_text": "WHAT IF THE SKY CAUGHT FIRE?",
+  "priority": 7,
+  "first_comment": "The famous 'three in a million' odds came from a 1959 interview, years after the test; Bethe said no such number was ever calculated. Which near-miss in science should we run through next?"
+}
