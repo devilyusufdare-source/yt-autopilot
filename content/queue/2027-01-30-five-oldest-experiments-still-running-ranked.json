@@ -1,0 +1,73 @@
+{
+  "id": "2027-01-30-five-oldest-experiments-still-running-ranked",
+  "format": "ranking",
+  "ranking_by": "start year of an experiment still running",
+  "topic": "science",
+  "subject": "old science experiment",
+  "title": "The 5 Oldest Experiments Still Running, Ranked (#1 Started in 1840)",
+  "scenes": [
+    {
+      "text": "The five oldest experiments still running. The famous pitch drop doesn't even make the list.",
+      "keywords": "vintage laboratory glassware"
+    },
+    {
+      "rank": 5,
+      "label": "Beal seeds · 1879",
+      "text": "Number five: the Beal seed experiment, Michigan, 1879. Twenty bottles of seeds buried; one is dug up every 20 years to see what sprouts. It ends in 2100.",
+      "keywords": "glass bottle seeds soil"
+    },
+    {
+      "rank": 4,
+      "label": "Morrow Plots · 1876",
+      "text": "Number four: the Morrow Plots, Illinois, 1876. Corn on the same squares of soil for 150 years, America's oldest crop experiment.",
+      "keywords": "corn field rows"
+    },
+    {
+      "rank": 3,
+      "label": "Beverly Clock · 1864",
+      "text": "Number three: the Beverly Clock, New Zealand, 1864. Never wound. A sealed box of air, swelling and shrinking with the temperature, drives it.",
+      "keywords": "antique clock mechanism"
+    },
+    {
+      "rank": 2,
+      "label": "Broadbalk · 1843",
+      "text": "Number two: Broadbalk field, England, 1843. Wheat every year on plots given manure, fertilizer, or nothing at all.",
+      "keywords": "wheat field england"
+    },
+    {
+      "rank": 1,
+      "label": "Oxford Bell · 1840",
+      "text": "Number one: the Oxford Electric Bell, 1840. Two batteries have rung it about ten billion times. Nobody knows what's inside them, and nobody will open them until it stops.",
+      "keywords": "old brass bell glass case"
+    }
+  ],
+  "description": "The five oldest scientific experiments still running, ranked by the year they started.\nThe Oxford Electric Bell has been ringing since about 1840 on two dry-pile batteries of unknown composition; Rothamsted's Broadbalk wheat trial has run since 1843; the Beverly Clock in New Zealand has run unwound since 1864; the Morrow Plots in Illinois since 1876; and the Beal seed experiment, started in 1879, will finish in 2100. The University of Queensland's pitch drop only began in 1927.\nWhich of these would you want to be in the room for?",
+  "tags": [
+    "oldest experiment",
+    "oxford electric bell",
+    "pitch drop experiment",
+    "beal seed experiment",
+    "rothamsted",
+    "beverly clock",
+    "science history",
+    "science facts",
+    "top 5 ranking",
+    "world records",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#history",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Long-term_experiment",
+    "https://era.rothamsted.ac.uk/site/rothamsted",
+    "https://www.mentalfloss.com/science/15-longest-running-scientific-studies-history"
+  ],
+  "thumbnail_text": "5 OLDEST EXPERIMENTS, RANKED",
+  "priority": 5,
+  "first_comment": "The Beal bottle opened in 2021 still sprouted after 142 years underground. Which would you put at number one, and what should we rank next?"
+}

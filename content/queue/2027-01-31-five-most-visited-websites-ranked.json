@@ -1,0 +1,72 @@
+{
+  "id": "2027-01-31-five-most-visited-websites-ranked",
+  "format": "ranking",
+  "ranking_by": "monthly visits (Similarweb, August 2026)",
+  "topic": "internet",
+  "subject": "website on phone",
+  "title": "The 5 Most Visited Websites, Ranked (#1 Gets 87 Billion Visits a Month)",
+  "scenes": [
+    {
+      "text": "The five most visited websites on Earth. Number five only launched at the end of 2022.",
+      "keywords": "phone scrolling social media"
+    },
+    {
+      "rank": 5,
+      "label": "ChatGPT · 5.6 billion",
+      "text": "Number five: ChatGPT. 5.6 billion visits a month, from a site that didn't exist before late 2022.",
+      "keywords": "chatbot app phone screen"
+    },
+    {
+      "rank": 4,
+      "label": "Instagram · 7.6 billion",
+      "text": "Number four: Instagram. 7.6 billion visits a month, and that only counts browsers, not the app.",
+      "keywords": "instagram app phone"
+    },
+    {
+      "rank": 3,
+      "label": "Facebook · 11.5 billion",
+      "text": "Number three: Facebook. 11.5 billion visits a month, still ahead of every app that was built to replace it.",
+      "keywords": "facebook app phone"
+    },
+    {
+      "rank": 2,
+      "label": "YouTube · 30.4 billion",
+      "text": "Number two: YouTube. 30.4 billion visits a month, nearly three times Facebook.",
+      "keywords": "youtube app phone"
+    },
+    {
+      "rank": 1,
+      "label": "Google · 86.6 billion",
+      "text": "Number one: Google. 86.6 billion visits a month, nearly three times YouTube, and more than ten visits for every person alive.",
+      "keywords": "google search phone screen"
+    }
+  ],
+  "description": "The five most visited websites in the world, ranked by monthly visits.\nSimilarweb's August 2026 estimates, counting desktop and mobile browser visits but not app traffic: google.com 86.6 billion, youtube.com 30.4 billion, facebook.com 11.5 billion, instagram.com 7.6 billion and chatgpt.com 5.6 billion. Google alone gets more than ten visits a month for every person on Earth.\nWhich site do you open first every day?",
+  "tags": [
+    "most visited websites",
+    "google",
+    "youtube",
+    "facebook",
+    "instagram",
+    "chatgpt",
+    "internet facts",
+    "tech facts",
+    "top 5 ranking",
+    "world records",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#internet",
+    "#tech",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.similarweb.com/blog/research/market-research/most-visited-websites/",
+    "https://www.hostinger.com/tutorials/most-visited-websites-in-the-world/"
+  ],
+  "thumbnail_text": "5 MOST VISITED SITES, RANKED",
+  "priority": 5,
+  "first_comment": "Add app traffic and the order would change: most Instagram and TikTok use never touches a browser. Which would you put at number one, and what should we rank next?"
+}
