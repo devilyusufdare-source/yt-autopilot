@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-04T13:58:10+00:00",
+  "updated_at": "2026-11-04T16:50:37+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 12034,
-    "video_count": 43
+    "video_count": 44
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/uEVMR_vc2XI"
+      "https://youtube.com/shorts/61k2NffqMAU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/uEVMR_vc2XI"
+      "https://youtube.com/shorts/61k2NffqMAU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/uEVMR_vc2XI"
+      "https://youtube.com/shorts/61k2NffqMAU"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 44,
-  "total_views": 12195,
+  "total_videos": 45,
+  "total_views": 12236,
   "by_topic": {
     "earth": {
       "videos": 6,
@@ -100,7 +100,7 @@
     },
     "space": {
       "videos": 22,
-      "avg_views": 220,
+      "avg_views": 221,
       "best_views": 1281
     },
     "society": {
@@ -110,7 +110,7 @@
     },
     "animals": {
       "videos": 6,
-      "avg_views": 308,
+      "avg_views": 312,
       "best_views": 1426
     },
     "body": {
@@ -119,22 +119,22 @@
       "best_views": 498
     },
     "technology": {
-      "videos": 2,
-      "avg_views": 522,
+      "videos": 3,
+      "avg_views": 348,
       "best_views": 1041
     }
   },
   "by_style": {
     "classic": {
-      "videos": 44,
-      "avg_views": 277,
+      "videos": 45,
+      "avg_views": 272,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 43,
-      "avg_views": 259
+      "videos": 44,
+      "avg_views": 254
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -951,7 +951,7 @@
       "hook": "What if your spacesuit helmet filled with water in space? It happened to a real astronaut.",
       "published_at": "2026-11-01T13:50:38Z",
       "privacy": "public",
-      "views": 185,
+      "views": 186,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/dwe3rjCTsoo",
@@ -1035,7 +1035,7 @@
       "hook": "What if you flew into the Sun's atmosphere? One spacecraft already did, and it survived.",
       "published_at": "2026-11-01T16:40:32Z",
       "privacy": "public",
-      "views": 75,
+      "views": 76,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gcgl97taucQ",
@@ -1191,8 +1191,8 @@
       "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
       "published_at": "2026-11-02T21:10:15Z",
       "privacy": "public",
-      "views": 181,
-      "likes": 0,
+      "views": 199,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I"
     },
@@ -1287,7 +1287,7 @@
       "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
       "published_at": "2026-11-03T19:20:06Z",
       "privacy": "public",
-      "views": 42,
+      "views": 46,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c"
@@ -1317,14 +1317,14 @@
       "url": "https://youtube.com/shorts/nOw9IX9Y6Fg"
     },
     "uEVMR_vc2XI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT45S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1333,11 +1333,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
-      "published_at": "2026-11-04T13:58:07Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-04T14:10:11Z",
+      "privacy": "public",
+      "views": 12,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI"
     },
     "GWYrx6xGSRU": {
@@ -1359,10 +1359,34 @@
       "hook": "What if an asteroid a kilometer wide hit Earth? The impact isn't the deadliest part.",
       "published_at": "2026-11-04T02:40:35Z",
       "privacy": "public",
-      "views": 8,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GWYrx6xGSRU"
+    },
+    "61k2NffqMAU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Plane's Door Blew Off Mid-Flight? It Did in 2024, With 177 People Aboard",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if part of a plane's wall blew off mid-flight? In 2024 it did. Two seats saved everyone.",
+      "published_at": "2026-11-04T16:50:31Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/61k2NffqMAU"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
