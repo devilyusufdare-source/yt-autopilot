@@ -1,0 +1,63 @@
+{
+  "id": "2027-03-05-parasite-gives-frogs-extra-legs-so-birds-catch-them",
+  "format": "fact",
+  "topic": "animals",
+  "title": "A Parasite Gives Frogs Extra Legs So Birds Can Catch Them",
+  "scenes": [
+    {
+      "text": "Some frogs grow six extra legs. Something wants them to.",
+      "keywords": "frog jumping"
+    },
+    {
+      "text": "In the 1990s, schoolchildren in Minnesota found a pond full of them. Extra legs, missing legs, legs that didn't work.",
+      "keywords": "frog pond"
+    },
+    {
+      "text": "The cause is a flatworm. It starts life inside a pond snail, then swims out and burrows into a tadpole, right where the back legs are about to grow.",
+      "keywords": "tadpole swimming"
+    },
+    {
+      "text": "Its cysts scramble the growing limb. At some ponds, more than half the young frogs come out deformed.",
+      "keywords": "tadpole close up"
+    },
+    {
+      "text": "A frog like that can barely jump or swim. For a heron, it's the easiest meal in the pond.",
+      "keywords": "heron hunting"
+    },
+    {
+      "text": "And inside a bird is where the worm finally breeds. Its eggs drop back into the water, and the snails are waiting.",
+      "keywords": "great blue heron"
+    }
+  ],
+  "description": "Some frogs grow up to six extra legs, and a parasite is the reason.\nThe flatworm Ribeiroia ondatrae moves from pond snails into tadpoles and forms cysts around the developing hind limbs, which can produce extra, missing or misshapen legs; at some ponds more than half of the emerging frogs are affected. Deformed frogs are less able to jump and swim, which makes them easy prey for birds such as herons, the hosts in which the adult worm reproduces.\nWhich is stranger: the extra legs, or the reason for them?",
+  "tags": [
+    "frogs with extra legs",
+    "ribeiroia",
+    "parasite",
+    "deformed frogs",
+    "frog facts",
+    "flatworm",
+    "parasite facts",
+    "heron",
+    "tadpole",
+    "weird animal facts",
+    "animal facts",
+    "nature facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#frog",
+    "#parasite",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.colorado.edu/lab/johnson-laboratory/research/amphibian-deformities-and-disease",
+    "https://www.pbs.org/newshour/science/frog-deformities-linked-to-flatworm-parasite"
+  ],
+  "thumbnail_text": "FROGS WITH 6 EXTRA LEGS",
+  "priority": 6,
+  "subject": "frog",
+  "first_comment": "One researcher compared the cyst to a golf ball jammed into the spot where the leg grows. Smartest parasite trick you've heard of?"
+}
