@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-16-what-if-we-sent-aliens-a-message-arecibo",
+  "format": "whatif",
+  "topic": "space",
+  "subject": "radio telescope dish",
+  "title": "What If We Sent Aliens a Message? We Did in 1974. It Hasn't Arrived",
+  "scenes": [
+    {
+      "text": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
+      "keywords": "giant radio telescope dish"
+    },
+    {
+      "text": "Under three minutes: 1,679 beeps that line up into a picture. DNA, a stick-figure human, our solar system, the dish itself.",
+      "keywords": "binary code pixel image"
+    },
+    {
+      "text": "The target was M13, a dense ball of stars 25,000 light-years away, picked because it was overhead that day.",
+      "keywords": "globular star cluster space"
+    },
+    {
+      "text": "Fifty-two years later, the signal is about 50 light-years out. One five-hundredth of the way.",
+      "keywords": "radio waves travelling space animation"
+    },
+    {
+      "text": "By the time it arrives, the cluster will have drifted along its orbit. The core won't be exactly where we aimed.",
+      "keywords": "stars moving night sky timelapse"
+    },
+    {
+      "text": "If anyone answers, the reply lands around the year 52,000. The dish that sent it collapsed in 2020. The message outlived the messenger.",
+      "keywords": "collapsed radio telescope wreckage"
+    }
+  ],
+  "description": "What if we sent aliens a message? On 16 November 1974 the Arecibo telescope in Puerto Rico beamed 1,679 bits toward the star cluster M13, about 25,000 light-years away.\nThe picture encoded DNA, a human figure, our solar system and the dish itself. The signal is now about 50 light-years out; it arrives in roughly 25,000 years, by which time the cluster will have moved, and any reply would take as long again. The Arecibo dish collapsed in December 2020.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "Arecibo message",
+    "aliens",
+    "SETI",
+    "space facts",
+    "radio telescope",
+    "what would happen",
+    "astronomy",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#space",
+    "#aliens"
+  ],
+  "sources": [
+    "https://earthsky.org/space/this-date-in-science-first-radio-signal-beamed-to-space",
+    "https://www.astronomy.com/?p=167362",
+    "https://webarchive.library.unt.edu/web/20120621012639/http://en.wikipedia.org/wiki/Arecibo_message",
+    "https://skyandtelescope.org/astronomy-news/the-arecibo-telescope-has-collapsed/"
+  ],
+  "thumbnail_text": "WHAT IF WE MESSAGED ALIENS?",
+  "priority": 7,
+  "first_comment": "Frank Drake designed the message with help from Carl Sagan, and it was really a demonstration for the telescope's reopening ceremony, not a serious attempt at contact. What would you put in the message? And what should we run through next?"
+}
