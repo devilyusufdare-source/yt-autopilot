@@ -59,5 +59,20 @@
   "priority": 7,
   "subject": "black-footed cat",
   "first_comment": "It lives in Botswana, Namibia and South Africa and is listed as vulnerable. Which big cat did you think was the best hunter before this?",
-  "_attempts": 1
+  "youtube_id": "Tc8k-oMf4pI",
+  "url": "https://youtube.com/shorts/Tc8k-oMf4pI",
+  "uploaded_at": "2026-11-04T20:00:15+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-04T21:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 34.6,
+  "style": "classic",
+  "kind": "shorts"
 }
