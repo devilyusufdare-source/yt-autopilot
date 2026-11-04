@@ -1,0 +1,73 @@
+{
+  "id": "2027-01-01-five-coldest-temperatures-ever-recorded-ranked",
+  "format": "ranking",
+  "ranking_by": "lowest air temperature ever recorded",
+  "topic": "science",
+  "subject": "frozen landscape",
+  "title": "The 5 Coldest Temperatures Ever Recorded, Ranked (#1 Is Colder Than Dry Ice)",
+  "scenes": [
+    {
+      "text": "The five coldest temperatures ever recorded, ranked. Number two sat unnoticed in a file for 30 years.",
+      "keywords": "frozen landscape blizzard snow"
+    },
+    {
+      "rank": 5,
+      "label": "Ust-Shchugor · −58 °C",
+      "text": "Number five: Ust-Shchugor, Russia, Europe's record. Minus 58 Celsius, minus 73 Fahrenheit, on New Year's Eve 1978.",
+      "keywords": "russian village winter snow"
+    },
+    {
+      "rank": 4,
+      "label": "Snag, Yukon · −63 °C",
+      "text": "Number four: Snag, Yukon, 1947. About minus 63 Celsius, minus 81 Fahrenheit. The thermometer only went to minus 80, so they had to extrapolate.",
+      "keywords": "yukon forest deep snow cabin"
+    },
+    {
+      "rank": 3,
+      "label": "Oymyakon · −67.8 °C",
+      "text": "Number three: Oymyakon, Siberia, 1933. Minus 67.8 Celsius, minus 90 Fahrenheit. People still live there, in the coldest town on Earth.",
+      "keywords": "siberian town frost fog"
+    },
+    {
+      "rank": 2,
+      "label": "Greenland Klinck · −69.6 °C",
+      "text": "Number two: the Klinck station on Greenland's ice sheet. Minus 69.6 Celsius, minus 93 Fahrenheit, in 1991. Nobody noticed the reading until 2020.",
+      "keywords": "greenland ice sheet aerial"
+    },
+    {
+      "rank": 1,
+      "label": "Vostok · −89.2 °C",
+      "text": "Number one: Vostok Station, Antarctica, July 1983. Minus 89.2 Celsius, minus 129 Fahrenheit. Colder than dry ice.",
+      "keywords": "antarctica research station snow"
+    }
+  ],
+  "description": "The five lowest air temperatures ever recorded on Earth, ranked.\nEurope's record is −58.1 °C at Ust-Shchugor, Russia (31 December 1978); North America's is about −63 °C at Snag, Yukon (3 February 1947); Asia's is −67.8 °C at Oymyakon (1933) and Verkhoyansk (1892). In 2020 the World Meteorological Organization verified −69.6 °C at the Klinck automatic station on the Greenland Ice Sheet, measured on 22 December 1991 and overlooked for almost 30 years, as the Northern Hemisphere record. The world record is −89.2 °C at Vostok Station, Antarctica, on 21 July 1983.\nWhich of these could you survive a night in?",
+  "tags": [
+    "coldest temperature ever",
+    "coldest places on earth",
+    "Vostok station",
+    "Oymyakon",
+    "Greenland record",
+    "weather records",
+    "science facts",
+    "top 5 science",
+    "earth facts",
+    "weather facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#weather",
+    "#ranking"
+  ],
+  "sources": [
+    "https://wmo.int/media/news/wmo-verifies-696degc-greenland-temperature-northern-hemisphere-record?book=21486",
+    "https://wunderground.com/blog/weatherhistorian/the-coldest-places-on-earth.html",
+    "https://www.guinnessworldrecords.com/world-records/66137-lowest-temperature-recorded-on-earth"
+  ],
+  "thumbnail_text": "5 COLDEST PLACES EVER, RANKED",
+  "priority": 6,
+  "first_comment": "Satellites have measured even colder surface temperatures in Antarctica, but the WMO only counts readings from thermometers in the air. Which would you have put at number one? And what should we rank next: the hottest places on Earth?"
+}
