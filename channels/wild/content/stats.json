@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-04T16:50:37+00:00",
+  "updated_at": "2026-11-04T19:13:16+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 12034,
-    "video_count": 44
+    "video_count": 45
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/61k2NffqMAU"
+      "https://youtube.com/shorts/6sP4tb9hKiw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/61k2NffqMAU"
+      "https://youtube.com/shorts/6sP4tb9hKiw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/61k2NffqMAU"
+      "https://youtube.com/shorts/6sP4tb9hKiw"
     ]
   },
   "retention": {
@@ -90,13 +90,13 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 45,
-  "total_views": 12236,
+  "total_videos": 46,
+  "total_views": 12292,
   "by_topic": {
     "earth": {
       "videos": 6,
       "avg_views": 496,
-      "best_views": 1106
+      "best_views": 1107
     },
     "space": {
       "videos": 22,
@@ -110,7 +110,7 @@
     },
     "animals": {
       "videos": 6,
-      "avg_views": 312,
+      "avg_views": 316,
       "best_views": 1426
     },
     "body": {
@@ -119,22 +119,22 @@
       "best_views": 498
     },
     "technology": {
-      "videos": 3,
-      "avg_views": 348,
+      "videos": 4,
+      "avg_views": 266,
       "best_views": 1041
     }
   },
   "by_style": {
     "classic": {
-      "videos": 45,
-      "avg_views": 272,
+      "videos": 46,
+      "avg_views": 267,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 44,
-      "avg_views": 254
+      "videos": 45,
+      "avg_views": 250
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1106,
+      "views": 1107,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -1007,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1106,
+      "views": 1107,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1119,7 +1119,7 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 22,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc"
@@ -1191,7 +1191,7 @@
       "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
       "published_at": "2026-11-02T21:10:15Z",
       "privacy": "public",
-      "views": 199,
+      "views": 227,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I"
@@ -1287,7 +1287,7 @@
       "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
       "published_at": "2026-11-03T19:20:06Z",
       "privacy": "public",
-      "views": 46,
+      "views": 48,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c"
@@ -1359,20 +1359,20 @@
       "hook": "What if an asteroid a kilometer wide hit Earth? The impact isn't the deadliest part.",
       "published_at": "2026-11-04T02:40:35Z",
       "privacy": "public",
-      "views": 13,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GWYrx6xGSRU"
     },
     "61k2NffqMAU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT48S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1381,12 +1381,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if part of a plane's wall blew off mid-flight? In 2024 it did. Two seats saved everyone.",
-      "published_at": "2026-11-04T16:50:31Z",
+      "published_at": "2026-11-04T17:20:26Z",
+      "privacy": "public",
+      "views": 21,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/61k2NffqMAU"
+    },
+    "6sP4tb9hKiw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Skyscraper Could Tip Over in a Storm? New York Had One in 1978",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a new skyscraper could fall over in a storm? In 1978, one in Manhattan could.",
+      "published_at": "2026-11-04T19:13:08Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/61k2NffqMAU"
+      "url": "https://youtube.com/shorts/6sP4tb9hKiw"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
