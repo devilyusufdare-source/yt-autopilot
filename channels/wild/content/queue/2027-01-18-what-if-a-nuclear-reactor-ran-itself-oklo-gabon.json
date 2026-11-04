@@ -1,0 +1,59 @@
+{
+  "id": "2027-01-18-what-if-a-nuclear-reactor-ran-itself-oklo-gabon",
+  "format": "whatif",
+  "topic": "earth",
+  "priority": 8,
+  "title": "What If a Nuclear Reactor Ran With No One to Build It? One Did, 2 Billion Years Ago",
+  "scenes": [
+    {
+      "text": "What if a nuclear reactor switched itself on with nobody around? It happened, two billion years ago.",
+      "keywords": "uranium mine open pit africa"
+    },
+    {
+      "text": "1972, a fuel plant in France. A physicist checks uranium ore from the Oklo mine in Gabon. A sliver of its uranium-235 is missing. Impossible.",
+      "keywords": "scientist laboratory samples analysis"
+    },
+    {
+      "text": "Missing uranium means it was burned. The ore held the ash of nuclear fission, what a power station leaves behind.",
+      "keywords": "nuclear power plant cooling towers"
+    },
+    {
+      "text": "Two billion years ago, natural uranium was about 3 percent uranium-235, like reactor fuel today. Groundwater seeped in, slowed the neutrons. The rock went critical.",
+      "keywords": "groundwater seeping rock layers"
+    },
+    {
+      "text": "It ran about 30 minutes, boiled the water away, shut down, and restarted two and a half hours later. On, off, for roughly 150,000 years.",
+      "keywords": "geyser steam erupting"
+    },
+    {
+      "text": "Average output: about 100 kilowatts. Its waste stayed locked in the rock for two billion years. That is why engineers study it.",
+      "keywords": "radioactive waste storage canisters"
+    }
+  ],
+  "description": "What if a nuclear reactor ran itself? In 1972 physicist Francis Perrin, at a fuel-processing plant in France, found that uranium ore from the Oklo mine in Gabon contained 0.717 percent uranium-235 instead of the usual 0.720, along with fission products. The ore had undergone natural nuclear fission about two billion years ago.\nAt that time natural uranium was about 3 percent uranium-235, enough to sustain a chain reaction with groundwater as the moderator. Xenon isotopes analysed by Alex Meshik at Washington University in St. Louis show the reactor ran for about 30 minutes, boiled off its water and shut down for roughly 2.5 hours before restarting, cycling like that for an estimated 150,000 years at an average of about 100 kilowatts. Its fission products stayed trapped in the rock, which is why Oklo is studied as a natural model for nuclear waste storage.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "Oklo reactor",
+    "natural nuclear reactor",
+    "Gabon",
+    "uranium",
+    "nuclear fission",
+    "earth science",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#nuclear",
+    "#science"
+  ],
+  "sources": [
+    "https://www.iaea.org/node/51357",
+    "https://livescience.com/75-natural-nuclear-reaction-powered-ancient-geyser.html",
+    "https://source.washu.edu/2004/12/mother-nature-nuclear-reactor-described-by-wustl-researchers/"
+  ],
+  "thumbnail_text": "NATURE BUILT A NUCLEAR REACTOR",
+  "first_comment": "It can never happen again: uranium-235 decays faster than uranium-238, so natural ore today is only about 0.7 percent, far too lean to go critical. What should we run through next? Drop your own what-if below."
+}

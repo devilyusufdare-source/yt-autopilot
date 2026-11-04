@@ -1,0 +1,59 @@
+{
+  "id": "2027-01-20-what-if-a-state-ran-on-one-giant-battery-hornsdale",
+  "format": "whatif",
+  "topic": "technology",
+  "priority": 6,
+  "title": "What If You Plugged a Giant Battery Into the Power Grid? Australia Did, on a 100-Day Bet",
+  "scenes": [
+    {
+      "text": "What if you plugged one giant battery into a whole state's power grid? Australia did, on a bet.",
+      "keywords": "lithium battery storage farm aerial"
+    },
+    {
+      "text": "2016: a storm knocks out South Australia's entire grid. Politicians argue about the fix for a year.",
+      "keywords": "city blackout night power lines storm"
+    },
+    {
+      "text": "In 2017 Elon Musk bets on Twitter he can build a 100-megawatt battery in 100 days, or it is free. It switches on December 1, inside the deadline.",
+      "keywords": "tesla battery installation workers"
+    },
+    {
+      "text": "Two weeks later, a coal plant in a neighbouring state trips offline. The battery pumps 100 megawatts into the grid in 140 milliseconds.",
+      "keywords": "coal power station chimneys"
+    },
+    {
+      "text": "It can run about 8,000 homes for a day. Its real job is faster: catching the grid every time a big generator stumbles.",
+      "keywords": "electricity pylons sunset"
+    },
+    {
+      "text": "An engineering report found it saved consumers about 116 million dollars in 2019 alone. The bet was on a battery. The state got a shock absorber.",
+      "keywords": "wind turbines battery storage field"
+    }
+  ],
+  "description": "What if you plugged a giant battery into a state's power grid? After a storm triggered a statewide blackout in South Australia in 2016, Elon Musk bet on Twitter in 2017 that Tesla could deliver a 100-megawatt battery in 100 days or it would be free. The Hornsdale Power Reserve, paired with Neoen's wind farm about 230 km north of Adelaide, was switched on at the start of December 2017.\nWhen the Loy Yang coal plant in Victoria tripped offline, the battery delivered 100 MW to the national grid in about 140 milliseconds, far faster than conventional generators. It can power about 8,000 homes for 24 hours, and an analysis by engineering firm Aurecon found it saved South Australian consumers around 116 million dollars in 2019, nearly triple the saving of 2018.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "Hornsdale Power Reserve",
+    "Tesla big battery",
+    "South Australia blackout",
+    "grid battery",
+    "renewable energy",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#energy",
+    "#technology"
+  ],
+  "sources": [
+    "https://weforum.org/stories/2017/12/teslas-giant-battery-is-keeping-the-lights-on-in-south-australia",
+    "https://www.startupdaily.net/topic/south-australias-tesla-big-battery-saved-consumers-116-million-in-electricity-costs-last-year/",
+    "https://reneweconomy.com.au/tesla-big-battery-moves-from-show-boating-to-money-making-93955/amp/"
+  ],
+  "thumbnail_text": "100 MEGAWATTS IN 140 MILLISECONDS",
+  "first_comment": "It worked so well that a 50 percent expansion, to 150 megawatts, was ordered for 2020. What should we run through next: what if a whole country ran on wind for a week? Drop your own what-if below."
+}
