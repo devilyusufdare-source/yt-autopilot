@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-04T02:29:14+00:00",
+  "updated_at": "2026-11-04T04:02:20+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 12,
     "channel_views": 11840,
-    "video_count": 42
+    "video_count": 43
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/GWYrx6xGSRU"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/GWYrx6xGSRU"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/GWYrx6xGSRU"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 33,
@@ -91,7 +85,7 @@
   },
   "retention_note": null,
   "total_videos": 43,
-  "total_views": 12079,
+  "total_views": 12080,
   "by_topic": {
     "earth": {
       "videos": 6,
@@ -1317,14 +1311,14 @@
       "url": "https://youtube.com/shorts/nOw9IX9Y6Fg"
     },
     "GWYrx6xGSRU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1333,11 +1327,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if an asteroid a kilometer wide hit Earth? The impact isn't the deadliest part.",
-      "published_at": "2026-11-04T02:29:09Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-04T02:40:35Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/GWYrx6xGSRU"
     },
     "jwre0VbiRCc": {
