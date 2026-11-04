@@ -235,7 +235,7 @@ def repeats(path: Path, pkg: dict) -> list[str]:
     if _KNOWN_TITLES is None:
         _KNOWN_TITLES = []
         for base in (root / "content", *sorted((root / "channels").glob("*/content"))):
-            for sub in ("queue", "published", "parked", "failed", "sold"):
+            for sub in ("queue", "published", "parked", "parked-sonnet", "failed", "sold"):
                 for f in sorted((base / sub).glob("*.json")):
                     try:
                         _KNOWN_TITLES.append((_norm_title(json.loads(f.read_text(encoding="utf-8")).get("title")), f))
