@@ -1,0 +1,73 @@
+{
+  "id": "2026-11-12-five-longest-single-spaceflights-ranked",
+  "format": "ranking",
+  "ranking_by": "days in space on a single mission",
+  "topic": "space",
+  "title": "The 5 Longest Single Spaceflights Ever, Ranked (#1 Was Set in 1995)",
+  "scenes": [
+    {
+      "text": "The five longest single spaceflights ever, ranked. Number one has stood for thirty years.",
+      "keywords": "space station orbit earth"
+    },
+    {
+      "rank": 5,
+      "label": "Titov and Manarov · 366 days",
+      "text": "Number five: Vladimir Titov and Musa Manarov. 366 days on the Mir station in 1988, the first people to pass a full year.",
+      "keywords": "mir space station"
+    },
+    {
+      "rank": 4,
+      "label": "Frank Rubio · 371 days",
+      "text": "Number four: Frank Rubio. 371 days in 2023, after his ride home sprang a leak. The longest American spaceflight ever.",
+      "keywords": "astronaut floating space station"
+    },
+    {
+      "rank": 3,
+      "label": "Kononenko and Chub · 374 days",
+      "text": "Number three: Oleg Kononenko and Nikolai Chub. 374 days in 2024. Kononenko's career total is 1,111 days, the most of anyone.",
+      "keywords": "cosmonaut spacewalk"
+    },
+    {
+      "rank": 2,
+      "label": "Sergei Avdeyev · 380 days",
+      "text": "Number two: Sergei Avdeyev. 380 days on Mir, from 1998 to 1999.",
+      "keywords": "earth from space window"
+    },
+    {
+      "rank": 1,
+      "label": "Valeri Polyakov · 437 days",
+      "text": "Number one: Valeri Polyakov. 437 days on Mir, landing in March 1995. A doctor, out to prove the body could take it. He refused the stretcher and walked.",
+      "keywords": "soyuz capsule landing"
+    }
+  ],
+  "description": "The five longest single spaceflights in history, ranked by days in orbit on one mission.\nThe record, 437 days by Valeri Polyakov on Mir in 1994 to 1995, has stood for three decades. Frank Rubio's 371 days in 2023 is the longest by an American.\nHow long could you stand being in orbit?",
+  "tags": [
+    "longest spaceflight",
+    "longest time in space",
+    "valeri polyakov",
+    "frank rubio",
+    "mir space station",
+    "space station",
+    "astronaut records",
+    "space rankings",
+    "top 5 space",
+    "space facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#astronaut",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Timeline_of_longest_spaceflights",
+    "https://www.slashgear.com/1847455/longest-time-human-astronaunt-spent-in-space-consecutive-cumulative-days",
+    "https://space.com/nasa-astronaut-lands-after-record-year-in-space-soyuz-m23-landing-success",
+    "https://phys.org/news/2022-09-valery-polyakov-longest-space-dies.html"
+  ],
+  "thumbnail_text": "5 LONGEST SPACEFLIGHTS, RANKED",
+  "priority": 6,
+  "first_comment": "Which of these would you have put at number one, and how long do you think you could last in orbit? Tell us what to rank next."
+}
