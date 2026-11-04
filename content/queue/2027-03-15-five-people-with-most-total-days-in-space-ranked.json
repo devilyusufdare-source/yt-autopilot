@@ -1,0 +1,77 @@
+{
+  "id": "2027-03-15-five-people-with-most-total-days-in-space-ranked",
+  "format": "ranking",
+  "ranking_by": "total days spent in space across all flights",
+  "topic": "space",
+  "subject": "astronaut",
+  "title": "The 5 People Who Spent the Most Time in Space, Ranked (#1 Passed 3 Years)",
+  "scenes": [
+    {
+      "text": "The five people who've spent the most days off the planet. Number one passed a thousand.",
+      "keywords": "international space station orbit"
+    },
+    {
+      "rank": 5,
+      "label": "Aleksandr Kaleri · 769 days",
+      "text": "Number five: Aleksandr Kaleri. 769 days over five flights, from the Mir station in 1992 to the space station in 2011.",
+      "keywords": "space station interior astronaut"
+    },
+    {
+      "rank": 4,
+      "label": "Sergei Krikalev · 803 days",
+      "text": "Number four: Sergei Krikalev, 803 days. He held the record for almost ten years.",
+      "keywords": "astronaut floating space station"
+    },
+    {
+      "rank": 3,
+      "label": "Yuri Malenchenko · 827 days",
+      "text": "Number three: Yuri Malenchenko, 827 days. In 2003 he got married from orbit, with his bride in Texas.",
+      "keywords": "earth from space station window"
+    },
+    {
+      "rank": 2,
+      "label": "Gennady Padalka · 878 days",
+      "text": "Number two: Gennady Padalka. 878 days across five missions.",
+      "keywords": "soyuz rocket launch"
+    },
+    {
+      "rank": 1,
+      "label": "Oleg Kononenko · 1,111 days",
+      "text": "Number one: Oleg Kononenko. In June 2024 he became the first human to reach a thousand days in space. He landed with 1,111. Over three years of his life, off Earth.",
+      "keywords": "soyuz capsule landing"
+    }
+  ],
+  "description": "The five people who have spent the most total time in space, ranked by cumulative days across all their flights.\nOleg Kononenko leads with 1,111 days over five missions, after passing 1,000 days in June 2024 and landing that September. Then come Gennady Padalka (878 days), Yuri Malenchenko (827), Sergei Krikalev (803) and Aleksandr Kaleri (769). All five are Russian cosmonauts who flew long stays on Mir, the International Space Station or both.\nCould you spend three years of your life in orbit?",
+  "tags": [
+    "most time in space",
+    "oleg kononenko",
+    "gennady padalka",
+    "space records",
+    "cosmonauts",
+    "international space station",
+    "mir space station",
+    "astronaut facts",
+    "spaceflight records",
+    "space facts",
+    "top 5 ranking",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#astronaut",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.livescience.com/space/space-exploration/russian-cosmonaut-returns-to-earth-after-completing-record-breaking-1-111th-day-in-space",
+    "https://www.slashgear.com/1847455/longest-time-human-astronaunt-spent-in-space-consecutive-cumulative-days",
+    "https://en.wikipedia.org/wiki/Yuri_Malenchenko",
+    "https://en.wikipedia.org/wiki/Aleksandr_Kaleri",
+    "https://www.guinnessworldrecords.com/world-records/most-time-spent-in-space"
+  ],
+  "thumbnail_text": "MOST DAYS IN SPACE, RANKED",
+  "priority": 5,
+  "first_comment": "Kononenko's 1,111 days are spread over five missions; the longest single flight is still Valeri Polyakov's 437 days. Who would you put at number one, and what should we rank next?"
+}

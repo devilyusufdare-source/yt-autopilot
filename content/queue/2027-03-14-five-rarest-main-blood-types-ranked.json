@@ -1,0 +1,75 @@
+{
+  "id": "2027-03-14-five-rarest-main-blood-types-ranked",
+  "format": "ranking",
+  "ranking_by": "share of the US population with each of the eight main blood types",
+  "topic": "human body",
+  "subject": "blood bag",
+  "title": "The 5 Rarest Main Blood Types, Ranked (Universal Donor Is Only #5)",
+  "scenes": [
+    {
+      "text": "The five rarest of the eight main blood types. The one every hospital wants is only fifth.",
+      "keywords": "blood bags hospital"
+    },
+    {
+      "rank": 5,
+      "label": "O negative · 6.6%",
+      "text": "Number five: O negative, about 6.6 percent of Americans. The universal donor. In an emergency, its red cells can go to anyone.",
+      "keywords": "blood transfusion bag"
+    },
+    {
+      "rank": 4,
+      "label": "A negative · 6.3%",
+      "text": "Number four: A negative, about 6.3 percent. Roughly one person in sixteen.",
+      "keywords": "blood donation arm"
+    },
+    {
+      "rank": 3,
+      "label": "AB positive · 3.4%",
+      "text": "Number three: AB positive, about 3.4 percent. The universal recipient: it can take red cells from every other type.",
+      "keywords": "blood test tubes lab"
+    },
+    {
+      "rank": 2,
+      "label": "B negative · 1.5%",
+      "text": "Number two: B negative, about 1.5 percent. One person in sixty-seven.",
+      "keywords": "red blood cells microscope"
+    },
+    {
+      "rank": 1,
+      "label": "AB negative · 0.6%",
+      "text": "Number one: AB negative. About 0.6 percent, one American in 170. The rarest blood of the eight, and yet its plasma can be given to anyone.",
+      "keywords": "plasma donation bag"
+    }
+  ],
+  "description": "The five rarest of the eight main blood types in the United States, ranked by share of the population.\nUsing Stanford Blood Center figures: O negative about 6.6 percent, A negative 6.3, AB positive 3.4, B negative 1.5 and AB negative just 0.6. O negative red cells can be given to any patient, AB positive patients can receive red cells from any type, and AB plasma is the universal plasma. Shares differ between countries and ethnic groups, and far rarer types exist outside the main eight.\nDo you know your own blood type?",
+  "tags": [
+    "rarest blood type",
+    "blood types",
+    "ab negative",
+    "o negative",
+    "universal donor",
+    "universal recipient",
+    "blood type facts",
+    "human body facts",
+    "blood donation",
+    "plasma",
+    "top 5 ranking",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#bloodtype",
+    "#humanbody",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.rxlist.com/blood_group/definition.htm",
+    "https://nchstats.com/most-common-blood-type-in-us/",
+    "https://utahblood.org/blood-types"
+  ],
+  "thumbnail_text": "5 RAREST BLOOD TYPES, RANKED",
+  "priority": 0,
+  "first_comment": "The most common type, O positive, is in about 37 percent of Americans. Which type are you, and what should we rank next?"
+}
