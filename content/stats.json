@@ -1,28 +1,21 @@
 {
-  "updated_at": "2026-11-04T02:33:39+00:00",
+  "updated_at": "2026-11-04T04:01:56+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 64,
     "channel_views": 51552,
-    "video_count": 199
+    "video_count": 201
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/MDK0CXlX8Jk",
-      "https://youtube.com/shorts/PJlr06UakxU"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/PJlr06UakxU"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/PJlr06UakxU"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 174,
@@ -93,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 199,
-  "total_views": 52297,
+  "total_views": 52348,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -146,7 +139,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 113,
-      "avg_views": 124
+      "avg_views": 125
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -755,7 +748,7 @@
       "hook": "A rhino charges at 35 miles an hour.",
       "published_at": "2026-11-03T19:00:19Z",
       "privacy": "public",
-      "views": 12,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw"
@@ -779,7 +772,7 @@
       "hook": "This fish breathes air. And it has two rows of teeth.",
       "published_at": "2026-11-03T20:00:10Z",
       "privacy": "public",
-      "views": 13,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/C0-01Rinu20"
@@ -1047,8 +1040,8 @@
       "hook": "The strongest insect ever measured fits on your fingernail.",
       "published_at": "2026-11-04T00:10:10Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 6,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Sj0vVznqKCQ"
     },
@@ -1097,8 +1090,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This bird dives into the ocean from 60 feet up.",
-      "published_at": "2026-11-04T02:31:30Z",
-      "privacy": "private",
+      "published_at": "2026-11-04T03:00:24Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -1431,7 +1424,7 @@
       "hook": "Only five computers on Earth are this fast. Number one is brand new.",
       "published_at": "2026-11-03T15:00:10Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DpnhUFqNzQc"
@@ -3719,20 +3712,20 @@
       "hook": "Ships climb 85 feet without a single pump.",
       "published_at": "2026-11-03T02:50:00Z",
       "privacy": "public",
-      "views": 47,
+      "views": 48,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28"
     },
     "PJlr06UakxU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3741,11 +3734,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "There's a planet hotter than most stars.",
-      "published_at": "2026-11-04T02:33:26Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-04T03:20:07Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/PJlr06UakxU"
     },
     "MJ6FRS8q71M": {
@@ -4915,8 +4908,8 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 646,
-      "likes": 17,
+      "views": 650,
+      "likes": 18,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
       "avg_view_seconds": 19.0,
@@ -5139,7 +5132,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 263,
+      "views": 261,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU",
@@ -5279,7 +5272,7 @@
       "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
       "published_at": "2026-10-30T02:40:36Z",
       "privacy": "public",
-      "views": 79,
+      "views": 80,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c",
@@ -5492,7 +5485,7 @@
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
       "views": 41,
-      "likes": 0,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
     },
@@ -5515,8 +5508,8 @@
       "hook": "A fox walked from Norway to Canada. Nobody believed it.",
       "published_at": "2026-11-02T18:00:31Z",
       "privacy": "public",
-      "views": 14,
-      "likes": 1,
+      "views": 16,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/lcilP6jC87M"
     },
@@ -5611,7 +5604,7 @@
       "hook": "A parrot once looked in a mirror and asked a question.",
       "published_at": "2026-11-02T21:20:22Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/y5-MSH3z9d0"
