@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-04T20:00:17+00:00",
+  "updated_at": "2026-11-04T21:00:01+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
     "channel_views": 53078,
-    "video_count": 206
+    "video_count": 207
   },
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/Tc8k-oMf4pI",
-      "https://youtube.com/shorts/5OGNZTZrY3Q"
+      "https://youtube.com/shorts/loc-nCkI7hE"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Tc8k-oMf4pI"
+      "https://youtube.com/shorts/loc-nCkI7hE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Tc8k-oMf4pI"
+      "https://youtube.com/shorts/loc-nCkI7hE"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 206,
-  "total_views": 53846,
+  "total_videos": 207,
+  "total_views": 53902,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 140,
-      "avg_views": 248,
+      "videos": 141,
+      "avg_views": 247,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 190,
-      "avg_views": 248,
+      "videos": 191,
+      "avg_views": 247,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +145,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 120,
+      "videos": 121,
       "avg_views": 130
     },
     "en-US-BrianNeural": {
@@ -755,7 +755,7 @@
       "hook": "A rhino charges at 35 miles an hour.",
       "published_at": "2026-11-03T19:00:19Z",
       "privacy": "public",
-      "views": 197,
+      "views": 199,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw"
@@ -779,7 +779,7 @@
       "hook": "This fish breathes air. And it has two rows of teeth.",
       "published_at": "2026-11-03T20:00:10Z",
       "privacy": "public",
-      "views": 122,
+      "views": 114,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C0-01Rinu20"
@@ -803,7 +803,7 @@
       "hook": "This primate knocks on trees like a doctor tapping a chest.",
       "published_at": "2026-11-03T21:00:21Z",
       "privacy": "public",
-      "views": 30,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/OpQgaCam59s"
@@ -1023,7 +1023,7 @@
       "hook": "A bird that learned a trick film directors use, and it works on mates.",
       "published_at": "2026-11-03T21:20:30Z",
       "privacy": "public",
-      "views": 19,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L4uQ8K8FaRU"
@@ -1047,8 +1047,8 @@
       "hook": "The strongest insect ever measured fits on your fingernail.",
       "published_at": "2026-11-04T00:10:10Z",
       "privacy": "public",
-      "views": 182,
-      "likes": 1,
+      "views": 230,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Sj0vVznqKCQ"
     },
@@ -1099,7 +1099,7 @@
       "hook": "This bird dives into the ocean from 60 feet up.",
       "published_at": "2026-11-04T03:00:24Z",
       "privacy": "public",
-      "views": 61,
+      "views": 55,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MDK0CXlX8Jk"
@@ -1679,7 +1679,7 @@
       "hook": "Some rats walk straight up to a cat. On purpose.",
       "published_at": "2026-11-04T16:30:00Z",
       "privacy": "public",
-      "views": 4,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/lAm9Gs-Ayzk"
@@ -1703,7 +1703,7 @@
       "hook": "This snail's eyes are pulsing. And they are not its eyes anymore.",
       "published_at": "2026-11-04T19:00:29Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i1aKZDNCR68"
@@ -1727,7 +1727,7 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 1,
+      "views": 6,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8"
@@ -1757,14 +1757,14 @@
       "url": "https://youtube.com/shorts/ELVS4Bl4MT0"
     },
     "Tc8k-oMf4pI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT35S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1849,11 +1849,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
-      "published_at": "2026-11-04T19:00:40Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-04T20:00:23Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q"
     },
     "vhWj8eW74zg": {
@@ -1911,6 +1911,30 @@
       "avg_view_percent": 67.2,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "loc-nCkI7hE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Wild Cat Imitates Baby Monkey Cries to Lure the Parents In",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This cat does a baby monkey impression. And it's a hunting trick.",
+      "published_at": "2026-11-04T20:59:51Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/loc-nCkI7hE"
     },
     "UUHeyNuVn8M": {
       "upload_status": "processed",
@@ -3919,7 +3943,7 @@
       "hook": "There's a planet hotter than most stars.",
       "published_at": "2026-11-04T03:20:07Z",
       "privacy": "public",
-      "views": 31,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PJlr06UakxU"
@@ -5455,7 +5479,7 @@
       "hook": "The five heaviest meteorites ever found. Number one is still lying exactly where it fell.",
       "published_at": "2026-10-30T02:40:36Z",
       "privacy": "public",
-      "views": 80,
+      "views": 81,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c",
@@ -5651,7 +5675,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE",
@@ -5679,7 +5703,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 62,
+      "views": 68,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM",
@@ -5707,7 +5731,7 @@
       "hook": "A fox walked from Norway to Canada. Nobody believed it.",
       "published_at": "2026-11-02T18:00:31Z",
       "privacy": "public",
-      "views": 27,
+      "views": 29,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/lcilP6jC87M",
@@ -5791,7 +5815,7 @@
       "hook": "This fish feeds in near-freezing water and stays warm as a mammal.",
       "published_at": "2026-11-02T21:00:03Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/E7R9OiRvj3s",
@@ -5923,7 +5947,7 @@
       "hook": "This snake makes fish run away from it. And they swim straight into its mouth.",
       "published_at": "2026-11-03T15:30:28Z",
       "privacy": "public",
-      "views": 317,
+      "views": 320,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/KS48QzMQ-QI"
