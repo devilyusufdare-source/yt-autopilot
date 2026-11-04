@@ -1,0 +1,74 @@
+{
+  "id": "2027-02-09-five-oldest-spacecraft-still-working-ranked",
+  "format": "ranking",
+  "ranking_by": "launch year of a spacecraft still operating",
+  "topic": "space",
+  "subject": "old spacecraft",
+  "title": "The 5 Oldest Spacecraft Still Working, Ranked (#1 Launched in 1977)",
+  "scenes": [
+    {
+      "text": "The five oldest spacecraft still working. Number one launched in 1977, and it still answers.",
+      "keywords": "spacecraft deep space stars"
+    },
+    {
+      "rank": 5,
+      "label": "Hubble · 1990",
+      "text": "Number five: Hubble, launched on the shuttle Discovery in April 1990. Nearly 1.7 million observations so far.",
+      "keywords": "hubble space telescope orbit"
+    },
+    {
+      "rank": 4,
+      "label": "Wind · 1994",
+      "text": "Number four: NASA's Wind, launched November 1994 to study the solar wind. Every instrument still works, with fuel for 50 more years.",
+      "keywords": "satellite in space sun"
+    },
+    {
+      "rank": 3,
+      "label": "SOHO · 1995",
+      "text": "Number three: SOHO, launched December 1995 for a two-year mission. Thirty years on, it still watches the Sun and has found over 5,000 comets.",
+      "keywords": "sun solar flare space"
+    },
+    {
+      "rank": 2,
+      "label": "Voyager 1 · 1977",
+      "text": "Number two: Voyager 1, September 1977. The farthest human-made object ever, so far that its signal takes most of a day to arrive.",
+      "keywords": "voyager probe deep space"
+    },
+    {
+      "rank": 1,
+      "label": "Voyager 2 · 1977",
+      "text": "Number one: Voyager 2, August 20, 1977, sixteen days before Voyager 1. The longest continuously operating spacecraft in deep space, nearly fifty years out.",
+      "keywords": "voyager spacecraft gold record"
+    }
+  ],
+  "description": "The five oldest spacecraft still operating, ranked by launch year.\nVoyager 2 launched on 20 August 1977, sixteen days before Voyager 1, and the two Voyagers are the longest continuously operating spacecraft in deep space; SOHO (1995) was built for two years and has now watched the Sun for thirty while discovering over 5,000 comets; NASA's Wind (1994) still has every instrument working; Hubble (1990) has made nearly 1.7 million observations.\nWhich of these machines would you most want to keep alive?",
+  "tags": [
+    "voyager 2",
+    "voyager 1",
+    "hubble",
+    "soho",
+    "nasa wind",
+    "oldest spacecraft",
+    "space facts",
+    "nasa facts",
+    "top 5 ranking",
+    "space records",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#nasa",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.jpl.nasa.gov/news/five-things-about-nasas-voyager-mission/",
+    "https://www.esa.int/Science_Exploration/Space_Science/Sun-watcher_SOHO_celebrates_thirty_years",
+    "https://eos.org/editors-vox/wind-discoveries-and-impacts-of-a-venerable-spacecraft",
+    "https://www.eurekalert.org/news-releases/1081478"
+  ],
+  "thumbnail_text": "5 OLDEST SPACECRAFT, RANKED",
+  "priority": 5,
+  "first_comment": "Voyager 2 is the only spacecraft that has ever visited Uranus and Neptune. Which would you put at number one, and what should we rank next?"
+}
