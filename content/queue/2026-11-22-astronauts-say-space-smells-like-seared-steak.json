@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-22-astronauts-say-space-smells-like-seared-steak",
+  "format": "fact",
+  "topic": "space",
+  "subject": "astronaut spacewalk",
+  "title": "Space Has a Smell, and Astronauts Say It's Seared Steak and Hot Metal",
+  "scenes": [
+    {
+      "text": "Space has a smell. Astronauts say it's seared steak.",
+      "keywords": "astronaut spacewalk earth background"
+    },
+    {
+      "text": "Not out there. In a vacuum you can't smell anything, and inside the suit it smells of plastic.",
+      "keywords": "astronaut inside spacesuit helmet"
+    },
+    {
+      "text": "The smell hits when they come back in and take the helmet off. It clings to the suit, the gloves, the tools.",
+      "keywords": "astronaut removing helmet airlock"
+    },
+    {
+      "text": "Hot metal. Welding fumes. Burnt steak. Spent gunpowder. One astronaut said he'll never forget it.",
+      "keywords": "welding sparks close up"
+    },
+    {
+      "text": "The best guess: sunlight splits oxygen into single atoms, which stick to the suit and react when air hits them.",
+      "keywords": "sun flare over earth from space"
+    },
+    {
+      "text": "NASA hired a chemist to recreate it so trainees wouldn't be surprised. He bottled it. You can buy space as a perfume.",
+      "keywords": "perfume bottle spray"
+    }
+  ],
+  "description": "Astronauts cannot smell anything in the vacuum of space, but after a spacewalk their suits, gloves and tools carry a strong odour they describe as seared steak, hot metal, welding fumes and spent gunpowder.\nThe leading explanation is atomic oxygen: ultraviolet sunlight splits oxygen molecules into single atoms that cling to the suit and react once back in the airlock. NASA hired chemist Steve Pearce in 2008 to recreate the smell for training, and he later helped launch it as the perfume Eau de Space.\nWhat do you think space should smell like? Comment below.",
+  "tags": [
+    "what does space smell like",
+    "space smell",
+    "astronaut facts",
+    "spacewalk",
+    "space facts",
+    "ISS facts",
+    "Eau de Space",
+    "NASA facts",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts",
+    "did you know"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#astronaut",
+    "#nasa"
+  ],
+  "sources": [
+    "https://www.livescience.com/space/what-does-space-smell-like",
+    "https://www.csmonitor.com/Science/2012/0723/Space-smells-like-seared-steak-hot-metal-astronauts-report"
+  ],
+  "thumbnail_text": "SPACE SMELLS LIKE STEAK",
+  "priority": 6,
+  "first_comment": "Astronaut Don Pettit said the space station itself smells like half machine shop, half engine room, half laboratory. Which space question should we answer next?"
+}
