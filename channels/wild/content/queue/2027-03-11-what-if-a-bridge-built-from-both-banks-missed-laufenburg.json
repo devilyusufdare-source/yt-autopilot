@@ -1,0 +1,63 @@
+{
+  "id": "2027-03-11-what-if-a-bridge-built-from-both-banks-missed-laufenburg",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "river bridge",
+  "title": "What If a Bridge Built From Both Banks Didn't Meet? One Missed by 54 cm",
+  "scenes": [
+    {
+      "text": "What if a bridge built from both banks didn't meet? One missed by 54 centimetres.",
+      "keywords": "bridge construction river"
+    },
+    {
+      "text": "The Rhine, 2003. Germany builds from one bank, Switzerland from the other, toward the same point in mid-air.",
+      "keywords": "bridge construction crane"
+    },
+    {
+      "text": "Both countries measure height above sea level. But Germany's sea is the North Sea, and Switzerland's is the Mediterranean. Their zeros sit 27 centimetres apart.",
+      "keywords": "ocean waves coast"
+    },
+    {
+      "text": "The engineers knew that, and corrected for it. Somewhere in the sums, the correction went in the wrong direction.",
+      "keywords": "engineer blueprint desk"
+    },
+    {
+      "text": "So instead of cancelling the gap, it doubled it. In December 2003 the German side stood 54 centimetres higher than the Swiss side.",
+      "keywords": "unfinished bridge"
+    },
+    {
+      "text": "The German end was lowered, the insurance paid, and the bridge opened on schedule a year later. The two seas still disagree.",
+      "keywords": "rhine river bridge"
+    }
+  ],
+  "description": "What if a bridge built from both banks didn't meet in the middle? At Laufenburg on the Rhine, one missed by 54 centimetres.\nGermany and Switzerland each built half of a new bridge between the twin towns of Laufenburg. German heights are referenced to the North Sea and Swiss heights to the Mediterranean, a 27 centimetre difference. It was known and corrected for, but the correction was applied the wrong way and the offset doubled to 54 centimetres, discovered in December 2003. The German side was lowered and the bridge opened in December 2004.\nWhat should we run through next?",
+  "tags": [
+    "laufenburg bridge",
+    "engineering fails",
+    "bridge mistake",
+    "sea level",
+    "germany switzerland",
+    "rhine",
+    "engineering facts",
+    "surveying error",
+    "construction mistakes",
+    "technology facts",
+    "what if",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#engineering",
+    "#bridge"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Laufenburg,_Germany",
+    "https://spark.iop.org/not-level-playing-field",
+    "https://www.srf.ch/news/srf-faktenchecks/ihre-anfragen-im-faktencheck-5-technik-fails-von-der-panta-rhei-bis-zur-hochrheinbruecke"
+  ],
+  "thumbnail_text": "WHAT IF A BRIDGE MISSED BY 54 CM?",
+  "priority": 6,
+  "first_comment": "Countries across Europe still use different zero points for sea level. Which engineering mix-up should we run through next?"
+}
