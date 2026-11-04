@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-04T18:03:26+00:00",
+  "updated_at": "2026-11-04T19:00:52+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
     "channel_views": 52272,
-    "video_count": 204
+    "video_count": 206
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/i1aKZDNCR68",
-      "https://youtube.com/shorts/2Ky1kAzkOT8"
+      "https://youtube.com/shorts/5OGNZTZrY3Q"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/2Ky1kAzkOT8"
+      "https://youtube.com/shorts/5OGNZTZrY3Q"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/2Ky1kAzkOT8"
+      "https://youtube.com/shorts/5OGNZTZrY3Q"
     ]
   },
   "retention": {
@@ -92,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 204,
-  "total_views": 53555,
+  "total_videos": 205,
+  "total_views": 53667,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 138,
-      "avg_views": 250,
+      "videos": 139,
+      "avg_views": 249,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 188,
-      "avg_views": 249,
+      "videos": 189,
+      "avg_views": 248,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 118,
+      "videos": 119,
       "avg_views": 130
     },
     "en-US-BrianNeural": {
@@ -755,7 +754,7 @@
       "hook": "A rhino charges at 35 miles an hour.",
       "published_at": "2026-11-03T19:00:19Z",
       "privacy": "public",
-      "views": 158,
+      "views": 183,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw"
@@ -779,7 +778,7 @@
       "hook": "This fish breathes air. And it has two rows of teeth.",
       "published_at": "2026-11-03T20:00:10Z",
       "privacy": "public",
-      "views": 96,
+      "views": 113,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C0-01Rinu20"
@@ -803,7 +802,7 @@
       "hook": "This primate knocks on trees like a doctor tapping a chest.",
       "published_at": "2026-11-03T21:00:21Z",
       "privacy": "public",
-      "views": 21,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/OpQgaCam59s"
@@ -1023,7 +1022,7 @@
       "hook": "A bird that learned a trick film directors use, and it works on mates.",
       "published_at": "2026-11-03T21:20:30Z",
       "privacy": "public",
-      "views": 15,
+      "views": 19,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L4uQ8K8FaRU"
@@ -1047,7 +1046,7 @@
       "hook": "The strongest insect ever measured fits on your fingernail.",
       "published_at": "2026-11-04T00:10:10Z",
       "privacy": "public",
-      "views": 126,
+      "views": 212,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Sj0vVznqKCQ"
@@ -1099,7 +1098,7 @@
       "hook": "This bird dives into the ocean from 60 feet up.",
       "published_at": "2026-11-04T03:00:24Z",
       "privacy": "public",
-      "views": 44,
+      "views": 45,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MDK0CXlX8Jk"
@@ -1675,7 +1674,7 @@
       "hook": "Some rats walk straight up to a cat. On purpose.",
       "published_at": "2026-11-04T16:30:00Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/lAm9Gs-Ayzk"
@@ -1697,22 +1696,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This snail's eyes are pulsing. And they are not its eyes anymore.",
-      "published_at": "2026-11-04T18:00:22Z",
-      "privacy": "private",
+      "published_at": "2026-11-04T19:00:29Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/i1aKZDNCR68"
     },
     "2Ky1kAzkOT8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT33S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1721,11 +1720,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This caterpillar is guarding the babies that ate it alive.",
-      "published_at": "2026-11-04T18:03:18Z",
-      "privacy": "private",
+      "published_at": "2026-11-04T18:30:23Z",
+      "privacy": "public",
       "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8"
     },
     "ELVS4Bl4MT0": {
@@ -1747,7 +1746,7 @@
       "hook": "A car just drove over this beetle. Twice. It's fine.",
       "published_at": "2026-11-04T12:30:13Z",
       "privacy": "public",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ELVS4Bl4MT0"
@@ -1803,6 +1802,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9PNCyQB-l7I"
+    },
+    "5OGNZTZrY3Q": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Flesh-Eating Fly Is Back. The Fix: 100 Million More Flies a Week",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "To kill this fly, America breeds a hundred million of them a week.",
+      "published_at": "2026-11-04T19:00:40Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/5OGNZTZrY3Q"
     },
     "vhWj8eW74zg": {
       "upload_status": "processed",
@@ -3839,7 +3862,7 @@
       "hook": "Ships climb 85 feet without a single pump.",
       "published_at": "2026-11-03T02:50:00Z",
       "privacy": "public",
-      "views": 65,
+      "views": 61,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28"
@@ -3863,7 +3886,7 @@
       "hook": "There's a planet hotter than most stars.",
       "published_at": "2026-11-04T03:20:07Z",
       "privacy": "public",
-      "views": 30,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PJlr06UakxU"
@@ -5587,7 +5610,7 @@
       "hook": "A 15-foot shark lived in our oceans, and nobody knew it existed.",
       "published_at": "2026-11-02T15:00:32Z",
       "privacy": "public",
-      "views": 32,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE"
@@ -5611,7 +5634,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 61,
+      "views": 67,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM"
@@ -5659,7 +5682,7 @@
       "hook": "A bird buries thirty thousand seeds. It never writes down where.",
       "published_at": "2026-11-02T19:00:16Z",
       "privacy": "public",
-      "views": 9,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TxValGbuqZU"
@@ -5683,7 +5706,7 @@
       "hook": "Every eel in Europe is born in a place no one has ever seen.",
       "published_at": "2026-11-02T20:00:29Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8"
@@ -5707,7 +5730,7 @@
       "hook": "This fish feeds in near-freezing water and stays warm as a mammal.",
       "published_at": "2026-11-02T21:00:03Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/E7R9OiRvj3s"
@@ -5755,7 +5778,7 @@
       "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
       "published_at": "2026-11-03T00:10:06Z",
       "privacy": "public",
-      "views": 43,
+      "views": 49,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU"
@@ -5779,7 +5802,7 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 485,
+      "views": 503,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs"
@@ -5803,7 +5826,7 @@
       "hook": "This insect isn't a flower. Bees fly to it more than to real ones.",
       "published_at": "2026-11-03T14:20:11Z",
       "privacy": "public",
-      "views": 13,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SUtsfcR8bGA"
@@ -5827,7 +5850,7 @@
       "hook": "This snake makes fish run away from it. And they swim straight into its mouth.",
       "published_at": "2026-11-03T15:30:28Z",
       "privacy": "public",
-      "views": 303,
+      "views": 240,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/KS48QzMQ-QI"
