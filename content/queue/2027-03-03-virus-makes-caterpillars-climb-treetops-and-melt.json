@@ -1,0 +1,64 @@
+{
+  "id": "2027-03-03-virus-makes-caterpillars-climb-treetops-and-melt",
+  "format": "fact",
+  "topic": "animals",
+  "title": "A Virus Makes Caterpillars Climb to the Treetops, Then Melts Them",
+  "scenes": [
+    {
+      "text": "These caterpillars climb to the treetops in daylight to die.",
+      "keywords": "caterpillar climbing tree"
+    },
+    {
+      "text": "It makes no sense. Healthy ones hide in bark and soil all day so birds can't find them, and climb to feed only at night.",
+      "keywords": "caterpillar on bark"
+    },
+    {
+      "text": "Infected ones go up and stay up. At the very top, the body liquefies and drips onto the leaves below.",
+      "keywords": "caterpillar on leaf"
+    },
+    {
+      "text": "It's a virus, and that drip is millions of copies of it, landing on the next caterpillar's dinner.",
+      "keywords": "caterpillars eating leaves"
+    },
+    {
+      "text": "In 2011, scientists found the switch: a single viral gene. Take it out, and sick caterpillars die at the bottom instead.",
+      "keywords": "scientist laboratory microscope"
+    },
+    {
+      "text": "Foresters have called it treetop disease for a century. It took one gene to explain the climb.",
+      "keywords": "forest treetops from below"
+    }
+  ],
+  "description": "Spongy moth caterpillars normally hide in bark crevices or soil by day and climb to feed at night. Infected with a baculovirus, they climb to the top of the tree in daylight, die there and liquefy, raining virus onto the leaves below.\nIn 2011 a team led by Kelli Hoover at Penn State showed in Science that a single viral gene, egt, drives the climb: caterpillars infected with virus lacking it died low down.\nWhich mind-controlling parasite should we cover next?",
+  "tags": [
+    "zombie caterpillar",
+    "baculovirus",
+    "spongy moth",
+    "gypsy moth caterpillar",
+    "treetop disease",
+    "mind control parasite",
+    "virus facts",
+    "insect facts",
+    "parasite facts",
+    "caterpillar",
+    "weird animal facts",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#insects",
+    "#animals",
+    "#science"
+  ],
+  "sources": [
+    "https://www.nationalgeographic.com/science/article/liquefying-virus-uses-one-gene-to-make-caterpillars-climb-to-their-doom",
+    "https://phys.org/news/2011-09-viral-gene-sick-gypsy-moth.html",
+    "https://www.huck.psu.edu/research/center-for-infectious-disease-dynamics/article/a-single-virus-gene-turns-gypsy-moths-into-zombies"
+  ],
+  "thumbnail_text": "ONE GENE. ZOMBIE CATERPILLARS",
+  "priority": 5,
+  "subject": "moth caterpillar",
+  "first_comment": "The gene works by switching off the caterpillar's moulting hormone. Which mind-controlling parasite should we cover next?"
+}
