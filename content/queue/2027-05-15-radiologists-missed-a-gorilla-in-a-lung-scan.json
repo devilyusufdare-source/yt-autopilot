@@ -1,0 +1,62 @@
+{
+  "id": "2027-05-15-radiologists-missed-a-gorilla-in-a-lung-scan",
+  "format": "fact",
+  "topic": "psychology",
+  "subject": "gorilla",
+  "title": "83% of Radiologists Missed a Gorilla Hidden in a Lung Scan",
+  "scenes": [
+    {
+      "text": "Doctors stared straight at a gorilla and didn't see it.",
+      "keywords": "gorilla beating chest"
+    },
+    {
+      "text": "Researchers gave 24 radiologists real lung scans and asked them to hunt for cancer nodules.",
+      "keywords": "doctor looking at ct scan"
+    },
+    {
+      "text": "In one scan they had hidden a picture of a gorilla, 48 times bigger than a typical nodule.",
+      "keywords": "lung ct scan screen"
+    },
+    {
+      "text": "Twenty of the 24 never noticed it. That's 83 percent.",
+      "keywords": "radiologist computer screens"
+    },
+    {
+      "text": "Eye tracking showed most of them had looked right at it.",
+      "keywords": "eye close up"
+    },
+    {
+      "text": "It's called inattentional blindness. Your brain shows you what you're hunting for, and quietly drops the rest.",
+      "keywords": "gorilla face close up"
+    }
+  ],
+  "description": "Trained radiologists looked straight at a gorilla and did not see it.\nIn a 2013 study, psychologist Trafton Drew and colleagues asked 24 experienced radiologists to search CT scans of lungs for cancer nodules. Into one scan they had inserted an image of a gorilla about the size of a matchbook, 48 times larger than a typical nodule. Twenty of the 24 (83 percent) did not report it, even though eye tracking showed most of them had looked directly at it. The effect is called inattentional blindness, made famous by the original invisible gorilla video, in which about half of viewers counting basketball passes miss a person in a gorilla suit walking through the game.\nWould you have spotted it? Comment below.",
+  "tags": [
+    "invisible gorilla",
+    "inattentional blindness",
+    "psychology facts",
+    "radiologists gorilla",
+    "attention",
+    "brain facts",
+    "selective attention",
+    "psychology experiment",
+    "perception",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts",
+    "did you know"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#psychology",
+    "#brain",
+    "#attention"
+  ],
+  "sources": [
+    "https://www.npr.org/sections/health-shots/2013/02/11/171409656/why-even-radiologists-can-miss-a-gorilla-hiding-in-plain-sight",
+    "https://www.psychologicalscience.org/news/were-only-human/the-really-scary-invisible-gorilla.html"
+  ],
+  "thumbnail_text": "83% MISSED THE GORILLA",
+  "priority": 6,
+  "first_comment": "When the radiologists were shown the scan again afterwards, every one of them saw the gorilla. Would you have spotted it?"
+}
