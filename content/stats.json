@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T18:00:43+00:00",
+  "updated_at": "2026-11-05T18:58:29+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,19 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/KTG3dAFep0I"
+      "https://youtube.com/shorts/KTG3dAFep0I",
+      "https://youtube.com/shorts/uXtropY8iFI",
+      "https://youtube.com/shorts/cveaxx9Lg40"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/KTG3dAFep0I"
+      "https://youtube.com/shorts/cveaxx9Lg40"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/KTG3dAFep0I"
+      "https://youtube.com/shorts/cveaxx9Lg40"
     ]
   },
   "retention": {
@@ -91,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 213,
-  "total_views": 55596,
+  "total_videos": 215,
+  "total_views": 55613,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -101,12 +103,12 @@
     },
     "science": {
       "videos": 21,
-      "avg_views": 273,
+      "avg_views": 274,
       "best_views": 1648
     },
     "animals": {
-      "videos": 145,
-      "avg_views": 251,
+      "videos": 147,
+      "avg_views": 248,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +134,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 197,
-      "avg_views": 248,
+      "videos": 199,
+      "avg_views": 245,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +146,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 127,
-      "avg_views": 137
+      "videos": 129,
+      "avg_views": 135
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -802,7 +804,7 @@
       "hook": "This primate knocks on trees like a doctor tapping a chest.",
       "published_at": "2026-11-03T21:00:21Z",
       "privacy": "public",
-      "views": 66,
+      "views": 73,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/OpQgaCam59s"
@@ -1022,7 +1024,7 @@
       "hook": "A bird that learned a trick film directors use, and it works on mates.",
       "published_at": "2026-11-03T21:20:30Z",
       "privacy": "public",
-      "views": 38,
+      "views": 42,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L4uQ8K8FaRU"
@@ -1750,7 +1752,7 @@
       "hook": "A car just drove over this beetle. Twice. It's fine.",
       "published_at": "2026-11-04T12:30:13Z",
       "privacy": "public",
-      "views": 17,
+      "views": 19,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ELVS4Bl4MT0"
@@ -1930,7 +1932,7 @@
       "hook": "This cat does a baby monkey impression. And it's a hunting trick.",
       "published_at": "2026-11-04T21:30:16Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/loc-nCkI7hE"
@@ -2092,14 +2094,14 @@
       "subscribers_gained": 0
     },
     "KTG3dAFep0I": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2114,6 +2116,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/KTG3dAFep0I"
+    },
+    "uXtropY8iFI": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT31S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Catfish Hatches Inside a Mother Fish's Mouth and Eats Her Eggs",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This mother fish is guarding her babies' killers.",
+      "published_at": "2026-11-05T18:55:53Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/uXtropY8iFI"
     },
     "WK_pBpY-xpQ": {
       "upload_status": "processed",
@@ -2170,6 +2196,30 @@
       "avg_view_percent": 53.5,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "cveaxx9Lg40": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Something Is Taking Round Bites Out of Whales. It's 20 Inches Long",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Something is biting perfect circles out of whales.",
+      "published_at": "2026-11-05T18:58:22Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/cveaxx9Lg40"
     },
     "sqFgifLVQ6g": {
       "upload_status": "processed",
@@ -3782,7 +3832,7 @@
       "hook": "A wildfire once spun up a tornado made of fire.",
       "published_at": "2026-10-31T00:10:10Z",
       "privacy": "public",
-      "views": 64,
+      "views": 66,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ",
