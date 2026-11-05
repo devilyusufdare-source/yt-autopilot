@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-11-05T19:19:19+00:00",
+  "updated_at": "2026-11-05T21:02:26+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 13,
     "channel_views": 12329,
-    "video_count": 50
+    "video_count": 51
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Hy3xsXTwQhA"
+      "https://youtube.com/shorts/9VFV9DgN8Kw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Hy3xsXTwQhA"
+      "https://youtube.com/shorts/9VFV9DgN8Kw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Hy3xsXTwQhA"
+      "https://youtube.com/shorts/9VFV9DgN8Kw"
     ]
   },
   "retention": {
-    "videos_with_data": 37,
-    "avg_view_percent": 65.1,
+    "videos_with_data": 43,
+    "avg_view_percent": 70.3,
     "by_topic": {
-      "earth": 71.8,
-      "space": 63.3,
-      "society": 63.3,
-      "animals": 60.1,
-      "body": 71.7,
-      "technology": 66.7
+      "earth": 66.5,
+      "space": 75.4,
+      "society": 63.2,
+      "animals": 57.3,
+      "body": 68.9,
+      "technology": 80.9
     },
     "best": [
       {
-        "title": "What If You Could See Infrared Light? Volunteers Did",
-        "avg_view_percent": 105.3,
-        "views": 23
+        "title": "What If You Lived Inside a Cave on the Moon?",
+        "avg_view_percent": 344.7,
+        "views": 21
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
@@ -51,14 +51,14 @@
         "views": 436
       },
       {
-        "title": "What If Pet Snakes Escaped Into a National Park? Florida's Did",
-        "avg_view_percent": 91.2,
-        "views": 285
+        "title": "What If a Helicopter Flew on Mars? NASA's Flew 72 Times",
+        "avg_view_percent": 95.1,
+        "views": 3
       },
       {
-        "title": "What If the Sun Suddenly Disappeared?",
-        "avg_view_percent": 89.4,
-        "views": 179
+        "title": "What If You Could See Infrared Light? Volunteers Did",
+        "avg_view_percent": 91.3,
+        "views": 23
       }
     ],
     "worst": [
@@ -66,6 +66,11 @@
         "title": "What If an Animal Floated in Open Space? Tardigrades Did",
         "avg_view_percent": 18.7,
         "views": 3
+      },
+      {
+        "title": "What If a Kilometer-Wide Asteroid Hit Earth?",
+        "avg_view_percent": 19.7,
+        "views": 20
       },
       {
         "title": "What If the Whole Asteroid Belt Became One Planet?",
@@ -81,17 +86,12 @@
         "title": "What If It Rained Glass Sideways? One Planet May",
         "avg_view_percent": 40.6,
         "views": 80
-      },
-      {
-        "title": "What If a Mouse Fell Off a Skyscraper? Size Decides",
-        "avg_view_percent": 41.8,
-        "views": 123
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 51,
-  "total_views": 12584,
+  "total_videos": 52,
+  "total_views": 12595,
   "by_topic": {
     "earth": {
       "videos": 7,
@@ -99,8 +99,8 @@
       "best_views": 1109
     },
     "space": {
-      "videos": 23,
-      "avg_views": 215,
+      "videos": 24,
+      "avg_views": 206,
       "best_views": 1281
     },
     "society": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 51,
-      "avg_views": 247,
+      "videos": 52,
+      "avg_views": 242,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 50,
-      "avg_views": 231
+      "videos": 51,
+      "avg_views": 226
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -784,7 +784,7 @@
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
       "views": 1045,
-      "likes": 10,
+      "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8",
       "avg_view_seconds": 24.0,
@@ -928,7 +928,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/DV-7AuiUc9E",
       "avg_view_seconds": 17.0,
-      "avg_view_percent": 41.8,
+      "avg_view_percent": 43.1,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -955,8 +955,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/dwe3rjCTsoo",
-      "avg_view_seconds": 27.0,
-      "avg_view_percent": 73.1,
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 72.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1012,7 +1012,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 79.5,
+      "avg_view_percent": 79.3,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1039,8 +1039,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gcgl97taucQ",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 74.6,
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 82.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1123,8 +1123,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc",
-      "avg_view_seconds": 40.0,
-      "avg_view_percent": 105.3,
+      "avg_view_seconds": 34.0,
+      "avg_view_percent": 91.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1151,8 +1151,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/bIzjV_Zwq6Y",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 53.8,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 53.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1179,8 +1179,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 60.4,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 56.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1207,8 +1207,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I",
-      "avg_view_seconds": 36.0,
-      "avg_view_percent": 91.2,
+      "avg_view_seconds": 30.0,
+      "avg_view_percent": 77.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1235,8 +1235,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QElYghl0l6s",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 29.0,
+      "avg_view_percent": 70.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1262,7 +1262,11 @@
       "views": 7,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/ZxEWLYdNKhk"
+      "url": "https://youtube.com/shorts/ZxEWLYdNKhk",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 40.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "sg7h0dFtCCg": {
       "upload_status": "processed",
@@ -1286,7 +1290,11 @@
       "views": 3,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/sg7h0dFtCCg"
+      "url": "https://youtube.com/shorts/sg7h0dFtCCg",
+      "avg_view_seconds": 33.0,
+      "avg_view_percent": 95.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "IzRTbLLmQ1c": {
       "upload_status": "processed",
@@ -1310,7 +1318,11 @@
       "views": 71,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/IzRTbLLmQ1c"
+      "url": "https://youtube.com/shorts/IzRTbLLmQ1c",
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 64.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "nOw9IX9Y6Fg": {
       "upload_status": "processed",
@@ -1334,7 +1346,11 @@
       "views": 21,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/nOw9IX9Y6Fg"
+      "url": "https://youtube.com/shorts/nOw9IX9Y6Fg",
+      "avg_view_seconds": 124.0,
+      "avg_view_percent": 344.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "uEVMR_vc2XI": {
       "upload_status": "processed",
@@ -1355,7 +1371,7 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 45,
+      "views": 53,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI"
@@ -1382,7 +1398,35 @@
       "views": 20,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/GWYrx6xGSRU"
+      "url": "https://youtube.com/shorts/GWYrx6xGSRU",
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 19.7,
+      "shares": 0,
+      "subscribers_gained": 0
+    },
+    "9VFV9DgN8Kw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If We Rode Nuclear Bombs to Saturn? The US Had a Plan",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a spaceship flew by exploding nuclear bombs behind it? America spent seven years building one.",
+      "published_at": "2026-11-05T21:02:22Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/9VFV9DgN8Kw"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
@@ -1403,8 +1447,8 @@
       "hook": "What if part of a plane's wall blew off mid-flight? In 2024 it did. Two seats saved everyone.",
       "published_at": "2026-11-04T17:20:26Z",
       "privacy": "public",
-      "views": 142,
-      "likes": 0,
+      "views": 145,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/61k2NffqMAU"
     },
@@ -1557,14 +1601,14 @@
       "url": "https://youtube.com/shorts/NNxxSa4E8DY"
     },
     "Hy3xsXTwQhA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT42S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1573,11 +1617,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if a country lost its vultures? India did. The birds weren't the only ones to die.",
-      "published_at": "2026-11-05T19:19:15Z",
-      "privacy": "private",
+      "published_at": "2026-11-05T19:30:37Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Hy3xsXTwQhA"
     }
   }
