@@ -61,5 +61,21 @@
   ],
   "thumbnail_text": "THIS SPIDER CATAPULTS ANTS",
   "priority": 8,
-  "first_comment": "It was first spotted setting its trap in 2023 and still has no official species name. What would you call it?"
+  "first_comment": "It was first spotted setting its trap in 2023 and still has no official species name. What would you call it?",
+  "youtube_id": "cHsF4Dcrv30",
+  "url": "https://youtube.com/shorts/cHsF4Dcrv30",
+  "uploaded_at": "2026-11-05T12:01:07+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-05T12:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 14,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 37.8,
+  "style": "classic",
+  "kind": "shorts"
 }

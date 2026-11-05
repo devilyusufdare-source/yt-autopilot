@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-05T02:40:49+00:00",
+  "updated_at": "2026-11-05T12:01:13+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 65,
-    "channel_views": 53078,
-    "video_count": 210
+    "subscribers": 64,
+    "channel_views": 54228,
+    "video_count": 212
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/ci7IjPKSCfo",
-      "https://youtube.com/shorts/KuI61cDYijY"
+      "https://youtube.com/shorts/cHsF4Dcrv30"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/KuI61cDYijY"
+      "https://youtube.com/shorts/cHsF4Dcrv30"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/KuI61cDYijY"
+      "https://youtube.com/shorts/cHsF4Dcrv30"
     ]
   },
   "retention": {
@@ -92,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 210,
-  "total_views": 54297,
+  "total_videos": 211,
+  "total_views": 55052,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 143,
-      "avg_views": 246,
+      "videos": 144,
+      "avg_views": 249,
       "best_views": 1507
     },
     "human body": {
@@ -127,14 +126,14 @@
     },
     "technology": {
       "videos": 4,
-      "avg_views": 37,
+      "avg_views": 38,
       "best_views": 71
     }
   },
   "by_style": {
     "classic": {
-      "videos": 194,
-      "avg_views": 245,
+      "videos": 195,
+      "avg_views": 247,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 124,
-      "avg_views": 130
+      "videos": 125,
+      "avg_views": 135
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -755,8 +754,8 @@
       "hook": "A rhino charges at 35 miles an hour.",
       "published_at": "2026-11-03T19:00:19Z",
       "privacy": "public",
-      "views": 216,
-      "likes": 3,
+      "views": 239,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw"
     },
@@ -779,7 +778,7 @@
       "hook": "This fish breathes air. And it has two rows of teeth.",
       "published_at": "2026-11-03T20:00:10Z",
       "privacy": "public",
-      "views": 142,
+      "views": 197,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C0-01Rinu20"
@@ -803,7 +802,7 @@
       "hook": "This primate knocks on trees like a doctor tapping a chest.",
       "published_at": "2026-11-03T21:00:21Z",
       "privacy": "public",
-      "views": 38,
+      "views": 59,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/OpQgaCam59s"
@@ -939,7 +938,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 42,
+      "views": 47,
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
@@ -1023,7 +1022,7 @@
       "hook": "A bird that learned a trick film directors use, and it works on mates.",
       "published_at": "2026-11-03T21:20:30Z",
       "privacy": "public",
-      "views": 24,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L4uQ8K8FaRU"
@@ -1047,8 +1046,8 @@
       "hook": "The strongest insect ever measured fits on your fingernail.",
       "published_at": "2026-11-04T00:10:10Z",
       "privacy": "public",
-      "views": 268,
-      "likes": 1,
+      "views": 430,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Sj0vVznqKCQ"
     },
@@ -1099,7 +1098,7 @@
       "hook": "This bird dives into the ocean from 60 feet up.",
       "published_at": "2026-11-04T03:00:24Z",
       "privacy": "public",
-      "views": 74,
+      "views": 93,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MDK0CXlX8Jk"
@@ -1431,7 +1430,7 @@
       "hook": "Only five computers on Earth are this fast. Number one is brand new.",
       "published_at": "2026-11-03T15:00:10Z",
       "privacy": "public",
-      "views": 16,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DpnhUFqNzQc"
@@ -1679,7 +1678,7 @@
       "hook": "Some rats walk straight up to a cat. On purpose.",
       "published_at": "2026-11-04T16:30:00Z",
       "privacy": "public",
-      "views": 12,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/lAm9Gs-Ayzk"
@@ -1703,8 +1702,8 @@
       "hook": "This snail's eyes are pulsing. And they are not its eyes anymore.",
       "published_at": "2026-11-04T19:00:29Z",
       "privacy": "public",
-      "views": 12,
-      "likes": 0,
+      "views": 26,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/i1aKZDNCR68"
     },
@@ -1727,8 +1726,8 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 32,
-      "likes": 1,
+      "views": 141,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8"
     },
@@ -1751,7 +1750,7 @@
       "hook": "A car just drove over this beetle. Twice. It's fine.",
       "published_at": "2026-11-04T12:30:13Z",
       "privacy": "public",
-      "views": 13,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ELVS4Bl4MT0"
@@ -1775,8 +1774,8 @@
       "hook": "The deadliest cat on Earth fits in your two hands.",
       "published_at": "2026-11-04T21:00:20Z",
       "privacy": "public",
-      "views": 29,
-      "likes": 4,
+      "views": 77,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tc8k-oMf4pI"
     },
@@ -1827,7 +1826,7 @@
       "hook": "The five longest-living cells in your body, ranked. Most of you is under ten years old.",
       "published_at": "2026-11-04T15:30:10Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9PNCyQB-l7I"
@@ -1851,7 +1850,7 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 8,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q"
@@ -1955,8 +1954,8 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 13,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4"
     },
@@ -1977,11 +1976,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This cicada is missing a third of its body. It hasn't noticed.",
-      "published_at": "2026-11-05T02:38:03Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-05T03:00:35Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/ci7IjPKSCfo"
     },
     "UUHeyNuVn8M": {
@@ -2013,14 +2012,14 @@
       "subscribers_gained": 11
     },
     "KuI61cDYijY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2029,11 +2028,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Space has a smell. Astronauts say it's seared steak.",
-      "published_at": "2026-11-05T02:40:41Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-05T03:30:20Z",
+      "privacy": "public",
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/KuI61cDYijY"
     },
     "2KiDRDAJJWw": {
@@ -2867,7 +2866,7 @@
       "hook": "In 1999, a tornado hit 302 miles an hour. The fastest wind ever measured.",
       "published_at": "2026-10-21T13:30:38Z",
       "privacy": "public",
-      "views": 23,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q",
@@ -3259,7 +3258,7 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/l57MjoYS9NY",
@@ -3735,7 +3734,7 @@
       "hook": "A wildfire once spun up a tornado made of fire.",
       "published_at": "2026-10-31T00:10:10Z",
       "privacy": "public",
-      "views": 64,
+      "views": 66,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ",
@@ -3743,6 +3742,30 @@
       "avg_view_percent": 42.7,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "cHsF4Dcrv30": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A New Spider Builds a Spring Trap That Catapults Ants Into Its Web",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A newly found spider doesn't chase ants. It launches them.",
+      "published_at": "2026-11-05T12:00:57Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/cHsF4Dcrv30"
     },
     "EWLYa_RnJi0": {
       "upload_status": "processed",
@@ -3987,7 +4010,7 @@
       "hook": "Ships climb 85 feet without a single pump.",
       "published_at": "2026-11-03T02:50:00Z",
       "privacy": "public",
-      "views": 65,
+      "views": 66,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28",
@@ -4015,7 +4038,7 @@
       "hook": "There's a planet hotter than most stars.",
       "published_at": "2026-11-04T03:20:07Z",
       "privacy": "public",
-      "views": 34,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PJlr06UakxU"
@@ -4291,7 +4314,7 @@
       "hook": "An elephant sniffs air in at 330 miles per hour.",
       "published_at": "2026-10-29T12:20:01Z",
       "privacy": "public",
-      "views": 104,
+      "views": 105,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/oHOSiC4XktU",
@@ -4375,7 +4398,7 @@
       "hook": "An ant's jaws can close at up to 145 miles an hour.",
       "published_at": "2026-10-29T16:30:10Z",
       "privacy": "public",
-      "views": 166,
+      "views": 167,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/zvjqPSPmyk4",
@@ -5243,7 +5266,7 @@
       "hook": "One bird sees more daylight than any other animal. It weighs about three and a half ounces.",
       "published_at": "2026-10-31T16:40:04Z",
       "privacy": "public",
-      "views": 28,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VTw9ctTNLLw",
@@ -5439,7 +5462,7 @@
       "hook": "This bug hunts ants, then wears their bodies as a disguise.",
       "published_at": "2026-11-01T03:10:01Z",
       "privacy": "public",
-      "views": 958,
+      "views": 962,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE",
@@ -5523,7 +5546,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 111,
+      "views": 112,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0",
@@ -5971,7 +5994,7 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 730,
+      "views": 902,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs"
@@ -5995,7 +6018,7 @@
       "hook": "This insect isn't a flower. Bees fly to it more than to real ones.",
       "published_at": "2026-11-03T14:20:11Z",
       "privacy": "public",
-      "views": 18,
+      "views": 19,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SUtsfcR8bGA"
@@ -6019,7 +6042,7 @@
       "hook": "This snake makes fish run away from it. And they swim straight into its mouth.",
       "published_at": "2026-11-03T15:30:28Z",
       "privacy": "public",
-      "views": 347,
+      "views": 402,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/KS48QzMQ-QI"
