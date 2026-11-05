@@ -1,0 +1,65 @@
+{
+  "id": "2027-06-27-in-space-metal-parts-can-fuse-on-contact",
+  "format": "fact",
+  "topic": "space",
+  "subject": "space probe",
+  "title": "In Space, Two Pieces of Metal Can Touch and Fuse Together for Good",
+  "scenes": [
+    {
+      "text": "In space, two pieces of metal can touch and never come apart.",
+      "keywords": "satellite orbit earth"
+    },
+    {
+      "text": "No heat, no glue, no sparks. It's called cold welding, and it happens between clean, flat pieces of the same metal.",
+      "keywords": "metal parts close up"
+    },
+    {
+      "text": "On Earth it almost never happens, because air coats nearly every metal surface in a thin layer of oxide.",
+      "keywords": "metal surface macro"
+    },
+    {
+      "text": "In a vacuum, once that layer wears off, nothing puts it back. Bare metal meets bare metal, and the two bond.",
+      "keywords": "spacecraft in space"
+    },
+    {
+      "text": "In 1991, the main antenna of NASA's Galileo probe refused to open. Three ribs had stuck fast, and cold welding is widely blamed.",
+      "keywords": "space probe antenna"
+    },
+    {
+      "text": "So engineers coat parts, add dry lubricants, and pair different metals. Up there, even touching is a risk.",
+      "keywords": "satellite clean room"
+    }
+  ],
+  "description": "In the vacuum of space, two pieces of metal can fuse together just by touching.\nThe effect is called cold welding: clean, flat surfaces of the same metal brought into contact in a vacuum stick strongly without any heat or melting. On Earth nearly every metal surface is covered by a thin oxide layer that forms in air and keeps the atoms of two parts from bonding. In space, once that layer is rubbed or worn away, there is no oxygen to rebuild it. The best-known suspected case is NASA's Galileo probe: in 1991 its umbrella-like high-gain antenna failed to unfold on the way to Jupiter because three of its ribs stayed stuck, a failure widely attributed to cold welding, and the mission had to rely on a slower antenna. Spacecraft designers prevent it with anodised or coated surfaces, dry lubricants such as molybdenum disulfide, and by pairing different metals; the European Space Agency has published test methods for it.\nWhat else do you think behaves differently in space? Comment below.",
+  "tags": [
+    "cold welding",
+    "metal in space",
+    "space facts",
+    "vacuum of space",
+    "galileo probe",
+    "spacecraft engineering",
+    "space physics",
+    "nasa",
+    "esa",
+    "materials science",
+    "physics facts",
+    "astronomy facts",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#physics",
+    "#engineering"
+  ],
+  "sources": [
+    "https://livescience.com/chemistry/why-does-metal-stick-together-in-space",
+    "https://www.tribonet.org/wiki/cold-welding-is-an-issue-in-space-applications-and-should-be-considered-in-the-design-of-space-mechanism/",
+    "https://www.iflscience.com/something-very-weird-happens-to-metal-in-space-74501"
+  ],
+  "thumbnail_text": "METAL FUSES IN SPACE",
+  "priority": 6,
+  "first_comment": "Galileo still reached Jupiter and finished its mission on a slower backup antenna. What else do you think behaves differently in space?"
+}
