@@ -1,0 +1,63 @@
+{
+  "id": "2027-05-21-water-can-stay-liquid-at-55-below-zero",
+  "format": "fact",
+  "topic": "science",
+  "subject": "freezing water",
+  "title": "Water Can Stay Liquid Down to 55 Below Zero. Here's the Catch",
+  "scenes": [
+    {
+      "text": "Water doesn't have to freeze at 32 degrees.",
+      "keywords": "water freezing instantly ice"
+    },
+    {
+      "text": "It can stay liquid far below that. In the lab it has been measured at minus 42 Fahrenheit.",
+      "keywords": "frozen bottle water ice"
+    },
+    {
+      "text": "The catch: ice needs a seed, a first tiny crystal to build on. In very pure water, nothing starts it.",
+      "keywords": "ice crystals forming macro"
+    },
+    {
+      "text": "It happens above your head. Clouds hold liquid water at 40 below.",
+      "keywords": "storm clouds sky"
+    },
+    {
+      "text": "So how cold can it go? Utah chemists simulated more than 32,000 water molecules to find out.",
+      "keywords": "computer simulation molecules"
+    },
+    {
+      "text": "The limit is minus 55. There, water rearranges itself into ice with no seed at all.",
+      "keywords": "ice freezing time lapse"
+    }
+  ],
+  "description": "Water does not have to freeze at 32 F (0 C).\nTo turn into ice, liquid water first needs a nucleus, a small seed crystal to build on; in very pure water there is nothing to start it, so it can stay liquid well below freezing. Liquid water as cold as minus 40 has been found in clouds, and experiments have kept it liquid down to about minus 42 F (minus 41 C). In 2011, University of Utah chemists Valeria Molinero and Emily Moore used thousands of hours of computer time simulating 32,768 water molecules to find the limit: minus 55 F (minus 48 C), where the molecules rearrange into an ice-like structure and the water must freeze. The study was published in Nature.\nHave you ever seen a bottle of water freeze in a second? Comment below.",
+  "tags": [
+    "supercooled water",
+    "freezing point",
+    "water facts",
+    "ice",
+    "instant ice",
+    "chemistry facts",
+    "physics facts",
+    "university of utah",
+    "clouds",
+    "weather science",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts",
+    "did you know"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#water",
+    "#chemistry"
+  ],
+  "sources": [
+    "https://archive.unews.utah.edu/news_releases/supercool/",
+    "https://www.sciencedaily.com/releases/2011/11/111123133123.htm"
+  ],
+  "thumbnail_text": "LIQUID WATER AT 55 BELOW",
+  "priority": 5,
+  "first_comment": "Minus 40 is the one temperature that reads the same in Fahrenheit and Celsius, and clouds hold liquid water there. What should we freeze next?"
+}
