@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-05T21:09:09+00:00",
+  "updated_at": "2026-11-05T23:51:20+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 64,
     "channel_views": 55163,
-    "video_count": 218
+    "video_count": 220
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/_qJaFqDvZBE",
-      "https://youtube.com/shorts/LUQJVqXc1zI"
+      "https://youtube.com/shorts/hneUmT8szE8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/LUQJVqXc1zI"
+      "https://youtube.com/shorts/hneUmT8szE8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/LUQJVqXc1zI"
+      "https://youtube.com/shorts/hneUmT8szE8"
     ]
   },
   "retention": {
@@ -45,7 +44,7 @@
       {
         "title": "This Planet Is 7,800 Degrees, Hotter Than Most Stars",
         "avg_view_percent": 211.2,
-        "views": 38
+        "views": 39
       },
       {
         "title": "Scientists Swore This Fish Died Out With the Dinosaurs",
@@ -92,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 218,
-  "total_views": 55850,
+  "total_videos": 219,
+  "total_views": 56011,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 150,
-      "avg_views": 245,
+      "videos": 151,
+      "avg_views": 244,
       "best_views": 1507
     },
     "human body": {
@@ -117,7 +116,7 @@
     },
     "history": {
       "videos": 11,
-      "avg_views": 168,
+      "avg_views": 169,
       "best_views": 1113
     },
     "space": {
@@ -133,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 202,
-      "avg_views": 243,
+      "videos": 203,
+      "avg_views": 242,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 132,
-      "avg_views": 133
+      "videos": 133,
+      "avg_views": 134
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -755,7 +754,7 @@
       "hook": "A rhino charges at 35 miles an hour.",
       "published_at": "2026-11-03T19:00:19Z",
       "privacy": "public",
-      "views": 290,
+      "views": 298,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw",
@@ -783,7 +782,7 @@
       "hook": "This fish breathes air. And it has two rows of teeth.",
       "published_at": "2026-11-03T20:00:10Z",
       "privacy": "public",
-      "views": 219,
+      "views": 244,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C0-01Rinu20",
@@ -811,7 +810,7 @@
       "hook": "This primate knocks on trees like a doctor tapping a chest.",
       "published_at": "2026-11-03T21:00:21Z",
       "privacy": "public",
-      "views": 77,
+      "views": 88,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/OpQgaCam59s",
@@ -1731,7 +1730,7 @@
       "hook": "This snail's eyes are pulsing. And they are not its eyes anymore.",
       "published_at": "2026-11-04T19:00:29Z",
       "privacy": "public",
-      "views": 35,
+      "views": 37,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/i1aKZDNCR68"
@@ -1755,7 +1754,7 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 319,
+      "views": 344,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8"
@@ -1803,7 +1802,7 @@
       "hook": "The deadliest cat on Earth fits in your two hands.",
       "published_at": "2026-11-04T21:00:20Z",
       "privacy": "public",
-      "views": 112,
+      "views": 114,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tc8k-oMf4pI"
@@ -1983,7 +1982,7 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 74,
+      "views": 80,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4"
@@ -2059,7 +2058,7 @@
       "hook": "Space has a smell. Astronauts say it's seared steak.",
       "published_at": "2026-11-05T03:30:20Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KuI61cDYijY"
@@ -2163,7 +2162,7 @@
       "hook": "This mother fish is guarding her babies' killers.",
       "published_at": "2026-11-05T20:00:39Z",
       "privacy": "public",
-      "views": 4,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI"
@@ -2243,8 +2242,8 @@
       "hook": "Something is biting perfect circles out of whales.",
       "published_at": "2026-11-05T19:20:34Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 66,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/cveaxx9Lg40"
     },
@@ -2289,11 +2288,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This frog thinks it's about to eat lunch.",
-      "published_at": "2026-11-05T21:05:49Z",
-      "privacy": "private",
+      "published_at": "2026-11-05T21:30:13Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE"
     },
     "sqFgifLVQ6g": {
@@ -2325,14 +2324,14 @@
       "subscribers_gained": 0
     },
     "LUQJVqXc1zI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2341,11 +2340,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This spider mother is cooking herself for dinner.",
-      "published_at": "2026-11-05T21:08:59Z",
-      "privacy": "private",
+      "published_at": "2026-11-05T21:50:33Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/LUQJVqXc1zI"
     },
     "I0jRhK827UM": {
@@ -2487,6 +2486,30 @@
       "avg_view_percent": 41.0,
       "shares": 0,
       "subscribers_gained": 1
+    },
+    "hneUmT8szE8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Parasite Makes Ants Climb Grass at Night and Wait to Be Eaten",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "These ants climb grass at night and wait to be eaten.",
+      "published_at": "2026-11-05T23:51:10Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/hneUmT8szE8"
     },
     "XW0IAUHH4EI": {
       "upload_status": "processed",
@@ -2759,8 +2782,8 @@
       "hook": "The five biggest nuclear explosions ever, ranked. Hiroshima would not even register on this chart.",
       "published_at": "2026-11-05T16:30:16Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 7,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/invXvnyg-AY"
     },
@@ -3931,7 +3954,7 @@
       "hook": "A wildfire once spun up a tornado made of fire.",
       "published_at": "2026-10-31T00:10:10Z",
       "privacy": "public",
-      "views": 64,
+      "views": 65,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ",
@@ -4039,7 +4062,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 500,
+      "views": 501,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA",
@@ -4235,7 +4258,7 @@
       "hook": "There's a planet hotter than most stars.",
       "published_at": "2026-11-04T03:20:07Z",
       "privacy": "public",
-      "views": 38,
+      "views": 39,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PJlr06UakxU",
@@ -4459,7 +4482,7 @@
       "hook": "A goblin shark can shoot its jaws out of its own face.",
       "published_at": "2026-10-28T22:40:04Z",
       "privacy": "public",
-      "views": 21,
+      "views": 22,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/mzel-4ZbiC0",
@@ -6195,7 +6218,7 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 955,
+      "views": 949,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs",
