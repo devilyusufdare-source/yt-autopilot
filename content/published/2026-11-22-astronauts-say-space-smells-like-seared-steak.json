@@ -57,5 +57,21 @@
   ],
   "thumbnail_text": "SPACE SMELLS LIKE STEAK",
   "priority": 6,
-  "first_comment": "Astronaut Don Pettit said the space station itself smells like half machine shop, half engine room, half laboratory. Which space question should we answer next?"
+  "first_comment": "Astronaut Don Pettit said the space station itself smells like half machine shop, half engine room, half laboratory. Which space question should we answer next?",
+  "youtube_id": "KuI61cDYijY",
+  "url": "https://youtube.com/shorts/KuI61cDYijY",
+  "uploaded_at": "2026-11-05T02:40:47+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-05T03:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#7DD3FC",
+  "duration_seconds": 36.5,
+  "style": "classic",
+  "kind": "shorts"
 }
