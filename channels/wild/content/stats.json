@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T00:30:56+00:00",
+  "updated_at": "2026-11-05T02:35:17+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,13 +9,19 @@
     "video_count": 47
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/wl6AjU6flcg"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/wl6AjU6flcg"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/wl6AjU6flcg"
+    ]
   },
   "retention": {
     "videos_with_data": 37,
@@ -84,17 +90,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 47,
-  "total_views": 12464,
+  "total_videos": 48,
+  "total_views": 12513,
   "by_topic": {
     "earth": {
       "videos": 7,
-      "avg_views": 426,
+      "avg_views": 428,
       "best_views": 1108
     },
     "space": {
       "videos": 22,
-      "avg_views": 222,
+      "avg_views": 223,
       "best_views": 1281
     },
     "society": {
@@ -108,27 +114,27 @@
       "best_views": 1426
     },
     "body": {
-      "videos": 5,
-      "avg_views": 168,
+      "videos": 6,
+      "avg_views": 140,
       "best_views": 498
     },
     "technology": {
       "videos": 4,
-      "avg_views": 289,
+      "avg_views": 293,
       "best_views": 1041
     }
   },
   "by_style": {
     "classic": {
-      "videos": 47,
-      "avg_views": 265,
+      "videos": 48,
+      "avg_views": 261,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 46,
-      "avg_views": 248
+      "videos": 47,
+      "avg_views": 244
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1277,7 +1283,7 @@
       "hook": "What if you flew a helicopter on Mars? The air there is almost too thin to fly.",
       "published_at": "2026-11-03T17:00:31Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sg7h0dFtCCg"
@@ -1301,7 +1307,7 @@
       "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
       "published_at": "2026-11-03T19:20:06Z",
       "privacy": "public",
-      "views": 57,
+      "views": 62,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c"
@@ -1349,7 +1355,7 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 18,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI"
@@ -1373,7 +1379,7 @@
       "hook": "What if an asteroid a kilometer wide hit Earth? The impact isn't the deadliest part.",
       "published_at": "2026-11-04T02:40:35Z",
       "privacy": "public",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GWYrx6xGSRU"
@@ -1397,7 +1403,7 @@
       "hook": "What if part of a plane's wall blew off mid-flight? In 2024 it did. Two seats saved everyone.",
       "published_at": "2026-11-04T17:20:26Z",
       "privacy": "public",
-      "views": 113,
+      "views": 128,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/61k2NffqMAU"
@@ -1445,10 +1451,34 @@
       "hook": "What if a nuclear reactor switched itself on with nobody around? It happened, two billion years ago.",
       "published_at": "2026-11-04T21:20:25Z",
       "privacy": "public",
-      "views": 3,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UWlaqnyoJ4A"
+    },
+    "wl6AjU6flcg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If an Iron Rod Shot Through Your Skull? A Man Walked Away in 1848 and Lived 12 Years",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a meter-long iron bar shot through your head? In 1848 a man sat up and talked.",
+      "published_at": "2026-11-05T02:35:13Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/wl6AjU6flcg"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
