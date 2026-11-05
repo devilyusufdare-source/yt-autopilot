@@ -1,0 +1,74 @@
+{
+  "id": "2027-06-13-five-densest-planets-ranked",
+  "format": "ranking",
+  "ranking_by": "mean density in grams per cubic centimeter",
+  "topic": "space",
+  "subject": "planet Earth",
+  "title": "The 5 Densest Planets in the Solar System, Ranked (#1 Is Under Your Feet)",
+  "scenes": [
+    {
+      "text": "The five densest planets. Jupiter doesn't make the list, and number one is closer than you think.",
+      "keywords": "planets solar system"
+    },
+    {
+      "rank": 5,
+      "label": "Neptune · 1.64 g/cm3",
+      "text": "Number five: Neptune. 1.64 grams per cubic centimeter. The densest of the giants, yet far lighter than any rocky planet.",
+      "keywords": "neptune planet"
+    },
+    {
+      "rank": 4,
+      "label": "Mars · 3.93 g/cm3",
+      "text": "Number four: Mars. 3.93, the lightest of the rocky planets, at less than three quarters of Earth's density.",
+      "keywords": "mars planet"
+    },
+    {
+      "rank": 3,
+      "label": "Venus · 5.24 g/cm3",
+      "text": "Number three: Venus. 5.24, almost Earth's twin in size and in what it's made of.",
+      "keywords": "venus planet"
+    },
+    {
+      "rank": 2,
+      "label": "Mercury · 5.43 g/cm3",
+      "text": "Number two: Mercury. 5.43, because most of the planet is one enormous iron core.",
+      "keywords": "mercury planet"
+    },
+    {
+      "rank": 1,
+      "label": "Earth · 5.51 g/cm3",
+      "text": "Number one: Earth. 5.51. Its own gravity squeezes it tighter. Take that squeeze away, and Mercury would win.",
+      "keywords": "earth from space"
+    }
+  ],
+  "description": "The five densest planets in the solar system, ranked by mean density from NASA's planetary fact sheet.\nEarth is the densest planet at 5,514 kg per cubic metre (5.51 g/cm3), followed by Mercury (5,429), Venus (5,243), Mars (3,934) and Neptune (1,638). Jupiter (1,326), Uranus (1,270) and Saturn (687, less than water) miss the list. Earth only wins because its stronger gravity compresses its interior: with that compression removed, Mercury's density would be about 5.3 g/cm3 against Earth's 4.4, because metals make up roughly 70 percent of Mercury's mass.\nDid you expect Earth at number one?",
+  "tags": [
+    "densest planets",
+    "planet density",
+    "solar system facts",
+    "planets ranked",
+    "earth facts",
+    "mercury planet",
+    "venus",
+    "mars",
+    "neptune",
+    "space facts",
+    "astronomy",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#planets",
+    "#ranking"
+  ],
+  "sources": [
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/index.html",
+    "https://www.universetoday.com/articles/density-of-the-planets"
+  ],
+  "thumbnail_text": "5 DENSEST PLANETS, RANKED",
+  "priority": 5,
+  "first_comment": "Saturn is last by a mile: 0.69, light enough to float in water. Which planet would you have put at #1, and what should we rank next?"
+}

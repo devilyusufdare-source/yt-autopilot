@@ -1,0 +1,63 @@
+{
+  "id": "2027-06-12-zombie-satellite-les-1-started-transmitting-again",
+  "format": "fact",
+  "topic": "technology",
+  "subject": "old satellite",
+  "title": "A Satellite That Died in 1967 Started Transmitting Again 45 Years Later",
+  "scenes": [
+    {
+      "text": "A satellite that died in 1967 is transmitting again.",
+      "keywords": "satellite orbiting earth"
+    },
+    {
+      "text": "LES-1 was an American test satellite launched in 1965. A motor failed, leaving it stuck in the wrong orbit.",
+      "keywords": "rocket launch vintage"
+    },
+    {
+      "text": "By 1967 it had gone silent. For 45 years, nothing.",
+      "keywords": "space debris orbit"
+    },
+    {
+      "text": "Then in December 2012, a radio amateur in Cornwall, England, picked up a signal that faded every four seconds.",
+      "keywords": "radio antenna night sky"
+    },
+    {
+      "text": "It was LES-1. Four seconds is how long it takes to tumble once.",
+      "keywords": "oscilloscope signal wave"
+    },
+    {
+      "text": "The likely cause: its dead batteries now let the solar panels feed the transmitter directly. It only speaks in sunlight.",
+      "keywords": "satellite solar panels sun"
+    }
+  ],
+  "description": "A satellite that fell silent in 1967 was heard transmitting again 45 years later.\nLES-1, the first Lincoln Experimental Satellite, was launched on 11 February 1965 on a Titan IIIA rocket to test military communication techniques. Its kick motor failed to fire, leaving the 31 kg satellite in a circular orbit about 2,800 km up instead of its planned path, and it stopped transmitting in 1967. On 18 December 2012, amateur radio operator Phil Williams in north Cornwall detected a signal on 237 MHz that faded every four seconds, matching the satellite's tumble; other amateurs confirmed it within days. The likely explanation is that the batteries have failed in a way that lets current pass straight from the solar cells to the transmitter, so it broadcasts whenever it is in sunlight. It is still in orbit.\nWhat else is up there, still talking? Comment below.",
+  "tags": [
+    "zombie satellite",
+    "les-1",
+    "satellite facts",
+    "space technology",
+    "amateur radio",
+    "lost satellite",
+    "space junk",
+    "cold war technology",
+    "technology facts",
+    "space history",
+    "engineering facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#technology",
+    "#space",
+    "#satellite"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/LES-1",
+    "https://drewexmachina.com/2022/02/11/zombie-satellites-the-tale-of-lincoln-experimental-satellite-1",
+    "https://hackaday.com/2016/12/01/lost-moon-found-the-satellite-that-came-back-to-life"
+  ],
+  "thumbnail_text": "DEAD SINCE 1967. STILL TALKING.",
+  "priority": 6,
+  "first_comment": "It weighs just 31 kilograms and it is still up there. What else do you think is still transmitting with nobody listening?"
+}
