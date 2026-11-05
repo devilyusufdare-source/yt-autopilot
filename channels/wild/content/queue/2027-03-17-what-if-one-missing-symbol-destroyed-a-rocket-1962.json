@@ -1,0 +1,60 @@
+{
+  "id": "2027-03-17-what-if-one-missing-symbol-destroyed-a-rocket-1962",
+  "format": "whatif",
+  "topic": "space",
+  "subject": "rocket launch",
+  "title": "What If One Missing Symbol Destroyed a Rocket? In 1962 It Did",
+  "scenes": [
+    {
+      "text": "What if a single missing symbol could destroy a spacecraft? In 1962, one did.",
+      "keywords": "rocket launch"
+    },
+    {
+      "text": "July 22, 1962. NASA launches Mariner 1, built to make the first flyby of Venus.",
+      "keywords": "vintage rocket launch pad"
+    },
+    {
+      "text": "Minutes into the flight, a piece of guidance hardware fails. The software should take over. But one tiny symbol, an overbar, was left out of its equations.",
+      "keywords": "mission control vintage"
+    },
+    {
+      "text": "The rocket veers off course, and nothing on the ground can steer it back.",
+      "keywords": "rocket flying sky smoke trail"
+    },
+    {
+      "text": "At 293 seconds, a safety officer sends the destruct command, with just six seconds left before the probe would have separated.",
+      "keywords": "rocket explosion sky"
+    },
+    {
+      "text": "The loss: 18.5 million dollars, over 150 million today. Arthur C. Clarke called it the most expensive hyphen in history. Five weeks later, its twin, Mariner 2, launched and reached Venus.",
+      "keywords": "venus planet"
+    }
+  ],
+  "description": "What if one missing character in a computer program could destroy a spacecraft? On 22 July 1962 it happened to Mariner 1, NASA's first probe aimed at Venus.\nA guidance hardware failure handed control to software in which an overbar had been left out of the equations. The Atlas-Agena veered off course and was destroyed by range safety 293 seconds after launch, six seconds before the probe was due to separate. The loss was 18.5 million dollars in 1962 money. The review cited a missing 'hyphen', and Arthur C. Clarke called it the most expensive hyphen in history. Mariner 2 launched on 27 August 1962 and reached Venus.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "mariner 1",
+    "nasa",
+    "rocket failure",
+    "software bug",
+    "venus",
+    "space history",
+    "most expensive hyphen",
+    "space",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#nasa",
+    "#space"
+  ],
+  "sources": [
+    "https://www.mentalfloss.com/article/502943/day-1962-nasa-launched-and-destroyed-mariner-1",
+    "https://commonplacefacts.com/2020/06/20/the-most-expensive-hyphen-in-history/"
+  ],
+  "thumbnail_text": "WHAT IF ONE TYPO KILLED A ROCKET?",
+  "priority": 6,
+  "first_comment": "Strictly it was an overbar, not a hyphen, but the name stuck. What's the smallest mistake with the biggest price you know, and what should we run through next?"
+}
