@@ -1,0 +1,62 @@
+{
+  "id": "2027-07-02-gps-needs-einstein-or-drifts-10-km-a-day",
+  "format": "fact",
+  "topic": "technology",
+  "subject": "GPS satellite",
+  "title": "Your GPS Would Drift 10 Kilometers a Day Without Einstein",
+  "scenes": [
+    {
+      "text": "Your GPS would be wrong by ten kilometers a day without Einstein.",
+      "keywords": "gps satellite orbit earth"
+    },
+    {
+      "text": "GPS satellites orbit about 20,000 kilometers up, where gravity is weaker, so their clocks tick faster than clocks on the ground.",
+      "keywords": "satellite orbiting earth"
+    },
+    {
+      "text": "Their speed slows them down a little, but gravity wins. The net result is about 38 microseconds faster every day.",
+      "keywords": "atomic clock"
+    },
+    {
+      "text": "That sounds tiny, but GPS finds you by timing radio signals that travel at the speed of light.",
+      "keywords": "radio waves antenna"
+    },
+    {
+      "text": "Left uncorrected, the error would grow by around ten kilometers every single day.",
+      "keywords": "phone map navigation"
+    },
+    {
+      "text": "So engineers set the satellite clocks slightly slow before launch. Einstein is built into your map.",
+      "keywords": "rocket launch satellite"
+    }
+  ],
+  "description": "Your GPS would be wrong by ten kilometers a day without Einstein.\nGPS satellites orbit about 20,000 kilometers up, where weaker gravity makes their clocks run faster than clocks on the ground. Even after their speed is accounted for, the net gain is about 38 microseconds a day, and since position is found by timing light-speed signals, the error would grow by around ten kilometers daily. Engineers correct it by setting the satellite clocks slightly slow before launch.\nDid you know your phone uses relativity?",
+  "tags": [
+    "gps",
+    "relativity",
+    "einstein",
+    "time dilation",
+    "gps satellites",
+    "technology facts",
+    "physics facts",
+    "how gps works",
+    "space facts",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#gps",
+    "#einstein",
+    "#technology"
+  ],
+  "sources": [
+    "https://link.springer.com/article/10.12942/lrr-2003-1",
+    "https://en.wikipedia.org/wiki/Error_analysis_for_the_Global_Positioning_System",
+    "https://www.techforspace.com/missions/galileo/gps-and-relativity/"
+  ],
+  "thumbnail_text": "GPS NEEDS EINSTEIN",
+  "priority": 6,
+  "first_comment": "Every phone map you open is quietly using general relativity. Which everyday tech do you want explained next?"
+}
