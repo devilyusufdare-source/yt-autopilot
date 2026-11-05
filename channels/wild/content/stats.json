@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-05T14:04:15+00:00",
+  "updated_at": "2026-11-05T16:56:40+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 13,
     "channel_views": 12329,
-    "video_count": 48
+    "video_count": 49
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/JG_L7e77sH8"
+      "https://youtube.com/shorts/NNxxSa4E8DY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/JG_L7e77sH8"
+      "https://youtube.com/shorts/NNxxSa4E8DY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/JG_L7e77sH8"
+      "https://youtube.com/shorts/NNxxSa4E8DY"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 49,
-  "total_views": 12565,
+  "total_videos": 50,
+  "total_views": 12574,
   "by_topic": {
     "earth": {
       "videos": 7,
@@ -100,7 +100,7 @@
     },
     "space": {
       "videos": 23,
-      "avg_views": 214,
+      "avg_views": 215,
       "best_views": 1281
     },
     "society": {
@@ -119,22 +119,22 @@
       "best_views": 498
     },
     "technology": {
-      "videos": 4,
-      "avg_views": 298,
+      "videos": 5,
+      "avg_views": 238,
       "best_views": 1043
     }
   },
   "by_style": {
     "classic": {
-      "videos": 49,
-      "avg_views": 256,
+      "videos": 50,
+      "avg_views": 251,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 48,
-      "avg_views": 240
+      "videos": 49,
+      "avg_views": 235
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1307,7 +1307,7 @@
       "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
       "published_at": "2026-11-03T19:20:06Z",
       "privacy": "public",
-      "views": 69,
+      "views": 71,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c"
@@ -1355,7 +1355,7 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 41,
+      "views": 45,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI"
@@ -1379,7 +1379,7 @@
       "hook": "What if an asteroid a kilometer wide hit Earth? The impact isn't the deadliest part.",
       "published_at": "2026-11-04T02:40:35Z",
       "privacy": "public",
-      "views": 18,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GWYrx6xGSRU"
@@ -1476,7 +1476,7 @@
       "published_at": "2026-11-05T02:50:10Z",
       "privacy": "public",
       "views": 1,
-      "likes": 0,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wl6AjU6flcg"
     },
@@ -1509,6 +1509,30 @@
       "subscribers_gained": 0
     },
     "JG_L7e77sH8": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT42S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Broken Switch Stranded You on the Moon? Apollo 11 Used a Pen",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if one broken switch could strand you on the Moon? On Apollo 11, one nearly did.",
+      "published_at": "2026-11-05T14:20:15Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/JG_L7e77sH8"
+    },
+    "NNxxSa4E8DY": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1520,17 +1544,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If a Broken Switch Stranded You on the Moon? Apollo 11 Used a Pen",
-      "topic": "space",
+      "title": "What If You Nuked a Burning Gas Well? The Soviets Did. It Took 23 Seconds",
+      "topic": "technology",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if one broken switch could strand you on the Moon? On Apollo 11, one nearly did.",
-      "published_at": "2026-11-05T14:04:09Z",
+      "hook": "What if you set off a nuclear bomb to put out a fire? In 1966, it worked.",
+      "published_at": "2026-11-05T16:56:36Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/JG_L7e77sH8"
+      "url": "https://youtube.com/shorts/NNxxSa4E8DY"
     }
   }
 }
