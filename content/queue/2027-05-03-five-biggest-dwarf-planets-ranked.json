@@ -1,0 +1,76 @@
+{
+  "id": "2027-05-03-five-biggest-dwarf-planets-ranked",
+  "format": "ranking",
+  "ranking_by": "mean diameter in kilometres",
+  "topic": "space",
+  "subject": "dwarf planet",
+  "title": "The 5 Biggest Dwarf Planets, Ranked (#2 Outweighs #1)",
+  "scenes": [
+    {
+      "text": "The five biggest dwarf planets. Number two is heavier than number one.",
+      "keywords": "icy planet deep space"
+    },
+    {
+      "rank": 5,
+      "label": "Gonggong · ~1,230 km",
+      "text": "Number five: Gonggong. About 1,230 kilometers wide, with one moon, and still not officially a dwarf planet.",
+      "keywords": "distant icy world space"
+    },
+    {
+      "rank": 4,
+      "label": "Makemake · 1,430 km",
+      "text": "Number four: Makemake. 1,430 kilometers across, and one trip around the Sun takes over 300 years.",
+      "keywords": "small planet far from sun"
+    },
+    {
+      "rank": 3,
+      "label": "Haumea · ~1,560 km",
+      "text": "Number three: Haumea. About 1,560 kilometers on average, but it spins every four hours and is stretched into an oval.",
+      "keywords": "spinning planet space"
+    },
+    {
+      "rank": 2,
+      "label": "Eris · 2,326 km",
+      "text": "Number two: Eris. 2,326 kilometers wide, 50 kilometers short of the top spot, yet about a quarter heavier.",
+      "keywords": "kuiper belt icy planet"
+    },
+    {
+      "rank": 1,
+      "label": "Pluto · 2,377 km",
+      "text": "Number one: Pluto. 2,377 kilometers. Finding Eris is what got it demoted, and it still came out the biggest.",
+      "keywords": "pluto planet"
+    }
+  ],
+  "description": "The five biggest dwarf planets, ranked by mean diameter.\nPluto measures about 2,377 km across and Eris 2,326 km, but Eris has roughly 27 percent more mass. Haumea averages about 1,560 km, though it spins once every 3.9 hours and is stretched to nearly 2,000 km along its longest axis. Makemake is about 1,430 km and Gonggong about 1,230 km; Gonggong is widely treated as a dwarf planet but is not one of the five the International Astronomical Union has named. The discovery of Eris in the 2000s is what led to the dwarf planet category in 2006. Ceres, at 939 km, does not make the top five.\nShould Pluto get its planet title back?",
+  "tags": [
+    "dwarf planets",
+    "pluto",
+    "eris",
+    "haumea",
+    "makemake",
+    "gonggong",
+    "kuiper belt",
+    "solar system",
+    "space facts",
+    "planet facts",
+    "astronomy",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#pluto",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.physics.unlv.edu/~jeffery/astro/solar_system/table_dwarf_planets_notable.html",
+    "https://www.guinnessworldrecords.com/world-records/84699-largest-dwarf-planet",
+    "https://en.wikipedia.org/wiki/List_of_possible_dwarf_planets",
+    "https://www.space.com/18584-dwarf-planets-solar-system-infographic.html"
+  ],
+  "thumbnail_text": "5 BIGGEST DWARF PLANETS",
+  "priority": 0,
+  "first_comment": "Ceres, the biggest thing in the asteroid belt, is only 939 km wide and misses the list. Which would you put at number one, and what should we rank next?"
+}
