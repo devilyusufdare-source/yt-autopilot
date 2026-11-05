@@ -1,0 +1,63 @@
+{
+  "id": "2027-06-05-man-lived-a-normal-life-on-a-thin-sheet-of-brain",
+  "format": "fact",
+  "topic": "human body",
+  "subject": "brain scan",
+  "title": "Doctors Scanned a Man's Head and Found It Was Mostly Fluid. He Was Fine",
+  "scenes": [
+    {
+      "text": "Doctors scanned a man's head and found mostly fluid.",
+      "keywords": "brain scan mri"
+    },
+    {
+      "text": "He was 44, a French civil servant with two children. He'd come in because his left leg felt weak.",
+      "keywords": "hospital corridor doctor"
+    },
+    {
+      "text": "The scans showed a huge fluid-filled space inside his skull. His brain was pressed into a thin layer around the edge.",
+      "keywords": "doctor looking at brain scan"
+    },
+    {
+      "text": "He'd been treated for fluid on the brain as a baby. It had slowly built up again.",
+      "keywords": "x-ray skull"
+    },
+    {
+      "text": "His IQ tested at 75: below average, but he held a job and raised a family.",
+      "keywords": "man walking office"
+    },
+    {
+      "text": "All of it on a thin sheet of brain.",
+      "keywords": "brain model rotating"
+    }
+  ],
+  "description": "In 2007, doctors in Marseille scanned a 44-year-old man's head and found it was mostly fluid.\nThe man, a married civil servant with two children, came to hospital with mild weakness in his left leg. Scans showed hugely enlarged fluid-filled ventricles and only a thin mantle of brain tissue around them. He had been treated with a shunt for hydrocephalus at six months old and again at 14. Tests gave him an IQ of 75 (verbal 84, performance 70), and he lived an ordinary life. After a new shunt was fitted, his leg recovered within weeks; his scans did not change. The case was published in The Lancet by Lionel Feuillet and colleagues as 'Brain of a white-collar worker'.\nWhat does that say about how much brain we need? Comment below.",
+  "tags": [
+    "brain facts",
+    "human brain",
+    "hydrocephalus",
+    "medical mystery",
+    "neuroscience",
+    "lancet case",
+    "brain plasticity",
+    "human body facts",
+    "medical facts",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts",
+    "did you know"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#brain",
+    "#science"
+  ],
+  "sources": [
+    "https://www.nature.com/news/2007/070716/full/news070716-15.html",
+    "https://www.gwern.net/doc/iq/2007-feuillet.pdf",
+    "https://www.theregister.com/2007/07/23/french_no_brainer/"
+  ],
+  "thumbnail_text": "A SKULL FULL OF FLUID",
+  "priority": 6,
+  "first_comment": "After treatment his leg recovered within weeks, and a later scan showed his brain had not changed size. What does that say about how much brain we need?"
+}
