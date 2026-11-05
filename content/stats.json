@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-05T12:01:13+00:00",
+  "updated_at": "2026-11-05T15:04:36+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 64,
     "channel_views": 54228,
-    "video_count": 212
+    "video_count": 213
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/cHsF4Dcrv30"
+      "https://youtube.com/shorts/invXvnyg-AY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/cHsF4Dcrv30"
+      "https://youtube.com/shorts/invXvnyg-AY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/cHsF4Dcrv30"
+      "https://youtube.com/shorts/invXvnyg-AY"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 211,
-  "total_views": 55052,
+  "total_videos": 212,
+  "total_views": 55218,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,7 +106,7 @@
     },
     "animals": {
       "videos": 144,
-      "avg_views": 249,
+      "avg_views": 251,
       "best_views": 1507
     },
     "human body": {
@@ -115,13 +115,13 @@
       "best_views": 1384
     },
     "history": {
-      "videos": 10,
-      "avg_views": 185,
+      "videos": 11,
+      "avg_views": 168,
       "best_views": 1113
     },
     "space": {
       "videos": 25,
-      "avg_views": 339,
+      "avg_views": 340,
       "best_views": 1513
     },
     "technology": {
@@ -132,7 +132,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 195,
+      "videos": 196,
       "avg_views": 247,
       "over_1500": 3
     },
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 125,
+      "videos": 126,
       "avg_views": 135
     },
     "en-US-BrianNeural": {
@@ -226,7 +226,7 @@
     {
       "title": "A Snake Longer Than a School Bus Once Lived in India",
       "topic": "animals",
-      "views": 1247,
+      "views": 1248,
       "hook": "A snake longer than a school bus once slithered through India."
     }
   ],
@@ -754,7 +754,7 @@
       "hook": "A rhino charges at 35 miles an hour.",
       "published_at": "2026-11-03T19:00:19Z",
       "privacy": "public",
-      "views": 239,
+      "views": 247,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw"
@@ -778,7 +778,7 @@
       "hook": "This fish breathes air. And it has two rows of teeth.",
       "published_at": "2026-11-03T20:00:10Z",
       "privacy": "public",
-      "views": 197,
+      "views": 203,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C0-01Rinu20"
@@ -802,7 +802,7 @@
       "hook": "This primate knocks on trees like a doctor tapping a chest.",
       "published_at": "2026-11-03T21:00:21Z",
       "privacy": "public",
-      "views": 59,
+      "views": 63,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/OpQgaCam59s"
@@ -1022,7 +1022,7 @@
       "hook": "A bird that learned a trick film directors use, and it works on mates.",
       "published_at": "2026-11-03T21:20:30Z",
       "privacy": "public",
-      "views": 35,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L4uQ8K8FaRU"
@@ -1046,8 +1046,8 @@
       "hook": "The strongest insect ever measured fits on your fingernail.",
       "published_at": "2026-11-04T00:10:10Z",
       "privacy": "public",
-      "views": 430,
-      "likes": 2,
+      "views": 478,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/Sj0vVznqKCQ"
     },
@@ -1098,7 +1098,7 @@
       "hook": "This bird dives into the ocean from 60 feet up.",
       "published_at": "2026-11-04T03:00:24Z",
       "privacy": "public",
-      "views": 93,
+      "views": 103,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MDK0CXlX8Jk"
@@ -1678,7 +1678,7 @@
       "hook": "Some rats walk straight up to a cat. On purpose.",
       "published_at": "2026-11-04T16:30:00Z",
       "privacy": "public",
-      "views": 20,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/lAm9Gs-Ayzk"
@@ -1702,7 +1702,7 @@
       "hook": "This snail's eyes are pulsing. And they are not its eyes anymore.",
       "published_at": "2026-11-04T19:00:29Z",
       "privacy": "public",
-      "views": 26,
+      "views": 34,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/i1aKZDNCR68"
@@ -1726,7 +1726,7 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 141,
+      "views": 173,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8"
@@ -1774,8 +1774,8 @@
       "hook": "The deadliest cat on Earth fits in your two hands.",
       "published_at": "2026-11-04T21:00:20Z",
       "privacy": "public",
-      "views": 77,
-      "likes": 5,
+      "views": 91,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tc8k-oMf4pI"
     },
@@ -1850,7 +1850,7 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q"
@@ -1930,7 +1930,7 @@
       "hook": "This cat does a baby monkey impression. And it's a hunting trick.",
       "published_at": "2026-11-04T21:30:16Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/loc-nCkI7hE"
@@ -1954,7 +1954,7 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 13,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4"
@@ -1978,7 +1978,7 @@
       "hook": "This cicada is missing a third of its body. It hasn't noticed.",
       "published_at": "2026-11-05T03:00:35Z",
       "privacy": "public",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ci7IjPKSCfo"
@@ -2030,7 +2030,7 @@
       "hook": "Space has a smell. Astronauts say it's seared steak.",
       "published_at": "2026-11-05T03:30:20Z",
       "privacy": "public",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KuI61cDYijY"
@@ -2250,7 +2250,7 @@
       "hook": "A snake longer than a school bus once slithered through India.",
       "published_at": "2026-10-18T07:00:18Z",
       "privacy": "public",
-      "views": 1247,
+      "views": 1248,
       "likes": 18,
       "comments": 1,
       "url": "https://youtube.com/shorts/KEmiP0u7ZSw",
@@ -2566,6 +2566,30 @@
       "avg_view_percent": 27.6,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "invXvnyg-AY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Biggest Nuclear Explosions Ever, Ranked (#1 Was Set to Half Power)",
+      "topic": "history",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five biggest nuclear explosions ever, ranked. Hiroshima would not even register on this chart.",
+      "published_at": "2026-11-05T15:04:27Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/invXvnyg-AY"
     },
     "pQBmvioCP6E": {
       "upload_status": "processed",
@@ -3744,14 +3768,14 @@
       "subscribers_gained": 0
     },
     "cHsF4Dcrv30": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3760,11 +3784,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A newly found spider doesn't chase ants. It launches them.",
-      "published_at": "2026-11-05T12:00:57Z",
-      "privacy": "private",
+      "published_at": "2026-11-05T12:30:24Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/cHsF4Dcrv30"
     },
     "EWLYa_RnJi0": {
@@ -4038,7 +4062,7 @@
       "hook": "There's a planet hotter than most stars.",
       "published_at": "2026-11-04T03:20:07Z",
       "privacy": "public",
-      "views": 37,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PJlr06UakxU"
@@ -4846,7 +4870,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 18,
+      "views": 19,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
@@ -5994,7 +6018,7 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 902,
+      "views": 904,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs"
@@ -6018,7 +6042,7 @@
       "hook": "This insect isn't a flower. Bees fly to it more than to real ones.",
       "published_at": "2026-11-03T14:20:11Z",
       "privacy": "public",
-      "views": 19,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SUtsfcR8bGA"
@@ -6042,8 +6066,8 @@
       "hook": "This snake makes fish run away from it. And they swim straight into its mouth.",
       "published_at": "2026-11-03T15:30:28Z",
       "privacy": "public",
-      "views": 402,
-      "likes": 2,
+      "views": 414,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/KS48QzMQ-QI"
     }
