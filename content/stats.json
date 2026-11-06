@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-06T18:53:22+00:00",
+  "updated_at": "2026-11-06T19:55:54+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
     "channel_views": 57143,
-    "video_count": 225
+    "video_count": 226
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/vJk-0yMOLro",
-      "https://youtube.com/shorts/nddxV9p7zlo"
+      "https://youtube.com/shorts/nddxV9p7zlo",
+      "https://youtube.com/shorts/x2sT1X-b0l0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/nddxV9p7zlo"
+      "https://youtube.com/shorts/x2sT1X-b0l0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/nddxV9p7zlo"
+      "https://youtube.com/shorts/x2sT1X-b0l0"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 225,
-  "total_views": 57554,
+  "total_videos": 226,
+  "total_views": 57631,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 155,
-      "avg_views": 248,
+      "videos": 156,
+      "avg_views": 246,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 209,
-      "avg_views": 243,
+      "videos": 210,
+      "avg_views": 242,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +145,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 139,
+      "videos": 140,
       "avg_views": 139
     },
     "en-US-BrianNeural": {
@@ -951,7 +951,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 47,
+      "views": 48,
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
@@ -2291,7 +2291,7 @@
       "hook": "This shark kills with its tail, and it never has to bite.",
       "published_at": "2026-11-05T21:00:32Z",
       "privacy": "public",
-      "views": 540,
+      "views": 615,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho"
@@ -2961,11 +2961,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
-      "published_at": "2026-11-06T17:55:38Z",
-      "privacy": "private",
+      "published_at": "2026-11-06T19:00:08Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro"
     },
     "xBKMr5_ouYQ": {
@@ -3193,14 +3193,14 @@
       "subscribers_gained": 0
     },
     "nddxV9p7zlo": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT42S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3299,6 +3299,30 @@
       "avg_view_percent": 39.7,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "x2sT1X-b0l0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Parrot Lands on Sheep at Night and Digs Into Their Backs for Fat",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This parrot lands on sheep at night and starts digging.",
+      "published_at": "2026-11-06T19:55:47Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/x2sT1X-b0l0"
     },
     "valUZFoPBN4": {
       "upload_status": "processed",
@@ -5271,7 +5295,7 @@
       "hook": "This fish swallowed a shark in one gulp.",
       "published_at": "2026-10-30T12:10:02Z",
       "privacy": "public",
-      "views": 472,
+      "views": 473,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI",

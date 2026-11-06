@@ -56,5 +56,21 @@
   ],
   "thumbnail_text": "A PARROT THAT HUNTS SHEEP",
   "priority": 7,
-  "first_comment": "Kea are also famous for pulling the rubber seals off parked cars. Have you ever met one? Which bird should we cover next?"
+  "first_comment": "Kea are also famous for pulling the rubber seals off parked cars. Have you ever met one? Which bird should we cover next?",
+  "youtube_id": "x2sT1X-b0l0",
+  "url": "https://youtube.com/shorts/x2sT1X-b0l0",
+  "uploaded_at": "2026-11-06T19:55:52+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-06T21:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 16,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 45.1,
+  "style": "classic",
+  "kind": "shorts"
 }
