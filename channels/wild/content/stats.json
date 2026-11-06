@@ -1,39 +1,43 @@
 {
-  "updated_at": "2026-11-06T19:25:47+00:00",
+  "updated_at": "2026-11-06T21:08:30+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 13,
     "channel_views": 12703,
-    "video_count": 55
+    "video_count": 56
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/BIt14NsOzWA"
+      "https://youtube.com/shorts/h8DGqyZZFTU"
     ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/h8DGqyZZFTU"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/h8DGqyZZFTU"
+    ]
   },
   "retention": {
-    "videos_with_data": 43,
-    "avg_view_percent": 70.3,
+    "videos_with_data": 47,
+    "avg_view_percent": 67.1,
     "by_topic": {
-      "earth": 66.5,
-      "space": 75.4,
+      "earth": 64.1,
+      "space": 71.9,
       "society": 63.2,
-      "animals": 57.3,
-      "body": 68.9,
-      "technology": 80.9
+      "animals": 54.8,
+      "body": 68.2,
+      "technology": 65.4
     },
     "best": [
       {
         "title": "What If You Lived Inside a Cave on the Moon?",
-        "avg_view_percent": 344.7,
+        "avg_view_percent": 281.4,
         "views": 22
       },
       {
@@ -52,9 +56,9 @@
         "views": 3
       },
       {
-        "title": "What If You Could See Infrared Light? Volunteers Did",
-        "avg_view_percent": 91.3,
-        "views": 25
+        "title": "What If the Sun Suddenly Disappeared?",
+        "avg_view_percent": 89.4,
+        "views": 179
       }
     ],
     "worst": [
@@ -65,7 +69,7 @@
       },
       {
         "title": "What If a Kilometer-Wide Asteroid Hit Earth?",
-        "avg_view_percent": 19.7,
+        "avg_view_percent": 23.6,
         "views": 19
       },
       {
@@ -86,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 56,
-  "total_views": 12722,
+  "total_videos": 57,
+  "total_views": 12735,
   "by_topic": {
     "earth": {
       "videos": 7,
@@ -96,7 +100,7 @@
     },
     "space": {
       "videos": 26,
-      "avg_views": 192,
+      "avg_views": 193,
       "best_views": 1281
     },
     "society": {
@@ -115,22 +119,22 @@
       "best_views": 498
     },
     "technology": {
-      "videos": 5,
-      "avg_views": 246,
+      "videos": 6,
+      "avg_views": 206,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 56,
-      "avg_views": 227,
+      "videos": 57,
+      "avg_views": 223,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 55,
-      "avg_views": 212
+      "videos": 56,
+      "avg_views": 209
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -560,7 +564,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/pf34SeLuJgk",
       "avg_view_seconds": 21.0,
-      "avg_view_percent": 62.2,
+      "avg_view_percent": 62.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -784,7 +788,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 66.7,
+      "avg_view_percent": 66.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -952,7 +956,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/dwe3rjCTsoo",
       "avg_view_seconds": 26.0,
-      "avg_view_percent": 72.4,
+      "avg_view_percent": 71.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1119,8 +1123,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc",
-      "avg_view_seconds": 34.0,
-      "avg_view_percent": 91.3,
+      "avg_view_seconds": 33.0,
+      "avg_view_percent": 87.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1175,8 +1179,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
-      "avg_view_seconds": 21.0,
-      "avg_view_percent": 56.1,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 55.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1203,8 +1207,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I",
-      "avg_view_seconds": 30.0,
-      "avg_view_percent": 77.3,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 63.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1311,12 +1315,12 @@
       "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
       "published_at": "2026-11-03T19:20:06Z",
       "privacy": "public",
-      "views": 71,
+      "views": 72,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 64.2,
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 70.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1343,8 +1347,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nOw9IX9Y6Fg",
-      "avg_view_seconds": 124.0,
-      "avg_view_percent": 344.7,
+      "avg_view_seconds": 101.0,
+      "avg_view_percent": 281.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1367,10 +1371,14 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 68,
+      "views": 69,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/uEVMR_vc2XI"
+      "url": "https://youtube.com/shorts/uEVMR_vc2XI",
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 53.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "GWYrx6xGSRU": {
       "upload_status": "processed",
@@ -1395,8 +1403,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GWYrx6xGSRU",
-      "avg_view_seconds": 8.0,
-      "avg_view_percent": 19.7,
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 23.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1491,8 +1499,8 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 8,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM"
     },
@@ -1513,12 +1521,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if a computer said five nuclear missiles were coming? On September 26th, 1983, one did.",
-      "published_at": "2026-11-06T19:25:18Z",
+      "published_at": "2026-11-06T19:50:31Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/BIt14NsOzWA"
+    },
+    "h8DGqyZZFTU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Freight Train Ran Away With Nobody Aboard? Ohio, 2001",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
+      "published_at": "2026-11-06T21:08:25Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/BIt14NsOzWA"
+      "url": "https://youtube.com/shorts/h8DGqyZZFTU"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
@@ -1542,7 +1574,11 @@
       "views": 154,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/61k2NffqMAU"
+      "url": "https://youtube.com/shorts/61k2NffqMAU",
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 52.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "6sP4tb9hKiw": {
       "upload_status": "processed",
@@ -1566,7 +1602,11 @@
       "views": 3,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/6sP4tb9hKiw"
+      "url": "https://youtube.com/shorts/6sP4tb9hKiw",
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 47.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "UWlaqnyoJ4A": {
       "upload_status": "processed",
@@ -1590,7 +1630,11 @@
       "views": 30,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/UWlaqnyoJ4A"
+      "url": "https://youtube.com/shorts/UWlaqnyoJ4A",
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 49.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "wl6AjU6flcg": {
       "upload_status": "processed",
@@ -1611,10 +1655,14 @@
       "hook": "What if a meter-long iron bar shot through your head? In 1848 a man sat up and talked.",
       "published_at": "2026-11-05T02:50:10Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/wl6AjU6flcg"
+      "url": "https://youtube.com/shorts/wl6AjU6flcg",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
@@ -1687,7 +1735,7 @@
       "hook": "What if you set off a nuclear bomb to put out a fire? In 1966, it worked.",
       "published_at": "2026-11-05T17:10:20Z",
       "privacy": "public",
-      "views": 26,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY"

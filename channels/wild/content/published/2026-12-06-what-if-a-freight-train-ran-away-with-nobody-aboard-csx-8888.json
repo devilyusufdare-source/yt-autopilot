@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "47 CARS. NO DRIVER. 66 MILES.",
   "priority": 7,
-  "first_comment": "The fuel cutoff button had to be held down for several seconds, so even a perfect shot would not have stopped it. How would you have stopped the train? And what should we run through next?"
+  "first_comment": "The fuel cutoff button had to be held down for several seconds, so even a perfect shot would not have stopped it. How would you have stopped the train? And what should we run through next?",
+  "youtube_id": "h8DGqyZZFTU",
+  "url": "https://youtube.com/shorts/h8DGqyZZFTU",
+  "uploaded_at": "2026-11-06T21:08:28+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-06T21:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 16,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 45.3,
+  "style": "classic",
+  "kind": "shorts"
 }
