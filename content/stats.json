@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-06T21:15:55+00:00",
+  "updated_at": "2026-11-06T23:46:10+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
     "channel_views": 57143,
-    "video_count": 228
+    "video_count": 230
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/0vvzQ8VmQ1Y",
-      "https://youtube.com/shorts/An7jwtu8ucI"
+      "https://youtube.com/shorts/BqSWxMd40wg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/An7jwtu8ucI"
+      "https://youtube.com/shorts/BqSWxMd40wg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/An7jwtu8ucI"
+      "https://youtube.com/shorts/BqSWxMd40wg"
     ]
   },
   "retention": {
@@ -92,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 228,
-  "total_views": 57738,
+  "total_videos": 229,
+  "total_views": 57913,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 158,
-      "avg_views": 244,
+      "videos": 159,
+      "avg_views": 243,
       "best_views": 1507
     },
     "human body": {
@@ -117,8 +116,8 @@
     },
     "history": {
       "videos": 12,
-      "avg_views": 157,
-      "best_views": 1113
+      "avg_views": 158,
+      "best_views": 1114
     },
     "space": {
       "videos": 26,
@@ -133,7 +132,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 212,
+      "videos": 213,
       "avg_views": 240,
       "over_1500": 3
     },
@@ -145,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 142,
-      "avg_views": 137
+      "videos": 143,
+      "avg_views": 138
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1651,7 +1650,7 @@
       "hook": "Woolly mammoths were still alive when the pyramids were already five hundred years old.",
       "published_at": "2026-10-17T10:30:38Z",
       "privacy": "public",
-      "views": 1113,
+      "views": 1114,
       "likes": 25,
       "comments": 3,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k",
@@ -1735,7 +1734,7 @@
       "hook": "This snail's eyes are pulsing. And they are not its eyes anymore.",
       "published_at": "2026-11-04T19:00:29Z",
       "privacy": "public",
-      "views": 50,
+      "views": 57,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/i1aKZDNCR68",
@@ -1763,7 +1762,7 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 556,
+      "views": 569,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8",
@@ -2035,7 +2034,7 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 299,
+      "views": 302,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4",
@@ -2119,7 +2118,7 @@
       "hook": "Space has a smell. Astronauts say it's seared steak.",
       "published_at": "2026-11-05T03:30:20Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KuI61cDYijY",
@@ -2203,7 +2202,7 @@
       "hook": "Something in this snapper's mouth isn't a tongue.",
       "published_at": "2026-11-05T19:00:00Z",
       "privacy": "public",
-      "views": 36,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KTG3dAFep0I"
@@ -2227,8 +2226,8 @@
       "hook": "This mother fish is guarding her babies' killers.",
       "published_at": "2026-11-05T20:00:39Z",
       "privacy": "public",
-      "views": 51,
-      "likes": 1,
+      "views": 57,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI"
     },
@@ -2307,8 +2306,8 @@
       "hook": "Something is biting perfect circles out of whales.",
       "published_at": "2026-11-05T19:20:34Z",
       "privacy": "public",
-      "views": 229,
-      "likes": 5,
+      "views": 277,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/cveaxx9Lg40"
     },
@@ -2331,8 +2330,8 @@
       "hook": "This shark kills with its tail, and it never has to bite.",
       "published_at": "2026-11-05T21:00:32Z",
       "privacy": "public",
-      "views": 621,
-      "likes": 3,
+      "views": 694,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho"
     },
@@ -2355,7 +2354,7 @@
       "hook": "This frog thinks it's about to eat lunch.",
       "published_at": "2026-11-05T21:30:13Z",
       "privacy": "public",
-      "views": 89,
+      "views": 108,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE"
@@ -2407,7 +2406,7 @@
       "hook": "This spider mother is cooking herself for dinner.",
       "published_at": "2026-11-05T21:50:33Z",
       "privacy": "public",
-      "views": 3,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUQJVqXc1zI"
@@ -2571,7 +2570,7 @@
       "hook": "These ants climb grass at night and wait to be eaten.",
       "published_at": "2026-11-06T00:20:24Z",
       "privacy": "public",
-      "views": 32,
+      "views": 33,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hneUmT8szE8"
@@ -2679,7 +2678,7 @@
       "hook": "Something is eating whales alive off Argentina. It weighs two pounds.",
       "published_at": "2026-11-06T03:10:18Z",
       "privacy": "public",
-      "views": 6,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BiZ1q9XNjeE"
@@ -2815,7 +2814,7 @@
       "hook": "A porcupine has 30,000 quills. One animal found the gap.",
       "published_at": "2026-11-06T12:20:26Z",
       "privacy": "public",
-      "views": 14,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/WDdIFBd2zAk"
@@ -2895,7 +2894,7 @@
       "hook": "The five biggest nuclear explosions ever, ranked. Hiroshima would not even register on this chart.",
       "published_at": "2026-11-05T16:30:16Z",
       "privacy": "public",
-      "views": 32,
+      "views": 31,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/invXvnyg-AY"
@@ -3251,7 +3250,7 @@
       "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
       "published_at": "2026-11-06T20:00:12Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nddxV9p7zlo"
@@ -3437,22 +3436,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Pacific night fishermen fear a fish that never bites.",
-      "published_at": "2026-11-06T21:13:54Z",
-      "privacy": "private",
+      "published_at": "2026-11-06T21:40:27Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/0vvzQ8VmQ1Y"
     },
     "An7jwtu8ucI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT35S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3461,11 +3460,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A pond freezes over. The goldfish inside get drunk.",
-      "published_at": "2026-11-06T21:15:47Z",
-      "privacy": "private",
+      "published_at": "2026-11-06T22:00:11Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/An7jwtu8ucI"
     },
     "cmlnxZqwptc": {
@@ -3719,6 +3718,30 @@
       "avg_view_percent": 34.9,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "BqSWxMd40wg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Snake Expert Was Bitten and Took Notes on His Own Death, Hour by Hour",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A snake bit this scientist. He took notes.",
+      "published_at": "2026-11-06T23:46:01Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/BqSWxMd40wg"
     },
     "WXZ7kpLm8Bc": {
       "upload_status": "processed",
@@ -4187,7 +4210,7 @@
       "hook": "The search for the Titanic was a cover story.",
       "published_at": "2026-11-06T03:30:13Z",
       "privacy": "public",
-      "views": 7,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/k1T79ufoaX8"
@@ -4291,7 +4314,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 425,
+      "views": 424,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
