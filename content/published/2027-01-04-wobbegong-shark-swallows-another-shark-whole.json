@@ -57,5 +57,21 @@
   ],
   "thumbnail_text": "A SHARK INSIDE A SHARK",
   "priority": 7,
-  "first_comment": "The researcher who found it said she doubted it was the first time it had happened, only the first time anyone had a camera. Which ocean predator should we cover next?"
+  "first_comment": "The researcher who found it said she doubted it was the first time it had happened, only the first time anyone had a camera. Which ocean predator should we cover next?",
+  "youtube_id": "vJk-0yMOLro",
+  "url": "https://youtube.com/shorts/vJk-0yMOLro",
+  "uploaded_at": "2026-11-06T17:55:45+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-06T19:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 18,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 45.2,
+  "style": "classic",
+  "kind": "shorts"
 }
