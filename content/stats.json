@@ -1,51 +1,46 @@
 {
-  "updated_at": "2026-11-06T19:55:54+00:00",
+  "updated_at": "2026-11-06T21:15:55+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
     "channel_views": 57143,
-    "video_count": 226
+    "video_count": 228
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/nddxV9p7zlo",
-      "https://youtube.com/shorts/x2sT1X-b0l0"
+      "https://youtube.com/shorts/0vvzQ8VmQ1Y",
+      "https://youtube.com/shorts/An7jwtu8ucI"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/x2sT1X-b0l0"
+      "https://youtube.com/shorts/An7jwtu8ucI"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/x2sT1X-b0l0"
+      "https://youtube.com/shorts/An7jwtu8ucI"
     ]
   },
   "retention": {
-    "videos_with_data": 195,
-    "avg_view_percent": 61.3,
+    "videos_with_data": 204,
+    "avg_view_percent": 61.1,
     "by_topic": {
       "psychology": 71.3,
-      "science": 64.7,
-      "animals": 59.0,
-      "human body": 86.5,
+      "science": 64.4,
+      "animals": 59.1,
+      "human body": 76.9,
       "history": 54.1,
-      "space": 70.3,
-      "technology": 52.2
+      "space": 67.9,
+      "technology": 62.3
     },
     "best": [
       {
         "title": "A Vulture Hit a Passenger Jet at 37,000 Feet (Highest Bird Ever)",
         "avg_view_percent": 690.0,
         "views": 31
-      },
-      {
-        "title": "This Planet Is 7,800 Degrees, Hotter Than Most Stars",
-        "avg_view_percent": 211.2,
-        "views": 40
       },
       {
         "title": "Scientists Swore This Fish Died Out With the Dinosaurs",
@@ -58,6 +53,11 @@
         "views": 247
       },
       {
+        "title": "This Planet Is 7,800 Degrees, Hotter Than Most Stars",
+        "avg_view_percent": 157.0,
+        "views": 40
+      },
+      {
         "title": "In 2022, a Volcano Fired 2,600 Lightning Bolts a Minute",
         "avg_view_percent": 153.4,
         "views": 6
@@ -68,11 +68,6 @@
         "title": "In 1932, Australia Went to War Against Emus. The Emus Won",
         "avg_view_percent": 10.6,
         "views": 2
-      },
-      {
-        "title": "This Bird Builds an Optical Illusion to Win Over a Mate",
-        "avg_view_percent": 17.6,
-        "views": 48
       },
       {
         "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
@@ -88,12 +83,17 @@
         "title": "Europe's Hera Reaches the Asteroid NASA Smashed in December",
         "avg_view_percent": 23.2,
         "views": 1
+      },
+      {
+        "title": "This Fish Shoots Down Insects and Fixes Light's Lie First",
+        "avg_view_percent": 23.4,
+        "views": 27
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 226,
-  "total_views": 57631,
+  "total_videos": 228,
+  "total_views": 57738,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -102,12 +102,12 @@
     },
     "science": {
       "videos": 21,
-      "avg_views": 273,
+      "avg_views": 274,
       "best_views": 1648
     },
     "animals": {
-      "videos": 156,
-      "avg_views": 246,
+      "videos": 158,
+      "avg_views": 244,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 210,
-      "avg_views": 242,
+      "videos": 212,
+      "avg_views": 240,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 140,
-      "avg_views": 139
+      "videos": 142,
+      "avg_views": 137
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -759,10 +759,10 @@
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 58.6,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 51.6,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 1
     },
     "C0-01Rinu20": {
       "upload_status": "processed",
@@ -787,8 +787,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C0-01Rinu20",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 45.3,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 60.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -815,8 +815,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/OpQgaCam59s",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 80.4,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 64.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -955,8 +955,8 @@
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 51.9,
+      "avg_view_seconds": 34.0,
+      "avg_view_percent": 126.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1035,12 +1035,12 @@
       "hook": "A bird that learned a trick film directors use, and it works on mates.",
       "published_at": "2026-11-03T21:20:30Z",
       "privacy": "public",
-      "views": 48,
+      "views": 49,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L4uQ8K8FaRU",
-      "avg_view_seconds": 5.0,
-      "avg_view_percent": 17.6,
+      "avg_view_seconds": 37.0,
+      "avg_view_percent": 130.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1068,7 +1068,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Sj0vVznqKCQ",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 58.9,
+      "avg_view_percent": 58.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1123,8 +1123,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MDK0CXlX8Jk",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 100.1,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 50.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1459,8 +1459,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DpnhUFqNzQc",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 33.9,
+      "avg_view_seconds": 34.0,
+      "avg_view_percent": 74.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1656,7 +1656,7 @@
       "comments": 3,
       "url": "https://youtube.com/shorts/vDzFhP-Eo5k",
       "avg_view_seconds": 18.0,
-      "avg_view_percent": 57.5,
+      "avg_view_percent": 57.4,
       "shares": 1,
       "subscribers_gained": 0
     },
@@ -1710,7 +1710,11 @@
       "views": 31,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/lAm9Gs-Ayzk"
+      "url": "https://youtube.com/shorts/lAm9Gs-Ayzk",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 35.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "i1aKZDNCR68": {
       "upload_status": "processed",
@@ -1734,7 +1738,11 @@
       "views": 50,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/i1aKZDNCR68"
+      "url": "https://youtube.com/shorts/i1aKZDNCR68",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 56.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "2Ky1kAzkOT8": {
       "upload_status": "processed",
@@ -1758,7 +1766,11 @@
       "views": 556,
       "likes": 5,
       "comments": 1,
-      "url": "https://youtube.com/shorts/2Ky1kAzkOT8"
+      "url": "https://youtube.com/shorts/2Ky1kAzkOT8",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 39.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ELVS4Bl4MT0": {
       "upload_status": "processed",
@@ -1782,7 +1794,11 @@
       "views": 19,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/ELVS4Bl4MT0"
+      "url": "https://youtube.com/shorts/ELVS4Bl4MT0",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 35.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "Tc8k-oMf4pI": {
       "upload_status": "processed",
@@ -1803,10 +1819,14 @@
       "hook": "The deadliest cat on Earth fits in your two hands.",
       "published_at": "2026-11-04T21:00:20Z",
       "privacy": "public",
-      "views": 161,
+      "views": 167,
       "likes": 7,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Tc8k-oMf4pI"
+      "url": "https://youtube.com/shorts/Tc8k-oMf4pI",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 54.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "vosG2Q9tRXk": {
       "upload_status": "processed",
@@ -1858,7 +1878,11 @@
       "views": 4,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/9PNCyQB-l7I"
+      "url": "https://youtube.com/shorts/9PNCyQB-l7I",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 38.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "5OGNZTZrY3Q": {
       "upload_status": "processed",
@@ -1879,10 +1903,14 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 21,
+      "views": 25,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/5OGNZTZrY3Q"
+      "url": "https://youtube.com/shorts/5OGNZTZrY3Q",
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 54.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "84sWYFT2Ivg": {
       "upload_status": "processed",
@@ -1903,7 +1931,7 @@
       "hook": "The five longest single spaceflights ever, ranked. Number one has stood for thirty years.",
       "published_at": "2026-11-06T15:20:26Z",
       "privacy": "public",
-      "views": 2,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/84sWYFT2Ivg"
@@ -2007,10 +2035,14 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 241,
+      "views": 299,
       "likes": 4,
       "comments": 1,
-      "url": "https://youtube.com/shorts/4PrSW_AB5g4"
+      "url": "https://youtube.com/shorts/4PrSW_AB5g4",
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 33.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ci7IjPKSCfo": {
       "upload_status": "processed",
@@ -2034,7 +2066,11 @@
       "views": 20,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/ci7IjPKSCfo"
+      "url": "https://youtube.com/shorts/ci7IjPKSCfo",
+      "avg_view_seconds": 36.0,
+      "avg_view_percent": 96.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "UUHeyNuVn8M": {
       "upload_status": "processed",
@@ -2086,7 +2122,11 @@
       "views": 7,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/KuI61cDYijY"
+      "url": "https://youtube.com/shorts/KuI61cDYijY",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "2KiDRDAJJWw": {
       "upload_status": "processed",
@@ -2163,7 +2203,7 @@
       "hook": "Something in this snapper's mouth isn't a tongue.",
       "published_at": "2026-11-05T19:00:00Z",
       "privacy": "public",
-      "views": 31,
+      "views": 36,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KTG3dAFep0I"
@@ -2187,8 +2227,8 @@
       "hook": "This mother fish is guarding her babies' killers.",
       "published_at": "2026-11-05T20:00:39Z",
       "privacy": "public",
-      "views": 45,
-      "likes": 0,
+      "views": 51,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI"
     },
@@ -2291,7 +2331,7 @@
       "hook": "This shark kills with its tail, and it never has to bite.",
       "published_at": "2026-11-05T21:00:32Z",
       "privacy": "public",
-      "views": 615,
+      "views": 621,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho"
@@ -2531,7 +2571,7 @@
       "hook": "These ants climb grass at night and wait to be eaten.",
       "published_at": "2026-11-06T00:20:24Z",
       "privacy": "public",
-      "views": 27,
+      "views": 32,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hneUmT8szE8"
@@ -2639,7 +2679,7 @@
       "hook": "Something is eating whales alive off Argentina. It weighs two pounds.",
       "published_at": "2026-11-06T03:10:18Z",
       "privacy": "public",
-      "views": 2,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BiZ1q9XNjeE"
@@ -2855,7 +2895,7 @@
       "hook": "The five biggest nuclear explosions ever, ranked. Hiroshima would not even register on this chart.",
       "published_at": "2026-11-05T16:30:16Z",
       "privacy": "public",
-      "views": 27,
+      "views": 32,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/invXvnyg-AY"
@@ -2963,7 +3003,7 @@
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
       "published_at": "2026-11-06T19:00:08Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro"
@@ -3187,8 +3227,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q",
-      "avg_view_seconds": 10.0,
-      "avg_view_percent": 31.9,
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 28.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3209,11 +3249,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
-      "published_at": "2026-11-06T18:53:11Z",
-      "privacy": "private",
+      "published_at": "2026-11-06T20:00:12Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/nddxV9p7zlo"
     },
     "bB08mIirOGo": {
@@ -3301,14 +3341,14 @@
       "subscribers_gained": 0
     },
     "x2sT1X-b0l0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT46S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3317,11 +3357,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This parrot lands on sheep at night and starts digging.",
-      "published_at": "2026-11-06T19:55:47Z",
-      "privacy": "private",
+      "published_at": "2026-11-06T21:00:17Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/x2sT1X-b0l0"
     },
     "valUZFoPBN4": {
@@ -3379,6 +3419,54 @@
       "avg_view_percent": 40.0,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "0vvzQ8VmQ1Y": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT34S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Fish Leaps at 37 mph and Has Killed People Like a Spear",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Pacific night fishermen fear a fish that never bites.",
+      "published_at": "2026-11-06T21:13:54Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/0vvzQ8VmQ1Y"
+    },
+    "An7jwtu8ucI": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Goldfish Survive 5 Months With No Oxygen by Brewing Their Own Alcohol",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A pond freezes over. The goldfish inside get drunk.",
+      "published_at": "2026-11-06T21:15:47Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/An7jwtu8ucI"
     },
     "cmlnxZqwptc": {
       "upload_status": "processed",
@@ -3627,8 +3715,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/l57MjoYS9NY",
-      "avg_view_seconds": 11.0,
-      "avg_view_percent": 36.1,
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 34.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3767,8 +3855,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/V5bBt2yI2PY",
-      "avg_view_seconds": 26.0,
-      "avg_view_percent": 82.5,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 80.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4099,7 +4187,7 @@
       "hook": "The search for the Titanic was a cover story.",
       "published_at": "2026-11-06T03:30:13Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/k1T79ufoaX8"
@@ -4123,7 +4211,7 @@
       "hook": "A wildfire once spun up a tornado made of fire.",
       "published_at": "2026-10-31T00:10:10Z",
       "privacy": "public",
-      "views": 65,
+      "views": 66,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ",
@@ -4207,8 +4295,8 @@
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 53.5,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 53.9,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -4236,7 +4324,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA",
       "avg_view_seconds": 10.0,
-      "avg_view_percent": 38.8,
+      "avg_view_percent": 39.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4403,8 +4491,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JB0ZuvAxI28",
-      "avg_view_seconds": 9.0,
-      "avg_view_percent": 34.8,
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 33.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4431,8 +4519,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PJlr06UakxU",
-      "avg_view_seconds": 59.0,
-      "avg_view_percent": 211.2,
+      "avg_view_seconds": 43.0,
+      "avg_view_percent": 157.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5075,8 +5163,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 51.0,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 52.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5300,7 +5388,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Y6sGcLt5JUI",
       "avg_view_seconds": 26.0,
-      "avg_view_percent": 132.8,
+      "avg_view_percent": 131.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5384,7 +5472,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 61.0,
+      "avg_view_percent": 61.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5608,7 +5696,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
       "avg_view_seconds": 18.0,
-      "avg_view_percent": 67.0,
+      "avg_view_percent": 66.9,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -5860,7 +5948,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 43.0,
+      "avg_view_percent": 42.9,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -5944,7 +6032,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 35.2,
+      "avg_view_percent": 34.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5971,8 +6059,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nUqBVOHGP2c",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 56.0,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 54.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6140,7 +6228,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/yErqYXfCIOI",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 46.2,
+      "avg_view_percent": 43.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6167,8 +6255,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/f8nYYRdfoyE",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 72.3,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 54.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6195,8 +6283,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM",
-      "avg_view_seconds": 11.0,
-      "avg_view_percent": 40.4,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 59.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6223,8 +6311,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/lcilP6jC87M",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 49.2,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 44.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6279,8 +6367,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 36.0,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 38.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6335,8 +6423,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/y5-MSH3z9d0",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 45.5,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 37.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6363,8 +6451,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 46.0,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 40.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6391,8 +6479,8 @@
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs",
-      "avg_view_seconds": 9.0,
-      "avg_view_percent": 33.3,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 42.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6419,8 +6507,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SUtsfcR8bGA",
-      "avg_view_seconds": 29.0,
-      "avg_view_percent": 97.0,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 70.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6447,8 +6535,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/KS48QzMQ-QI",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 39.6,
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 32.2,
       "shares": 0,
       "subscribers_gained": 0
     }

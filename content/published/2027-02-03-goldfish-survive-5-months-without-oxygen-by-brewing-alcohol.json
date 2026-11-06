@@ -58,5 +58,21 @@
   "thumbnail_text": "5 MONTHS. NO OXYGEN. DRUNK",
   "priority": 7,
   "subject": "goldfish",
-  "first_comment": "The trick comes from a whole genome duplication about 8 million years ago. Would you keep a pet that can out-drink you?"
+  "first_comment": "The trick comes from a whole genome duplication about 8 million years ago. Would you keep a pet that can out-drink you?",
+  "youtube_id": "An7jwtu8ucI",
+  "url": "https://youtube.com/shorts/An7jwtu8ucI",
+  "uploaded_at": "2026-11-06T21:15:52+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-06T22:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 34.9,
+  "style": "classic",
+  "kind": "shorts"
 }

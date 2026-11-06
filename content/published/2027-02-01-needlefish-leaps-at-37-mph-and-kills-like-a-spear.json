@@ -57,5 +57,21 @@
   "thumbnail_text": "A FISH. 37 MPH. A LIVING SPEAR",
   "priority": 7,
   "subject": "needlefish",
-  "first_comment": "Needlefish leap at a shallow angle to ambush small fish, and a bright lamp at night sends whole schools flying at the boat. Which animal kills by accident, not on purpose?"
+  "first_comment": "Needlefish leap at a shallow angle to ambush small fish, and a bright lamp at night sends whole schools flying at the boat. Which animal kills by accident, not on purpose?",
+  "youtube_id": "0vvzQ8VmQ1Y",
+  "url": "https://youtube.com/shorts/0vvzQ8VmQ1Y",
+  "uploaded_at": "2026-11-06T21:14:00+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-06T21:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 33.3,
+  "style": "classic",
+  "kind": "shorts"
 }
