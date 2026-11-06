@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T17:55:47+00:00",
+  "updated_at": "2026-11-06T18:53:22+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/vJk-0yMOLro"
+      "https://youtube.com/shorts/vJk-0yMOLro",
+      "https://youtube.com/shorts/nddxV9p7zlo"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/vJk-0yMOLro"
+      "https://youtube.com/shorts/nddxV9p7zlo"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/vJk-0yMOLro"
+      "https://youtube.com/shorts/nddxV9p7zlo"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 224,
-  "total_views": 57364,
+  "total_videos": 225,
+  "total_views": 57554,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,7 +106,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 154,
+      "videos": 155,
       "avg_views": 248,
       "best_views": 1507
     },
@@ -132,7 +133,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 208,
+      "videos": 209,
       "avg_views": 243,
       "over_1500": 3
     },
@@ -144,7 +145,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 138,
+      "videos": 139,
       "avg_views": 139
     },
     "en-US-BrianNeural": {
@@ -1730,7 +1731,7 @@
       "hook": "This snail's eyes are pulsing. And they are not its eyes anymore.",
       "published_at": "2026-11-04T19:00:29Z",
       "privacy": "public",
-      "views": 48,
+      "views": 50,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/i1aKZDNCR68"
@@ -1754,7 +1755,7 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 546,
+      "views": 556,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8"
@@ -2006,7 +2007,7 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 238,
+      "views": 241,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4"
@@ -2030,7 +2031,7 @@
       "hook": "This cicada is missing a third of its body. It hasn't noticed.",
       "published_at": "2026-11-05T03:00:35Z",
       "privacy": "public",
-      "views": 18,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ci7IjPKSCfo"
@@ -2162,7 +2163,7 @@
       "hook": "Something in this snapper's mouth isn't a tongue.",
       "published_at": "2026-11-05T19:00:00Z",
       "privacy": "public",
-      "views": 33,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KTG3dAFep0I"
@@ -2186,7 +2187,7 @@
       "hook": "This mother fish is guarding her babies' killers.",
       "published_at": "2026-11-05T20:00:39Z",
       "privacy": "public",
-      "views": 40,
+      "views": 45,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI"
@@ -2266,7 +2267,7 @@
       "hook": "Something is biting perfect circles out of whales.",
       "published_at": "2026-11-05T19:20:34Z",
       "privacy": "public",
-      "views": 228,
+      "views": 229,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/cveaxx9Lg40"
@@ -2290,8 +2291,8 @@
       "hook": "This shark kills with its tail, and it never has to bite.",
       "published_at": "2026-11-05T21:00:32Z",
       "privacy": "public",
-      "views": 382,
-      "likes": 2,
+      "views": 540,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho"
     },
@@ -2530,7 +2531,7 @@
       "hook": "These ants climb grass at night and wait to be eaten.",
       "published_at": "2026-11-06T00:20:24Z",
       "privacy": "public",
-      "views": 25,
+      "views": 27,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hneUmT8szE8"
@@ -2774,7 +2775,7 @@
       "hook": "A porcupine has 30,000 quills. One animal found the gap.",
       "published_at": "2026-11-06T12:20:26Z",
       "privacy": "public",
-      "views": 7,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/WDdIFBd2zAk"
@@ -2854,7 +2855,7 @@
       "hook": "The five biggest nuclear explosions ever, ranked. Hiroshima would not even register on this chart.",
       "published_at": "2026-11-05T16:30:16Z",
       "privacy": "public",
-      "views": 26,
+      "views": 27,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/invXvnyg-AY"
@@ -2944,14 +2945,14 @@
       "subscribers_gained": 0
     },
     "vJk-0yMOLro": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT46S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3190,6 +3191,30 @@
       "avg_view_percent": 31.9,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "nddxV9p7zlo": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Piranha Cousin With Human-Looking Teeth Keeps Turning Up in American Lakes",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
+      "published_at": "2026-11-06T18:53:11Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/nddxV9p7zlo"
     },
     "bB08mIirOGo": {
       "upload_status": "processed",
@@ -4322,7 +4347,7 @@
       "hook": "An astronaut nearly drowned in space.",
       "published_at": "2026-11-02T02:50:07Z",
       "privacy": "public",
-      "views": 57,
+      "views": 58,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yf9Gl1SzDAU",
