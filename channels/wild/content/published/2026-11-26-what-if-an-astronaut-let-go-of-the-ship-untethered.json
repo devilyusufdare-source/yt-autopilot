@@ -55,5 +55,21 @@
   ],
   "thumbnail_text": "WHAT IF YOU LET GO IN SPACE?",
   "priority": 7,
-  "first_comment": "McCandless helped design the jet backpack himself, and he had been the voice of mission control talking to Neil Armstrong during the Moon landing. Would you let go? And what should we run through next?"
+  "first_comment": "McCandless helped design the jet backpack himself, and he had been the voice of mission control talking to Neil Armstrong during the Moon landing. Would you let go? And what should we run through next?",
+  "youtube_id": "San75yns9OM",
+  "url": "https://youtube.com/shorts/San75yns9OM",
+  "uploaded_at": "2026-11-06T17:02:42+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-06T17:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#C4B5FD",
+  "duration_seconds": 43.0,
+  "style": "classic",
+  "kind": "shorts"
 }

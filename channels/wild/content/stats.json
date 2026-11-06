@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-06T14:10:18+00:00",
+  "updated_at": "2026-11-06T17:02:43+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 13,
-    "channel_views": 12628,
-    "video_count": 53
+    "channel_views": 12703,
+    "video_count": 54
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/r3cUPK9Raeo"
+      "https://youtube.com/shorts/San75yns9OM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/r3cUPK9Raeo"
+      "https://youtube.com/shorts/San75yns9OM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/r3cUPK9Raeo"
+      "https://youtube.com/shorts/San75yns9OM"
     ]
   },
   "retention": {
@@ -58,7 +58,7 @@
       {
         "title": "What If You Could See Infrared Light? Volunteers Did",
         "avg_view_percent": 91.3,
-        "views": 23
+        "views": 24
       }
     ],
     "worst": [
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 54,
-  "total_views": 12702,
+  "total_videos": 55,
+  "total_views": 12711,
   "by_topic": {
     "earth": {
       "videos": 7,
@@ -99,8 +99,8 @@
       "best_views": 1109
     },
     "space": {
-      "videos": 25,
-      "avg_views": 199,
+      "videos": 26,
+      "avg_views": 192,
       "best_views": 1281
     },
     "society": {
@@ -110,12 +110,12 @@
     },
     "animals": {
       "videos": 8,
-      "avg_views": 248,
+      "avg_views": 249,
       "best_views": 1426
     },
     "body": {
       "videos": 6,
-      "avg_views": 141,
+      "avg_views": 142,
       "best_views": 498
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 54,
-      "avg_views": 235,
+      "videos": 55,
+      "avg_views": 231,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 53,
-      "avg_views": 220
+      "videos": 54,
+      "avg_views": 216
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1119,7 +1119,7 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc",
@@ -1371,7 +1371,7 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 66,
+      "views": 67,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI"
@@ -1447,12 +1447,36 @@
       "hook": "What if one snake species took over a whole island? Guam found out, and the forest went silent.",
       "published_at": "2026-11-06T03:10:25Z",
       "privacy": "public",
-      "views": 20,
+      "views": 22,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU"
     },
     "r3cUPK9Raeo": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT47S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If We Sent Aliens a Message? We Did in 1974. It Hasn't Arrived",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
+      "published_at": "2026-11-06T14:40:14Z",
+      "privacy": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/r3cUPK9Raeo"
+    },
+    "San75yns9OM": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1464,17 +1488,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If We Sent Aliens a Message? We Did in 1974. It Hasn't Arrived",
+      "title": "What If an Astronaut Let Go of the Ship? In 1984 One Did, on Purpose",
       "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
-      "published_at": "2026-11-06T14:10:13Z",
+      "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
+      "published_at": "2026-11-06T17:02:39Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/r3cUPK9Raeo"
+      "url": "https://youtube.com/shorts/San75yns9OM"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
@@ -1619,7 +1643,7 @@
       "hook": "What if one broken switch could strand you on the Moon? On Apollo 11, one nearly did.",
       "published_at": "2026-11-05T14:20:15Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JG_L7e77sH8"
@@ -1667,7 +1691,7 @@
       "hook": "What if a country lost its vultures? India did. The birds weren't the only ones to die.",
       "published_at": "2026-11-05T19:30:37Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hy3xsXTwQhA"
