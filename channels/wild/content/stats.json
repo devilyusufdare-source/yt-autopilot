@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-06T02:41:21+00:00",
+  "updated_at": "2026-11-06T04:01:25+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 13,
-    "channel_views": 12561,
-    "video_count": 52
+    "channel_views": 12628,
+    "video_count": 53
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/k18Z1hNkZYU"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/k18Z1hNkZYU"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/k18Z1hNkZYU"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 43,
@@ -91,7 +85,7 @@
   },
   "retention_note": null,
   "total_videos": 53,
-  "total_views": 12646,
+  "total_views": 12650,
   "by_topic": {
     "earth": {
       "videos": 7,
@@ -110,7 +104,7 @@
     },
     "animals": {
       "videos": 8,
-      "avg_views": 245,
+      "avg_views": 246,
       "best_views": 1426
     },
     "body": {
@@ -1429,14 +1423,14 @@
       "url": "https://youtube.com/shorts/9VFV9DgN8Kw"
     },
     "k18Z1hNkZYU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT40S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1445,11 +1439,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if one snake species took over a whole island? Guam found out, and the forest went silent.",
-      "published_at": "2026-11-06T02:41:16Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-06T03:10:25Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU"
     },
     "61k2NffqMAU": {
