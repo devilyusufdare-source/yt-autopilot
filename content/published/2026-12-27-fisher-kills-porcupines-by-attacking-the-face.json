@@ -57,5 +57,22 @@
   ],
   "thumbnail_text": "30,000 QUILLS. ONE WEAK SPOT.",
   "priority": 7,
-  "first_comment": "Despite the name, fishers eat almost no fish. Which predator with a signature move should we cover next?"
+  "first_comment": "Despite the name, fishers eat almost no fish. Which predator with a signature move should we cover next?",
+  "youtube_id": "WDdIFBd2zAk",
+  "url": "https://youtube.com/shorts/WDdIFBd2zAk",
+  "uploaded_at": "2026-11-06T11:57:49+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-06T12:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "pixabay-photo": 3,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 41.2,
+  "style": "classic",
+  "kind": "shorts"
 }

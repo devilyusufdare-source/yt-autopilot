@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-11-06T04:01:03+00:00",
+  "updated_at": "2026-11-06T11:57:52+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 64,
+    "subscribers": 65,
     "channel_views": 56167,
     "video_count": 223
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/WDdIFBd2zAk"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/WDdIFBd2zAk"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/WDdIFBd2zAk"
+    ]
   },
   "retention": {
     "videos_with_data": 195,
@@ -38,7 +44,7 @@
       {
         "title": "This Planet Is 7,800 Degrees, Hotter Than Most Stars",
         "avg_view_percent": 211.2,
-        "views": 39
+        "views": 40
       },
       {
         "title": "Scientists Swore This Fish Died Out With the Dinosaurs",
@@ -85,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 221,
-  "total_views": 56463,
+  "total_videos": 222,
+  "total_views": 57056,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -99,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 152,
-      "avg_views": 245,
+      "videos": 153,
+      "avg_views": 248,
       "best_views": 1507
     },
     "human body": {
@@ -110,7 +116,7 @@
     },
     "history": {
       "videos": 12,
-      "avg_views": 155,
+      "avg_views": 156,
       "best_views": 1113
     },
     "space": {
@@ -126,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 205,
-      "avg_views": 242,
+      "videos": 206,
+      "avg_views": 244,
       "over_1500": 3
     },
     "punch": {
@@ -138,12 +144,12 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 135,
-      "avg_views": 135
+      "videos": 136,
+      "avg_views": 138
     },
     "en-US-BrianNeural": {
       "videos": 29,
-      "avg_views": 269
+      "avg_views": 270
     },
     "en-US-ChristopherNeural": {
       "videos": 5,
@@ -1056,7 +1062,7 @@
       "hook": "The strongest insect ever measured fits on your fingernail.",
       "published_at": "2026-11-04T00:10:10Z",
       "privacy": "public",
-      "views": 759,
+      "views": 764,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Sj0vVznqKCQ",
@@ -1700,7 +1706,7 @@
       "hook": "Some rats walk straight up to a cat. On purpose.",
       "published_at": "2026-11-04T16:30:00Z",
       "privacy": "public",
-      "views": 27,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/lAm9Gs-Ayzk"
@@ -1724,7 +1730,7 @@
       "hook": "This snail's eyes are pulsing. And they are not its eyes anymore.",
       "published_at": "2026-11-04T19:00:29Z",
       "privacy": "public",
-      "views": 38,
+      "views": 43,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/i1aKZDNCR68"
@@ -1748,8 +1754,8 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 410,
-      "likes": 4,
+      "views": 509,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8"
     },
@@ -1796,7 +1802,7 @@
       "hook": "The deadliest cat on Earth fits in your two hands.",
       "published_at": "2026-11-04T21:00:20Z",
       "privacy": "public",
-      "views": 124,
+      "views": 150,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tc8k-oMf4pI"
@@ -1872,7 +1878,7 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 20,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q"
@@ -1952,7 +1958,7 @@
       "hook": "This cat does a baby monkey impression. And it's a hunting trick.",
       "published_at": "2026-11-04T21:30:16Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/loc-nCkI7hE"
@@ -1976,8 +1982,8 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 120,
-      "likes": 2,
+      "views": 196,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4"
     },
@@ -2000,7 +2006,7 @@
       "hook": "This cicada is missing a third of its body. It hasn't noticed.",
       "published_at": "2026-11-05T03:00:35Z",
       "privacy": "public",
-      "views": 15,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ci7IjPKSCfo"
@@ -2132,7 +2138,7 @@
       "hook": "Something in this snapper's mouth isn't a tongue.",
       "published_at": "2026-11-05T19:00:00Z",
       "privacy": "public",
-      "views": 10,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KTG3dAFep0I"
@@ -2156,7 +2162,7 @@
       "hook": "This mother fish is guarding her babies' killers.",
       "published_at": "2026-11-05T20:00:39Z",
       "privacy": "public",
-      "views": 19,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI"
@@ -2236,8 +2242,8 @@
       "hook": "Something is biting perfect circles out of whales.",
       "published_at": "2026-11-05T19:20:34Z",
       "privacy": "public",
-      "views": 84,
-      "likes": 3,
+      "views": 177,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/cveaxx9Lg40"
     },
@@ -2260,8 +2266,8 @@
       "hook": "This shark kills with its tail, and it never has to bite.",
       "published_at": "2026-11-05T21:00:32Z",
       "privacy": "public",
-      "views": 131,
-      "likes": 1,
+      "views": 332,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho"
     },
@@ -2284,7 +2290,7 @@
       "hook": "This frog thinks it's about to eat lunch.",
       "published_at": "2026-11-05T21:30:13Z",
       "privacy": "public",
-      "views": 7,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE"
@@ -2336,7 +2342,7 @@
       "hook": "This spider mother is cooking herself for dinner.",
       "published_at": "2026-11-05T21:50:33Z",
       "privacy": "public",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUQJVqXc1zI"
@@ -2500,7 +2506,7 @@
       "hook": "These ants climb grass at night and wait to be eaten.",
       "published_at": "2026-11-06T00:20:24Z",
       "privacy": "public",
-      "views": 6,
+      "views": 21,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hneUmT8szE8"
@@ -2608,7 +2614,7 @@
       "hook": "Something is eating whales alive off Argentina. It weighs two pounds.",
       "published_at": "2026-11-06T03:10:18Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BiZ1q9XNjeE"
@@ -2725,6 +2731,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "WDdIFBd2zAk": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A 10-Pound Animal Kills Porcupines, and It Only Attacks One Spot",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A porcupine has 30,000 quills. One animal found the gap.",
+      "published_at": "2026-11-06T11:57:41Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/WDdIFBd2zAk"
+    },
     "oUmGCbVNL3k": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -2800,7 +2830,7 @@
       "hook": "The five biggest nuclear explosions ever, ranked. Hiroshima would not even register on this chart.",
       "published_at": "2026-11-05T16:30:16Z",
       "privacy": "public",
-      "views": 11,
+      "views": 22,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/invXvnyg-AY"
@@ -3580,7 +3610,7 @@
       "hook": "A two-ton shark launches ten feet out of the water.",
       "published_at": "2026-10-22T21:00:33Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LquJ2hMdwYI",
@@ -3972,7 +4002,7 @@
       "hook": "The search for the Titanic was a cover story.",
       "published_at": "2026-11-06T03:30:13Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/k1T79ufoaX8"
@@ -4024,7 +4054,7 @@
       "hook": "A newly found spider doesn't chase ants. It launches them.",
       "published_at": "2026-11-05T12:30:24Z",
       "privacy": "public",
-      "views": 8,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/cHsF4Dcrv30"
@@ -4076,7 +4106,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 424,
+      "views": 425,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -4300,7 +4330,7 @@
       "hook": "There's a planet hotter than most stars.",
       "published_at": "2026-11-04T03:20:07Z",
       "privacy": "public",
-      "views": 39,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PJlr06UakxU",
@@ -4944,7 +4974,7 @@
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
       "published_at": "2026-10-29T21:20:18Z",
       "privacy": "public",
-      "views": 112,
+      "views": 113,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA",
@@ -5308,7 +5338,7 @@
       "hook": "This shark slams stingrays with its head.",
       "published_at": "2026-10-30T17:00:30Z",
       "privacy": "public",
-      "views": 130,
+      "views": 131,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/u064Qhkt4BU",
@@ -6288,7 +6318,7 @@
       "hook": "This insect isn't a flower. Bees fly to it more than to real ones.",
       "published_at": "2026-11-03T14:20:11Z",
       "privacy": "public",
-      "views": 20,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SUtsfcR8bGA",
