@@ -1,28 +1,21 @@
 {
-  "updated_at": "2026-11-06T02:47:27+00:00",
+  "updated_at": "2026-11-06T04:01:03+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 64,
-    "channel_views": 55163,
-    "video_count": 221
+    "channel_views": 56167,
+    "video_count": 223
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/BiZ1q9XNjeE",
-      "https://youtube.com/shorts/k1T79ufoaX8"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/k1T79ufoaX8"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/k1T79ufoaX8"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 195,
@@ -93,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 221,
-  "total_views": 56294,
+  "total_views": 56463,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -107,12 +100,12 @@
     },
     "animals": {
       "videos": 152,
-      "avg_views": 244,
+      "avg_views": 245,
       "best_views": 1507
     },
     "human body": {
       "videos": 5,
-      "avg_views": 444,
+      "avg_views": 445,
       "best_views": 1384
     },
     "history": {
@@ -134,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 205,
-      "avg_views": 241,
+      "avg_views": 242,
       "over_1500": 3
     },
     "punch": {
@@ -146,7 +139,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 135,
-      "avg_views": 134
+      "avg_views": 135
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1119,7 +1112,7 @@
       "hook": "This bird dives into the ocean from 60 feet up.",
       "published_at": "2026-11-04T03:00:24Z",
       "privacy": "public",
-      "views": 131,
+      "views": 132,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MDK0CXlX8Jk",
@@ -1731,7 +1724,7 @@
       "hook": "This snail's eyes are pulsing. And they are not its eyes anymore.",
       "published_at": "2026-11-04T19:00:29Z",
       "privacy": "public",
-      "views": 39,
+      "views": 38,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/i1aKZDNCR68"
@@ -1755,8 +1748,8 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 372,
-      "likes": 3,
+      "views": 410,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8"
     },
@@ -1803,7 +1796,7 @@
       "hook": "The deadliest cat on Earth fits in your two hands.",
       "published_at": "2026-11-04T21:00:20Z",
       "privacy": "public",
-      "views": 122,
+      "views": 124,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tc8k-oMf4pI"
@@ -1855,7 +1848,7 @@
       "hook": "The five longest-living cells in your body, ranked. Most of you is under ten years old.",
       "published_at": "2026-11-04T15:30:10Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9PNCyQB-l7I"
@@ -1879,7 +1872,7 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 18,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q"
@@ -1983,7 +1976,7 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 108,
+      "views": 120,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4"
@@ -2139,7 +2132,7 @@
       "hook": "Something in this snapper's mouth isn't a tongue.",
       "published_at": "2026-11-05T19:00:00Z",
       "privacy": "public",
-      "views": 12,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KTG3dAFep0I"
@@ -2243,8 +2236,8 @@
       "hook": "Something is biting perfect circles out of whales.",
       "published_at": "2026-11-05T19:20:34Z",
       "privacy": "public",
-      "views": 70,
-      "likes": 1,
+      "views": 84,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/cveaxx9Lg40"
     },
@@ -2267,8 +2260,8 @@
       "hook": "This shark kills with its tail, and it never has to bite.",
       "published_at": "2026-11-05T21:00:32Z",
       "privacy": "public",
-      "views": 37,
-      "likes": 0,
+      "views": 131,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho"
     },
@@ -2291,7 +2284,7 @@
       "hook": "This frog thinks it's about to eat lunch.",
       "published_at": "2026-11-05T21:30:13Z",
       "privacy": "public",
-      "views": 1,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE"
@@ -2613,11 +2606,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Something is eating whales alive off Argentina. It weighs two pounds.",
-      "published_at": "2026-11-06T02:45:00Z",
-      "privacy": "private",
+      "published_at": "2026-11-06T03:10:18Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/BiZ1q9XNjeE"
     },
     "jNVKvOMi3ko": {
@@ -3961,14 +3954,14 @@
       "subscribers_gained": 3
     },
     "k1T79ufoaX8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT31S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3977,11 +3970,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The search for the Titanic was a cover story.",
-      "published_at": "2026-11-06T02:47:15Z",
-      "privacy": "private",
+      "published_at": "2026-11-06T03:30:13Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/k1T79ufoaX8"
     },
     "YMC5dytg8rQ": {
@@ -4031,7 +4024,7 @@
       "hook": "A newly found spider doesn't chase ants. It launches them.",
       "published_at": "2026-11-05T12:30:24Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/cHsF4Dcrv30"
@@ -6267,7 +6260,7 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 949,
+      "views": 950,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs",
