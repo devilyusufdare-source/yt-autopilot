@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-06T11:57:52+00:00",
+  "updated_at": "2026-11-06T14:58:50+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
     "channel_views": 56167,
-    "video_count": 223
+    "video_count": 224
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/WDdIFBd2zAk"
+      "https://youtube.com/shorts/84sWYFT2Ivg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/WDdIFBd2zAk"
+      "https://youtube.com/shorts/84sWYFT2Ivg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/WDdIFBd2zAk"
+      "https://youtube.com/shorts/84sWYFT2Ivg"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 222,
-  "total_views": 57056,
+  "total_videos": 223,
+  "total_views": 57135,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -120,8 +120,8 @@
       "best_views": 1113
     },
     "space": {
-      "videos": 25,
-      "avg_views": 340,
+      "videos": 26,
+      "avg_views": 327,
       "best_views": 1513
     },
     "technology": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 206,
-      "avg_views": 244,
+      "videos": 207,
+      "avg_views": 243,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 136,
+      "videos": 137,
       "avg_views": 138
     },
     "en-US-BrianNeural": {
@@ -1754,7 +1754,7 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 509,
+      "views": 525,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8"
@@ -1802,8 +1802,8 @@
       "hook": "The deadliest cat on Earth fits in your two hands.",
       "published_at": "2026-11-04T21:00:20Z",
       "privacy": "public",
-      "views": 150,
-      "likes": 6,
+      "views": 152,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tc8k-oMf4pI"
     },
@@ -1882,6 +1882,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q"
+    },
+    "84sWYFT2Ivg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Longest Single Spaceflights Ever, Ranked (#1 Was Set in 1995)",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five longest single spaceflights ever, ranked. Number one has stood for thirty years.",
+      "published_at": "2026-11-06T14:58:42Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/84sWYFT2Ivg"
     },
     "vhWj8eW74zg": {
       "upload_status": "processed",
@@ -1982,7 +2006,7 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 196,
+      "views": 211,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4"
@@ -2138,7 +2162,7 @@
       "hook": "Something in this snapper's mouth isn't a tongue.",
       "published_at": "2026-11-05T19:00:00Z",
       "privacy": "public",
-      "views": 25,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KTG3dAFep0I"
@@ -2242,7 +2266,7 @@
       "hook": "Something is biting perfect circles out of whales.",
       "published_at": "2026-11-05T19:20:34Z",
       "privacy": "public",
-      "views": 177,
+      "views": 182,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/cveaxx9Lg40"
@@ -2266,8 +2290,8 @@
       "hook": "This shark kills with its tail, and it never has to bite.",
       "published_at": "2026-11-05T21:00:32Z",
       "privacy": "public",
-      "views": 332,
-      "likes": 2,
+      "views": 358,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho"
     },
@@ -2290,7 +2314,7 @@
       "hook": "This frog thinks it's about to eat lunch.",
       "published_at": "2026-11-05T21:30:13Z",
       "privacy": "public",
-      "views": 20,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE"
@@ -2506,7 +2530,7 @@
       "hook": "These ants climb grass at night and wait to be eaten.",
       "published_at": "2026-11-06T00:20:24Z",
       "privacy": "public",
-      "views": 21,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hneUmT8szE8"
@@ -2732,14 +2756,14 @@
       "subscribers_gained": 0
     },
     "WDdIFBd2zAk": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT42S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2748,11 +2772,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A porcupine has 30,000 quills. One animal found the gap.",
-      "published_at": "2026-11-06T11:57:41Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-06T12:20:26Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/WDdIFBd2zAk"
     },
     "oUmGCbVNL3k": {
@@ -4002,7 +4026,7 @@
       "hook": "The search for the Titanic was a cover story.",
       "published_at": "2026-11-06T03:30:13Z",
       "privacy": "public",
-      "views": 2,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/k1T79ufoaX8"
