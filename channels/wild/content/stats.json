@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T04:01:25+00:00",
+  "updated_at": "2026-11-06T14:10:18+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,13 +9,19 @@
     "video_count": 53
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/r3cUPK9Raeo"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/r3cUPK9Raeo"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/r3cUPK9Raeo"
+    ]
   },
   "retention": {
     "videos_with_data": 43,
@@ -32,7 +38,7 @@
       {
         "title": "What If You Lived Inside a Cave on the Moon?",
         "avg_view_percent": 344.7,
-        "views": 21
+        "views": 22
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
@@ -84,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 53,
-  "total_views": 12650,
+  "total_videos": 54,
+  "total_views": 12702,
   "by_topic": {
     "earth": {
       "videos": 7,
@@ -93,8 +99,8 @@
       "best_views": 1109
     },
     "space": {
-      "videos": 24,
-      "avg_views": 207,
+      "videos": 25,
+      "avg_views": 199,
       "best_views": 1281
     },
     "society": {
@@ -104,7 +110,7 @@
     },
     "animals": {
       "videos": 8,
-      "avg_views": 246,
+      "avg_views": 248,
       "best_views": 1426
     },
     "body": {
@@ -114,21 +120,21 @@
     },
     "technology": {
       "videos": 5,
-      "avg_views": 244,
+      "avg_views": 246,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 53,
-      "avg_views": 239,
+      "videos": 54,
+      "avg_views": 235,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 52,
-      "avg_views": 223
+      "videos": 53,
+      "avg_views": 220
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -945,7 +951,7 @@
       "hook": "What if your spacesuit helmet filled with water in space? It happened to a real astronaut.",
       "published_at": "2026-11-01T13:50:38Z",
       "privacy": "public",
-      "views": 186,
+      "views": 187,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/dwe3rjCTsoo",
@@ -1169,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 63,
+      "views": 66,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1337,7 +1343,7 @@
       "hook": "What if humans lived in a Moon cave? Scientists found one, and it's room temperature.",
       "published_at": "2026-11-03T21:20:29Z",
       "privacy": "public",
-      "views": 21,
+      "views": 22,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nOw9IX9Y6Fg",
@@ -1365,7 +1371,7 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 58,
+      "views": 66,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI"
@@ -1417,7 +1423,7 @@
       "hook": "What if a spaceship flew by exploding nuclear bombs behind it? America spent seven years building one.",
       "published_at": "2026-11-05T21:20:38Z",
       "privacy": "public",
-      "views": 13,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9VFV9DgN8Kw"
@@ -1441,10 +1447,34 @@
       "hook": "What if one snake species took over a whole island? Guam found out, and the forest went silent.",
       "published_at": "2026-11-06T03:10:25Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 0,
+      "views": 20,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU"
+    },
+    "r3cUPK9Raeo": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If We Sent Aliens a Message? We Did in 1974. It Hasn't Arrived",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
+      "published_at": "2026-11-06T14:10:13Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/r3cUPK9Raeo"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
@@ -1465,7 +1495,7 @@
       "hook": "What if part of a plane's wall blew off mid-flight? In 2024 it did. Two seats saved everyone.",
       "published_at": "2026-11-04T17:20:26Z",
       "privacy": "public",
-      "views": 153,
+      "views": 154,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/61k2NffqMAU"
@@ -1537,7 +1567,7 @@
       "hook": "What if a meter-long iron bar shot through your head? In 1848 a man sat up and talked.",
       "published_at": "2026-11-05T02:50:10Z",
       "privacy": "public",
-      "views": 4,
+      "views": 6,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wl6AjU6flcg"
@@ -1589,7 +1619,7 @@
       "hook": "What if one broken switch could strand you on the Moon? On Apollo 11, one nearly did.",
       "published_at": "2026-11-05T14:20:15Z",
       "privacy": "public",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JG_L7e77sH8"
@@ -1613,7 +1643,7 @@
       "hook": "What if you set off a nuclear bomb to put out a fire? In 1966, it worked.",
       "published_at": "2026-11-05T17:10:20Z",
       "privacy": "public",
-      "views": 15,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY"

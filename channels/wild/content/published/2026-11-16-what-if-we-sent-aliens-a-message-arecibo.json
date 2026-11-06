@@ -57,5 +57,21 @@
   ],
   "thumbnail_text": "WHAT IF WE MESSAGED ALIENS?",
   "priority": 7,
-  "first_comment": "Frank Drake designed the message with help from Carl Sagan, and it was really a demonstration for the telescope's reopening ceremony, not a serious attempt at contact. What would you put in the message? And what should we run through next?"
+  "first_comment": "Frank Drake designed the message with help from Carl Sagan, and it was really a demonstration for the telescope's reopening ceremony, not a serious attempt at contact. What would you put in the message? And what should we run through next?",
+  "youtube_id": "r3cUPK9Raeo",
+  "url": "https://youtube.com/shorts/r3cUPK9Raeo",
+  "uploaded_at": "2026-11-06T14:10:16+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-06T14:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 16,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#C4B5FD",
+  "duration_seconds": 46.5,
+  "style": "classic",
+  "kind": "shorts"
 }
