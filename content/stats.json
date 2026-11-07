@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-07T13:34:58+00:00",
+  "updated_at": "2026-11-07T14:48:22+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
     "channel_views": 58069,
-    "video_count": 233
+    "video_count": 234
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Ww1LdzP7oCk",
-      "https://youtube.com/shorts/5kHqm6dqHdk"
+      "https://youtube.com/shorts/hhXnndlGCz8",
+      "https://youtube.com/shorts/Ww1LdzP7oCk"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Ww1LdzP7oCk"
+      "https://youtube.com/shorts/hhXnndlGCz8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Ww1LdzP7oCk"
+      "https://youtube.com/shorts/hhXnndlGCz8"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 233,
-  "total_views": 58805,
+  "total_videos": 234,
+  "total_views": 58830,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -107,7 +107,7 @@
     },
     "animals": {
       "videos": 162,
-      "avg_views": 244,
+      "avg_views": 245,
       "best_views": 1507
     },
     "human body": {
@@ -116,8 +116,8 @@
       "best_views": 1384
     },
     "history": {
-      "videos": 13,
-      "avg_views": 146,
+      "videos": 14,
+      "avg_views": 136,
       "best_views": 1114
     },
     "space": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 217,
-      "avg_views": 240,
+      "videos": 218,
+      "avg_views": 239,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 147,
-      "avg_views": 140
+      "videos": 148,
+      "avg_views": 139
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1931,7 +1931,7 @@
       "hook": "The five longest single spaceflights ever, ranked. Number one has stood for thirty years.",
       "published_at": "2026-11-06T15:20:26Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/84sWYFT2Ivg"
@@ -2156,6 +2156,30 @@
       "shares": 1,
       "subscribers_gained": 1
     },
+    "hhXnndlGCz8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Oldest Businesses Still Running, Ranked (#1 Opened in the Year 578)",
+      "topic": "history",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five oldest businesses still open, ranked. Number one was 900 years old when Columbus sailed.",
+      "published_at": "2026-11-07T14:48:09Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/hhXnndlGCz8"
+    },
     "t5IFKjlXUd0": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -2331,7 +2355,7 @@
       "hook": "This shark kills with its tail, and it never has to bite.",
       "published_at": "2026-11-05T21:00:32Z",
       "privacy": "public",
-      "views": 914,
+      "views": 916,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho"
@@ -2571,7 +2595,7 @@
       "hook": "These ants climb grass at night and wait to be eaten.",
       "published_at": "2026-11-06T00:20:24Z",
       "privacy": "public",
-      "views": 55,
+      "views": 71,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hneUmT8szE8"
@@ -2679,7 +2703,7 @@
       "hook": "Something is eating whales alive off Argentina. It weighs two pounds.",
       "published_at": "2026-11-06T03:10:18Z",
       "privacy": "public",
-      "views": 29,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BiZ1q9XNjeE"
@@ -3359,7 +3383,7 @@
       "hook": "This parrot lands on sheep at night and starts digging.",
       "published_at": "2026-11-06T21:00:17Z",
       "privacy": "public",
-      "views": 5,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2sT1X-b0l0"
@@ -3463,7 +3487,7 @@
       "hook": "A pond freezes over. The goldfish inside get drunk.",
       "published_at": "2026-11-06T22:00:11Z",
       "privacy": "public",
-      "views": 26,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/An7jwtu8ucI"
@@ -3877,14 +3901,14 @@
       "subscribers_gained": 0
     },
     "Ww1LdzP7oCk": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4305,11 +4329,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "In 1876, it rained meat in Kentucky.",
-      "published_at": "2026-11-07T13:31:50Z",
-      "privacy": "private",
+      "published_at": "2026-11-07T14:00:17Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/5kHqm6dqHdk"
     },
     "YMC5dytg8rQ": {
