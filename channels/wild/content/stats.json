@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-07T02:47:23+00:00",
+  "updated_at": "2026-11-07T14:16:21+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 13,
+    "subscribers": 14,
     "channel_views": 12735,
-    "video_count": 57
+    "video_count": 58
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/ueBtcnj-Buc"
+      "https://youtube.com/shorts/3pXCccgL-0I"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/ueBtcnj-Buc"
+      "https://youtube.com/shorts/3pXCccgL-0I"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/ueBtcnj-Buc"
+      "https://youtube.com/shorts/3pXCccgL-0I"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 58,
-  "total_views": 12838,
+  "total_videos": 59,
+  "total_views": 13034,
   "by_topic": {
     "earth": {
       "videos": 7,
@@ -100,7 +100,7 @@
     },
     "space": {
       "videos": 26,
-      "avg_views": 194,
+      "avg_views": 198,
       "best_views": 1281
     },
     "society": {
@@ -109,8 +109,8 @@
       "best_views": 414
     },
     "animals": {
-      "videos": 8,
-      "avg_views": 249,
+      "videos": 9,
+      "avg_views": 222,
       "best_views": 1426
     },
     "body": {
@@ -120,20 +120,20 @@
     },
     "technology": {
       "videos": 7,
-      "avg_views": 185,
+      "avg_views": 199,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 58,
+      "videos": 59,
       "avg_views": 221,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 57,
+      "videos": 58,
       "avg_views": 207
     },
     "en-US-EricNeural": {
@@ -1119,7 +1119,7 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc",
@@ -1203,7 +1203,7 @@
       "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
       "published_at": "2026-11-02T21:10:15Z",
       "privacy": "public",
-      "views": 287,
+      "views": 288,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I",
@@ -1315,7 +1315,7 @@
       "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
       "published_at": "2026-11-03T19:20:06Z",
       "privacy": "public",
-      "views": 72,
+      "views": 73,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c",
@@ -1371,7 +1371,7 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 69,
+      "views": 71,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI",
@@ -1427,7 +1427,7 @@
       "hook": "What if a spaceship flew by exploding nuclear bombs behind it? America spent seven years building one.",
       "published_at": "2026-11-05T21:20:38Z",
       "privacy": "public",
-      "views": 24,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9VFV9DgN8Kw"
@@ -1451,7 +1451,7 @@
       "hook": "What if one snake species took over a whole island? Guam found out, and the forest went silent.",
       "published_at": "2026-11-06T03:10:25Z",
       "privacy": "public",
-      "views": 24,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU"
@@ -1475,8 +1475,8 @@
       "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
-      "views": 13,
-      "likes": 0,
+      "views": 30,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo"
     },
@@ -1499,8 +1499,8 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 41,
-      "likes": 2,
+      "views": 110,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM"
     },
@@ -1523,7 +1523,7 @@
       "hook": "What if a computer said five nuclear missiles were coming? On September 26th, 1983, one did.",
       "published_at": "2026-11-06T19:50:31Z",
       "privacy": "public",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BIt14NsOzWA"
@@ -1547,20 +1547,20 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 36,
-      "likes": 1,
+      "views": 97,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU"
     },
     "ueBtcnj-Buc": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT47S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1569,12 +1569,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if your whole town had to move three kilometers? Kiruna, Sweden, is doing it, church included.",
-      "published_at": "2026-11-07T02:47:19Z",
+      "published_at": "2026-11-07T03:20:14Z",
+      "privacy": "public",
+      "views": 6,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/ueBtcnj-Buc"
+    },
+    "3pXCccgL-0I": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If We Brought an Extinct Animal Back? We Did. It Lived 10 Minutes",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
+      "published_at": "2026-11-07T14:16:16Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/ueBtcnj-Buc"
+      "url": "https://youtube.com/shorts/3pXCccgL-0I"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
@@ -1623,7 +1647,7 @@
       "hook": "What if a new skyscraper could fall over in a storm? In 1978, one in Manhattan could.",
       "published_at": "2026-11-04T19:30:19Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6sP4tb9hKiw",
@@ -1759,8 +1783,8 @@
       "hook": "What if you set off a nuclear bomb to put out a fire? In 1966, it worked.",
       "published_at": "2026-11-05T17:10:20Z",
       "privacy": "public",
-      "views": 52,
-      "likes": 0,
+      "views": 81,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY"
     },
@@ -1783,7 +1807,7 @@
       "hook": "What if a country lost its vultures? India did. The birds weren't the only ones to die.",
       "published_at": "2026-11-05T19:30:37Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hy3xsXTwQhA"
