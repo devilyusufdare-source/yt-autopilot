@@ -4,20 +4,21 @@ name: First comments
 # since the last run, for both channels. Records the comment id in the video's record.
 on:
   schedule:
-    - cron: "50 * * * *"
+    - cron: "50 */2 * * *"   # 7 Nov: every 2 h (each video run also posts pending comments)
   workflow_dispatch:
 
 permissions:
   contents: write
 
-concurrency:
-  group: daily-video
-  cancel-in-progress: false
-
 jobs:
   comments:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    # 7 Nov: each channel has its own queue (channel 1's runs were being cancelled when 5 workflows shared one;
+    # the channels write separate folders, so their runs never touch the same files)
+    concurrency:
+      group: ${{ matrix.channel == 'wild' && 'daily-video-wild' || 'daily-video' }}
+      cancel-in-progress: false
     strategy:
       max-parallel: 1
       matrix:
@@ -45,7 +46,7 @@ jobs:
         run: |
           git config user.name "yt-autopilot"
           git config user.email "yt-autopilot@users.noreply.github.com"
-          git add content/published channels/*/content/published
+          git add ${{ matrix.channel == 'wild' && 'channels/wild/content/published' || 'content/published' }}
           if git diff --cached --quiet; then echo "nothing to commit"; else
             git commit -m "records: first comments"
             git pull --rebase origin "${GITHUB_REF_NAME}"

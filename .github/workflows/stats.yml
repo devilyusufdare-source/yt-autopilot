@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: daily-video
+  group: ${{ inputs.channel == 'wild' && 'daily-video-wild' || 'daily-video' }}
   cancel-in-progress: false
 
 jobs:
