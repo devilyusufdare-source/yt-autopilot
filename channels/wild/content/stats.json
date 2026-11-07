@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-07T14:16:21+00:00",
+  "updated_at": "2026-11-07T17:08:46+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 14,
     "channel_views": 12735,
-    "video_count": 58
+    "video_count": 59
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/3pXCccgL-0I"
+      "https://youtube.com/shorts/hv6S-MG-epc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/3pXCccgL-0I"
+      "https://youtube.com/shorts/hv6S-MG-epc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/3pXCccgL-0I"
+      "https://youtube.com/shorts/hv6S-MG-epc"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 59,
-  "total_views": 13034,
+  "total_videos": 60,
+  "total_views": 13065,
   "by_topic": {
     "earth": {
       "videos": 7,
@@ -100,7 +100,7 @@
     },
     "space": {
       "videos": 26,
-      "avg_views": 198,
+      "avg_views": 199,
       "best_views": 1281
     },
     "society": {
@@ -119,22 +119,22 @@
       "best_views": 498
     },
     "technology": {
-      "videos": 7,
-      "avg_views": 199,
+      "videos": 8,
+      "avg_views": 174,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 59,
-      "avg_views": 221,
+      "videos": 60,
+      "avg_views": 218,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 58,
-      "avg_views": 207
+      "videos": 59,
+      "avg_views": 204
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1427,7 +1427,7 @@
       "hook": "What if a spaceship flew by exploding nuclear bombs behind it? America spent seven years building one.",
       "published_at": "2026-11-05T21:20:38Z",
       "privacy": "public",
-      "views": 27,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9VFV9DgN8Kw"
@@ -1451,7 +1451,7 @@
       "hook": "What if one snake species took over a whole island? Guam found out, and the forest went silent.",
       "published_at": "2026-11-06T03:10:25Z",
       "privacy": "public",
-      "views": 25,
+      "views": 27,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU"
@@ -1475,7 +1475,7 @@
       "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
-      "views": 30,
+      "views": 46,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo"
@@ -1499,7 +1499,7 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 110,
+      "views": 116,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM"
@@ -1577,6 +1577,30 @@
       "url": "https://youtube.com/shorts/ueBtcnj-Buc"
     },
     "3pXCccgL-0I": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT45S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If We Brought an Extinct Animal Back? We Did. It Lived 10 Minutes",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
+      "published_at": "2026-11-07T14:50:17Z",
+      "privacy": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/3pXCccgL-0I"
+    },
+    "hv6S-MG-epc": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -1588,17 +1612,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If We Brought an Extinct Animal Back? We Did. It Lived 10 Minutes",
-      "topic": "animals",
+      "title": "What If a Bomber Dropped Two H-Bombs on North Carolina? In 1961 One Did",
+      "topic": "technology",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
-      "published_at": "2026-11-07T14:16:16Z",
+      "hook": "What if a B-52 dropped two hydrogen bombs on North Carolina? In 1961, one did.",
+      "published_at": "2026-11-07T17:08:42Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/3pXCccgL-0I"
+      "url": "https://youtube.com/shorts/hv6S-MG-epc"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
@@ -1783,7 +1807,7 @@
       "hook": "What if you set off a nuclear bomb to put out a fire? In 1966, it worked.",
       "published_at": "2026-11-05T17:10:20Z",
       "privacy": "public",
-      "views": 81,
+      "views": 83,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY"
