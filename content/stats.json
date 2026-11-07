@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-07T18:43:12+00:00",
+  "updated_at": "2026-11-07T19:45:16+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
     "channel_views": 58791,
-    "video_count": 237
+    "video_count": 238
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/3jLJ84OAdqg",
-      "https://youtube.com/shorts/EEYpF25ly4o"
+      "https://youtube.com/shorts/EEYpF25ly4o",
+      "https://youtube.com/shorts/zUdEfphF1O8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/EEYpF25ly4o"
+      "https://youtube.com/shorts/zUdEfphF1O8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/EEYpF25ly4o"
+      "https://youtube.com/shorts/zUdEfphF1O8"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 237,
-  "total_views": 59053,
+  "total_videos": 238,
+  "total_views": 59075,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 165,
-      "avg_views": 241,
+      "videos": 166,
+      "avg_views": 240,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 221,
-      "avg_views": 236,
+      "videos": 222,
+      "avg_views": 235,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 151,
-      "avg_views": 138
+      "videos": 152,
+      "avg_views": 137
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1903,7 +1903,7 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 29,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q",
@@ -2227,7 +2227,7 @@
       "hook": "Something in this snapper's mouth isn't a tongue.",
       "published_at": "2026-11-05T19:00:00Z",
       "privacy": "public",
-      "views": 49,
+      "views": 50,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/KTG3dAFep0I"
@@ -2251,7 +2251,7 @@
       "hook": "This mother fish is guarding her babies' killers.",
       "published_at": "2026-11-05T20:00:39Z",
       "privacy": "public",
-      "views": 115,
+      "views": 114,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI"
@@ -2331,7 +2331,7 @@
       "hook": "Something is biting perfect circles out of whales.",
       "published_at": "2026-11-05T19:20:34Z",
       "privacy": "public",
-      "views": 644,
+      "views": 610,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/cveaxx9Lg40"
@@ -2379,7 +2379,7 @@
       "hook": "This frog thinks it's about to eat lunch.",
       "published_at": "2026-11-05T21:30:13Z",
       "privacy": "public",
-      "views": 108,
+      "views": 102,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE"
@@ -2595,7 +2595,7 @@
       "hook": "These ants climb grass at night and wait to be eaten.",
       "published_at": "2026-11-06T00:20:24Z",
       "privacy": "public",
-      "views": 89,
+      "views": 96,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hneUmT8szE8"
@@ -2703,7 +2703,7 @@
       "hook": "Something is eating whales alive off Argentina. It weighs two pounds.",
       "published_at": "2026-11-06T03:10:18Z",
       "privacy": "public",
-      "views": 40,
+      "views": 45,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/BiZ1q9XNjeE"
@@ -3027,7 +3027,7 @@
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
       "published_at": "2026-11-06T19:00:08Z",
       "privacy": "public",
-      "views": 93,
+      "views": 117,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro"
@@ -3275,7 +3275,7 @@
       "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
       "published_at": "2026-11-06T20:00:12Z",
       "privacy": "public",
-      "views": 31,
+      "views": 33,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nddxV9p7zlo"
@@ -3487,7 +3487,7 @@
       "hook": "A pond freezes over. The goldfish inside get drunk.",
       "published_at": "2026-11-06T22:00:11Z",
       "privacy": "public",
-      "views": 37,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/An7jwtu8ucI"
@@ -3763,7 +3763,7 @@
       "hook": "A snake bit this scientist. He took notes.",
       "published_at": "2026-11-07T00:10:24Z",
       "privacy": "public",
-      "views": 10,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BqSWxMd40wg"
@@ -3815,7 +3815,7 @@
       "hook": "Songbirds migrate at night to avoid hawks. Something else is waiting.",
       "published_at": "2026-11-07T12:10:31Z",
       "privacy": "public",
-      "views": 3,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_tgT8z8IjDw"
@@ -3867,7 +3867,7 @@
       "hook": "Since 2020, orcas have been sinking boats. Nobody has been hurt.",
       "published_at": "2026-11-07T12:30:15Z",
       "privacy": "public",
-      "views": 4,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/fSLyqcdW5yo"
@@ -3919,7 +3919,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 3,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
@@ -3993,22 +3993,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
-      "published_at": "2026-11-07T17:43:43Z",
-      "privacy": "private",
+      "published_at": "2026-11-07T19:00:21Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg"
     },
     "EEYpF25ly4o": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT39S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4079,6 +4079,30 @@
       "avg_view_percent": 40.0,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "zUdEfphF1O8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The Biggest Chimp Group Ever Known Split in Two. Then the Killing Began",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The largest chimpanzee group ever known tore itself in two.",
+      "published_at": "2026-11-07T19:45:07Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/zUdEfphF1O8"
     },
     "qH9gd2N8yTg": {
       "upload_status": "processed",
@@ -4403,7 +4427,7 @@
       "hook": "In 1876, it rained meat in Kentucky.",
       "published_at": "2026-11-07T14:00:17Z",
       "privacy": "public",
-      "views": 1,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5kHqm6dqHdk"
