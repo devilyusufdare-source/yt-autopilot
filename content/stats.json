@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-07T14:48:22+00:00",
+  "updated_at": "2026-11-07T16:19:51+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
-    "channel_views": 58069,
-    "video_count": 234
+    "channel_views": 58791,
+    "video_count": 236
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/hhXnndlGCz8",
-      "https://youtube.com/shorts/Ww1LdzP7oCk"
+      "https://youtube.com/shorts/hC-DTpNpqx8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/hhXnndlGCz8"
+      "https://youtube.com/shorts/hC-DTpNpqx8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/hhXnndlGCz8"
+      "https://youtube.com/shorts/hC-DTpNpqx8"
     ]
   },
   "retention": {
@@ -92,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 234,
-  "total_views": 58830,
+  "total_videos": 235,
+  "total_views": 58868,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 162,
-      "avg_views": 245,
+      "videos": 163,
+      "avg_views": 243,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 218,
-      "avg_views": 239,
+      "videos": 219,
+      "avg_views": 238,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 148,
-      "avg_views": 139
+      "videos": 149,
+      "avg_views": 138
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1931,7 +1930,7 @@
       "hook": "The five longest single spaceflights ever, ranked. Number one has stood for thirty years.",
       "published_at": "2026-11-06T15:20:26Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/84sWYFT2Ivg"
@@ -2035,7 +2034,7 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 394,
+      "views": 395,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4",
@@ -2157,14 +2156,14 @@
       "subscribers_gained": 1
     },
     "hhXnndlGCz8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT52S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2173,11 +2172,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five oldest businesses still open, ranked. Number one was 900 years old when Columbus sailed.",
-      "published_at": "2026-11-07T14:48:09Z",
-      "privacy": "private",
+      "published_at": "2026-11-07T15:30:14Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/hhXnndlGCz8"
     },
     "t5IFKjlXUd0": {
@@ -2595,7 +2594,7 @@
       "hook": "These ants climb grass at night and wait to be eaten.",
       "published_at": "2026-11-06T00:20:24Z",
       "privacy": "public",
-      "views": 71,
+      "views": 72,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hneUmT8szE8"
@@ -2703,7 +2702,7 @@
       "hook": "Something is eating whales alive off Argentina. It weighs two pounds.",
       "published_at": "2026-11-06T03:10:18Z",
       "privacy": "public",
-      "views": 27,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BiZ1q9XNjeE"
@@ -2839,7 +2838,7 @@
       "hook": "A porcupine has 30,000 quills. One animal found the gap.",
       "published_at": "2026-11-06T12:20:26Z",
       "privacy": "public",
-      "views": 30,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/WDdIFBd2zAk"
@@ -3027,7 +3026,7 @@
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
       "published_at": "2026-11-06T19:00:08Z",
       "privacy": "public",
-      "views": 64,
+      "views": 77,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro"
@@ -3275,7 +3274,7 @@
       "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
       "published_at": "2026-11-06T20:00:12Z",
       "privacy": "public",
-      "views": 25,
+      "views": 27,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nddxV9p7zlo"
@@ -3487,7 +3486,7 @@
       "hook": "A pond freezes over. The goldfish inside get drunk.",
       "published_at": "2026-11-06T22:00:11Z",
       "privacy": "public",
-      "views": 31,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/An7jwtu8ucI"
@@ -3763,7 +3762,7 @@
       "hook": "A snake bit this scientist. He took notes.",
       "published_at": "2026-11-07T00:10:24Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BqSWxMd40wg"
@@ -3815,7 +3814,7 @@
       "hook": "Songbirds migrate at night to avoid hawks. Something else is waiting.",
       "published_at": "2026-11-07T12:10:31Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_tgT8z8IjDw"
@@ -3867,7 +3866,7 @@
       "hook": "Since 2020, orcas have been sinking boats. Nobody has been hurt.",
       "published_at": "2026-11-07T12:30:15Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/fSLyqcdW5yo"
@@ -3917,12 +3916,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The slowest hunt ever filmed still ended with a kill.",
-      "published_at": "2026-11-07T13:34:45Z",
+      "published_at": "2026-11-07T15:00:39Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
+    },
+    "hC-DTpNpqx8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The Most Murderous Mammal on Earth Is the Meerkat",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Scientists ranked 1,024 mammals by murder. The winner is adorable.",
+      "published_at": "2026-11-07T16:19:42Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
+      "url": "https://youtube.com/shorts/hC-DTpNpqx8"
     },
     "D1RgFDxYIeU": {
       "upload_status": "processed",
@@ -4331,7 +4354,7 @@
       "hook": "In 1876, it rained meat in Kentucky.",
       "published_at": "2026-11-07T14:00:17Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5kHqm6dqHdk"
@@ -4383,7 +4406,7 @@
       "hook": "A newly found spider doesn't chase ants. It launches them.",
       "published_at": "2026-11-05T12:30:24Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/cHsF4Dcrv30"
