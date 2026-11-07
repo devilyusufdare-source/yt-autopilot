@@ -1,36 +1,35 @@
 {
-  "updated_at": "2026-11-07T20:46:11+00:00",
+  "updated_at": "2026-11-07T23:43:13+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
     "channel_views": 58791,
-    "video_count": 239
+    "video_count": 241
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/zUdEfphF1O8",
-      "https://youtube.com/shorts/BYOOrvQjLUo"
+      "https://youtube.com/shorts/KBYp_uwN89M"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/BYOOrvQjLUo"
+      "https://youtube.com/shorts/KBYp_uwN89M"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/BYOOrvQjLUo"
+      "https://youtube.com/shorts/KBYp_uwN89M"
     ]
   },
   "retention": {
     "videos_with_data": 213,
-    "avg_view_percent": 60.0,
+    "avg_view_percent": 59.9,
     "by_topic": {
       "psychology": 71.3,
       "science": 64.4,
-      "animals": 58.0,
+      "animals": 57.7,
       "human body": 80.9,
       "history": 53.2,
       "space": 66.0,
@@ -72,7 +71,7 @@
       {
         "title": "A Parasite Makes Ants Climb Grass at Night and Wait to Be Eaten",
         "avg_view_percent": 14.2,
-        "views": 99
+        "views": 106
       },
       {
         "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
@@ -82,7 +81,7 @@
       {
         "title": "This Fish's Tongue Isn't a Tongue. It's a Living Parasite",
         "avg_view_percent": 21.1,
-        "views": 49
+        "views": 58
       },
       {
         "title": "The Shortest War in History Lasted 38 Minutes",
@@ -92,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 239,
-  "total_views": 59197,
+  "total_videos": 240,
+  "total_views": 59466,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,7 +105,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 167,
+      "videos": 168,
       "avg_views": 239,
       "best_views": 1507
     },
@@ -117,7 +116,7 @@
     },
     "history": {
       "videos": 14,
-      "avg_views": 136,
+      "avg_views": 137,
       "best_views": 1114
     },
     "space": {
@@ -133,7 +132,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 223,
+      "videos": 224,
       "avg_views": 235,
       "over_1500": 3
     },
@@ -145,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 153,
-      "avg_views": 137
+      "videos": 154,
+      "avg_views": 138
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1903,7 +1902,7 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 29,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q",
@@ -1931,7 +1930,7 @@
       "hook": "The five longest single spaceflights ever, ranked. Number one has stood for thirty years.",
       "published_at": "2026-11-06T15:20:26Z",
       "privacy": "public",
-      "views": 10,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/84sWYFT2Ivg"
@@ -2231,7 +2230,7 @@
       "hook": "Something in this snapper's mouth isn't a tongue.",
       "published_at": "2026-11-05T19:00:00Z",
       "privacy": "public",
-      "views": 49,
+      "views": 58,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/KTG3dAFep0I",
@@ -2259,7 +2258,7 @@
       "hook": "This mother fish is guarding her babies' killers.",
       "published_at": "2026-11-05T20:00:39Z",
       "privacy": "public",
-      "views": 118,
+      "views": 126,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI",
@@ -2343,7 +2342,7 @@
       "hook": "Something is biting perfect circles out of whales.",
       "published_at": "2026-11-05T19:20:34Z",
       "privacy": "public",
-      "views": 732,
+      "views": 749,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/cveaxx9Lg40",
@@ -2399,7 +2398,7 @@
       "hook": "This frog thinks it's about to eat lunch.",
       "published_at": "2026-11-05T21:30:13Z",
       "privacy": "public",
-      "views": 102,
+      "views": 103,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE",
@@ -2623,7 +2622,7 @@
       "hook": "These ants climb grass at night and wait to be eaten.",
       "published_at": "2026-11-06T00:20:24Z",
       "privacy": "public",
-      "views": 99,
+      "views": 106,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hneUmT8szE8",
@@ -2735,7 +2734,7 @@
       "hook": "Something is eating whales alive off Argentina. It weighs two pounds.",
       "published_at": "2026-11-06T03:10:18Z",
       "privacy": "public",
-      "views": 40,
+      "views": 52,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/BiZ1q9XNjeE"
@@ -2871,7 +2870,7 @@
       "hook": "A porcupine has 30,000 quills. One animal found the gap.",
       "published_at": "2026-11-06T12:20:26Z",
       "privacy": "public",
-      "views": 40,
+      "views": 42,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/WDdIFBd2zAk"
@@ -3311,7 +3310,7 @@
       "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
       "published_at": "2026-11-06T20:00:12Z",
       "privacy": "public",
-      "views": 34,
+      "views": 40,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nddxV9p7zlo"
@@ -3499,7 +3498,7 @@
       "hook": "Pacific night fishermen fear a fish that never bites.",
       "published_at": "2026-11-06T21:40:27Z",
       "privacy": "public",
-      "views": 41,
+      "views": 47,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vvzQ8VmQ1Y"
@@ -3523,7 +3522,7 @@
       "hook": "A pond freezes over. The goldfish inside get drunk.",
       "published_at": "2026-11-06T22:00:11Z",
       "privacy": "public",
-      "views": 37,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/An7jwtu8ucI"
@@ -3799,7 +3798,7 @@
       "hook": "A snake bit this scientist. He took notes.",
       "published_at": "2026-11-07T00:10:24Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BqSWxMd40wg"
@@ -3851,7 +3850,7 @@
       "hook": "Songbirds migrate at night to avoid hawks. Something else is waiting.",
       "published_at": "2026-11-07T12:10:31Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_tgT8z8IjDw"
@@ -3903,7 +3902,7 @@
       "hook": "Since 2020, orcas have been sinking boats. Nobody has been hurt.",
       "published_at": "2026-11-07T12:30:15Z",
       "privacy": "public",
-      "views": 7,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/fSLyqcdW5yo"
@@ -3955,7 +3954,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 8,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
@@ -3979,7 +3978,7 @@
       "hook": "Scientists ranked 1,024 mammals by murder. The winner is adorable.",
       "published_at": "2026-11-07T16:50:10Z",
       "privacy": "public",
-      "views": 0,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hC-DTpNpqx8"
@@ -4031,8 +4030,8 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 143,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg"
     },
@@ -4055,7 +4054,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o"
@@ -4133,22 +4132,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The largest chimpanzee group ever known tore itself in two.",
-      "published_at": "2026-11-07T19:45:07Z",
-      "privacy": "private",
+      "published_at": "2026-11-07T21:00:34Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8"
     },
     "BYOOrvQjLUo": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4157,11 +4156,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This caterpillar wears the body parts of dead insects.",
-      "published_at": "2026-11-07T20:46:03Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-07T21:30:25Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/BYOOrvQjLUo"
     },
     "qH9gd2N8yTg": {
@@ -4192,6 +4191,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "KBYp_uwN89M": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Snake Doesn't Swallow Toads. It Cuts Them Open Instead",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This snake doesn't swallow its prey. It opens it.",
+      "published_at": "2026-11-07T23:43:02Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/KBYp_uwN89M"
+    },
     "a74rNzBmIfo": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -4215,8 +4238,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/a74rNzBmIfo",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 84.1,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 48.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4487,7 +4510,7 @@
       "hook": "In 1876, it rained meat in Kentucky.",
       "published_at": "2026-11-07T14:00:17Z",
       "privacy": "public",
-      "views": 5,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5kHqm6dqHdk"
@@ -4595,7 +4618,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 427,
+      "views": 428,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
