@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-07T17:08:46+00:00",
+  "updated_at": "2026-11-07T19:31:23+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 14,
-    "channel_views": 12735,
-    "video_count": 59
+    "channel_views": 12913,
+    "video_count": 60
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/hv6S-MG-epc"
+      "https://youtube.com/shorts/N7DiGn8Mexg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/hv6S-MG-epc"
+      "https://youtube.com/shorts/N7DiGn8Mexg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/hv6S-MG-epc"
+      "https://youtube.com/shorts/N7DiGn8Mexg"
     ]
   },
   "retention": {
@@ -90,17 +90,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 60,
-  "total_views": 13065,
+  "total_videos": 61,
+  "total_views": 13173,
   "by_topic": {
     "earth": {
       "videos": 7,
-      "avg_views": 430,
-      "best_views": 1109
+      "avg_views": 431,
+      "best_views": 1114
     },
     "space": {
-      "videos": 26,
-      "avg_views": 199,
+      "videos": 27,
+      "avg_views": 191,
       "best_views": 1281
     },
     "society": {
@@ -110,7 +110,7 @@
     },
     "animals": {
       "videos": 9,
-      "avg_views": 222,
+      "avg_views": 228,
       "best_views": 1426
     },
     "body": {
@@ -120,21 +120,21 @@
     },
     "technology": {
       "videos": 8,
-      "avg_views": 174,
+      "avg_views": 180,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 60,
-      "avg_views": 218,
+      "videos": 61,
+      "avg_views": 216,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 59,
-      "avg_views": 204
+      "videos": 60,
+      "avg_views": 202
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1109,
+      "views": 1114,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -1007,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1109,
+      "views": 1114,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1175,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 67,
+      "views": 68,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1523,7 +1523,7 @@
       "hook": "What if a computer said five nuclear missiles were coming? On September 26th, 1983, one did.",
       "published_at": "2026-11-06T19:50:31Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BIt14NsOzWA"
@@ -1547,7 +1547,7 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 97,
+      "views": 121,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU"
@@ -1595,20 +1595,20 @@
       "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
       "published_at": "2026-11-07T14:50:17Z",
       "privacy": "public",
-      "views": 2,
-      "likes": 0,
+      "views": 52,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I"
     },
     "hv6S-MG-epc": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT45S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1617,12 +1617,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if a B-52 dropped two hydrogen bombs on North Carolina? In 1961, one did.",
-      "published_at": "2026-11-07T17:08:42Z",
+      "published_at": "2026-11-07T17:40:28Z",
+      "privacy": "public",
+      "views": 4,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/hv6S-MG-epc"
+    },
+    "N7DiGn8Mexg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Fired a Gun in Space? The Bullet Could Come Back for You",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
+      "published_at": "2026-11-07T19:31:20Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/hv6S-MG-epc"
+      "url": "https://youtube.com/shorts/N7DiGn8Mexg"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
@@ -1727,7 +1751,7 @@
       "hook": "What if a meter-long iron bar shot through your head? In 1848 a man sat up and talked.",
       "published_at": "2026-11-05T02:50:10Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wl6AjU6flcg",
@@ -1807,7 +1831,7 @@
       "hook": "What if you set off a nuclear bomb to put out a fire? In 1966, it worked.",
       "published_at": "2026-11-05T17:10:20Z",
       "privacy": "public",
-      "views": 83,
+      "views": 104,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY"
@@ -1831,7 +1855,7 @@
       "hook": "What if a country lost its vultures? India did. The birds weren't the only ones to die.",
       "published_at": "2026-11-05T19:30:37Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hy3xsXTwQhA"
