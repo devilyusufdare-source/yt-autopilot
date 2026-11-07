@@ -1,0 +1,57 @@
+{
+  "id": "2027-07-20-what-if-every-bee-disappeared",
+  "format": "whatif",
+  "topic": "animals",
+  "title": "What If Every Bee Disappeared? Your Bread Would Survive, Your Coffee Wouldn't",
+  "scenes": [
+    {
+      "text": "What if every bee vanished tomorrow? Your bread would survive. Your coffee wouldn't.",
+      "keywords": "bees on flowers"
+    },
+    {
+      "text": "About 75 percent of the crop types we grow depend on pollinators to some extent. Very few depend on them completely.",
+      "keywords": "orchard blossoms"
+    },
+    {
+      "text": "Maize, wheat and rice do not need bees at all. Neither do cassava, peas or lentils.",
+      "keywords": "wheat field"
+    },
+    {
+      "text": "But cocoa, coffee, apples, avocados, kiwi and melons would drop, some of them a lot.",
+      "keywords": "coffee plantation"
+    },
+    {
+      "text": "Pollinators support about 35 percent of global food production by volume. Yields could fall roughly 5 to 8 percent overall.",
+      "keywords": "harvest crates fruit"
+    },
+    {
+      "text": "Not famine. Something quieter: a diet with far less fruit, fewer vegetables and nuts, and a lot more bread.",
+      "keywords": "supermarket produce aisle"
+    }
+  ],
+  "description": "What if every bee disappeared? About 75 percent of crop types depend on pollinators to some extent and they support about 35 percent of food production by volume.\nStaples like wheat, rice and maize do not rely on them, but fruits, nuts, coffee and cocoa would suffer, and global yields could fall roughly 5 to 8 percent according to a 2009 analysis.\nWhat should we run through next?",
+  "tags": [
+    "what if bees disappeared",
+    "bees extinct",
+    "pollinators",
+    "food crops",
+    "bee facts",
+    "what if",
+    "what would happen",
+    "science facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#bees",
+    "#animals"
+  ],
+  "sources": [
+    "https://ourworldindata.org/pollinator-dependence",
+    "https://www.fao.org/newsroom/story/Why-we-need-bees-for-a-nutritious-future"
+  ],
+  "thumbnail_text": "WHAT IF BEES VANISHED?",
+  "priority": 6,
+  "first_comment": "Which food would you miss first? Drop your own what-if below."
+}
