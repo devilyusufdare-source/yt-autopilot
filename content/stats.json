@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-06T23:46:10+00:00",
+  "updated_at": "2026-11-07T11:47:32+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 65,
-    "channel_views": 57143,
-    "video_count": 230
+    "channel_views": 58069,
+    "video_count": 231
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/BqSWxMd40wg"
+      "https://youtube.com/shorts/_tgT8z8IjDw",
+      "https://youtube.com/shorts/fSLyqcdW5yo"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/BqSWxMd40wg"
+      "https://youtube.com/shorts/fSLyqcdW5yo"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/BqSWxMd40wg"
+      "https://youtube.com/shorts/fSLyqcdW5yo"
     ]
   },
   "retention": {
@@ -29,7 +30,7 @@
     "by_topic": {
       "psychology": 71.3,
       "science": 64.4,
-      "animals": 59.1,
+      "animals": 59.2,
       "human body": 76.9,
       "history": 54.1,
       "space": 67.9,
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 229,
-  "total_views": 57913,
+  "total_videos": 231,
+  "total_views": 58743,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 159,
-      "avg_views": 243,
+      "videos": 161,
+      "avg_views": 246,
       "best_views": 1507
     },
     "human body": {
@@ -116,7 +117,7 @@
     },
     "history": {
       "videos": 12,
-      "avg_views": 158,
+      "avg_views": 159,
       "best_views": 1114
     },
     "space": {
@@ -132,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 213,
-      "avg_views": 240,
+      "videos": 215,
+      "avg_views": 242,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 143,
-      "avg_views": 138
+      "videos": 145,
+      "avg_views": 141
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -251,7 +252,7 @@
       "published_at": "2026-10-14T19:30:35Z",
       "privacy": "public",
       "views": 364,
-      "likes": 12,
+      "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/GmLlv8BjIu8",
       "avg_view_seconds": 15.0,
@@ -754,7 +755,7 @@
       "hook": "A rhino charges at 35 miles an hour.",
       "published_at": "2026-11-03T19:00:19Z",
       "privacy": "public",
-      "views": 298,
+      "views": 297,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw",
@@ -1902,7 +1903,7 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 25,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q",
@@ -1930,7 +1931,7 @@
       "hook": "The five longest single spaceflights ever, ranked. Number one has stood for thirty years.",
       "published_at": "2026-11-06T15:20:26Z",
       "privacy": "public",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/84sWYFT2Ivg"
@@ -2034,8 +2035,8 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 302,
-      "likes": 4,
+      "views": 394,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4",
       "avg_view_seconds": 11.0,
@@ -2062,7 +2063,7 @@
       "hook": "This cicada is missing a third of its body. It hasn't noticed.",
       "published_at": "2026-11-05T03:00:35Z",
       "privacy": "public",
-      "views": 20,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ci7IjPKSCfo",
@@ -2202,7 +2203,7 @@
       "hook": "Something in this snapper's mouth isn't a tongue.",
       "published_at": "2026-11-05T19:00:00Z",
       "privacy": "public",
-      "views": 37,
+      "views": 45,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KTG3dAFep0I"
@@ -2226,7 +2227,7 @@
       "hook": "This mother fish is guarding her babies' killers.",
       "published_at": "2026-11-05T20:00:39Z",
       "privacy": "public",
-      "views": 57,
+      "views": 94,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI"
@@ -2306,8 +2307,8 @@
       "hook": "Something is biting perfect circles out of whales.",
       "published_at": "2026-11-05T19:20:34Z",
       "privacy": "public",
-      "views": 277,
-      "likes": 6,
+      "views": 526,
+      "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/cveaxx9Lg40"
     },
@@ -2330,8 +2331,8 @@
       "hook": "This shark kills with its tail, and it never has to bite.",
       "published_at": "2026-11-05T21:00:32Z",
       "privacy": "public",
-      "views": 694,
-      "likes": 4,
+      "views": 914,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho"
     },
@@ -2406,7 +2407,7 @@
       "hook": "This spider mother is cooking herself for dinner.",
       "published_at": "2026-11-05T21:50:33Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUQJVqXc1zI"
@@ -2570,7 +2571,7 @@
       "hook": "These ants climb grass at night and wait to be eaten.",
       "published_at": "2026-11-06T00:20:24Z",
       "privacy": "public",
-      "views": 33,
+      "views": 68,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hneUmT8szE8"
@@ -2678,7 +2679,7 @@
       "hook": "Something is eating whales alive off Argentina. It weighs two pounds.",
       "published_at": "2026-11-06T03:10:18Z",
       "privacy": "public",
-      "views": 2,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BiZ1q9XNjeE"
@@ -2814,7 +2815,7 @@
       "hook": "A porcupine has 30,000 quills. One animal found the gap.",
       "published_at": "2026-11-06T12:20:26Z",
       "privacy": "public",
-      "views": 20,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/WDdIFBd2zAk"
@@ -2894,7 +2895,7 @@
       "hook": "The five biggest nuclear explosions ever, ranked. Hiroshima would not even register on this chart.",
       "published_at": "2026-11-05T16:30:16Z",
       "privacy": "public",
-      "views": 31,
+      "views": 39,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/invXvnyg-AY"
@@ -3002,7 +3003,7 @@
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
       "published_at": "2026-11-06T19:00:08Z",
       "privacy": "public",
-      "views": 2,
+      "views": 60,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro"
@@ -3222,7 +3223,7 @@
       "hook": "In 1999, a tornado hit 302 miles an hour. The fastest wind ever measured.",
       "published_at": "2026-10-21T13:30:38Z",
       "privacy": "public",
-      "views": 24,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q",
@@ -3250,8 +3251,8 @@
       "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
       "published_at": "2026-11-06T20:00:12Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 12,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nddxV9p7zlo"
     },
@@ -3358,7 +3359,7 @@
       "hook": "This parrot lands on sheep at night and starts digging.",
       "published_at": "2026-11-06T21:00:17Z",
       "privacy": "public",
-      "views": 0,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2sT1X-b0l0"
@@ -3438,9 +3439,9 @@
       "hook": "Pacific night fishermen fear a fish that never bites.",
       "published_at": "2026-11-06T21:40:27Z",
       "privacy": "public",
-      "views": 0,
+      "views": 20,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/0vvzQ8VmQ1Y"
     },
     "An7jwtu8ucI": {
@@ -3462,7 +3463,7 @@
       "hook": "A pond freezes over. The goldfish inside get drunk.",
       "published_at": "2026-11-06T22:00:11Z",
       "privacy": "public",
-      "views": 0,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/An7jwtu8ucI"
@@ -3720,14 +3721,14 @@
       "subscribers_gained": 0
     },
     "BqSWxMd40wg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT44S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3736,11 +3737,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A snake bit this scientist. He took notes.",
-      "published_at": "2026-11-06T23:46:01Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-07T00:10:24Z",
+      "privacy": "public",
+      "views": 5,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/BqSWxMd40wg"
     },
     "WXZ7kpLm8Bc": {
@@ -3771,6 +3772,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "_tgT8z8IjDw": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT40S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Europe's Biggest Bat Hunts Songbirds in the Dark, a Kilometre Up",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Songbirds migrate at night to avoid hawks. Something else is waiting.",
+      "published_at": "2026-11-07T11:45:08Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/_tgT8z8IjDw"
+    },
     "Z-nWJgNZMZM": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -3798,6 +3823,30 @@
       "avg_view_percent": 29.2,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "fSLyqcdW5yo": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Orcas Keep Sinking Sailboats Off Spain, and Never Touch the Crew",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Since 2020, orcas have been sinking boats. Nobody has been hurt.",
+      "published_at": "2026-11-07T11:47:22Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/fSLyqcdW5yo"
     },
     "LquJ2hMdwYI": {
       "upload_status": "processed",
@@ -4210,8 +4259,8 @@
       "hook": "The search for the Titanic was a cover story.",
       "published_at": "2026-11-06T03:30:13Z",
       "privacy": "public",
-      "views": 9,
-      "likes": 0,
+      "views": 12,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k1T79ufoaX8"
     },
@@ -4262,7 +4311,7 @@
       "hook": "A newly found spider doesn't chase ants. It launches them.",
       "published_at": "2026-11-05T12:30:24Z",
       "privacy": "public",
-      "views": 11,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/cHsF4Dcrv30"
@@ -4314,7 +4363,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 424,
+      "views": 427,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -5350,7 +5399,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 19,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
@@ -5495,7 +5544,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 61.3,
+      "avg_view_percent": 62.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5971,7 +6020,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 42.9,
+      "avg_view_percent": 43.0,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -6050,7 +6099,7 @@
       "hook": "This wasp doesn't kill a tarantula. It does something worse.",
       "published_at": "2026-11-01T15:10:07Z",
       "privacy": "public",
-      "views": 112,
+      "views": 114,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0",
@@ -6218,7 +6267,7 @@
       "hook": "This bird can fake a whole flock of panicking birds.",
       "published_at": "2026-11-02T00:10:24Z",
       "privacy": "public",
-      "views": 33,
+      "views": 36,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w85RZwds4x4",
@@ -6302,7 +6351,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 68,
+      "views": 69,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM",
@@ -6358,7 +6407,7 @@
       "hook": "A bird buries thirty thousand seeds. It never writes down where.",
       "published_at": "2026-11-02T19:00:16Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TxValGbuqZU",
@@ -6554,7 +6603,7 @@
       "hook": "This snake makes fish run away from it. And they swim straight into its mouth.",
       "published_at": "2026-11-03T15:30:28Z",
       "privacy": "public",
-      "views": 486,
+      "views": 485,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/KS48QzMQ-QI",
