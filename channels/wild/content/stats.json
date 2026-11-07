@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-06T21:08:30+00:00",
+  "updated_at": "2026-11-07T02:47:23+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 13,
-    "channel_views": 12703,
-    "video_count": 56
+    "channel_views": 12735,
+    "video_count": 57
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/h8DGqyZZFTU"
+      "https://youtube.com/shorts/ueBtcnj-Buc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/h8DGqyZZFTU"
+      "https://youtube.com/shorts/ueBtcnj-Buc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/h8DGqyZZFTU"
+      "https://youtube.com/shorts/ueBtcnj-Buc"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 57,
-  "total_views": 12735,
+  "total_videos": 58,
+  "total_views": 12838,
   "by_topic": {
     "earth": {
       "videos": 7,
@@ -100,12 +100,12 @@
     },
     "space": {
       "videos": 26,
-      "avg_views": 193,
+      "avg_views": 194,
       "best_views": 1281
     },
     "society": {
       "videos": 4,
-      "avg_views": 161,
+      "avg_views": 162,
       "best_views": 414
     },
     "animals": {
@@ -119,22 +119,22 @@
       "best_views": 498
     },
     "technology": {
-      "videos": 6,
-      "avg_views": 206,
+      "videos": 7,
+      "avg_views": 185,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 57,
-      "avg_views": 223,
+      "videos": 58,
+      "avg_views": 221,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 56,
-      "avg_views": 209
+      "videos": 57,
+      "avg_views": 207
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1119,7 +1119,7 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 25,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc",
@@ -1175,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 66,
+      "views": 67,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1427,7 +1427,7 @@
       "hook": "What if a spaceship flew by exploding nuclear bombs behind it? America spent seven years building one.",
       "published_at": "2026-11-05T21:20:38Z",
       "privacy": "public",
-      "views": 22,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9VFV9DgN8Kw"
@@ -1451,7 +1451,7 @@
       "hook": "What if one snake species took over a whole island? Guam found out, and the forest went silent.",
       "published_at": "2026-11-06T03:10:25Z",
       "privacy": "public",
-      "views": 23,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU"
@@ -1475,7 +1475,7 @@
       "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
-      "views": 6,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo"
@@ -1499,8 +1499,8 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 8,
-      "likes": 1,
+      "views": 41,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM"
     },
@@ -1523,12 +1523,36 @@
       "hook": "What if a computer said five nuclear missiles were coming? On September 26th, 1983, one did.",
       "published_at": "2026-11-06T19:50:31Z",
       "privacy": "public",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BIt14NsOzWA"
     },
     "h8DGqyZZFTU": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT46S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Freight Train Ran Away With Nobody Aboard? Ohio, 2001",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
+      "published_at": "2026-11-06T21:20:30Z",
+      "privacy": "public",
+      "views": 36,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/h8DGqyZZFTU"
+    },
+    "ueBtcnj-Buc": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1540,17 +1564,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If a Freight Train Ran Away With Nobody Aboard? Ohio, 2001",
+      "title": "What If a Whole Town Had to Move? Kiruna Is, Church Included",
       "topic": "technology",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
-      "published_at": "2026-11-06T21:08:25Z",
+      "hook": "What if your whole town had to move three kilometers? Kiruna, Sweden, is doing it, church included.",
+      "published_at": "2026-11-07T02:47:19Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/h8DGqyZZFTU"
+      "url": "https://youtube.com/shorts/ueBtcnj-Buc"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
@@ -1735,7 +1759,7 @@
       "hook": "What if you set off a nuclear bomb to put out a fire? In 1966, it worked.",
       "published_at": "2026-11-05T17:10:20Z",
       "privacy": "public",
-      "views": 28,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY"
@@ -1759,7 +1783,7 @@
       "hook": "What if a country lost its vultures? India did. The birds weren't the only ones to die.",
       "published_at": "2026-11-05T19:30:37Z",
       "privacy": "public",
-      "views": 4,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hy3xsXTwQhA"
