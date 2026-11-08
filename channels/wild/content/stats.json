@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-11-08T04:01:20+00:00",
+  "updated_at": "2026-11-08T14:22:24+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
-    "channel_views": 12913,
+    "channel_views": 13191,
     "video_count": 63
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/6HSGoaRjPLU"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/6HSGoaRjPLU"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/6HSGoaRjPLU"
+    ]
   },
   "retention": {
     "videos_with_data": 53,
@@ -32,7 +38,7 @@
       {
         "title": "What If You Lived Inside a Cave on the Moon?",
         "avg_view_percent": 281.4,
-        "views": 24
+        "views": 25
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
@@ -59,7 +65,7 @@
       {
         "title": "What If a Country Lost Its Vultures? India Did. 500,000 People Died",
         "avg_view_percent": 10.9,
-        "views": 5
+        "views": 7
       },
       {
         "title": "What If an Animal Floated in Open Space? Tardigrades Did",
@@ -84,17 +90,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 63,
-  "total_views": 13984,
+  "total_videos": 64,
+  "total_views": 14678,
   "by_topic": {
     "earth": {
       "videos": 9,
-      "avg_views": 402,
+      "avg_views": 458,
       "best_views": 1115
     },
     "space": {
       "videos": 27,
-      "avg_views": 195,
+      "avg_views": 198,
       "best_views": 1281
     },
     "society": {
@@ -103,9 +109,9 @@
       "best_views": 414
     },
     "animals": {
-      "videos": 9,
-      "avg_views": 236,
-      "best_views": 1426
+      "videos": 10,
+      "avg_views": 220,
+      "best_views": 1428
     },
     "body": {
       "videos": 6,
@@ -114,21 +120,21 @@
     },
     "technology": {
       "videos": 8,
-      "avg_views": 184,
+      "avg_views": 190,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 63,
-      "avg_views": 222,
+      "videos": 64,
+      "avg_views": 229,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 62,
-      "avg_views": 209
+      "videos": 63,
+      "avg_views": 216
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -139,7 +145,7 @@
     {
       "title": "What If Every Mosquito Went Extinct?",
       "topic": "animals",
-      "views": 1426,
+      "views": 1428,
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this."
     },
     {
@@ -173,6 +179,12 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
+      "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
+      "topic": "earth",
+      "views": 671,
+      "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
+    },
+    {
       "title": "What If You Never Slept Again?",
       "topic": "body",
       "views": 498,
@@ -185,16 +197,10 @@
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
     },
     {
-      "title": "What If the Sun Went Out Right Now?",
-      "topic": "space",
-      "views": 427,
-      "hook": "What if the Sun switched off right now? You wouldn't know for eight minutes."
-    },
-    {
-      "title": "What If Everyone on Earth Jumped at the Same Time?",
-      "topic": "society",
-      "views": 414,
-      "hook": "What if all eight billion people jumped at the same moment? Earth would move. Barely."
+      "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
+      "topic": "earth",
+      "views": 434,
+      "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     }
   ],
   "videos": {
@@ -329,7 +335,7 @@
       "hook": "What if every mosquito on Earth went extinct tomorrow? Scientists have actually studied this.",
       "published_at": "2026-10-24T21:00:32Z",
       "privacy": "public",
-      "views": 1426,
+      "views": 1428,
       "likes": 27,
       "comments": 4,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg",
@@ -917,7 +923,7 @@
       "hook": "What if a mouse fell off a skyscraper? A rat wouldn't walk away. A mouse might.",
       "published_at": "2026-11-01T02:40:17Z",
       "privacy": "public",
-      "views": 123,
+      "views": 124,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DV-7AuiUc9E",
@@ -1309,7 +1315,7 @@
       "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
       "published_at": "2026-11-03T19:20:06Z",
       "privacy": "public",
-      "views": 74,
+      "views": 75,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c",
@@ -1337,7 +1343,7 @@
       "hook": "What if humans lived in a Moon cave? Scientists found one, and it's room temperature.",
       "published_at": "2026-11-03T21:20:29Z",
       "privacy": "public",
-      "views": 24,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nOw9IX9Y6Fg",
@@ -1477,7 +1483,7 @@
       "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
-      "views": 62,
+      "views": 93,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo"
@@ -1501,7 +1507,7 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 160,
+      "views": 189,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM"
@@ -1549,8 +1555,8 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 138,
-      "likes": 2,
+      "views": 181,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU"
     },
@@ -1573,7 +1579,7 @@
       "hook": "What if your whole town had to move three kilometers? Kiruna, Sweden, is doing it, church included.",
       "published_at": "2026-11-07T03:20:14Z",
       "privacy": "public",
-      "views": 10,
+      "views": 14,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ueBtcnj-Buc"
@@ -1597,7 +1603,7 @@
       "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
       "published_at": "2026-11-07T14:50:17Z",
       "privacy": "public",
-      "views": 124,
+      "views": 193,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I"
@@ -1621,7 +1627,7 @@
       "hook": "What if a B-52 dropped two hydrogen bombs on North Carolina? In 1961, one did.",
       "published_at": "2026-11-07T17:40:28Z",
       "privacy": "public",
-      "views": 11,
+      "views": 13,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hv6S-MG-epc"
@@ -1645,7 +1651,7 @@
       "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
       "published_at": "2026-11-07T21:00:38Z",
       "privacy": "public",
-      "views": 34,
+      "views": 42,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg"
@@ -1669,8 +1675,8 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 409,
-      "likes": 5,
+      "views": 671,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw"
     },
@@ -1693,10 +1699,34 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 197,
+      "views": 434,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ"
+    },
+    "6HSGoaRjPLU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Killer Bees Escaped a Lab? They Did in 1957, and They're Still Spreading",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
+      "published_at": "2026-11-08T14:22:19Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/6HSGoaRjPLU"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
@@ -1801,7 +1831,7 @@
       "hook": "What if a meter-long iron bar shot through your head? In 1848 a man sat up and talked.",
       "published_at": "2026-11-05T02:50:10Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wl6AjU6flcg",
@@ -1885,7 +1915,7 @@
       "hook": "What if you set off a nuclear bomb to put out a fire? In 1966, it worked.",
       "published_at": "2026-11-05T17:10:20Z",
       "privacy": "public",
-      "views": 104,
+      "views": 105,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY",
@@ -1913,7 +1943,7 @@
       "hook": "What if a country lost its vultures? India did. The birds weren't the only ones to die.",
       "published_at": "2026-11-05T19:30:37Z",
       "privacy": "public",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hy3xsXTwQhA",
