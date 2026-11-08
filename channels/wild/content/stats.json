@@ -1,44 +1,49 @@
 {
-  "updated_at": "2026-11-08T19:37:32+00:00",
+  "updated_at": "2026-11-08T21:20:39+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 14544,
-    "video_count": 65
+    "video_count": 66
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/BN6tRrVJNQs"
+      "https://youtube.com/shorts/li-SDvymGZQ"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/BN6tRrVJNQs"
+      "https://youtube.com/shorts/li-SDvymGZQ"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/BN6tRrVJNQs"
+      "https://youtube.com/shorts/li-SDvymGZQ"
     ]
   },
   "retention": {
-    "videos_with_data": 53,
-    "avg_view_percent": 63.6,
+    "videos_with_data": 58,
+    "avg_view_percent": 65.9,
     "by_topic": {
       "earth": 63.6,
-      "space": 70.0,
-      "society": 63.2,
-      "animals": 47.0,
+      "space": 74.9,
+      "society": 50.9,
+      "animals": 47.2,
       "body": 63.0,
-      "technology": 60.3
+      "technology": 66.9
     },
     "best": [
       {
         "title": "What If You Lived Inside a Cave on the Moon?",
         "avg_view_percent": 281.4,
         "views": 25
+      },
+      {
+        "title": "What If We Sent Aliens a Message? We Did in 1974. It Hasn't Arrived",
+        "avg_view_percent": 197.5,
+        "views": 99
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
@@ -54,17 +59,17 @@
         "title": "What If a Helicopter Flew on Mars? NASA's Flew 72 Times",
         "avg_view_percent": 95.1,
         "views": 3
-      },
-      {
-        "title": "What If the Sun Suddenly Disappeared?",
-        "avg_view_percent": 89.4,
-        "views": 179
       }
     ],
     "worst": [
       {
         "title": "What If a Country Lost Its Vultures? India Did. 500,000 People Died",
-        "avg_view_percent": 10.9,
+        "avg_view_percent": 10.5,
+        "views": 7
+      },
+      {
+        "title": "What If a Computer Said Five Nukes Were Coming? In 1983 One Did",
+        "avg_view_percent": 14.0,
         "views": 7
       },
       {
@@ -81,26 +86,21 @@
         "title": "What If the Whole Asteroid Belt Became One Planet?",
         "avg_view_percent": 31.5,
         "views": 286
-      },
-      {
-        "title": "What If You Traveled at 99 Percent the Speed of Light?",
-        "avg_view_percent": 35.1,
-        "views": 68
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 66,
-  "total_views": 15065,
+  "total_videos": 67,
+  "total_views": 15079,
   "by_topic": {
     "earth": {
       "videos": 9,
-      "avg_views": 487,
+      "avg_views": 488,
       "best_views": 1115
     },
     "space": {
-      "videos": 28,
-      "avg_views": 192,
+      "videos": 29,
+      "avg_views": 186,
       "best_views": 1281
     },
     "society": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 66,
-      "avg_views": 228,
+      "videos": 67,
+      "avg_views": 225,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 65,
-      "avg_views": 216
+      "videos": 66,
+      "avg_views": 213
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -187,7 +187,7 @@
     {
       "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
       "topic": "earth",
-      "views": 501,
+      "views": 510,
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
@@ -1179,8 +1179,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 55.1,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 56.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1208,7 +1208,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I",
       "avg_view_seconds": 25.0,
-      "avg_view_percent": 63.1,
+      "avg_view_percent": 62.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1375,8 +1375,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 53.5,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 51.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1431,8 +1431,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9VFV9DgN8Kw",
-      "avg_view_seconds": 26.0,
-      "avg_view_percent": 50.6,
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 51.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1459,8 +1459,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 36.3,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 37.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1486,7 +1486,11 @@
       "views": 99,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/r3cUPK9Raeo"
+      "url": "https://youtube.com/shorts/r3cUPK9Raeo",
+      "avg_view_seconds": 92.0,
+      "avg_view_percent": 197.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "San75yns9OM": {
       "upload_status": "processed",
@@ -1510,7 +1514,11 @@
       "views": 214,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/San75yns9OM"
+      "url": "https://youtube.com/shorts/San75yns9OM",
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 59.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "BIt14NsOzWA": {
       "upload_status": "processed",
@@ -1534,7 +1542,11 @@
       "views": 7,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/BIt14NsOzWA"
+      "url": "https://youtube.com/shorts/BIt14NsOzWA",
+      "avg_view_seconds": 6.0,
+      "avg_view_percent": 14.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "h8DGqyZZFTU": {
       "upload_status": "processed",
@@ -1558,7 +1570,11 @@
       "views": 204,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/h8DGqyZZFTU"
+      "url": "https://youtube.com/shorts/h8DGqyZZFTU",
+      "avg_view_seconds": 29.0,
+      "avg_view_percent": 64.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ueBtcnj-Buc": {
       "upload_status": "processed",
@@ -1579,10 +1595,14 @@
       "hook": "What if your whole town had to move three kilometers? Kiruna, Sweden, is doing it, church included.",
       "published_at": "2026-11-07T03:20:14Z",
       "privacy": "public",
-      "views": 17,
+      "views": 18,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/ueBtcnj-Buc"
+      "url": "https://youtube.com/shorts/ueBtcnj-Buc",
+      "avg_view_seconds": 43.0,
+      "avg_view_percent": 92.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "3pXCccgL-0I": {
       "upload_status": "processed",
@@ -1651,7 +1671,7 @@
       "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
       "published_at": "2026-11-07T21:00:38Z",
       "privacy": "public",
-      "views": 47,
+      "views": 51,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg"
@@ -1699,7 +1719,7 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 501,
+      "views": 510,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ"
@@ -1753,14 +1773,14 @@
       "url": "https://youtube.com/shorts/SO9aGqEpzdg"
     },
     "BN6tRrVJNQs": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT49S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1769,8 +1789,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if every police officer in a city walked out at once? Montreal tried it. Sixteen hours.",
-      "published_at": "2026-11-08T19:37:28Z",
-      "privacy": "private",
+      "published_at": "2026-11-08T21:00:01Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -1803,6 +1823,30 @@
       "avg_view_percent": 54.8,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "li-SDvymGZQ": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Nuclear Reactor Fell From Orbit? One Hit Canada in 1978",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a nuclear reactor fell from orbit? One did in 1978. The bill was never paid.",
+      "published_at": "2026-11-08T21:20:33Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/li-SDvymGZQ"
     },
     "6sP4tb9hKiw": {
       "upload_status": "processed",
@@ -1939,8 +1983,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JG_L7e77sH8",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 54.1,
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 64.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1967,8 +2011,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 37.5,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 47.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1996,7 +2040,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Hy3xsXTwQhA",
       "avg_view_seconds": 4.0,
-      "avg_view_percent": 10.9,
+      "avg_view_percent": 10.5,
       "shares": 0,
       "subscribers_gained": 0
     }
