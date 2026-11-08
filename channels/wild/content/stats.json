@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-08T17:14:50+00:00",
+  "updated_at": "2026-11-08T19:37:32+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 14544,
-    "video_count": 64
+    "video_count": 65
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/SO9aGqEpzdg"
+      "https://youtube.com/shorts/BN6tRrVJNQs"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/SO9aGqEpzdg"
+      "https://youtube.com/shorts/BN6tRrVJNQs"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/SO9aGqEpzdg"
+      "https://youtube.com/shorts/BN6tRrVJNQs"
     ]
   },
   "retention": {
@@ -90,27 +90,27 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 65,
-  "total_views": 14850,
+  "total_videos": 66,
+  "total_views": 15065,
   "by_topic": {
     "earth": {
       "videos": 9,
-      "avg_views": 473,
+      "avg_views": 487,
       "best_views": 1115
     },
     "space": {
       "videos": 28,
-      "avg_views": 191,
+      "avg_views": 192,
       "best_views": 1281
     },
     "society": {
-      "videos": 4,
-      "avg_views": 162,
+      "videos": 5,
+      "avg_views": 130,
       "best_views": 414
     },
     "animals": {
       "videos": 10,
-      "avg_views": 221,
+      "avg_views": 225,
       "best_views": 1428
     },
     "body": {
@@ -120,20 +120,20 @@
     },
     "technology": {
       "videos": 8,
-      "avg_views": 191,
+      "avg_views": 193,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 65,
+      "videos": 66,
       "avg_views": 228,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 64,
+      "videos": 65,
       "avg_views": 216
     },
     "en-US-EricNeural": {
@@ -181,20 +181,20 @@
     {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
-      "views": 803,
+      "views": 863,
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
+    },
+    {
+      "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
+      "topic": "earth",
+      "views": 501,
+      "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
       "title": "What If You Never Slept Again?",
       "topic": "body",
       "views": 498,
       "hook": "What if you never slept again? Day one feels fine. It isn't."
-    },
-    {
-      "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
-      "topic": "earth",
-      "views": 441,
-      "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
       "title": "What If All the Ice on Earth Melted?",
@@ -1119,7 +1119,7 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 24,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc",
@@ -1175,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 68,
+      "views": 69,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1455,7 +1455,7 @@
       "hook": "What if one snake species took over a whole island? Guam found out, and the forest went silent.",
       "published_at": "2026-11-06T03:10:25Z",
       "privacy": "public",
-      "views": 28,
+      "views": 29,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU",
@@ -1507,7 +1507,7 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 194,
+      "views": 214,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM"
@@ -1555,7 +1555,7 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 191,
+      "views": 204,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU"
@@ -1579,7 +1579,7 @@
       "hook": "What if your whole town had to move three kilometers? Kiruna, Sweden, is doing it, church included.",
       "published_at": "2026-11-07T03:20:14Z",
       "privacy": "public",
-      "views": 13,
+      "views": 17,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ueBtcnj-Buc"
@@ -1603,7 +1603,7 @@
       "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
       "published_at": "2026-11-07T14:50:17Z",
       "privacy": "public",
-      "views": 196,
+      "views": 220,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I"
@@ -1651,7 +1651,7 @@
       "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
       "published_at": "2026-11-07T21:00:38Z",
       "privacy": "public",
-      "views": 45,
+      "views": 47,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg"
@@ -1675,8 +1675,8 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 803,
-      "likes": 7,
+      "views": 863,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw"
     },
@@ -1699,7 +1699,7 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 441,
+      "views": 501,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ"
@@ -1723,12 +1723,36 @@
       "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
-      "views": 5,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU"
     },
     "SO9aGqEpzdg": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT48S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If We Rammed an Asteroid to Move It? NASA Did, and It Worked Too Well",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if we crashed a spacecraft into an asteroid to push it? NASA tried. It overshot.",
+      "published_at": "2026-11-08T17:40:28Z",
+      "privacy": "public",
+      "views": 10,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/SO9aGqEpzdg"
+    },
+    "BN6tRrVJNQs": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1740,17 +1764,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If We Rammed an Asteroid to Move It? NASA Did, and It Worked Too Well",
-      "topic": "space",
+      "title": "What If Every Police Officer in a City Walked Out for a Day? Montreal Found Out in 1969",
+      "topic": "society",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if we crashed a spacecraft into an asteroid to push it? NASA tried. It overshot.",
-      "published_at": "2026-11-08T17:14:45Z",
+      "hook": "What if every police officer in a city walked out at once? Montreal tried it. Sixteen hours.",
+      "published_at": "2026-11-08T19:37:28Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/SO9aGqEpzdg"
+      "url": "https://youtube.com/shorts/BN6tRrVJNQs"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
