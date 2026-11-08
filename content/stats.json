@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-08T14:49:55+00:00",
+  "updated_at": "2026-11-08T16:19:51+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 69,
-    "channel_views": 59432,
-    "video_count": 245
+    "channel_views": 61333,
+    "video_count": 247
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/CnHe38sG9RE",
-      "https://youtube.com/shorts/dgNAPMvw7Y0"
+      "https://youtube.com/shorts/L9krOxCwGWg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/CnHe38sG9RE"
+      "https://youtube.com/shorts/L9krOxCwGWg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/CnHe38sG9RE"
+      "https://youtube.com/shorts/L9krOxCwGWg"
     ]
   },
   "retention": {
@@ -92,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 245,
-  "total_views": 61820,
+  "total_videos": 246,
+  "total_views": 62391,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 171,
-      "avg_views": 249,
+      "videos": 172,
+      "avg_views": 251,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 229,
-      "avg_views": 240,
+      "videos": 230,
+      "avg_views": 242,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 159,
-      "avg_views": 148
+      "videos": 160,
+      "avg_views": 151
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2465,14 +2464,14 @@
       "subscribers_gained": 0
     },
     "CnHe38sG9RE": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT51S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2481,11 +2480,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
-      "published_at": "2026-11-08T14:49:45Z",
-      "privacy": "private",
+      "published_at": "2026-11-08T15:40:11Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
     },
     "I0jRhK827UM": {
@@ -3087,7 +3086,7 @@
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
       "published_at": "2026-11-06T19:00:08Z",
       "privacy": "public",
-      "views": 212,
+      "views": 218,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro"
@@ -3335,7 +3334,7 @@
       "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
       "published_at": "2026-11-06T20:00:12Z",
       "privacy": "public",
-      "views": 59,
+      "views": 60,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nddxV9p7zlo"
@@ -3523,7 +3522,7 @@
       "hook": "Pacific night fishermen fear a fish that never bites.",
       "published_at": "2026-11-06T21:40:27Z",
       "privacy": "public",
-      "views": 65,
+      "views": 71,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vvzQ8VmQ1Y"
@@ -3927,7 +3926,7 @@
       "hook": "Since 2020, orcas have been sinking boats. Nobody has been hurt.",
       "published_at": "2026-11-07T12:30:15Z",
       "privacy": "public",
-      "views": 27,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/fSLyqcdW5yo"
@@ -3979,7 +3978,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 519,
+      "views": 591,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
@@ -4003,7 +4002,7 @@
       "hook": "Scientists ranked 1,024 mammals by murder. The winner is adorable.",
       "published_at": "2026-11-07T16:50:10Z",
       "privacy": "public",
-      "views": 42,
+      "views": 78,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hC-DTpNpqx8"
@@ -4055,7 +4054,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 516,
+      "views": 540,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg"
@@ -4079,7 +4078,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 98,
+      "views": 109,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o"
@@ -4159,8 +4158,8 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 229,
-      "likes": 1,
+      "views": 377,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8"
     },
@@ -4235,8 +4234,8 @@
       "hook": "This snake doesn't swallow its prey. It opens it.",
       "published_at": "2026-11-08T00:10:35Z",
       "privacy": "public",
-      "views": 733,
-      "likes": 13,
+      "views": 977,
+      "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/KBYp_uwN89M"
     },
@@ -4287,7 +4286,7 @@
       "hook": "Being swallowed whole isn't the end for this eel.",
       "published_at": "2026-11-08T02:50:10Z",
       "privacy": "public",
-      "views": 107,
+      "views": 124,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/_y6yTp7OsRM"
@@ -4339,7 +4338,7 @@
       "hook": "This spider turns its own web into a slingshot.",
       "published_at": "2026-11-08T12:10:07Z",
       "privacy": "public",
-      "views": 14,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM"
@@ -4389,11 +4388,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This bat finds its dinner by listening to love songs.",
-      "published_at": "2026-11-08T14:46:18Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-08T15:10:27Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/dgNAPMvw7Y0"
     },
     "0eDxP_Mfsoo": {
@@ -4423,6 +4422,30 @@
       "avg_view_percent": 46.5,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "L9krOxCwGWg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Hundreds of Beetle Larvae Pile Up to Fake a Female Bee",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A male bee tries to mate with this lump.",
+      "published_at": "2026-11-08T16:19:41Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/L9krOxCwGWg"
     },
     "_jeX-UKxfww": {
       "upload_status": "processed",
@@ -4631,7 +4654,7 @@
       "hook": "Astronauts left 96 bags of waste on the Moon.",
       "published_at": "2026-11-08T14:00:04Z",
       "privacy": "public",
-      "views": 4,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/4G6bpzVSVHQ"
@@ -6615,7 +6638,7 @@
       "hook": "There's a fish whose blood is clear. And it has no red blood cells at all.",
       "published_at": "2026-11-01T22:40:34Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UXcOCvbzdF8",
