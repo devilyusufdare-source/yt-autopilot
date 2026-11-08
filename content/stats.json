@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-08T13:30:03+00:00",
+  "updated_at": "2026-11-08T14:49:55+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 69,
     "channel_views": 59432,
-    "video_count": 244
+    "video_count": 245
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/4G6bpzVSVHQ"
+      "https://youtube.com/shorts/CnHe38sG9RE",
+      "https://youtube.com/shorts/dgNAPMvw7Y0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/4G6bpzVSVHQ"
+      "https://youtube.com/shorts/CnHe38sG9RE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/4G6bpzVSVHQ"
+      "https://youtube.com/shorts/CnHe38sG9RE"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 243,
-  "total_views": 61435,
+  "total_videos": 245,
+  "total_views": 61820,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 170,
-      "avg_views": 248,
+      "videos": 171,
+      "avg_views": 249,
       "best_views": 1507
     },
     "human body": {
@@ -121,19 +122,19 @@
     },
     "space": {
       "videos": 27,
-      "avg_views": 315,
+      "avg_views": 316,
       "best_views": 1513
     },
     "technology": {
-      "videos": 4,
-      "avg_views": 38,
+      "videos": 5,
+      "avg_views": 31,
       "best_views": 71
     }
   },
   "by_style": {
     "classic": {
-      "videos": 227,
-      "avg_views": 241,
+      "videos": 229,
+      "avg_views": 240,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +145,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 157,
+      "videos": 159,
       "avg_views": 148
     },
     "en-US-BrianNeural": {
@@ -978,7 +979,7 @@
       "hook": "Wombats poop cubes. Scientists finally figured out how.",
       "published_at": "2026-10-15T07:30:08Z",
       "privacy": "public",
-      "views": 1214,
+      "views": 1215,
       "likes": 28,
       "comments": 1,
       "url": "https://youtube.com/shorts/_iAc9-aQoR4",
@@ -1762,7 +1763,7 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 564,
+      "views": 565,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8",
@@ -1930,7 +1931,7 @@
       "hook": "The five longest single spaceflights ever, ranked. Number one has stood for thirty years.",
       "published_at": "2026-11-06T15:20:26Z",
       "privacy": "public",
-      "views": 20,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/84sWYFT2Ivg"
@@ -2178,7 +2179,7 @@
       "hook": "The five oldest businesses still open, ranked. Number one was 900 years old when Columbus sailed.",
       "published_at": "2026-11-07T15:30:14Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hhXnndlGCz8"
@@ -2462,6 +2463,30 @@
       "avg_view_percent": 0.0,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "CnHe38sG9RE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Heaviest Aircraft Ever Flown, Ranked (#1 Was Destroyed in 2022)",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
+      "published_at": "2026-11-08T14:49:45Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/CnHe38sG9RE"
     },
     "I0jRhK827UM": {
       "upload_status": "processed",
@@ -2870,7 +2895,7 @@
       "hook": "A porcupine has 30,000 quills. One animal found the gap.",
       "published_at": "2026-11-06T12:20:26Z",
       "privacy": "public",
-      "views": 48,
+      "views": 49,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/WDdIFBd2zAk"
@@ -3062,7 +3087,7 @@
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
       "published_at": "2026-11-06T19:00:08Z",
       "privacy": "public",
-      "views": 205,
+      "views": 212,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro"
@@ -3310,7 +3335,7 @@
       "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
       "published_at": "2026-11-06T20:00:12Z",
       "privacy": "public",
-      "views": 58,
+      "views": 59,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nddxV9p7zlo"
@@ -3498,7 +3523,7 @@
       "hook": "Pacific night fishermen fear a fish that never bites.",
       "published_at": "2026-11-06T21:40:27Z",
       "privacy": "public",
-      "views": 59,
+      "views": 65,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vvzQ8VmQ1Y"
@@ -3522,7 +3547,7 @@
       "hook": "A pond freezes over. The goldfish inside get drunk.",
       "published_at": "2026-11-06T22:00:11Z",
       "privacy": "public",
-      "views": 51,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/An7jwtu8ucI"
@@ -3850,7 +3875,7 @@
       "hook": "Songbirds migrate at night to avoid hawks. Something else is waiting.",
       "published_at": "2026-11-07T12:10:31Z",
       "privacy": "public",
-      "views": 13,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_tgT8z8IjDw"
@@ -3902,7 +3927,7 @@
       "hook": "Since 2020, orcas have been sinking boats. Nobody has been hurt.",
       "published_at": "2026-11-07T12:30:15Z",
       "privacy": "public",
-      "views": 26,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/fSLyqcdW5yo"
@@ -3954,7 +3979,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 470,
+      "views": 519,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
@@ -3978,7 +4003,7 @@
       "hook": "Scientists ranked 1,024 mammals by murder. The winner is adorable.",
       "published_at": "2026-11-07T16:50:10Z",
       "privacy": "public",
-      "views": 56,
+      "views": 42,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hC-DTpNpqx8"
@@ -4030,8 +4055,8 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 442,
-      "likes": 1,
+      "views": 516,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg"
     },
@@ -4054,7 +4079,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 89,
+      "views": 98,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o"
@@ -4134,7 +4159,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 166,
+      "views": 229,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8"
@@ -4158,7 +4183,7 @@
       "hook": "This caterpillar wears the body parts of dead insects.",
       "published_at": "2026-11-07T21:30:25Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BYOOrvQjLUo"
@@ -4210,7 +4235,7 @@
       "hook": "This snake doesn't swallow its prey. It opens it.",
       "published_at": "2026-11-08T00:10:35Z",
       "privacy": "public",
-      "views": 576,
+      "views": 733,
       "likes": 13,
       "comments": 1,
       "url": "https://youtube.com/shorts/KBYp_uwN89M"
@@ -4314,7 +4339,7 @@
       "hook": "This spider turns its own web into a slingshot.",
       "published_at": "2026-11-08T12:10:07Z",
       "privacy": "public",
-      "views": 1,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM"
@@ -4346,6 +4371,30 @@
       "avg_view_percent": 39.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "dgNAPMvw7Y0": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT30S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bat Hunts Frogs by Their Love Songs, and Knows Which Are Poison",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This bat finds its dinner by listening to love songs.",
+      "published_at": "2026-11-08T14:46:18Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/dgNAPMvw7Y0"
     },
     "0eDxP_Mfsoo": {
       "upload_status": "processed",
@@ -4564,14 +4613,14 @@
       "url": "https://youtube.com/shorts/5kHqm6dqHdk"
     },
     "4G6bpzVSVHQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4580,11 +4629,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Astronauts left 96 bags of waste on the Moon.",
-      "published_at": "2026-11-08T13:29:57Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-08T14:00:04Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/4G6bpzVSVHQ"
     },
     "YMC5dytg8rQ": {
@@ -6006,7 +6055,7 @@
       "hook": "Jellyfish shut down a nuclear reactor.",
       "published_at": "2026-10-30T21:20:15Z",
       "privacy": "public",
-      "views": 37,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qRaw9tphoKk",
@@ -6874,7 +6923,7 @@
       "hook": "A cricket walks straight to a pond and jumps in. Nothing chased it.",
       "published_at": "2026-11-03T12:20:06Z",
       "privacy": "public",
-      "views": 950,
+      "views": 952,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/TLT9ERJWEDs",
