@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-11-07T21:14:34+00:00",
+  "updated_at": "2026-11-08T02:18:01+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 14,
+    "subscribers": 16,
     "channel_views": 12913,
-    "video_count": 61
+    "video_count": 62
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/rozFRQq0yAw"
+      "https://youtube.com/shorts/8ov_Z_E0LvQ"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/rozFRQq0yAw"
+      "https://youtube.com/shorts/8ov_Z_E0LvQ"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/rozFRQq0yAw"
+      "https://youtube.com/shorts/8ov_Z_E0LvQ"
     ]
   },
   "retention": {
     "videos_with_data": 53,
-    "avg_view_percent": 63.5,
+    "avg_view_percent": 63.6,
     "by_topic": {
       "earth": 63.6,
       "space": 70.0,
       "society": 63.2,
       "animals": 47.0,
-      "body": 62.9,
+      "body": 63.0,
       "technology": 60.3
     },
     "best": [
       {
         "title": "What If You Lived Inside a Cave on the Moon?",
         "avg_view_percent": 281.4,
-        "views": 22
+        "views": 24
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
@@ -90,17 +90,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 62,
-  "total_views": 13227,
+  "total_videos": 63,
+  "total_views": 13683,
   "by_topic": {
     "earth": {
-      "videos": 8,
-      "avg_views": 377,
+      "videos": 9,
+      "avg_views": 372,
       "best_views": 1114
     },
     "space": {
       "videos": 27,
-      "avg_views": 192,
+      "avg_views": 194,
       "best_views": 1281
     },
     "society": {
@@ -110,7 +110,7 @@
     },
     "animals": {
       "videos": 9,
-      "avg_views": 231,
+      "avg_views": 236,
       "best_views": 1426
     },
     "body": {
@@ -120,21 +120,21 @@
     },
     "technology": {
       "videos": 8,
-      "avg_views": 181,
+      "avg_views": 183,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 62,
-      "avg_views": 213,
+      "videos": 63,
+      "avg_views": 217,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 61,
-      "avg_views": 200
+      "videos": 62,
+      "avg_views": 204
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -536,7 +536,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/vvwy7bHBZt4",
       "avg_view_seconds": 30.0,
-      "avg_view_percent": 85.8,
+      "avg_view_percent": 86.0,
       "shares": 0,
       "subscribers_gained": 6
     },
@@ -648,7 +648,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Dfr7U_PG5ng",
       "avg_view_seconds": 21.0,
-      "avg_view_percent": 52.7,
+      "avg_view_percent": 53.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -676,7 +676,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 56.6,
+      "avg_view_percent": 57.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -788,7 +788,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 66.9,
+      "avg_view_percent": 67.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -928,7 +928,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/DV-7AuiUc9E",
       "avg_view_seconds": 17.0,
-      "avg_view_percent": 43.1,
+      "avg_view_percent": 43.2,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1343,7 +1343,7 @@
       "hook": "What if humans lived in a Moon cave? Scientists found one, and it's room temperature.",
       "published_at": "2026-11-03T21:20:29Z",
       "privacy": "public",
-      "views": 22,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nOw9IX9Y6Fg",
@@ -1483,8 +1483,8 @@
       "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
-      "views": 55,
-      "likes": 2,
+      "views": 61,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo"
     },
@@ -1507,7 +1507,7 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 123,
+      "views": 150,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM"
@@ -1555,7 +1555,7 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 128,
+      "views": 138,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU"
@@ -1580,7 +1580,7 @@
       "published_at": "2026-11-07T03:20:14Z",
       "privacy": "public",
       "views": 7,
-      "likes": 0,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ueBtcnj-Buc"
     },
@@ -1603,8 +1603,8 @@
       "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
       "published_at": "2026-11-07T14:50:17Z",
       "privacy": "public",
-      "views": 73,
-      "likes": 0,
+      "views": 124,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I"
     },
@@ -1627,8 +1627,8 @@
       "hook": "What if a B-52 dropped two hydrogen bombs on North Carolina? In 1961, one did.",
       "published_at": "2026-11-07T17:40:28Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 0,
+      "views": 8,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hv6S-MG-epc"
     },
@@ -1651,12 +1651,36 @@
       "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
       "published_at": "2026-11-07T21:00:38Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
-      "comments": 0,
+      "views": 24,
+      "likes": 2,
+      "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg"
     },
     "rozFRQq0yAw": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT44S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
+      "topic": "earth",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
+      "published_at": "2026-11-07T21:30:27Z",
+      "privacy": "public",
+      "views": 333,
+      "likes": 5,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/rozFRQq0yAw"
+    },
+    "8ov_Z_E0LvQ": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -1668,17 +1692,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
+      "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
       "topic": "earth",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
-      "published_at": "2026-11-07T21:14:28Z",
+      "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
+      "published_at": "2026-11-08T02:17:55Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/rozFRQq0yAw"
+      "url": "https://youtube.com/shorts/8ov_Z_E0LvQ"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
