@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-08T20:45:36+00:00",
+  "updated_at": "2026-11-08T23:43:33+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 70,
     "channel_views": 61333,
-    "video_count": 250
+    "video_count": 252
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/m0xau9wSO_k",
-      "https://youtube.com/shorts/2PwdWAM0PVM"
+      "https://youtube.com/shorts/4UE4LUCRyws"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/2PwdWAM0PVM"
+      "https://youtube.com/shorts/4UE4LUCRyws"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/2PwdWAM0PVM"
+      "https://youtube.com/shorts/4UE4LUCRyws"
     ]
   },
   "retention": {
@@ -92,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 250,
-  "total_views": 63112,
+  "total_videos": 251,
+  "total_views": 63597,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 176,
-      "avg_views": 249,
+      "videos": 177,
+      "avg_views": 250,
       "best_views": 1507
     },
     "human body": {
@@ -127,14 +126,14 @@
     },
     "technology": {
       "videos": 5,
-      "avg_views": 31,
+      "avg_views": 33,
       "best_views": 71
     }
   },
   "by_style": {
     "classic": {
-      "videos": 234,
-      "avg_views": 241,
+      "videos": 235,
+      "avg_views": 242,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 164,
-      "avg_views": 152
+      "videos": 165,
+      "avg_views": 154
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1903,7 +1902,7 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 33,
+      "views": 34,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q",
@@ -2015,7 +2014,7 @@
       "hook": "This cat does a baby monkey impression. And it's a hunting trick.",
       "published_at": "2026-11-04T21:30:16Z",
       "privacy": "public",
-      "views": 5,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/loc-nCkI7hE",
@@ -2183,7 +2182,7 @@
       "hook": "The five oldest businesses still open, ranked. Number one was 900 years old when Columbus sailed.",
       "published_at": "2026-11-07T15:30:14Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hhXnndlGCz8"
@@ -2347,7 +2346,7 @@
       "hook": "Something is biting perfect circles out of whales.",
       "published_at": "2026-11-05T19:20:34Z",
       "privacy": "public",
-      "views": 750,
+      "views": 749,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/cveaxx9Lg40",
@@ -2487,7 +2486,7 @@
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
       "published_at": "2026-11-08T15:40:11Z",
       "privacy": "public",
-      "views": 3,
+      "views": 13,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
@@ -2903,7 +2902,7 @@
       "hook": "A porcupine has 30,000 quills. One animal found the gap.",
       "published_at": "2026-11-06T12:20:26Z",
       "privacy": "public",
-      "views": 49,
+      "views": 50,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/WDdIFBd2zAk",
@@ -3099,7 +3098,7 @@
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
       "published_at": "2026-11-06T19:00:08Z",
       "privacy": "public",
-      "views": 241,
+      "views": 254,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro",
@@ -3267,7 +3266,7 @@
       "hook": "This fish chokes sharks with slime in half a second.",
       "published_at": "2026-10-21T02:20:35Z",
       "privacy": "public",
-      "views": 1013,
+      "views": 1014,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/wyObPwWsA0g",
@@ -3351,7 +3350,7 @@
       "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
       "published_at": "2026-11-06T20:00:12Z",
       "privacy": "public",
-      "views": 62,
+      "views": 63,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nddxV9p7zlo",
@@ -3463,7 +3462,7 @@
       "hook": "This parrot lands on sheep at night and starts digging.",
       "published_at": "2026-11-06T21:00:17Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2sT1X-b0l0",
@@ -3547,7 +3546,7 @@
       "hook": "Pacific night fishermen fear a fish that never bites.",
       "published_at": "2026-11-06T21:40:27Z",
       "privacy": "public",
-      "views": 76,
+      "views": 77,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vvzQ8VmQ1Y",
@@ -3575,7 +3574,7 @@
       "hook": "A pond freezes over. The goldfish inside get drunk.",
       "published_at": "2026-11-06T22:00:11Z",
       "privacy": "public",
-      "views": 54,
+      "views": 53,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/An7jwtu8ucI",
@@ -3855,7 +3854,7 @@
       "hook": "A snake bit this scientist. He took notes.",
       "published_at": "2026-11-07T00:10:24Z",
       "privacy": "public",
-      "views": 21,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BqSWxMd40wg",
@@ -3963,7 +3962,7 @@
       "hook": "Since 2020, orcas have been sinking boats. Nobody has been hurt.",
       "published_at": "2026-11-07T12:30:15Z",
       "privacy": "public",
-      "views": 33,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/fSLyqcdW5yo"
@@ -4015,7 +4014,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 644,
+      "views": 705,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
@@ -4039,7 +4038,7 @@
       "hook": "Scientists ranked 1,024 mammals by murder. The winner is adorable.",
       "published_at": "2026-11-07T16:50:10Z",
       "privacy": "public",
-      "views": 89,
+      "views": 99,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/hC-DTpNpqx8"
@@ -4091,7 +4090,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 597,
+      "views": 628,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg"
@@ -4115,7 +4114,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 131,
+      "views": 146,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o"
@@ -4195,7 +4194,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 825,
+      "views": 993,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8"
@@ -4271,7 +4270,7 @@
       "hook": "This snake doesn't swallow its prey. It opens it.",
       "published_at": "2026-11-08T00:10:35Z",
       "privacy": "public",
-      "views": 969,
+      "views": 974,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/KBYp_uwN89M"
@@ -4323,7 +4322,7 @@
       "hook": "Being swallowed whole isn't the end for this eel.",
       "published_at": "2026-11-08T02:50:10Z",
       "privacy": "public",
-      "views": 138,
+      "views": 146,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/_y6yTp7OsRM"
@@ -4375,7 +4374,7 @@
       "hook": "This spider turns its own web into a slingshot.",
       "published_at": "2026-11-08T12:10:07Z",
       "privacy": "public",
-      "views": 34,
+      "views": 61,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM"
@@ -4427,7 +4426,7 @@
       "hook": "This bat finds its dinner by listening to love songs.",
       "published_at": "2026-11-08T15:10:27Z",
       "privacy": "public",
-      "views": 13,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dgNAPMvw7Y0"
@@ -4479,7 +4478,7 @@
       "hook": "A male bee tries to mate with this lump.",
       "published_at": "2026-11-08T16:50:16Z",
       "privacy": "public",
-      "views": 28,
+      "views": 88,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg"
@@ -4531,7 +4530,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 2,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s"
@@ -4611,7 +4610,7 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 2,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA"
@@ -4661,11 +4660,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
-      "published_at": "2026-11-08T19:46:42Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-08T21:00:06Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k"
     },
     "TKL8_1FJz8Q": {
@@ -4697,6 +4696,30 @@
       "subscribers_gained": 3
     },
     "2PwdWAM0PVM": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT30S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A 2-Million-Year-Old Child's Killer Was Found. It Was a Bird",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A child died two million years ago. We found the killer.",
+      "published_at": "2026-11-08T21:30:30Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/2PwdWAM0PVM"
+    },
+    "4UE4LUCRyws": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -4708,17 +4731,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A 2-Million-Year-Old Child's Killer Was Found. It Was a Bird",
+      "title": "These Frog Eggs Feel a Snake Biting and Hatch in Seconds to Escape",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "A child died two million years ago. We found the killer.",
-      "published_at": "2026-11-08T20:45:27Z",
+      "hook": "These frog eggs know when a snake is eating them.",
+      "published_at": "2026-11-08T23:43:23Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/2PwdWAM0PVM"
+      "url": "https://youtube.com/shorts/4UE4LUCRyws"
     },
     "k1T79ufoaX8": {
       "upload_status": "processed",
@@ -4791,7 +4814,7 @@
       "hook": "Astronauts left 96 bags of waste on the Moon.",
       "published_at": "2026-11-08T14:00:04Z",
       "privacy": "public",
-      "views": 7,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/4G6bpzVSVHQ"
