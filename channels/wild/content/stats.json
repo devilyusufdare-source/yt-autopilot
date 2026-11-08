@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-08T02:18:01+00:00",
+  "updated_at": "2026-11-08T04:01:20+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 12913,
-    "video_count": 62
+    "video_count": 63
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/8ov_Z_E0LvQ"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/8ov_Z_E0LvQ"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/8ov_Z_E0LvQ"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 53,
@@ -91,16 +85,16 @@
   },
   "retention_note": null,
   "total_videos": 63,
-  "total_views": 13683,
+  "total_views": 13984,
   "by_topic": {
     "earth": {
       "videos": 9,
-      "avg_views": 372,
-      "best_views": 1114
+      "avg_views": 402,
+      "best_views": 1115
     },
     "space": {
       "videos": 27,
-      "avg_views": 194,
+      "avg_views": 195,
       "best_views": 1281
     },
     "society": {
@@ -120,21 +114,21 @@
     },
     "technology": {
       "videos": 8,
-      "avg_views": 183,
+      "avg_views": 184,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
       "videos": 63,
-      "avg_views": 217,
+      "avg_views": 222,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 62,
-      "avg_views": 204
+      "avg_views": 209
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +151,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1114,
+      "views": 1115,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -1007,7 +1001,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1114,
+      "views": 1115,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1483,7 +1477,7 @@
       "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
-      "views": 61,
+      "views": 62,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo"
@@ -1507,7 +1501,7 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 150,
+      "views": 160,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM"
@@ -1579,7 +1573,7 @@
       "hook": "What if your whole town had to move three kilometers? Kiruna, Sweden, is doing it, church included.",
       "published_at": "2026-11-07T03:20:14Z",
       "privacy": "public",
-      "views": 7,
+      "views": 10,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ueBtcnj-Buc"
@@ -1627,7 +1621,7 @@
       "hook": "What if a B-52 dropped two hydrogen bombs on North Carolina? In 1961, one did.",
       "published_at": "2026-11-07T17:40:28Z",
       "privacy": "public",
-      "views": 8,
+      "views": 11,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hv6S-MG-epc"
@@ -1651,7 +1645,7 @@
       "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
       "published_at": "2026-11-07T21:00:38Z",
       "privacy": "public",
-      "views": 24,
+      "views": 34,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg"
@@ -1675,20 +1669,20 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 333,
+      "views": 409,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw"
     },
     "8ov_Z_E0LvQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT45S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1697,11 +1691,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
-      "published_at": "2026-11-08T02:17:55Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-08T02:40:05Z",
+      "privacy": "public",
+      "views": 197,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ"
     },
     "61k2NffqMAU": {
