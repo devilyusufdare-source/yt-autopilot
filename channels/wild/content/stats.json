@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-08T14:22:24+00:00",
+  "updated_at": "2026-11-08T17:14:50+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
-    "channel_views": 13191,
-    "video_count": 63
+    "channel_views": 14544,
+    "video_count": 64
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/6HSGoaRjPLU"
+      "https://youtube.com/shorts/SO9aGqEpzdg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/6HSGoaRjPLU"
+      "https://youtube.com/shorts/SO9aGqEpzdg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/6HSGoaRjPLU"
+      "https://youtube.com/shorts/SO9aGqEpzdg"
     ]
   },
   "retention": {
@@ -90,17 +90,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 64,
-  "total_views": 14678,
+  "total_videos": 65,
+  "total_views": 14850,
   "by_topic": {
     "earth": {
       "videos": 9,
-      "avg_views": 458,
+      "avg_views": 473,
       "best_views": 1115
     },
     "space": {
-      "videos": 27,
-      "avg_views": 198,
+      "videos": 28,
+      "avg_views": 191,
       "best_views": 1281
     },
     "society": {
@@ -110,7 +110,7 @@
     },
     "animals": {
       "videos": 10,
-      "avg_views": 220,
+      "avg_views": 221,
       "best_views": 1428
     },
     "body": {
@@ -120,20 +120,20 @@
     },
     "technology": {
       "videos": 8,
-      "avg_views": 190,
+      "avg_views": 191,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 64,
-      "avg_views": 229,
+      "videos": 65,
+      "avg_views": 228,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 63,
+      "videos": 64,
       "avg_views": 216
     },
     "en-US-EricNeural": {
@@ -181,7 +181,7 @@
     {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
-      "views": 671,
+      "views": 803,
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
     },
     {
@@ -191,16 +191,16 @@
       "hook": "What if you never slept again? Day one feels fine. It isn't."
     },
     {
+      "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
+      "topic": "earth",
+      "views": 441,
+      "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
+    },
+    {
       "title": "What If All the Ice on Earth Melted?",
       "topic": "earth",
       "views": 436,
       "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
-    },
-    {
-      "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
-      "topic": "earth",
-      "views": 434,
-      "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     }
   ],
   "videos": {
@@ -1259,7 +1259,7 @@
       "hook": "What if you jumped into a tunnel straight through Earth? You would not fall forever.",
       "published_at": "2026-11-03T14:10:22Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZxEWLYdNKhk",
@@ -1371,7 +1371,7 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 71,
+      "views": 72,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI",
@@ -1483,7 +1483,7 @@
       "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
-      "views": 93,
+      "views": 99,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo"
@@ -1507,7 +1507,7 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 189,
+      "views": 194,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM"
@@ -1555,7 +1555,7 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 181,
+      "views": 191,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU"
@@ -1579,7 +1579,7 @@
       "hook": "What if your whole town had to move three kilometers? Kiruna, Sweden, is doing it, church included.",
       "published_at": "2026-11-07T03:20:14Z",
       "privacy": "public",
-      "views": 14,
+      "views": 13,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ueBtcnj-Buc"
@@ -1603,7 +1603,7 @@
       "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
       "published_at": "2026-11-07T14:50:17Z",
       "privacy": "public",
-      "views": 193,
+      "views": 196,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I"
@@ -1651,7 +1651,7 @@
       "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
       "published_at": "2026-11-07T21:00:38Z",
       "privacy": "public",
-      "views": 42,
+      "views": 45,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg"
@@ -1675,8 +1675,8 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 671,
-      "likes": 6,
+      "views": 803,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw"
     },
@@ -1699,12 +1699,36 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 434,
+      "views": 441,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ"
     },
     "6HSGoaRjPLU": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT48S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Killer Bees Escaped a Lab? They Did in 1957, and They're Still Spreading",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
+      "published_at": "2026-11-08T14:50:08Z",
+      "privacy": "public",
+      "views": 5,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/6HSGoaRjPLU"
+    },
+    "SO9aGqEpzdg": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1716,17 +1740,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If Killer Bees Escaped a Lab? They Did in 1957, and They're Still Spreading",
-      "topic": "animals",
+      "title": "What If We Rammed an Asteroid to Move It? NASA Did, and It Worked Too Well",
+      "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
-      "published_at": "2026-11-08T14:22:19Z",
+      "hook": "What if we crashed a spacecraft into an asteroid to push it? NASA tried. It overshot.",
+      "published_at": "2026-11-08T17:14:45Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/6HSGoaRjPLU"
+      "url": "https://youtube.com/shorts/SO9aGqEpzdg"
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
