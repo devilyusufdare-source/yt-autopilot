@@ -60,5 +60,21 @@
   ],
   "thumbnail_text": "ORANGE CROCODILES. BAT CAVE.",
   "priority": 7,
-  "first_comment": "The first time the ecologist entered the cave, about 10,000 bats took off around him. Bats or crocodiles: which would bother you more?"
+  "first_comment": "The first time the ecologist entered the cave, about 10,000 bats took off around him. Bats or crocodiles: which would bother you more?",
+  "youtube_id": "m0xau9wSO_k",
+  "url": "https://youtube.com/shorts/m0xau9wSO_k",
+  "uploaded_at": "2026-11-08T19:46:50+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-08T21:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 34.4,
+  "style": "classic",
+  "kind": "shorts"
 }
