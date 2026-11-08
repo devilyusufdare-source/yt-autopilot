@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T17:42:30+00:00",
+  "updated_at": "2026-11-08T18:42:33+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/yINHGWLKu0s"
+      "https://youtube.com/shorts/yINHGWLKu0s",
+      "https://youtube.com/shorts/Lach_GgGXBA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/yINHGWLKu0s"
+      "https://youtube.com/shorts/Lach_GgGXBA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/yINHGWLKu0s"
+      "https://youtube.com/shorts/Lach_GgGXBA"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 247,
-  "total_views": 62494,
+  "total_videos": 248,
+  "total_views": 62808,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,7 +106,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 173,
+      "videos": 174,
       "avg_views": 250,
       "best_views": 1507
     },
@@ -132,7 +133,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 231,
+      "videos": 232,
       "avg_views": 241,
       "over_1500": 3
     },
@@ -144,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 161,
-      "avg_views": 151
+      "videos": 162,
+      "avg_views": 152
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2010,7 +2011,7 @@
       "hook": "This cat does a baby monkey impression. And it's a hunting trick.",
       "published_at": "2026-11-04T21:30:16Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/loc-nCkI7hE",
@@ -2482,9 +2483,9 @@
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
       "published_at": "2026-11-08T15:40:11Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
     },
     "I0jRhK827UM": {
@@ -2758,7 +2759,7 @@
       "hook": "Something is eating whales alive off Argentina. It weighs two pounds.",
       "published_at": "2026-11-06T03:10:18Z",
       "privacy": "public",
-      "views": 76,
+      "views": 75,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/BiZ1q9XNjeE"
@@ -3086,7 +3087,7 @@
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
       "published_at": "2026-11-06T19:00:08Z",
       "privacy": "public",
-      "views": 224,
+      "views": 231,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro"
@@ -3334,7 +3335,7 @@
       "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
       "published_at": "2026-11-06T20:00:12Z",
       "privacy": "public",
-      "views": 59,
+      "views": 61,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nddxV9p7zlo"
@@ -3546,7 +3547,7 @@
       "hook": "A pond freezes over. The goldfish inside get drunk.",
       "published_at": "2026-11-06T22:00:11Z",
       "privacy": "public",
-      "views": 51,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/An7jwtu8ucI"
@@ -3874,7 +3875,7 @@
       "hook": "Songbirds migrate at night to avoid hawks. Something else is waiting.",
       "published_at": "2026-11-07T12:10:31Z",
       "privacy": "public",
-      "views": 17,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_tgT8z8IjDw"
@@ -3926,7 +3927,7 @@
       "hook": "Since 2020, orcas have been sinking boats. Nobody has been hurt.",
       "published_at": "2026-11-07T12:30:15Z",
       "privacy": "public",
-      "views": 29,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/fSLyqcdW5yo"
@@ -3978,8 +3979,8 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 596,
-      "likes": 9,
+      "views": 644,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
     },
@@ -4002,8 +4003,8 @@
       "hook": "Scientists ranked 1,024 mammals by murder. The winner is adorable.",
       "published_at": "2026-11-07T16:50:10Z",
       "privacy": "public",
-      "views": 60,
-      "likes": 1,
+      "views": 86,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/hC-DTpNpqx8"
     },
@@ -4054,7 +4055,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 534,
+      "views": 591,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg"
@@ -4078,7 +4079,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 94,
+      "views": 130,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o"
@@ -4158,8 +4159,8 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 497,
-      "likes": 6,
+      "views": 598,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8"
     },
@@ -4182,7 +4183,7 @@
       "hook": "This caterpillar wears the body parts of dead insects.",
       "published_at": "2026-11-07T21:30:25Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BYOOrvQjLUo"
@@ -4234,7 +4235,7 @@
       "hook": "This snake doesn't swallow its prey. It opens it.",
       "published_at": "2026-11-08T00:10:35Z",
       "privacy": "public",
-      "views": 978,
+      "views": 969,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/KBYp_uwN89M"
@@ -4286,7 +4287,7 @@
       "hook": "Being swallowed whole isn't the end for this eel.",
       "published_at": "2026-11-08T02:50:10Z",
       "privacy": "public",
-      "views": 124,
+      "views": 138,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/_y6yTp7OsRM"
@@ -4338,7 +4339,7 @@
       "hook": "This spider turns its own web into a slingshot.",
       "published_at": "2026-11-08T12:10:07Z",
       "privacy": "public",
-      "views": 18,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM"
@@ -4390,7 +4391,7 @@
       "hook": "This bat finds its dinner by listening to love songs.",
       "published_at": "2026-11-08T15:10:27Z",
       "privacy": "public",
-      "views": 2,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dgNAPMvw7Y0"
@@ -4476,14 +4477,14 @@
       "subscribers_gained": 0
     },
     "yINHGWLKu0s": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4554,6 +4555,30 @@
       "avg_view_percent": 55.8,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "Lach_GgGXBA": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Snake Escapes by Cartwheeling, 4 Times Faster Than It Slithers",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This snake's fastest move isn't slithering. Not even close.",
+      "published_at": "2026-11-08T18:42:23Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Lach_GgGXBA"
     },
     "8HPrrfRBnJA": {
       "upload_status": "processed",
@@ -4654,7 +4679,7 @@
       "hook": "In 1876, it rained meat in Kentucky.",
       "published_at": "2026-11-07T14:00:17Z",
       "privacy": "public",
-      "views": 23,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5kHqm6dqHdk"
@@ -4678,7 +4703,7 @@
       "hook": "Astronauts left 96 bags of waste on the Moon.",
       "published_at": "2026-11-08T14:00:04Z",
       "privacy": "public",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/4G6bpzVSVHQ"
