@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-08T02:19:26+00:00",
+  "updated_at": "2026-11-08T04:01:14+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 66,
+    "subscribers": 67,
     "channel_views": 58791,
-    "video_count": 242
+    "video_count": 243
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/_y6yTp7OsRM"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/_y6yTp7OsRM"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/_y6yTp7OsRM"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 213,
@@ -92,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 241,
-  "total_views": 59748,
+  "total_views": 59953,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -106,7 +100,7 @@
     },
     "animals": {
       "videos": 169,
-      "avg_views": 240,
+      "avg_views": 241,
       "best_views": 1507
     },
     "human body": {
@@ -133,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 225,
-      "avg_views": 235,
+      "avg_views": 236,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +139,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 155,
-      "avg_views": 139
+      "avg_views": 140
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2342,7 +2336,7 @@
       "hook": "Something is biting perfect circles out of whales.",
       "published_at": "2026-11-05T19:20:34Z",
       "privacy": "public",
-      "views": 749,
+      "views": 750,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/cveaxx9Lg40",
@@ -3062,7 +3056,7 @@
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
       "published_at": "2026-11-06T19:00:08Z",
       "privacy": "public",
-      "views": 143,
+      "views": 159,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro"
@@ -3310,7 +3304,7 @@
       "hook": "A fish with human-looking teeth keeps turning up in American lakes. It's a piranha's cousin.",
       "published_at": "2026-11-06T20:00:12Z",
       "privacy": "public",
-      "views": 41,
+      "views": 42,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nddxV9p7zlo"
@@ -3798,7 +3792,7 @@
       "hook": "A snake bit this scientist. He took notes.",
       "published_at": "2026-11-07T00:10:24Z",
       "privacy": "public",
-      "views": 14,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BqSWxMd40wg"
@@ -3902,7 +3896,7 @@
       "hook": "Since 2020, orcas have been sinking boats. Nobody has been hurt.",
       "published_at": "2026-11-07T12:30:15Z",
       "privacy": "public",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/fSLyqcdW5yo"
@@ -3954,7 +3948,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 119,
+      "views": 195,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
@@ -3978,7 +3972,7 @@
       "hook": "Scientists ranked 1,024 mammals by murder. The winner is adorable.",
       "published_at": "2026-11-07T16:50:10Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hC-DTpNpqx8"
@@ -4030,7 +4024,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 210,
+      "views": 251,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg"
@@ -4054,7 +4048,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 11,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o"
@@ -4134,7 +4128,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 30,
+      "views": 36,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8"
@@ -4158,7 +4152,7 @@
       "hook": "This caterpillar wears the body parts of dead insects.",
       "published_at": "2026-11-07T21:30:25Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BYOOrvQjLUo"
@@ -4210,9 +4204,9 @@
       "hook": "This snake doesn't swallow its prey. It opens it.",
       "published_at": "2026-11-08T00:10:35Z",
       "privacy": "public",
-      "views": 6,
-      "likes": 0,
-      "comments": 0,
+      "views": 48,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/KBYp_uwN89M"
     },
     "a74rNzBmIfo": {
@@ -4244,14 +4238,14 @@
       "subscribers_gained": 0
     },
     "_y6yTp7OsRM": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4260,10 +4254,10 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Being swallowed whole isn't the end for this eel.",
-      "published_at": "2026-11-08T02:19:18Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-11-08T02:50:10Z",
+      "privacy": "public",
+      "views": 4,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/_y6yTp7OsRM"
     },
@@ -6182,7 +6176,7 @@
       "hook": "A gas company once found its pipeline leaks by following vultures.",
       "published_at": "2026-10-31T19:50:12Z",
       "privacy": "public",
-      "views": 19,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zl1SdlXN0H0",
@@ -6469,7 +6463,7 @@
       "avg_view_seconds": 10.0,
       "avg_view_percent": 34.9,
       "shares": 0,
-      "subscribers_gained": 1
+      "subscribers_gained": 2
     },
     "MW0loEuWxf4": {
       "upload_status": "processed",
