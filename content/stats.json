@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-09T15:08:37+00:00",
+  "updated_at": "2026-11-09T16:46:28+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 72,
     "channel_views": 63549,
-    "video_count": 257
+    "video_count": 259
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/hagyIaLCA4M",
-      "https://youtube.com/shorts/32p1FHP1L48"
+      "https://youtube.com/shorts/axMrOJmzu9k"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/32p1FHP1L48"
+      "https://youtube.com/shorts/axMrOJmzu9k"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/32p1FHP1L48"
+      "https://youtube.com/shorts/axMrOJmzu9k"
     ]
   },
   "retention": {
@@ -92,12 +91,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 257,
-  "total_views": 66713,
+  "total_videos": 258,
+  "total_views": 67419,
   "by_topic": {
     "psychology": {
       "videos": 3,
-      "avg_views": 237,
+      "avg_views": 240,
       "best_views": 364
     },
     "science": {
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 182,
-      "avg_views": 260,
+      "videos": 183,
+      "avg_views": 262,
       "best_views": 1507
     },
     "human body": {
@@ -127,14 +126,14 @@
     },
     "technology": {
       "videos": 5,
-      "avg_views": 37,
+      "avg_views": 42,
       "best_views": 71
     }
   },
   "by_style": {
     "classic": {
-      "videos": 241,
-      "avg_views": 249,
+      "videos": 242,
+      "avg_views": 250,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 171,
-      "avg_views": 166
+      "videos": 172,
+      "avg_views": 170
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2487,7 +2486,7 @@
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
       "published_at": "2026-11-08T15:40:11Z",
       "privacy": "public",
-      "views": 29,
+      "views": 58,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
@@ -2509,11 +2508,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
-      "published_at": "2026-11-09T15:03:52Z",
-      "privacy": "private",
+      "published_at": "2026-11-09T15:30:38Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/hagyIaLCA4M"
     },
     "I0jRhK827UM": {
@@ -4039,7 +4038,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 879,
+      "views": 926,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
@@ -4063,7 +4062,7 @@
       "hook": "Scientists ranked 1,024 mammals by murder. The winner is adorable.",
       "published_at": "2026-11-07T16:50:10Z",
       "privacy": "public",
-      "views": 127,
+      "views": 131,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/hC-DTpNpqx8"
@@ -4115,7 +4114,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 856,
+      "views": 952,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg"
@@ -4139,7 +4138,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 170,
+      "views": 180,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o"
@@ -4219,7 +4218,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 1000,
+      "views": 1001,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8"
@@ -4347,7 +4346,7 @@
       "hook": "Being swallowed whole isn't the end for this eel.",
       "published_at": "2026-11-08T02:50:10Z",
       "privacy": "public",
-      "views": 171,
+      "views": 181,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/_y6yTp7OsRM"
@@ -4399,7 +4398,7 @@
       "hook": "This spider turns its own web into a slingshot.",
       "published_at": "2026-11-08T12:10:07Z",
       "privacy": "public",
-      "views": 78,
+      "views": 90,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM"
@@ -4503,7 +4502,7 @@
       "hook": "A male bee tries to mate with this lump.",
       "published_at": "2026-11-08T16:50:16Z",
       "privacy": "public",
-      "views": 266,
+      "views": 299,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg"
@@ -4555,7 +4554,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 164,
+      "views": 183,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s"
@@ -4635,7 +4634,7 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 599,
+      "views": 886,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA"
@@ -4687,8 +4686,8 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 398,
-      "likes": 3,
+      "views": 483,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k"
     },
@@ -4787,7 +4786,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 86,
+      "views": 93,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw"
@@ -4811,7 +4810,7 @@
       "hook": "Rats were filmed catching bats in mid-air. In the dark.",
       "published_at": "2026-11-09T03:10:08Z",
       "privacy": "public",
-      "views": 184,
+      "views": 240,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMqWHgPm8kY"
@@ -4911,7 +4910,7 @@
       "hook": "A totally blind man walked through an obstacle course untouched.",
       "published_at": "2026-11-09T12:30:04Z",
       "privacy": "public",
-      "views": 20,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Dtz0u9zn7wo"
@@ -4937,7 +4936,7 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo"
     },
     "YMC5dytg8rQ": {
@@ -4969,14 +4968,14 @@
       "subscribers_gained": 0
     },
     "32p1FHP1L48": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4985,11 +4984,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
-      "published_at": "2026-11-09T15:08:25Z",
-      "privacy": "private",
+      "published_at": "2026-11-09T16:30:32Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48"
     },
     "cHsF4Dcrv30": {
@@ -5047,6 +5046,30 @@
       "avg_view_percent": 53.7,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "axMrOJmzu9k": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "That Perfect Hole in a Seashell Was Drilled by a Killer Snail",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "That perfect round hole in a seashell isn't an accident. Something drilled it.",
+      "published_at": "2026-11-09T16:46:19Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/axMrOJmzu9k"
     },
     "q18WSuE5NJ0": {
       "upload_status": "processed",
