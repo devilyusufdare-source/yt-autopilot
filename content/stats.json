@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-09T12:01:27+00:00",
+  "updated_at": "2026-11-09T13:52:15+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 72,
     "channel_views": 63549,
-    "video_count": 255
+    "video_count": 256
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Dtz0u9zn7wo"
+      "https://youtube.com/shorts/8VbMxHG-Bzo"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Dtz0u9zn7wo"
+      "https://youtube.com/shorts/8VbMxHG-Bzo"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Dtz0u9zn7wo"
+      "https://youtube.com/shorts/8VbMxHG-Bzo"
     ]
   },
   "retention": {
@@ -91,12 +91,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 254,
-  "total_views": 65753,
+  "total_videos": 255,
+  "total_views": 66474,
   "by_topic": {
     "psychology": {
       "videos": 3,
-      "avg_views": 230,
+      "avg_views": 231,
       "best_views": 364
     },
     "science": {
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 179,
-      "avg_views": 259,
+      "videos": 180,
+      "avg_views": 262,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 238,
-      "avg_views": 248,
+      "videos": 239,
+      "avg_views": 250,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 168,
-      "avg_views": 164
+      "videos": 169,
+      "avg_views": 167
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2262,7 +2262,7 @@
       "hook": "This mother fish is guarding her babies' killers.",
       "published_at": "2026-11-05T20:00:39Z",
       "privacy": "public",
-      "views": 125,
+      "views": 126,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI",
@@ -3962,7 +3962,7 @@
       "hook": "Since 2020, orcas have been sinking boats. Nobody has been hurt.",
       "published_at": "2026-11-07T12:30:15Z",
       "privacy": "public",
-      "views": 44,
+      "views": 48,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/fSLyqcdW5yo"
@@ -4014,7 +4014,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 862,
+      "views": 890,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
@@ -4038,7 +4038,7 @@
       "hook": "Scientists ranked 1,024 mammals by murder. The winner is adorable.",
       "published_at": "2026-11-07T16:50:10Z",
       "privacy": "public",
-      "views": 124,
+      "views": 126,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/hC-DTpNpqx8"
@@ -4090,7 +4090,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 674,
+      "views": 819,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg"
@@ -4114,7 +4114,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 168,
+      "views": 169,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o"
@@ -4323,7 +4323,7 @@
       "published_at": "2026-11-08T02:50:10Z",
       "privacy": "public",
       "views": 171,
-      "likes": 2,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/_y6yTp7OsRM"
     },
@@ -4374,7 +4374,7 @@
       "hook": "This spider turns its own web into a slingshot.",
       "published_at": "2026-11-08T12:10:07Z",
       "privacy": "public",
-      "views": 76,
+      "views": 77,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM"
@@ -4530,8 +4530,8 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 123,
-      "likes": 1,
+      "views": 163,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s"
     },
@@ -4610,8 +4610,8 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 439,
-      "likes": 5,
+      "views": 524,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA"
     },
@@ -4662,8 +4662,8 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 241,
-      "likes": 1,
+      "views": 337,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k"
     },
@@ -4738,7 +4738,7 @@
       "hook": "These frog eggs know when a snake is eating them.",
       "published_at": "2026-11-09T00:10:35Z",
       "privacy": "public",
-      "views": 715,
+      "views": 982,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/4UE4LUCRyws"
@@ -4762,7 +4762,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 67,
+      "views": 78,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw"
@@ -4786,8 +4786,8 @@
       "hook": "Rats were filmed catching bats in mid-air. In the dark.",
       "published_at": "2026-11-09T03:10:08Z",
       "privacy": "public",
-      "views": 114,
-      "likes": 2,
+      "views": 152,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMqWHgPm8kY"
     },
@@ -4868,6 +4868,30 @@
       "url": "https://youtube.com/shorts/4G6bpzVSVHQ"
     },
     "Dtz0u9zn7wo": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT30S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Totally Blind Man Walked Through an Obstacle Course Untouched",
+      "topic": "psychology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A totally blind man walked through an obstacle course untouched.",
+      "published_at": "2026-11-09T12:30:04Z",
+      "privacy": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/Dtz0u9zn7wo"
+    },
+    "8VbMxHG-Bzo": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -4879,17 +4903,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A Totally Blind Man Walked Through an Obstacle Course Untouched",
-      "topic": "psychology",
+      "title": "This Fish Tracks Flying Birds From Below, Then Leaps and Grabs Them",
+      "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "A totally blind man walked through an obstacle course untouched.",
-      "published_at": "2026-11-09T12:01:18Z",
+      "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
+      "published_at": "2026-11-09T13:52:05Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/Dtz0u9zn7wo"
+      "url": "https://youtube.com/shorts/8VbMxHG-Bzo"
     },
     "YMC5dytg8rQ": {
       "upload_status": "processed",

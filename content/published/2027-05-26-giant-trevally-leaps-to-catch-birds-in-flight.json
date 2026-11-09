@@ -60,5 +60,21 @@
   ],
   "thumbnail_text": "THIS FISH EATS FLYING BIRDS",
   "priority": 7,
-  "first_comment": "The BBC director called the shoot their biggest gamble: not one photo of it existed. Which predator should we cover next?"
+  "first_comment": "The BBC director called the shoot their biggest gamble: not one photo of it existed. Which predator should we cover next?",
+  "youtube_id": "8VbMxHG-Bzo",
+  "url": "https://youtube.com/shorts/8VbMxHG-Bzo",
+  "uploaded_at": "2026-11-09T13:52:12+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-09T15:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 31.1,
+  "style": "classic",
+  "kind": "shorts"
 }
