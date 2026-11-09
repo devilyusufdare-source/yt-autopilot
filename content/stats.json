@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-08T23:43:33+00:00",
+  "updated_at": "2026-11-09T02:25:22+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 70,
+    "subscribers": 71,
     "channel_views": 61333,
-    "video_count": 252
+    "video_count": 253
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/4UE4LUCRyws"
+      "https://youtube.com/shorts/aRbjc6mK_Uw",
+      "https://youtube.com/shorts/nMqWHgPm8kY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/4UE4LUCRyws"
+      "https://youtube.com/shorts/nMqWHgPm8kY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/4UE4LUCRyws"
+      "https://youtube.com/shorts/nMqWHgPm8kY"
     ]
   },
   "retention": {
@@ -44,7 +45,7 @@
       {
         "title": "The Titanic Was Found During a Secret Navy Hunt for Lost Nuclear Subs",
         "avg_view_percent": 241.9,
-        "views": 12
+        "views": 13
       },
       {
         "title": "Scientists Swore This Fish Died Out With the Dinosaurs",
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 251,
-  "total_views": 63597,
+  "total_videos": 253,
+  "total_views": 63860,
   "by_topic": {
     "psychology": {
       "videos": 2,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 177,
-      "avg_views": 250,
+      "videos": 179,
+      "avg_views": 249,
       "best_views": 1507
     },
     "human body": {
@@ -126,14 +127,14 @@
     },
     "technology": {
       "videos": 5,
-      "avg_views": 33,
+      "avg_views": 35,
       "best_views": 71
     }
   },
   "by_style": {
     "classic": {
-      "videos": 235,
-      "avg_views": 242,
+      "videos": 237,
+      "avg_views": 241,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 165,
-      "avg_views": 154
+      "videos": 167,
+      "avg_views": 153
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -782,7 +783,7 @@
       "hook": "This fish breathes air. And it has two rows of teeth.",
       "published_at": "2026-11-03T20:00:10Z",
       "privacy": "public",
-      "views": 249,
+      "views": 250,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/C0-01Rinu20",
@@ -1762,7 +1763,7 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 565,
+      "views": 558,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8",
@@ -2042,7 +2043,7 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 396,
+      "views": 394,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4",
@@ -2182,7 +2183,7 @@
       "hook": "The five oldest businesses still open, ranked. Number one was 900 years old when Columbus sailed.",
       "published_at": "2026-11-07T15:30:14Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hhXnndlGCz8"
@@ -2234,7 +2235,7 @@
       "hook": "Something in this snapper's mouth isn't a tongue.",
       "published_at": "2026-11-05T19:00:00Z",
       "privacy": "public",
-      "views": 58,
+      "views": 57,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/KTG3dAFep0I",
@@ -2262,7 +2263,7 @@
       "hook": "This mother fish is guarding her babies' killers.",
       "published_at": "2026-11-05T20:00:39Z",
       "privacy": "public",
-      "views": 126,
+      "views": 125,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI",
@@ -2486,7 +2487,7 @@
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
       "published_at": "2026-11-08T15:40:11Z",
       "privacy": "public",
-      "views": 13,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
@@ -3462,7 +3463,7 @@
       "hook": "This parrot lands on sheep at night and starts digging.",
       "published_at": "2026-11-06T21:00:17Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2sT1X-b0l0",
@@ -3546,7 +3547,7 @@
       "hook": "Pacific night fishermen fear a fish that never bites.",
       "published_at": "2026-11-06T21:40:27Z",
       "privacy": "public",
-      "views": 77,
+      "views": 79,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vvzQ8VmQ1Y",
@@ -3854,7 +3855,7 @@
       "hook": "A snake bit this scientist. He took notes.",
       "published_at": "2026-11-07T00:10:24Z",
       "privacy": "public",
-      "views": 24,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BqSWxMd40wg",
@@ -4014,8 +4015,8 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 705,
-      "likes": 8,
+      "views": 732,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
     },
@@ -4038,7 +4039,7 @@
       "hook": "Scientists ranked 1,024 mammals by murder. The winner is adorable.",
       "published_at": "2026-11-07T16:50:10Z",
       "privacy": "public",
-      "views": 99,
+      "views": 103,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/hC-DTpNpqx8"
@@ -4090,7 +4091,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 628,
+      "views": 645,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg"
@@ -4114,7 +4115,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 146,
+      "views": 149,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o"
@@ -4194,7 +4195,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 993,
+      "views": 998,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8"
@@ -4322,7 +4323,7 @@
       "hook": "Being swallowed whole isn't the end for this eel.",
       "published_at": "2026-11-08T02:50:10Z",
       "privacy": "public",
-      "views": 146,
+      "views": 155,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/_y6yTp7OsRM"
@@ -4374,7 +4375,7 @@
       "hook": "This spider turns its own web into a slingshot.",
       "published_at": "2026-11-08T12:10:07Z",
       "privacy": "public",
-      "views": 61,
+      "views": 68,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM"
@@ -4478,7 +4479,7 @@
       "hook": "A male bee tries to mate with this lump.",
       "published_at": "2026-11-08T16:50:16Z",
       "privacy": "public",
-      "views": 88,
+      "views": 140,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg"
@@ -4530,7 +4531,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 13,
+      "views": 49,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s"
@@ -4610,7 +4611,7 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 41,
+      "views": 107,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA"
@@ -4662,7 +4663,7 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 2,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k"
@@ -4720,6 +4721,54 @@
       "url": "https://youtube.com/shorts/2PwdWAM0PVM"
     },
     "4UE4LUCRyws": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT29S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "These Frog Eggs Feel a Snake Biting and Hatch in Seconds to Escape",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "These frog eggs know when a snake is eating them.",
+      "published_at": "2026-11-09T00:10:35Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/4UE4LUCRyws"
+    },
+    "aRbjc6mK_Uw": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT27S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Millions of Crickets March Because the Ones Behind Will Eat Them",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Millions of crickets march in a band six miles long.",
+      "published_at": "2026-11-09T02:23:43Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/aRbjc6mK_Uw"
+    },
+    "nMqWHgPm8kY": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -4731,17 +4780,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "These Frog Eggs Feel a Snake Biting and Hatch in Seconds to Escape",
+      "title": "Rats Were Filmed Snatching Flying Bats Out of the Air in the Dark",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "These frog eggs know when a snake is eating them.",
-      "published_at": "2026-11-08T23:43:23Z",
+      "hook": "Rats were filmed catching bats in mid-air. In the dark.",
+      "published_at": "2026-11-09T02:25:11Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/4UE4LUCRyws"
+      "url": "https://youtube.com/shorts/nMqWHgPm8kY"
     },
     "k1T79ufoaX8": {
       "upload_status": "processed",
@@ -4762,7 +4811,7 @@
       "hook": "The search for the Titanic was a cover story.",
       "published_at": "2026-11-06T03:30:13Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k1T79ufoaX8",
@@ -4814,7 +4863,7 @@
       "hook": "Astronauts left 96 bags of waste on the Moon.",
       "published_at": "2026-11-08T14:00:04Z",
       "privacy": "public",
-      "views": 9,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/4G6bpzVSVHQ"
@@ -5650,7 +5699,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 105,
+      "views": 107,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM",
@@ -7134,7 +7183,7 @@
       "hook": "This insect isn't a flower. Bees fly to it more than to real ones.",
       "published_at": "2026-11-03T14:20:11Z",
       "privacy": "public",
-      "views": 21,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SUtsfcR8bGA",

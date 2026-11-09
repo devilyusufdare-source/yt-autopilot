@@ -60,5 +60,21 @@
   ],
   "thumbnail_text": "RATS CATCH BATS IN MID-AIR",
   "priority": 7,
-  "first_comment": "Other rats skipped the acrobatics and crept up on bats that had landed. Did you think a rat could do that?"
+  "first_comment": "Other rats skipped the acrobatics and crept up on bats that had landed. Did you think a rat could do that?",
+  "youtube_id": "nMqWHgPm8kY",
+  "url": "https://youtube.com/shorts/nMqWHgPm8kY",
+  "uploaded_at": "2026-11-09T02:25:19+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-09T03:10:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 31.8,
+  "style": "classic",
+  "kind": "shorts"
 }
