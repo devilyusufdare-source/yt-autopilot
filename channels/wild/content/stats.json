@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-09T02:22:54+00:00",
+  "updated_at": "2026-11-09T14:28:27+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
-    "channel_views": 14544,
-    "video_count": 67
+    "channel_views": 15067,
+    "video_count": 68
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/dLKcX2ivoBg"
+      "https://youtube.com/shorts/Ic5ympmJQrU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/dLKcX2ivoBg"
+      "https://youtube.com/shorts/Ic5ympmJQrU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/dLKcX2ivoBg"
+      "https://youtube.com/shorts/Ic5ympmJQrU"
     ]
   },
   "retention": {
@@ -65,7 +65,7 @@
       {
         "title": "What If a Country Lost Its Vultures? India Did. 500,000 People Died",
         "avg_view_percent": 10.5,
-        "views": 7
+        "views": 8
       },
       {
         "title": "What If a Computer Said Five Nukes Were Coming? In 1983 One Did",
@@ -90,27 +90,27 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 68,
-  "total_views": 15142,
+  "total_videos": 69,
+  "total_views": 15392,
   "by_topic": {
     "earth": {
       "videos": 9,
-      "avg_views": 490,
-      "best_views": 1115
+      "avg_views": 494,
+      "best_views": 1118
     },
     "space": {
-      "videos": 29,
-      "avg_views": 186,
+      "videos": 30,
+      "avg_views": 180,
       "best_views": 1281
     },
     "society": {
       "videos": 6,
-      "avg_views": 108,
+      "avg_views": 110,
       "best_views": 414
     },
     "animals": {
       "videos": 10,
-      "avg_views": 228,
+      "avg_views": 246,
       "best_views": 1428
     },
     "body": {
@@ -120,21 +120,21 @@
     },
     "technology": {
       "videos": 8,
-      "avg_views": 194,
+      "avg_views": 195,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 68,
+      "videos": 69,
       "avg_views": 223,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 67,
-      "avg_views": 210
+      "videos": 68,
+      "avg_views": 211
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1115,
+      "views": 1118,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -181,13 +181,13 @@
     {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
-      "views": 874,
+      "views": 876,
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
     },
     {
       "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
       "topic": "earth",
-      "views": 518,
+      "views": 550,
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
@@ -1007,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1115,
+      "views": 1118,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1119,7 +1119,7 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 27,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc",
@@ -1175,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 69,
+      "views": 70,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1231,7 +1231,7 @@
       "hook": "What if a sports car was launched into space and never came back? One was.",
       "published_at": "2026-11-03T02:40:09Z",
       "privacy": "public",
-      "views": 10,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QElYghl0l6s",
@@ -1371,7 +1371,7 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 72,
+      "views": 75,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI",
@@ -1455,7 +1455,7 @@
       "hook": "What if one snake species took over a whole island? Guam found out, and the forest went silent.",
       "published_at": "2026-11-06T03:10:25Z",
       "privacy": "public",
-      "views": 29,
+      "views": 30,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU",
@@ -1623,8 +1623,8 @@
       "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
       "published_at": "2026-11-07T14:50:17Z",
       "privacy": "public",
-      "views": 225,
-      "likes": 1,
+      "views": 300,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I"
     },
@@ -1647,7 +1647,7 @@
       "hook": "What if a B-52 dropped two hydrogen bombs on North Carolina? In 1961, one did.",
       "published_at": "2026-11-07T17:40:28Z",
       "privacy": "public",
-      "views": 16,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hv6S-MG-epc"
@@ -1671,7 +1671,7 @@
       "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
       "published_at": "2026-11-07T21:00:38Z",
       "privacy": "public",
-      "views": 55,
+      "views": 65,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg"
@@ -1695,7 +1695,7 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 874,
+      "views": 876,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw"
@@ -1719,7 +1719,7 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 518,
+      "views": 550,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ"
@@ -1743,8 +1743,8 @@
       "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
-      "views": 43,
-      "likes": 0,
+      "views": 146,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU"
     },
@@ -1767,7 +1767,7 @@
       "hook": "What if we crashed a spacecraft into an asteroid to push it? NASA tried. It overshot.",
       "published_at": "2026-11-08T17:40:28Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SO9aGqEpzdg"
@@ -1791,7 +1791,7 @@
       "hook": "What if every police officer in a city walked out at once? Montreal tried it. Sixteen hours.",
       "published_at": "2026-11-08T21:00:01Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BN6tRrVJNQs"
@@ -1843,12 +1843,36 @@
       "hook": "What if a nuclear reactor fell from orbit? One did in 1978. The bill was never paid.",
       "published_at": "2026-11-08T21:50:35Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/li-SDvymGZQ"
     },
     "dLKcX2ivoBg": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT52S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If 90% of a Country's Women Stopped Working for a Day? Iceland Did It in 1975",
+      "topic": "society",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if 90 percent of a country's women stopped for a day? Iceland did. Sausages sold out.",
+      "published_at": "2026-11-09T02:50:12Z",
+      "privacy": "public",
+      "views": 5,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/dLKcX2ivoBg"
+    },
+    "Ic5ympmJQrU": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1860,17 +1884,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If 90% of a Country's Women Stopped Working for a Day? Iceland Did It in 1975",
-      "topic": "society",
+      "title": "What If We Sent a Dog Into Orbit? We Did in 1957, and Hid the Truth for 45 Years",
+      "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if 90 percent of a country's women stopped for a day? Iceland did. Sausages sold out.",
-      "published_at": "2026-11-09T02:22:50Z",
+      "hook": "What if the first creature in orbit was a stray dog? The official story was a lie.",
+      "published_at": "2026-11-09T14:28:23Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/dLKcX2ivoBg"
+      "url": "https://youtube.com/shorts/Ic5ympmJQrU"
     },
     "6sP4tb9hKiw": {
       "upload_status": "processed",
@@ -1919,7 +1943,7 @@
       "hook": "What if a nuclear reactor switched itself on with nobody around? It happened, two billion years ago.",
       "published_at": "2026-11-04T21:20:25Z",
       "privacy": "public",
-      "views": 30,
+      "views": 31,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UWlaqnyoJ4A",
@@ -2031,7 +2055,7 @@
       "hook": "What if you set off a nuclear bomb to put out a fire? In 1966, it worked.",
       "published_at": "2026-11-05T17:10:20Z",
       "privacy": "public",
-      "views": 105,
+      "views": 104,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY",
@@ -2059,7 +2083,7 @@
       "hook": "What if a country lost its vultures? India did. The birds weren't the only ones to die.",
       "published_at": "2026-11-05T19:30:37Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Hy3xsXTwQhA",
