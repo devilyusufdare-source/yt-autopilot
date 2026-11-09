@@ -1,23 +1,27 @@
 {
-  "updated_at": "2026-11-09T14:56:04+00:00",
+  "updated_at": "2026-11-09T17:20:53+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 15067,
-    "video_count": 68
+    "video_count": 69
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Ic5ympmJQrU"
+      "https://youtube.com/shorts/QrA3jMszKEw"
     ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/QrA3jMszKEw"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/QrA3jMszKEw"
+    ]
   },
   "retention": {
     "videos_with_data": 58,
@@ -39,7 +43,7 @@
       {
         "title": "What If We Sent Aliens a Message? We Did in 1974. It Hasn't Arrived",
         "avg_view_percent": 197.5,
-        "views": 100
+        "views": 102
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
@@ -86,17 +90,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 69,
-  "total_views": 15394,
+  "total_videos": 70,
+  "total_views": 15419,
   "by_topic": {
     "earth": {
-      "videos": 9,
-      "avg_views": 494,
+      "videos": 10,
+      "avg_views": 445,
       "best_views": 1118
     },
     "space": {
       "videos": 30,
-      "avg_views": 180,
+      "avg_views": 181,
       "best_views": 1281
     },
     "society": {
@@ -106,7 +110,7 @@
     },
     "animals": {
       "videos": 10,
-      "avg_views": 246,
+      "avg_views": 248,
       "best_views": 1428
     },
     "body": {
@@ -122,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 69,
-      "avg_views": 223,
+      "videos": 70,
+      "avg_views": 220,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 68,
-      "avg_views": 211
+      "videos": 69,
+      "avg_views": 208
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -177,13 +181,13 @@
     {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
-      "views": 876,
+      "views": 879,
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
     },
     {
       "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
       "topic": "earth",
-      "views": 550,
+      "views": 551,
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
@@ -1199,7 +1203,7 @@
       "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
       "published_at": "2026-11-02T21:10:15Z",
       "privacy": "public",
-      "views": 291,
+      "views": 292,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I",
@@ -1479,7 +1483,7 @@
       "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
-      "views": 100,
+      "views": 102,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo",
@@ -1563,7 +1567,7 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 204,
+      "views": 205,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU",
@@ -1619,7 +1623,7 @@
       "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
       "published_at": "2026-11-07T14:50:17Z",
       "privacy": "public",
-      "views": 300,
+      "views": 307,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I"
@@ -1691,7 +1695,7 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 876,
+      "views": 879,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw"
@@ -1715,7 +1719,7 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 550,
+      "views": 551,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ"
@@ -1739,7 +1743,7 @@
       "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
-      "views": 148,
+      "views": 155,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU"
@@ -1839,7 +1843,7 @@
       "hook": "What if a nuclear reactor fell from orbit? One did in 1978. The bill was never paid.",
       "published_at": "2026-11-08T21:50:35Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/li-SDvymGZQ"
@@ -1863,7 +1867,7 @@
       "hook": "What if 90 percent of a country's women stopped for a day? Iceland did. Sausages sold out.",
       "published_at": "2026-11-09T02:50:12Z",
       "privacy": "public",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dLKcX2ivoBg"
@@ -1885,12 +1889,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if the first creature in orbit was a stray dog? The official story was a lie.",
-      "published_at": "2026-11-09T14:28:23Z",
+      "published_at": "2026-11-09T15:00:17Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/Ic5ympmJQrU"
+    },
+    "QrA3jMszKEw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If the Sky Went Black at Noon? It Did in 1780, and People Thought It Was the End",
+      "topic": "earth",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if the sky went black at midday, with no eclipse and no storm? In 1780 it happened.",
+      "published_at": "2026-11-09T17:20:49Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/Ic5ympmJQrU"
+      "url": "https://youtube.com/shorts/QrA3jMszKEw"
     },
     "6sP4tb9hKiw": {
       "upload_status": "processed",
