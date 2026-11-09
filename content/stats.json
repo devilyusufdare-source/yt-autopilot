@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-09T21:00:25+00:00",
+  "updated_at": "2026-11-09T23:49:20+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 73,
     "channel_views": 65911,
-    "video_count": 262
+    "video_count": 264
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/vhPnTwH9PZM",
-      "https://youtube.com/shorts/i4AAj7Pg6sQ"
+      "https://youtube.com/shorts/340LMR9p660"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/i4AAj7Pg6sQ"
+      "https://youtube.com/shorts/340LMR9p660"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/i4AAj7Pg6sQ"
+      "https://youtube.com/shorts/340LMR9p660"
     ]
   },
   "retention": {
@@ -92,12 +91,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 262,
-  "total_views": 68232,
+  "total_videos": 263,
+  "total_views": 68905,
   "by_topic": {
     "psychology": {
       "videos": 3,
-      "avg_views": 242,
+      "avg_views": 244,
       "best_views": 364
     },
     "science": {
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 187,
-      "avg_views": 261,
+      "videos": 188,
+      "avg_views": 263,
       "best_views": 1507
     },
     "human body": {
@@ -127,14 +126,14 @@
     },
     "technology": {
       "videos": 5,
-      "avg_views": 48,
-      "best_views": 86
+      "avg_views": 62,
+      "best_views": 157
     }
   },
   "by_style": {
     "classic": {
-      "videos": 246,
-      "avg_views": 250,
+      "videos": 247,
+      "avg_views": 251,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 176,
-      "avg_views": 170
+      "videos": 177,
+      "avg_views": 173
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1791,7 +1790,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 0,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
@@ -1813,14 +1812,38 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This male crab is raising babies. None of them are his.",
-      "published_at": "2026-11-09T19:59:54Z",
-      "privacy": "private",
+      "published_at": "2026-11-09T21:00:39Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM"
     },
     "i4AAj7Pg6sQ": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT29S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Shark Walks on Land and Survives 2 Hours With No Oxygen",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A shark that walks out of the sea. On its fins.",
+      "published_at": "2026-11-09T21:30:38Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/i4AAj7Pg6sQ"
+    },
+    "340LMR9p660": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1832,17 +1855,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "This Shark Walks on Land and Survives 2 Hours With No Oxygen",
+      "title": "This Garden Songbird Flies Into Caves to Kill Bats",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "A shark that walks out of the sea. On its fins.",
-      "published_at": "2026-11-09T21:00:15Z",
+      "hook": "A garden songbird that hunts bats.",
+      "published_at": "2026-11-09T23:49:08Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/i4AAj7Pg6sQ"
+      "url": "https://youtube.com/shorts/340LMR9p660"
     },
     "ELVS4Bl4MT0": {
       "upload_status": "processed",
@@ -2451,7 +2474,7 @@
       "hook": "This shark kills with its tail, and it never has to bite.",
       "published_at": "2026-11-05T21:00:32Z",
       "privacy": "public",
-      "views": 933,
+      "views": 934,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho",
@@ -2563,7 +2586,7 @@
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
       "published_at": "2026-11-08T15:40:11Z",
       "privacy": "public",
-      "views": 86,
+      "views": 157,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
@@ -2587,7 +2610,7 @@
       "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
       "published_at": "2026-11-09T15:30:38Z",
       "privacy": "public",
-      "views": 4,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hagyIaLCA4M"
@@ -4235,7 +4258,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 182,
+      "views": 183,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o",
@@ -4403,7 +4426,7 @@
       "hook": "This snake doesn't swallow its prey. It opens it.",
       "published_at": "2026-11-08T00:10:35Z",
       "privacy": "public",
-      "views": 972,
+      "views": 973,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/KBYp_uwN89M",
@@ -4459,7 +4482,7 @@
       "hook": "Being swallowed whole isn't the end for this eel.",
       "published_at": "2026-11-08T02:50:10Z",
       "privacy": "public",
-      "views": 185,
+      "views": 186,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/_y6yTp7OsRM",
@@ -4567,7 +4590,7 @@
       "hook": "This bat finds its dinner by listening to love songs.",
       "published_at": "2026-11-08T15:10:27Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dgNAPMvw7Y0"
@@ -4619,7 +4642,7 @@
       "hook": "A male bee tries to mate with this lump.",
       "published_at": "2026-11-08T16:50:16Z",
       "privacy": "public",
-      "views": 327,
+      "views": 337,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg"
@@ -4671,7 +4694,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 209,
+      "views": 231,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s"
@@ -4803,7 +4826,7 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 582,
+      "views": 727,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k"
@@ -4879,7 +4902,7 @@
       "hook": "These frog eggs know when a snake is eating them.",
       "published_at": "2026-11-09T00:10:35Z",
       "privacy": "public",
-      "views": 987,
+      "views": 988,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/4UE4LUCRyws"
@@ -4903,7 +4926,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 108,
+      "views": 111,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw"
@@ -4927,7 +4950,7 @@
       "hook": "Rats were filmed catching bats in mid-air. In the dark.",
       "published_at": "2026-11-09T03:10:08Z",
       "privacy": "public",
-      "views": 675,
+      "views": 931,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMqWHgPm8kY"
@@ -5031,7 +5054,7 @@
       "hook": "A totally blind man walked through an obstacle course untouched.",
       "published_at": "2026-11-09T12:30:04Z",
       "privacy": "public",
-      "views": 35,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Dtz0u9zn7wo"
@@ -5107,8 +5130,8 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 36,
-      "likes": 1,
+      "views": 67,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48"
     },
@@ -5187,8 +5210,8 @@
       "hook": "That perfect round hole in a seashell isn't an accident. Something drilled it.",
       "published_at": "2026-11-09T18:00:06Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 100,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/axMrOJmzu9k"
     },
@@ -5239,7 +5262,7 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo"
@@ -5907,7 +5930,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 70,
+      "views": 71,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uMujdO5WqYo",
@@ -6243,7 +6266,7 @@
       "hook": "Four astronauts just flew 100 million miles without leaving orbit.",
       "published_at": "2026-10-25T14:10:31Z",
       "privacy": "public",
-      "views": 23,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/O2zL5iipSFs",
@@ -6496,7 +6519,7 @@
       "published_at": "2026-10-30T18:20:23Z",
       "privacy": "public",
       "views": 63,
-      "likes": 0,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/c1_iRJblyEI",
       "avg_view_seconds": 11.0,
@@ -6831,7 +6854,7 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 85,
+      "views": 86,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s",
@@ -6916,7 +6939,7 @@
       "published_at": "2026-11-01T14:00:34Z",
       "privacy": "public",
       "views": 204,
-      "likes": 3,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/U9WHN5tJCbY",
       "avg_view_seconds": 10.0,
@@ -7055,7 +7078,7 @@
       "hook": "This animal has two hundred eyes. And none of them uses a lens.",
       "published_at": "2026-11-01T19:50:22Z",
       "privacy": "public",
-      "views": 853,
+      "views": 854,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/yG0G66LdnXU",
