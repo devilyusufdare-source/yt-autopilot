@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-09T13:52:15+00:00",
+  "updated_at": "2026-11-09T15:08:37+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 72,
     "channel_views": 63549,
-    "video_count": 256
+    "video_count": 257
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/8VbMxHG-Bzo"
+      "https://youtube.com/shorts/hagyIaLCA4M",
+      "https://youtube.com/shorts/32p1FHP1L48"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/8VbMxHG-Bzo"
+      "https://youtube.com/shorts/32p1FHP1L48"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/8VbMxHG-Bzo"
+      "https://youtube.com/shorts/32p1FHP1L48"
     ]
   },
   "retention": {
@@ -91,12 +92,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 255,
-  "total_views": 66474,
+  "total_videos": 257,
+  "total_views": 66713,
   "by_topic": {
     "psychology": {
       "videos": 3,
-      "avg_views": 231,
+      "avg_views": 237,
       "best_views": 364
     },
     "science": {
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 180,
-      "avg_views": 262,
+      "videos": 182,
+      "avg_views": 260,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 239,
-      "avg_views": 250,
+      "videos": 241,
+      "avg_views": 249,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 169,
-      "avg_views": 167
+      "videos": 171,
+      "avg_views": 166
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2491,6 +2492,30 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
     },
+    "hagyIaLCA4M": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT51S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Highest-Flying Birds Ever Recorded, Ranked (#1 Hit a Jet)",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
+      "published_at": "2026-11-09T15:03:52Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/hagyIaLCA4M"
+    },
     "I0jRhK827UM": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -4014,7 +4039,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 890,
+      "views": 879,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk"
@@ -4038,8 +4063,8 @@
       "hook": "Scientists ranked 1,024 mammals by murder. The winner is adorable.",
       "published_at": "2026-11-07T16:50:10Z",
       "privacy": "public",
-      "views": 126,
-      "likes": 3,
+      "views": 127,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/hC-DTpNpqx8"
     },
@@ -4090,8 +4115,8 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 819,
-      "likes": 2,
+      "views": 856,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg"
     },
@@ -4114,7 +4139,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 169,
+      "views": 170,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o"
@@ -4374,7 +4399,7 @@
       "hook": "This spider turns its own web into a slingshot.",
       "published_at": "2026-11-08T12:10:07Z",
       "privacy": "public",
-      "views": 77,
+      "views": 78,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM"
@@ -4426,7 +4451,7 @@
       "hook": "This bat finds its dinner by listening to love songs.",
       "published_at": "2026-11-08T15:10:27Z",
       "privacy": "public",
-      "views": 28,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dgNAPMvw7Y0"
@@ -4478,7 +4503,7 @@
       "hook": "A male bee tries to mate with this lump.",
       "published_at": "2026-11-08T16:50:16Z",
       "privacy": "public",
-      "views": 254,
+      "views": 266,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg"
@@ -4530,7 +4555,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 163,
+      "views": 164,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s"
@@ -4610,7 +4635,7 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 524,
+      "views": 599,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA"
@@ -4662,7 +4687,7 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 337,
+      "views": 398,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k"
@@ -4738,8 +4763,8 @@
       "hook": "These frog eggs know when a snake is eating them.",
       "published_at": "2026-11-09T00:10:35Z",
       "privacy": "public",
-      "views": 982,
-      "likes": 11,
+      "views": 984,
+      "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/4UE4LUCRyws"
     },
@@ -4762,7 +4787,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 78,
+      "views": 86,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw"
@@ -4786,8 +4811,8 @@
       "hook": "Rats were filmed catching bats in mid-air. In the dark.",
       "published_at": "2026-11-09T03:10:08Z",
       "privacy": "public",
-      "views": 152,
-      "likes": 1,
+      "views": 184,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMqWHgPm8kY"
     },
@@ -4886,20 +4911,20 @@
       "hook": "A totally blind man walked through an obstacle course untouched.",
       "published_at": "2026-11-09T12:30:04Z",
       "privacy": "public",
-      "views": 2,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Dtz0u9zn7wo"
     },
     "8VbMxHG-Bzo": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4908,8 +4933,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
-      "published_at": "2026-11-09T13:52:05Z",
-      "privacy": "private",
+      "published_at": "2026-11-09T15:00:32Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -4942,6 +4967,30 @@
       "avg_view_percent": 42.7,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "32p1FHP1L48": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "On One Island the Top Predator Is a Centipede. It Hunts Baby Birds",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
+      "published_at": "2026-11-09T15:08:25Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/32p1FHP1L48"
     },
     "cHsF4Dcrv30": {
       "upload_status": "processed",

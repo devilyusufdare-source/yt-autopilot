@@ -60,5 +60,22 @@
   ],
   "thumbnail_text": "A CENTIPEDE THAT HUNTS BIRDS",
   "priority": 7,
-  "first_comment": "Nearly half of this centipede's diet is animals with backbones: geckos, skinks, fish and chicks. Would you sleep on that island?"
+  "first_comment": "Nearly half of this centipede's diet is animals with backbones: geckos, skinks, fish and chicks. Would you sleep on that island?",
+  "youtube_id": "32p1FHP1L48",
+  "url": "https://youtube.com/shorts/32p1FHP1L48",
+  "uploaded_at": "2026-11-09T15:08:35+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-09T16:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-photo": 1,
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 36.6,
+  "style": "classic",
+  "kind": "shorts"
 }
