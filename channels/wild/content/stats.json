@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-11-09T17:20:53+00:00",
+  "updated_at": "2026-11-09T20:56:55+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
-    "channel_views": 15067,
-    "video_count": 69
+    "channel_views": 15340,
+    "video_count": 70
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/QrA3jMszKEw"
+      "https://youtube.com/shorts/rlZPxPBV00A"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/QrA3jMszKEw"
+      "https://youtube.com/shorts/rlZPxPBV00A"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/QrA3jMszKEw"
+      "https://youtube.com/shorts/rlZPxPBV00A"
     ]
   },
   "retention": {
-    "videos_with_data": 58,
-    "avg_view_percent": 65.9,
+    "videos_with_data": 63,
+    "avg_view_percent": 63.6,
     "by_topic": {
-      "earth": 63.6,
-      "space": 74.9,
+      "earth": 62.2,
+      "space": 71.9,
       "society": 50.9,
-      "animals": 47.2,
-      "body": 63.0,
-      "technology": 66.9
+      "animals": 48.7,
+      "body": 62.2,
+      "technology": 61.2
     },
     "best": [
       {
         "title": "What If You Lived Inside a Cave on the Moon?",
-        "avg_view_percent": 281.4,
+        "avg_view_percent": 227.8,
         "views": 25
       },
       {
-        "title": "What If We Sent Aliens a Message? We Did in 1974. It Hasn't Arrived",
-        "avg_view_percent": 197.5,
-        "views": 102
+        "title": "What If an Astronaut Let Go of the Ship? In 1984 One Did, on Purpose",
+        "avg_view_percent": 177.8,
+        "views": 215
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
@@ -83,15 +83,15 @@
         "views": 19
       },
       {
-        "title": "What If the Whole Asteroid Belt Became One Planet?",
-        "avg_view_percent": 31.5,
-        "views": 286
+        "title": "What If an Iron Rod Shot Through Your Skull? A Man Walked Away in 1848 and Lived 12 Years",
+        "avg_view_percent": 30.4,
+        "views": 10
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 70,
-  "total_views": 15419,
+  "total_videos": 71,
+  "total_views": 15460,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -110,12 +110,12 @@
     },
     "animals": {
       "videos": 10,
-      "avg_views": 248,
+      "avg_views": 251,
       "best_views": 1428
     },
     "body": {
-      "videos": 6,
-      "avg_views": 143,
+      "videos": 7,
+      "avg_views": 123,
       "best_views": 498
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 70,
-      "avg_views": 220,
+      "videos": 71,
+      "avg_views": 218,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 69,
-      "avg_views": 208
+      "videos": 70,
+      "avg_views": 206
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -181,7 +181,7 @@
     {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
-      "views": 879,
+      "views": 882,
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
     },
     {
@@ -340,7 +340,7 @@
       "comments": 4,
       "url": "https://youtube.com/shorts/VEKS-N2EUvg",
       "avg_view_seconds": 27.0,
-      "avg_view_percent": 81.4,
+      "avg_view_percent": 81.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1012,7 +1012,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 79.3,
+      "avg_view_percent": 79.7,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1124,7 +1124,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc",
       "avg_view_seconds": 33.0,
-      "avg_view_percent": 87.6,
+      "avg_view_percent": 88.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1203,12 +1203,12 @@
       "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
       "published_at": "2026-11-02T21:10:15Z",
       "privacy": "public",
-      "views": 292,
+      "views": 293,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I",
       "avg_view_seconds": 25.0,
-      "avg_view_percent": 62.5,
+      "avg_view_percent": 63.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1347,8 +1347,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nOw9IX9Y6Fg",
-      "avg_view_seconds": 101.0,
-      "avg_view_percent": 281.4,
+      "avg_view_seconds": 81.0,
+      "avg_view_percent": 227.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1431,8 +1431,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9VFV9DgN8Kw",
-      "avg_view_seconds": 27.0,
-      "avg_view_percent": 51.7,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 48.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1459,8 +1459,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 37.9,
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 43.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1487,8 +1487,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo",
-      "avg_view_seconds": 92.0,
-      "avg_view_percent": 197.5,
+      "avg_view_seconds": 42.0,
+      "avg_view_percent": 91.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1511,14 +1511,14 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 214,
+      "views": 215,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 59.3,
+      "avg_view_seconds": 76.0,
+      "avg_view_percent": 177.8,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 1
     },
     "BIt14NsOzWA": {
       "upload_status": "processed",
@@ -1571,8 +1571,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU",
-      "avg_view_seconds": 29.0,
-      "avg_view_percent": 64.4,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 51.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1599,8 +1599,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ueBtcnj-Buc",
-      "avg_view_seconds": 43.0,
-      "avg_view_percent": 92.5,
+      "avg_view_seconds": 33.0,
+      "avg_view_percent": 70.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1626,7 +1626,11 @@
       "views": 307,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/3pXCccgL-0I"
+      "url": "https://youtube.com/shorts/3pXCccgL-0I",
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 53.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "hv6S-MG-epc": {
       "upload_status": "processed",
@@ -1650,7 +1654,11 @@
       "views": 24,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/hv6S-MG-epc"
+      "url": "https://youtube.com/shorts/hv6S-MG-epc",
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 61.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "N7DiGn8Mexg": {
       "upload_status": "processed",
@@ -1671,10 +1679,14 @@
       "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
       "published_at": "2026-11-07T21:00:38Z",
       "privacy": "public",
-      "views": 65,
+      "views": 66,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/N7DiGn8Mexg"
+      "url": "https://youtube.com/shorts/N7DiGn8Mexg",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 38.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "rozFRQq0yAw": {
       "upload_status": "processed",
@@ -1695,10 +1707,14 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 879,
+      "views": 882,
       "likes": 6,
       "comments": 1,
-      "url": "https://youtube.com/shorts/rozFRQq0yAw"
+      "url": "https://youtube.com/shorts/rozFRQq0yAw",
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 47.9,
+      "shares": 0,
+      "subscribers_gained": 2
     },
     "8ov_Z_E0LvQ": {
       "upload_status": "processed",
@@ -1722,7 +1738,11 @@
       "views": 551,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/8ov_Z_E0LvQ"
+      "url": "https://youtube.com/shorts/8ov_Z_E0LvQ",
+      "avg_view_seconds": 29.0,
+      "avg_view_percent": 66.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "6HSGoaRjPLU": {
       "upload_status": "processed",
@@ -1743,7 +1763,7 @@
       "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
-      "views": 155,
+      "views": 185,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU"
@@ -1767,7 +1787,7 @@
       "hook": "What if we crashed a spacecraft into an asteroid to push it? NASA tried. It overshot.",
       "published_at": "2026-11-08T17:40:28Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SO9aGqEpzdg"
@@ -1815,7 +1835,7 @@
       "hook": "What if part of a plane's wall blew off mid-flight? In 2024 it did. Two seats saved everyone.",
       "published_at": "2026-11-04T17:20:26Z",
       "privacy": "public",
-      "views": 154,
+      "views": 157,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/61k2NffqMAU",
@@ -1867,7 +1887,7 @@
       "hook": "What if 90 percent of a country's women stopped for a day? Iceland did. Sausages sold out.",
       "published_at": "2026-11-09T02:50:12Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dLKcX2ivoBg"
@@ -1897,14 +1917,14 @@
       "url": "https://youtube.com/shorts/Ic5ympmJQrU"
     },
     "QrA3jMszKEw": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT50S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1913,12 +1933,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if the sky went black at midday, with no eclipse and no storm? In 1780 it happened.",
-      "published_at": "2026-11-09T17:20:49Z",
+      "published_at": "2026-11-09T17:50:04Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/QrA3jMszKEw"
+    },
+    "rlZPxPBV00A": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Ate a Polar Bear's Liver? Arctic Hunters Knew Never To",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you ate a polar bear's liver? Your skin could come off in sheets.",
+      "published_at": "2026-11-09T20:56:50Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/QrA3jMszKEw"
+      "url": "https://youtube.com/shorts/rlZPxPBV00A"
     },
     "6sP4tb9hKiw": {
       "upload_status": "processed",
@@ -1999,8 +2043,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wl6AjU6flcg",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 36.2,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 30.4,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -2083,8 +2127,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY",
-      "avg_view_seconds": 19.0,
-      "avg_view_percent": 47.5,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 43.2,
       "shares": 0,
       "subscribers_gained": 0
     },
