@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-08T21:20:39+00:00",
+  "updated_at": "2026-11-09T02:22:54+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 14544,
-    "video_count": 66
+    "video_count": 67
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/li-SDvymGZQ"
+      "https://youtube.com/shorts/dLKcX2ivoBg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/li-SDvymGZQ"
+      "https://youtube.com/shorts/dLKcX2ivoBg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/li-SDvymGZQ"
+      "https://youtube.com/shorts/dLKcX2ivoBg"
     ]
   },
   "retention": {
@@ -43,7 +43,7 @@
       {
         "title": "What If We Sent Aliens a Message? We Did in 1974. It Hasn't Arrived",
         "avg_view_percent": 197.5,
-        "views": 99
+        "views": 100
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
@@ -90,12 +90,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 67,
-  "total_views": 15079,
+  "total_videos": 68,
+  "total_views": 15142,
   "by_topic": {
     "earth": {
       "videos": 9,
-      "avg_views": 488,
+      "avg_views": 490,
       "best_views": 1115
     },
     "space": {
@@ -104,37 +104,37 @@
       "best_views": 1281
     },
     "society": {
-      "videos": 5,
-      "avg_views": 130,
+      "videos": 6,
+      "avg_views": 108,
       "best_views": 414
     },
     "animals": {
       "videos": 10,
-      "avg_views": 225,
+      "avg_views": 228,
       "best_views": 1428
     },
     "body": {
       "videos": 6,
-      "avg_views": 142,
+      "avg_views": 143,
       "best_views": 498
     },
     "technology": {
       "videos": 8,
-      "avg_views": 193,
+      "avg_views": 194,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 67,
-      "avg_views": 225,
+      "videos": 68,
+      "avg_views": 223,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 66,
-      "avg_views": 213
+      "videos": 67,
+      "avg_views": 210
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -181,13 +181,13 @@
     {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
-      "views": 863,
+      "views": 874,
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
     },
     {
       "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
       "topic": "earth",
-      "views": 510,
+      "views": 518,
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
@@ -811,7 +811,7 @@
       "hook": "What if you stopped eating for a whole year? One man did. The ending is the strange part.",
       "published_at": "2026-10-31T13:50:09Z",
       "privacy": "public",
-      "views": 88,
+      "views": 91,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MwU7gIiJAtk",
@@ -1119,7 +1119,7 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 25,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc",
@@ -1483,7 +1483,7 @@
       "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
-      "views": 99,
+      "views": 100,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo",
@@ -1623,7 +1623,7 @@
       "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
       "published_at": "2026-11-07T14:50:17Z",
       "privacy": "public",
-      "views": 220,
+      "views": 225,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I"
@@ -1647,7 +1647,7 @@
       "hook": "What if a B-52 dropped two hydrogen bombs on North Carolina? In 1961, one did.",
       "published_at": "2026-11-07T17:40:28Z",
       "privacy": "public",
-      "views": 13,
+      "views": 16,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hv6S-MG-epc"
@@ -1671,7 +1671,7 @@
       "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
       "published_at": "2026-11-07T21:00:38Z",
       "privacy": "public",
-      "views": 51,
+      "views": 55,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg"
@@ -1695,7 +1695,7 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 863,
+      "views": 874,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw"
@@ -1719,7 +1719,7 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 510,
+      "views": 518,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ"
@@ -1743,7 +1743,7 @@
       "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
-      "views": 24,
+      "views": 43,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU"
@@ -1767,7 +1767,7 @@
       "hook": "What if we crashed a spacecraft into an asteroid to push it? NASA tried. It overshot.",
       "published_at": "2026-11-08T17:40:28Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SO9aGqEpzdg"
@@ -1791,9 +1791,9 @@
       "hook": "What if every police officer in a city walked out at once? Montreal tried it. Sixteen hours.",
       "published_at": "2026-11-08T21:00:01Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/BN6tRrVJNQs"
     },
     "61k2NffqMAU": {
@@ -1825,14 +1825,14 @@
       "subscribers_gained": 0
     },
     "li-SDvymGZQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT51S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1841,12 +1841,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if a nuclear reactor fell from orbit? One did in 1978. The bill was never paid.",
-      "published_at": "2026-11-08T21:20:33Z",
+      "published_at": "2026-11-08T21:50:35Z",
+      "privacy": "public",
+      "views": 5,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/li-SDvymGZQ"
+    },
+    "dLKcX2ivoBg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If 90% of a Country's Women Stopped Working for a Day? Iceland Did It in 1975",
+      "topic": "society",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if 90 percent of a country's women stopped for a day? Iceland did. Sausages sold out.",
+      "published_at": "2026-11-09T02:22:50Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/li-SDvymGZQ"
+      "url": "https://youtube.com/shorts/dLKcX2ivoBg"
     },
     "6sP4tb9hKiw": {
       "upload_status": "processed",
