@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-11-10T04:01:13+00:00",
+  "updated_at": "2026-11-10T12:44:18+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
-    "channel_views": 15340,
+    "channel_views": 15470,
     "video_count": 72
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/EnjPbpuGvSU"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/EnjPbpuGvSU"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/EnjPbpuGvSU"
+    ]
   },
   "retention": {
     "videos_with_data": 63,
@@ -37,7 +43,7 @@
       {
         "title": "What If an Astronaut Let Go of the Ship? In 1984 One Did, on Purpose",
         "avg_view_percent": 177.8,
-        "views": 215
+        "views": 216
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
@@ -84,32 +90,32 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 72,
-  "total_views": 15537,
+  "total_videos": 73,
+  "total_views": 15613,
   "by_topic": {
     "earth": {
       "videos": 10,
-      "avg_views": 446,
-      "best_views": 1118
+      "avg_views": 447,
+      "best_views": 1119
     },
     "space": {
-      "videos": 30,
-      "avg_views": 181,
+      "videos": 31,
+      "avg_views": 175,
       "best_views": 1281
     },
     "society": {
       "videos": 6,
-      "avg_views": 111,
+      "avg_views": 112,
       "best_views": 414
     },
     "animals": {
       "videos": 11,
-      "avg_views": 229,
+      "avg_views": 232,
       "best_views": 1428
     },
     "body": {
       "videos": 7,
-      "avg_views": 130,
+      "avg_views": 133,
       "best_views": 498
     },
     "technology": {
@@ -120,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 72,
-      "avg_views": 216,
+      "videos": 73,
+      "avg_views": 214,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 71,
-      "avg_views": 204
+      "videos": 72,
+      "avg_views": 202
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -151,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1118,
+      "views": 1119,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -175,13 +181,13 @@
     {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
-      "views": 888,
+      "views": 894,
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
     },
     {
       "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
       "topic": "earth",
-      "views": 551,
+      "views": 557,
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
@@ -1001,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1118,
+      "views": 1119,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1449,7 +1455,7 @@
       "hook": "What if one snake species took over a whole island? Guam found out, and the forest went silent.",
       "published_at": "2026-11-06T03:10:25Z",
       "privacy": "public",
-      "views": 30,
+      "views": 31,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU",
@@ -1505,7 +1511,7 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 215,
+      "views": 216,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM",
@@ -1561,7 +1567,7 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 205,
+      "views": 206,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU",
@@ -1617,7 +1623,7 @@
       "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
       "published_at": "2026-11-07T14:50:17Z",
       "privacy": "public",
-      "views": 309,
+      "views": 310,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I",
@@ -1701,7 +1707,7 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 888,
+      "views": 894,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw",
@@ -1729,7 +1735,7 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 551,
+      "views": 557,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ",
@@ -1757,8 +1763,8 @@
       "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
-      "views": 189,
-      "likes": 4,
+      "views": 223,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU"
     },
@@ -1805,7 +1811,7 @@
       "hook": "What if every police officer in a city walked out at once? Montreal tried it. Sixteen hours.",
       "published_at": "2026-11-08T21:00:01Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BN6tRrVJNQs"
@@ -1857,7 +1863,7 @@
       "hook": "What if a nuclear reactor fell from orbit? One did in 1978. The bill was never paid.",
       "published_at": "2026-11-08T21:50:35Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/li-SDvymGZQ"
@@ -1881,7 +1887,7 @@
       "hook": "What if 90 percent of a country's women stopped for a day? Iceland did. Sausages sold out.",
       "published_at": "2026-11-09T02:50:12Z",
       "privacy": "public",
-      "views": 12,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dLKcX2ivoBg"
@@ -1953,7 +1959,7 @@
       "hook": "What if you ate a polar bear's liver? Your skin could come off in sheets.",
       "published_at": "2026-11-09T21:20:20Z",
       "privacy": "public",
-      "views": 48,
+      "views": 66,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A"
@@ -2005,10 +2011,34 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM"
+    },
+    "EnjPbpuGvSU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Hit a Golf Ball on the Moon? Someone Did in 1971, and Lied About the Distance",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you teed off on the Moon? One astronaut did, and lied about the distance.",
+      "published_at": "2026-11-10T12:44:14Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/EnjPbpuGvSU"
     },
     "UWlaqnyoJ4A": {
       "upload_status": "processed",
