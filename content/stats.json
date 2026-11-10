@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-10T17:55:09+00:00",
+  "updated_at": "2026-11-10T18:51:28+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 73,
     "channel_views": 68883,
-    "video_count": 270
+    "video_count": 271
   },
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/15nbrnKyWHE",
-      "https://youtube.com/shorts/IN5A3Mj60ok"
+      "https://youtube.com/shorts/TgGGPT0hFpg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/15nbrnKyWHE"
+      "https://youtube.com/shorts/TgGGPT0hFpg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/15nbrnKyWHE"
+      "https://youtube.com/shorts/TgGGPT0hFpg"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 270,
-  "total_views": 71377,
+  "total_videos": 271,
+  "total_views": 71423,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 193,
-      "avg_views": 268,
+      "videos": 194,
+      "avg_views": 267,
       "best_views": 1507
     },
     "human body": {
@@ -128,13 +128,13 @@
     "technology": {
       "videos": 5,
       "avg_views": 87,
-      "best_views": 283
+      "best_views": 279
     }
   },
   "by_style": {
     "classic": {
-      "videos": 254,
-      "avg_views": 254,
+      "videos": 255,
+      "avg_views": 253,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 184,
-      "avg_views": 180
+      "videos": 185,
+      "avg_views": 179
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -336,7 +336,7 @@
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
       "views": 365,
-      "likes": 11,
+      "likes": 12,
       "comments": 3,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA",
       "avg_view_seconds": 13.0,
@@ -1791,7 +1791,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 198,
+      "views": 210,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
@@ -1839,7 +1839,7 @@
       "hook": "A shark that walks out of the sea. On its fins.",
       "published_at": "2026-11-09T21:30:38Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i4AAj7Pg6sQ"
@@ -1863,7 +1863,7 @@
       "hook": "A garden songbird that hunts bats.",
       "published_at": "2026-11-10T00:20:27Z",
       "privacy": "public",
-      "views": 23,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/340LMR9p660"
@@ -1943,20 +1943,20 @@
       "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
       "published_at": "2026-11-10T02:50:29Z",
       "privacy": "public",
-      "views": 34,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/J7yZVtMxDvE"
     },
     "15nbrnKyWHE": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT33S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2129,11 +2129,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fish eats birds, breathes air, and crawls to the next pond when it's done.",
-      "published_at": "2026-11-10T16:42:48Z",
-      "privacy": "private",
+      "published_at": "2026-11-10T18:00:36Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/IN5A3Mj60ok"
     },
     "14_g6NqKatc": {
@@ -2185,7 +2185,7 @@
       "privacy": "public",
       "views": 9,
       "likes": 0,
-      "comments": 1,
+      "comments": 0,
       "url": "https://youtube.com/shorts/loc-nCkI7hE",
       "avg_view_seconds": 9.0,
       "avg_view_percent": 26.0,
@@ -2275,6 +2275,30 @@
       "avg_view_percent": 70.2,
       "shares": 0,
       "subscribers_gained": 11
+    },
+    "TgGGPT0hFpg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "These Ants Can't Feed Themselves, So They Kidnap Other Ants to Do It",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "These ants can't feed themselves. So they steal babies.",
+      "published_at": "2026-11-10T18:51:16Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/TgGGPT0hFpg"
     },
     "KuI61cDYijY": {
       "upload_status": "processed",
@@ -2659,7 +2683,7 @@
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
       "published_at": "2026-11-08T15:40:11Z",
       "privacy": "public",
-      "views": 283,
+      "views": 279,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
@@ -2683,7 +2707,7 @@
       "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
       "published_at": "2026-11-09T15:30:38Z",
       "privacy": "public",
-      "views": 35,
+      "views": 45,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hagyIaLCA4M"
@@ -2931,7 +2955,7 @@
       "hook": "Five fires that never went out, ranked. Number one was burning before the pyramids were built.",
       "published_at": "2026-11-10T15:30:00Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wd54rwPedR4"
@@ -4739,7 +4763,7 @@
       "hook": "A male bee tries to mate with this lump.",
       "published_at": "2026-11-08T16:50:16Z",
       "privacy": "public",
-      "views": 448,
+      "views": 461,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg"
@@ -4791,7 +4815,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 313,
+      "views": 324,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s"
@@ -4871,7 +4895,7 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 959,
+      "views": 958,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA"
@@ -4999,7 +5023,7 @@
       "hook": "These frog eggs know when a snake is eating them.",
       "published_at": "2026-11-09T00:10:35Z",
       "privacy": "public",
-      "views": 999,
+      "views": 998,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/4UE4LUCRyws"
@@ -5023,7 +5047,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 229,
+      "views": 236,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw"
@@ -5175,7 +5199,7 @@
       "hook": "The 1904 Olympic marathon was won on strychnine and brandy.",
       "published_at": "2026-11-10T12:20:37Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ca34HwuWgVs"
@@ -5199,7 +5223,7 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 251,
+      "views": 282,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo"
@@ -5251,7 +5275,7 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 244,
+      "views": 220,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48"
@@ -5331,7 +5355,7 @@
       "hook": "That perfect round hole in a seashell isn't an accident. Something drilled it.",
       "published_at": "2026-11-09T18:00:06Z",
       "privacy": "public",
-      "views": 912,
+      "views": 922,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/axMrOJmzu9k"
@@ -5383,8 +5407,8 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 185,
-      "likes": 1,
+      "views": 146,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo"
     },
@@ -5407,7 +5431,7 @@
       "hook": "This ladybug is alive. It's guarding its own parasite.",
       "published_at": "2026-11-10T15:00:03Z",
       "privacy": "public",
-      "views": 1,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA"
@@ -5431,7 +5455,7 @@
       "hook": "This dinosaur's blood survived 115 million years.",
       "published_at": "2026-11-10T17:00:04Z",
       "privacy": "public",
-      "views": 1,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
@@ -6295,7 +6319,7 @@
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
       "published_at": "2026-10-29T21:20:18Z",
       "privacy": "public",
-      "views": 115,
+      "views": 117,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA",
@@ -7051,7 +7075,7 @@
       "hook": "A worm this long hides under the seafloor and you never see it.",
       "published_at": "2026-11-01T00:10:21Z",
       "privacy": "public",
-      "views": 262,
+      "views": 263,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/_53QIS8NovU",
@@ -7499,7 +7523,7 @@
       "hook": "Every eel in Europe is born in a place no one has ever seen.",
       "published_at": "2026-11-02T20:00:29Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DN6jpzoIDp8",
