@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-10T16:43:02+00:00",
+  "updated_at": "2026-11-10T17:55:09+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 73,
     "channel_views": 68883,
-    "video_count": 269
+    "video_count": 270
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/IN5A3Mj60ok",
-      "https://youtube.com/shorts/U0E6tfM-Dqs"
+      "https://youtube.com/shorts/15nbrnKyWHE",
+      "https://youtube.com/shorts/IN5A3Mj60ok"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/IN5A3Mj60ok"
+      "https://youtube.com/shorts/15nbrnKyWHE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/IN5A3Mj60ok"
+      "https://youtube.com/shorts/15nbrnKyWHE"
     ]
   },
   "retention": {
@@ -92,12 +92,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 269,
-  "total_views": 70843,
+  "total_videos": 270,
+  "total_views": 71377,
   "by_topic": {
     "psychology": {
       "videos": 3,
-      "avg_views": 245,
+      "avg_views": 246,
       "best_views": 364
     },
     "science": {
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 192,
-      "avg_views": 267,
+      "videos": 193,
+      "avg_views": 268,
       "best_views": 1507
     },
     "human body": {
@@ -117,7 +117,7 @@
     },
     "history": {
       "videos": 15,
-      "avg_views": 130,
+      "avg_views": 131,
       "best_views": 1114
     },
     "space": {
@@ -128,13 +128,13 @@
     "technology": {
       "videos": 5,
       "avg_views": 87,
-      "best_views": 279
+      "best_views": 283
     }
   },
   "by_style": {
     "classic": {
-      "videos": 253,
-      "avg_views": 253,
+      "videos": 254,
+      "avg_views": 254,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 183,
-      "avg_views": 178
+      "videos": 184,
+      "avg_views": 180
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1791,7 +1791,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 172,
+      "views": 198,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
@@ -1815,7 +1815,7 @@
       "hook": "This male crab is raising babies. None of them are his.",
       "published_at": "2026-11-09T21:00:39Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM"
@@ -1863,7 +1863,7 @@
       "hook": "A garden songbird that hunts bats.",
       "published_at": "2026-11-10T00:20:27Z",
       "privacy": "public",
-      "views": 20,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/340LMR9p660"
@@ -1943,10 +1943,34 @@
       "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
       "published_at": "2026-11-10T02:50:29Z",
       "privacy": "public",
-      "views": 29,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/J7yZVtMxDvE"
+    },
+    "15nbrnKyWHE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The Fastest Move in Nature Belongs to an Ant That Drinks Its Babies' Blood",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Nothing on Earth moves faster than this ant's jaw.",
+      "published_at": "2026-11-10T17:54:59Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/15nbrnKyWHE"
     },
     "vosG2Q9tRXk": {
       "upload_status": "processed",
@@ -2089,14 +2113,14 @@
       "subscribers_gained": 0
     },
     "IN5A3Mj60ok": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT42S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2161,7 +2185,7 @@
       "privacy": "public",
       "views": 9,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/loc-nCkI7hE",
       "avg_view_seconds": 9.0,
       "avg_view_percent": 26.0,
@@ -2635,7 +2659,7 @@
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
       "published_at": "2026-11-08T15:40:11Z",
       "privacy": "public",
-      "views": 279,
+      "views": 283,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
@@ -2959,7 +2983,7 @@
       "hook": "Something is eating whales alive off Argentina. It weighs two pounds.",
       "published_at": "2026-11-06T03:10:18Z",
       "privacy": "public",
-      "views": 75,
+      "views": 76,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/BiZ1q9XNjeE",
@@ -4219,7 +4243,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 964,
+      "views": 965,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk",
@@ -4663,7 +4687,7 @@
       "hook": "This bat finds its dinner by listening to love songs.",
       "published_at": "2026-11-08T15:10:27Z",
       "privacy": "public",
-      "views": 39,
+      "views": 42,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dgNAPMvw7Y0"
@@ -4715,7 +4739,7 @@
       "hook": "A male bee tries to mate with this lump.",
       "published_at": "2026-11-08T16:50:16Z",
       "privacy": "public",
-      "views": 409,
+      "views": 448,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg"
@@ -4767,7 +4791,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 300,
+      "views": 313,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s"
@@ -4847,7 +4871,7 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 958,
+      "views": 959,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA"
@@ -4899,7 +4923,7 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 926,
+      "views": 928,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k"
@@ -4975,7 +4999,7 @@
       "hook": "These frog eggs know when a snake is eating them.",
       "published_at": "2026-11-09T00:10:35Z",
       "privacy": "public",
-      "views": 998,
+      "views": 999,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/4UE4LUCRyws"
@@ -4999,7 +5023,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 198,
+      "views": 229,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw"
@@ -5023,7 +5047,7 @@
       "hook": "Rats were filmed catching bats in mid-air. In the dark.",
       "published_at": "2026-11-09T03:10:08Z",
       "privacy": "public",
-      "views": 956,
+      "views": 957,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMqWHgPm8kY"
@@ -5127,7 +5151,7 @@
       "hook": "A totally blind man walked through an obstacle course untouched.",
       "published_at": "2026-11-09T12:30:04Z",
       "privacy": "public",
-      "views": 45,
+      "views": 47,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Dtz0u9zn7wo"
@@ -5151,7 +5175,7 @@
       "hook": "The 1904 Olympic marathon was won on strychnine and brandy.",
       "published_at": "2026-11-10T12:20:37Z",
       "privacy": "public",
-      "views": 1,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ca34HwuWgVs"
@@ -5175,8 +5199,8 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 84,
-      "likes": 0,
+      "views": 251,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo"
     },
@@ -5227,7 +5251,7 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 220,
+      "views": 244,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48"
@@ -5307,7 +5331,7 @@
       "hook": "That perfect round hole in a seashell isn't an accident. Something drilled it.",
       "published_at": "2026-11-09T18:00:06Z",
       "privacy": "public",
-      "views": 750,
+      "views": 912,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/axMrOJmzu9k"
@@ -5359,8 +5383,8 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 146,
-      "likes": 0,
+      "views": 185,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo"
     },
@@ -5383,7 +5407,7 @@
       "hook": "This ladybug is alive. It's guarding its own parasite.",
       "published_at": "2026-11-10T15:00:03Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA"
@@ -5405,11 +5429,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This dinosaur's blood survived 115 million years.",
-      "published_at": "2026-11-10T16:33:22Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-10T17:00:04Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
     },
     "78YbRLetQWA": {

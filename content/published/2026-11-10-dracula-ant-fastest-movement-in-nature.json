@@ -58,5 +58,20 @@
   "thumbnail_text": "0 TO 200 MPH IN 0.000015 S",
   "priority": 6,
   "first_comment": "Dracula ants live in Australia and tropical Southeast Asia and hunt under leaf litter. The snap beat the previous record, held by another ant, by about three times. Which animal record should we cover next?",
-  "_attempts": 1
+  "youtube_id": "15nbrnKyWHE",
+  "url": "https://youtube.com/shorts/15nbrnKyWHE",
+  "uploaded_at": "2026-11-10T17:55:06+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-10T19:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 32.2,
+  "style": "classic",
+  "kind": "shorts"
 }
