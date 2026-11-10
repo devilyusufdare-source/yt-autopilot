@@ -6,11 +6,13 @@ on:
     # channels/wild/channel.yml (IST 07:45, 19:00, 22:00, 02:30 during the launch week). Runs share the
     # "daily-video" queue with channel 1, so they never push at the same time. Add cron lines here when
     # `release.videos_per_day` and the slot list grow (6 -> 8 -> 10).
-    - cron: "20 1 * * *"
-    - cron: "35 12 * * *"
-    - cron: "35 15 * * *"
-    - cron: "5 14 * * *"    # for the 20:30 IST slot (moved from 00:30 on 9 Nov)
-    - cron: "5 20 * * *"
+    # 10 Nov: GitHub starts scheduled runs 45-75 min late, so on 9 Nov the 19:00 run landed after its slot and the
+    # day had 4 videos. Each run now starts ~1 h 40 min before its slot (IST 07:45, 19:00, 20:30, 22:00, 02:30).
+    - cron: "35 0 * * *"
+    - cron: "50 11 * * *"
+    - cron: "20 13 * * *"
+    - cron: "50 14 * * *"
+    - cron: "20 19 * * *"
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
     paths:
