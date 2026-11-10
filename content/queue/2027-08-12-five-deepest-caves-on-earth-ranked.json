@@ -1,0 +1,73 @@
+{
+  "format": "ranking",
+  "ranking_by": "maximum surveyed depth in metres",
+  "topic": "science",
+  "subject": "deep cave",
+  "title": "The 5 Deepest Caves on Earth, Ranked (4 Are in One Tiny Disputed Region)",
+  "scenes": [
+    {
+      "text": "Earth's five deepest caves. Four hide in one tiny disputed region. Number one swallows seven Eiffel Towers.",
+      "keywords": "caver abseiling into cave"
+    },
+    {
+      "text": "Number five: Lamprechtsofen, in Austria. 1,727 meters deep, the only one on this list outside the Caucasus. Part of it is a show cave.",
+      "keywords": "cave tourists walkway",
+      "rank": 5,
+      "label": "Lamprechtsofen · 1,727 m"
+    },
+    {
+      "text": "Number four: the Snezhnaya system in Abkhazia. 1,760 meters deep, with more than 40 kilometers of passages.",
+      "keywords": "cave passage headlamp",
+      "rank": 4,
+      "label": "Snezhnaya · 1,760 m"
+    },
+    {
+      "text": "Number three: Sarma Cave, in the same mountains. 1,830 meters, deeper than two Burj Khalifas stacked end to end.",
+      "keywords": "deep cave shaft",
+      "rank": 3,
+      "label": "Sarma · 1,830 m"
+    },
+    {
+      "text": "Number two: Veryovkina. 2,209 meters. Cavers reached its floor in 2018, and sudden floods can fill the lower passages in minutes.",
+      "keywords": "underground river cave",
+      "rank": 2,
+      "label": "Veryovkina · 2,209 m"
+    },
+    {
+      "text": "Number one: Krubera, in the same Arabika Massif. 2,224 meters, nearly seven Eiffel Towers straight down into the dark.",
+      "keywords": "cave rope descent darkness",
+      "rank": 1,
+      "label": "Krubera · 2,224 m"
+    }
+  ],
+  "description": "The five deepest caves on Earth, ranked by maximum surveyed depth.\nFour of the five lie in Abkhazia, a breakaway region of Georgia, three of them in the Arabika Massif: Krubera (Voronya) at 2,224 m, Veryovkina at 2,209 m after a 2024 re-survey, and Sarma at 1,830 m. The Snezhnaya system (listed as Tovliani in some surveys) reaches 1,760 m, and Lamprechtsofen in Austria's Leogang Mountains reaches 1,727 m. For scale, the Eiffel Tower is about 330 m tall and the Burj Khalifa 828 m.\nWould you go down any of these? Which one should we rank next?",
+  "tags": [
+    "deepest caves",
+    "krubera cave",
+    "veryovkina cave",
+    "deepest cave in the world",
+    "caving",
+    "abkhazia caves",
+    "cave exploration",
+    "top 5 caves",
+    "earth facts",
+    "science rankings",
+    "geography facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#caves",
+    "#ranking",
+    "#science"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_deepest_caves",
+    "https://www.worldatlas.com/caves/the-deepest-caves-in-the-world.html"
+  ],
+  "thumbnail_text": "5 DEEPEST CAVES, RANKED",
+  "priority": 6,
+  "first_comment": "Krubera at number one, by just 15 meters. Which would you put at number one, and what should we rank next?",
+  "id": "2027-08-12-five-deepest-caves-on-earth-ranked"
+}

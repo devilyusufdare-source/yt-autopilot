@@ -1,0 +1,61 @@
+{
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "electric kettle",
+  "title": "What If a Whole Nation Boiled Its Kettles at Once? Britain Does, on Schedule",
+  "scenes": [
+    {
+      "text": "What if a whole nation boiled its kettles at once? Britain does, and the grid watches TV.",
+      "keywords": "electric kettle boiling steam"
+    },
+    {
+      "text": "A British kettle pulls up to 3 kilowatts. When a hit show ends, millions click them on together and demand jumps 200 to 400 megawatts. Engineers call it TV pickup.",
+      "keywords": "family watching tv living room"
+    },
+    {
+      "text": "The record: 4 July 1990. England lost a World Cup penalty shootout, 26 million viewers stood up, and demand leapt 2,800 megawatts. About 933,000 kettles.",
+      "keywords": "football penalty shootout stadium"
+    },
+    {
+      "text": "So National Grid studies the TV schedules and five years of demand data to predict each surge.",
+      "keywords": "control room screens engineers"
+    },
+    {
+      "text": "When it hits, a pumped-storage plant inside a Welsh mountain, Dinorwig, drops water through its turbines: 1,320 megawatts in 12 seconds.",
+      "keywords": "hydroelectric dam turbine water"
+    },
+    {
+      "text": "Streaming has shrunk the surges, but big moments still land. The Queen's 2020 pandemic address: 500 to 600 megawatts of tea.",
+      "keywords": "pouring tea cup"
+    }
+  ],
+  "description": "What if millions of people switched on their kettles in the same minute? In Britain they do, every time a popular programme ends, and the grid plans for it.\nTV pickup surges typically add 200 to 400 MW; the record was 2,800 MW after the 1990 World Cup semi-final penalty shootout, roughly 933,000 kettles. National Grid forecasts the surges from TV schedules and five years of demand data, and the Dinorwig pumped-storage station in Wales can deliver 1,320 MW within 12 seconds. Streaming has reduced the effect, but the Queen's 2020 pandemic address still caused a 500 to 600 MW pickup.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "tv pickup",
+    "national grid",
+    "kettle surge",
+    "power grid",
+    "dinorwig",
+    "electricity facts",
+    "uk facts",
+    "engineering facts",
+    "what would happen",
+    "technology facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#technology",
+    "#uk"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/TV_pickup",
+    "https://www.designingbuildings.co.uk/wiki/TV_pickup"
+  ],
+  "thumbnail_text": "WHAT IF EVERYONE BOILED A KETTLE?",
+  "priority": 6,
+  "first_comment": "2,800 megawatts for tea after one penalty shootout. What would your country switch on all at once? Drop your own what-if below.",
+  "id": "2027-07-28-what-if-everyone-switched-on-a-kettle-at-once"
+}
