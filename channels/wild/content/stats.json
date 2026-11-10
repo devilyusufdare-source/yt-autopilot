@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-10T02:18:13+00:00",
+  "updated_at": "2026-11-10T04:01:13+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 15340,
-    "video_count": 71
+    "video_count": 72
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/PUuUwav27oM"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/PUuUwav27oM"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/PUuUwav27oM"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 63,
@@ -32,7 +26,7 @@
       "society": 50.9,
       "animals": 48.7,
       "body": 62.2,
-      "technology": 61.2
+      "technology": 61.1
     },
     "best": [
       {
@@ -91,7 +85,7 @@
   },
   "retention_note": null,
   "total_videos": 72,
-  "total_views": 15504,
+  "total_views": 15537,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -105,17 +99,17 @@
     },
     "society": {
       "videos": 6,
-      "avg_views": 110,
+      "avg_views": 111,
       "best_views": 414
     },
     "animals": {
       "videos": 11,
-      "avg_views": 228,
+      "avg_views": 229,
       "best_views": 1428
     },
     "body": {
       "videos": 7,
-      "avg_views": 127,
+      "avg_views": 130,
       "best_views": 498
     },
     "technology": {
@@ -127,7 +121,7 @@
   "by_style": {
     "classic": {
       "videos": 72,
-      "avg_views": 215,
+      "avg_views": 216,
       "over_1500": 0
     }
   },
@@ -1119,7 +1113,7 @@
       "hook": "What if you could see light you're built to miss? In one lab, thirty volunteers did.",
       "published_at": "2026-11-02T14:10:22Z",
       "privacy": "public",
-      "views": 30,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc",
@@ -1623,7 +1617,7 @@
       "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
       "published_at": "2026-11-07T14:50:17Z",
       "privacy": "public",
-      "views": 307,
+      "views": 309,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I",
@@ -1764,7 +1758,7 @@
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
       "views": 189,
-      "likes": 5,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU"
     },
@@ -1811,7 +1805,7 @@
       "hook": "What if every police officer in a city walked out at once? Montreal tried it. Sixteen hours.",
       "published_at": "2026-11-08T21:00:01Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BN6tRrVJNQs"
@@ -1863,7 +1857,7 @@
       "hook": "What if a nuclear reactor fell from orbit? One did in 1978. The bill was never paid.",
       "published_at": "2026-11-08T21:50:35Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/li-SDvymGZQ"
@@ -1887,7 +1881,7 @@
       "hook": "What if 90 percent of a country's women stopped for a day? Iceland did. Sausages sold out.",
       "published_at": "2026-11-09T02:50:12Z",
       "privacy": "public",
-      "views": 8,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dLKcX2ivoBg"
@@ -1959,7 +1953,7 @@
       "hook": "What if you ate a polar bear's liver? Your skin could come off in sheets.",
       "published_at": "2026-11-09T21:20:20Z",
       "privacy": "public",
-      "views": 28,
+      "views": 48,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A"
@@ -1993,14 +1987,14 @@
       "subscribers_gained": 0
     },
     "PUuUwav27oM": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT49S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2009,11 +2003,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
-      "published_at": "2026-11-10T02:18:08Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-10T02:40:25Z",
+      "privacy": "public",
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM"
     },
     "UWlaqnyoJ4A": {
@@ -2151,8 +2145,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 43.2,
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 42.3,
       "shares": 0,
       "subscribers_gained": 0
     },
