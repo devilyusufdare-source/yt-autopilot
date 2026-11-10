@@ -1,0 +1,58 @@
+{
+  "id": "2027-07-25-what-if-a-glitch-lost-440-million-in-45-minutes",
+  "format": "whatif",
+  "topic": "technology",
+  "title": "What If a Software Glitch Lost $440 Million in 45 Minutes? In 2012 One Did",
+  "scenes": [
+    {
+      "text": "What if a computer threw away 440 million dollars in 45 minutes? On August 1, 2012, one did.",
+      "keywords": "stock exchange trading floor"
+    },
+    {
+      "text": "Knight Capital was one of the biggest traders on the New York Stock Exchange. That morning it installed new software.",
+      "keywords": "server room blinking lights"
+    },
+    {
+      "text": "At the opening bell the software began firing rapid, bogus orders into the market, in stock after stock.",
+      "keywords": "stock ticker screens fast"
+    },
+    {
+      "text": "For 45 minutes nobody stopped it. The exchange reviewed about 140 trades afterwards and cancelled only six.",
+      "keywords": "trader shouting phone"
+    },
+    {
+      "text": "The pre-tax loss: approximately 440 million dollars. Knight's shares plunged by up to 80 percent over two days.",
+      "keywords": "stock chart crash red"
+    },
+    {
+      "text": "A firm that took years to build, crippled by one install in less than a lunch break. Who checks the code that moves your money?",
+      "keywords": "code on computer screen"
+    }
+  ],
+  "description": "What if a trading program lost 440 million dollars in 45 minutes? On 1 August 2012, Knight Capital installed new software that fired rapid erroneous orders into the New York Stock Exchange from the opening bell.\nThe firm reported a realised pre-tax loss of approximately 440 million dollars, the exchange cancelled only six of about 140 reviewed trades, and Knight's shares fell by up to 80 percent over two days.\nWhat should we run through next?",
+  "tags": [
+    "knight capital",
+    "trading glitch",
+    "software bug cost",
+    "stock market crash",
+    "algorithmic trading",
+    "wall street",
+    "what if",
+    "what would happen",
+    "technology facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#technology",
+    "#stocks"
+  ],
+  "sources": [
+    "https://www.sec.gov/Archives/edgar/data/0001060749/000119312512332176/d391111dex991.htm",
+    "https://www.theglobaltreasurer.com/2012/08/03/knight-capital-suffers-us440m-trading-loss-from-software-glitch"
+  ],
+  "thumbnail_text": "WHAT IF CODE LOST $440 MILLION?",
+  "priority": 6,
+  "first_comment": "Forty-five minutes, 440 million dollars. What is the most expensive mistake you know of? Drop your own what-if below."
+}
