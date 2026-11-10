@@ -1,0 +1,73 @@
+{
+  "id": "2027-07-31-five-tallest-mountains-in-the-solar-system-ranked",
+  "format": "ranking",
+  "topic": "space",
+  "title": "The 5 Tallest Mountains in the Solar System, Ranked (Everest Isn't Top 10)",
+  "scenes": [
+    {
+      "text": "The solar system's five tallest mountains. Everest isn't top ten. Number two isn't on a planet.",
+      "keywords": "mars olympus mons"
+    },
+    {
+      "rank": 5,
+      "label": "Ascraeus Mons · ~15 km",
+      "text": "Number five: Ascraeus Mons, on Mars. About fifteen kilometres from base to peak, the tallest of the three Tharsis volcanoes.",
+      "keywords": "mars volcano surface"
+    },
+    {
+      "rank": 4,
+      "label": "Boosaule Montes · ~18 km",
+      "text": "Number four: Boosaule Montes, on Jupiter's moon Io. About eighteen kilometres, with a fifteen-kilometre cliff on one flank.",
+      "keywords": "jupiter moon io volcano"
+    },
+    {
+      "rank": 3,
+      "label": "Iapetus ridge · ~20 km",
+      "text": "Number three: the equatorial ridge of Iapetus, Saturn's moon. Peaks around twenty kilometres high, along 1,300 kilometres.",
+      "keywords": "saturn moon iapetus"
+    },
+    {
+      "rank": 2,
+      "label": "Rheasilvia peak · ~22 km",
+      "text": "Number two: the central peak of Rheasilvia crater on Vesta, an asteroid 525 kilometres wide. Around twenty-two kilometres high.",
+      "keywords": "asteroid vesta space"
+    },
+    {
+      "rank": 1,
+      "label": "Olympus Mons · 22-26 km",
+      "text": "Number one: Olympus Mons on Mars. Twenty-two to twenty-six kilometres, depending where you call the base. Everest, base to peak, is under five.",
+      "keywords": "olympus mons mars"
+    }
+  ],
+  "description": "The five tallest mountains in the solar system, ranked by height from base to peak: Olympus Mons on Mars (about 22 to 26 km), the central peak of Rheasilvia crater on the asteroid Vesta (around 22 km), the equatorial ridge of Saturn's moon Iapetus (about 20 km), Boösaule Montes on Jupiter's moon Io (about 18 km) and Ascraeus Mons on Mars (about 15 km).\nMeasurements of the base are uncertain, so Olympus Mons and Rheasilvia are close to a tie. Everest rises under 5 km from its base; Mauna Kea about 10 km.\nWould you climb a mountain three times Everest's height?",
+  "tags": [
+    "tallest mountains solar system",
+    "olympus mons",
+    "rheasilvia vesta",
+    "iapetus ridge",
+    "boosaule montes io",
+    "mars facts",
+    "space facts",
+    "astronomy",
+    "planets ranked",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#mars",
+    "#astronomy"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_tallest_mountains_in_the_Solar_System",
+    "https://bigthink.com/starts-with-a-bang/tallest-mountains-solar-system/",
+    "https://universemagazine.com/en/top-12-the-tallest-mountains-in-the-solar-system/"
+  ],
+  "thumbnail_text": "5 TALLEST MOUNTAINS IN SPACE",
+  "priority": 6,
+  "subject": "Olympus Mons Mars",
+  "first_comment": "Olympus Mons or Vesta's peak at number one? And what should we rank next?",
+  "ranking_by": "height from base to peak in kilometres"
+}

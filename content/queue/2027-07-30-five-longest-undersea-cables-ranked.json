@@ -1,0 +1,74 @@
+{
+  "id": "2027-07-30-five-longest-undersea-cables-ranked",
+  "format": "ranking",
+  "topic": "technology",
+  "title": "The 5 Longest Undersea Cables Ever Laid, Ranked (#1 Is Longer Than Earth Is Round)",
+  "scenes": [
+    {
+      "text": "The five longest cables on the ocean floor. Number one is longer than the way around the Earth.",
+      "keywords": "undersea cable laying ship"
+    },
+    {
+      "rank": 5,
+      "label": "SEA-ME-WE 5 · 20,000 km",
+      "text": "Number five: SEA-ME-WE 5. Twenty thousand kilometres between Asia and Europe, connecting 17 countries.",
+      "keywords": "fiber optic cable ocean floor"
+    },
+    {
+      "rank": 4,
+      "label": "AAE-1 · 25,000 km",
+      "text": "Number four: Asia Africa Europe 1. Twenty-five thousand kilometres from Hong Kong to France, by way of Egypt.",
+      "keywords": "cable landing station beach"
+    },
+    {
+      "rank": 3,
+      "label": "FLAG Europe-Asia · 28,000 km",
+      "text": "Number three: FLAG Europe-Asia. Twenty-eight thousand kilometres, switched on in 1997, from Britain to Japan. Now retired.",
+      "keywords": "submarine cable ship reel"
+    },
+    {
+      "rank": 2,
+      "label": "SEA-ME-WE 3 · 39,000 km",
+      "text": "Number two: SEA-ME-WE 3. Thirty-nine thousand kilometres, 39 landing stations in 33 countries. It held the record for over 20 years, until it retired in 2024.",
+      "keywords": "fiber optic cables glowing"
+    },
+    {
+      "rank": 1,
+      "label": "2Africa · 45,000 km",
+      "text": "Number one: 2Africa. Forty-five thousand kilometres around the whole of Africa and on to India. Earth's circumference is about 40,000. This cable is longer.",
+      "keywords": "africa coastline from space"
+    }
+  ],
+  "description": "The five longest submarine cable systems ever laid, ranked by total length: 2Africa (about 45,000 km, 46 landing stations in 33 countries), SEA-ME-WE 3 (39,000 km, retired in December 2024), FLAG Europe-Asia (28,000 km, 1997, now retired), AAE-1 (25,000 km) and SEA-ME-WE 5 (20,000 km, 17 countries).\n2Africa is longer than Earth's equatorial circumference of roughly 40,000 km.\nWhich cable carries your internet right now?",
+  "tags": [
+    "undersea cables",
+    "submarine cable",
+    "2africa cable",
+    "sea-me-we 3",
+    "longest cable",
+    "internet infrastructure",
+    "fiber optic",
+    "technology facts",
+    "engineering records",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#technology",
+    "#internet",
+    "#engineering"
+  ],
+  "sources": [
+    "https://www.submarinenetworks.com/en/systems/asia-europe-africa/2africa",
+    "https://www.submarinenetworks.com/en/systems/asia-australia/smw3",
+    "https://www.guinnessworldrecords.com/world-records/100755-longest-submarine-fibre-optic-cable",
+    "https://www.mtn.com/2africa-now-the-longest-subsea-cable-in-the-world/"
+  ],
+  "thumbnail_text": "5 LONGEST CABLES, RANKED",
+  "priority": 5,
+  "subject": "undersea cable",
+  "first_comment": "Did you expect a cable longer than the equator? What should we rank next?",
+  "ranking_by": "total length of the cable system in kilometres"
+}
