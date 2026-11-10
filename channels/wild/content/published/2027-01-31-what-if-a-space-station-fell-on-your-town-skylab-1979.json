@@ -56,5 +56,21 @@
   ],
   "thumbnail_text": "WHAT IF A SPACE STATION FELL?",
   "priority": 7,
-  "first_comment": "Chunks of Skylab are still on display in a museum in Esperance today. Which thing falling from space should we run through next?"
+  "first_comment": "Chunks of Skylab are still on display in a museum in Esperance today. Which thing falling from space should we run through next?",
+  "youtube_id": "e089IAPM_eM",
+  "url": "https://youtube.com/shorts/e089IAPM_eM",
+  "uploaded_at": "2026-11-10T20:06:20+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-10T21:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 17,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#C4B5FD",
+  "duration_seconds": 50.8,
+  "style": "classic",
+  "kind": "shorts"
 }

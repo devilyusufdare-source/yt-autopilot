@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:28:37+00:00",
+  "updated_at": "2026-11-10T20:06:22+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,34 +9,40 @@
     "video_count": 74
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/e089IAPM_eM"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/e089IAPM_eM"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/e089IAPM_eM"
+    ]
   },
   "retention": {
-    "videos_with_data": 63,
-    "avg_view_percent": 63.6,
+    "videos_with_data": 68,
+    "avg_view_percent": 61.3,
     "by_topic": {
-      "earth": 62.2,
-      "space": 71.9,
-      "society": 50.9,
-      "animals": 48.7,
-      "body": 62.2,
-      "technology": 61.1
+      "earth": 60.4,
+      "space": 69.1,
+      "society": 43.7,
+      "animals": 47.2,
+      "body": 61.5,
+      "technology": 65.2
     },
     "best": [
       {
         "title": "What If You Lived Inside a Cave on the Moon?",
-        "avg_view_percent": 227.8,
+        "avg_view_percent": 208.5,
         "views": 25
       },
       {
         "title": "What If an Astronaut Let Go of the Ship? In 1984 One Did, on Purpose",
-        "avg_view_percent": 177.8,
+        "avg_view_percent": 156.3,
         "views": 216
       },
       {
@@ -77,15 +83,15 @@
         "views": 19
       },
       {
-        "title": "What If an Iron Rod Shot Through Your Skull? A Man Walked Away in 1848 and Lived 12 Years",
-        "avg_view_percent": 30.4,
-        "views": 10
+        "title": "What If Every Police Officer in a City Walked Out for a Day? Montreal Found Out in 1969",
+        "avg_view_percent": 24.9,
+        "views": 4
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 74,
-  "total_views": 15630,
+  "total_videos": 75,
+  "total_views": 15662,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -93,8 +99,8 @@
       "best_views": 1121
     },
     "space": {
-      "videos": 31,
-      "avg_views": 175,
+      "videos": 32,
+      "avg_views": 170,
       "best_views": 1281
     },
     "society": {
@@ -104,12 +110,12 @@
     },
     "animals": {
       "videos": 11,
-      "avg_views": 233,
+      "avg_views": 234,
       "best_views": 1428
     },
     "body": {
       "videos": 7,
-      "avg_views": 133,
+      "avg_views": 134,
       "best_views": 498
     },
     "technology": {
@@ -120,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 74,
-      "avg_views": 211,
+      "videos": 75,
+      "avg_views": 209,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 73,
-      "avg_views": 200
+      "videos": 74,
+      "avg_views": 198
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -181,7 +187,7 @@
     {
       "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
       "topic": "earth",
-      "views": 557,
+      "views": 559,
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
@@ -809,8 +815,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/MwU7gIiJAtk",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 58.8,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 58.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1006,7 +1012,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 79.7,
+      "avg_view_percent": 79.8,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1117,8 +1123,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_RcytBECyXc",
-      "avg_view_seconds": 33.0,
-      "avg_view_percent": 88.7,
+      "avg_view_seconds": 32.0,
+      "avg_view_percent": 84.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1169,12 +1175,12 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 70,
+      "views": 75,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
       "avg_view_seconds": 21.0,
-      "avg_view_percent": 56.5,
+      "avg_view_percent": 55.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1341,8 +1347,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/nOw9IX9Y6Fg",
-      "avg_view_seconds": 81.0,
-      "avg_view_percent": 227.8,
+      "avg_view_seconds": 75.0,
+      "avg_view_percent": 208.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1369,8 +1375,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 51.7,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 50.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1453,8 +1459,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 43.5,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 40.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1481,8 +1487,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo",
-      "avg_view_seconds": 42.0,
-      "avg_view_percent": 91.4,
+      "avg_view_seconds": 39.0,
+      "avg_view_percent": 83.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1509,8 +1515,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM",
-      "avg_view_seconds": 76.0,
-      "avg_view_percent": 177.8,
+      "avg_view_seconds": 67.0,
+      "avg_view_percent": 156.3,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1565,8 +1571,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 51.0,
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 57.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1593,8 +1599,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ueBtcnj-Buc",
-      "avg_view_seconds": 33.0,
-      "avg_view_percent": 70.3,
+      "avg_view_seconds": 34.0,
+      "avg_view_percent": 72.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1621,8 +1627,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 53.9,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 52.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1645,12 +1651,12 @@
       "hook": "What if a B-52 dropped two hydrogen bombs on North Carolina? In 1961, one did.",
       "published_at": "2026-11-07T17:40:28Z",
       "privacy": "public",
-      "views": 24,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hv6S-MG-epc",
-      "avg_view_seconds": 27.0,
-      "avg_view_percent": 61.3,
+      "avg_view_seconds": 38.0,
+      "avg_view_percent": 85.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1677,8 +1683,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 38.9,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 40.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1705,8 +1711,8 @@
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw",
-      "avg_view_seconds": 21.0,
-      "avg_view_percent": 47.9,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 43.6,
       "shares": 0,
       "subscribers_gained": 2
     },
@@ -1729,12 +1735,12 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 557,
+      "views": 559,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ",
-      "avg_view_seconds": 29.0,
-      "avg_view_percent": 66.6,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 55.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1757,10 +1763,14 @@
       "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
-      "views": 229,
+      "views": 235,
       "likes": 5,
       "comments": 1,
-      "url": "https://youtube.com/shorts/6HSGoaRjPLU"
+      "url": "https://youtube.com/shorts/6HSGoaRjPLU",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 40.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "SO9aGqEpzdg": {
       "upload_status": "processed",
@@ -1784,7 +1794,11 @@
       "views": 14,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/SO9aGqEpzdg"
+      "url": "https://youtube.com/shorts/SO9aGqEpzdg",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 40.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "BN6tRrVJNQs": {
       "upload_status": "processed",
@@ -1808,7 +1822,11 @@
       "views": 4,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/BN6tRrVJNQs"
+      "url": "https://youtube.com/shorts/BN6tRrVJNQs",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 24.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "61k2NffqMAU": {
       "upload_status": "processed",
@@ -1860,7 +1878,11 @@
       "views": 9,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/li-SDvymGZQ"
+      "url": "https://youtube.com/shorts/li-SDvymGZQ",
+      "avg_view_seconds": 34.0,
+      "avg_view_percent": 68.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "dLKcX2ivoBg": {
       "upload_status": "processed",
@@ -1881,10 +1903,14 @@
       "hook": "What if 90 percent of a country's women stopped for a day? Iceland did. Sausages sold out.",
       "published_at": "2026-11-09T02:50:12Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/dLKcX2ivoBg"
+      "url": "https://youtube.com/shorts/dLKcX2ivoBg",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 33.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "Ic5ympmJQrU": {
       "upload_status": "processed",
@@ -1953,7 +1979,7 @@
       "hook": "What if you ate a polar bear's liver? Your skin could come off in sheets.",
       "published_at": "2026-11-09T21:20:20Z",
       "privacy": "public",
-      "views": 67,
+      "views": 76,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A"
@@ -2005,7 +2031,7 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 6,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM"
@@ -2029,7 +2055,7 @@
       "hook": "What if you teed off on the Moon? One astronaut did, and lied about the distance.",
       "published_at": "2026-11-10T13:30:29Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EnjPbpuGvSU"
@@ -2109,10 +2135,34 @@
       "hook": "What if the first atomic bomb had set the air on fire? Its builders had to check.",
       "published_at": "2026-11-10T15:00:21Z",
       "privacy": "public",
+      "views": 3,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/VPNJB_3l0us"
+    },
+    "e089IAPM_eM": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a 77-Ton Space Station Fell on Your Town? In 1979 One Did",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a 77-ton space station fell out of the sky? In 1979, NASA couldn't say where.",
+      "published_at": "2026-11-10T20:06:17Z",
+      "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/VPNJB_3l0us"
+      "url": "https://youtube.com/shorts/e089IAPM_eM"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
@@ -2189,7 +2239,7 @@
       "hook": "What if you set off a nuclear bomb to put out a fire? In 1966, it worked.",
       "published_at": "2026-11-05T17:10:20Z",
       "privacy": "public",
-      "views": 104,
+      "views": 105,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY",
