@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-09T23:49:20+00:00",
+  "updated_at": "2026-11-10T02:20:23+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 73,
     "channel_views": 65911,
-    "video_count": 264
+    "video_count": 265
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/340LMR9p660"
+      "https://youtube.com/shorts/J7yZVtMxDvE"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/340LMR9p660"
+      "https://youtube.com/shorts/J7yZVtMxDvE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/340LMR9p660"
+      "https://youtube.com/shorts/J7yZVtMxDvE"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 263,
-  "total_views": 68905,
+  "total_videos": 264,
+  "total_views": 69085,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 188,
-      "avg_views": 263,
+      "videos": 189,
+      "avg_views": 262,
       "best_views": 1507
     },
     "human body": {
@@ -126,13 +126,13 @@
     },
     "technology": {
       "videos": 5,
-      "avg_views": 62,
-      "best_views": 157
+      "avg_views": 63,
+      "best_views": 160
     }
   },
   "by_style": {
     "classic": {
-      "videos": 247,
+      "videos": 248,
       "avg_views": 251,
       "over_1500": 3
     },
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 177,
+      "videos": 178,
       "avg_views": 173
     },
     "en-US-BrianNeural": {
@@ -1790,8 +1790,8 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 11,
-      "likes": 0,
+      "views": 21,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
     },
@@ -1814,7 +1814,7 @@
       "hook": "This male crab is raising babies. None of them are his.",
       "published_at": "2026-11-09T21:00:39Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM"
@@ -1844,14 +1844,14 @@
       "url": "https://youtube.com/shorts/i4AAj7Pg6sQ"
     },
     "340LMR9p660": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1860,11 +1860,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A garden songbird that hunts bats.",
-      "published_at": "2026-11-09T23:49:08Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-10T00:20:27Z",
+      "privacy": "public",
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/340LMR9p660"
     },
     "ELVS4Bl4MT0": {
@@ -1922,6 +1922,30 @@
       "avg_view_percent": 55.6,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "J7yZVtMxDvE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Thousands of Rays Leap Out of the Sea at Once, and Nobody Knows Why",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
+      "published_at": "2026-11-10T02:20:13Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/J7yZVtMxDvE"
     },
     "vosG2Q9tRXk": {
       "upload_status": "processed",
@@ -2502,7 +2526,7 @@
       "hook": "This frog thinks it's about to eat lunch.",
       "published_at": "2026-11-05T21:30:13Z",
       "privacy": "public",
-      "views": 106,
+      "views": 107,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE",
@@ -2586,7 +2610,7 @@
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
       "published_at": "2026-11-08T15:40:11Z",
       "privacy": "public",
-      "views": 157,
+      "views": 160,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
@@ -2610,8 +2634,8 @@
       "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
       "published_at": "2026-11-09T15:30:38Z",
       "privacy": "public",
-      "views": 8,
-      "likes": 0,
+      "views": 15,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hagyIaLCA4M"
     },
@@ -3222,7 +3246,7 @@
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
       "published_at": "2026-11-06T19:00:08Z",
       "privacy": "public",
-      "views": 254,
+      "views": 255,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro",
@@ -4483,7 +4507,7 @@
       "published_at": "2026-11-08T02:50:10Z",
       "privacy": "public",
       "views": 186,
-      "likes": 3,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/_y6yTp7OsRM",
       "avg_view_seconds": 21.0,
@@ -4538,7 +4562,7 @@
       "hook": "This spider turns its own web into a slingshot.",
       "published_at": "2026-11-08T12:10:07Z",
       "privacy": "public",
-      "views": 107,
+      "views": 115,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM"
@@ -4694,8 +4718,8 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 231,
-      "likes": 3,
+      "views": 255,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s"
     },
@@ -4826,7 +4850,7 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 727,
+      "views": 798,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k"
@@ -4926,7 +4950,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 111,
+      "views": 115,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw"
@@ -4950,7 +4974,7 @@
       "hook": "Rats were filmed catching bats in mid-air. In the dark.",
       "published_at": "2026-11-09T03:10:08Z",
       "privacy": "public",
-      "views": 931,
+      "views": 954,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMqWHgPm8kY"
@@ -5078,7 +5102,7 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 11,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo"
@@ -5262,7 +5286,7 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 4,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo"
@@ -6798,7 +6822,7 @@
       "hook": "A gas company once found its pipeline leaks by following vultures.",
       "published_at": "2026-10-31T19:50:12Z",
       "privacy": "public",
-      "views": 20,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zl1SdlXN0H0",
