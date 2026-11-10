@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "technology",
+  "subject": "antique camera",
+  "title": "The First Photo Ever Took So Long the Sun Lit Both Sides of the Street",
+  "scenes": [
+    {
+      "text": "In the oldest photograph on Earth, the sun shines from two directions at once.",
+      "keywords": "old camera obscura"
+    },
+    {
+      "text": "Nicéphore Niépce made it in 1826 or 1827 from a window in France: a pewter plate coated in bitumen, a kind of asphalt.",
+      "keywords": "french countryside old house window"
+    },
+    {
+      "text": "Where light hit, the bitumen hardened. The rest washed off, leaving a faint courtyard and rooftops.",
+      "keywords": "antique photographic plate"
+    },
+    {
+      "text": "But the light was so weak the lens stayed open at least eight hours. One researcher who rebuilt the process says several days.",
+      "keywords": "sunlight moving shadows timelapse"
+    },
+    {
+      "text": "So the sun crossed the whole sky during one picture, and lit the buildings on the left and the right.",
+      "keywords": "sun crossing sky timelapse"
+    },
+    {
+      "text": "The plate vanished for a century, turned up in 1952, and now sits in a case in Texas. Your phone does it in a thousandth of a second.",
+      "keywords": "smartphone camera photo"
+    }
+  ],
+  "description": "The oldest surviving photograph took so long to expose that sunlight lit both sides of the buildings.\nNicéphore Niépce made View from the Window at Le Gras in 1826 or 1827 on a pewter plate about 16 by 20 cm coated with bitumen of Judea; light hardened the bitumen, and the unhardened parts were washed away with lavender oil and white petroleum. The traditional estimate is an eight-hour exposure, but a researcher who studied Niépce's notes and recreated the process concluded it must have lasted several days, which is why the sun appears to light opposite sides of the scene. Helmut and Alison Gernsheim tracked the plate down in 1952; it is kept at the Harry Ransom Center in Austin, Texas.\nWhat is the oldest photo in your family?",
+  "tags": [
+    "first photograph",
+    "niepce",
+    "oldest photo",
+    "history of photography",
+    "camera history",
+    "technology facts",
+    "harry ransom center",
+    "invention facts",
+    "history facts",
+    "mind blowing facts",
+    "shorts facts",
+    "le gras"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#technology",
+    "#photography",
+    "#history"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras",
+    "https://smarthistory.org/joseph-nicephore-niepce-view-from-the-window-at-le-gras",
+    "https://www.lindahall.org/about/news/scientist-of-the-day/joseph-nicephore-niepce/"
+  ],
+  "thumbnail_text": "ONE PHOTO. SEVERAL DAYS.",
+  "priority": 5,
+  "first_comment": "Eight hours at the very least, maybe days, for one blurry courtyard. What would you photograph if you had to hold still that long?",
+  "id": "2027-08-11-first-photograph-exposure-lasted-days"
+}

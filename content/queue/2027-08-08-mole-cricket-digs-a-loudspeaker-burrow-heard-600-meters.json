@@ -1,0 +1,63 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "mole cricket",
+  "title": "This Insect Digs a Loudspeaker and Can Be Heard 600 Meters Away",
+  "scenes": [
+    {
+      "text": "Half an hour after sunset, this field starts to roar. The singer is underground.",
+      "keywords": "field at dusk sunset"
+    },
+    {
+      "text": "A mole cricket. Its song is louder than any other insect's, and the trick isn't its body.",
+      "keywords": "mole cricket"
+    },
+    {
+      "text": "It's the hole. The cricket digs a Y-shaped burrow with two horn-shaped openings and a smooth bulb that resonates like a speaker.",
+      "keywords": "insect burrow soil"
+    },
+    {
+      "text": "Sitting in the bulb, it rubs its wings and the burrow does the rest: 90 decibels one meter from the entrance, up to 115 at the mouth.",
+      "keywords": "mole cricket close up"
+    },
+    {
+      "text": "A female flying by hears it from 600 meters away.",
+      "keywords": "insect flying night"
+    },
+    {
+      "text": "Besides humans, a few mole crickets are the only animals known to build their own sound system.",
+      "keywords": "loudspeaker concert"
+    }
+  ],
+  "description": "A mole cricket builds its own amplifier.\nThe male Gryllotalpa vineae of southwestern Europe digs a Y-shaped burrow with two horn-shaped openings and a smooth-walled bulb that acts as a resonator. Singing from inside it about half an hour after sunset, it produces around 90 decibels one metre from the entrance and up to 115 dB at the burrow mouth, from only about 3.5 milliwatts of mechanical power, and the song carries about 600 metres. Guinness World Records lists it as the loudest animal-made amplifier, and notes that apart from humans, a few mole cricket species are the only animals known to build their own sound amplification equipment. Bennet-Clark described the species in 1970 after realising its song did not match the European mole cricket.\nWhat is the loudest animal you've ever heard?",
+  "tags": [
+    "mole cricket",
+    "gryllotalpa vineae",
+    "loudest insect",
+    "insect song",
+    "animal amplifier",
+    "cricket burrow",
+    "insect facts",
+    "loudest animals",
+    "guinness world records",
+    "bug facts",
+    "animal facts",
+    "nature facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#insects",
+    "#sound"
+  ],
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/632326-loudest-animal-made-amplifier",
+    "https://en.wikipedia.org/wiki/Gryllotalpa_vineae"
+  ],
+  "thumbnail_text": "IT DIGS A LOUDSPEAKER",
+  "priority": 5,
+  "first_comment": "115 decibels at the burrow mouth, from a cricket. Which animal would you least want as a neighbour?",
+  "id": "2027-08-08-mole-cricket-digs-a-loudspeaker-burrow-heard-600-meters"
+}
