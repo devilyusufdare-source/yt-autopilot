@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-10T13:45:36+00:00",
+  "updated_at": "2026-11-10T15:03:57+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 73,
     "channel_views": 68883,
-    "video_count": 267
+    "video_count": 268
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/oG_ieXXeadA"
+      "https://youtube.com/shorts/Wd54rwPedR4"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/oG_ieXXeadA"
+      "https://youtube.com/shorts/Wd54rwPedR4"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/oG_ieXXeadA"
+      "https://youtube.com/shorts/Wd54rwPedR4"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 266,
-  "total_views": 70481,
+  "total_videos": 267,
+  "total_views": 70705,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -100,13 +100,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 21,
-      "avg_views": 274,
+      "videos": 22,
+      "avg_views": 261,
       "best_views": 1648
     },
     "animals": {
       "videos": 190,
-      "avg_views": 268,
+      "avg_views": 269,
       "best_views": 1507
     },
     "human body": {
@@ -126,13 +126,13 @@
     },
     "technology": {
       "videos": 5,
-      "avg_views": 85,
-      "best_views": 271
+      "avg_views": 87,
+      "best_views": 279
     }
   },
   "by_style": {
     "classic": {
-      "videos": 250,
+      "videos": 251,
       "avg_views": 255,
       "over_1500": 3
     },
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 180,
+      "videos": 181,
       "avg_views": 179
     },
     "en-US-BrianNeural": {
@@ -1790,7 +1790,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 117,
+      "views": 124,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
@@ -1814,7 +1814,7 @@
       "hook": "This male crab is raising babies. None of them are his.",
       "published_at": "2026-11-09T21:00:39Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM"
@@ -1862,7 +1862,7 @@
       "hook": "A garden songbird that hunts bats.",
       "published_at": "2026-11-10T00:20:27Z",
       "privacy": "public",
-      "views": 16,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/340LMR9p660"
@@ -1942,7 +1942,7 @@
       "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
       "published_at": "2026-11-10T02:50:29Z",
       "privacy": "public",
-      "views": 19,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/J7yZVtMxDvE"
@@ -2136,7 +2136,7 @@
       "privacy": "public",
       "views": 9,
       "likes": 0,
-      "comments": 1,
+      "comments": 0,
       "url": "https://youtube.com/shorts/loc-nCkI7hE",
       "avg_view_seconds": 9.0,
       "avg_view_percent": 26.0,
@@ -2610,7 +2610,7 @@
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
       "published_at": "2026-11-08T15:40:11Z",
       "privacy": "public",
-      "views": 271,
+      "views": 279,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
@@ -2634,7 +2634,7 @@
       "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
       "published_at": "2026-11-09T15:30:38Z",
       "privacy": "public",
-      "views": 29,
+      "views": 35,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hagyIaLCA4M"
@@ -2862,6 +2862,30 @@
       "avg_view_percent": 71.9,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "Wd54rwPedR4": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Longest-Burning Fires on Earth, Ranked (#1 Predates the Pyramids)",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Five fires that never went out, ranked. Number one was burning before the pyramids were built.",
+      "published_at": "2026-11-10T15:03:46Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Wd54rwPedR4"
     },
     "JgG0vB0x9xY": {
       "upload_status": "processed",
@@ -4170,7 +4194,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 964,
+      "views": 965,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk",
@@ -4562,7 +4586,7 @@
       "hook": "This spider turns its own web into a slingshot.",
       "published_at": "2026-11-08T12:10:07Z",
       "privacy": "public",
-      "views": 125,
+      "views": 136,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM"
@@ -4666,7 +4690,7 @@
       "hook": "A male bee tries to mate with this lump.",
       "published_at": "2026-11-08T16:50:16Z",
       "privacy": "public",
-      "views": 371,
+      "views": 409,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg"
@@ -4718,7 +4742,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 288,
+      "views": 300,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s"
@@ -4798,7 +4822,7 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 957,
+      "views": 958,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA"
@@ -4850,7 +4874,7 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 925,
+      "views": 926,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k"
@@ -4926,7 +4950,7 @@
       "hook": "These frog eggs know when a snake is eating them.",
       "published_at": "2026-11-09T00:10:35Z",
       "privacy": "public",
-      "views": 995,
+      "views": 998,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/4UE4LUCRyws"
@@ -4950,7 +4974,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 157,
+      "views": 164,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw"
@@ -4974,7 +4998,7 @@
       "hook": "Rats were filmed catching bats in mid-air. In the dark.",
       "published_at": "2026-11-09T03:10:08Z",
       "privacy": "public",
-      "views": 955,
+      "views": 956,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMqWHgPm8kY"
@@ -5054,7 +5078,7 @@
       "hook": "Astronauts left 96 bags of waste on the Moon.",
       "published_at": "2026-11-08T14:00:04Z",
       "privacy": "public",
-      "views": 15,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/4G6bpzVSVHQ"
@@ -5126,7 +5150,7 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 44,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo"
@@ -5178,7 +5202,7 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 165,
+      "views": 198,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48"
@@ -5258,7 +5282,7 @@
       "hook": "That perfect round hole in a seashell isn't an accident. Something drilled it.",
       "published_at": "2026-11-09T18:00:06Z",
       "privacy": "public",
-      "views": 733,
+      "views": 750,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/axMrOJmzu9k"
@@ -5310,20 +5334,20 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 96,
+      "views": 146,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo"
     },
     "oG_ieXXeadA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5332,8 +5356,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This ladybug is alive. It's guarding its own parasite.",
-      "published_at": "2026-11-10T13:45:26Z",
-      "privacy": "private",
+      "published_at": "2026-11-10T15:00:03Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -5974,7 +5998,7 @@
       "hook": "This fish leaps out of the water and catches flying birds.",
       "published_at": "2026-10-29T18:20:15Z",
       "privacy": "public",
-      "views": 50,
+      "views": 51,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QsLlW3CpAWM",
@@ -7206,7 +7230,7 @@
       "hook": "There's a fish whose blood is clear. And it has no red blood cells at all.",
       "published_at": "2026-11-01T22:40:34Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UXcOCvbzdF8",
