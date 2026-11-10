@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "assassin bug",
+  "title": "This Bug Plays a Spider's Web Like a Harp, Then Stabs the Spider",
+  "scenes": [
+    {
+      "text": "Something is plucking this spider's web. It isn't dinner. It's the hunter.",
+      "keywords": "spider on web close up"
+    },
+    {
+      "text": "An assassin bug climbs onto the web and strums the silk with its legs, copying the faint tremble of a trapped, weakly struggling insect.",
+      "keywords": "assassin bug"
+    },
+    {
+      "text": "The spider reads it as easy prey. In tests it turned toward the bug every time, as quickly as it turned toward a real fly.",
+      "keywords": "spider walking on web"
+    },
+    {
+      "text": "When the spider arrives, the bug taps it with its antennae, then drives its dagger-like beak into it.",
+      "keywords": "assassin bug feeding"
+    },
+    {
+      "text": "It doesn't always win. Scientists in Australia filmed spiders turning around and eating the assassin instead.",
+      "keywords": "spider eating insect"
+    },
+    {
+      "text": "So when a web trembles, the thing struggling might be the one setting the trap.",
+      "keywords": "spider web dew morning"
+    }
+  ],
+  "description": "An assassin bug hunts spiders on their own webs by plucking the silk to imitate struggling prey.\nStenolemus bituberus, studied at Macquarie University in Australia, strums web threads with its legs to copy the weak, high-pitched vibrations of a small trapped insect. Spiders approached the bug the same way, and just as fast, as they approached a real fly or aphid. Once the spider is within reach the bug taps it with its antennae and stabs it with its beak. The trick is risky: the researchers also filmed spiders counter-attacking and eating the bug.\nWhich animal has the sneakiest hunting trick you know?",
+  "tags": [
+    "assassin bug",
+    "stenolemus",
+    "spider hunter",
+    "aggressive mimicry",
+    "spider web",
+    "insect predators",
+    "bug facts",
+    "spider facts",
+    "animal tricks",
+    "nature facts",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#insects",
+    "#spiders"
+  ],
+  "sources": [
+    "https://www.nationalgeographic.com/science/article/the-strumming-assassin-that-hunts-spiders-on-their-own-webs",
+    "https://phys.org/news/2010-10-assassin-bugs-spiders-mimicking-prey.html"
+  ],
+  "thumbnail_text": "IT PLAYS THE WEB. SPIDER DIES.",
+  "priority": 7,
+  "first_comment": "The bug copies weakly struggling prey, not a big thrashing fly. Why do you think the spider falls for the quiet version?",
+  "id": "2027-08-02-assassin-bug-strums-spider-web-to-lure-spider"
+}

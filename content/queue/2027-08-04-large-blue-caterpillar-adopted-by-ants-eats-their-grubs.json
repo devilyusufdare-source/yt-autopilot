@@ -1,0 +1,64 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "large blue butterfly",
+  "title": "This Caterpillar Gets Adopted by Ants, Then Eats Their Babies for 10 Months",
+  "scenes": [
+    {
+      "text": "Red ants found this caterpillar and carried it home. That was its plan.",
+      "keywords": "red ants carrying"
+    },
+    {
+      "text": "It's a large blue butterfly caterpillar. After three weeks on thyme, it drops to the ground and waits.",
+      "keywords": "caterpillar on thyme"
+    },
+    {
+      "text": "It mimics the smell and sounds of a red ant grub so well that the workers carry it underground and lay it with their own brood.",
+      "keywords": "ant nest underground"
+    },
+    {
+      "text": "Then it eats them. For ten months it feeds on ant grubs in the dark and pupates inside the nest.",
+      "keywords": "ant larvae nest"
+    },
+    {
+      "text": "The ants never catch on. Next summer a butterfly crawls out of the ant hill.",
+      "keywords": "blue butterfly"
+    },
+    {
+      "text": "In 1979 Britain lost its last one, because the grass grew too tall for its one ant. Scientists brought it back from Sweden. It's thriving.",
+      "keywords": "blue butterfly meadow"
+    }
+  ],
+  "description": "The large blue butterfly spends most of its life underground eating the young of the ants that adopted it.\nAfter about three weeks feeding on wild thyme, the caterpillar drops to the ground and mimics the smell and sounds of a red ant (Myrmica sabuleti) grub. Workers carry it into the nest and put it with their brood, where it feeds on ant grubs for around ten months and pupates in the nest. The butterfly was declared extinct in Britain in 1979 after changes in grazing let the turf grow too tall for that one ant species; Jeremy Thomas's team reintroduced it from Sweden in the 1980s, and by 2008 it flew at more than 30 sites with colonies of 4,000 to 5,000 adults.\nWould you have guessed a butterfly could be a predator?",
+  "tags": [
+    "large blue butterfly",
+    "caterpillar eats ants",
+    "maculinea arion",
+    "phengaris arion",
+    "red ants",
+    "myrmica sabuleti",
+    "butterfly facts",
+    "ant facts",
+    "brood parasite",
+    "british wildlife",
+    "animal facts",
+    "nature facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#butterfly",
+    "#ants"
+  ],
+  "sources": [
+    "https://www.nationalgeographic.com/science/article/how-research-saved-the-large-blue-butterfly",
+    "https://butterfly-conservation.org/news-and-blog/large-blue-back-in-britain",
+    "https://britishecologicalsociety.org/return-of-the-large-blue-butterfly"
+  ],
+  "thumbnail_text": "ANTS ADOPT IT. IT EATS THEM.",
+  "priority": 7,
+  "first_comment": "Ten months underground eating the babies of the ants that carried it in. What other animal gets adopted by its victims?",
+  "id": "2027-08-04-large-blue-caterpillar-adopted-by-ants-eats-their-grubs"
+}

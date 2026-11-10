@@ -1,0 +1,64 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "slingjaw wrasse",
+  "title": "This Fish's Mouth Leaves Its Head: 65% of Its Head Length in 34 Milliseconds",
+  "scenes": [
+    {
+      "text": "This fish looks ordinary. Then its mouth leaves its head.",
+      "keywords": "slingjaw wrasse"
+    },
+    {
+      "text": "It's the slingjaw wrasse, a reef fish up to 54 centimeters long, from the Red Sea to Hawaii.",
+      "keywords": "coral reef fish"
+    },
+    {
+      "text": "When a shrimp or small fish comes close, its mouth unfolds into a tube that reaches 65 percent of its head length. No fish on Earth extends further.",
+      "keywords": "slingjaw wrasse feeding"
+    },
+    {
+      "text": "The strike takes about 34 milliseconds. The tube snaps out at over 2 meters a second and the prey is sucked in.",
+      "keywords": "reef fish hunting"
+    },
+    {
+      "text": "The secret is bone, not muscle: the jaw bones swing through about 100 degrees, like a folding ladder.",
+      "keywords": "fish skeleton"
+    },
+    {
+      "text": "Within a tenth of a second everything folds back, and it looks ordinary again.",
+      "keywords": "wrasse swimming reef"
+    }
+  ],
+  "description": "The slingjaw wrasse has the most extreme jaw protrusion of any fish.\nEpibulus insidiator, a coral reef fish of the Indo-Pacific and Red Sea that grows to about 54 cm, can extend its jaws to 65 percent of its head length, about twice the protrusion measured in other fishes. High-speed film by Westneat and Wainwright showed prey engulfed around 34 milliseconds after the strike began, with the jaws moving at more than 2 meters per second and retracting within about 100 milliseconds. The interopercle, quadrate and maxilla bones rotate through roughly 100 degrees, driven by ordinary muscle patterns and unusual ligaments.\nWhich animal has the fastest strike you've ever seen?",
+  "tags": [
+    "slingjaw wrasse",
+    "sling-jaw wrasse",
+    "epibulus insidiator",
+    "fish jaws",
+    "jaw protrusion",
+    "reef fish",
+    "fastest strike",
+    "coral reef",
+    "fish facts",
+    "ocean predators",
+    "ocean facts",
+    "animal facts",
+    "nature facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#ocean",
+    "#fish"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sling-jaw_wrasse",
+    "https://fishlab.ucdavis.edu/wp-content/uploads/sites/397/2020/06/Westneat-Wainwright-1989.pdf"
+  ],
+  "thumbnail_text": "ITS MOUTH LEAVES ITS HEAD",
+  "priority": 6,
+  "first_comment": "65 percent of its head length, in 34 milliseconds. Which fish would you like to see slowed down next?",
+  "id": "2027-08-05-slingjaw-wrasse-mouth-extends-65-percent-of-head"
+}
