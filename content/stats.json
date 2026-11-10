@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-10T15:03:57+00:00",
+  "updated_at": "2026-11-10T16:43:02+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 73,
     "channel_views": 68883,
-    "video_count": 268
+    "video_count": 269
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Wd54rwPedR4"
+      "https://youtube.com/shorts/IN5A3Mj60ok",
+      "https://youtube.com/shorts/U0E6tfM-Dqs"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Wd54rwPedR4"
+      "https://youtube.com/shorts/IN5A3Mj60ok"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Wd54rwPedR4"
+      "https://youtube.com/shorts/IN5A3Mj60ok"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 267,
-  "total_views": 70705,
+  "total_videos": 269,
+  "total_views": 70843,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 190,
-      "avg_views": 269,
+      "videos": 192,
+      "avg_views": 267,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 251,
-      "avg_views": 255,
+      "videos": 253,
+      "avg_views": 253,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 181,
-      "avg_views": 179
+      "videos": 183,
+      "avg_views": 178
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1790,8 +1791,8 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 124,
-      "likes": 4,
+      "views": 172,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
     },
@@ -2086,6 +2087,30 @@
       "avg_view_percent": 43.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "IN5A3Mj60ok": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Fish That Eats Birds and Crawls on Land Reached a US Pond. They Poisoned It",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This fish eats birds, breathes air, and crawls to the next pond when it's done.",
+      "published_at": "2026-11-10T16:42:48Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/IN5A3Mj60ok"
     },
     "14_g6NqKatc": {
       "upload_status": "processed",
@@ -2864,14 +2889,14 @@
       "subscribers_gained": 0
     },
     "Wd54rwPedR4": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT50S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2880,11 +2905,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Five fires that never went out, ranked. Number one was burning before the pyramids were built.",
-      "published_at": "2026-11-10T15:03:46Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-10T15:30:00Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Wd54rwPedR4"
     },
     "JgG0vB0x9xY": {
@@ -4194,7 +4219,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 965,
+      "views": 964,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk",
@@ -4974,7 +4999,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 164,
+      "views": 198,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw"
@@ -5126,7 +5151,7 @@
       "hook": "The 1904 Olympic marathon was won on strychnine and brandy.",
       "published_at": "2026-11-10T12:20:37Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ca34HwuWgVs"
@@ -5150,7 +5175,7 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 52,
+      "views": 84,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo"
@@ -5202,7 +5227,7 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 198,
+      "views": 220,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48"
@@ -5360,8 +5385,32 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA"
+    },
+    "U0E6tfM-Dqs": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT42S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Scientists Found Blood Cells Inside a 115-Million-Year-Old Dinosaur",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This dinosaur's blood survived 115 million years.",
+      "published_at": "2026-11-10T16:33:22Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
     },
     "78YbRLetQWA": {
       "upload_status": "processed",

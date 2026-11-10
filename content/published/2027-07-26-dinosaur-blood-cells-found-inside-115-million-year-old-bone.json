@@ -58,5 +58,21 @@
   "thumbnail_text": "DINOSAUR BLOOD. 115M YEARS.",
   "priority": 7,
   "subject": "theropod dinosaur fossil",
-  "first_comment": "Heme molecules, 115 million years old. What should scientists look for in fossils next?"
+  "first_comment": "Heme molecules, 115 million years old. What should scientists look for in fossils next?",
+  "youtube_id": "U0E6tfM-Dqs",
+  "url": "https://youtube.com/shorts/U0E6tfM-Dqs",
+  "uploaded_at": "2026-11-10T16:33:34+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-10T17:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 14,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 41.0,
+  "style": "classic",
+  "kind": "shorts"
 }

@@ -1,37 +1,42 @@
-run failed at 2026-11-04T19:00:53+00:00 UTC (error lines and last 25 lines, secrets removed)
+run failed at 2026-11-10T16:43:05+00:00 UTC (error lines and last 25 lines, secrets removed)
 
 earlier error lines:
-edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
-[tts] edge-tts scene 0 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 1 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
 [tts] edge-tts scene 2 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 2 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
-[tts] edge-tts scene 2 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
-[tts] edge-tts scene 2 attempt 4 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 40 s
-[tts] edge-tts scene 2 attempt 5 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 60 s
+[tts] edge-tts scene 3 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 4 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 4 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 0 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 0 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 0 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
+[tts] edge-tts scene 0 attempt 4 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 40 s
+[tts] edge-tts scene 0 attempt 5 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 60 s
+[run] render failed; trying the next idea so this run still publishes a video
+[tts] edge-tts scene 0 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
 
 last 25 lines:
-[run] render failed; trying the next idea so this run still publishes a video
-
-[run] (2/2) 2026-11-11-us-drops-100-million-sterile-flies-a-week-screwworm.json  title: A Flesh-Eating Fly Is Back. The Fix: 100 Million More Flies a Week
-[run] style: classic
-[run] voice: 7 scenes (en-US-AndrewNeural)
-[tts] edge-tts scene 0 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
 [tts] edge-tts scene 0 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
 [tts] edge-tts scene 0 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
 [tts] edge-tts scene 1 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
 [tts] edge-tts scene 1 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 1 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
+[tts] edge-tts scene 1 attempt 4 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 40 s
+[tts] edge-tts scene 1 attempt 5 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 60 s
 [tts] edge-tts scene 2 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 3 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 5 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 2 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 2 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
+[tts] edge-tts scene 4 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
 [run] visuals: pixabay
-[run] footage focus: ['laboratory']
-[visuals] first clip candidate pxb285952: motion 0.2, brightness 115
-[visuals] first clip candidate pxb285951: motion 0.3, brightness 98
+[run] footage focus: ['snakehead fish']
+[visuals] first clip candidate pxb277495: motion 4.4, brightness 63
 [run] rendering final video
-[run] rendered 2026-11-11-us-drops-100-million-sterile-flies-a-week-screwworm.mp4 (44.9s, voice=edge)
+[run] rendered 2026-11-13-fish-crawls-overland-eats-birds-snakehead.mp4 (41.7s, voice=edge)
+[upload] 18%
 [upload] 36%
-[upload] 73%
-[run] uploaded: https://youtube.com/shorts/5OGNZTZrY3Q  (goes public at 2026-11-04T20:00:00Z)
-[run] stats refreshed: 205 videos, 53667 views total
+[upload] 54%
+[upload] 72%
+[upload] 90%
+[run] uploaded: https://youtube.com/shorts/IN5A3Mj60ok  (goes public at 2026-11-10T18:00:00Z)
+[run] stats refreshed: 269 videos, 70843 views total
 
-[run] finished: 1 video(s) done, 1 failed
+[run] finished: 2 video(s) done, 1 failed
