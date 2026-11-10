@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-10T18:51:28+00:00",
+  "updated_at": "2026-11-10T19:59:20+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 73,
     "channel_views": 68883,
-    "video_count": 271
+    "video_count": 272
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/15nbrnKyWHE",
-      "https://youtube.com/shorts/TgGGPT0hFpg"
+      "https://youtube.com/shorts/TgGGPT0hFpg",
+      "https://youtube.com/shorts/GCFkHUEL_oA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/TgGGPT0hFpg"
+      "https://youtube.com/shorts/GCFkHUEL_oA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/TgGGPT0hFpg"
+      "https://youtube.com/shorts/GCFkHUEL_oA"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 271,
-  "total_views": 71423,
+  "total_videos": 272,
+  "total_views": 71600,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 194,
-      "avg_views": 267,
+      "videos": 195,
+      "avg_views": 266,
       "best_views": 1507
     },
     "human body": {
@@ -127,13 +127,13 @@
     },
     "technology": {
       "videos": 5,
-      "avg_views": 87,
-      "best_views": 279
+      "avg_views": 88,
+      "best_views": 287
     }
   },
   "by_style": {
     "classic": {
-      "videos": 255,
+      "videos": 256,
       "avg_views": 253,
       "over_1500": 3
     },
@@ -145,7 +145,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 185,
+      "videos": 186,
       "avg_views": 179
     },
     "en-US-BrianNeural": {
@@ -1791,7 +1791,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 210,
+      "views": 217,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
@@ -1815,7 +1815,7 @@
       "hook": "This male crab is raising babies. None of them are his.",
       "published_at": "2026-11-09T21:00:39Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM"
@@ -1839,7 +1839,7 @@
       "hook": "A shark that walks out of the sea. On its fins.",
       "published_at": "2026-11-09T21:30:38Z",
       "privacy": "public",
-      "views": 3,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i4AAj7Pg6sQ"
@@ -1863,7 +1863,7 @@
       "hook": "A garden songbird that hunts bats.",
       "published_at": "2026-11-10T00:20:27Z",
       "privacy": "public",
-      "views": 29,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/340LMR9p660"
@@ -1943,7 +1943,7 @@
       "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
       "published_at": "2026-11-10T02:50:29Z",
       "privacy": "public",
-      "views": 29,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/J7yZVtMxDvE"
@@ -1965,11 +1965,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Nothing on Earth moves faster than this ant's jaw.",
-      "published_at": "2026-11-10T17:54:59Z",
-      "privacy": "private",
+      "published_at": "2026-11-10T19:00:23Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE"
     },
     "vosG2Q9tRXk": {
@@ -2185,7 +2185,7 @@
       "privacy": "public",
       "views": 9,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/loc-nCkI7hE",
       "avg_view_seconds": 9.0,
       "avg_view_percent": 26.0,
@@ -2277,14 +2277,14 @@
       "subscribers_gained": 11
     },
     "TgGGPT0hFpg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT39S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2599,7 +2599,7 @@
       "hook": "This frog thinks it's about to eat lunch.",
       "published_at": "2026-11-05T21:30:13Z",
       "privacy": "public",
-      "views": 107,
+      "views": 108,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE",
@@ -2683,7 +2683,7 @@
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
       "published_at": "2026-11-08T15:40:11Z",
       "privacy": "public",
-      "views": 279,
+      "views": 287,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE"
@@ -4659,7 +4659,7 @@
       "hook": "This spider turns its own web into a slingshot.",
       "published_at": "2026-11-08T12:10:07Z",
       "privacy": "public",
-      "views": 136,
+      "views": 137,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM"
@@ -4895,7 +4895,7 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 958,
+      "views": 960,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA"
@@ -5023,7 +5023,7 @@
       "hook": "These frog eggs know when a snake is eating them.",
       "published_at": "2026-11-09T00:10:35Z",
       "privacy": "public",
-      "views": 998,
+      "views": 999,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/4UE4LUCRyws"
@@ -5223,7 +5223,7 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 282,
+      "views": 368,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo"
@@ -5407,8 +5407,8 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 146,
-      "likes": 0,
+      "views": 212,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo"
     },
@@ -5455,7 +5455,7 @@
       "hook": "This dinosaur's blood survived 115 million years.",
       "published_at": "2026-11-10T17:00:04Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
@@ -5599,6 +5599,30 @@
       "avg_view_percent": 47.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "GCFkHUEL_oA": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bug Plays a Spider's Web Like a Harp, Then Stabs the Spider",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Something is plucking this spider's web. It isn't dinner. It's the hunter.",
+      "published_at": "2026-11-10T19:59:12Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/GCFkHUEL_oA"
     },
     "yf9Gl1SzDAU": {
       "upload_status": "processed",
@@ -6319,7 +6343,7 @@
       "hook": "Baby geese jump off a four-hundred-foot cliff.",
       "published_at": "2026-10-29T21:20:18Z",
       "privacy": "public",
-      "views": 117,
+      "views": 115,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N-Lb2WZv0VA",
