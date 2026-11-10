@@ -52,6 +52,10 @@ jobs:
           git add content/stats.json channels/*/content/stats.json 2>/dev/null || git add content/stats.json
           if git diff --cached --quiet; then echo "nothing to commit"; else
             git commit -m "records: stats refresh"
-            git pull --rebase origin "${GITHUB_REF_NAME}"
-            git push origin "HEAD:${GITHUB_REF_NAME}"
+            # the two channels' refreshes run side by side since 7 Nov and can race each other's push: retry
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+              sleep $((i * 7))
+            done
+            exit 1
           fi
