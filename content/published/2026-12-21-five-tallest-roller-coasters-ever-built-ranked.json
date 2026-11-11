@@ -70,5 +70,21 @@
   ],
   "thumbnail_text": "5 TALLEST ROLLER COASTERS",
   "priority": 6,
-  "first_comment": "Falcon's Flight is also the longest coaster ever at 4,250 metres of track, more than two and a half miles. Which would you put at number one, and what should we rank next?"
+  "first_comment": "Falcon's Flight is also the longest coaster ever at 4,250 metres of track, more than two and a half miles. Which would you put at number one, and what should we rank next?",
+  "youtube_id": "Yz3YXH2zvyc",
+  "url": "https://youtube.com/shorts/Yz3YXH2zvyc",
+  "uploaded_at": "2026-11-11T13:52:36+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-11T15:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 18,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 55.1,
+  "style": "classic",
+  "kind": "shorts"
 }
