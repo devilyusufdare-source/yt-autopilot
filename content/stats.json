@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-11T13:52:38+00:00",
+  "updated_at": "2026-11-11T15:02:28+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 73,
+    "subscribers": 74,
     "channel_views": 72134,
-    "video_count": 279
+    "video_count": 280
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Yz3YXH2zvyc"
+      "https://youtube.com/shorts/cId-MnziRv0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Yz3YXH2zvyc"
+      "https://youtube.com/shorts/cId-MnziRv0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Yz3YXH2zvyc"
+      "https://youtube.com/shorts/cId-MnziRv0"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 278,
-  "total_views": 73496,
+  "total_videos": 279,
+  "total_views": 73561,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 199,
-      "avg_views": 270,
+      "videos": 200,
+      "avg_views": 269,
       "best_views": 1507
     },
     "human body": {
@@ -132,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 262,
-      "avg_views": 255,
+      "videos": 263,
+      "avg_views": 254,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 192,
-      "avg_views": 184
+      "videos": 193,
+      "avg_views": 183
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1790,7 +1790,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 300,
+      "views": 310,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
@@ -1966,7 +1966,7 @@
       "hook": "Nothing on Earth moves faster than this ant's jaw.",
       "published_at": "2026-11-10T19:00:23Z",
       "privacy": "public",
-      "views": 42,
+      "views": 44,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE"
@@ -2294,7 +2294,7 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg"
@@ -2318,7 +2318,7 @@
       "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
       "published_at": "2026-11-11T00:10:11Z",
       "privacy": "public",
-      "views": 49,
+      "views": 58,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uGfj97UnMNs"
@@ -2342,7 +2342,7 @@
       "hook": "This animal has no anus. Until it needs one.",
       "published_at": "2026-11-11T02:40:17Z",
       "privacy": "public",
-      "views": 34,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mZ8i9ESlQro"
@@ -2567,6 +2567,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "cId-MnziRv0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A 50-Gram Songbird Kills Mice and Hangs Them on Thorns",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This little songbird keeps a butcher's shop.",
+      "published_at": "2026-11-11T15:02:20Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/cId-MnziRv0"
+    },
     "SLTRR1243fU": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -2782,7 +2806,7 @@
       "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
       "published_at": "2026-11-09T15:30:38Z",
       "privacy": "public",
-      "views": 58,
+      "views": 57,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hagyIaLCA4M"
@@ -3148,14 +3172,14 @@
       "subscribers_gained": 0
     },
     "Yz3YXH2zvyc": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT56S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3164,8 +3188,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five tallest roller coasters ever built, ranked. The old champion was demolished with explosives last year.",
-      "published_at": "2026-11-11T13:52:27Z",
-      "privacy": "private",
+      "published_at": "2026-11-11T15:00:10Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -5386,7 +5410,7 @@
       "hook": "In 2019, thousands of animals crash-landed on the Moon.",
       "published_at": "2026-11-11T12:30:15Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Oyni6mm1Ma8"
@@ -5594,8 +5618,8 @@
       "hook": "This ladybug is alive. It's guarding its own parasite.",
       "published_at": "2026-11-10T15:00:03Z",
       "privacy": "public",
-      "views": 563,
-      "likes": 6,
+      "views": 616,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA"
     },
@@ -5618,7 +5642,7 @@
       "hook": "This dinosaur's blood survived 115 million years.",
       "published_at": "2026-11-10T17:00:04Z",
       "privacy": "public",
-      "views": 78,
+      "views": 74,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
@@ -6698,7 +6722,7 @@
       "hook": "One bomb's shockwave circled the Earth three times.",
       "published_at": "2026-10-20T02:10:26Z",
       "privacy": "public",
-      "views": 21,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",

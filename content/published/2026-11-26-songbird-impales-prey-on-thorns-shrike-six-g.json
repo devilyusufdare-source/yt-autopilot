@@ -58,5 +58,22 @@
   "thumbnail_text": "A SONGBIRD. A BUTCHER.",
   "priority": 6,
   "subject": "loggerhead shrike",
-  "first_comment": "Shrikes even impale toxic grasshoppers and leave them for days until the poison fades. Which bird would you never have guessed was a predator?"
+  "first_comment": "Shrikes even impale toxic grasshoppers and leave them for days until the poison fades. Which bird would you never have guessed was a predator?",
+  "youtube_id": "cId-MnziRv0",
+  "url": "https://youtube.com/shorts/cId-MnziRv0",
+  "uploaded_at": "2026-11-11T15:02:25+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-11T15:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 3,
+    "pixabay-photo": 8,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 31.3,
+  "style": "classic",
+  "kind": "shorts"
 }
