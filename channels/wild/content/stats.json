@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-11-11T04:01:13+00:00",
+  "updated_at": "2026-11-11T12:45:58+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
-    "channel_views": 15470,
+    "channel_views": 15678,
     "video_count": 76
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/SW-RQyYNOO0"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/SW-RQyYNOO0"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/SW-RQyYNOO0"
+    ]
   },
   "retention": {
     "videos_with_data": 68,
@@ -84,17 +90,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 76,
-  "total_views": 15692,
+  "total_videos": 77,
+  "total_views": 15723,
   "by_topic": {
     "earth": {
       "videos": 10,
-      "avg_views": 448,
+      "avg_views": 449,
       "best_views": 1121
     },
     "space": {
-      "videos": 32,
-      "avg_views": 170,
+      "videos": 33,
+      "avg_views": 165,
       "best_views": 1281
     },
     "society": {
@@ -104,12 +110,12 @@
     },
     "animals": {
       "videos": 12,
-      "avg_views": 216,
+      "avg_views": 217,
       "best_views": 1428
     },
     "body": {
       "videos": 7,
-      "avg_views": 135,
+      "avg_views": 136,
       "best_views": 498
     },
     "technology": {
@@ -120,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 76,
-      "avg_views": 206,
+      "videos": 77,
+      "avg_views": 204,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 75,
-      "avg_views": 195
+      "videos": 76,
+      "avg_views": 193
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -175,13 +181,13 @@
     {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
-      "views": 900,
+      "views": 906,
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
     },
     {
       "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
       "topic": "earth",
-      "views": 561,
+      "views": 562,
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
@@ -1169,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 76,
+      "views": 83,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1309,7 +1315,7 @@
       "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
       "published_at": "2026-11-03T19:20:06Z",
       "privacy": "public",
-      "views": 75,
+      "views": 76,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c",
@@ -1701,7 +1707,7 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 900,
+      "views": 906,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw",
@@ -1729,7 +1735,7 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 561,
+      "views": 562,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ",
@@ -1973,7 +1979,7 @@
       "hook": "What if you ate a polar bear's liver? Your skin could come off in sheets.",
       "published_at": "2026-11-09T21:20:20Z",
       "privacy": "public",
-      "views": 83,
+      "views": 85,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A"
@@ -2025,8 +2031,8 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 18,
-      "likes": 0,
+      "views": 25,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM"
     },
@@ -2049,7 +2055,7 @@
       "hook": "What if you teed off on the Moon? One astronaut did, and lied about the distance.",
       "published_at": "2026-11-10T13:30:29Z",
       "privacy": "public",
-      "views": 2,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EnjPbpuGvSU"
@@ -2073,7 +2079,7 @@
       "hook": "What if a nuclear reactor switched itself on with nobody around? It happened, two billion years ago.",
       "published_at": "2026-11-04T21:20:25Z",
       "privacy": "public",
-      "views": 31,
+      "views": 32,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UWlaqnyoJ4A",
@@ -2153,7 +2159,7 @@
       "hook": "What if a 77-ton space station fell out of the sky? In 1979, NASA couldn't say where.",
       "published_at": "2026-11-10T21:00:12Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/e089IAPM_eM"
@@ -2181,6 +2187,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ShUXEqiH32o"
+    },
+    "SW-RQyYNOO0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Your Spacecraft Spun Once a Second? Armstrong Lived It in 1966",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if your capsule started spinning once a second and wouldn't stop? Neil Armstrong found out.",
+      "published_at": "2026-11-11T12:45:53Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/SW-RQyYNOO0"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
