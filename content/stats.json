@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-10T23:45:42+00:00",
+  "updated_at": "2026-11-11T02:17:48+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 73,
     "channel_views": 68883,
-    "video_count": 275
+    "video_count": 276
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/uGfj97UnMNs"
+      "https://youtube.com/shorts/mZ8i9ESlQro"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/uGfj97UnMNs"
+      "https://youtube.com/shorts/mZ8i9ESlQro"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/uGfj97UnMNs"
+      "https://youtube.com/shorts/mZ8i9ESlQro"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 274,
-  "total_views": 72103,
+  "total_videos": 275,
+  "total_views": 72259,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -105,7 +105,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 197,
+      "videos": 198,
       "avg_views": 266,
       "best_views": 1507
     },
@@ -132,7 +132,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 258,
+      "videos": 259,
       "avg_views": 253,
       "over_1500": 3
     },
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 188,
+      "videos": 189,
       "avg_views": 180
     },
     "en-US-BrianNeural": {
@@ -1762,7 +1762,7 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 558,
+      "views": 559,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8",
@@ -1790,7 +1790,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 228,
+      "views": 229,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
@@ -1942,7 +1942,7 @@
       "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
       "published_at": "2026-11-10T02:50:29Z",
       "privacy": "public",
-      "views": 47,
+      "views": 46,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/J7yZVtMxDvE"
@@ -1966,7 +1966,7 @@
       "hook": "Nothing on Earth moves faster than this ant's jaw.",
       "published_at": "2026-11-10T19:00:23Z",
       "privacy": "public",
-      "views": 7,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE"
@@ -2046,7 +2046,7 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q",
@@ -2294,12 +2294,36 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg"
     },
     "uGfj97UnMNs": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT38S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Glowing 60-Foot Tube Drifts Through the Sea, and It's Thousands of Animals",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
+      "published_at": "2026-11-11T00:10:11Z",
+      "privacy": "public",
+      "views": 4,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/uGfj97UnMNs"
+    },
+    "mZ8i9ESlQro": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -2311,17 +2335,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A Glowing 60-Foot Tube Drifts Through the Sea, and It's Thousands of Animals",
+      "title": "This Sea Creature Grows a New Anus Every Time It Poops, Then Erases It",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
-      "published_at": "2026-11-10T23:45:34Z",
+      "hook": "This animal has no anus. Until it needs one.",
+      "published_at": "2026-11-11T02:17:42Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/uGfj97UnMNs"
+      "url": "https://youtube.com/shorts/mZ8i9ESlQro"
     },
     "KuI61cDYijY": {
       "upload_status": "processed",
@@ -2734,7 +2758,7 @@
       "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
       "published_at": "2026-11-09T15:30:38Z",
       "privacy": "public",
-      "views": 49,
+      "views": 51,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hagyIaLCA4M"
@@ -4798,7 +4822,7 @@
       "hook": "A male bee tries to mate with this lump.",
       "published_at": "2026-11-08T16:50:16Z",
       "privacy": "public",
-      "views": 458,
+      "views": 459,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg",
@@ -4854,7 +4878,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 329,
+      "views": 332,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s",
@@ -4938,7 +4962,7 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 960,
+      "views": 961,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA",
@@ -5102,7 +5126,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 303,
+      "views": 312,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw",
@@ -5130,7 +5154,7 @@
       "hook": "Rats were filmed catching bats in mid-air. In the dark.",
       "published_at": "2026-11-09T03:10:08Z",
       "privacy": "public",
-      "views": 957,
+      "views": 956,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMqWHgPm8kY",
@@ -5266,7 +5290,7 @@
       "hook": "The 1904 Olympic marathon was won on strychnine and brandy.",
       "published_at": "2026-11-10T12:20:37Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ca34HwuWgVs"
@@ -5290,7 +5314,7 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 584,
+      "views": 568,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo"
@@ -5342,7 +5366,7 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 266,
+      "views": 280,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48"
@@ -5474,8 +5498,8 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 228,
-      "likes": 1,
+      "views": 241,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo"
     },
@@ -5498,8 +5522,8 @@
       "hook": "This ladybug is alive. It's guarding its own parasite.",
       "published_at": "2026-11-10T15:00:03Z",
       "privacy": "public",
-      "views": 45,
-      "likes": 0,
+      "views": 156,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA"
     },
@@ -5522,7 +5546,7 @@
       "hook": "This dinosaur's blood survived 115 million years.",
       "published_at": "2026-11-10T17:00:04Z",
       "privacy": "public",
-      "views": 21,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
