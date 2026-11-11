@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-11T14:31:27+00:00",
+  "updated_at": "2026-11-11T15:37:40+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 15678,
-    "video_count": 77
+    "video_count": 78
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/yjXviWLc2f8"
+      "https://youtube.com/shorts/hYWH50rQX_M"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/yjXviWLc2f8"
+      "https://youtube.com/shorts/hYWH50rQX_M"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/yjXviWLc2f8"
+      "https://youtube.com/shorts/hYWH50rQX_M"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 78,
-  "total_views": 15728,
+  "total_videos": 79,
+  "total_views": 15732,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -114,8 +114,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 7,
-      "avg_views": 136,
+      "videos": 8,
+      "avg_views": 119,
       "best_views": 498
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 78,
-      "avg_views": 202,
+      "videos": 79,
+      "avg_views": 199,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 77,
-      "avg_views": 191
+      "videos": 78,
+      "avg_views": 188
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1175,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 83,
+      "views": 85,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1955,7 +1955,7 @@
       "hook": "What if the sky went black at midday, with no eclipse and no storm? In 1780 it happened.",
       "published_at": "2026-11-09T17:50:04Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QrA3jMszKEw"
@@ -2213,6 +2213,30 @@
       "url": "https://youtube.com/shorts/SW-RQyYNOO0"
     },
     "yjXviWLc2f8": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT50S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Your Country Vanished While You Were in Orbit? It Happened in 1991",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if your country disappeared while you were in space? One cosmonaut found out.",
+      "published_at": "2026-11-11T15:00:06Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/yjXviWLc2f8"
+    },
+    "hYWH50rQX_M": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -2224,17 +2248,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If Your Country Vanished While You Were in Orbit? It Happened in 1991",
-      "topic": "space",
+      "title": "What If You Froze Solid for Six Hours? In 1980 a Teenager Did, and Lived",
+      "topic": "body",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if your country disappeared while you were in space? One cosmonaut found out.",
-      "published_at": "2026-11-11T14:31:22Z",
+      "hook": "What if you froze stiff as a board, no pulse, for six hours? One teenager woke up.",
+      "published_at": "2026-11-11T15:37:36Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/yjXviWLc2f8"
+      "url": "https://youtube.com/shorts/hYWH50rQX_M"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
