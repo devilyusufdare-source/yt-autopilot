@@ -1,0 +1,61 @@
+{
+  "format": "fact",
+  "topic": "human body",
+  "subject": "human femur bone",
+  "title": "Your Thigh Bone Holds 6,000 Pounds, but Only in One Direction",
+  "scenes": [
+    {
+      "text": "Your thigh bone can hold up 6,000 pounds. Thirty of you, stacked.",
+      "keywords": "weightlifter heavy squat barbell"
+    },
+    {
+      "text": "The femur, the longest bone in your body. About 48 centimetres in an adult man, and just over two centimetres thick.",
+      "keywords": "femur bone xray skeleton"
+    },
+    {
+      "text": "Squeezed along its length, bone fails at about 205 megapascals. Physics textbooks work it out: enough for 30 times an adult's weight.",
+      "keywords": "bone compression test laboratory"
+    },
+    {
+      "text": "The trick is direction. Bone is built for loads running along it, like a column.",
+      "keywords": "stone columns building architecture"
+    },
+    {
+      "text": "Push across it, sideways, and it's 36 percent weaker. That's how a fall or a tackle snaps a bone that holds 6,000 pounds standing up.",
+      "keywords": "football tackle collision"
+    },
+    {
+      "text": "Pull on it and it fails at 135. Squeeze along it, 205. Your skeleton isn't just strong. It's strong in the right direction.",
+      "keywords": "runner legs sprinting slow motion"
+    }
+  ],
+  "description": "Your femur can carry about 6,000 pounds of compression, roughly 30 times an adult's body weight, but only along its length.\nMeasured values put bone's ultimate compressive strength along the femur's axis at about 205 megapascals and its tensile strength at 135 megapascals; pushed across its short axis, bone is about 36 percent weaker. Using an average adult male femur, about 48 cm long and 2.34 cm across with a hollow core, physics textbooks show that supporting 30 times body weight (about 6,000 pounds) needs only about 80 megapascals, well under the limit. Sideways loads, as in falls and tackles, are what break it.\nWhat's the strongest thing you've ever seen a body do?",
+  "tags": [
+    "femur strength",
+    "thigh bone",
+    "strongest bone in body",
+    "bone strength",
+    "human body facts",
+    "skeleton facts",
+    "body physics",
+    "anatomy facts",
+    "how strong is bone",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#science",
+    "#anatomy"
+  ],
+  "sources": [
+    "https://openoregon.pressbooks.pub/bodyphysics/chapter/stress-and-strain-on-the-body/",
+    "https://phys.libretexts.org/Bookshelves/Conceptual_Physics/Body_Physics_-_Motion_to_Metabolism_(Davis)/07%3A_Strength_and_Elasticity_of_the_Body/7.01%3A_Strength_of_Human_Bones"
+  ],
+  "thumbnail_text": "ONE BONE. 6,000 POUNDS.",
+  "priority": 5,
+  "first_comment": "30 times your weight along the bone, 36 percent weaker across it. Which part of your body do you think is the most over-engineered?",
+  "id": "2027-08-23-thigh-bone-holds-6000-pounds-one-direction"
+}

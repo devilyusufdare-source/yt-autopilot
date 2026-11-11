@@ -1,0 +1,74 @@
+{
+  "format": "ranking",
+  "ranking_by": "eye diameter",
+  "topic": "animals",
+  "subject": "giant squid eye",
+  "title": "The 5 Biggest Eyes on Earth, Ranked (#1 Is the Size of a Football)",
+  "scenes": [
+    {
+      "text": "The five biggest eyes on Earth. No whale wins. Number one is the size of a football.",
+      "keywords": "giant eye close up underwater"
+    },
+    {
+      "text": "Number five: the swordfish. Eyes about nine to ten centimetres across.",
+      "keywords": "swordfish swimming",
+      "rank": 5,
+      "label": "Swordfish · 9-10 cm"
+    },
+    {
+      "text": "Number four: the bigeye thresher shark. Over ten centimetres, the largest eyes of any fish, taller than they are wide.",
+      "keywords": "thresher shark swimming",
+      "rank": 4,
+      "label": "Thresher shark · 10+ cm"
+    },
+    {
+      "text": "Number three: the blue whale. The biggest animal ever, yet its eye is about eleven centimetres, under half a percent of its length.",
+      "keywords": "blue whale eye close up",
+      "rank": 3,
+      "label": "Blue whale · 11 cm"
+    },
+    {
+      "text": "Number two: the giant squid. One caught off Hawaii had an eye at least 27 centimetres across, with a nine-centimetre pupil.",
+      "keywords": "giant squid deep sea",
+      "rank": 2,
+      "label": "Giant squid · 27 cm"
+    },
+    {
+      "text": "Number one: the colossal squid. 27 to 28 centimetres, measured off New Zealand in 2007. The biggest eye of any living animal.",
+      "keywords": "colossal squid eye",
+      "rank": 1,
+      "label": "Colossal squid · 28 cm"
+    }
+  ],
+  "description": "The five biggest eyes of any living animal, ranked by eye diameter.\nThe colossal squid tops the list: a specimen collected off New Zealand in 2007 had eyes measuring 27 to 28 cm across, about the size of a football. A giant squid caught off Hawaii in 1981 had an eye of at least 27 cm with a 9 cm pupil. The blue whale's eye is only about 10.9 to 11 cm, roughly 0.44 percent of its body length, yet the largest of any vertebrate. The bigeye thresher shark's eyes exceed 10 cm, the largest of any fish, and the swordfish's measure about 9 to 10 cm. For comparison, the ostrich's 5 cm eye is the biggest on land.\nWhich one surprised you most? What should we rank next?",
+  "tags": [
+    "biggest eyes",
+    "largest eyes animal",
+    "colossal squid eye",
+    "giant squid",
+    "blue whale eye",
+    "thresher shark",
+    "swordfish",
+    "top 5 animals",
+    "animal rankings",
+    "ocean animals",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#ranking",
+    "#ocean"
+  ],
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/716787-largest-eyes-on-a-living-vertebrate",
+    "https://www.ifaw.org/journal/animals-biggest-eyes-world",
+    "https://www.nhm.ac.uk/discover/amazing-eyes-vision-champions.html"
+  ],
+  "thumbnail_text": "5 BIGGEST EYES, RANKED",
+  "priority": 6,
+  "first_comment": "A squid beats the biggest animal that ever lived, by more than double. Which would you put at number one, and what should we rank next?",
+  "id": "2027-08-25-five-biggest-eyes-on-earth-ranked"
+}

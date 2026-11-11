@@ -1,0 +1,61 @@
+{
+  "format": "fact",
+  "topic": "space",
+  "subject": "magnetar neutron star",
+  "title": "In 2004, Something Halfway Across the Galaxy Hit Earth's Atmosphere",
+  "scenes": [
+    {
+      "text": "On 27 December 2004, a blast from halfway across the galaxy hit Earth.",
+      "keywords": "gamma ray burst explosion space"
+    },
+    {
+      "text": "It came from SGR 1806-20, a magnetar: a dead star 20 kilometres wide with the strongest magnetic field known, a thousand trillion gauss.",
+      "keywords": "neutron star magnetic field animation"
+    },
+    {
+      "text": "In a tenth of a second it released more energy than the Sun gives off in 100,000 years.",
+      "keywords": "sun surface flare close up"
+    },
+    {
+      "text": "From 50,000 light-years away, its gamma rays arrived as bright as the full Moon. They bounced off the Moon and swelled Earth's upper atmosphere.",
+      "keywords": "full moon night sky"
+    },
+    {
+      "text": "Scientists think the star's crust cracked, a starquake, and its magnetic field snapped like a rubber band.",
+      "keywords": "earthquake cracks ground"
+    },
+    {
+      "text": "Within 10 light-years, it would have wrecked our atmosphere and maybe caused a mass extinction. The nearest known magnetar is about 4,000 light-years away.",
+      "keywords": "earth from space atmosphere glow"
+    }
+  ],
+  "description": "On 27 December 2004 a giant flare from the magnetar SGR 1806-20, about 50,000 light-years away in Sagittarius, hit Earth with gamma rays as bright as the full Moon.\nFor about a tenth of a second the flare released more energy than the Sun emits in 100,000 years, according to astronomers quoted by NASA and Space.com. The radiation bounced off the Moon and briefly expanded Earth's ionosphere. Magnetars are neutron stars about 20 km across with magnetic fields around a thousand trillion gauss; the flare may have been triggered by a starquake in the star's crust. Had it happened within 10 light-years, scientists said it would have severely damaged the atmosphere and possibly triggered a mass extinction.\nWhat would you do with a tenth of a second's warning?",
+  "tags": [
+    "magnetar",
+    "sgr 1806-20",
+    "giant flare 2004",
+    "neutron star",
+    "gamma ray burst",
+    "space facts",
+    "astronomy facts",
+    "nasa swift",
+    "dead star",
+    "universe facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#astronomy",
+    "#nasa"
+  ],
+  "sources": [
+    "https://swift.gsfc.nasa.gov/news/2005/05-051.html",
+    "https://www.space.com/806-brightest-galactic-flash-detected-hits-earth.html"
+  ],
+  "thumbnail_text": "100,000 YEARS OF SUN. 0.1 SECONDS.",
+  "priority": 6,
+  "first_comment": "A star 20 kilometres wide outshone the full Moon from 50,000 light-years away. What is the most powerful thing in the universe you know of?",
+  "id": "2027-08-22-dead-star-blast-hit-earth-from-halfway-across-galaxy"
+}
