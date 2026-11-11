@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-11T12:45:58+00:00",
+  "updated_at": "2026-11-11T14:31:27+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 15678,
-    "video_count": 76
+    "video_count": 77
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/SW-RQyYNOO0"
+      "https://youtube.com/shorts/yjXviWLc2f8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/SW-RQyYNOO0"
+      "https://youtube.com/shorts/yjXviWLc2f8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/SW-RQyYNOO0"
+      "https://youtube.com/shorts/yjXviWLc2f8"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 77,
-  "total_views": 15723,
+  "total_videos": 78,
+  "total_views": 15728,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -99,8 +99,8 @@
       "best_views": 1121
     },
     "space": {
-      "videos": 33,
-      "avg_views": 165,
+      "videos": 34,
+      "avg_views": 160,
       "best_views": 1281
     },
     "society": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 77,
-      "avg_views": 204,
+      "videos": 78,
+      "avg_views": 202,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 76,
-      "avg_views": 193
+      "videos": 77,
+      "avg_views": 191
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -187,7 +187,7 @@
     {
       "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
       "topic": "earth",
-      "views": 562,
+      "views": 560,
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
@@ -1679,7 +1679,7 @@
       "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
       "published_at": "2026-11-07T21:00:38Z",
       "privacy": "public",
-      "views": 66,
+      "views": 67,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg",
@@ -1735,7 +1735,7 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 562,
+      "views": 560,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ",
@@ -2189,14 +2189,14 @@
       "url": "https://youtube.com/shorts/ShUXEqiH32o"
     },
     "SW-RQyYNOO0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT49S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2205,12 +2205,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if your capsule started spinning once a second and wouldn't stop? Neil Armstrong found out.",
-      "published_at": "2026-11-11T12:45:53Z",
+      "published_at": "2026-11-11T13:30:19Z",
+      "privacy": "public",
+      "views": 6,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/SW-RQyYNOO0"
+    },
+    "yjXviWLc2f8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Your Country Vanished While You Were in Orbit? It Happened in 1991",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if your country disappeared while you were in space? One cosmonaut found out.",
+      "published_at": "2026-11-11T14:31:22Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/SW-RQyYNOO0"
+      "url": "https://youtube.com/shorts/yjXviWLc2f8"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
