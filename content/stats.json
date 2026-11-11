@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-11T16:38:17+00:00",
+  "updated_at": "2026-11-11T18:03:39+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 74,
-    "channel_views": 72134,
-    "video_count": 281
+    "channel_views": 73337,
+    "video_count": 282
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/f32tutRUWsE"
+      "https://youtube.com/shorts/yuo7BIR-dKs",
+      "https://youtube.com/shorts/0ZDEx6r83js"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/f32tutRUWsE"
+      "https://youtube.com/shorts/0ZDEx6r83js"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/f32tutRUWsE"
+      "https://youtube.com/shorts/0ZDEx6r83js"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 280,
-  "total_views": 73693,
+  "total_videos": 282,
+  "total_views": 73811,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 201,
-      "avg_views": 269,
+      "videos": 203,
+      "avg_views": 267,
       "best_views": 1507
     },
     "human body": {
@@ -121,7 +122,7 @@
     },
     "space": {
       "videos": 28,
-      "avg_views": 305,
+      "avg_views": 306,
       "best_views": 1513
     },
     "technology": {
@@ -132,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 264,
-      "avg_views": 253,
+      "videos": 266,
+      "avg_views": 252,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 194,
-      "avg_views": 183
+      "videos": 196,
+      "avg_views": 181
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1790,8 +1791,8 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 298,
-      "likes": 5,
+      "views": 318,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
     },
@@ -1966,7 +1967,7 @@
       "hook": "Nothing on Earth moves faster than this ant's jaw.",
       "published_at": "2026-11-10T19:00:23Z",
       "privacy": "public",
-      "views": 38,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE"
@@ -2294,7 +2295,7 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 39,
+      "views": 57,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg"
@@ -2318,7 +2319,7 @@
       "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
       "published_at": "2026-11-11T00:10:11Z",
       "privacy": "public",
-      "views": 61,
+      "views": 64,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uGfj97UnMNs"
@@ -2342,8 +2343,8 @@
       "hook": "This animal has no anus. Until it needs one.",
       "published_at": "2026-11-11T02:40:17Z",
       "privacy": "public",
-      "views": 40,
-      "likes": 1,
+      "views": 48,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mZ8i9ESlQro"
     },
@@ -2586,7 +2587,7 @@
       "hook": "This little songbird keeps a butcher's shop.",
       "published_at": "2026-11-11T15:30:02Z",
       "privacy": "public",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/cId-MnziRv0"
@@ -2648,6 +2649,54 @@
       "subscribers_gained": 0
     },
     "f32tutRUWsE": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT31S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Moray Eel Has a Second Set of Jaws Hidden in Its Throat",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A moray eel bites you twice. The second bite comes from its throat.",
+      "published_at": "2026-11-11T18:00:18Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/f32tutRUWsE"
+    },
+    "yuo7BIR-dKs": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT34S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The Deadliest Kick in Africa Belongs to a Bird, and It Lasts 15 Milliseconds",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The deadliest kick in Africa belongs to a bird.",
+      "published_at": "2026-11-11T18:00:26Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/yuo7BIR-dKs"
+    },
+    "0ZDEx6r83js": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -2659,17 +2708,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A Moray Eel Has a Second Set of Jaws Hidden in Its Throat",
+      "title": "This Bird Hasn't Landed Since Last Summer, and It Won't Until Spring",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "A moray eel bites you twice. The second bite comes from its throat.",
-      "published_at": "2026-11-11T16:38:04Z",
+      "hook": "This bird hasn't landed since last summer.",
+      "published_at": "2026-11-11T18:03:27Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/f32tutRUWsE"
+      "url": "https://youtube.com/shorts/0ZDEx6r83js"
     },
     "EjNKSPQn5ho": {
       "upload_status": "processed",
@@ -2830,7 +2879,7 @@
       "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
       "published_at": "2026-11-09T15:30:38Z",
       "privacy": "public",
-      "views": 59,
+      "views": 60,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hagyIaLCA4M"
@@ -3214,7 +3263,7 @@
       "hook": "The five tallest roller coasters ever built, ranked. The old champion was demolished with explosives last year.",
       "published_at": "2026-11-11T15:00:10Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Yz3YXH2zvyc"
@@ -4246,7 +4295,7 @@
       "hook": "A snake bit this scientist. He took notes.",
       "published_at": "2026-11-07T00:10:24Z",
       "privacy": "public",
-      "views": 32,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BqSWxMd40wg",
@@ -5434,7 +5483,7 @@
       "hook": "In 2019, thousands of animals crash-landed on the Moon.",
       "published_at": "2026-11-11T12:30:15Z",
       "privacy": "public",
-      "views": 8,
+      "views": 12,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Oyni6mm1Ma8"
@@ -5642,7 +5691,7 @@
       "hook": "This ladybug is alive. It's guarding its own parasite.",
       "published_at": "2026-11-10T15:00:03Z",
       "privacy": "public",
-      "views": 668,
+      "views": 712,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA"
