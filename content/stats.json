@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-11T02:17:48+00:00",
+  "updated_at": "2026-11-11T04:01:13+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 73,
     "channel_views": 68883,
-    "video_count": 276
+    "video_count": 277
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/mZ8i9ESlQro"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/mZ8i9ESlQro"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/mZ8i9ESlQro"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 248,
@@ -31,7 +25,7 @@
       "science": 64.3,
       "animals": 56.8,
       "human body": 80.9,
-      "history": 67.7,
+      "history": 67.5,
       "space": 64.4,
       "technology": 59.9
     },
@@ -44,7 +38,7 @@
       {
         "title": "The Titanic Was Found During a Secret Navy Hunt for Lost Nuclear Subs",
         "avg_view_percent": 241.9,
-        "views": 13
+        "views": 14
       },
       {
         "title": "Scientists Swore This Fish Died Out With the Dinosaurs",
@@ -92,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 275,
-  "total_views": 72259,
+  "total_views": 72496,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -106,7 +100,7 @@
     },
     "animals": {
       "videos": 198,
-      "avg_views": 266,
+      "avg_views": 267,
       "best_views": 1507
     },
     "human body": {
@@ -133,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 259,
-      "avg_views": 253,
+      "avg_views": 254,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +139,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 189,
-      "avg_views": 180
+      "avg_views": 181
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1790,7 +1784,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 229,
+      "views": 230,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
@@ -1814,7 +1808,7 @@
       "hook": "This male crab is raising babies. None of them are his.",
       "published_at": "2026-11-09T21:00:39Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM"
@@ -1838,7 +1832,7 @@
       "hook": "A shark that walks out of the sea. On its fins.",
       "published_at": "2026-11-09T21:30:38Z",
       "privacy": "public",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i4AAj7Pg6sQ"
@@ -1862,7 +1856,7 @@
       "hook": "A garden songbird that hunts bats.",
       "published_at": "2026-11-10T00:20:27Z",
       "privacy": "public",
-      "views": 30,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/340LMR9p660"
@@ -1942,7 +1936,7 @@
       "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
       "published_at": "2026-11-10T02:50:29Z",
       "privacy": "public",
-      "views": 46,
+      "views": 47,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/J7yZVtMxDvE"
@@ -1966,8 +1960,8 @@
       "hook": "Nothing on Earth moves faster than this ant's jaw.",
       "published_at": "2026-11-10T19:00:23Z",
       "privacy": "public",
-      "views": 10,
-      "likes": 0,
+      "views": 19,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE"
     },
@@ -2130,7 +2124,7 @@
       "hook": "This fish eats birds, breathes air, and crawls to the next pond when it's done.",
       "published_at": "2026-11-10T18:00:36Z",
       "privacy": "public",
-      "views": 15,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/IN5A3Mj60ok"
@@ -2318,20 +2312,20 @@
       "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
       "published_at": "2026-11-11T00:10:11Z",
       "privacy": "public",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uGfj97UnMNs"
     },
     "mZ8i9ESlQro": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2340,9 +2334,9 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This animal has no anus. Until it needs one.",
-      "published_at": "2026-11-11T02:17:42Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-11T02:40:17Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/mZ8i9ESlQro"
@@ -2646,7 +2640,7 @@
       "hook": "This frog thinks it's about to eat lunch.",
       "published_at": "2026-11-05T21:30:13Z",
       "privacy": "public",
-      "views": 108,
+      "views": 111,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE",
@@ -2758,7 +2752,7 @@
       "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
       "published_at": "2026-11-09T15:30:38Z",
       "privacy": "public",
-      "views": 51,
+      "views": 52,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hagyIaLCA4M"
@@ -3006,7 +3000,7 @@
       "hook": "Five fires that never went out, ranked. Number one was burning before the pyramids were built.",
       "published_at": "2026-11-10T15:30:00Z",
       "privacy": "public",
-      "views": 20,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wd54rwPedR4"
@@ -3842,7 +3836,7 @@
       "hook": "Pacific night fishermen fear a fish that never bites.",
       "published_at": "2026-11-06T21:40:27Z",
       "privacy": "public",
-      "views": 79,
+      "views": 82,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vvzQ8VmQ1Y",
@@ -5018,7 +5012,7 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 928,
+      "views": 929,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k",
@@ -5182,7 +5176,7 @@
       "hook": "The search for the Titanic was a cover story.",
       "published_at": "2026-11-06T03:30:13Z",
       "privacy": "public",
-      "views": 13,
+      "views": 14,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k1T79ufoaX8",
@@ -5314,8 +5308,8 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 568,
-      "likes": 3,
+      "views": 703,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo"
     },
@@ -5522,7 +5516,7 @@
       "hook": "This ladybug is alive. It's guarding its own parasite.",
       "published_at": "2026-11-10T15:00:03Z",
       "privacy": "public",
-      "views": 156,
+      "views": 209,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA"
@@ -5710,7 +5704,7 @@
       "hook": "Something is plucking this spider's web. It isn't dinner. It's the hunter.",
       "published_at": "2026-11-10T21:00:34Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GCFkHUEL_oA"
@@ -5762,7 +5756,7 @@
       "hook": "Red ants found this caterpillar and carried it home. That was its plan.",
       "published_at": "2026-11-10T21:20:05Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMa7hcjpTsM"
@@ -6631,7 +6625,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/sSBPt5yFR_c",
       "avg_view_seconds": 20.0,
-      "avg_view_percent": 65.4,
+      "avg_view_percent": 62.6,
       "shares": 0,
       "subscribers_gained": 0
     },
