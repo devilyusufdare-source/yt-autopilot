@@ -1,0 +1,59 @@
+{
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "atomic clock",
+  "title": "What If One Extra Second Broke the Internet? In 2012 It Did",
+  "scenes": [
+    {
+      "text": "What if the world's clocks gained one second? In 2012, it grounded flights.",
+      "keywords": "digital clock midnight countdown"
+    },
+    {
+      "text": "Earth's spin isn't perfectly steady. So since 1972, timekeepers have added a leap second now and then to keep atomic time in step with the planet.",
+      "keywords": "earth rotating from space"
+    },
+    {
+      "text": "30 June 2012, midnight. The extra second hit a bug in the Linux kernel. Servers locked up. Reddit and LinkedIn went down.",
+      "keywords": "server room blinking lights"
+    },
+    {
+      "text": "Qantas' reservation system stumbled too. Flights were delayed by a second that didn't officially exist.",
+      "keywords": "airport departures board delayed"
+    },
+    {
+      "text": "Google's fix: smear the second across 20 hours, so no clock ever has to read 23:59:60.",
+      "keywords": "data center servers rows"
+    },
+    {
+      "text": "In 2022 the world voted to stop leap seconds by 2035. The twist: Earth is speeding up. The next one might be negative, a second deleted, maybe by 2029.",
+      "keywords": "atomic clock laboratory"
+    }
+  ],
+  "description": "What if the world added a single extra second to the clock? On 30 June 2012 it did, and a Linux kernel bug locked up servers, taking down Reddit and LinkedIn and delaying Qantas flights through the Amadeus reservation system.\nLeap seconds have been added since 1972 to keep atomic time (UTC) within 0.9 seconds of Earth's actual rotation. Google avoids the jump by smearing the second over a 20-hour window, slowing its clocks by about 14 parts per million. In 2022 the General Conference on Weights and Measures voted to end leap seconds in or before 2035. Meanwhile Earth's rotation appears to be speeding up, raising the possibility of the first ever negative leap second, perhaps as early as 2029.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "leap second",
+    "leap second 2012",
+    "linux bug",
+    "atomic clock",
+    "utc time",
+    "internet outage",
+    "technology facts",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#technology",
+    "#time"
+  ],
+  "sources": [
+    "https://thenewstack.io/system-operators-to-timekeepers-what-will-replace-leap-seconds/",
+    "https://www.cio.de/article/3681731/bruised-by-past-mistakes-tech-firms-brace-for-leap-second-3.html"
+  ],
+  "thumbnail_text": "WHAT IF A SECOND BROKE THE WEB?",
+  "priority": 6,
+  "first_comment": "One second, and Reddit, LinkedIn and an airline went down. Would you notice if a second were deleted from your life? Drop your own what-if below.",
+  "id": "2027-08-02-what-if-one-extra-second-broke-the-internet"
+}
