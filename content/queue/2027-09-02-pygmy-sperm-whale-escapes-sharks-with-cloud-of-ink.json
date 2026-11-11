@@ -1,0 +1,61 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "pygmy sperm whale",
+  "title": "This Whale Escapes Sharks by Squirting Gallons of Dark Ink",
+  "scenes": [
+    {
+      "text": "This whale squirts ink like a squid.",
+      "keywords": "pygmy sperm whale surface"
+    },
+    {
+      "text": "The pygmy sperm whale. Up to 3.5 metres long, 700 to 1,000 pounds, and so shy that scientists rarely see one alive at sea.",
+      "keywords": "small whale ocean surface"
+    },
+    {
+      "text": "When a shark or orca closes in, it releases more than three gallons of dark, reddish-brown fluid from its gut.",
+      "keywords": "dark cloud underwater murky"
+    },
+    {
+      "text": "The cloud spreads through the water and the whale slips away behind it, the same trick a squid uses.",
+      "keywords": "squid ink cloud underwater"
+    },
+    {
+      "text": "It hunts squid itself, diving past 1,000 feet into the deep, and lives around 23 years.",
+      "keywords": "deep sea squid swimming"
+    },
+    {
+      "text": "A whale with a smoke bomb. By the time the cloud clears, the whale is gone.",
+      "keywords": "pygmy sperm whale surface"
+    }
+  ],
+  "description": "The pygmy sperm whale defends itself like a squid: when threatened, it releases more than three gallons of dark reddish-brown intestinal fluid to cloud the water and escape.\nPygmy sperm whales (Kogia breviceps) grow up to about 11.5 feet (3.5 m) and weigh 700 to 1,000 pounds. They live in deep offshore waters, dive to at least 1,000 feet for squid, octopus, crustaceans and fish, and live up to about 23 years. Because they avoid boats, scientists rarely see them alive; much of what is known comes from strandings. Their close relative, the dwarf sperm whale, uses the same ink-cloud trick against sharks and orcas.\nWhich animal defence would you most like to have?",
+  "tags": [
+    "pygmy sperm whale",
+    "whale squirts ink",
+    "kogia breviceps",
+    "whale defence",
+    "dwarf sperm whale",
+    "ocean animals",
+    "whale facts",
+    "deep sea animals",
+    "marine mammals",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whale",
+    "#ocean",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.fisheries.noaa.gov/species/pygmy-sperm-whale",
+    "https://www.livescience.com/animals/whales/dwarf-sperm-whale-the-pint-size-whales-that-gush-gallons-of-intestinal-fluid-when-surprised"
+  ],
+  "thumbnail_text": "A WHALE WITH A SMOKE BOMB",
+  "priority": 6,
+  "first_comment": "Three gallons of ink and a vanishing act. Squid, octopus or whale: who does the ink escape best?",
+  "id": "2027-09-02-pygmy-sperm-whale-escapes-sharks-with-cloud-of-ink"
+}

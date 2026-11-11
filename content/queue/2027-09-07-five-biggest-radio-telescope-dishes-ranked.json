@@ -1,0 +1,73 @@
+{
+  "format": "ranking",
+  "ranking_by": "dish diameter in metres",
+  "topic": "space",
+  "subject": "giant radio telescope dish",
+  "title": "The 5 Biggest Radio Telescope Dishes, Ranked (#2 Collapsed in 2020)",
+  "scenes": [
+    {
+      "text": "The five biggest radio telescope dishes on Earth. Number two collapsed in 2020.",
+      "keywords": "giant radio telescope dish aerial"
+    },
+    {
+      "text": "Number five: the Lovell Telescope at Jodrell Bank, England. 76 metres across, first light in 1957.",
+      "keywords": "lovell telescope jodrell bank",
+      "rank": 5,
+      "label": "Lovell · 76 m"
+    },
+    {
+      "text": "Number four: Effelsberg, Germany. A 100-metre dish built from 1968 to 1971, the biggest steerable telescope on Earth for almost thirty years.",
+      "keywords": "effelsberg radio telescope germany",
+      "rank": 4,
+      "label": "Effelsberg · 100 m"
+    },
+    {
+      "text": "Number three: the Green Bank Telescope, West Virginia. 100 by 110 metres, moved by over 2,000 small motors, the largest fully steerable dish anywhere.",
+      "keywords": "green bank telescope west virginia",
+      "rank": 3,
+      "label": "Green Bank · 110 m"
+    },
+    {
+      "text": "Number two: Arecibo, Puerto Rico. A 305-metre dish built into a natural hollow. In 2020 its instrument platform fell and smashed through it.",
+      "keywords": "arecibo observatory dish",
+      "rank": 2,
+      "label": "Arecibo · 305 m"
+    },
+    {
+      "text": "Number one: FAST, in Guizhou, China. Five hundred metres across, completed in 2016 for about 180 million dollars. Roughly 30 football pitches of dish.",
+      "keywords": "fast radio telescope china aerial",
+      "rank": 1,
+      "label": "FAST · 500 m"
+    }
+  ],
+  "description": "The five largest single-dish radio telescopes ever built, ranked by dish diameter.\nChina's Five-hundred-meter Aperture Spherical Telescope (FAST) in Guizhou, completed in 2016, is the largest single radio telescope in the world at 500 m. It surpassed the 305 m Arecibo dish in Puerto Rico, whose instrument platform collapsed into the reflector in 2020. The Green Bank Telescope in West Virginia (110 by 100 m, completed 2000) is the largest fully steerable dish; Germany's 100 m Effelsberg telescope held that title for almost three decades after 1971; and the 76 m Lovell Telescope at Jodrell Bank has operated since 1957.\nWhich one would you most like to see in person? What should we rank next?",
+  "tags": [
+    "biggest radio telescope",
+    "fast telescope china",
+    "arecibo collapse",
+    "green bank telescope",
+    "effelsberg",
+    "lovell telescope",
+    "radio astronomy",
+    "space ranking",
+    "top 5 space",
+    "space facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#ranking",
+    "#astronomy"
+  ],
+  "sources": [
+    "https://www.britannica.com/science/radio-telescope/Important-radio-telescopes",
+    "https://go-astronomy.com/10-largest-radio-telescopes.htm",
+    "https://www.discoveryuk.com/building-big/the-world%E2%80%B2s-largest-radio-telescopes/"
+  ],
+  "thumbnail_text": "5 BIGGEST DISHES, RANKED",
+  "priority": 5,
+  "first_comment": "A dish you could fit 30 football pitches into. Which would you rank number one, and what should we rank next?",
+  "id": "2027-09-07-five-biggest-radio-telescope-dishes-ranked"
+}

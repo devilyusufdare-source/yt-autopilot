@@ -1,0 +1,61 @@
+{
+  "format": "fact",
+  "topic": "science",
+  "subject": "plutonium core",
+  "title": "A Plutonium Ball Killed Two Scientists. One Slip of a Screwdriver",
+  "scenes": [
+    {
+      "text": "A 14-pound ball of plutonium killed two scientists, one at a time.",
+      "keywords": "plutonium sphere laboratory"
+    },
+    {
+      "text": "Los Alamos, August 1945. Harry Daghlian was stacking tungsten bricks around the core when one slipped and landed on it. A blue glow, a wave of heat. He died 25 days later.",
+      "keywords": "1940s physics laboratory"
+    },
+    {
+      "text": "May 1946. Louis Slotin lowered a beryllium dome over the same core, holding the gap open with the tip of a screwdriver. It slipped.",
+      "keywords": "screwdriver hand close up"
+    },
+    {
+      "text": "A blue flash. He flipped the dome off with his bare hand within a second, protecting the men beside him. He'd taken close to 1,000 rads. Nine days later he was dead.",
+      "keywords": "blue flash light laboratory"
+    },
+    {
+      "text": "Richard Feynman called these experiments tickling the tail of a sleeping dragon.",
+      "keywords": "scientists chalkboard physics"
+    },
+    {
+      "text": "At Los Alamos the sphere got a nickname that stuck: the demon core.",
+      "keywords": "plutonium sphere laboratory"
+    }
+  ],
+  "description": "One 6.2-kilogram sphere of plutonium killed two Los Alamos scientists in two separate criticality accidents, nine months apart.\nOn 21 August 1945 Harry Daghlian dropped a tungsten carbide brick onto the core, saw a blue glow and felt a wave of heat, and died 25 days later. On 21 May 1946 Louis Slotin was lowering a beryllium hemisphere over the same core, using a screwdriver to hold the gap, when it slipped; there was a blue flash, he flipped the shell off by hand, and he died nine days later after a dose of close to 1,000 rads. Richard Feynman compared the experiments to tickling the tail of a sleeping dragon. The sphere became known as the demon core.\nWould you have taken that job?",
+  "tags": [
+    "demon core",
+    "louis slotin",
+    "harry daghlian",
+    "los alamos",
+    "plutonium core",
+    "criticality accident",
+    "manhattan project",
+    "nuclear history",
+    "science history",
+    "physics facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#history",
+    "#nuclear"
+  ],
+  "sources": [
+    "https://www.sciencealert.com/the-chilling-story-of-wwii-s-demon-core-and-the-scientists-who-became-its-victims",
+    "https://www.smithsonianmag.com/smart-news/after-wwii-scientists-conducted-deadly-tests-unexploded-nuclear-bomb-core-180953668/"
+  ],
+  "thumbnail_text": "ONE SLIP. 1,000 RADS.",
+  "priority": 7,
+  "first_comment": "Two deaths, nine months apart, from the same 14-pound sphere. Would you have picked up that screwdriver?",
+  "id": "2027-09-03-demon-core-plutonium-sphere-killed-two-scientists"
+}

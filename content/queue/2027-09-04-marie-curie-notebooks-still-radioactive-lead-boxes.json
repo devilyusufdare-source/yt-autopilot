@@ -1,0 +1,60 @@
+{
+  "format": "fact",
+  "topic": "history",
+  "subject": "old laboratory notebook",
+  "title": "Marie Curie's Notebooks Are Too Radioactive to Touch, 90 Years Later",
+  "scenes": [
+    {
+      "text": "Marie Curie's notebooks are still too radioactive to touch.",
+      "keywords": "old handwritten notebook laboratory"
+    },
+    {
+      "text": "They sit in lead-lined boxes at France's national library. To read one, you sign a liability waiver and put on protective clothing.",
+      "keywords": "library archive lead box"
+    },
+    {
+      "text": "Curie carried tubes of radium in her coat pocket and kept bottles of it in her desk drawer, fascinated by the glow.",
+      "keywords": "vintage chemistry laboratory glass vials"
+    },
+    {
+      "text": "Her papers, her furniture, even her cookbooks are contaminated. Radium-226 has a half-life of about 1,600 years.",
+      "keywords": "antique furniture old books"
+    },
+    {
+      "text": "She died in 1934, aged 66, of aplastic anaemia, blamed on decades of handling radiation.",
+      "keywords": "marie curie portrait vintage"
+    },
+    {
+      "text": "Her notes will stay dangerous for another 1,500 years. Roughly 50 more generations before anyone reads them bare-handed.",
+      "keywords": "old handwritten notebook laboratory"
+    }
+  ],
+  "description": "Marie Curie's laboratory notebooks are still radioactive, and will be for about another 1,500 years.\nThey are stored in lead-lined boxes at the Bibliothèque nationale de France; anyone who wants to consult them signs a liability waiver and wears protective clothing. Curie carried test tubes of radium in her coat pocket and kept samples in her desk drawer, and her papers, furniture and even her cookbooks remain contaminated: radium-226 has a half-life of about 1,601 years. She died in 1934, aged 66, of aplastic anaemia attributed to her research.\nWould you sign the waiver to read them?",
+  "tags": [
+    "marie curie",
+    "radioactive notebooks",
+    "radium",
+    "curie notebooks",
+    "history of science",
+    "radioactivity",
+    "bibliotheque nationale",
+    "science history",
+    "history facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#history",
+    "#science",
+    "#mariecurie"
+  ],
+  "sources": [
+    "https://www.csmonitor.com/Innovation/Horizons/2011/1107/Marie-Curie-Why-her-papers-are-still-radioactive",
+    "https://www.openculture.com/2023/11/marie-curies-research-papers-are-still-radioactive-a-century-later.html"
+  ],
+  "thumbnail_text": "RADIOACTIVE FOR 1,500 MORE YEARS",
+  "priority": 6,
+  "first_comment": "Lead boxes, a waiver and a hazmat suit, just to read a notebook. Which historical object would you most want to hold?",
+  "id": "2027-09-04-marie-curie-notebooks-still-radioactive-lead-boxes"
+}

@@ -1,0 +1,61 @@
+{
+  "format": "whatif",
+  "topic": "animals",
+  "subject": "weasel on electrical cable",
+  "title": "What If a Weasel Shut Down the Biggest Machine on Earth? In 2016 One Did",
+  "scenes": [
+    {
+      "text": "What if a weasel shut down the biggest machine on Earth? In 2016, one did.",
+      "keywords": "weasel running grass"
+    },
+    {
+      "text": "The Large Hadron Collider: a 17-mile ring of superconducting magnets under the Swiss-French border, a seven-billion-dollar machine that found the Higgs boson.",
+      "keywords": "large hadron collider tunnel"
+    },
+    {
+      "text": "At 5:30 in the morning on April 29th, 2016, a weasel climbed into a 66,000-volt transformer and bit a power cable.",
+      "keywords": "electrical transformer substation"
+    },
+    {
+      "text": "An electric arc, a short circuit, and the most powerful particle accelerator ever built went dark. The weasel did not survive.",
+      "keywords": "electric spark arc high voltage"
+    },
+    {
+      "text": "Repairs took a few days. It wasn't even the first time: in November 2009 a bird dropped a piece of baguette into the electrics and shut it down too.",
+      "keywords": "bird dropping bread"
+    },
+    {
+      "text": "Thousands of physicists, decades of work, 17 miles of magnets. Beaten by a bird's breakfast and a hungry weasel.",
+      "keywords": "weasel running grass"
+    }
+  ],
+  "description": "What if a weasel shut down the Large Hadron Collider? On 29 April 2016, one did.\nAt about 5:30 a.m. a weasel got into a 66 kV transformer at CERN and gnawed a power cable, causing an electrical arc and a short circuit that took the 17-mile, roughly 7-billion-dollar accelerator offline for a few days of repairs. The animal did not survive. It was not the first animal to stop the machine: in November 2009 a bird is believed to have dropped a piece of baguette into the electrical equipment, briefly shutting the collider down.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "large hadron collider",
+    "weasel lhc",
+    "cern",
+    "particle accelerator",
+    "baguette lhc",
+    "animal facts",
+    "science facts",
+    "higgs boson",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#science",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.csmonitor.com/Science/2016/0429/Weasel-shuts-down-Large-Hadron-Collider",
+    "https://www.sciencenews.org/blog/science-ticker/weasel-has-shut-down-large-hadron-collider",
+    "https://www.rnz.co.nz/news/world/302701/weasel-causes-shutdown-of-large-hadron-collider"
+  ],
+  "thumbnail_text": "WHAT IF A WEASEL STOPPED CERN?",
+  "priority": 6,
+  "first_comment": "Seven billion dollars of physics, stopped by one weasel and one baguette. What is the smallest thing that has broken something big for you? Drop your own what-if below.",
+  "id": "2027-08-09-what-if-a-weasel-shut-down-the-large-hadron-collider"
+}

@@ -1,0 +1,60 @@
+{
+  "format": "fact",
+  "topic": "technology",
+  "subject": "black coated material",
+  "title": "A Coating So Black It Makes Crumpled Foil Look Perfectly Flat",
+  "scenes": [
+    {
+      "text": "This black makes crumpled foil look perfectly flat.",
+      "keywords": "black material absorbing light"
+    },
+    {
+      "text": "Vantablack, made by a British firm, Surrey NanoSystems, in 2014. It absorbs 99.965 percent of the light that hits it.",
+      "keywords": "carbon nanotubes microscope"
+    },
+    {
+      "text": "It's a forest of carbon nanotubes standing on end. Light falls in between the tubes, bounces around, and almost none finds its way back out.",
+      "keywords": "nanotube forest 3d render"
+    },
+    {
+      "text": "Coat half a sheet of crumpled aluminium foil and the coated half looks like a flat black hole. Your eyes can't find the folds.",
+      "keywords": "crumpled aluminium foil"
+    },
+    {
+      "text": "It swallows ultraviolet, visible and infrared alike, so completely that instruments struggle to measure it.",
+      "keywords": "spectrometer laboratory"
+    },
+    {
+      "text": "Built for the insides of telescopes and stealth coatings, where stray light is the enemy. Any blacker, and your eyes stop seeing a surface at all.",
+      "keywords": "black material absorbing light"
+    }
+  ],
+  "description": "Vantablack absorbs 99.965 percent of the light that strikes it, so a crumpled sheet of foil coated in it looks completely flat.\nAnnounced in 2014 by the UK firm Surrey NanoSystems, it is made of vertically aligned carbon nanotube arrays grown at low temperature. It absorbs light from the ultraviolet through the visible and well into the infrared, so completely that spectrophotometers struggle to measure it, and it was developed for applications such as telescope interiors and stealth coatings.\nWhat would you paint with it?",
+  "tags": [
+    "vantablack",
+    "blackest material",
+    "carbon nanotubes",
+    "surrey nanosystems",
+    "darkest material",
+    "light absorption",
+    "materials science",
+    "technology facts",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#technology",
+    "#science",
+    "#vantablack"
+  ],
+  "sources": [
+    "https://digitaltrends.com/space/scientists-just-created-worlds-darkest-material-heres-thats-significant",
+    "https://qualitydigest.com/node/30806"
+  ],
+  "thumbnail_text": "99.965% OF LIGHT. GONE.",
+  "priority": 5,
+  "first_comment": "A surface so dark your eyes stop seeing shape. What is the one thing you would coat in it?",
+  "id": "2027-09-05-vantablack-coating-makes-crumpled-foil-look-flat"
+}
