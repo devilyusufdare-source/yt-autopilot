@@ -1,0 +1,62 @@
+{
+  "id": "2027-09-17-human-eye-can-detect-a-single-photon",
+  "format": "fact",
+  "topic": "human body",
+  "subject": "human eye pupil",
+  "title": "Your Eye Can Catch a Single Photon. It Took 30,000 Tries to Prove It",
+  "scenes": [
+    {
+      "text": "Your eye can see the smallest piece of light that exists.",
+      "keywords": "human eye pupil close up dark"
+    },
+    {
+      "text": "A photon. Light comes in these packets, and nothing is smaller. A candle throws out billions of billions a second.",
+      "keywords": "candle flame flickering dark"
+    },
+    {
+      "text": "In 2016, scientists at Rockefeller University built a machine that fires exactly one. Volunteers first sat in total darkness for forty minutes.",
+      "keywords": "laser optics laboratory dark"
+    },
+    {
+      "text": "Then, more than thirty thousand times, the machine fired one photon, or nothing. Did you see it?",
+      "keywords": "person eye looking darkness"
+    },
+    {
+      "text": "They were right about 52 percent of the time. Barely above a coin flip, but over thirty thousand tries, no accident. When they felt sure, 60 percent.",
+      "keywords": "retina scan eye macro"
+    },
+    {
+      "text": "Most photons never even reach the back of the eye. The ones that do trip a single cell, and you notice. The smallest thing light can be, and you can see it.",
+      "keywords": "human eye pupil close up dark"
+    }
+  ],
+  "description": "Your eye can register a single photon, the smallest unit of light.\nIn 2016, Alipasha Vaziri's team at Rockefeller University used a quantum light source to send single photons into the dark-adapted eyes of volunteers. Over more than 30,000 trials, people identified when a photon had arrived about 52 percent of the time, statistically above chance, and 60 percent of the time when they rated themselves confident. Published in Nature Communications.\nWhat is the faintest light you have ever noticed in the dark?",
+  "tags": [
+    "human eye",
+    "single photon",
+    "eye facts",
+    "human body facts",
+    "vision science",
+    "rockefeller university",
+    "quantum light",
+    "how eyes work",
+    "science facts",
+    "body facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#science",
+    "#eyes"
+  ],
+  "sources": [
+    "https://www.nature.com/articles/ncomms12172",
+    "https://phys.org/news/2016-07-humans-smallest.html",
+    "https://vaziri.rockefeller.edu/direct-detection-of-a-single-photon-by-humans/"
+  ],
+  "thumbnail_text": "ONE PHOTON. YOU SEE IT",
+  "priority": 5,
+  "first_comment": "The team also found that a photon arriving a few seconds after another one was more likely to be noticed, as if the first primes the eye for the second. Would you trust your own eyes on a coin-flip call like that?"
+}

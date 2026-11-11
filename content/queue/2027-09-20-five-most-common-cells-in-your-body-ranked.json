@@ -1,0 +1,73 @@
+{
+  "format": "ranking",
+  "ranking_by": "number of cells in an adult body",
+  "topic": "human body",
+  "subject": "human blood cells",
+  "title": "The 5 Most Common Cells in Your Body, Ranked (Brain Cells Miss Out)",
+  "scenes": [
+    {
+      "text": "The five most common cells in your body. Your 86 billion brain cells don't even make the list.",
+      "keywords": "red blood cells flowing microscopic"
+    },
+    {
+      "text": "Number five: lymphocytes, your immune cells. About 450 billion of them, one and a half percent of you, hunting infections.",
+      "keywords": "white blood cell microscope",
+      "rank": 5,
+      "label": "Lymphocytes · 450 billion"
+    },
+    {
+      "text": "Number four: the cells lining your blood vessels. About 600 billion, tiling roughly 100,000 kilometres of pipe from the inside.",
+      "keywords": "blood vessel interior animation",
+      "rank": 4,
+      "label": "Vessel lining · 600 billion"
+    },
+    {
+      "text": "Number three: bone marrow cells. About 750 billion, a factory pushing out around two million blood cells every second.",
+      "keywords": "bone marrow cells microscope",
+      "rank": 3,
+      "label": "Bone marrow · 750 billion"
+    },
+    {
+      "text": "Number two: platelets. About 1.5 trillion. Technically cell fragments, but they count, and they've plugged every cut you've ever had.",
+      "keywords": "platelets blood clot microscopic",
+      "rank": 2,
+      "label": "Platelets · 1.5 trillion"
+    },
+    {
+      "text": "Number one: red blood cells. About 25 trillion, 84 percent of every cell in you. And still outnumbered: your gut carries around 38 trillion bacteria.",
+      "keywords": "red blood cells flowing microscopic",
+      "rank": 1,
+      "label": "Red blood cells · 25 trillion"
+    }
+  ],
+  "description": "The five most numerous cell types in an adult human body, ranked by count.\nA 2016 study in PLOS Biology (Sender, Fuchs and Milo) put the total at about 30 trillion human cells: roughly 25 trillion red blood cells (84%), 1.5 trillion platelets, 750 billion bone marrow cells, 600 billion vascular endothelial cells and 450 billion lymphocytes. Neurons and glia together are under one percent. The same study estimated about 38 trillion bacteria in the body, most in the gut.\nWhich of these surprised you most, and what should we rank next?",
+  "tags": [
+    "human body facts",
+    "red blood cells",
+    "platelets",
+    "lymphocytes",
+    "bone marrow",
+    "gut bacteria",
+    "biology facts",
+    "human body ranking",
+    "top 5 human body",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts",
+    "cells in the human body"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#ranking",
+    "#biology"
+  ],
+  "sources": [
+    "https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1002533",
+    "https://www.scientificamerican.com/article/scientists-bust-myth-that-our-bodies-have-more-bacteria-than-human-cells/"
+  ],
+  "thumbnail_text": "5 MOST COMMON CELLS, RANKED",
+  "priority": 6,
+  "first_comment": "Count your cells and you are 84 percent blood. Weigh them and you are mostly muscle and fat. Which would you put at number one, and what should we rank next?",
+  "id": "2027-09-20-five-most-common-cells-in-your-body-ranked"
+}

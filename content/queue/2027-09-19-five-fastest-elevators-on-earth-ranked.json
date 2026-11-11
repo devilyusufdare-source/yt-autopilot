@@ -1,0 +1,74 @@
+{
+  "format": "ranking",
+  "ranking_by": "rated speed in metres per second",
+  "topic": "technology",
+  "subject": "skyscraper elevator",
+  "title": "The 5 Fastest Elevators on Earth, Ranked (Burj Khalifa Isn't on It)",
+  "scenes": [
+    {
+      "text": "The five fastest elevators on Earth. The Burj Khalifa doesn't make the list.",
+      "keywords": "skyscraper elevator doors"
+    },
+    {
+      "text": "Number five: Two International Finance Centre, Hong Kong. About 10.6 metres a second, 38 kilometres an hour.",
+      "keywords": "two international finance centre hong kong",
+      "rank": 5,
+      "label": "Two IFC · 10.6 m/s"
+    },
+    {
+      "text": "Number four: Yokohama Landmark Tower, Japan. 12.5 metres a second. The world's fastest from 1993 to 2004.",
+      "keywords": "yokohama landmark tower",
+      "rank": 4,
+      "label": "Yokohama Landmark · 12.5 m/s"
+    },
+    {
+      "text": "Number three: Taipei 101. About 16.8 metres a second, over 60 kilometres an hour. Ground to the 89th floor in 37 seconds.",
+      "keywords": "taipei 101 tower",
+      "rank": 3,
+      "label": "Taipei 101 · 16.8 m/s"
+    },
+    {
+      "text": "Number two: Guangzhou CTF Finance Centre, China. 20 metres a second, and in a 2019 test it touched 21.",
+      "keywords": "guangzhou ctf finance centre",
+      "rank": 2,
+      "label": "Guangzhou CTF · 20 m/s"
+    },
+    {
+      "text": "Number one: Shanghai Tower. 20.5 metres a second, 74 kilometres an hour, in a pressurised cabin so your ears don't pop. The Burj Khalifa? Ten a second. Too slow.",
+      "keywords": "shanghai tower skyscraper",
+      "rank": 1,
+      "label": "Shanghai Tower · 20.5 m/s"
+    }
+  ],
+  "description": "The five fastest passenger elevators in the world, ranked by rated speed.\nShanghai Tower's Mitsubishi Electric elevators run at 20.5 m/s (about 74 km/h), recognised as the world's fastest; Guangzhou CTF Finance Centre's Hitachi lifts are rated at 20 m/s and reached 21 m/s in a 2019 test; Taipei 101's Toshiba elevators (16.8 m/s) held the record from 2004 to 2016, and Yokohama Landmark Tower (12.5 m/s) before that. Two IFC in Hong Kong rounds out the five at about 10.6 m/s. The Burj Khalifa's elevators run at about 10 m/s.\nWhich of these would you ride first, and what should we rank next?",
+  "tags": [
+    "fastest elevator",
+    "shanghai tower",
+    "guangzhou ctf finance centre",
+    "taipei 101",
+    "yokohama landmark tower",
+    "skyscraper facts",
+    "elevator speed record",
+    "mitsubishi electric elevator",
+    "engineering facts",
+    "technology ranking",
+    "top 5 technology",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#technology",
+    "#ranking",
+    "#skyscraper"
+  ],
+  "sources": [
+    "https://www.cnn.com/style/article/worlds-fastest-tower",
+    "https://www.constructionspecifier.com/ctbuh-names-fastest-elevators-longest-runs/",
+    "https://mitsubishielevator.com/uploads/files/pdf/elevators/ME_Improves_Speed_of_Worlds_Fastest_Elevators_160510.pdf"
+  ],
+  "thumbnail_text": "5 FASTEST ELEVATORS, RANKED",
+  "priority": 5,
+  "first_comment": "74 kilometres an hour, straight up, with a pressurised cabin so your ears survive. Which one would you put at number one, and what should we rank next?",
+  "id": "2027-09-19-five-fastest-elevators-on-earth-ranked"
+}
