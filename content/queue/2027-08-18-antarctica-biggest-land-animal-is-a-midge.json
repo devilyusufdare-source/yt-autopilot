@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "Antarctic midge",
+  "title": "Antarctica's Biggest Land Animal Is a 6 mm Fly With No Wings",
+  "scenes": [
+    {
+      "text": "The biggest land animal in Antarctica is six millimetres long.",
+      "keywords": "antarctica rocky coast ice"
+    },
+    {
+      "text": "The Antarctic midge. No wings, so the wind can't blow it off the continent. The only insect that survives there all year.",
+      "keywords": "tiny black insect on rock macro"
+    },
+    {
+      "text": "Its larvae spend two winters frozen into the soil. They can lose 70 percent of their body water and live.",
+      "keywords": "frozen ground ice crystals close up"
+    },
+    {
+      "text": "It has the smallest genome of any insect known: 99 million base pairs. Yours is 3.2 billion. It kept only what it needed.",
+      "keywords": "dna sequencing laboratory"
+    },
+    {
+      "text": "Cold it can take, as long as it stays above minus 15, a centimetre down in the soil. Heat kills. At 30 degrees Celsius it's dead in hours.",
+      "keywords": "antarctic peninsula moss rocks summer"
+    },
+    {
+      "text": "After two years growing, the adult lives about ten days. Just long enough to mate, on a continent where no other insect can.",
+      "keywords": "midge insects mating macro"
+    }
+  ],
+  "description": "The largest purely land animal native to Antarctica is the Antarctic midge, Belgica antarctica, a wingless fly 2 to 6 millimetres long.\nIt is the only insect that survives year-round on the continent, living on the rocky Antarctic Peninsula. Its larvae develop over two years, frozen through two winters in soil that stays near zero, and can survive losing up to 70 percent of their body water. In 2014 a team led by Joanna Kelley sequenced its genome and found the smallest of any insect known, 99 million base pairs with about 13,500 genes (Nature Communications). It cannot survive below about minus 15 C and dies within hours at 30 C. Adults live no more than about 10 days.\nWould you rather be frozen for two years or live ten days in the sun?",
+  "tags": [
+    "antarctic midge",
+    "belgica antarctica",
+    "antarctica insect",
+    "smallest genome",
+    "extreme animals",
+    "wingless fly",
+    "antarctica facts",
+    "insect facts",
+    "survival animals",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#antarctica",
+    "#animals",
+    "#insects"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Belgica_antarctica",
+    "https://www.livescience.com/47311-antarctic-insect-smallest-genome.html",
+    "https://research.entomology.tamu.edu/2014/08/27/johnston-antarctic-midge-genome"
+  ],
+  "thumbnail_text": "6 MM. BIGGEST ON THE CONTINENT.",
+  "priority": 5,
+  "first_comment": "Two years frozen, ten days alive, and the smallest genome of any insect. Which extreme animal should we do next?",
+  "id": "2027-08-18-antarctica-biggest-land-animal-is-a-midge"
+}
