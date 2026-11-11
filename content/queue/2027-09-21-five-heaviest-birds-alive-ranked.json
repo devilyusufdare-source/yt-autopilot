@@ -1,0 +1,75 @@
+{
+  "format": "ranking",
+  "ranking_by": "average adult body mass in kilograms",
+  "topic": "animals",
+  "subject": "ostrich bird",
+  "title": "The 5 Heaviest Birds Alive, Ranked (One Lives on Antarctic Ice)",
+  "scenes": [
+    {
+      "text": "The five heaviest birds alive. One of them lives on the Antarctic ice.",
+      "keywords": "ostrich running"
+    },
+    {
+      "text": "Number five: the greater rhea of South America. About 23 kilos, and the male alone hatches and raises dozens of chicks at once.",
+      "keywords": "greater rhea bird",
+      "rank": 5,
+      "label": "Greater rhea · 23 kg"
+    },
+    {
+      "text": "Number four: the emperor penguin. Around 31 kilos, up to 45 before the breeding fast, standing on ice at minus 40.",
+      "keywords": "emperor penguin antarctica",
+      "rank": 4,
+      "label": "Emperor penguin · 31 kg"
+    },
+    {
+      "text": "Number three: the emu. About 33 kilos and nearly two metres tall, running at 50 kilometres an hour across Australia.",
+      "keywords": "emu bird running",
+      "rank": 3,
+      "label": "Emu · 33 kg"
+    },
+    {
+      "text": "Number two: the southern cassowary. Around 45 kilos, females up to 58, with a 12-centimetre dagger claw on each foot.",
+      "keywords": "southern cassowary bird",
+      "rank": 2,
+      "label": "Cassowary · 45 kg"
+    },
+    {
+      "text": "Number one: the common ostrich. About 104 kilos, up to 150, nearly three metres tall. Not one bird on this list can fly.",
+      "keywords": "ostrich running",
+      "rank": 1,
+      "label": "Ostrich · 104 kg"
+    }
+  ],
+  "description": "The five heaviest living birds, ranked by average adult body mass.\nThe common ostrich averages about 104 kg (big males reach 150 kg) and stands up to 2.8 m; the southern cassowary about 45 kg (females to 58 kg); the emu about 33 kg; the emperor penguin about 31 kg (up to 45 kg before the winter fast); and the greater rhea about 23 kg. The Somali ostrich and northern cassowary are close sister species of numbers one and two. Every bird on the list is flightless.\nWhich one did you expect at number one, and what should we rank next?",
+  "tags": [
+    "heaviest bird",
+    "biggest birds in the world",
+    "ostrich",
+    "cassowary",
+    "emu",
+    "emperor penguin",
+    "greater rhea",
+    "flightless birds",
+    "bird facts",
+    "animal ranking",
+    "top 5 animals",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#ranking",
+    "#birds"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_largest_birds",
+    "https://www.livescience.com/biggest-birds-on-earth",
+    "https://www.sciencefocus.com/nature/top-10-the-worlds-largest-birds/"
+  ],
+  "thumbnail_text": "5 HEAVIEST BIRDS, RANKED",
+  "priority": 5,
+  "first_comment": "A penguin outweighs the greater rhea, and the ostrich outweighs the cassowary and the emu put together. Which would you put at number one, and what should we rank next?",
+  "id": "2027-09-21-five-heaviest-birds-alive-ranked"
+}
