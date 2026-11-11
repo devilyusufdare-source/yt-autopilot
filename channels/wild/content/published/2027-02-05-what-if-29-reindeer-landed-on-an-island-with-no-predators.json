@@ -55,5 +55,22 @@
   ],
   "thumbnail_text": "WHAT IF NOTHING HUNTED THEM?",
   "priority": 7,
-  "first_comment": "The island is 32 miles long and sits over 200 miles from the nearest village, so nobody saw the crash happen. Which population boom should we run through next?"
+  "first_comment": "The island is 32 miles long and sits over 200 miles from the nearest village, so nobody saw the crash happen. Which population boom should we run through next?",
+  "youtube_id": "ShUXEqiH32o",
+  "url": "https://youtube.com/shorts/ShUXEqiH32o",
+  "uploaded_at": "2026-11-11T01:45:27+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-11T02:15:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 14,
+    "pixabay-photo": 3,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 55.5,
+  "style": "classic",
+  "kind": "shorts"
 }
