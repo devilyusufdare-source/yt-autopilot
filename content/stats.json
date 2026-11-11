@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-11T18:03:39+00:00",
+  "updated_at": "2026-11-11T18:58:25+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 74,
     "channel_views": 73337,
-    "video_count": 282
+    "video_count": 283
   },
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/yuo7BIR-dKs",
-      "https://youtube.com/shorts/0ZDEx6r83js"
+      "https://youtube.com/shorts/mW8-ucC_kOM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/0ZDEx6r83js"
+      "https://youtube.com/shorts/mW8-ucC_kOM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/0ZDEx6r83js"
+      "https://youtube.com/shorts/mW8-ucC_kOM"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 282,
-  "total_views": 73811,
+  "total_videos": 283,
+  "total_views": 73895,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 203,
-      "avg_views": 267,
+      "videos": 204,
+      "avg_views": 266,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 266,
-      "avg_views": 252,
+      "videos": 267,
+      "avg_views": 251,
       "over_1500": 3
     },
     "punch": {
@@ -145,7 +145,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 196,
+      "videos": 197,
       "avg_views": 181
     },
     "en-US-BrianNeural": {
@@ -755,7 +755,7 @@
       "hook": "A rhino charges at 35 miles an hour.",
       "published_at": "2026-11-03T19:00:19Z",
       "privacy": "public",
-      "views": 298,
+      "views": 299,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw",
@@ -1483,7 +1483,7 @@
       "hook": "The five biggest deserts on Earth, ranked. Number one has no sand and almost no heat.",
       "published_at": "2026-10-25T22:30:21Z",
       "privacy": "public",
-      "views": 62,
+      "views": 64,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0",
@@ -1791,7 +1791,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 318,
+      "views": 317,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
@@ -1815,7 +1815,7 @@
       "hook": "This male crab is raising babies. None of them are his.",
       "published_at": "2026-11-09T21:00:39Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM"
@@ -1967,7 +1967,7 @@
       "hook": "Nothing on Earth moves faster than this ant's jaw.",
       "published_at": "2026-11-10T19:00:23Z",
       "privacy": "public",
-      "views": 52,
+      "views": 46,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE"
@@ -2131,7 +2131,7 @@
       "hook": "This fish eats birds, breathes air, and crawls to the next pond when it's done.",
       "published_at": "2026-11-10T18:00:36Z",
       "privacy": "public",
-      "views": 78,
+      "views": 79,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/IN5A3Mj60ok"
@@ -2295,7 +2295,7 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 57,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg"
@@ -2319,7 +2319,7 @@
       "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
       "published_at": "2026-11-11T00:10:11Z",
       "privacy": "public",
-      "views": 64,
+      "views": 66,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uGfj97UnMNs"
@@ -2343,7 +2343,7 @@
       "hook": "This animal has no anus. Until it needs one.",
       "published_at": "2026-11-11T02:40:17Z",
       "privacy": "public",
-      "views": 48,
+      "views": 47,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mZ8i9ESlQro"
@@ -2587,7 +2587,7 @@
       "hook": "This little songbird keeps a butcher's shop.",
       "published_at": "2026-11-11T15:30:02Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/cId-MnziRv0"
@@ -2667,9 +2667,9 @@
       "hook": "A moray eel bites you twice. The second bite comes from its throat.",
       "published_at": "2026-11-11T18:00:18Z",
       "privacy": "public",
-      "views": 0,
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/f32tutRUWsE"
     },
     "yuo7BIR-dKs": {
@@ -2697,14 +2697,14 @@
       "url": "https://youtube.com/shorts/yuo7BIR-dKs"
     },
     "0ZDEx6r83js": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT34S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2713,11 +2713,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This bird hasn't landed since last summer.",
-      "published_at": "2026-11-11T18:03:27Z",
-      "privacy": "private",
+      "published_at": "2026-11-11T18:30:16Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/0ZDEx6r83js"
     },
     "EjNKSPQn5ho": {
@@ -2803,6 +2803,30 @@
       "avg_view_percent": 57.6,
       "shares": 1,
       "subscribers_gained": 0
+    },
+    "mW8-ucC_kOM": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Cut This Animal's Oxygen for 18 Minutes. It Just Wakes Up Again",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Cut off this animal's oxygen for 18 minutes. It shrugs.",
+      "published_at": "2026-11-11T18:58:17Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/mW8-ucC_kOM"
     },
     "LUQJVqXc1zI": {
       "upload_status": "processed",
@@ -3263,7 +3287,7 @@
       "hook": "The five tallest roller coasters ever built, ranked. The old champion was demolished with explosives last year.",
       "published_at": "2026-11-11T15:00:10Z",
       "privacy": "public",
-      "views": 8,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Yz3YXH2zvyc"
@@ -3343,7 +3367,7 @@
       "hook": "A porcupine has 30,000 quills. One animal found the gap.",
       "published_at": "2026-11-06T12:20:26Z",
       "privacy": "public",
-      "views": 50,
+      "views": 51,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/WDdIFBd2zAk",
@@ -4463,7 +4487,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 969,
+      "views": 968,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk",
@@ -4547,7 +4571,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 956,
+      "views": 955,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg",
@@ -4743,7 +4767,7 @@
       "hook": "This snake doesn't swallow its prey. It opens it.",
       "published_at": "2026-11-08T00:10:35Z",
       "privacy": "public",
-      "views": 973,
+      "views": 972,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/KBYp_uwN89M",
@@ -5483,7 +5507,7 @@
       "hook": "In 2019, thousands of animals crash-landed on the Moon.",
       "published_at": "2026-11-11T12:30:15Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Oyni6mm1Ma8"
@@ -5535,7 +5559,7 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 306,
+      "views": 312,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48"
@@ -5667,7 +5691,7 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 328,
+      "views": 392,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo"
@@ -5691,7 +5715,7 @@
       "hook": "This ladybug is alive. It's guarding its own parasite.",
       "published_at": "2026-11-10T15:00:03Z",
       "privacy": "public",
-      "views": 712,
+      "views": 714,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA"
@@ -5715,8 +5739,8 @@
       "hook": "This dinosaur's blood survived 115 million years.",
       "published_at": "2026-11-10T17:00:04Z",
       "privacy": "public",
-      "views": 86,
-      "likes": 2,
+      "views": 98,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
     },
