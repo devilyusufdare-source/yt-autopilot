@@ -1,0 +1,61 @@
+{
+  "id": "2027-08-14-what-if-your-computer-could-not-divide-pentium-1994",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "computer processor chip",
+  "title": "What If Your Computer Got Division Wrong? In 1994 Millions Did",
+  "scenes": [
+    {
+      "text": "What if your computer couldn't divide properly? In 1994, millions couldn't, and one maths professor noticed.",
+      "keywords": "computer processor chip close up"
+    },
+    {
+      "text": "Thomas Nicely was hunting prime numbers on a brand-new Intel Pentium when his totals came out wrong. His older computer disagreed.",
+      "keywords": "professor computer desk 1990s"
+    },
+    {
+      "text": "The chip's division circuit used a lookup table of about a thousand entries. Five had been left blank. Some divisions came back wrong in the fourth decimal place.",
+      "keywords": "silicon wafer microchip macro"
+    },
+    {
+      "text": "Intel said a typical user would hit the bug once in 27,000 years. IBM said once every 24 days, and stopped shipping Pentium PCs.",
+      "keywords": "server room computers 1990s"
+    },
+    {
+      "text": "Intel first offered new chips only to people who could prove they needed one. The jokes and headlines got louder for weeks.",
+      "keywords": "newspaper headlines printing press"
+    },
+    {
+      "text": "On December 20th, 1994, Intel gave in: a free chip for anyone who asked. The bill: about 475 million dollars, for five missing numbers.",
+      "keywords": "computer processor chip close up"
+    }
+  ],
+  "description": "What if your computer got division wrong? In 1994 millions of Intel Pentium processors did.\nMathematics professor Thomas Nicely of Lynchburg College discovered the flaw while computing prime numbers: five entries were missing from the chip's roughly 1,000-entry division lookup table, so certain divisions returned wrong digits from about the fourth decimal place. Intel estimated an average user would meet the error once in 27,000 years; IBM estimated once every 24 days and halted Pentium PC shipments. After weeks of public pressure, Intel announced a no-questions-asked replacement programme on 20 December 1994 and took a charge of about 475 million dollars.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "pentium fdiv bug",
+    "intel pentium",
+    "computer bug",
+    "thomas nicely",
+    "technology facts",
+    "computer history",
+    "microchip",
+    "what would happen",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#technology",
+    "#computers"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pentium_FDIV_bug",
+    "https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html",
+    "https://www.tomshardware.com/pc-components/cpus/its-been-30-years-since-intels-infamous-pentium-fdiv-bug-reared-its-ugly-head-a-math-bug-caused-intels-first-cpu-recall"
+  ],
+  "thumbnail_text": "WHAT IF YOUR PC COULDN'T DIVIDE?",
+  "priority": 5,
+  "first_comment": "Five blank entries in a table, 475 million dollars. Intel said once in 27,000 years, IBM said once a month. Who would you have believed? Drop your own what-if below."
+}
