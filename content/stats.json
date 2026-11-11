@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-11T15:02:28+00:00",
+  "updated_at": "2026-11-11T16:38:17+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 74,
     "channel_views": 72134,
-    "video_count": 280
+    "video_count": 281
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/cId-MnziRv0"
+      "https://youtube.com/shorts/f32tutRUWsE"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/cId-MnziRv0"
+      "https://youtube.com/shorts/f32tutRUWsE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/cId-MnziRv0"
+      "https://youtube.com/shorts/f32tutRUWsE"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 279,
-  "total_views": 73561,
+  "total_videos": 280,
+  "total_views": 73693,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -105,7 +105,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 200,
+      "videos": 201,
       "avg_views": 269,
       "best_views": 1507
     },
@@ -126,14 +126,14 @@
     },
     "technology": {
       "videos": 6,
-      "avg_views": 74,
+      "avg_views": 75,
       "best_views": 287
     }
   },
   "by_style": {
     "classic": {
-      "videos": 263,
-      "avg_views": 254,
+      "videos": 264,
+      "avg_views": 253,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 193,
+      "videos": 194,
       "avg_views": 183
     },
     "en-US-BrianNeural": {
@@ -1790,8 +1790,8 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 310,
-      "likes": 6,
+      "views": 298,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY"
     },
@@ -1966,7 +1966,7 @@
       "hook": "Nothing on Earth moves faster than this ant's jaw.",
       "published_at": "2026-11-10T19:00:23Z",
       "privacy": "public",
-      "views": 44,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE"
@@ -2130,7 +2130,7 @@
       "hook": "This fish eats birds, breathes air, and crawls to the next pond when it's done.",
       "published_at": "2026-11-10T18:00:36Z",
       "privacy": "public",
-      "views": 74,
+      "views": 78,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/IN5A3Mj60ok"
@@ -2294,7 +2294,7 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 41,
+      "views": 39,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg"
@@ -2318,7 +2318,7 @@
       "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
       "published_at": "2026-11-11T00:10:11Z",
       "privacy": "public",
-      "views": 58,
+      "views": 61,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uGfj97UnMNs"
@@ -2342,8 +2342,8 @@
       "hook": "This animal has no anus. Until it needs one.",
       "published_at": "2026-11-11T02:40:17Z",
       "privacy": "public",
-      "views": 28,
-      "likes": 0,
+      "views": 40,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/mZ8i9ESlQro"
     },
@@ -2568,14 +2568,14 @@
       "subscribers_gained": 0
     },
     "cId-MnziRv0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2584,11 +2584,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This little songbird keeps a butcher's shop.",
-      "published_at": "2026-11-11T15:02:20Z",
-      "privacy": "private",
+      "published_at": "2026-11-11T15:30:02Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/cId-MnziRv0"
     },
     "SLTRR1243fU": {
@@ -2646,6 +2646,30 @@
       "avg_view_percent": 45.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "f32tutRUWsE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Moray Eel Has a Second Set of Jaws Hidden in Its Throat",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A moray eel bites you twice. The second bite comes from its throat.",
+      "published_at": "2026-11-11T16:38:04Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/f32tutRUWsE"
     },
     "EjNKSPQn5ho": {
       "upload_status": "processed",
@@ -2806,7 +2830,7 @@
       "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
       "published_at": "2026-11-09T15:30:38Z",
       "privacy": "public",
-      "views": 57,
+      "views": 59,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hagyIaLCA4M"
@@ -3054,7 +3078,7 @@
       "hook": "Five fires that never went out, ranked. Number one was burning before the pyramids were built.",
       "published_at": "2026-11-10T15:30:00Z",
       "privacy": "public",
-      "views": 26,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wd54rwPedR4"
@@ -3190,9 +3214,9 @@
       "hook": "The five tallest roller coasters ever built, ranked. The old champion was demolished with explosives last year.",
       "published_at": "2026-11-11T15:00:10Z",
       "privacy": "public",
-      "views": 0,
+      "views": 7,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Yz3YXH2zvyc"
     },
     "5pKsRTupbRY": {
@@ -5410,8 +5434,8 @@
       "hook": "In 2019, thousands of animals crash-landed on the Moon.",
       "published_at": "2026-11-11T12:30:15Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 0,
+      "views": 8,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Oyni6mm1Ma8"
     },
@@ -5594,7 +5618,7 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 278,
+      "views": 328,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo"
@@ -5618,8 +5642,8 @@
       "hook": "This ladybug is alive. It's guarding its own parasite.",
       "published_at": "2026-11-10T15:00:03Z",
       "privacy": "public",
-      "views": 616,
-      "likes": 8,
+      "views": 668,
+      "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA"
     },
@@ -5642,8 +5666,8 @@
       "hook": "This dinosaur's blood survived 115 million years.",
       "published_at": "2026-11-10T17:00:04Z",
       "privacy": "public",
-      "views": 74,
-      "likes": 1,
+      "views": 86,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
     },
@@ -5806,7 +5830,7 @@
       "hook": "Something is plucking this spider's web. It isn't dinner. It's the hunter.",
       "published_at": "2026-11-10T21:00:34Z",
       "privacy": "public",
-      "views": 12,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GCFkHUEL_oA"
@@ -5858,7 +5882,7 @@
       "hook": "Red ants found this caterpillar and carried it home. That was its plan.",
       "published_at": "2026-11-10T21:20:05Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMa7hcjpTsM"
