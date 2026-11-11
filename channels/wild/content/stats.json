@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-11T01:45:28+00:00",
+  "updated_at": "2026-11-11T04:01:13+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 15470,
-    "video_count": 75
+    "video_count": 76
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/ShUXEqiH32o"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/ShUXEqiH32o"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/ShUXEqiH32o"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 68,
@@ -91,7 +85,7 @@
   },
   "retention_note": null,
   "total_videos": 76,
-  "total_views": 15683,
+  "total_views": 15692,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -181,7 +175,7 @@
     {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
-      "views": 899,
+      "views": 900,
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
     },
     {
@@ -1707,7 +1701,7 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 899,
+      "views": 900,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw",
@@ -1903,7 +1897,7 @@
       "hook": "What if 90 percent of a country's women stopped for a day? Iceland did. Sausages sold out.",
       "published_at": "2026-11-09T02:50:12Z",
       "privacy": "public",
-      "views": 17,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dLKcX2ivoBg",
@@ -1979,7 +1973,7 @@
       "hook": "What if you ate a polar bear's liver? Your skin could come off in sheets.",
       "published_at": "2026-11-09T21:20:20Z",
       "privacy": "public",
-      "views": 82,
+      "views": 83,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A"
@@ -2031,7 +2025,7 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 13,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM"
@@ -2165,14 +2159,14 @@
       "url": "https://youtube.com/shorts/e089IAPM_eM"
     },
     "ShUXEqiH32o": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT56S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2181,11 +2175,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if 29 reindeer landed on an island with no wolves and no hunters? Paradise, for 19 years.",
-      "published_at": "2026-11-11T01:45:24Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-11T02:15:16Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/ShUXEqiH32o"
     },
     "jwre0VbiRCc": {
