@@ -60,5 +60,21 @@
   ],
   "thumbnail_text": "DRIED 17 YEARS. STILL ALIVE.",
   "priority": 7,
-  "first_comment": "These larvae have been flown to the space station to test how they handle the vacuum and radiation. Which animal would you bet survives space the longest?"
+  "first_comment": "These larvae have been flown to the space station to test how they handle the vacuum and radiation. Which animal would you bet survives space the longest?",
+  "youtube_id": "Gudmy6a0BMs",
+  "url": "https://youtube.com/shorts/Gudmy6a0BMs",
+  "uploaded_at": "2026-11-12T20:28:52+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-12T21:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 16,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 42.8,
+  "style": "classic",
+  "kind": "shorts"
 }
