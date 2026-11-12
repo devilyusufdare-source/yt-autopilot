@@ -1,28 +1,26 @@
 {
-  "updated_at": "2026-11-12T01:56:36+00:00",
+  "updated_at": "2026-11-12T03:50:50+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 74,
-    "channel_views": 73337,
-    "video_count": 285
+    "channel_views": 74544,
+    "video_count": 288
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/W_H2LBwWG9Y",
-      "https://youtube.com/shorts/e3OELFXUd-s",
-      "https://youtube.com/shorts/ARZlms2aigY"
+      "https://youtube.com/shorts/jy8dtKqr5n4"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/e3OELFXUd-s"
+      "https://youtube.com/shorts/jy8dtKqr5n4"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/e3OELFXUd-s"
+      "https://youtube.com/shorts/jy8dtKqr5n4"
     ]
   },
   "retention": {
@@ -93,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 286,
-  "total_views": 74910,
+  "total_videos": 287,
+  "total_views": 75001,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -102,13 +100,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 22,
-      "avg_views": 263,
+      "videos": 23,
+      "avg_views": 251,
       "best_views": 1648
     },
     "animals": {
       "videos": 207,
-      "avg_views": 266,
+      "avg_views": 267,
       "best_views": 1507
     },
     "human body": {
@@ -134,7 +132,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 270,
+      "videos": 271,
       "avg_views": 252,
       "over_1500": 3
     },
@@ -146,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 200,
+      "videos": 201,
       "avg_views": 183
     },
     "en-US-BrianNeural": {
@@ -1960,7 +1958,7 @@
       "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
       "published_at": "2026-11-10T02:50:29Z",
       "privacy": "public",
-      "views": 54,
+      "views": 56,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/J7yZVtMxDvE",
@@ -2364,7 +2362,7 @@
       "hook": "This animal has no anus. Until it needs one.",
       "published_at": "2026-11-11T02:40:17Z",
       "privacy": "public",
-      "views": 63,
+      "views": 65,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mZ8i9ESlQro"
@@ -2688,7 +2686,7 @@
       "hook": "A moray eel bites you twice. The second bite comes from its throat.",
       "published_at": "2026-11-11T18:00:18Z",
       "privacy": "public",
-      "views": 342,
+      "views": 402,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/f32tutRUWsE"
@@ -2736,7 +2734,7 @@
       "hook": "This bird hasn't landed since last summer.",
       "published_at": "2026-11-11T18:30:16Z",
       "privacy": "public",
-      "views": 18,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ZDEx6r83js"
@@ -2866,11 +2864,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This bird earns a quarter of its food by lying.",
-      "published_at": "2026-11-12T01:34:40Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-12T02:40:09Z",
+      "privacy": "public",
+      "views": 7,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/W_H2LBwWG9Y"
     },
     "LUQJVqXc1zI": {
@@ -2986,14 +2984,14 @@
       "subscribers_gained": 0
     },
     "e3OELFXUd-s": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT34S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3002,11 +3000,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This spider eats spiders twice its size. By lying to them.",
-      "published_at": "2026-11-12T01:56:28Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-12T03:00:15Z",
+      "privacy": "public",
+      "views": 5,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/e3OELFXUd-s"
     },
     "LEOMS31AQWM": {
@@ -3360,7 +3358,7 @@
       "hook": "The five tallest roller coasters ever built, ranked. The old champion was demolished with explosives last year.",
       "published_at": "2026-11-11T15:00:10Z",
       "privacy": "public",
-      "views": 24,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Yz3YXH2zvyc"
@@ -5564,7 +5562,7 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 906,
+      "views": 907,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo",
@@ -5784,7 +5782,7 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 453,
+      "views": 451,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo",
@@ -5836,7 +5834,7 @@
       "hook": "This dinosaur's blood survived 115 million years.",
       "published_at": "2026-11-10T17:00:04Z",
       "privacy": "public",
-      "views": 112,
+      "views": 115,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
@@ -6000,7 +5998,7 @@
       "hook": "Something is plucking this spider's web. It isn't dinner. It's the hunter.",
       "published_at": "2026-11-10T21:00:34Z",
       "privacy": "public",
-      "views": 28,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GCFkHUEL_oA"
@@ -6141,6 +6139,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "jy8dtKqr5n4": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Plutonium Ball Killed Two Scientists. One Slip of a Screwdriver",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A 14-pound ball of plutonium killed two scientists, one at a time.",
+      "published_at": "2026-11-12T03:50:42Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/jy8dtKqr5n4"
+    },
     "ATRf5itBVC0": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -6242,11 +6264,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "An extinct insect was hiding under one bush.",
-      "published_at": "2026-11-12T01:32:00Z",
-      "privacy": "private",
+      "published_at": "2026-11-12T02:15:22Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/ARZlms2aigY"
     },
     "mmv9b2xQG2A": {

@@ -57,5 +57,21 @@
   "thumbnail_text": "ONE SLIP. 1,000 RADS.",
   "priority": 7,
   "first_comment": "Two deaths, nine months apart, from the same 14-pound sphere. Would you have picked up that screwdriver?",
-  "id": "2027-09-03-demon-core-plutonium-sphere-killed-two-scientists"
+  "id": "2027-09-03-demon-core-plutonium-sphere-killed-two-scientists",
+  "youtube_id": "jy8dtKqr5n4",
+  "url": "https://youtube.com/shorts/jy8dtKqr5n4",
+  "uploaded_at": "2026-11-12T03:50:47+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-12T04:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 14,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FFD400",
+  "duration_seconds": 45.4,
+  "style": "classic",
+  "kind": "shorts"
 }
