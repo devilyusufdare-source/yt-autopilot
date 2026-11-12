@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T04:01:08+00:00",
+  "updated_at": "2026-11-12T07:41:58+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,13 +9,19 @@
     "video_count": 80
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/tT9xVmnTaBE"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/tT9xVmnTaBE"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/tT9xVmnTaBE"
+    ]
   },
   "retention": {
     "videos_with_data": 70,
@@ -59,7 +65,7 @@
       {
         "title": "What If Millions of Spiders Fled a Flood at Once? An Australian Town Woke Up Under Silk",
         "avg_view_percent": 9.2,
-        "views": 37
+        "views": 42
       },
       {
         "title": "What If a Country Lost Its Vultures? India Did. 500,000 People Died",
@@ -84,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 80,
-  "total_views": 15791,
+  "total_videos": 81,
+  "total_views": 15799,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -108,8 +114,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 8,
-      "avg_views": 119,
+      "videos": 9,
+      "avg_views": 106,
       "best_views": 498
     },
     "technology": {
@@ -120,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 80,
-      "avg_views": 197,
+      "videos": 81,
+      "avg_views": 195,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 79,
-      "avg_views": 187
+      "videos": 80,
+      "avg_views": 184
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1402,6 +1408,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "tT9xVmnTaBE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Had a Chimpanzee's Muscles? Not 5 Times Stronger",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
+      "published_at": "2026-11-12T07:41:54Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/tT9xVmnTaBE"
+    },
     "9VFV9DgN8Kw": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -2029,7 +2059,7 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 37,
+      "views": 42,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
@@ -2109,7 +2139,7 @@
       "hook": "What if a meter-long iron bar shot through your head? In 1848 a man sat up and talked.",
       "published_at": "2026-11-05T02:50:10Z",
       "privacy": "public",
-      "views": 10,
+      "views": 12,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wl6AjU6flcg",
@@ -2281,9 +2311,9 @@
       "hook": "What if the cockpit window blew out at 17,000 feet? In 1990 the captain went with it.",
       "published_at": "2026-11-12T02:15:35Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/RylZwIA6oUA"
     },
     "jwre0VbiRCc": {
