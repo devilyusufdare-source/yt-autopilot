@@ -13,6 +13,7 @@ on:
     - cron: "20 13 * * *"
     - cron: "50 14 * * *"
     - cron: "20 19 * * *"
+    - cron: "50 2 * * *"    # backup after the last run of the quota day: uploads only if a run was dropped (check in the make step)
   push:
     # Any change to the code or settings renders a test video (no upload) so mistakes show up early.
     paths:
@@ -145,6 +146,30 @@ jobs:
           if [ -z "$YT_CLIENT_ID" ] || [ -z "$YT_REFRESH_TOKEN" ]; then
             echo "::error::channel 2 key missing: add the secrets YT_CLIENT_ID_2, YT_CLIENT_SECRET_2, YT_REFRESH_TOKEN_2"
             exit 1
+          fi
+          # 12 Nov: GitHub sometimes drops a scheduled run entirely (11 Nov: no 02:30 run, 4 videos), so there is
+          # a 6th backup run. Every scheduled run stops here once 5 videos went up this API-quota day
+          # (YouTube's quota resets at Pacific midnight = 08:00 UTC; 5 uploads is what the default quota allows).
+          if [ "$GITHUB_EVENT_NAME" = "schedule" ] && [ "$DRY_RUN" != "true" ]; then
+            DONE=$(python - <<'PY'
+          import datetime as dt, glob, json
+          now = dt.datetime.now(dt.timezone.utc)
+          start = now.replace(hour=8, minute=0, second=0, microsecond=0)
+          if now < start:
+              start -= dt.timedelta(days=1)
+          n = 0
+          for f in glob.glob("channels/wild/content/published/*.json"):
+              try:
+                  t = json.load(open(f, encoding="utf-8")).get("uploaded_at") or ""
+                  if t and dt.datetime.fromisoformat(t.replace("Z", "+00:00")) >= start:
+                      n += 1
+              except Exception:
+                  pass
+          print(n)
+          PY
+            )
+            echo "uploads this quota day: $DONE"
+            if [ "${DONE:-0}" -ge 5 ]; then echo "5 videos already went up this quota day; nothing to do"; exit 0; fi
           fi
           ARGS=""
           if [ "$NOW" = "true" ]; then ARGS="$ARGS --now"; fi
