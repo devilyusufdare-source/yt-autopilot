@@ -1,0 +1,75 @@
+{
+  "id": "2027-10-30-five-longest-snakes-alive-ranked",
+  "format": "ranking",
+  "ranking_by": "longest reliably measured specimen in metres",
+  "topic": "animals",
+  "subject": "reticulated python",
+  "title": "The 5 Longest Snakes Alive, Ranked (The Anaconda Is Only #5)",
+  "scenes": [
+    {
+      "text": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
+      "keywords": "reticulated python coiled"
+    },
+    {
+      "text": "Number five: the green anaconda. 5.21 metres, reliably measured. The heaviest snake on Earth, not the longest.",
+      "keywords": "green anaconda swimming",
+      "rank": 5,
+      "label": "Green anaconda · 5.21 m"
+    },
+    {
+      "text": "Number four: the king cobra. 5.71 metres, at London Zoo in 1939. The longest venomous snake ever kept.",
+      "keywords": "king cobra hood raised",
+      "rank": 4,
+      "label": "King cobra · 5.71 m"
+    },
+    {
+      "text": "Number three: the Burmese python. 5.74 metres, a captive named Baby, measured in Illinois in 2016.",
+      "keywords": "burmese python close up",
+      "rank": 3,
+      "label": "Burmese python · 5.74 m"
+    },
+    {
+      "text": "Number two: the African rock python. Wild snakes over 6 metres are considered reliable, one from Gambia about 7.5.",
+      "keywords": "african rock python",
+      "rank": 2,
+      "label": "Rock python · about 7.5 m"
+    },
+    {
+      "text": "Number one: the reticulated python. Medusa, 7.67 metres and 159 kilograms, measured in Kansas City in 2011. A wild one hit 7.22 metres this January.",
+      "keywords": "reticulated python long body",
+      "rank": 1,
+      "label": "Reticulated python · 7.67 m"
+    }
+  ],
+  "description": "The five longest snakes alive today, ranked by the longest reliably measured specimen.\nThe green anaconda is the heaviest snake but its longest reliable measurement is 5.21 metres; a king cobra at London Zoo reached 5.71 metres by 1939, the longest venomous snake on record; a Burmese python called Baby measured 5.74 metres in Illinois in 2016; wild African rock pythons over 6 metres are considered reliable, with a Gambian specimen of about 7.5 metres regarded as authentic; and the reticulated python Medusa measured 7.67 metres and 158.8 kilograms in Kansas City in 2011, the longest snake ever verified by Guinness World Records, while a wild female measured 7.22 metres in Sulawesi in January 2026.\nWhich snake would you have put at number one?",
+  "tags": [
+    "longest snakes",
+    "reticulated python",
+    "green anaconda",
+    "king cobra",
+    "burmese python",
+    "african rock python",
+    "snake facts",
+    "guinness world records",
+    "animal rankings",
+    "top 5 animals",
+    "reptile facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#snakes",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/longest-snake-ever-captivity",
+    "https://www.guinnessworldrecords.com/world-records/70275-longest-snake",
+    "https://www.guinnessworldrecords.com/world-records/468357-longest-venomous-snake-specimen",
+    "https://www.nhm.ac.uk/discover/what-is-the-biggest-snake-in-the-world.html"
+  ],
+  "thumbnail_text": "5 LONGEST SNAKES, RANKED",
+  "priority": 6,
+  "first_comment": "Which would you put at number one? Old reports claim 8 to 10 metre anacondas and rock pythons, but none was ever verified. What should we rank next?"
+}
