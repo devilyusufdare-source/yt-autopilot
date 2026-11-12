@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-12T01:38:25+00:00",
+  "updated_at": "2026-11-12T04:01:08+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
-    "channel_views": 15720,
-    "video_count": 79
+    "channel_views": 15779,
+    "video_count": 80
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/RylZwIA6oUA"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/RylZwIA6oUA"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/RylZwIA6oUA"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 70,
@@ -65,7 +59,7 @@
       {
         "title": "What If Millions of Spiders Fled a Flood at Once? An Australian Town Woke Up Under Silk",
         "avg_view_percent": 9.2,
-        "views": 33
+        "views": 37
       },
       {
         "title": "What If a Country Lost Its Vultures? India Did. 500,000 People Died",
@@ -91,7 +85,7 @@
   },
   "retention_note": null,
   "total_videos": 80,
-  "total_views": 15781,
+  "total_views": 15791,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -110,7 +104,7 @@
     },
     "animals": {
       "videos": 12,
-      "avg_views": 218,
+      "avg_views": 219,
       "best_views": 1428
     },
     "body": {
@@ -120,7 +114,7 @@
     },
     "technology": {
       "videos": 10,
-      "avg_views": 157,
+      "avg_views": 158,
       "best_views": 1046
     }
   },
@@ -1763,7 +1757,7 @@
       "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
-      "views": 239,
+      "views": 240,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU",
@@ -1847,7 +1841,7 @@
       "hook": "What if part of a plane's wall blew off mid-flight? In 2024 it did. Two seats saved everyone.",
       "published_at": "2026-11-04T17:20:26Z",
       "privacy": "public",
-      "views": 158,
+      "views": 159,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/61k2NffqMAU",
@@ -1931,7 +1925,7 @@
       "hook": "What if the first creature in orbit was a stray dog? The official story was a lie.",
       "published_at": "2026-11-09T15:00:17Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ic5ympmJQrU"
@@ -1979,7 +1973,7 @@
       "hook": "What if you ate a polar bear's liver? Your skin could come off in sheets.",
       "published_at": "2026-11-09T21:20:20Z",
       "privacy": "public",
-      "views": 87,
+      "views": 89,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A",
@@ -2035,7 +2029,7 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 33,
+      "views": 37,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
@@ -2143,7 +2137,7 @@
       "hook": "What if the first atomic bomb had set the air on fire? Its builders had to check.",
       "published_at": "2026-11-10T15:00:21Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VPNJB_3l0us"
@@ -2269,14 +2263,14 @@
       "url": "https://youtube.com/shorts/hYWH50rQX_M"
     },
     "RylZwIA6oUA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT49S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2285,8 +2279,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if the cockpit window blew out at 17,000 feet? In 1990 the captain went with it.",
-      "published_at": "2026-11-12T01:38:17Z",
-      "privacy": "private",
+      "published_at": "2026-11-12T02:15:35Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
