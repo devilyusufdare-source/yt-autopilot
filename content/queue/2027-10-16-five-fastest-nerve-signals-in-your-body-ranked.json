@@ -1,0 +1,74 @@
+{
+  "id": "2027-10-16-five-fastest-nerve-signals-in-your-body-ranked",
+  "format": "ranking",
+  "ranking_by": "nerve conduction speed in metres per second",
+  "topic": "human body",
+  "subject": "human nerves",
+  "title": "The 5 Fastest Signals in Your Body, Ranked (Pain Isn't in the Top 3)",
+  "scenes": [
+    {
+      "text": "The five fastest signals in your body, ranked. Pain doesn't even make the top three.",
+      "keywords": "neurons firing electrical signals"
+    },
+    {
+      "text": "Number five: dull pain. The ache after a stubbed toe crawls along at about one metre a second.",
+      "keywords": "stubbed toe barefoot",
+      "rank": 5,
+      "label": "Dull pain · ~1 m/s"
+    },
+    {
+      "text": "Number four: the nerves running your gut and heartbeat. Around 10 metres a second, and you never feel them.",
+      "keywords": "human heart beating animation",
+      "rank": 4,
+      "label": "Gut and heart nerves · ~10 m/s"
+    },
+    {
+      "text": "Number three: sharp pain. The first stab of a cut arrives at up to 30 metres a second. That's why a cut hurts twice.",
+      "keywords": "finger paper cut",
+      "rank": 3,
+      "label": "Sharp pain · ~30 m/s"
+    },
+    {
+      "text": "Number two: touch. Pressure on a fingertip reaches your brain at about 75 metres a second, faster than a highway car.",
+      "keywords": "fingertip touching surface macro",
+      "rank": 2,
+      "label": "Touch · ~75 m/s"
+    },
+    {
+      "text": "Number one: position sense. The nerves telling you where your limbs are run at 120 metres a second, over 400 kilometres an hour. Close your eyes, touch your nose. That's the fastest wire in you.",
+      "keywords": "person eyes closed touching nose",
+      "rank": 1,
+      "label": "Position sense · 120 m/s"
+    }
+  ],
+  "description": "The five fastest nerve signals in the human body, ranked by conduction speed.\nNerve fibres are graded by size and insulation: unmyelinated C fibres carrying dull, burning pain move at roughly 0.5 to 2 metres a second; thin autonomic B fibres run at about 3 to 15; A-delta fibres for sharp pain and cold reach 5 to 30; A-beta touch fibres 35 to 75; and the thick A-alpha fibres for muscle position and movement 80 to 120 metres a second, about 430 kilometres an hour. That gap is why a cut hurts twice: a sharp stab first, the slow ache seconds later.\nWhich of these surprised you most, and what should we rank next?",
+  "tags": [
+    "nerve conduction velocity",
+    "fastest nerves",
+    "nervous system facts",
+    "human body rankings",
+    "top 5 human body",
+    "pain facts",
+    "proprioception",
+    "how fast are nerves",
+    "human body facts",
+    "biology facts",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#nerves",
+    "#ranking"
+  ],
+  "sources": [
+    "https://publish.uwo.ca/~jkiernan/fibrtyp.htm",
+    "https://med.libretexts.org/Bookshelves/Anatomy_and_Physiology/Anatomy_and_Physiology_(Boundless)/12:_Peripheral_Nervous_System/12.4:_Nerves/12.4B:_Classification_of_Nerves",
+    "https://en.wikipedia.org/wiki/Nerve_conduction_velocity"
+  ],
+  "thumbnail_text": "5 FASTEST NERVES, RANKED",
+  "priority": 6,
+  "first_comment": "Which would you have put at number one? Bonus: the slow pain fibres are also the ones that carry itch, which is why scratching feels so good. What should we rank next?"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2027-10-17-five-strongest-magnets-ranked",
+  "format": "ranking",
+  "ranking_by": "magnetic field strength in tesla",
+  "topic": "science",
+  "subject": "powerful magnet",
+  "title": "The 5 Strongest Magnets, Ranked (#2 Blew the Lab Doors Off)",
+  "scenes": [
+    {
+      "text": "The five strongest magnets, ranked. One blew its own lab doors off. It isn't number one.",
+      "keywords": "electric sparks laboratory coil"
+    },
+    {
+      "text": "Number five: a hospital MRI scanner. About 3 tesla, 60,000 times Earth's field, enough to fling a steel chair across the room.",
+      "keywords": "MRI scanner hospital",
+      "rank": 5,
+      "label": "MRI scanner · 3 tesla"
+    },
+    {
+      "text": "Number four: the strongest steady magnet on Earth, at Florida's National MagLab. 45.5 tesla from a coil you could hold in one hand.",
+      "keywords": "superconducting magnet coil laboratory",
+      "rank": 4,
+      "label": "MagLab coil · 45.5 tesla"
+    },
+    {
+      "text": "Number three: Los Alamos, 2012. A pulsed magnet hit 100 tesla for a few thousandths of a second, and survived to do it again.",
+      "keywords": "high voltage capacitor bank laboratory",
+      "rank": 3,
+      "label": "Los Alamos · 100 tesla"
+    },
+    {
+      "text": "Number two: Tokyo, 2018. Physicists hit 1,200 tesla indoors for a split second. The blast blew the heavy doors off.",
+      "keywords": "explosion laboratory slow motion",
+      "rank": 2,
+      "label": "Tokyo lab · 1,200 tesla"
+    },
+    {
+      "text": "Number one: a magnetar, the crushed core of a dead star. About 100 billion tesla, millions of times the Tokyo record. A field that strong squeezes atoms into needles.",
+      "keywords": "neutron star space animation",
+      "rank": 1,
+      "label": "Magnetar · 100 billion tesla"
+    }
+  ],
+  "description": "The five strongest magnetic fields, ranked in tesla.\nA hospital MRI runs at about 3 tesla, some 60,000 times Earth's field. The National MagLab's little big coil set the record for a continuous field at 45.5 tesla in 2019; Los Alamos reached 100 tesla with a reusable pulsed magnet in 2012; and in 2018 a University of Tokyo team produced 1,200 tesla indoors for about 100 microseconds, a pulse so violent it blew the doors off the magnet's iron housing. None of that comes close to a magnetar, a neutron star with a field around 100 billion tesla, strong enough to distort atoms into needle shapes.\nWhich of these would you least want to stand next to, and what should we rank next?",
+  "tags": [
+    "strongest magnet",
+    "magnetar",
+    "magnetic field tesla",
+    "national maglab",
+    "1200 tesla",
+    "science rankings",
+    "top 5 science",
+    "physics facts",
+    "neutron star",
+    "science facts",
+    "space facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#physics",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.smithsonianmag.com/smart-news/strongest-indoor-magnetic-field-blows-doors-tokyo-lab-180970436/",
+    "https://physicsworld.com/a/little-big-coil-creates-record-breaking-continuous-magnetic-field/",
+    "https://nationalmaglab.org/about-the-maglab/around-the-lab/meet-the-magnets/meet-the-100-tesla-pulsed-magnet/",
+    "https://guinnessworldrecords.com/world-records/87469-most-magnetic-objects-in-the-universe"
+  ],
+  "thumbnail_text": "5 STRONGEST MAGNETS, RANKED",
+  "priority": 7,
+  "first_comment": "Which would you put at number one? A fridge magnet, for scale, is about 0.005 tesla. What should we rank next?"
+}
