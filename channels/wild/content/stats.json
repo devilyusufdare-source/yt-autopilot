@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-12T21:00:58+00:00",
+  "updated_at": "2026-11-12T21:39:04+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 15808,
-    "video_count": 83
+    "video_count": 84
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/KSCEzMiaT2o"
+      "https://youtube.com/shorts/i_6lwWNqoGo"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/KSCEzMiaT2o"
+      "https://youtube.com/shorts/i_6lwWNqoGo"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/KSCEzMiaT2o"
+      "https://youtube.com/shorts/i_6lwWNqoGo"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 84,
-  "total_views": 15835,
+  "total_videos": 85,
+  "total_views": 15836,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -114,8 +114,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 12,
-      "avg_views": 81,
+      "videos": 13,
+      "avg_views": 75,
       "best_views": 498
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 84,
-      "avg_views": 189,
+      "videos": 85,
+      "avg_views": 186,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 83,
-      "avg_views": 178
+      "videos": 84,
+      "avg_views": 176
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1559,12 +1559,36 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE"
     },
     "KSCEzMiaT2o": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT43S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Lived Underwater for Months? Submariners Lose 40% of a Vitamin",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you lived underwater for months, no sunlight? Submariners do, and their bodies keep score.",
+      "published_at": "2026-11-12T21:30:36Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/KSCEzMiaT2o"
+    },
+    "i_6lwWNqoGo": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1576,17 +1600,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Lived Underwater for Months? Submariners Lose 40% of a Vitamin",
+      "title": "What If You Could See 100 Million Colours? Some Women Already Can",
       "topic": "body",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you lived underwater for months, no sunlight? Submariners do, and their bodies keep score.",
-      "published_at": "2026-11-12T21:00:53Z",
+      "hook": "What if you saw 100 million colours instead of one million? Some women do, and never find out.",
+      "published_at": "2026-11-12T21:39:01Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/KSCEzMiaT2o"
+      "url": "https://youtube.com/shorts/i_6lwWNqoGo"
     },
     "San75yns9OM": {
       "upload_status": "processed",
