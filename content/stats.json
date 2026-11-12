@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T22:45:44+00:00",
+  "updated_at": "2026-11-12T23:28:57+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -13,15 +13,11 @@
       "https://youtube.com/shorts/VNUh1UIq9uU"
     ],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/VNUh1UIq9uU"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/VNUh1UIq9uU"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 271,
@@ -92,7 +88,7 @@
   },
   "retention_note": null,
   "total_videos": 296,
-  "total_views": 76947,
+  "total_views": 77129,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -101,7 +97,7 @@
     },
     "science": {
       "videos": 24,
-      "avg_views": 252,
+      "avg_views": 254,
       "best_views": 1648
     },
     "animals": {
@@ -145,7 +141,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 210,
-      "avg_views": 184
+      "avg_views": 185
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -3074,8 +3070,8 @@
       "hook": "Grab this newt and it stabs you. With its ribs.",
       "published_at": "2026-11-12T22:00:26Z",
       "privacy": "public",
-      "views": 5,
-      "likes": 0,
+      "views": 26,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M6t1_zwUDKQ"
     },
@@ -3262,20 +3258,20 @@
       "hook": "One island lost fifteen million crabs. The killers were ants.",
       "published_at": "2026-11-12T22:20:12Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5JchxYrXcH0"
     },
     "VNUh1UIq9uU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT35S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5714,7 +5710,7 @@
       "hook": "In 2019, thousands of animals crash-landed on the Moon.",
       "published_at": "2026-11-11T12:30:15Z",
       "privacy": "public",
-      "views": 59,
+      "views": 58,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Oyni6mm1Ma8"
@@ -5906,7 +5902,7 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 455,
+      "views": 453,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo",
@@ -6406,7 +6402,7 @@
       "hook": "An extinct insect was hiding under one bush.",
       "published_at": "2026-11-12T02:15:22Z",
       "privacy": "public",
-      "views": 11,
+      "views": 13,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/ARZlms2aigY"
@@ -6454,7 +6450,7 @@
       "hook": "One tiger. 436 people. And two broken teeth explain it.",
       "published_at": "2026-11-12T19:20:03Z",
       "privacy": "public",
-      "views": 422,
+      "views": 465,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HE8mLoU1rAs"
@@ -6478,7 +6474,7 @@
       "hook": "A hawk in New Jersey hunts by traffic light.",
       "published_at": "2026-11-12T21:00:39Z",
       "privacy": "public",
-      "views": 50,
+      "views": 86,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/BkM61GKu1sc"
@@ -6502,7 +6498,7 @@
       "hook": "This animal can be dried out completely and come back.",
       "published_at": "2026-11-12T21:20:19Z",
       "privacy": "public",
-      "views": 80,
+      "views": 117,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gudmy6a0BMs"
@@ -6554,7 +6550,7 @@
       "hook": "The five strongest magnets, ranked. One blew its own lab doors off. It isn't number one.",
       "published_at": "2026-11-12T20:00:19Z",
       "privacy": "public",
-      "views": 247,
+      "views": 293,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/nhVqYFmtGDA"
@@ -6914,7 +6910,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 109,
+      "views": 108,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM",
