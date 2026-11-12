@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-11-11T18:58:25+00:00",
+  "updated_at": "2026-11-12T01:34:47+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 74,
     "channel_views": 73337,
-    "video_count": 283
+    "video_count": 285
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/yuo7BIR-dKs",
-      "https://youtube.com/shorts/mW8-ucC_kOM"
+      "https://youtube.com/shorts/W_H2LBwWG9Y",
+      "https://youtube.com/shorts/ARZlms2aigY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/mW8-ucC_kOM"
+      "https://youtube.com/shorts/W_H2LBwWG9Y"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/mW8-ucC_kOM"
+      "https://youtube.com/shorts/W_H2LBwWG9Y"
     ]
   },
   "retention": {
-    "videos_with_data": 248,
-    "avg_view_percent": 59.5,
+    "videos_with_data": 259,
+    "avg_view_percent": 59.3,
     "by_topic": {
-      "psychology": 71.3,
-      "science": 64.3,
-      "animals": 56.8,
+      "psychology": 71.8,
+      "science": 63.9,
+      "animals": 56.7,
       "human body": 80.9,
-      "history": 67.5,
+      "history": 66.9,
       "space": 64.4,
-      "technology": 59.9
+      "technology": 62.0
     },
     "best": [
       {
@@ -45,7 +45,7 @@
       {
         "title": "The Titanic Was Found During a Secret Navy Hunt for Lost Nuclear Subs",
         "avg_view_percent": 241.9,
-        "views": 14
+        "views": 15
       },
       {
         "title": "Scientists Swore This Fish Died Out With the Dinosaurs",
@@ -70,6 +70,16 @@
         "views": 2
       },
       {
+        "title": "A Barnacle Turns Male Crabs Into Mothers for Its Own Eggs",
+        "avg_view_percent": 11.4,
+        "views": 19
+      },
+      {
+        "title": "This Bat Hunts Frogs by Their Love Songs, and Knows Which Are Poison",
+        "avg_view_percent": 20.0,
+        "views": 42
+      },
+      {
         "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
         "avg_view_percent": 20.9,
         "views": 64
@@ -78,26 +88,16 @@
         "title": "This Fish's Tongue Isn't a Tongue. It's a Living Parasite",
         "avg_view_percent": 21.3,
         "views": 57
-      },
-      {
-        "title": "This Bat Hunts Frogs by Their Love Songs, and Knows Which Are Poison",
-        "avg_view_percent": 22.7,
-        "views": 42
-      },
-      {
-        "title": "The Shortest War in History Lasted 38 Minutes",
-        "avg_view_percent": 23.1,
-        "views": 12
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 283,
-  "total_views": 73895,
+  "total_videos": 285,
+  "total_views": 74883,
   "by_topic": {
     "psychology": {
       "videos": 3,
-      "avg_views": 246,
+      "avg_views": 247,
       "best_views": 364
     },
     "science": {
@@ -106,13 +106,13 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 204,
-      "avg_views": 266,
+      "videos": 206,
+      "avg_views": 268,
       "best_views": 1507
     },
     "human body": {
       "videos": 5,
-      "avg_views": 445,
+      "avg_views": 446,
       "best_views": 1384
     },
     "history": {
@@ -122,19 +122,19 @@
     },
     "space": {
       "videos": 28,
-      "avg_views": 306,
+      "avg_views": 307,
       "best_views": 1513
     },
     "technology": {
       "videos": 6,
-      "avg_views": 75,
+      "avg_views": 77,
       "best_views": 287
     }
   },
   "by_style": {
     "classic": {
-      "videos": 267,
-      "avg_views": 251,
+      "videos": 269,
+      "avg_views": 253,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 197,
-      "avg_views": 181
+      "videos": 199,
+      "avg_views": 184
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -335,7 +335,7 @@
       "hook": "Try to hum with your nose closed. You can't.",
       "published_at": "2026-10-16T12:30:34Z",
       "privacy": "public",
-      "views": 366,
+      "views": 367,
       "likes": 12,
       "comments": 3,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA",
@@ -1035,7 +1035,7 @@
       "hook": "A bird that learned a trick film directors use, and it works on mates.",
       "published_at": "2026-11-03T21:20:30Z",
       "privacy": "public",
-      "views": 49,
+      "views": 50,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L4uQ8K8FaRU",
@@ -1791,10 +1791,14 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 317,
+      "views": 351,
       "likes": 6,
       "comments": 1,
-      "url": "https://youtube.com/shorts/lbhBeVsyfDY"
+      "url": "https://youtube.com/shorts/lbhBeVsyfDY",
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 61.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "vhPnTwH9PZM": {
       "upload_status": "processed",
@@ -1815,10 +1819,14 @@
       "hook": "This male crab is raising babies. None of them are his.",
       "published_at": "2026-11-09T21:00:39Z",
       "privacy": "public",
-      "views": 12,
+      "views": 19,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/vhPnTwH9PZM"
+      "url": "https://youtube.com/shorts/vhPnTwH9PZM",
+      "avg_view_seconds": 4.0,
+      "avg_view_percent": 11.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "i4AAj7Pg6sQ": {
       "upload_status": "processed",
@@ -1842,7 +1850,11 @@
       "views": 5,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/i4AAj7Pg6sQ"
+      "url": "https://youtube.com/shorts/i4AAj7Pg6sQ",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "340LMR9p660": {
       "upload_status": "processed",
@@ -1863,10 +1875,14 @@
       "hook": "A garden songbird that hunts bats.",
       "published_at": "2026-11-10T00:20:27Z",
       "privacy": "public",
-      "views": 38,
+      "views": 43,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/340LMR9p660"
+      "url": "https://youtube.com/shorts/340LMR9p660",
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 63.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ELVS4Bl4MT0": {
       "upload_status": "processed",
@@ -1915,7 +1931,7 @@
       "hook": "The deadliest cat on Earth fits in your two hands.",
       "published_at": "2026-11-04T21:00:20Z",
       "privacy": "public",
-      "views": 167,
+      "views": 168,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tc8k-oMf4pI",
@@ -1943,10 +1959,14 @@
       "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
       "published_at": "2026-11-10T02:50:29Z",
       "privacy": "public",
-      "views": 52,
+      "views": 54,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/J7yZVtMxDvE"
+      "url": "https://youtube.com/shorts/J7yZVtMxDvE",
+      "avg_view_seconds": 35.0,
+      "avg_view_percent": 107.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "15nbrnKyWHE": {
       "upload_status": "processed",
@@ -1967,7 +1987,7 @@
       "hook": "Nothing on Earth moves faster than this ant's jaw.",
       "published_at": "2026-11-10T19:00:23Z",
       "privacy": "public",
-      "views": 46,
+      "views": 71,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE"
@@ -2019,7 +2039,7 @@
       "hook": "The five longest-living cells in your body, ranked. Most of you is under ten years old.",
       "published_at": "2026-11-04T15:30:10Z",
       "privacy": "public",
-      "views": 4,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9PNCyQB-l7I",
@@ -2131,7 +2151,7 @@
       "hook": "This fish eats birds, breathes air, and crawls to the next pond when it's done.",
       "published_at": "2026-11-10T18:00:36Z",
       "privacy": "public",
-      "views": 79,
+      "views": 107,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/IN5A3Mj60ok"
@@ -2295,7 +2315,7 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 52,
+      "views": 89,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg"
@@ -2319,7 +2339,7 @@
       "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
       "published_at": "2026-11-11T00:10:11Z",
       "privacy": "public",
-      "views": 66,
+      "views": 89,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uGfj97UnMNs"
@@ -2343,7 +2363,7 @@
       "hook": "This animal has no anus. Until it needs one.",
       "published_at": "2026-11-11T02:40:17Z",
       "privacy": "public",
-      "views": 47,
+      "views": 62,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mZ8i9ESlQro"
@@ -2451,8 +2471,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hhXnndlGCz8",
-      "avg_view_seconds": 40.0,
-      "avg_view_percent": 78.7,
+      "avg_view_seconds": 36.0,
+      "avg_view_percent": 70.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2535,8 +2555,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 45.0,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 46.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2587,7 +2607,7 @@
       "hook": "This little songbird keeps a butcher's shop.",
       "published_at": "2026-11-11T15:30:02Z",
       "privacy": "public",
-      "views": 5,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/cId-MnziRv0"
@@ -2667,8 +2687,8 @@
       "hook": "A moray eel bites you twice. The second bite comes from its throat.",
       "published_at": "2026-11-11T18:00:18Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 0,
+      "views": 326,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/f32tutRUWsE"
     },
@@ -2689,11 +2709,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The deadliest kick in Africa belongs to a bird.",
-      "published_at": "2026-11-11T18:00:26Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-11T19:00:32Z",
+      "privacy": "public",
+      "views": 28,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/yuo7BIR-dKs"
     },
     "0ZDEx6r83js": {
@@ -2715,7 +2735,7 @@
       "hook": "This bird hasn't landed since last summer.",
       "published_at": "2026-11-11T18:30:16Z",
       "privacy": "public",
-      "views": 0,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ZDEx6r83js"
@@ -2744,7 +2764,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho",
       "avg_view_seconds": 10.0,
-      "avg_view_percent": 33.7,
+      "avg_view_percent": 33.8,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -2772,7 +2792,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 51.9,
+      "avg_view_percent": 53.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2805,6 +2825,30 @@
       "subscribers_gained": 0
     },
     "mW8-ucC_kOM": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT37S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Cut This Animal's Oxygen for 18 Minutes. It Just Wakes Up Again",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Cut off this animal's oxygen for 18 minutes. It shrugs.",
+      "published_at": "2026-11-11T20:00:38Z",
+      "privacy": "public",
+      "views": 4,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/mW8-ucC_kOM"
+    },
+    "W_H2LBwWG9Y": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -2816,17 +2860,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "Cut This Animal's Oxygen for 18 Minutes. It Just Wakes Up Again",
+      "title": "This Bird Gets a Quarter of Its Food by Lying to Meerkats",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "Cut off this animal's oxygen for 18 minutes. It shrugs.",
-      "published_at": "2026-11-11T18:58:17Z",
+      "hook": "This bird earns a quarter of its food by lying.",
+      "published_at": "2026-11-12T01:34:40Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/mW8-ucC_kOM"
+      "url": "https://youtube.com/shorts/W_H2LBwWG9Y"
     },
     "LUQJVqXc1zI": {
       "upload_status": "processed",
@@ -2879,8 +2923,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 50.2,
+      "avg_view_seconds": 30.0,
+      "avg_view_percent": 60.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2903,10 +2947,14 @@
       "hook": "The five highest-flying birds ever measured, ranked. The record holder was found inside a jet engine.",
       "published_at": "2026-11-09T15:30:38Z",
       "privacy": "public",
-      "views": 60,
+      "views": 67,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/hagyIaLCA4M"
+      "url": "https://youtube.com/shorts/hagyIaLCA4M",
+      "avg_view_seconds": 40.0,
+      "avg_view_percent": 80.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "I0jRhK827UM": {
       "upload_status": "processed",
@@ -3287,7 +3335,7 @@
       "hook": "The five tallest roller coasters ever built, ranked. The old champion was demolished with explosives last year.",
       "published_at": "2026-11-11T15:00:10Z",
       "privacy": "public",
-      "views": 10,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Yz3YXH2zvyc"
@@ -4492,7 +4540,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 37.1,
+      "avg_view_percent": 36.8,
       "shares": 0,
       "subscribers_gained": 4
     },
@@ -4519,8 +4567,8 @@
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/hC-DTpNpqx8",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 46.2,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 51.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4575,8 +4623,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg",
-      "avg_view_seconds": 37.0,
-      "avg_view_percent": 99.0,
+      "avg_view_seconds": 30.0,
+      "avg_view_percent": 80.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4604,7 +4652,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o",
       "avg_view_seconds": 20.0,
-      "avg_view_percent": 52.8,
+      "avg_view_percent": 51.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4631,8 +4679,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/V5bBt2yI2PY",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 80.0,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 70.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4772,7 +4820,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/KBYp_uwN89M",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 48.5,
+      "avg_view_percent": 48.4,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -4827,8 +4875,8 @@
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/_y6yTp7OsRM",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 54.2,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 51.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4883,8 +4931,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1dSVVteEjkM",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 41.3,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 46.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4939,8 +4987,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dgNAPMvw7Y0",
-      "avg_view_seconds": 6.0,
-      "avg_view_percent": 22.7,
+      "avg_view_seconds": 5.0,
+      "avg_view_percent": 20.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4995,8 +5043,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 50.6,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 49.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5047,12 +5095,12 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 333,
+      "views": 337,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 64.4,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 61.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5131,14 +5179,14 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 961,
+      "views": 962,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 52.8,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 48.9,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 1
     },
     "8HPrrfRBnJA": {
       "upload_status": "processed",
@@ -5187,12 +5235,12 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 929,
+      "views": 930,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 46.6,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 44.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5246,7 +5294,11 @@
       "views": 5,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/2PwdWAM0PVM"
+      "url": "https://youtube.com/shorts/2PwdWAM0PVM",
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 26.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "4UE4LUCRyws": {
       "upload_status": "processed",
@@ -5267,12 +5319,12 @@
       "hook": "These frog eggs know when a snake is eating them.",
       "published_at": "2026-11-09T00:10:35Z",
       "privacy": "public",
-      "views": 996,
+      "views": 997,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/4UE4LUCRyws",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 47.2,
+      "avg_view_percent": 46.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5295,12 +5347,12 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 334,
+      "views": 335,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 46.1,
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 35.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5327,10 +5379,10 @@
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMqWHgPm8kY",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 44.2,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 43.0,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 1
     },
     "k1T79ufoaX8": {
       "upload_status": "processed",
@@ -5351,7 +5403,7 @@
       "hook": "The search for the Titanic was a cover story.",
       "published_at": "2026-11-06T03:30:13Z",
       "privacy": "public",
-      "views": 14,
+      "views": 15,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k1T79ufoaX8",
@@ -5435,10 +5487,14 @@
       "hook": "A totally blind man walked through an obstacle course untouched.",
       "published_at": "2026-11-09T12:30:04Z",
       "privacy": "public",
-      "views": 48,
+      "views": 50,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Dtz0u9zn7wo"
+      "url": "https://youtube.com/shorts/Dtz0u9zn7wo",
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 72.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ca34HwuWgVs": {
       "upload_status": "processed",
@@ -5459,7 +5515,7 @@
       "hook": "The 1904 Olympic marathon was won on strychnine and brandy.",
       "published_at": "2026-11-10T12:20:37Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ca34HwuWgVs"
@@ -5483,10 +5539,14 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 905,
+      "views": 907,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/8VbMxHG-Bzo"
+      "url": "https://youtube.com/shorts/8VbMxHG-Bzo",
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 34.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "Oyni6mm1Ma8": {
       "upload_status": "processed",
@@ -5507,7 +5567,7 @@
       "hook": "In 2019, thousands of animals crash-landed on the Moon.",
       "published_at": "2026-11-11T12:30:15Z",
       "privacy": "public",
-      "views": 13,
+      "views": 52,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Oyni6mm1Ma8"
@@ -5559,10 +5619,14 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 312,
+      "views": 331,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/32p1FHP1L48"
+      "url": "https://youtube.com/shorts/32p1FHP1L48",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 45.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "cHsF4Dcrv30": {
       "upload_status": "processed",
@@ -5639,10 +5703,14 @@
       "hook": "That perfect round hole in a seashell isn't an accident. Something drilled it.",
       "published_at": "2026-11-09T18:00:06Z",
       "privacy": "public",
-      "views": 955,
+      "views": 990,
       "likes": 10,
       "comments": 1,
-      "url": "https://youtube.com/shorts/axMrOJmzu9k"
+      "url": "https://youtube.com/shorts/axMrOJmzu9k",
+      "avg_view_seconds": 32.0,
+      "avg_view_percent": 93.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "q18WSuE5NJ0": {
       "upload_status": "processed",
@@ -5691,10 +5759,14 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 392,
+      "views": 453,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/OW7wC96MHAo"
+      "url": "https://youtube.com/shorts/OW7wC96MHAo",
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 58.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "oG_ieXXeadA": {
       "upload_status": "processed",
@@ -5715,7 +5787,7 @@
       "hook": "This ladybug is alive. It's guarding its own parasite.",
       "published_at": "2026-11-10T15:00:03Z",
       "privacy": "public",
-      "views": 714,
+      "views": 915,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA"
@@ -5739,7 +5811,7 @@
       "hook": "This dinosaur's blood survived 115 million years.",
       "published_at": "2026-11-10T17:00:04Z",
       "privacy": "public",
-      "views": 98,
+      "views": 115,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
@@ -5903,7 +5975,7 @@
       "hook": "Something is plucking this spider's web. It isn't dinner. It's the hunter.",
       "published_at": "2026-11-10T21:00:34Z",
       "privacy": "public",
-      "views": 16,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GCFkHUEL_oA"
@@ -5955,7 +6027,7 @@
       "hook": "Red ants found this caterpillar and carried it home. That was its plan.",
       "published_at": "2026-11-10T21:20:05Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMa7hcjpTsM"
@@ -6127,6 +6199,30 @@
       "avg_view_percent": 53.5,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "ARZlms2aigY": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT42S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "An Insect Declared Extinct Was Found Alive on One Bush, 80 Years Later",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "An extinct insect was hiding under one bush.",
+      "published_at": "2026-11-12T01:32:00Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/ARZlms2aigY"
     },
     "mmv9b2xQG2A": {
       "upload_status": "processed",
@@ -6959,7 +7055,7 @@
       "hook": "Praying mantises catch and eat live birds.",
       "published_at": "2026-10-30T15:30:08Z",
       "privacy": "public",
-      "views": 154,
+      "views": 155,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys",
@@ -7379,12 +7475,12 @@
       "hook": "Sperm whales may be talking in an alphabet.",
       "published_at": "2026-10-31T22:30:23Z",
       "privacy": "public",
-      "views": 86,
+      "views": 87,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-R8EwEsb9-s",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 47.5,
+      "avg_view_percent": 46.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -7440,7 +7536,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/x9pCkBDxsLE",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 43.0,
+      "avg_view_percent": 43.2,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -7524,7 +7620,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/5hzE5T5d1Z0",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 36.1,
+      "avg_view_percent": 35.1,
       "shares": 0,
       "subscribers_gained": 0
     },
