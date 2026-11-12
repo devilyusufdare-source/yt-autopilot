@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12T03:50:50+00:00",
+  "updated_at": "2026-11-12T04:01:13+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 74,
-    "channel_views": 74544,
+    "channel_views": 73337,
     "video_count": 288
   },
   "diagnosis": {
@@ -13,15 +13,11 @@
       "https://youtube.com/shorts/jy8dtKqr5n4"
     ],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/jy8dtKqr5n4"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/jy8dtKqr5n4"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 259,
@@ -92,7 +88,7 @@
   },
   "retention_note": null,
   "total_videos": 287,
-  "total_views": 75001,
+  "total_views": 75039,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -1958,7 +1954,7 @@
       "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
       "published_at": "2026-11-10T02:50:29Z",
       "privacy": "public",
-      "views": 56,
+      "views": 57,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/J7yZVtMxDvE",
@@ -2314,7 +2310,7 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 97,
+      "views": 104,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg"
@@ -2338,7 +2334,7 @@
       "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
       "published_at": "2026-11-11T00:10:11Z",
       "privacy": "public",
-      "views": 91,
+      "views": 92,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uGfj97UnMNs"
@@ -2606,7 +2602,7 @@
       "hook": "This little songbird keeps a butcher's shop.",
       "published_at": "2026-11-11T15:30:02Z",
       "privacy": "public",
-      "views": 24,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/cId-MnziRv0"
@@ -2710,9 +2706,9 @@
       "hook": "The deadliest kick in Africa belongs to a bird.",
       "published_at": "2026-11-11T19:00:32Z",
       "privacy": "public",
-      "views": 21,
+      "views": 35,
       "likes": 1,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/yuo7BIR-dKs"
     },
     "0ZDEx6r83js": {
@@ -2734,7 +2730,7 @@
       "hook": "This bird hasn't landed since last summer.",
       "published_at": "2026-11-11T18:30:16Z",
       "privacy": "public",
-      "views": 32,
+      "views": 39,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ZDEx6r83js"
@@ -2842,7 +2838,7 @@
       "hook": "Cut off this animal's oxygen for 18 minutes. It shrugs.",
       "published_at": "2026-11-11T20:00:38Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mW8-ucC_kOM"
@@ -2866,7 +2862,7 @@
       "hook": "This bird earns a quarter of its food by lying.",
       "published_at": "2026-11-12T02:40:09Z",
       "privacy": "public",
-      "views": 7,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/W_H2LBwWG9Y"
@@ -5782,7 +5778,7 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 451,
+      "views": 453,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo",
@@ -5834,7 +5830,7 @@
       "hook": "This dinosaur's blood survived 115 million years.",
       "published_at": "2026-11-10T17:00:04Z",
       "privacy": "public",
-      "views": 115,
+      "views": 117,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
@@ -5998,7 +5994,7 @@
       "hook": "Something is plucking this spider's web. It isn't dinner. It's the hunter.",
       "published_at": "2026-11-10T21:00:34Z",
       "privacy": "public",
-      "views": 26,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GCFkHUEL_oA"
@@ -6050,7 +6046,7 @@
       "hook": "Red ants found this caterpillar and carried it home. That was its plan.",
       "published_at": "2026-11-10T21:20:05Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMa7hcjpTsM"
@@ -6140,14 +6136,14 @@
       "subscribers_gained": 0
     },
     "jy8dtKqr5n4": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT46S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
