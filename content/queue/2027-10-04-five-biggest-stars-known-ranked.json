@@ -1,0 +1,72 @@
+{
+  "id": "2027-10-04-five-biggest-stars-known-ranked",
+  "format": "ranking",
+  "ranking_by": "estimated radius in solar radii",
+  "topic": "space",
+  "title": "The 5 Biggest Stars We Know, Ranked (#1 Isn't in Our Galaxy)",
+  "scenes": [
+    {
+      "text": "The five biggest stars we know of. Number one isn't even in our galaxy.",
+      "keywords": "red supergiant star space"
+    },
+    {
+      "text": "Number five: Mu Cephei, the Garnet Star. About 1,260 times the Sun's radius. The biggest star you can see with your own eyes.",
+      "keywords": "red star night sky telescope",
+      "rank": 5,
+      "label": "Mu Cephei · ~1,260 Suns"
+    },
+    {
+      "text": "Number four: AH Scorpii. About 1,400 Suns across, measured directly with an array of telescopes, and astronomers still argue over it.",
+      "keywords": "giant red star glowing",
+      "rank": 4,
+      "label": "AH Scorpii · ~1,400 Suns"
+    },
+    {
+      "text": "Number three: VY Canis Majoris, 3,900 light years away. About 1,420 Suns. Put it where our Sun is and it swallows Jupiter.",
+      "keywords": "star nebula gas clouds hubble",
+      "rank": 3,
+      "label": "VY Canis Majoris · ~1,420"
+    },
+    {
+      "text": "Number two: RSGC1-F01, hidden in dust 22,000 light years away. About 1,530 Suns, and visible only in infrared.",
+      "keywords": "infrared telescope star cluster",
+      "rank": 2,
+      "label": "RSGC1-F01 · ~1,530 Suns"
+    },
+    {
+      "text": "Number one: WOH G64, in the Large Magellanic Cloud, 160,000 light years away. About 1,540 Suns. In 2024 we photographed it: the first close-up of a star outside the Milky Way.",
+      "keywords": "large magellanic cloud galaxy",
+      "rank": 1,
+      "label": "WOH G64 · ~1,540 Suns"
+    }
+  ],
+  "description": "The five largest known stars, ranked by estimated radius in Suns.\nAll five are red supergiants, each so wide that in the Sun's place its surface would reach past Jupiter's orbit. Number one, WOH G64, lies in a neighbouring galaxy, the Large Magellanic Cloud, and in 2024 the European Southern Observatory took the first close-up image of it. These sizes are estimates with large error bars and get revised as distances improve; the often-quoted Stephenson 2-18, at around 2,150 Suns, is disputed and left off this list.\nWhich of these giants would you most want to see up close, and what should we rank next?",
+  "tags": [
+    "biggest stars",
+    "largest star in the universe",
+    "woh g64",
+    "vy canis majoris",
+    "red supergiant",
+    "space rankings",
+    "top 5 stars",
+    "astronomy facts",
+    "space facts",
+    "universe facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#stars",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_largest_known_stars",
+    "https://www.eso.org/public/news/eso2417/",
+    "https://earthsky.org/space/red-hypergiant-star-vy-canis-majoris-dimming-explained-hubble-space-telescope/"
+  ],
+  "thumbnail_text": "5 BIGGEST STARS, RANKED",
+  "priority": 6,
+  "first_comment": "Which would you put at number one? UY Scuti used to top these lists at 1,700 Suns, until better distance data shrank it to about 900. What should we rank next?"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "2027-10-03-five-longest-nonstop-flights-ranked",
+  "format": "ranking",
+  "ranking_by": "great-circle route distance of a scheduled nonstop passenger flight",
+  "topic": "technology",
+  "title": "The 5 Longest Nonstop Flights on Earth, Ranked (#1 Beats #2 by 3 Miles)",
+  "scenes": [
+    {
+      "text": "The five longest nonstop flights on Earth. The top two land in the same city.",
+      "keywords": "airliner takeoff sunset"
+    },
+    {
+      "text": "Number five: Auckland to Dubai, on an Emirates A380. About 14,200 kilometers, around 17 hours in the air.",
+      "keywords": "airbus a380 takeoff",
+      "rank": 5,
+      "label": "Auckland–Dubai · 14,200 km"
+    },
+    {
+      "text": "Number four: Auckland to New York. About 14,210 kilometers, up to 17 and a half hours, and two rival airlines fly it head to head.",
+      "keywords": "boeing 787 flying above clouds",
+      "rank": 4,
+      "label": "Auckland–New York · 14,210 km"
+    },
+    {
+      "text": "Number three: Dallas to Melbourne, with Qantas. About 14,470 kilometers, nearly 18 hours westbound. The longest flight on any Boeing.",
+      "keywords": "qantas boeing 787 landing",
+      "rank": 3,
+      "label": "Dallas–Melbourne · 14,470 km"
+    },
+    {
+      "text": "Number two: Singapore to Newark. About 15,340 kilometers, around 19 hours, on an Airbus with no economy seats at all.",
+      "keywords": "airbus a350 flying",
+      "rank": 2,
+      "label": "Singapore–Newark · 15,340 km"
+    },
+    {
+      "text": "Number one: Singapore to New York JFK. About 15,350 kilometers, 19 hours, more than a third of the way around the planet. Just five kilometers longer than number two.",
+      "keywords": "new york skyline airplane",
+      "rank": 1,
+      "label": "Singapore–New York · 15,350 km"
+    }
+  ],
+  "description": "The five longest nonstop passenger flights in the world, ranked by route distance.\nThe two longest both leave Singapore for New York, to JFK and to Newark, about 15,350 and 15,340 kilometers, each around 19 hours on an Airbus A350-900ULR with only business and premium economy seats. Qantas, Air New Zealand and Emirates fill out the list with flights of more than 14,000 kilometers to Dallas, New York and Dubai. Distances vary slightly between sources, and schedules change; Qantas plans a 17,000 km Sydney to London nonstop from late 2027.\nWhich of these would you actually sit through, and what should we rank next?",
+  "tags": [
+    "longest flights",
+    "longest nonstop flight",
+    "singapore airlines",
+    "qantas",
+    "emirates a380",
+    "aviation facts",
+    "airplane facts",
+    "travel facts",
+    "top 5 flights",
+    "technology rankings",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#aviation",
+    "#travel",
+    "#ranking"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Longest_flights",
+    "https://www.thenationalnews.com/travel/2026/07/13/longest-flights-singapore-qantas-emirates/",
+    "https://onemileatatime.com/guides/longest-flights-in-the-world/"
+  ],
+  "thumbnail_text": "5 LONGEST FLIGHTS, RANKED",
+  "priority": 5,
+  "first_comment": "Which would you put at number one, and what should we rank next? Qantas says a 20-hour Sydney to London nonstop arrives in late 2027."
+}

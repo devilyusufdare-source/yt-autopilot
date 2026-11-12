@@ -1,0 +1,63 @@
+{
+  "id": "2027-10-02-first-computer-bug-was-a-real-moth-1947",
+  "format": "fact",
+  "topic": "technology",
+  "subject": "moth in computer relay",
+  "title": "The First Computer Bug Was a Real Moth, and It's Still Taped in a Logbook",
+  "scenes": [
+    {
+      "text": "The first computer bug was an actual bug.",
+      "keywords": "moth close up wings"
+    },
+    {
+      "text": "September 9, 1947. Harvard's Mark II, a relay calculator the size of a room, stops working properly.",
+      "keywords": "vintage room-sized computer 1940s"
+    },
+    {
+      "text": "The operators open panel F and find relay number 70 jammed. Inside: a moth.",
+      "keywords": "electrical relay switch close up"
+    },
+    {
+      "text": "They tape it into the logbook and write: first actual case of bug being found. Grace Hopper's team made the story famous.",
+      "keywords": "old logbook handwriting page"
+    },
+    {
+      "text": "The joke only works because bug already meant a fault. Edison was complaining about bugs in his circuits back in 1878.",
+      "keywords": "edison light bulb vintage"
+    },
+    {
+      "text": "The moth is still there, taped to the page, in the Smithsonian.",
+      "keywords": "museum display case glass"
+    }
+  ],
+  "description": "The first computer bug ever logged was a real moth, found jammed in a relay of Harvard's Mark II in 1947.\nOn September 9, 1947, operators traced a fault to relay number 70 in panel F, pulled out a moth, taped it into the logbook and wrote First actual case of bug being found. The team included Grace Hopper, who made the story famous. The word bug already meant a mechanical fault: Thomas Edison used it in a letter in 1878. The logbook page, moth included, is in the Smithsonian's National Museum of American History.\nWhat's the weirdest cause of a tech failure you've ever seen?",
+  "tags": [
+    "first computer bug",
+    "grace hopper",
+    "harvard mark ii",
+    "computer history",
+    "moth in computer",
+    "technology facts",
+    "tech history",
+    "computer facts",
+    "smithsonian",
+    "programming facts",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#technology",
+    "#computer",
+    "#history"
+  ],
+  "sources": [
+    "https://www.si.edu/object/log-book-computer-bug:nmah_334663",
+    "https://webarchive.library.unt.edu/web/20161019154109/http:/www.doncio.navy.mil/CHIPS/ArticleDetails.aspx?ID=5475",
+    "https://daily.jstor.org/the-bug-in-the-computer-bug-story"
+  ],
+  "thumbnail_text": "THE FIRST BUG WAS A MOTH",
+  "priority": 5,
+  "first_comment": "The logbook was rediscovered in 1988 at a Navy computer museum in Virginia before it went to the Smithsonian. Which piece of tech history should we cover next?"
+}
