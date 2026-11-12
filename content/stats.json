@@ -1,23 +1,27 @@
 {
-  "updated_at": "2026-11-12T04:01:13+00:00",
+  "updated_at": "2026-11-12T08:28:40+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 74,
-    "channel_views": 73337,
-    "video_count": 288
+    "channel_views": 74544,
+    "video_count": 289
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/jy8dtKqr5n4"
+      "https://youtube.com/shorts/P0lB-d1EO7s"
     ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/P0lB-d1EO7s"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/P0lB-d1EO7s"
+    ]
   },
   "retention": {
     "videos_with_data": 259,
@@ -67,7 +71,7 @@
       {
         "title": "A Barnacle Turns Male Crabs Into Mothers for Its Own Eggs",
         "avg_view_percent": 11.4,
-        "views": 19
+        "views": 20
       },
       {
         "title": "This Bat Hunts Frogs by Their Love Songs, and Knows Which Are Poison",
@@ -87,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 287,
-  "total_views": 75039,
+  "total_videos": 288,
+  "total_views": 75375,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -97,11 +101,11 @@
     },
     "science": {
       "videos": 23,
-      "avg_views": 251,
+      "avg_views": 252,
       "best_views": 1648
     },
     "animals": {
-      "videos": 207,
+      "videos": 208,
       "avg_views": 267,
       "best_views": 1507
     },
@@ -128,7 +132,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 271,
+      "videos": 272,
       "avg_views": 252,
       "over_1500": 3
     },
@@ -140,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 201,
-      "avg_views": 183
+      "videos": 202,
+      "avg_views": 184
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1814,7 +1818,7 @@
       "hook": "This male crab is raising babies. None of them are his.",
       "published_at": "2026-11-09T21:00:39Z",
       "privacy": "public",
-      "views": 19,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM",
@@ -1954,7 +1958,7 @@
       "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
       "published_at": "2026-11-10T02:50:29Z",
       "privacy": "public",
-      "views": 57,
+      "views": 60,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/J7yZVtMxDvE",
@@ -1982,7 +1986,7 @@
       "hook": "Nothing on Earth moves faster than this ant's jaw.",
       "published_at": "2026-11-10T19:00:23Z",
       "privacy": "public",
-      "views": 71,
+      "views": 80,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE"
@@ -2034,7 +2038,7 @@
       "hook": "The five longest-living cells in your body, ranked. Most of you is under ten years old.",
       "published_at": "2026-11-04T15:30:10Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9PNCyQB-l7I",
@@ -2146,7 +2150,7 @@
       "hook": "This fish eats birds, breathes air, and crawls to the next pond when it's done.",
       "published_at": "2026-11-10T18:00:36Z",
       "privacy": "public",
-      "views": 107,
+      "views": 109,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/IN5A3Mj60ok"
@@ -2310,7 +2314,7 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 104,
+      "views": 119,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg"
@@ -2334,7 +2338,7 @@
       "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
       "published_at": "2026-11-11T00:10:11Z",
       "privacy": "public",
-      "views": 92,
+      "views": 93,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uGfj97UnMNs"
@@ -2358,7 +2362,7 @@
       "hook": "This animal has no anus. Until it needs one.",
       "published_at": "2026-11-11T02:40:17Z",
       "privacy": "public",
-      "views": 65,
+      "views": 67,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mZ8i9ESlQro"
@@ -2602,7 +2606,7 @@
       "hook": "This little songbird keeps a butcher's shop.",
       "published_at": "2026-11-11T15:30:02Z",
       "privacy": "public",
-      "views": 21,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/cId-MnziRv0"
@@ -2682,8 +2686,8 @@
       "hook": "A moray eel bites you twice. The second bite comes from its throat.",
       "published_at": "2026-11-11T18:00:18Z",
       "privacy": "public",
-      "views": 402,
-      "likes": 3,
+      "views": 608,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/f32tutRUWsE"
     },
@@ -2706,7 +2710,7 @@
       "hook": "The deadliest kick in Africa belongs to a bird.",
       "published_at": "2026-11-11T19:00:32Z",
       "privacy": "public",
-      "views": 35,
+      "views": 42,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yuo7BIR-dKs"
@@ -2730,7 +2734,7 @@
       "hook": "This bird hasn't landed since last summer.",
       "published_at": "2026-11-11T18:30:16Z",
       "privacy": "public",
-      "views": 39,
+      "views": 53,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ZDEx6r83js"
@@ -2754,7 +2758,7 @@
       "hook": "This shark kills with its tail, and it never has to bite.",
       "published_at": "2026-11-05T21:00:32Z",
       "privacy": "public",
-      "views": 934,
+      "views": 935,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/EjNKSPQn5ho",
@@ -2838,7 +2842,7 @@
       "hook": "Cut off this animal's oxygen for 18 minutes. It shrugs.",
       "published_at": "2026-11-11T20:00:38Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mW8-ucC_kOM"
@@ -2862,7 +2866,7 @@
       "hook": "This bird earns a quarter of its food by lying.",
       "published_at": "2026-11-12T02:40:09Z",
       "privacy": "public",
-      "views": 10,
+      "views": 36,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/W_H2LBwWG9Y"
@@ -2998,8 +3002,8 @@
       "hook": "This spider eats spiders twice its size. By lying to them.",
       "published_at": "2026-11-12T03:00:15Z",
       "privacy": "public",
-      "views": 5,
-      "likes": 0,
+      "views": 12,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/e3OELFXUd-s"
     },
@@ -3218,7 +3222,7 @@
       "hook": "Five fires that never went out, ranked. Number one was burning before the pyramids were built.",
       "published_at": "2026-11-10T15:30:00Z",
       "privacy": "public",
-      "views": 27,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wd54rwPedR4"
@@ -3434,7 +3438,7 @@
       "hook": "A porcupine has 30,000 quills. One animal found the gap.",
       "published_at": "2026-11-06T12:20:26Z",
       "privacy": "public",
-      "views": 51,
+      "views": 54,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/WDdIFBd2zAk",
@@ -4750,7 +4754,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 1003,
+      "views": 1004,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8",
@@ -5198,7 +5202,7 @@
       "hook": "This snake's fastest move isn't slithering. Not even close.",
       "published_at": "2026-11-08T20:00:33Z",
       "privacy": "public",
-      "views": 962,
+      "views": 963,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA",
@@ -5610,7 +5614,7 @@
       "hook": "A wildfire once spun up a tornado made of fire.",
       "published_at": "2026-10-31T00:10:10Z",
       "privacy": "public",
-      "views": 67,
+      "views": 68,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ",
@@ -5830,8 +5834,8 @@
       "hook": "This dinosaur's blood survived 115 million years.",
       "published_at": "2026-11-10T17:00:04Z",
       "privacy": "public",
-      "views": 117,
-      "likes": 1,
+      "views": 118,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
     },
@@ -5994,7 +5998,7 @@
       "hook": "Something is plucking this spider's web. It isn't dinner. It's the hunter.",
       "published_at": "2026-11-10T21:00:34Z",
       "privacy": "public",
-      "views": 28,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GCFkHUEL_oA"
@@ -6152,11 +6156,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A 14-pound ball of plutonium killed two scientists, one at a time.",
-      "published_at": "2026-11-12T03:50:42Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-12T04:20:20Z",
+      "privacy": "public",
+      "views": 12,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/jy8dtKqr5n4"
     },
     "ATRf5itBVC0": {
@@ -6262,10 +6266,34 @@
       "hook": "An extinct insect was hiding under one bush.",
       "published_at": "2026-11-12T02:15:22Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 4,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/ARZlms2aigY"
+    },
+    "P0lB-d1EO7s": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Viper Swallowed a Centipede. The Centipede Ate Its Way Back Out",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A snake swallowed a centipede. The centipede won.",
+      "published_at": "2026-11-12T08:28:29Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/P0lB-d1EO7s"
     },
     "mmv9b2xQG2A": {
       "upload_status": "processed",
