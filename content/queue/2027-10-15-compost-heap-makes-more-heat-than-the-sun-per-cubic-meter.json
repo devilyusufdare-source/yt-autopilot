@@ -1,0 +1,63 @@
+{
+  "id": "2027-10-15-compost-heap-makes-more-heat-than-the-sun-per-cubic-meter",
+  "format": "fact",
+  "topic": "science",
+  "subject": "sun core",
+  "title": "A Compost Heap Puts Out More Heat Than the Sun, Per Cubic Meter",
+  "scenes": [
+    {
+      "text": "A compost heap makes more heat than the Sun.",
+      "keywords": "sun surface solar flare eruption"
+    },
+    {
+      "text": "Per cubic meter, that is. The Sun's core is 15 million degrees, yet each cubic meter generates only about 276 watts. A steaming compost pile manages about the same.",
+      "keywords": "compost pile steaming"
+    },
+    {
+      "text": "Your body does better. About 100 watts from a body the size of a small suitcase: per cubic meter, around five times the Sun's core.",
+      "keywords": "thermal camera person glowing"
+    },
+    {
+      "text": "Because fusion is almost impossible. A proton in the core bounces around for billions of years before it finally fuses.",
+      "keywords": "atoms colliding animation"
+    },
+    {
+      "text": "The Sun wins on size alone. Its core could hold 10,000 Earths, and all those lazy cubic meters add up to 380 trillion trillion watts.",
+      "keywords": "sun compared to earth size"
+    },
+    {
+      "text": "So the Sun isn't fierce. It is slow, and enormous. That is why it has burned for 4.6 billion years, with 5 billion to go.",
+      "keywords": "sunrise over earth from space"
+    }
+  ],
+  "description": "Per cubic metre, a compost heap releases more heat than the Sun's core.\nThe centre of the Sun is about 15 million degrees Celsius, but fusion there is so rare that the power produced is only about 276 watts per cubic metre, roughly a compost pile or a reptile's metabolism. A resting human body produces about 100 watts from roughly 0.07 cubic metres, several times the Sun's core per unit volume. The Sun's total output, around 3.8 times 10 to the 26 watts, comes from sheer size: its core alone holds more than 10,000 Earths, and the slow burn is why it has lasted 4.6 billion years with about 5 billion more to come.\nDoes a lazy Sun make it more or less impressive to you?",
+  "tags": [
+    "sun core",
+    "nuclear fusion",
+    "sun facts",
+    "compost heap",
+    "watts per cubic meter",
+    "solar core temperature",
+    "how the sun works",
+    "space facts",
+    "physics facts",
+    "science facts",
+    "astronomy facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#sun",
+    "#science",
+    "#physics"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solar_core",
+    "https://www.abc.net.au/science/articles/2012/04/17/3478276.htm",
+    "https://science.nasa.gov/sun/facts/"
+  ],
+  "thumbnail_text": "COMPOST BEATS THE SUN",
+  "priority": 6,
+  "first_comment": "A hydrogen bomb fuses its fuel in a millionth of a second; the Sun takes billions of years to fuse the same atoms. Which is the better design?"
+}
