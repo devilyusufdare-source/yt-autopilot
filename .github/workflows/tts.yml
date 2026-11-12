@@ -54,7 +54,7 @@ jobs:
           RATE: ${{ inputs.rate }}
         run: |
           python - <<'EOF'
-          import asyncio, json, os, pathlib, re
+          import asyncio, json, os, pathlib, re, time
           import edge_tts
 
           job = re.sub(r"[^A-Za-z0-9_-]", "-", os.environ["JOB"])[:60] or "job"
@@ -82,13 +82,14 @@ jobs:
           meta = []
           for i, text in enumerate(lines):
               mp3 = out / f"line{i:02d}.mp3"
-              for attempt in range(3):
+              for attempt in range(6):  # edge-tts sometimes returns no audio for a while: back off and retry
                   try:
                       words = asyncio.run(one(text, mp3))
                       if mp3.stat().st_size > 1000:
                           break
                   except Exception as e:  # noqa: BLE001
                       print(f"line {i} attempt {attempt + 1} failed: {e}")
+                  time.sleep(min(60, 5 * 2 ** attempt))
               else:
                   raise SystemExit(f"no audio for line {i}")
               meta.append({"file": mp3.name, "text": text, "words": words})
