@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-12T20:28:54+00:00",
+  "updated_at": "2026-11-12T21:38:29+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 74,
+    "subscribers": 76,
     "channel_views": 75736,
-    "video_count": 292
+    "video_count": 294
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/BkM61GKu1sc",
-      "https://youtube.com/shorts/Gudmy6a0BMs"
+      "https://youtube.com/shorts/M6t1_zwUDKQ",
+      "https://youtube.com/shorts/5JchxYrXcH0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Gudmy6a0BMs"
+      "https://youtube.com/shorts/5JchxYrXcH0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Gudmy6a0BMs"
+      "https://youtube.com/shorts/5JchxYrXcH0"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 292,
-  "total_views": 76264,
+  "total_videos": 294,
+  "total_views": 76534,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 211,
-      "avg_views": 268,
+      "videos": 213,
+      "avg_views": 266,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 276,
-      "avg_views": 252,
+      "videos": 278,
+      "avg_views": 251,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 206,
-      "avg_views": 185
+      "videos": 208,
+      "avg_views": 184
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -3056,6 +3056,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "M6t1_zwUDKQ": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT32S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Newt Stabs Attackers With Its Own Ribs, Through Its Own Skin",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Grab this newt and it stabs you. With its ribs.",
+      "published_at": "2026-11-12T21:30:07Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/M6t1_zwUDKQ"
+    },
     "KEmiP0u7ZSw": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -3195,6 +3219,30 @@
       "avg_view_percent": 64.0,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "5JchxYrXcH0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Ants Killed 15 Million Crabs on One Island by Spraying Acid",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "One island lost fifteen million crabs. The killers were ants.",
+      "published_at": "2026-11-12T21:38:21Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/5JchxYrXcH0"
     },
     "hUG-q54cj-0": {
       "upload_status": "processed",
@@ -5367,7 +5415,7 @@
       "hook": "These frog eggs know when a snake is eating them.",
       "published_at": "2026-11-09T00:10:35Z",
       "privacy": "public",
-      "views": 997,
+      "views": 998,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/4UE4LUCRyws",
@@ -5619,7 +5667,7 @@
       "hook": "In 2019, thousands of animals crash-landed on the Moon.",
       "published_at": "2026-11-11T12:30:15Z",
       "privacy": "public",
-      "views": 58,
+      "views": 59,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Oyni6mm1Ma8"
@@ -6359,8 +6407,8 @@
       "hook": "One tiger. 436 people. And two broken teeth explain it.",
       "published_at": "2026-11-12T19:20:03Z",
       "privacy": "public",
-      "views": 119,
-      "likes": 3,
+      "views": 368,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/HE8mLoU1rAs"
     },
@@ -6381,22 +6429,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A hawk in New Jersey hunts by traffic light.",
-      "published_at": "2026-11-12T20:26:13Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-12T21:00:39Z",
+      "privacy": "public",
+      "views": 3,
+      "likes": 2,
+      "comments": 1,
       "url": "https://youtube.com/shorts/BkM61GKu1sc"
     },
     "Gudmy6a0BMs": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT43S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -6405,11 +6453,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This animal can be dried out completely and come back.",
-      "published_at": "2026-11-12T20:28:44Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-12T21:20:19Z",
+      "privacy": "public",
+      "views": 12,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Gudmy6a0BMs"
     },
     "mmv9b2xQG2A": {
@@ -6459,7 +6507,7 @@
       "hook": "The five strongest magnets, ranked. One blew its own lab doors off. It isn't number one.",
       "published_at": "2026-11-12T20:00:19Z",
       "privacy": "public",
-      "views": 8,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nhVqYFmtGDA"

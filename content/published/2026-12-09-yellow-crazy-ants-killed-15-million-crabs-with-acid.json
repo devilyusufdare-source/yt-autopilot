@@ -60,5 +60,21 @@
   "thumbnail_text": "15 MILLION CRABS. KILLED BY ANTS",
   "priority": 6,
   "subject": "yellow crazy ant",
-  "first_comment": "The ants never actually eat the crabs alive; they blind them with acid, wait, then feed on the body. Which invasive species has done the most damage where you live?"
+  "first_comment": "The ants never actually eat the crabs alive; they blind them with acid, wait, then feed on the body. Which invasive species has done the most damage where you live?",
+  "youtube_id": "5JchxYrXcH0",
+  "url": "https://youtube.com/shorts/5JchxYrXcH0",
+  "uploaded_at": "2026-11-12T21:38:26+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-12T22:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 34.2,
+  "style": "classic",
+  "kind": "shorts"
 }
