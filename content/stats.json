@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T01:34:47+00:00",
+  "updated_at": "2026-11-12T01:56:36+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -11,17 +11,18 @@
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/W_H2LBwWG9Y",
+      "https://youtube.com/shorts/e3OELFXUd-s",
       "https://youtube.com/shorts/ARZlms2aigY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/W_H2LBwWG9Y"
+      "https://youtube.com/shorts/e3OELFXUd-s"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/W_H2LBwWG9Y"
+      "https://youtube.com/shorts/e3OELFXUd-s"
     ]
   },
   "retention": {
@@ -92,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 285,
-  "total_views": 74883,
+  "total_videos": 286,
+  "total_views": 74910,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 206,
-      "avg_views": 268,
+      "videos": 207,
+      "avg_views": 266,
       "best_views": 1507
     },
     "human body": {
@@ -127,14 +128,14 @@
     },
     "technology": {
       "videos": 6,
-      "avg_views": 77,
+      "avg_views": 78,
       "best_views": 287
     }
   },
   "by_style": {
     "classic": {
-      "videos": 269,
-      "avg_views": 253,
+      "videos": 270,
+      "avg_views": 252,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +146,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 199,
-      "avg_views": 184
+      "videos": 200,
+      "avg_views": 183
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1875,7 +1876,7 @@
       "hook": "A garden songbird that hunts bats.",
       "published_at": "2026-11-10T00:20:27Z",
       "privacy": "public",
-      "views": 43,
+      "views": 44,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/340LMR9p660",
@@ -2315,7 +2316,7 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 89,
+      "views": 97,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg"
@@ -2339,7 +2340,7 @@
       "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
       "published_at": "2026-11-11T00:10:11Z",
       "privacy": "public",
-      "views": 89,
+      "views": 91,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uGfj97UnMNs"
@@ -2363,7 +2364,7 @@
       "hook": "This animal has no anus. Until it needs one.",
       "published_at": "2026-11-11T02:40:17Z",
       "privacy": "public",
-      "views": 62,
+      "views": 63,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mZ8i9ESlQro"
@@ -2687,7 +2688,7 @@
       "hook": "A moray eel bites you twice. The second bite comes from its throat.",
       "published_at": "2026-11-11T18:00:18Z",
       "privacy": "public",
-      "views": 326,
+      "views": 342,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/f32tutRUWsE"
@@ -2711,9 +2712,9 @@
       "hook": "The deadliest kick in Africa belongs to a bird.",
       "published_at": "2026-11-11T19:00:32Z",
       "privacy": "public",
-      "views": 28,
+      "views": 21,
       "likes": 1,
-      "comments": 1,
+      "comments": 0,
       "url": "https://youtube.com/shorts/yuo7BIR-dKs"
     },
     "0ZDEx6r83js": {
@@ -2735,7 +2736,7 @@
       "hook": "This bird hasn't landed since last summer.",
       "published_at": "2026-11-11T18:30:16Z",
       "privacy": "public",
-      "views": 16,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ZDEx6r83js"
@@ -2849,14 +2850,14 @@
       "url": "https://youtube.com/shorts/mW8-ucC_kOM"
     },
     "W_H2LBwWG9Y": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT31S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2983,6 +2984,30 @@
       "avg_view_percent": 78.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "e3OELFXUd-s": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Spider Hunts Spiders Twice Its Size and Plans the Attack",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This spider eats spiders twice its size. By lying to them.",
+      "published_at": "2026-11-12T01:56:28Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/e3OELFXUd-s"
     },
     "LEOMS31AQWM": {
       "upload_status": "processed",
@@ -3335,7 +3360,7 @@
       "hook": "The five tallest roller coasters ever built, ranked. The old champion was demolished with explosives last year.",
       "published_at": "2026-11-11T15:00:10Z",
       "privacy": "public",
-      "views": 20,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Yz3YXH2zvyc"
@@ -5539,7 +5564,7 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 907,
+      "views": 906,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo",
@@ -5567,7 +5592,7 @@
       "hook": "In 2019, thousands of animals crash-landed on the Moon.",
       "published_at": "2026-11-11T12:30:15Z",
       "privacy": "public",
-      "views": 52,
+      "views": 54,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Oyni6mm1Ma8"
@@ -5811,7 +5836,7 @@
       "hook": "This dinosaur's blood survived 115 million years.",
       "published_at": "2026-11-10T17:00:04Z",
       "privacy": "public",
-      "views": 115,
+      "views": 112,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs"
@@ -5975,7 +6000,7 @@
       "hook": "Something is plucking this spider's web. It isn't dinner. It's the hunter.",
       "published_at": "2026-11-10T21:00:34Z",
       "privacy": "public",
-      "views": 26,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GCFkHUEL_oA"
