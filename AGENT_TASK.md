@@ -121,6 +121,16 @@ A what-if is the normal schema plus `"format": "whatif"`. Models: `channels/wild
 
 ## What the numbers say (update this section as stats.json grows)
 
+**12 Nov, What If (channel 2): stop the "…? In 19XX one did" history formula.** Since 8 Nov almost every what-if was a real
+historical event dressed as a what-if ("What If a 77-Ton Space Station Fell on Your Town? In 1979 One Did", "What If 90%
+of a Country's Women Stopped Working for a Day? Iceland Did It in 1975") and the channel collapsed to a median of ~5 views.
+The hits are true hypotheticals about the viewer's own body or the whole planet, answered with physics, in a SHORT title:
+"What If the Earth Were Actually Flat? It Would Last About an Hour" (907), "What If You Fell Into Lava? You Wouldn't Sink,
+and That's the Problem" (564), "What If We Brought an Extinct Animal Back?" (310), "What If an Astronaut Let Go of the
+Ship?" (218), "What If You Fired a Gun in Space?". Write mostly (3 of every 4) pure hypotheticals: "What If You…" / "What If
+the Earth / the Sun / the Moon…", one clear physical consequence chain, title under ~70 characters, no year in the title.
+At most 1 in 4 may be a real-event story, and then only when the event itself is physical and dramatic.
+
 Day 1 (10 videos): the four that broke 1,000 views were all **"the world is weirder than you
 think"** facts — concrete, physical, visual, impossible-sounding: *Wombats poop cubes* (1,160),
 *More trees on Earth than stars in the Milky Way* (1,148), *A day on Venus is longer than its year*
