@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-12T07:41:58+00:00",
+  "updated_at": "2026-11-12T19:19:17+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
-    "channel_views": 15779,
-    "video_count": 80
+    "channel_views": 15808,
+    "video_count": 81
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/tT9xVmnTaBE"
+      "https://youtube.com/shorts/UjmJgcGGgIc",
+      "https://youtube.com/shorts/rhBb6oJbqXE"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/tT9xVmnTaBE"
+      "https://youtube.com/shorts/rhBb6oJbqXE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/tT9xVmnTaBE"
+      "https://youtube.com/shorts/rhBb6oJbqXE"
     ]
   },
   "retention": {
@@ -90,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 81,
-  "total_views": 15799,
+  "total_videos": 83,
+  "total_views": 15829,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -114,8 +115,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 9,
-      "avg_views": 106,
+      "videos": 11,
+      "avg_views": 88,
       "best_views": 498
     },
     "technology": {
@@ -126,15 +127,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 81,
-      "avg_views": 195,
+      "videos": 83,
+      "avg_views": 191,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 80,
-      "avg_views": 184
+      "videos": 82,
+      "avg_views": 180
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1409,14 +1410,14 @@
       "subscribers_gained": 0
     },
     "tT9xVmnTaBE": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT43S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1425,11 +1426,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
-      "published_at": "2026-11-12T07:41:54Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-12T08:10:36Z",
+      "privacy": "public",
+      "views": 12,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE"
     },
     "9VFV9DgN8Kw": {
@@ -1460,6 +1461,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "UjmJgcGGgIc": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT45S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Saw Flashes With Your Eyes Shut? Astronauts Do",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you saw flashes of light with your eyes closed? In space, almost everyone does.",
+      "published_at": "2026-11-12T19:15:42Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/UjmJgcGGgIc"
+    },
     "k18Z1hNkZYU": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -1479,7 +1504,7 @@
       "hook": "What if one snake species took over a whole island? Guam found out, and the forest went silent.",
       "published_at": "2026-11-06T03:10:25Z",
       "privacy": "public",
-      "views": 32,
+      "views": 33,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU",
@@ -1515,6 +1540,30 @@
       "avg_view_percent": 84.4,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "rhBb6oJbqXE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Never Cut Your Nails? Unlike Hair, They Never Stop",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
+      "published_at": "2026-11-12T19:19:12Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/rhBb6oJbqXE"
     },
     "San75yns9OM": {
       "upload_status": "processed",
@@ -1591,7 +1640,7 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 208,
+      "views": 209,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU",
@@ -1843,7 +1892,7 @@
       "hook": "What if every police officer in a city walked out at once? Montreal tried it. Sixteen hours.",
       "published_at": "2026-11-08T21:00:01Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BN6tRrVJNQs",
@@ -1927,7 +1976,7 @@
       "hook": "What if 90 percent of a country's women stopped for a day? Iceland did. Sausages sold out.",
       "published_at": "2026-11-09T02:50:12Z",
       "privacy": "public",
-      "views": 18,
+      "views": 19,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dLKcX2ivoBg",
@@ -1955,7 +2004,7 @@
       "hook": "What if the first creature in orbit was a stray dog? The official story was a lie.",
       "published_at": "2026-11-09T15:00:17Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ic5ympmJQrU"
@@ -1979,7 +2028,7 @@
       "hook": "What if the sky went black at midday, with no eclipse and no storm? In 1780 it happened.",
       "published_at": "2026-11-09T17:50:04Z",
       "privacy": "public",
-      "views": 1,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QrA3jMszKEw"
@@ -2140,7 +2189,7 @@
       "published_at": "2026-11-05T02:50:10Z",
       "privacy": "public",
       "views": 12,
-      "likes": 1,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/wl6AjU6flcg",
       "avg_view_seconds": 15.0,
@@ -2167,7 +2216,7 @@
       "hook": "What if the first atomic bomb had set the air on fire? Its builders had to check.",
       "published_at": "2026-11-10T15:00:21Z",
       "privacy": "public",
-      "views": 5,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VPNJB_3l0us"
@@ -2263,7 +2312,7 @@
       "hook": "What if your country disappeared while you were in space? One cosmonaut found out.",
       "published_at": "2026-11-11T15:00:06Z",
       "privacy": "public",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yjXviWLc2f8"
@@ -2311,7 +2360,7 @@
       "hook": "What if the cockpit window blew out at 17,000 feet? In 1990 the captain went with it.",
       "published_at": "2026-11-12T02:15:35Z",
       "privacy": "public",
-      "views": 1,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RylZwIA6oUA"
