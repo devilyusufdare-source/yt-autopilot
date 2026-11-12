@@ -55,5 +55,21 @@
   ],
   "thumbnail_text": "WHAT IF YOU LIVED UNDERWATER?",
   "priority": 8,
-  "first_comment": "A 2015 study found that crews switched to a normal 24-hour schedule slept just as well on day 51 of a deployment as on day one. Could you handle three months without seeing the sky? And what should we run through next?"
+  "first_comment": "A 2015 study found that crews switched to a normal 24-hour schedule slept just as well on day 51 of a deployment as on day one. Could you handle three months without seeing the sky? And what should we run through next?",
+  "youtube_id": "KSCEzMiaT2o",
+  "url": "https://youtube.com/shorts/KSCEzMiaT2o",
+  "uploaded_at": "2026-11-12T21:00:56+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-12T21:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 16,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FDA4AF",
+  "duration_seconds": 42.8,
+  "style": "classic",
+  "kind": "shorts"
 }

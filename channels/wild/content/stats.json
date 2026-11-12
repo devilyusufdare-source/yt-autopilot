@@ -1,39 +1,38 @@
 {
-  "updated_at": "2026-11-12T19:19:17+00:00",
+  "updated_at": "2026-11-12T21:00:58+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 15808,
-    "video_count": 81
+    "video_count": 83
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/UjmJgcGGgIc",
-      "https://youtube.com/shorts/rhBb6oJbqXE"
+      "https://youtube.com/shorts/KSCEzMiaT2o"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/rhBb6oJbqXE"
+      "https://youtube.com/shorts/KSCEzMiaT2o"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/rhBb6oJbqXE"
+      "https://youtube.com/shorts/KSCEzMiaT2o"
     ]
   },
   "retention": {
-    "videos_with_data": 70,
-    "avg_view_percent": 60.5,
+    "videos_with_data": 73,
+    "avg_view_percent": 61.4,
     "by_topic": {
-      "earth": 60.4,
-      "space": 69.0,
-      "society": 44.6,
-      "animals": 42.9,
-      "body": 60.9,
-      "technology": 65.2
+      "earth": 60.3,
+      "space": 67.6,
+      "society": 43.8,
+      "animals": 51.6,
+      "body": 60.3,
+      "technology": 67.9
     },
     "best": [
       {
@@ -47,6 +46,11 @@
         "views": 218
       },
       {
+        "title": "What If the First Atomic Bomb Had Set the Sky on Fire? Physicists Checked",
+        "avg_view_percent": 100.2,
+        "views": 9
+      },
+      {
         "title": "What If You Could Visit a Neutron Star?",
         "avg_view_percent": 99.5,
         "views": 72
@@ -55,19 +59,9 @@
         "title": "What If All the Ice on Earth Melted?",
         "avg_view_percent": 98.3,
         "views": 436
-      },
-      {
-        "title": "What If a Helicopter Flew on Mars? NASA's Flew 72 Times",
-        "avg_view_percent": 95.1,
-        "views": 3
       }
     ],
     "worst": [
-      {
-        "title": "What If Millions of Spiders Fled a Flood at Once? An Australian Town Woke Up Under Silk",
-        "avg_view_percent": 9.2,
-        "views": 42
-      },
       {
         "title": "What If a Country Lost Its Vultures? India Did. 500,000 People Died",
         "avg_view_percent": 10.5,
@@ -87,12 +81,17 @@
         "title": "What If a Kilometer-Wide Asteroid Hit Earth?",
         "avg_view_percent": 23.6,
         "views": 19
+      },
+      {
+        "title": "What If You Hit a Golf Ball on the Moon? Someone Did in 1971, and Lied About the Distance",
+        "avg_view_percent": 26.8,
+        "views": 9
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 83,
-  "total_views": 15829,
+  "total_videos": 84,
+  "total_views": 15835,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -115,27 +114,27 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 11,
-      "avg_views": 88,
+      "videos": 12,
+      "avg_views": 81,
       "best_views": 498
     },
     "technology": {
       "videos": 10,
-      "avg_views": 158,
+      "avg_views": 159,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 83,
-      "avg_views": 191,
+      "videos": 84,
+      "avg_views": 189,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 82,
-      "avg_views": 180
+      "videos": 83,
+      "avg_views": 178
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -176,7 +175,7 @@
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 1024,
+      "views": 1026,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -504,7 +503,7 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 1024,
+      "views": 1026,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY",
@@ -1013,7 +1012,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 79.8,
+      "avg_view_percent": 79.7,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1180,8 +1179,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
-      "avg_view_seconds": 21.0,
-      "avg_view_percent": 55.7,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 65.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1321,7 +1320,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 63.1,
+      "avg_view_percent": 62.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1428,7 +1427,7 @@
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
       "published_at": "2026-11-12T08:10:36Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE"
@@ -1478,11 +1477,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you saw flashes of light with your eyes closed? In space, almost everyone does.",
-      "published_at": "2026-11-12T19:15:42Z",
-      "privacy": "private",
+      "published_at": "2026-11-12T19:40:30Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/UjmJgcGGgIc"
     },
     "k18Z1hNkZYU": {
@@ -1542,6 +1541,30 @@
       "subscribers_gained": 0
     },
     "rhBb6oJbqXE": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT38S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Never Cut Your Nails? Unlike Hair, They Never Stop",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
+      "published_at": "2026-11-12T20:00:21Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/rhBb6oJbqXE"
+    },
+    "KSCEzMiaT2o": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -1553,17 +1576,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Never Cut Your Nails? Unlike Hair, They Never Stop",
+      "title": "What If You Lived Underwater for Months? Submariners Lose 40% of a Vitamin",
       "topic": "body",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
-      "published_at": "2026-11-12T19:19:12Z",
+      "hook": "What if you lived underwater for months, no sunlight? Submariners do, and their bodies keep score.",
+      "published_at": "2026-11-12T21:00:53Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/rhBb6oJbqXE"
+      "url": "https://youtube.com/shorts/KSCEzMiaT2o"
     },
     "San75yns9OM": {
       "upload_status": "processed",
@@ -1640,7 +1663,7 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 209,
+      "views": 210,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU",
@@ -1672,8 +1695,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ueBtcnj-Buc",
-      "avg_view_seconds": 34.0,
-      "avg_view_percent": 72.8,
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 61.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1784,8 +1807,8 @@
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw",
-      "avg_view_seconds": 19.0,
-      "avg_view_percent": 43.4,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 43.1,
       "shares": 0,
       "subscribers_gained": 2
     },
@@ -1813,7 +1836,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 54.8,
+      "avg_view_percent": 54.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1841,7 +1864,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 29.9,
+      "avg_view_percent": 29.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1980,8 +2003,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dLKcX2ivoBg",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 35.0,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 30.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2056,8 +2079,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A",
-      "avg_view_seconds": 27.0,
-      "avg_view_percent": 57.2,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 53.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2112,8 +2135,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
-      "avg_view_seconds": 4.0,
-      "avg_view_percent": 9.2,
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 54.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2139,7 +2162,11 @@
       "views": 9,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/EnjPbpuGvSU"
+      "url": "https://youtube.com/shorts/EnjPbpuGvSU",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 26.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "UWlaqnyoJ4A": {
       "upload_status": "processed",
@@ -2188,7 +2215,7 @@
       "hook": "What if a meter-long iron bar shot through your head? In 1848 a man sat up and talked.",
       "published_at": "2026-11-05T02:50:10Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/wl6AjU6flcg",
@@ -2216,10 +2243,14 @@
       "hook": "What if the first atomic bomb had set the air on fire? Its builders had to check.",
       "published_at": "2026-11-10T15:00:21Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/VPNJB_3l0us"
+      "url": "https://youtube.com/shorts/VPNJB_3l0us",
+      "avg_view_seconds": 48.0,
+      "avg_view_percent": 100.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "e089IAPM_eM": {
       "upload_status": "processed",
@@ -2243,7 +2274,11 @@
       "views": 1,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/e089IAPM_eM"
+      "url": "https://youtube.com/shorts/e089IAPM_eM",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ShUXEqiH32o": {
       "upload_status": "processed",
@@ -2267,7 +2302,11 @@
       "views": 4,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/ShUXEqiH32o"
+      "url": "https://youtube.com/shorts/ShUXEqiH32o",
+      "avg_view_seconds": 52.0,
+      "avg_view_percent": 93.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "SW-RQyYNOO0": {
       "upload_status": "processed",
