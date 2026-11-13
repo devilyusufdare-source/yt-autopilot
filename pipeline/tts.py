@@ -153,8 +153,9 @@ def _synth_edge(texts: list[str], cfg: Config, workdir: Path, voice: str | None)
         wav = workdir / f"scene{i:02d}.wav"
         # Microsoft's service answers "No audio was received" for a minute or two now and then (seen around
         # 20:30-21:00 UTC three nights running); the same text works a few minutes later. Retry with growing waits
-        # (about 2 minutes in total) before giving up on the scene.
-        waits = (5, 10, 20, 40, 60)
+        # (about 2 minutes in total) before giving up on the scene. 13 Nov: outages now last longer (two runs on
+        # 12-13 Nov lost an idea after 2 min), so the waits go to ~6 minutes in total.
+        waits = (5, 10, 20, 40, 60, 90, 120)
         for attempt in range(len(waits) + 1):
             try:
                 boundaries = asyncio.run(_edge_one(text, voice, rate, mp3))
