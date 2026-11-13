@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-11-13T19:21:49+00:00",
+  "updated_at": "2026-11-13T20:41:36+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 15907,
-    "video_count": 87
+    "video_count": 88
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/W4GbYWh6rmE"
+      "https://youtube.com/shorts/W4W11A9P1d4"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/W4GbYWh6rmE"
+      "https://youtube.com/shorts/W4W11A9P1d4"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/W4GbYWh6rmE"
+      "https://youtube.com/shorts/W4W11A9P1d4"
     ]
   },
   "retention": {
-    "videos_with_data": 73,
-    "avg_view_percent": 61.4,
+    "videos_with_data": 78,
+    "avg_view_percent": 60.2,
     "by_topic": {
       "earth": 60.3,
-      "space": 67.6,
-      "society": 43.8,
-      "animals": 51.6,
-      "body": 60.3,
-      "technology": 67.9
+      "space": 64.0,
+      "society": 46.5,
+      "animals": 50.3,
+      "body": 59.5,
+      "technology": 67.7
     },
     "best": [
       {
@@ -46,11 +46,6 @@
         "views": 218
       },
       {
-        "title": "What If the First Atomic Bomb Had Set the Sky on Fire? Physicists Checked",
-        "avg_view_percent": 100.2,
-        "views": 10
-      },
-      {
         "title": "What If You Could Visit a Neutron Star?",
         "avg_view_percent": 99.5,
         "views": 72
@@ -59,6 +54,11 @@
         "title": "What If All the Ice on Earth Melted?",
         "avg_view_percent": 98.3,
         "views": 436
+      },
+      {
+        "title": "What If a Cockpit Window Blew Out Mid-Flight? In 1990 the Captain Went With It",
+        "avg_view_percent": 96.7,
+        "views": 4
       }
     ],
     "worst": [
@@ -73,30 +73,30 @@
         "views": 7
       },
       {
+        "title": "What If We Sent a Dog Into Orbit? We Did in 1957, and Hid the Truth for 45 Years",
+        "avg_view_percent": 18.2,
+        "views": 5
+      },
+      {
         "title": "What If an Animal Floated in Open Space? Tardigrades Did",
         "avg_view_percent": 18.7,
         "views": 3
       },
       {
-        "title": "What If a Kilometer-Wide Asteroid Hit Earth?",
-        "avg_view_percent": 23.6,
-        "views": 19
-      },
-      {
-        "title": "What If You Hit a Golf Ball on the Moon? Someone Did in 1971, and Lied About the Distance",
-        "avg_view_percent": 26.8,
-        "views": 10
+        "title": "What If a 77-Ton Space Station Fell on Your Town? In 1979 One Did",
+        "avg_view_percent": 23.5,
+        "views": 1
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 88,
-  "total_views": 15966,
+  "total_videos": 89,
+  "total_views": 15984,
   "by_topic": {
     "earth": {
       "videos": 11,
       "avg_views": 411,
-      "best_views": 1123
+      "best_views": 1124
     },
     "space": {
       "videos": 34,
@@ -114,8 +114,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 14,
-      "avg_views": 75,
+      "videos": 15,
+      "avg_views": 71,
       "best_views": 498
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 88,
-      "avg_views": 181,
+      "videos": 89,
+      "avg_views": 180,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 87,
-      "avg_views": 171
+      "videos": 88,
+      "avg_views": 170
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1123,
+      "views": 1124,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -1007,12 +1007,12 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1123,
+      "views": 1124,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 79.7,
+      "avg_view_percent": 79.6,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1427,7 +1427,7 @@
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
       "published_at": "2026-11-12T08:10:36Z",
       "privacy": "public",
-      "views": 30,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE"
@@ -1559,7 +1559,7 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
-      "views": 52,
+      "views": 65,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE"
@@ -1607,7 +1607,7 @@
       "hook": "What if you saw 100 million colours instead of one million? Some women do, and never find out.",
       "published_at": "2026-11-12T22:10:21Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo"
@@ -1745,14 +1745,14 @@
       "subscribers_gained": 0
     },
     "W4GbYWh6rmE": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT42S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1761,11 +1761,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you could see with sound, like a bat? Some blind people do. You could learn.",
-      "published_at": "2026-11-13T19:21:45Z",
-      "privacy": "private",
+      "published_at": "2026-11-13T19:50:38Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/W4GbYWh6rmE"
     },
     "ueBtcnj-Buc": {
@@ -1824,6 +1824,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "W4W11A9P1d4": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Lived at 5,000 Meters in Half the Oxygen? 50,000 People Do",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you lived at 5,000 meters, in half the oxygen? 50,000 people do.",
+      "published_at": "2026-11-13T20:41:33Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/W4W11A9P1d4"
+    },
     "hv6S-MG-epc": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -1848,7 +1872,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/hv6S-MG-epc",
       "avg_view_seconds": 38.0,
-      "avg_view_percent": 85.2,
+      "avg_view_percent": 85.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1875,8 +1899,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 39.8,
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 38.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1932,7 +1956,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 54.6,
+      "avg_view_percent": 54.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2015,8 +2039,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BN6tRrVJNQs",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 29.0,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 45.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2126,7 +2150,11 @@
       "views": 5,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Ic5ympmJQrU"
+      "url": "https://youtube.com/shorts/Ic5ympmJQrU",
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 18.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "QrA3jMszKEw": {
       "upload_status": "processed",
@@ -2150,7 +2178,11 @@
       "views": 7,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/QrA3jMszKEw"
+      "url": "https://youtube.com/shorts/QrA3jMszKEw",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "rlZPxPBV00A": {
       "upload_status": "processed",
@@ -2176,7 +2208,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A",
       "avg_view_seconds": 25.0,
-      "avg_view_percent": 53.5,
+      "avg_view_percent": 53.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2227,12 +2259,12 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 42,
+      "views": 43,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
-      "avg_view_seconds": 26.0,
-      "avg_view_percent": 54.0,
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 57.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2259,8 +2291,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EnjPbpuGvSU",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 26.8,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 27.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2315,8 +2347,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/wl6AjU6flcg",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 30.4,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 24.8,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -2343,8 +2375,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VPNJB_3l0us",
-      "avg_view_seconds": 48.0,
-      "avg_view_percent": 100.2,
+      "avg_view_seconds": 33.0,
+      "avg_view_percent": 70.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2371,8 +2403,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/e089IAPM_eM",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 23.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2399,8 +2431,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ShUXEqiH32o",
-      "avg_view_seconds": 52.0,
-      "avg_view_percent": 93.8,
+      "avg_view_seconds": 41.0,
+      "avg_view_percent": 73.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2426,7 +2458,11 @@
       "views": 19,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/SW-RQyYNOO0"
+      "url": "https://youtube.com/shorts/SW-RQyYNOO0",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 38.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "yjXviWLc2f8": {
       "upload_status": "processed",
@@ -2450,7 +2486,11 @@
       "views": 10,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/yjXviWLc2f8"
+      "url": "https://youtube.com/shorts/yjXviWLc2f8",
+      "avg_view_seconds": 34.0,
+      "avg_view_percent": 68.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "hYWH50rQX_M": {
       "upload_status": "processed",
@@ -2474,7 +2514,11 @@
       "views": 0,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/hYWH50rQX_M"
+      "url": "https://youtube.com/shorts/hYWH50rQX_M",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "RylZwIA6oUA": {
       "upload_status": "processed",
@@ -2498,7 +2542,11 @@
       "views": 4,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/RylZwIA6oUA"
+      "url": "https://youtube.com/shorts/RylZwIA6oUA",
+      "avg_view_seconds": 47.0,
+      "avg_view_percent": 96.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
