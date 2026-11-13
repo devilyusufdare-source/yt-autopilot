@@ -1,0 +1,60 @@
+{
+  "id": "2027-09-07-what-if-you-could-teleport",
+  "format": "whatif",
+  "topic": "technology",
+  "title": "What If You Could Teleport? Sending You Would Take 4.85 Quadrillion Years",
+  "scenes": [
+    {
+      "text": "What if you could teleport? Physics students did the maths. It would be faster to walk.",
+      "keywords": "sci-fi teleportation light beam"
+    },
+    {
+      "text": "To beam you somewhere, a machine has to scan you and send the data. Start with your DNA: about ten billion bits per cell.",
+      "keywords": "dna strand animation"
+    },
+    {
+      "text": "Then your brain, every connection and memory. The total comes to about 2.6 times ten to the 42 bits. That's 2.6 followed by 42 zeros.",
+      "keywords": "brain neurons glowing"
+    },
+    {
+      "text": "Now send it on a 30-gigahertz satellite link, the fastest they assumed. One trip, Earth to orbit.",
+      "keywords": "satellite dish transmitting"
+    },
+    {
+      "text": "Transmission time: 4.85 quadrillion years. About 350,000 times the age of the universe.",
+      "keywords": "galaxy deep space"
+    },
+    {
+      "text": "And what arrives isn't you. It's a copy, built from your file. The original stayed home, and left a while ago on foot.",
+      "keywords": "person walking away road"
+    }
+  ],
+  "description": "What if you could teleport? In 2013 four physics students at the University of Leicester calculated what it would take to transmit a human. The genetic data alone is about ten billion bits per cell, and adding the information in the brain brings the total to roughly 2.6 x 10^42 bits.\nSent over a 30-gigahertz link from Earth's surface to orbit, the transfer would take about 4.85 quadrillion years, around 350,000 times the current age of the universe, and what is rebuilt at the other end would be a copy. The students concluded that walking remains more practical.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "teleportation",
+    "could you teleport",
+    "physics explained",
+    "university of leicester",
+    "data transfer",
+    "star trek science",
+    "technology explained",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#physics",
+    "#technology"
+  ],
+  "sources": [
+    "https://www.nbcnews.com/science/space/trouble-teleportation-it-could-take-quadrillions-years-f6C10817487",
+    "https://www.theregister.com/2013/07/31/beam_me_up_not_if_youre_in_a_hurry/",
+    "https://phys.org/news/2013-07-infinity-teleporting-humans-space.pdf"
+  ],
+  "thumbnail_text": "TELEPORT: 4.85 QUADRILLION YEARS",
+  "priority": 6,
+  "first_comment": "A 2004 US Air Force report reached the same conclusion for 25,000 dollars. The students did it for free. Where would you teleport first? Drop your own what-if below."
+}
