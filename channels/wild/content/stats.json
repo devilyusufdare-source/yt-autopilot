@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-13T20:41:36+00:00",
+  "updated_at": "2026-11-13T21:03:41+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 15907,
-    "video_count": 88
+    "video_count": 89
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/W4W11A9P1d4"
+      "https://youtube.com/shorts/Wvmq2CtLbiw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/W4W11A9P1d4"
+      "https://youtube.com/shorts/Wvmq2CtLbiw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/W4W11A9P1d4"
+      "https://youtube.com/shorts/Wvmq2CtLbiw"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 89,
-  "total_views": 15984,
+  "total_videos": 90,
+  "total_views": 15982,
   "by_topic": {
     "earth": {
       "videos": 11,
@@ -114,8 +114,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 15,
-      "avg_views": 71,
+      "videos": 16,
+      "avg_views": 67,
       "best_views": 498
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 89,
-      "avg_views": 180,
+      "videos": 90,
+      "avg_views": 178,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 88,
-      "avg_views": 170
+      "videos": 89,
+      "avg_views": 168
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1427,7 +1427,7 @@
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
       "published_at": "2026-11-12T08:10:36Z",
       "privacy": "public",
-      "views": 31,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE"
@@ -1607,7 +1607,7 @@
       "hook": "What if you saw 100 million colours instead of one million? Some women do, and never find out.",
       "published_at": "2026-11-12T22:10:21Z",
       "privacy": "public",
-      "views": 2,
+      "views": 0,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo"
@@ -1683,7 +1683,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 13,
+      "views": 10,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU"
@@ -1825,14 +1825,14 @@
       "subscribers_gained": 0
     },
     "W4W11A9P1d4": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT42S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1841,8 +1841,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you lived at 5,000 meters, in half the oxygen? 50,000 people do.",
-      "published_at": "2026-11-13T20:41:33Z",
-      "privacy": "private",
+      "published_at": "2026-11-13T21:00:11Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -1875,6 +1875,30 @@
       "avg_view_percent": 85.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "Wvmq2CtLbiw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Ate Only Carrots? Your Skin Turns Orange, but Not Your Eyes",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
+      "published_at": "2026-11-13T21:03:33Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Wvmq2CtLbiw"
     },
     "N7DiGn8Mexg": {
       "upload_status": "processed",
@@ -2063,7 +2087,7 @@
       "hook": "What if part of a plane's wall blew off mid-flight? In 2024 it did. Two seats saved everyone.",
       "published_at": "2026-11-04T17:20:26Z",
       "privacy": "public",
-      "views": 159,
+      "views": 160,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/61k2NffqMAU",
@@ -2483,7 +2507,7 @@
       "hook": "What if your country disappeared while you were in space? One cosmonaut found out.",
       "published_at": "2026-11-11T15:00:06Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yjXviWLc2f8",
