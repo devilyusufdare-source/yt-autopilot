@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-12T21:39:04+00:00",
+  "updated_at": "2026-11-13T00:27:00+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 15808,
-    "video_count": 84
+    "video_count": 85
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/i_6lwWNqoGo"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/i_6lwWNqoGo"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/i_6lwWNqoGo"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 73,
@@ -85,17 +79,17 @@
       {
         "title": "What If You Hit a Golf Ball on the Moon? Someone Did in 1971, and Lied About the Distance",
         "avg_view_percent": 26.8,
-        "views": 9
+        "views": 10
       }
     ]
   },
   "retention_note": null,
   "total_videos": 85,
-  "total_views": 15836,
+  "total_views": 15851,
   "by_topic": {
     "earth": {
       "videos": 10,
-      "avg_views": 450,
+      "avg_views": 451,
       "best_views": 1122
     },
     "space": {
@@ -115,7 +109,7 @@
     },
     "body": {
       "videos": 13,
-      "avg_views": 75,
+      "avg_views": 76,
       "best_views": 498
     },
     "technology": {
@@ -1427,7 +1421,7 @@
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
       "published_at": "2026-11-12T08:10:36Z",
       "privacy": "public",
-      "views": 13,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE"
@@ -1559,8 +1553,8 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 9,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE"
     },
@@ -1583,20 +1577,20 @@
       "hook": "What if you lived underwater for months, no sunlight? Submariners do, and their bodies keep score.",
       "published_at": "2026-11-12T21:30:36Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KSCEzMiaT2o"
     },
     "i_6lwWNqoGo": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT43S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1605,11 +1599,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you saw 100 million colours instead of one million? Some women do, and never find out.",
-      "published_at": "2026-11-12T21:39:01Z",
-      "privacy": "private",
+      "published_at": "2026-11-12T22:10:21Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo"
     },
     "San75yns9OM": {
@@ -2075,7 +2069,7 @@
       "hook": "What if the sky went black at midday, with no eclipse and no storm? In 1780 it happened.",
       "published_at": "2026-11-09T17:50:04Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QrA3jMszKEw"
@@ -2099,7 +2093,7 @@
       "hook": "What if you ate a polar bear's liver? Your skin could come off in sheets.",
       "published_at": "2026-11-09T21:20:20Z",
       "privacy": "public",
-      "views": 89,
+      "views": 90,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A",
@@ -2183,7 +2177,7 @@
       "hook": "What if you teed off on the Moon? One astronaut did, and lied about the distance.",
       "published_at": "2026-11-10T13:30:29Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EnjPbpuGvSU",
