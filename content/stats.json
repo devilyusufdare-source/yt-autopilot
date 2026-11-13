@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-13T20:15:55+00:00",
+  "updated_at": "2026-11-13T21:15:53+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 78214,
-    "video_count": 302
+    "video_count": 304
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/PCd1xcbsR_8",
-      "https://youtube.com/shorts/dRW4Ed6TQhk"
+      "https://youtube.com/shorts/Qn6xqVn9xDE",
+      "https://youtube.com/shorts/Na0gNeyieh0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/PCd1xcbsR_8"
+      "https://youtube.com/shorts/Na0gNeyieh0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/PCd1xcbsR_8"
+      "https://youtube.com/shorts/Na0gNeyieh0"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 302,
-  "total_views": 78934,
+  "total_videos": 304,
+  "total_views": 79110,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -106,13 +106,13 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 219,
-      "avg_views": 266,
+      "videos": 221,
+      "avg_views": 264,
       "best_views": 1507
     },
     "human body": {
       "videos": 6,
-      "avg_views": 455,
+      "avg_views": 459,
       "best_views": 1384
     },
     "history": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 286,
-      "avg_views": 252,
+      "videos": 288,
+      "avg_views": 251,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 216,
-      "avg_views": 188
+      "videos": 218,
+      "avg_views": 187
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2193,14 +2193,14 @@
       "subscribers_gained": 0
     },
     "PCd1xcbsR_8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2209,11 +2209,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fish defends itself with snot. It beats sharks.",
-      "published_at": "2026-11-13T20:15:23Z",
-      "privacy": "private",
+      "published_at": "2026-11-13T20:40:14Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8"
     },
     "loc-nCkI7hE": {
@@ -2373,8 +2373,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
-      "published_at": "2026-11-13T20:08:54Z",
-      "privacy": "private",
+      "published_at": "2026-11-13T21:00:04Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -2435,6 +2435,30 @@
       "avg_view_percent": 39.6,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "Qn6xqVn9xDE": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT35S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Goose Flies Where Oxygen Is Half, and Its Heart Doesn't Speed Up",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A goose flies where there is half the oxygen. Its heart barely changes.",
+      "published_at": "2026-11-13T21:10:58Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Qn6xqVn9xDE"
     },
     "-C0bQaqNw4g": {
       "upload_status": "processed",
@@ -2959,7 +2983,7 @@
       "hook": "This bird earns a quarter of its food by lying.",
       "published_at": "2026-11-12T02:40:09Z",
       "privacy": "public",
-      "views": 95,
+      "views": 98,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/W_H2LBwWG9Y",
@@ -3367,8 +3391,8 @@
       "hook": "These ants rescue their wounded. And they can tell which wounds are infected.",
       "published_at": "2026-11-13T00:00:17Z",
       "privacy": "public",
-      "views": 633,
-      "likes": 5,
+      "views": 745,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/VNUh1UIq9uU"
     },
@@ -3531,7 +3555,7 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 73,
+      "views": 97,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8"
@@ -3555,7 +3579,7 @@
       "hook": "This pig's teeth are growing straight into its own skull.",
       "published_at": "2026-11-13T02:15:11Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yfeYXBuJ6DU"
@@ -3643,6 +3667,30 @@
       "avg_view_percent": 45.6,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "Na0gNeyieh0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Worm Fires Glue From Its Face, Then Drinks Its Own Weapon",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This worm has two cannons on its face. They fire glue.",
+      "published_at": "2026-11-13T21:15:45Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Na0gNeyieh0"
     },
     "ID8nA8KDcUg": {
       "upload_status": "processed",
@@ -5535,7 +5583,7 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 932,
+      "views": 934,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k",
@@ -5703,7 +5751,7 @@
       "hook": "One group of humans evolved a body part for diving.",
       "published_at": "2026-11-13T03:50:23Z",
       "privacy": "public",
-      "views": 498,
+      "views": 525,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/XNfgm85JO5g"
@@ -6647,7 +6695,7 @@
       "hook": "One tiger. 436 people. And two broken teeth explain it.",
       "published_at": "2026-11-12T19:20:03Z",
       "privacy": "public",
-      "views": 613,
+      "views": 614,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HE8mLoU1rAs"
@@ -6671,7 +6719,7 @@
       "hook": "A hawk in New Jersey hunts by traffic light.",
       "published_at": "2026-11-12T21:00:39Z",
       "privacy": "public",
-      "views": 126,
+      "views": 128,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BkM61GKu1sc"
@@ -6695,7 +6743,7 @@
       "hook": "This animal can be dried out completely and come back.",
       "published_at": "2026-11-12T21:20:19Z",
       "privacy": "public",
-      "views": 226,
+      "views": 230,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gudmy6a0BMs"

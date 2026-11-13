@@ -56,5 +56,21 @@
   ],
   "thumbnail_text": "A GOOSE FLIES HALF-OXYGEN AIR",
   "priority": 6,
-  "first_comment": "Wind-tunnel tests simulated up to about 9,000 meters. Which migration should we cover next?"
+  "first_comment": "Wind-tunnel tests simulated up to about 9,000 meters. Which migration should we cover next?",
+  "youtube_id": "Qn6xqVn9xDE",
+  "url": "https://youtube.com/shorts/Qn6xqVn9xDE",
+  "uploaded_at": "2026-11-13T21:11:05+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-13T21:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 34.5,
+  "style": "classic",
+  "kind": "shorts"
 }
