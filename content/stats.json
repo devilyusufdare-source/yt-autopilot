@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-13T01:38:16+00:00",
+  "updated_at": "2026-11-13T03:27:49+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 75736,
-    "video_count": 298
+    "video_count": 299
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/yfeYXBuJ6DU"
+      "https://youtube.com/shorts/XNfgm85JO5g"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/yfeYXBuJ6DU"
+      "https://youtube.com/shorts/XNfgm85JO5g"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/yfeYXBuJ6DU"
+      "https://youtube.com/shorts/XNfgm85JO5g"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 297,
-  "total_views": 77433,
+  "total_videos": 298,
+  "total_views": 77556,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -101,7 +101,7 @@
     },
     "science": {
       "videos": 24,
-      "avg_views": 257,
+      "avg_views": 258,
       "best_views": 1648
     },
     "animals": {
@@ -110,8 +110,8 @@
       "best_views": 1507
     },
     "human body": {
-      "videos": 5,
-      "avg_views": 446,
+      "videos": 6,
+      "avg_views": 372,
       "best_views": 1384
     },
     "history": {
@@ -132,7 +132,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 281,
+      "videos": 282,
       "avg_views": 251,
       "over_1500": 3
     },
@@ -144,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 211,
-      "avg_views": 186
+      "videos": 212,
+      "avg_views": 185
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1790,7 +1790,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 353,
+      "views": 354,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY",
@@ -2378,7 +2378,7 @@
       "hook": "This animal has no anus. Until it needs one.",
       "published_at": "2026-11-11T02:40:17Z",
       "privacy": "public",
-      "views": 68,
+      "views": 69,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mZ8i9ESlQro",
@@ -2570,7 +2570,7 @@
       "hook": "This mother fish is guarding her babies' killers.",
       "published_at": "2026-11-05T20:00:39Z",
       "privacy": "public",
-      "views": 127,
+      "views": 128,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI",
@@ -3432,14 +3432,14 @@
       "subscribers_gained": 1
     },
     "yfeYXBuJ6DU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT39S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3448,11 +3448,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This pig's teeth are growing straight into its own skull.",
-      "published_at": "2026-11-13T01:38:07Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-13T02:15:11Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/yfeYXBuJ6DU"
     },
     "rTs49HonaXo": {
@@ -4898,7 +4898,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 1012,
+      "views": 1013,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8",
@@ -5551,6 +5551,30 @@
       "shares": 0,
       "subscribers_gained": 1
     },
+    "XNfgm85JO5g": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "These People Evolved a Bigger Organ So They Could Hunt Underwater",
+      "topic": "human body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "One group of humans evolved a body part for diving.",
+      "published_at": "2026-11-13T03:27:41Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/XNfgm85JO5g"
+    },
     "k1T79ufoaX8": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -5738,7 +5762,7 @@
       "hook": "In 2019, thousands of animals crash-landed on the Moon.",
       "published_at": "2026-11-11T12:30:15Z",
       "privacy": "public",
-      "views": 59,
+      "views": 60,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Oyni6mm1Ma8"
@@ -5790,7 +5814,7 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 331,
+      "views": 333,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48",
@@ -5902,7 +5926,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 431,
+      "views": 432,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -6478,7 +6502,7 @@
       "hook": "One tiger. 436 people. And two broken teeth explain it.",
       "published_at": "2026-11-12T19:20:03Z",
       "privacy": "public",
-      "views": 575,
+      "views": 600,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HE8mLoU1rAs"
@@ -6502,7 +6526,7 @@
       "hook": "A hawk in New Jersey hunts by traffic light.",
       "published_at": "2026-11-12T21:00:39Z",
       "privacy": "public",
-      "views": 105,
+      "views": 123,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BkM61GKu1sc"
@@ -6526,8 +6550,8 @@
       "hook": "This animal can be dried out completely and come back.",
       "published_at": "2026-11-12T21:20:19Z",
       "privacy": "public",
-      "views": 147,
-      "likes": 4,
+      "views": 194,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gudmy6a0BMs"
     },
@@ -6578,7 +6602,7 @@
       "hook": "The five strongest magnets, ranked. One blew its own lab doors off. It isn't number one.",
       "published_at": "2026-11-12T20:00:19Z",
       "privacy": "public",
-      "views": 373,
+      "views": 396,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/nhVqYFmtGDA"

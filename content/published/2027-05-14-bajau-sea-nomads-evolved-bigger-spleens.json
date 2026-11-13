@@ -59,5 +59,22 @@
   ],
   "thumbnail_text": "HUMANS WHO EVOLVED TO DIVE",
   "priority": 6,
-  "first_comment": "The only animals that spend a similar share of their day diving are sea otters. What other human superpower should we look at next?"
+  "first_comment": "The only animals that spend a similar share of their day diving are sea otters. What other human superpower should we look at next?",
+  "youtube_id": "XNfgm85JO5g",
+  "url": "https://youtube.com/shorts/XNfgm85JO5g",
+  "uploaded_at": "2026-11-13T03:27:46+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-13T03:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 10,
+    "pixabay-photo": 2,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FDA4AF",
+  "duration_seconds": 32.0,
+  "style": "classic",
+  "kind": "shorts"
 }
