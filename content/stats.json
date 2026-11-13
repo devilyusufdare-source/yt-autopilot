@@ -1,17 +1,15 @@
 {
-  "updated_at": "2026-11-12T23:28:57+00:00",
+  "updated_at": "2026-11-13T00:11:25+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 76,
     "channel_views": 75736,
-    "video_count": 297
+    "video_count": 298
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/VNUh1UIq9uU"
-    ],
+    "not_public": [],
     "made_for_kids": [],
     "not_processed": [],
     "rejected": [],
@@ -88,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 296,
-  "total_views": 77129,
+  "total_views": 77259,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -102,7 +100,7 @@
     },
     "animals": {
       "videos": 215,
-      "avg_views": 265,
+      "avg_views": 266,
       "best_views": 1507
     },
     "human body": {
@@ -129,7 +127,7 @@
   "by_style": {
     "classic": {
       "videos": 280,
-      "avg_views": 251,
+      "avg_views": 252,
       "over_1500": 3
     },
     "punch": {
@@ -141,7 +139,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 210,
-      "avg_views": 185
+      "avg_views": 186
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -946,7 +944,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 48,
+      "views": 50,
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
@@ -1787,7 +1785,7 @@
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
       "views": 352,
-      "likes": 6,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY",
       "avg_view_seconds": 20.0,
@@ -1814,7 +1812,7 @@
       "hook": "This male crab is raising babies. None of them are his.",
       "published_at": "2026-11-09T21:00:39Z",
       "privacy": "public",
-      "views": 22,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM",
@@ -1926,7 +1924,7 @@
       "hook": "The deadliest cat on Earth fits in your two hands.",
       "published_at": "2026-11-04T21:00:20Z",
       "privacy": "public",
-      "views": 168,
+      "views": 169,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tc8k-oMf4pI",
@@ -1982,7 +1980,7 @@
       "hook": "Nothing on Earth moves faster than this ant's jaw.",
       "published_at": "2026-11-10T19:00:23Z",
       "privacy": "public",
-      "views": 84,
+      "views": 85,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE",
@@ -2150,7 +2148,7 @@
       "hook": "This fish eats birds, breathes air, and crawls to the next pond when it's done.",
       "published_at": "2026-11-10T18:00:36Z",
       "privacy": "public",
-      "views": 113,
+      "views": 115,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/IN5A3Mj60ok",
@@ -2882,7 +2880,7 @@
       "hook": "This bird earns a quarter of its food by lying.",
       "published_at": "2026-11-12T02:40:09Z",
       "privacy": "public",
-      "views": 85,
+      "views": 86,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/W_H2LBwWG9Y"
@@ -3070,7 +3068,7 @@
       "hook": "Grab this newt and it stabs you. With its ribs.",
       "published_at": "2026-11-12T22:00:26Z",
       "privacy": "public",
-      "views": 26,
+      "views": 43,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M6t1_zwUDKQ"
@@ -3122,7 +3120,7 @@
       "hook": "This moth flies 600 miles by the stars. To a place it has never seen.",
       "published_at": "2026-11-12T22:40:20Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pR8dGt6tbJo"
@@ -3258,7 +3256,7 @@
       "hook": "One island lost fifteen million crabs. The killers were ants.",
       "published_at": "2026-11-12T22:20:12Z",
       "privacy": "public",
-      "views": 1,
+      "views": 0,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5JchxYrXcH0"
@@ -3280,11 +3278,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "These ants rescue their wounded. And they can tell which wounds are infected.",
-      "published_at": "2026-11-12T22:45:36Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-13T00:00:17Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/VNUh1UIq9uU"
     },
     "hUG-q54cj-0": {
@@ -5682,7 +5680,7 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 907,
+      "views": 908,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo",
@@ -5710,7 +5708,7 @@
       "hook": "In 2019, thousands of animals crash-landed on the Moon.",
       "published_at": "2026-11-11T12:30:15Z",
       "privacy": "public",
-      "views": 58,
+      "views": 59,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Oyni6mm1Ma8"
@@ -5874,7 +5872,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 429,
+      "views": 431,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -5902,7 +5900,7 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 453,
+      "views": 455,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo",
@@ -6450,8 +6448,8 @@
       "hook": "One tiger. 436 people. And two broken teeth explain it.",
       "published_at": "2026-11-12T19:20:03Z",
       "privacy": "public",
-      "views": 465,
-      "likes": 5,
+      "views": 498,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/HE8mLoU1rAs"
     },
@@ -6474,8 +6472,8 @@
       "hook": "A hawk in New Jersey hunts by traffic light.",
       "published_at": "2026-11-12T21:00:39Z",
       "privacy": "public",
-      "views": 86,
-      "likes": 3,
+      "views": 105,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BkM61GKu1sc"
     },
@@ -6498,7 +6496,7 @@
       "hook": "This animal can be dried out completely and come back.",
       "published_at": "2026-11-12T21:20:19Z",
       "privacy": "public",
-      "views": 117,
+      "views": 144,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gudmy6a0BMs"
@@ -6550,7 +6548,7 @@
       "hook": "The five strongest magnets, ranked. One blew its own lab doors off. It isn't number one.",
       "published_at": "2026-11-12T20:00:19Z",
       "privacy": "public",
-      "views": 293,
+      "views": 306,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/nhVqYFmtGDA"
@@ -6910,7 +6908,7 @@
       "hook": "A man o' war isn't a jellyfish. It isn't even one animal.",
       "published_at": "2026-10-25T13:40:03Z",
       "privacy": "public",
-      "views": 108,
+      "views": 109,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM",
