@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T00:27:00+00:00",
+  "updated_at": "2026-11-13T04:04:55+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -42,7 +42,7 @@
       {
         "title": "What If the First Atomic Bomb Had Set the Sky on Fire? Physicists Checked",
         "avg_view_percent": 100.2,
-        "views": 9
+        "views": 10
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
@@ -85,7 +85,7 @@
   },
   "retention_note": null,
   "total_videos": 85,
-  "total_views": 15851,
+  "total_views": 15870,
   "by_topic": {
     "earth": {
       "videos": 10,
@@ -109,7 +109,7 @@
     },
     "body": {
       "videos": 13,
-      "avg_views": 76,
+      "avg_views": 77,
       "best_views": 498
     },
     "technology": {
@@ -121,7 +121,7 @@
   "by_style": {
     "classic": {
       "videos": 85,
-      "avg_views": 186,
+      "avg_views": 187,
       "over_1500": 0
     }
   },
@@ -1421,7 +1421,7 @@
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
       "published_at": "2026-11-12T08:10:36Z",
       "privacy": "public",
-      "views": 16,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE"
@@ -1553,8 +1553,8 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
-      "views": 9,
-      "likes": 1,
+      "views": 19,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE"
     },
@@ -1577,7 +1577,7 @@
       "hook": "What if you lived underwater for months, no sunlight? Submariners do, and their bodies keep score.",
       "published_at": "2026-11-12T21:30:36Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KSCEzMiaT2o"
@@ -2261,7 +2261,7 @@
       "hook": "What if the first atomic bomb had set the air on fire? Its builders had to check.",
       "published_at": "2026-11-10T15:00:21Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VPNJB_3l0us",
