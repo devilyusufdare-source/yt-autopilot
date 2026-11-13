@@ -1,42 +1,32 @@
-run failed at 2026-11-12T21:38:31+00:00 UTC (error lines and last 25 lines, secrets removed)
+run failed at 2026-11-13T01:38:16+00:00 UTC (error lines and last 25 lines, secrets removed)
 
 earlier error lines:
-[tts] edge-tts scene 5 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 5 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
 [tts] edge-tts scene 0 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 0 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
-[tts] edge-tts scene 1 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 2 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 3 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 4 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 4 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
-[tts] edge-tts scene 4 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
-[tts] edge-tts scene 4 attempt 4 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 40 s
-[tts] edge-tts scene 5 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
 
 last 25 lines:
-[tts] edge-tts scene 5 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
-[tts] edge-tts scene 5 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
-[tts] edge-tts scene 5 attempt 4 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 40 s
-[tts] edge-tts scene 5 attempt 5 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 60 s
+[tts] edge-tts scene 0 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 0 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
+[tts] edge-tts scene 0 attempt 4 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 40 s
+[tts] edge-tts scene 0 attempt 5 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 60 s
 [run] render failed; trying the next idea so this run still publishes a video
 
-[run] (3/3) 2026-12-09-yellow-crazy-ants-killed-15-million-crabs-with-acid.json  title: Ants Killed 15 Million Crabs on One Island by Spraying Acid
+[run] (2/2) 2026-12-16-babirusa-tusks-grow-into-its-own-skull.json  title: This Pig's Tusks Grow Through Its Face and Can Pierce Its Own Skull
 [run] style: classic
 [run] voice: 7 scenes (en-US-AndrewNeural)
 [tts] edge-tts scene 3 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 4 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 4 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
-[tts] edge-tts scene 5 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 5 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 3 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 3 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
 [run] visuals: pixabay
-[run] footage focus: ['ants swarming']
-[visuals] first clip candidate pxb133337: motion 1.2, brightness 76
+[run] footage focus: ['babirusa']
 [run] rendering final video
-[run] rendered 2026-12-09-yellow-crazy-ants-killed-15-million-crabs-with-acid.mp4 (34.2s, voice=edge)
-[upload] 36%
-[upload] 73%
-[run] uploaded: https://youtube.com/shorts/5JchxYrXcH0  (goes public at 2026-11-12T22:20:00Z)
-[run] stats refreshed: 294 videos, 76534 views total
+[run] rendered 2026-12-16-babirusa-tusks-grow-into-its-own-skull.mp4 (38.1s, voice=edge)
+[run] waiting 29.0 min for a free upload slot (YouTube 24 h limit)
+[upload] 23%
+[upload] 47%
+[upload] 70%
+[upload] 94%
+[run] uploaded: https://youtube.com/shorts/yfeYXBuJ6DU  (goes public at 2026-11-13T02:15:00Z)
+[run] stats refreshed: 297 videos, 77433 views total
 
-[run] finished: 2 video(s) done, 1 failed
+[run] finished: 1 video(s) done, 1 failed

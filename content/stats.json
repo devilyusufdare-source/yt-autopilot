@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-11-13T00:11:25+00:00",
+  "updated_at": "2026-11-13T01:38:16+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 76,
+    "subscribers": 77,
     "channel_views": 75736,
     "video_count": 298
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/yfeYXBuJ6DU"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/yfeYXBuJ6DU"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/yfeYXBuJ6DU"
+    ]
   },
   "retention": {
     "videos_with_data": 271,
@@ -85,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 296,
-  "total_views": 77259,
+  "total_videos": 297,
+  "total_views": 77433,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -95,12 +101,12 @@
     },
     "science": {
       "videos": 24,
-      "avg_views": 254,
+      "avg_views": 257,
       "best_views": 1648
     },
     "animals": {
-      "videos": 215,
-      "avg_views": 266,
+      "videos": 216,
+      "avg_views": 265,
       "best_views": 1507
     },
     "human body": {
@@ -126,8 +132,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 280,
-      "avg_views": 252,
+      "videos": 281,
+      "avg_views": 251,
       "over_1500": 3
     },
     "punch": {
@@ -138,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 210,
+      "videos": 211,
       "avg_views": 186
     },
     "en-US-BrianNeural": {
@@ -1784,7 +1790,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 352,
+      "views": 353,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY",
@@ -2232,7 +2238,7 @@
       "hook": "This spider somersaults straight into his mate's fangs. On purpose.",
       "published_at": "2026-11-05T00:20:01Z",
       "privacy": "public",
-      "views": 395,
+      "views": 396,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4",
@@ -2880,7 +2886,7 @@
       "hook": "This bird earns a quarter of its food by lying.",
       "published_at": "2026-11-12T02:40:09Z",
       "privacy": "public",
-      "views": 86,
+      "views": 87,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/W_H2LBwWG9Y"
@@ -3068,8 +3074,8 @@
       "hook": "Grab this newt and it stabs you. With its ribs.",
       "published_at": "2026-11-12T22:00:26Z",
       "privacy": "public",
-      "views": 43,
-      "likes": 1,
+      "views": 60,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/M6t1_zwUDKQ"
     },
@@ -3256,7 +3262,7 @@
       "hook": "One island lost fifteen million crabs. The killers were ants.",
       "published_at": "2026-11-12T22:20:12Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5JchxYrXcH0"
@@ -3280,7 +3286,7 @@
       "hook": "These ants rescue their wounded. And they can tell which wounds are infected.",
       "published_at": "2026-11-13T00:00:17Z",
       "privacy": "public",
-      "views": 4,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VNUh1UIq9uU"
@@ -3424,6 +3430,30 @@
       "avg_view_percent": 51.8,
       "shares": 0,
       "subscribers_gained": 1
+    },
+    "yfeYXBuJ6DU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Pig's Tusks Grow Through Its Face and Can Pierce Its Own Skull",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This pig's teeth are growing straight into its own skull.",
+      "published_at": "2026-11-13T01:38:07Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/yfeYXBuJ6DU"
     },
     "rTs49HonaXo": {
       "upload_status": "processed",
@@ -5176,7 +5206,7 @@
       "hook": "A male bee tries to mate with this lump.",
       "published_at": "2026-11-08T16:50:16Z",
       "privacy": "public",
-      "views": 459,
+      "views": 460,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg",
@@ -5761,7 +5791,7 @@
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
       "views": 331,
-      "likes": 2,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48",
       "avg_view_seconds": 17.0,
@@ -5844,7 +5874,7 @@
       "hook": "That perfect round hole in a seashell isn't an accident. Something drilled it.",
       "published_at": "2026-11-09T18:00:06Z",
       "privacy": "public",
-      "views": 991,
+      "views": 992,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/axMrOJmzu9k",
@@ -6448,8 +6478,8 @@
       "hook": "One tiger. 436 people. And two broken teeth explain it.",
       "published_at": "2026-11-12T19:20:03Z",
       "privacy": "public",
-      "views": 498,
-      "likes": 4,
+      "views": 575,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HE8mLoU1rAs"
     },
@@ -6496,7 +6526,7 @@
       "hook": "This animal can be dried out completely and come back.",
       "published_at": "2026-11-12T21:20:19Z",
       "privacy": "public",
-      "views": 144,
+      "views": 147,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gudmy6a0BMs"
@@ -6548,8 +6578,8 @@
       "hook": "The five strongest magnets, ranked. One blew its own lab doors off. It isn't number one.",
       "published_at": "2026-11-12T20:00:19Z",
       "privacy": "public",
-      "views": 306,
-      "likes": 4,
+      "views": 373,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/nhVqYFmtGDA"
     },
