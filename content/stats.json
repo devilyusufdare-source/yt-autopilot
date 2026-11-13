@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-13T21:40:01+00:00",
+  "updated_at": "2026-11-13T22:45:30+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 78214,
-    "video_count": 305
+    "video_count": 307
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/a2dldNOvxTA",
-      "https://youtube.com/shorts/Na0gNeyieh0"
+      "https://youtube.com/shorts/F1JAmyNwUtk",
+      "https://youtube.com/shorts/6vhduTC_Ms0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/a2dldNOvxTA"
+      "https://youtube.com/shorts/6vhduTC_Ms0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/a2dldNOvxTA"
+      "https://youtube.com/shorts/6vhduTC_Ms0"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 305,
-  "total_views": 79139,
+  "total_videos": 307,
+  "total_views": 79310,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 222,
-      "avg_views": 263,
+      "videos": 224,
+      "avg_views": 261,
       "best_views": 1507
     },
     "human body": {
@@ -133,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 289,
-      "avg_views": 250,
+      "videos": 291,
+      "avg_views": 249,
       "over_1500": 3
     },
     "punch": {
@@ -145,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 219,
-      "avg_views": 187
+      "videos": 221,
+      "avg_views": 186
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2329,14 +2329,14 @@
       "subscribers_gained": 11
     },
     "a2dldNOvxTA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT30S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2345,11 +2345,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This turtle has a fishing lure growing inside its mouth.",
-      "published_at": "2026-11-13T21:39:51Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-13T22:30:16Z",
+      "privacy": "public",
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/a2dldNOvxTA"
     },
     "TgGGPT0hFpg": {
@@ -2399,8 +2399,8 @@
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
       "published_at": "2026-11-13T21:00:04Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 8,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/dRW4Ed6TQhk"
     },
@@ -3415,7 +3415,7 @@
       "hook": "These ants rescue their wounded. And they can tell which wounds are infected.",
       "published_at": "2026-11-13T00:00:17Z",
       "privacy": "public",
-      "views": 791,
+      "views": 927,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/VNUh1UIq9uU"
@@ -3579,7 +3579,7 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 78,
+      "views": 100,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8"
@@ -3603,7 +3603,7 @@
       "hook": "This pig's teeth are growing straight into its own skull.",
       "published_at": "2026-11-13T02:15:11Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yfeYXBuJ6DU"
@@ -3655,7 +3655,7 @@
       "hook": "The five tallest roller coasters ever built, ranked. The old champion was demolished with explosives last year.",
       "published_at": "2026-11-11T15:00:10Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Yz3YXH2zvyc",
@@ -3709,12 +3709,60 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This worm has two cannons on its face. They fire glue.",
-      "published_at": "2026-11-13T21:15:45Z",
-      "privacy": "private",
+      "published_at": "2026-11-13T22:00:24Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/Na0gNeyieh0"
+    },
+    "F1JAmyNwUtk": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT36S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Spider Spins No Web. It Fakes Perfume and Swings a Glue Ball",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This spider catches moths without a web. It lies to them.",
+      "published_at": "2026-11-13T22:40:10Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/F1JAmyNwUtk"
+    },
+    "6vhduTC_Ms0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Venomous Shrew Paralyzes Its Prey and Keeps It Alive for 15 Days",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This mouse-sized mammal is venomous. And it keeps a living pantry.",
+      "published_at": "2026-11-13T22:45:20Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/6vhduTC_Ms0"
     },
     "ID8nA8KDcUg": {
       "upload_status": "processed",
@@ -5103,7 +5151,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 1015,
+      "views": 1016,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8",

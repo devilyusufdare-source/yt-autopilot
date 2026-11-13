@@ -57,5 +57,22 @@
   ],
   "thumbnail_text": "ITS PANTRY IS STILL ALIVE",
   "priority": 6,
-  "first_comment": "Its eyes are the size of poppy seeds and barely work, so it finds prey partly by echolocation, like a very bad bat. Which venomous animal should we cover next?"
+  "first_comment": "Its eyes are the size of poppy seeds and barely work, so it finds prey partly by echolocation, like a very bad bat. Which venomous animal should we cover next?",
+  "youtube_id": "6vhduTC_Ms0",
+  "url": "https://youtube.com/shorts/6vhduTC_Ms0",
+  "uploaded_at": "2026-11-13T22:45:26+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-13T23:10:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "pixabay-photo": 1,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 38.3,
+  "style": "classic",
+  "kind": "shorts"
 }
