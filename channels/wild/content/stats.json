@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T04:04:55+00:00",
+  "updated_at": "2026-11-13T07:12:51+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,13 +9,19 @@
     "video_count": 85
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/kY4T69sD7NE"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/kY4T69sD7NE"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/kY4T69sD7NE"
+    ]
   },
   "retention": {
     "videos_with_data": 73,
@@ -84,12 +90,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 85,
-  "total_views": 15870,
+  "total_videos": 86,
+  "total_views": 15879,
   "by_topic": {
     "earth": {
       "videos": 10,
-      "avg_views": 451,
+      "avg_views": 450,
       "best_views": 1122
     },
     "space": {
@@ -109,26 +115,26 @@
     },
     "body": {
       "videos": 13,
-      "avg_views": 77,
+      "avg_views": 78,
       "best_views": 498
     },
     "technology": {
-      "videos": 10,
-      "avg_views": 159,
+      "videos": 11,
+      "avg_views": 144,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 85,
-      "avg_views": 187,
+      "videos": 86,
+      "avg_views": 185,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 84,
-      "avg_views": 176
+      "videos": 85,
+      "avg_views": 175
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -175,7 +181,7 @@
     {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
-      "views": 907,
+      "views": 906,
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
     },
     {
@@ -1421,7 +1427,7 @@
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
       "published_at": "2026-11-12T08:10:36Z",
       "privacy": "public",
-      "views": 22,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE"
@@ -1553,7 +1559,7 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
-      "views": 19,
+      "views": 26,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE"
@@ -1577,7 +1583,7 @@
       "hook": "What if you lived underwater for months, no sunlight? Submariners do, and their bodies keep score.",
       "published_at": "2026-11-12T21:30:36Z",
       "privacy": "public",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KSCEzMiaT2o"
@@ -1605,6 +1611,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo"
+    },
+    "kY4T69sD7NE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Were Frozen After Death? About 200 People Are Waiting in Arizona",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you were frozen after death, to be woken later? About 200 people already are, in Arizona.",
+      "published_at": "2026-11-13T07:12:48Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/kY4T69sD7NE"
     },
     "San75yns9OM": {
       "upload_status": "processed",
@@ -1821,7 +1851,7 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 907,
+      "views": 906,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw",

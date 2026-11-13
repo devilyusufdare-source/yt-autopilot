@@ -55,5 +55,21 @@
   ],
   "thumbnail_text": "WHAT IF YOU WERE FROZEN?",
   "priority": 8,
-  "first_comment": "Many scientists call it pseudoscience; one neuroscientist said the brain is far too complex for the process to work. Would you sign up? And what should we run through next?"
+  "first_comment": "Many scientists call it pseudoscience; one neuroscientist said the brain is far too complex for the process to work. Would you sign up? And what should we run through next?",
+  "youtube_id": "kY4T69sD7NE",
+  "url": "https://youtube.com/shorts/kY4T69sD7NE",
+  "uploaded_at": "2026-11-13T07:12:51+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-13T07:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 44.6,
+  "style": "classic",
+  "kind": "shorts"
 }
