@@ -56,5 +56,21 @@
   ],
   "thumbnail_text": "A SNAIL DRUGS FISH WITH INSULIN",
   "priority": 7,
-  "first_comment": "Which slow animal is secretly the deadliest? Tell us and we will cover it."
+  "first_comment": "Which slow animal is secretly the deadliest? Tell us and we will cover it.",
+  "youtube_id": "dRW4Ed6TQhk",
+  "url": "https://youtube.com/shorts/dRW4Ed6TQhk",
+  "uploaded_at": "2026-11-13T20:08:59+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-13T21:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 33.0,
+  "style": "classic",
+  "kind": "shorts"
 }

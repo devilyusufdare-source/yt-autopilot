@@ -1,39 +1,40 @@
 {
-  "updated_at": "2026-11-13T18:40:53+00:00",
+  "updated_at": "2026-11-13T20:15:55+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 78214,
-    "video_count": 301
+    "video_count": 302
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/9sM-TH-q2JU"
+      "https://youtube.com/shorts/PCd1xcbsR_8",
+      "https://youtube.com/shorts/dRW4Ed6TQhk"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/9sM-TH-q2JU"
+      "https://youtube.com/shorts/PCd1xcbsR_8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/9sM-TH-q2JU"
+      "https://youtube.com/shorts/PCd1xcbsR_8"
     ]
   },
   "retention": {
-    "videos_with_data": 271,
+    "videos_with_data": 282,
     "avg_view_percent": 58.6,
     "by_topic": {
-      "psychology": 70.3,
-      "science": 65.3,
-      "animals": 55.7,
-      "human body": 80.9,
+      "psychology": 66.2,
+      "science": 63.6,
+      "animals": 55.6,
+      "human body": 102.9,
       "history": 66.1,
-      "space": 64.4,
-      "technology": 62.0
+      "space": 64.1,
+      "technology": 60.0
     },
     "best": [
       {
@@ -52,14 +53,14 @@
         "views": 33
       },
       {
+        "title": "The 5 Longest-Living Cells in Your Body, Ranked (#1 Is as Old as You)",
+        "avg_view_percent": 168.8,
+        "views": 10
+      },
+      {
         "title": "Your Body Is Glowing Right Now and You Can't See It",
         "avg_view_percent": 158.2,
         "views": 247
-      },
-      {
-        "title": "In 2022, a Volcano Fired 2,600 Lightning Bolts a Minute",
-        "avg_view_percent": 153.4,
-        "views": 6
       }
     ],
     "worst": [
@@ -69,13 +70,13 @@
         "views": 2
       },
       {
-        "title": "This Caterpillar Gets Adopted by Ants, Then Eats Their Babies for 10 Months",
-        "avg_view_percent": 18.4,
-        "views": 9
+        "title": "An Insect Declared Extinct Was Found Alive on One Bush, 80 Years Later",
+        "avg_view_percent": 11.8,
+        "views": 14
       },
       {
         "title": "This Bug Plays a Spider's Web Like a Harp, Then Stabs the Spider",
-        "avg_view_percent": 18.5,
+        "avg_view_percent": 18.8,
         "views": 49
       },
       {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 300,
-  "total_views": 78744,
+  "total_videos": 302,
+  "total_views": 78934,
   "by_topic": {
     "psychology": {
       "videos": 3,
@@ -105,13 +106,13 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 217,
-      "avg_views": 267,
+      "videos": 219,
+      "avg_views": 266,
       "best_views": 1507
     },
     "human body": {
       "videos": 6,
-      "avg_views": 454,
+      "avg_views": 455,
       "best_views": 1384
     },
     "history": {
@@ -132,8 +133,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 284,
-      "avg_views": 253,
+      "videos": 286,
+      "avg_views": 252,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +145,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 214,
-      "avg_views": 189
+      "videos": 216,
+      "avg_views": 188
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -339,7 +340,7 @@
       "comments": 3,
       "url": "https://youtube.com/shorts/LOEP1W9IwTA",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 58.0,
+      "avg_view_percent": 57.6,
       "shares": 0,
       "subscribers_gained": 2
     },
@@ -758,8 +759,8 @@
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/zrF56f4voZw",
-      "avg_view_seconds": 11.0,
-      "avg_view_percent": 50.2,
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 49.6,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1486,8 +1487,8 @@
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HUKVi1Kn7E0",
-      "avg_view_seconds": 33.0,
-      "avg_view_percent": 82.6,
+      "avg_view_seconds": 34.0,
+      "avg_view_percent": 84.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1738,8 +1739,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/i1aKZDNCR68",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 53.1,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 51.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1795,7 +1796,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY",
       "avg_view_seconds": 20.0,
-      "avg_view_percent": 53.7,
+      "avg_view_percent": 53.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1822,8 +1823,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 43.2,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 38.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1878,8 +1879,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/340LMR9p660",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 41.7,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 54.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1934,8 +1935,8 @@
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tc8k-oMf4pI",
-      "avg_view_seconds": 19.0,
-      "avg_view_percent": 57.1,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 57.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1990,8 +1991,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 55.9,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 72.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2046,8 +2047,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9PNCyQB-l7I",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 58.8,
+      "avg_view_seconds": 70.0,
+      "avg_view_percent": 168.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2158,8 +2159,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/IN5A3Mj60ok",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 47.9,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 37.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2190,6 +2191,30 @@
       "avg_view_percent": 67.2,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "PCd1xcbsR_8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Hagfish Fires Snot That Grows 10,000 Times Bigger Around a Shark",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This fish defends itself with snot. It beats sharks.",
+      "published_at": "2026-11-13T20:15:23Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/PCd1xcbsR_8"
     },
     "loc-nCkI7hE": {
       "upload_status": "processed",
@@ -2243,7 +2268,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/4PrSW_AB5g4",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 44.0,
+      "avg_view_percent": 43.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2326,10 +2351,34 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 58.3,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 33.6,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "dRW4Ed6TQhk": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT33S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Snail Puts Fish to Sleep With Insulin, Then Swallows Them Whole",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
+      "published_at": "2026-11-13T20:08:54Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/dRW4Ed6TQhk"
     },
     "uGfj97UnMNs": {
       "upload_status": "processed",
@@ -2354,8 +2403,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uGfj97UnMNs",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 33.7,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 31.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2378,12 +2427,12 @@
       "hook": "This animal has no anus. Until it needs one.",
       "published_at": "2026-11-11T02:40:17Z",
       "privacy": "public",
-      "views": 69,
+      "views": 70,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mZ8i9ESlQro",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 38.2,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 39.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2409,7 +2458,11 @@
       "views": 1,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/-C0bQaqNw4g"
+      "url": "https://youtube.com/shorts/-C0bQaqNw4g",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "KuI61cDYijY": {
       "upload_status": "processed",
@@ -2575,7 +2628,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 46.7,
+      "avg_view_percent": 45.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2629,7 +2682,11 @@
       "views": 37,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/cId-MnziRv0"
+      "url": "https://youtube.com/shorts/cId-MnziRv0",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 39.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "SLTRR1243fU": {
       "upload_status": "processed",
@@ -2709,7 +2766,11 @@
       "views": 994,
       "likes": 8,
       "comments": 1,
-      "url": "https://youtube.com/shorts/f32tutRUWsE"
+      "url": "https://youtube.com/shorts/f32tutRUWsE",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 41.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "yuo7BIR-dKs": {
       "upload_status": "processed",
@@ -2733,7 +2794,11 @@
       "views": 83,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/yuo7BIR-dKs"
+      "url": "https://youtube.com/shorts/yuo7BIR-dKs",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 43.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "0ZDEx6r83js": {
       "upload_status": "processed",
@@ -2757,7 +2822,11 @@
       "views": 88,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/0ZDEx6r83js"
+      "url": "https://youtube.com/shorts/0ZDEx6r83js",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 56.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "EjNKSPQn5ho": {
       "upload_status": "processed",
@@ -2865,7 +2934,11 @@
       "views": 8,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/mW8-ucC_kOM"
+      "url": "https://youtube.com/shorts/mW8-ucC_kOM",
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 27.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "W_H2LBwWG9Y": {
       "upload_status": "processed",
@@ -2886,10 +2959,14 @@
       "hook": "This bird earns a quarter of its food by lying.",
       "published_at": "2026-11-12T02:40:09Z",
       "privacy": "public",
-      "views": 94,
+      "views": 95,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/W_H2LBwWG9Y"
+      "url": "https://youtube.com/shorts/W_H2LBwWG9Y",
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 51.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "LUQJVqXc1zI": {
       "upload_status": "processed",
@@ -2970,8 +3047,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hagyIaLCA4M",
-      "avg_view_seconds": 41.0,
-      "avg_view_percent": 81.9,
+      "avg_view_seconds": 42.0,
+      "avg_view_percent": 84.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3025,7 +3102,11 @@
       "views": 93,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/e3OELFXUd-s"
+      "url": "https://youtube.com/shorts/e3OELFXUd-s",
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 65.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "LEOMS31AQWM": {
       "upload_status": "processed",
@@ -3286,8 +3367,8 @@
       "hook": "These ants rescue their wounded. And they can tell which wounds are infected.",
       "published_at": "2026-11-13T00:00:17Z",
       "privacy": "public",
-      "views": 451,
-      "likes": 3,
+      "views": 633,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/VNUh1UIq9uU"
     },
@@ -3342,8 +3423,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wd54rwPedR4",
-      "avg_view_seconds": 48.0,
-      "avg_view_percent": 97.5,
+      "avg_view_seconds": 40.0,
+      "avg_view_percent": 81.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3450,8 +3531,8 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 68,
-      "likes": 0,
+      "views": 73,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8"
     },
@@ -3529,7 +3610,11 @@
       "views": 34,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Yz3YXH2zvyc"
+      "url": "https://youtube.com/shorts/Yz3YXH2zvyc",
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 50.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "5pKsRTupbRY": {
       "upload_status": "processed",
@@ -3802,7 +3887,7 @@
       "hook": "Divers found a shark with another shark inside it. Both were still in one piece.",
       "published_at": "2026-11-06T19:00:08Z",
       "privacy": "public",
-      "views": 255,
+      "views": 256,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vJk-0yMOLro",
@@ -4120,14 +4205,14 @@
       "subscribers_gained": 0
     },
     "9sM-TH-q2JU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT58S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4136,11 +4221,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five priciest paintings ever sold at auction. Number one was once bought for 45 pounds.",
-      "published_at": "2026-11-13T18:40:44Z",
-      "privacy": "private",
+      "published_at": "2026-11-13T19:00:30Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/9sM-TH-q2JU"
     },
     "FVTCw9Lx6wM": {
@@ -4951,7 +5036,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8",
       "avg_view_seconds": 37.0,
-      "avg_view_percent": 86.4,
+      "avg_view_percent": 86.3,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -5314,8 +5399,8 @@
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s",
-      "avg_view_seconds": 19.0,
-      "avg_view_percent": 59.5,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 59.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5399,7 +5484,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Lach_GgGXBA",
       "avg_view_seconds": 16.0,
-      "avg_view_percent": 48.9,
+      "avg_view_percent": 48.8,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -5450,7 +5535,7 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 934,
+      "views": 932,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k",
@@ -5567,7 +5652,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw",
       "avg_view_seconds": 10.0,
-      "avg_view_percent": 39.3,
+      "avg_view_percent": 39.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5618,7 +5703,7 @@
       "hook": "One group of humans evolved a body part for diving.",
       "published_at": "2026-11-13T03:50:23Z",
       "privacy": "public",
-      "views": 495,
+      "views": 498,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/XNfgm85JO5g"
@@ -5730,8 +5815,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Dtz0u9zn7wo",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 68.2,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 55.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5787,7 +5872,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo",
       "avg_view_seconds": 16.0,
-      "avg_view_percent": 51.9,
+      "avg_view_percent": 51.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5813,7 +5898,11 @@
       "views": 61,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Oyni6mm1Ma8"
+      "url": "https://youtube.com/shorts/Oyni6mm1Ma8",
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 54.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "YMC5dytg8rQ": {
       "upload_status": "processed",
@@ -5839,7 +5928,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/YMC5dytg8rQ",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 42.7,
+      "avg_view_percent": 42.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5867,7 +5956,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48",
       "avg_view_seconds": 17.0,
-      "avg_view_percent": 48.0,
+      "avg_view_percent": 48.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5951,7 +6040,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/axMrOJmzu9k",
       "avg_view_seconds": 27.0,
-      "avg_view_percent": 79.8,
+      "avg_view_percent": 78.5,
       "shares": 4,
       "subscribers_gained": 0
     },
@@ -6006,8 +6095,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 46.5,
+      "avg_view_seconds": 41.0,
+      "avg_view_percent": 118.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6034,10 +6123,10 @@
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 47.0,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 44.7,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 1
     },
     "U0E6tfM-Dqs": {
       "upload_status": "processed",
@@ -6062,8 +6151,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/U0E6tfM-Dqs",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 59.7,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 57.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6231,7 +6320,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/GCFkHUEL_oA",
       "avg_view_seconds": 7.0,
-      "avg_view_percent": 18.5,
+      "avg_view_percent": 18.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6286,8 +6375,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMa7hcjpTsM",
-      "avg_view_seconds": 7.0,
-      "avg_view_percent": 18.4,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 48.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6397,7 +6486,11 @@
       "views": 15,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/jy8dtKqr5n4"
+      "url": "https://youtube.com/shorts/jy8dtKqr5n4",
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 39.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ATRf5itBVC0": {
       "upload_status": "processed",
@@ -6505,7 +6598,11 @@
       "views": 14,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/ARZlms2aigY"
+      "url": "https://youtube.com/shorts/ARZlms2aigY",
+      "avg_view_seconds": 4.0,
+      "avg_view_percent": 11.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "P0lB-d1EO7s": {
       "upload_status": "processed",
@@ -6650,7 +6747,7 @@
       "hook": "The five strongest magnets, ranked. One blew its own lab doors off. It isn't number one.",
       "published_at": "2026-11-12T20:00:19Z",
       "privacy": "public",
-      "views": 409,
+      "views": 408,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/nhVqYFmtGDA"
@@ -7015,7 +7112,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Ns_EX-TGGOM",
       "avg_view_seconds": 9.0,
-      "avg_view_percent": 31.4,
+      "avg_view_percent": 31.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -7463,7 +7560,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/aXBXlTcf_ys",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 62.5,
+      "avg_view_percent": 61.4,
       "shares": 0,
       "subscribers_gained": 0
     },
