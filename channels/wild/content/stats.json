@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-14T09:30:23+00:00",
+  "updated_at": "2026-11-14T17:24:01+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 17,
+    "subscribers": 18,
     "channel_views": 16017,
-    "video_count": 91
+    "video_count": 92
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Z7bCR86xvPA"
+      "https://youtube.com/shorts/rZvHcmJwADY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Z7bCR86xvPA"
+      "https://youtube.com/shorts/rZvHcmJwADY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Z7bCR86xvPA"
+      "https://youtube.com/shorts/rZvHcmJwADY"
     ]
   },
   "retention": {
@@ -90,12 +90,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 92,
-  "total_views": 16181,
+  "total_videos": 93,
+  "total_views": 16495,
   "by_topic": {
     "earth": {
       "videos": 11,
-      "avg_views": 411,
+      "avg_views": 412,
       "best_views": 1125
     },
     "space": {
@@ -105,17 +105,17 @@
     },
     "society": {
       "videos": 6,
-      "avg_views": 112,
+      "avg_views": 113,
       "best_views": 414
     },
     "animals": {
       "videos": 12,
-      "avg_views": 220,
+      "avg_views": 221,
       "best_views": 1428
     },
     "body": {
-      "videos": 17,
-      "avg_views": 73,
+      "videos": 18,
+      "avg_views": 85,
       "best_views": 498
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 92,
-      "avg_views": 176,
+      "videos": 93,
+      "avg_views": 177,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 91,
-      "avg_views": 166
+      "videos": 92,
+      "avg_views": 168
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -187,7 +187,7 @@
     {
       "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
       "topic": "earth",
-      "views": 564,
+      "views": 565,
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
@@ -197,10 +197,10 @@
       "hook": "What if you never slept again? Day one feels fine. It isn't."
     },
     {
-      "title": "What If All the Ice on Earth Melted?",
-      "topic": "earth",
-      "views": 436,
-      "hook": "What if every piece of ice on Earth melted? The sea would rise about seventy metres."
+      "title": "What If You Never Cut Your Nails? Unlike Hair, They Never Stop",
+      "topic": "body",
+      "views": 473,
+      "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do."
     }
   ],
   "videos": {
@@ -1175,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 86,
+      "views": 88,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1427,7 +1427,7 @@
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
       "published_at": "2026-11-12T08:10:36Z",
       "privacy": "public",
-      "views": 48,
+      "views": 57,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE"
@@ -1559,8 +1559,8 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
-      "views": 194,
-      "likes": 5,
+      "views": 473,
+      "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE"
     },
@@ -1631,7 +1631,7 @@
       "hook": "What if you were frozen after death, to be woken later? About 200 people already are, in Arizona.",
       "published_at": "2026-11-13T07:40:15Z",
       "privacy": "public",
-      "views": 27,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kY4T69sD7NE"
@@ -1683,7 +1683,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 16,
+      "views": 22,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU"
@@ -1895,7 +1895,7 @@
       "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
       "published_at": "2026-11-13T21:30:22Z",
       "privacy": "public",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wvmq2CtLbiw"
@@ -1975,20 +1975,20 @@
       "hook": "What if you shrank to the size of an ant? The first thing you'd lose is your eyesight.",
       "published_at": "2026-11-14T00:50:20Z",
       "privacy": "public",
-      "views": 17,
+      "views": 18,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/gtcyMkEqArY"
     },
     "Z7bCR86xvPA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT47S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1997,11 +1997,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if one side of Earth always faced the Sun? The survivors would all live in a ring.",
-      "published_at": "2026-11-14T09:30:19Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-14T10:00:21Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Z7bCR86xvPA"
     },
     "8ov_Z_E0LvQ": {
@@ -2023,7 +2023,7 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 564,
+      "views": 565,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ",
@@ -2051,7 +2051,7 @@
       "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
-      "views": 243,
+      "views": 247,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU",
@@ -2191,7 +2191,7 @@
       "hook": "What if 90 percent of a country's women stopped for a day? Iceland did. Sausages sold out.",
       "published_at": "2026-11-09T02:50:12Z",
       "privacy": "public",
-      "views": 19,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dLKcX2ivoBg",
@@ -2275,7 +2275,7 @@
       "hook": "What if you ate a polar bear's liver? Your skin could come off in sheets.",
       "published_at": "2026-11-09T21:20:20Z",
       "privacy": "public",
-      "views": 91,
+      "views": 92,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A",
@@ -2331,7 +2331,7 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 44,
+      "views": 45,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
@@ -2423,6 +2423,30 @@
       "avg_view_percent": 24.8,
       "shares": 0,
       "subscribers_gained": 1
+    },
+    "rZvHcmJwADY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Had Hollow Bones Like a Bird? You Wouldn't Weigh Any Less",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if your bones were hollow, like a bird's? You wouldn't lose a single kilo.",
+      "published_at": "2026-11-14T17:23:57Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/rZvHcmJwADY"
     },
     "VPNJB_3l0us": {
       "upload_status": "processed",
