@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-13T21:03:41+00:00",
+  "updated_at": "2026-11-14T00:24:54+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 16,
     "channel_views": 15907,
-    "video_count": 89
+    "video_count": 90
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Wvmq2CtLbiw"
+      "https://youtube.com/shorts/gtcyMkEqArY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Wvmq2CtLbiw"
+      "https://youtube.com/shorts/gtcyMkEqArY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Wvmq2CtLbiw"
+      "https://youtube.com/shorts/gtcyMkEqArY"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 90,
-  "total_views": 15982,
+  "total_videos": 91,
+  "total_views": 16013,
   "by_topic": {
     "earth": {
       "videos": 11,
@@ -114,8 +114,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 16,
-      "avg_views": 67,
+      "videos": 17,
+      "avg_views": 64,
       "best_views": 498
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 90,
-      "avg_views": 178,
+      "videos": 91,
+      "avg_views": 176,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 89,
-      "avg_views": 168
+      "videos": 90,
+      "avg_views": 166
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -181,7 +181,7 @@
     {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
-      "views": 906,
+      "views": 907,
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
     },
     {
@@ -1559,8 +1559,8 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
-      "views": 65,
-      "likes": 2,
+      "views": 76,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE"
     },
@@ -1607,7 +1607,7 @@
       "hook": "What if you saw 100 million colours instead of one million? Some women do, and never find out.",
       "published_at": "2026-11-12T22:10:21Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo"
@@ -1631,7 +1631,7 @@
       "hook": "What if you were frozen after death, to be woken later? About 200 people already are, in Arizona.",
       "published_at": "2026-11-13T07:40:15Z",
       "privacy": "public",
-      "views": 20,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kY4T69sD7NE"
@@ -1683,7 +1683,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 10,
+      "views": 14,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU"
@@ -1763,7 +1763,7 @@
       "hook": "What if you could see with sound, like a bat? Some blind people do. You could learn.",
       "published_at": "2026-11-13T19:50:38Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/W4GbYWh6rmE"
@@ -1843,9 +1843,9 @@
       "hook": "What if you lived at 5,000 meters, in half the oxygen? 50,000 people do.",
       "published_at": "2026-11-13T21:00:11Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/W4W11A9P1d4"
     },
     "hv6S-MG-epc": {
@@ -1877,14 +1877,14 @@
       "subscribers_gained": 0
     },
     "Wvmq2CtLbiw": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1893,11 +1893,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
-      "published_at": "2026-11-13T21:03:33Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-13T21:30:22Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Wvmq2CtLbiw"
     },
     "N7DiGn8Mexg": {
@@ -1947,7 +1947,7 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it.",
       "published_at": "2026-11-07T21:30:27Z",
       "privacy": "public",
-      "views": 906,
+      "views": 907,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rozFRQq0yAw",
@@ -1955,6 +1955,30 @@
       "avg_view_percent": 43.1,
       "shares": 0,
       "subscribers_gained": 2
+    },
+    "gtcyMkEqArY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Shrank to the Size of an Ant? You'd Go Blind First",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you shrank to the size of an ant? The first thing you'd lose is your eyesight.",
+      "published_at": "2026-11-14T00:24:50Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/gtcyMkEqArY"
     },
     "8ov_Z_E0LvQ": {
       "upload_status": "processed",
@@ -2003,7 +2027,7 @@
       "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
-      "views": 241,
+      "views": 243,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU",
@@ -2283,7 +2307,7 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 43,
+      "views": 44,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
@@ -2535,7 +2559,7 @@
       "hook": "What if you froze stiff as a board, no pulse, for six hours? One teenager woke up.",
       "published_at": "2026-11-11T16:30:12Z",
       "privacy": "public",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hYWH50rQX_M",
@@ -2647,7 +2671,7 @@
       "hook": "What if you set off a nuclear bomb to put out a fire? In 1966, it worked.",
       "published_at": "2026-11-05T17:10:20Z",
       "privacy": "public",
-      "views": 105,
+      "views": 106,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY",
