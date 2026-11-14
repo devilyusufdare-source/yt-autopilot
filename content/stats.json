@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-14T18:31:12+00:00",
+  "updated_at": "2026-11-14T19:11:29+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
-    "channel_views": 79471,
-    "video_count": 314
+    "channel_views": 81211,
+    "video_count": 315
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/jFIEFy2VsJg"
+      "https://youtube.com/shorts/7dLQA0mEwz8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/jFIEFy2VsJg"
+      "https://youtube.com/shorts/7dLQA0mEwz8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/jFIEFy2VsJg"
+      "https://youtube.com/shorts/7dLQA0mEwz8"
     ]
   },
   "retention": {
@@ -76,7 +76,7 @@
       {
         "title": "This Bug Plays a Spider's Web Like a Harp, Then Stabs the Spider",
         "avg_view_percent": 18.8,
-        "views": 48
+        "views": 49
       },
       {
         "title": "This Bat Hunts Frogs by Their Love Songs, and Knows Which Are Poison",
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 313,
-  "total_views": 82396,
+  "total_videos": 314,
+  "total_views": 82623,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -105,7 +105,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 228,
+      "videos": 229,
       "avg_views": 270,
       "best_views": 1507
     },
@@ -116,7 +116,7 @@
     },
     "history": {
       "videos": 16,
-      "avg_views": 125,
+      "avg_views": 126,
       "best_views": 1114
     },
     "space": {
@@ -137,8 +137,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 297,
-      "avg_views": 255,
+      "videos": 298,
+      "avg_views": 254,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +149,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 227,
-      "avg_views": 194
+      "videos": 228,
+      "avg_views": 195
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2403,8 +2403,8 @@
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
       "published_at": "2026-11-13T21:00:04Z",
       "privacy": "public",
-      "views": 631,
-      "likes": 9,
+      "views": 657,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/dRW4Ed6TQhk"
     },
@@ -2483,7 +2483,7 @@
       "hook": "A goose flies where there is half the oxygen. Its heart barely changes.",
       "published_at": "2026-11-13T21:30:38Z",
       "privacy": "public",
-      "views": 44,
+      "views": 59,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Qn6xqVn9xDE"
@@ -3395,7 +3395,7 @@
       "hook": "One island lost fifteen million crabs. The killers were ants.",
       "published_at": "2026-11-12T22:20:12Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5JchxYrXcH0"
@@ -3583,7 +3583,7 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 220,
+      "views": 261,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8"
@@ -3607,7 +3607,7 @@
       "hook": "This pig's teeth are growing straight into its own skull.",
       "published_at": "2026-11-13T02:15:11Z",
       "privacy": "public",
-      "views": 39,
+      "views": 46,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yfeYXBuJ6DU"
@@ -3715,8 +3715,8 @@
       "hook": "This worm has two cannons on its face. They fire glue.",
       "published_at": "2026-11-13T22:00:24Z",
       "privacy": "public",
-      "views": 485,
-      "likes": 4,
+      "views": 565,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/Na0gNeyieh0"
     },
@@ -3955,7 +3955,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 370,
+      "views": 410,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q"
@@ -4205,14 +4205,14 @@
       "subscribers_gained": 0
     },
     "jFIEFy2VsJg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT44S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4221,11 +4221,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
-      "published_at": "2026-11-14T18:31:03Z",
-      "privacy": "private",
+      "published_at": "2026-11-14T19:00:20Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg"
     },
     "Ai052d7-pp4": {
@@ -4255,6 +4255,30 @@
       "avg_view_percent": 37.8,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "7dLQA0mEwz8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Snake Eats Rattlesnakes, and Their Venom Doesn't Work on It",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
+      "published_at": "2026-11-14T19:11:21Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/7dLQA0mEwz8"
     },
     "wyObPwWsA0g": {
       "upload_status": "processed",
@@ -4443,7 +4467,7 @@
       "hook": "The five priciest paintings ever sold at auction. Number one was once bought for 45 pounds.",
       "published_at": "2026-11-13T19:00:30Z",
       "privacy": "public",
-      "views": 32,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9sM-TH-q2JU"
@@ -5947,7 +5971,7 @@
       "hook": "One group of humans evolved a body part for diving.",
       "published_at": "2026-11-13T03:50:23Z",
       "privacy": "public",
-      "views": 588,
+      "views": 592,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/XNfgm85JO5g"
@@ -6583,7 +6607,7 @@
       "hook": "Something is plucking this spider's web. It isn't dinner. It's the hunter.",
       "published_at": "2026-11-10T21:00:34Z",
       "privacy": "public",
-      "views": 48,
+      "views": 49,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GCFkHUEL_oA",
@@ -6915,7 +6939,7 @@
       "hook": "One tiger. 436 people. And two broken teeth explain it.",
       "published_at": "2026-11-12T19:20:03Z",
       "privacy": "public",
-      "views": 617,
+      "views": 620,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/HE8mLoU1rAs"
