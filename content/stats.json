@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-14T01:44:21+00:00",
+  "updated_at": "2026-11-14T03:33:59+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 78214,
-    "video_count": 311
+    "video_count": 312
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/r_RxuoXM_dc"
+      "https://youtube.com/shorts/ADzZlLQvsPM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/r_RxuoXM_dc"
+      "https://youtube.com/shorts/ADzZlLQvsPM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/r_RxuoXM_dc"
+      "https://youtube.com/shorts/ADzZlLQvsPM"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 310,
-  "total_views": 79410,
+  "total_videos": 311,
+  "total_views": 79589,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -106,12 +106,12 @@
     },
     "animals": {
       "videos": 226,
-      "avg_views": 259,
+      "avg_views": 260,
       "best_views": 1507
     },
     "human body": {
       "videos": 6,
-      "avg_views": 463,
+      "avg_views": 464,
       "best_views": 1384
     },
     "history": {
@@ -128,11 +128,16 @@
       "videos": 6,
       "avg_views": 80,
       "best_views": 287
+    },
+    "games": {
+      "videos": 1,
+      "avg_views": 0,
+      "best_views": 0
     }
   },
   "by_style": {
     "classic": {
-      "videos": 294,
+      "videos": 295,
       "avg_views": 247,
       "over_1500": 3
     },
@@ -144,7 +149,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 224,
+      "videos": 225,
       "avg_views": 184
     },
     "en-US-BrianNeural": {
@@ -1790,7 +1795,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 356,
+      "views": 357,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY",
@@ -2210,7 +2215,7 @@
       "hook": "This fish defends itself with snot. It beats sharks.",
       "published_at": "2026-11-13T20:40:14Z",
       "privacy": "public",
-      "views": 6,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8"
@@ -2346,7 +2351,7 @@
       "hook": "This turtle has a fishing lure growing inside its mouth.",
       "published_at": "2026-11-13T22:30:16Z",
       "privacy": "public",
-      "views": 3,
+      "views": 72,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/a2dldNOvxTA"
@@ -2478,7 +2483,7 @@
       "hook": "A goose flies where there is half the oxygen. Its heart barely changes.",
       "published_at": "2026-11-13T21:30:38Z",
       "privacy": "public",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Qn6xqVn9xDE"
@@ -3414,7 +3419,7 @@
       "hook": "These ants rescue their wounded. And they can tell which wounds are infected.",
       "published_at": "2026-11-13T00:00:17Z",
       "privacy": "public",
-      "views": 932,
+      "views": 933,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/VNUh1UIq9uU"
@@ -3710,7 +3715,7 @@
       "hook": "This worm has two cannons on its face. They fire glue.",
       "published_at": "2026-11-13T22:00:24Z",
       "privacy": "public",
-      "views": 0,
+      "views": 77,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Na0gNeyieh0"
@@ -3956,14 +3961,14 @@
       "url": "https://youtube.com/shorts/LUOO26aXB0Q"
     },
     "r_RxuoXM_dc": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT43S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3972,11 +3977,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This bird runs a protection racket, and other birds pay up.",
-      "published_at": "2026-11-14T01:44:13Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-14T02:15:01Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/r_RxuoXM_dc"
     },
     "mwNxqOaibXU": {
@@ -4390,7 +4395,7 @@
       "hook": "The five priciest paintings ever sold at auction. Number one was once bought for 45 pounds.",
       "published_at": "2026-11-13T19:00:30Z",
       "privacy": "public",
-      "views": 8,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9sM-TH-q2JU"
@@ -5263,6 +5268,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "ADzZlLQvsPM": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Best-Selling Game Consoles Ever, Ranked (#1 Launched in 2000)",
+      "topic": "games",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five best-selling game consoles ever. Number one launched in 2000 and still hasn't been caught.",
+      "published_at": "2026-11-14T03:33:46Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/ADzZlLQvsPM"
+    },
     "KBYp_uwN89M": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -5870,7 +5899,7 @@
       "hook": "One group of humans evolved a body part for diving.",
       "published_at": "2026-11-13T03:50:23Z",
       "privacy": "public",
-      "views": 545,
+      "views": 554,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/XNfgm85JO5g"
@@ -6226,7 +6255,7 @@
       "hook": "That perfect round hole in a seashell isn't an accident. Something drilled it.",
       "published_at": "2026-11-09T18:00:06Z",
       "privacy": "public",
-      "views": 992,
+      "views": 994,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/axMrOJmzu9k",
@@ -6886,7 +6915,7 @@
       "hook": "This animal can be dried out completely and come back.",
       "published_at": "2026-11-12T21:20:19Z",
       "privacy": "public",
-      "views": 233,
+      "views": 235,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gudmy6a0BMs"
@@ -6938,7 +6967,7 @@
       "hook": "The five strongest magnets, ranked. One blew its own lab doors off. It isn't number one.",
       "published_at": "2026-11-12T20:00:19Z",
       "privacy": "public",
-      "views": 411,
+      "views": 412,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/nhVqYFmtGDA"
