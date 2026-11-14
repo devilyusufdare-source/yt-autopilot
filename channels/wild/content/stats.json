@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T19:27:59+00:00",
+  "updated_at": "2026-11-14T19:30:09+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -13,15 +13,11 @@
       "https://youtube.com/shorts/CRYxx_sk6l0"
     ],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/CRYxx_sk6l0"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/CRYxx_sk6l0"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 78,
@@ -91,12 +87,12 @@
   },
   "retention_note": null,
   "total_videos": 94,
-  "total_views": 16614,
+  "total_views": 16612,
   "by_topic": {
     "earth": {
       "videos": 11,
       "avg_views": 412,
-      "best_views": 1126
+      "best_views": 1127
     },
     "space": {
       "videos": 36,
@@ -157,7 +153,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1126,
+      "views": 1127,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -1007,7 +1003,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1126,
+      "views": 1127,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1531,7 +1527,7 @@
       "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
-      "views": 103,
+      "views": 102,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo",
@@ -1683,7 +1679,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 24,
+      "views": 22,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU"
@@ -1763,7 +1759,7 @@
       "hook": "What if you could see with sound, like a bat? Some blind people do. You could learn.",
       "published_at": "2026-11-13T19:50:38Z",
       "privacy": "public",
-      "views": 4,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/W4GbYWh6rmE"
@@ -1999,7 +1995,7 @@
       "hook": "What if one side of Earth always faced the Sun? The survivors would all live in a ring.",
       "published_at": "2026-11-14T10:00:21Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Z7bCR86xvPA"
@@ -2645,14 +2641,14 @@
       "subscribers_gained": 0
     },
     "CRYxx_sk6l0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT48S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
