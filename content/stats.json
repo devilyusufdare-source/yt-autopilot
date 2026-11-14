@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T04:01:02+00:00",
+  "updated_at": "2026-11-14T08:16:09+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,13 +9,19 @@
     "video_count": 313
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/sYU_YCfGfIQ"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/sYU_YCfGfIQ"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/sYU_YCfGfIQ"
+    ]
   },
   "retention": {
     "videos_with_data": 282,
@@ -38,7 +44,7 @@
       {
         "title": "The Titanic Was Found During a Secret Navy Hunt for Lost Nuclear Subs",
         "avg_view_percent": 241.9,
-        "views": 15
+        "views": 17
       },
       {
         "title": "Scientists Swore This Fish Died Out With the Dinosaurs",
@@ -85,12 +91,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 311,
-  "total_views": 79623,
+  "total_videos": 312,
+  "total_views": 80260,
   "by_topic": {
     "psychology": {
       "videos": 4,
-      "avg_views": 186,
+      "avg_views": 187,
       "best_views": 364
     },
     "science": {
@@ -99,13 +105,13 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 226,
-      "avg_views": 260,
+      "videos": 227,
+      "avg_views": 262,
       "best_views": 1507
     },
     "human body": {
       "videos": 6,
-      "avg_views": 464,
+      "avg_views": 465,
       "best_views": 1384
     },
     "history": {
@@ -121,7 +127,7 @@
     "technology": {
       "videos": 6,
       "avg_views": 80,
-      "best_views": 287
+      "best_views": 286
     },
     "games": {
       "videos": 1,
@@ -131,8 +137,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 295,
-      "avg_views": 247,
+      "videos": 296,
+      "avg_views": 248,
       "over_1500": 3
     },
     "punch": {
@@ -143,8 +149,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 225,
-      "avg_views": 184
+      "videos": 226,
+      "avg_views": 186
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1789,7 +1795,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 357,
+      "views": 353,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY",
@@ -1817,7 +1823,7 @@
       "hook": "This male crab is raising babies. None of them are his.",
       "published_at": "2026-11-09T21:00:39Z",
       "privacy": "public",
-      "views": 25,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM",
@@ -1957,7 +1963,7 @@
       "hook": "Thousands of rays are jumping out of the ocean. Nobody knows why.",
       "published_at": "2026-11-10T02:50:29Z",
       "privacy": "public",
-      "views": 60,
+      "views": 59,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/J7yZVtMxDvE",
@@ -1985,7 +1991,7 @@
       "hook": "Nothing on Earth moves faster than this ant's jaw.",
       "published_at": "2026-11-10T19:00:23Z",
       "privacy": "public",
-      "views": 86,
+      "views": 85,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/15nbrnKyWHE",
@@ -2209,7 +2215,7 @@
       "hook": "This fish defends itself with snot. It beats sharks.",
       "published_at": "2026-11-13T20:40:14Z",
       "privacy": "public",
-      "views": 26,
+      "views": 45,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8"
@@ -2345,7 +2351,7 @@
       "hook": "This turtle has a fishing lure growing inside its mouth.",
       "published_at": "2026-11-13T22:30:16Z",
       "privacy": "public",
-      "views": 72,
+      "views": 74,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/a2dldNOvxTA"
@@ -2369,7 +2375,7 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 165,
+      "views": 164,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg",
@@ -2397,8 +2403,8 @@
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
       "published_at": "2026-11-13T21:00:04Z",
       "privacy": "public",
-      "views": 40,
-      "likes": 1,
+      "views": 209,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/dRW4Ed6TQhk"
     },
@@ -2477,7 +2483,7 @@
       "hook": "A goose flies where there is half the oxygen. Its heart barely changes.",
       "published_at": "2026-11-13T21:30:38Z",
       "privacy": "public",
-      "views": 3,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Qn6xqVn9xDE"
@@ -2809,7 +2815,7 @@
       "hook": "A moray eel bites you twice. The second bite comes from its throat.",
       "published_at": "2026-11-11T18:00:18Z",
       "privacy": "public",
-      "views": 994,
+      "views": 996,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/f32tutRUWsE",
@@ -3005,7 +3011,7 @@
       "hook": "This bird earns a quarter of its food by lying.",
       "published_at": "2026-11-12T02:40:09Z",
       "privacy": "public",
-      "views": 98,
+      "views": 100,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/W_H2LBwWG9Y",
@@ -3061,7 +3067,7 @@
       "hook": "The five heaviest aircraft ever to fly, ranked. The heaviest one no longer exists.",
       "published_at": "2026-11-08T15:40:11Z",
       "privacy": "public",
-      "views": 287,
+      "views": 286,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/CnHe38sG9RE",
@@ -3253,7 +3259,7 @@
       "hook": "This moth flies 600 miles by the stars. To a place it has never seen.",
       "published_at": "2026-11-12T22:40:20Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pR8dGt6tbJo"
@@ -3389,7 +3395,7 @@
       "hook": "One island lost fifteen million crabs. The killers were ants.",
       "published_at": "2026-11-12T22:20:12Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5JchxYrXcH0"
@@ -3413,7 +3419,7 @@
       "hook": "These ants rescue their wounded. And they can tell which wounds are infected.",
       "published_at": "2026-11-13T00:00:17Z",
       "privacy": "public",
-      "views": 933,
+      "views": 935,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/VNUh1UIq9uU"
@@ -3577,8 +3583,8 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 123,
-      "likes": 1,
+      "views": 142,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8"
     },
@@ -3601,7 +3607,7 @@
       "hook": "This pig's teeth are growing straight into its own skull.",
       "published_at": "2026-11-13T02:15:11Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yfeYXBuJ6DU"
@@ -3653,7 +3659,7 @@
       "hook": "The five tallest roller coasters ever built, ranked. The old champion was demolished with explosives last year.",
       "published_at": "2026-11-11T15:00:10Z",
       "privacy": "public",
-      "views": 36,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Yz3YXH2zvyc",
@@ -3709,7 +3715,7 @@
       "hook": "This worm has two cannons on its face. They fire glue.",
       "published_at": "2026-11-13T22:00:24Z",
       "privacy": "public",
-      "views": 77,
+      "views": 130,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Na0gNeyieh0"
@@ -3733,8 +3739,8 @@
       "hook": "This spider catches moths without a web. It lies to them.",
       "published_at": "2026-11-14T00:00:16Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 0,
+      "views": 307,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/F1JAmyNwUtk"
     },
@@ -3757,7 +3763,7 @@
       "hook": "This mouse-sized mammal is venomous. And it keeps a living pantry.",
       "published_at": "2026-11-13T23:10:24Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6vhduTC_Ms0"
@@ -3809,7 +3815,7 @@
       "hook": "A porcupine has 30,000 quills. One animal found the gap.",
       "published_at": "2026-11-06T12:20:26Z",
       "privacy": "public",
-      "views": 55,
+      "views": 56,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/WDdIFBd2zAk",
@@ -3949,8 +3955,8 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 0,
+      "views": 25,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q"
     },
@@ -3973,8 +3979,8 @@
       "hook": "This bird runs a protection racket, and other birds pay up.",
       "published_at": "2026-11-14T02:15:01Z",
       "privacy": "public",
-      "views": 5,
-      "likes": 0,
+      "views": 16,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/r_RxuoXM_dc"
     },
@@ -4089,6 +4095,30 @@
       "avg_view_percent": 45.8,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "sYU_YCfGfIQ": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Squirrel Heats Up Its Tail to Scare Rattlesnakes. It Doesn't Bother for Other Snakes",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This squirrel walks up to rattlesnakes and makes its tail hot. On purpose.",
+      "published_at": "2026-11-14T08:16:00Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/sYU_YCfGfIQ"
     },
     "YX7zSStVK_k": {
       "upload_status": "processed",
@@ -4389,7 +4419,7 @@
       "hook": "The five priciest paintings ever sold at auction. Number one was once bought for 45 pounds.",
       "published_at": "2026-11-13T19:00:30Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9sM-TH-q2JU"
@@ -5283,7 +5313,7 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/ADzZlLQvsPM"
     },
     "KBYp_uwN89M": {
@@ -5585,7 +5615,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 341,
+      "views": 343,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s",
@@ -5837,7 +5867,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 337,
+      "views": 335,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw",
@@ -5893,8 +5923,8 @@
       "hook": "One group of humans evolved a body part for diving.",
       "published_at": "2026-11-13T03:50:23Z",
       "privacy": "public",
-      "views": 551,
-      "likes": 5,
+      "views": 560,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/XNfgm85JO5g"
     },
@@ -5917,7 +5947,7 @@
       "hook": "Doctors stared straight at a gorilla and didn't see it.",
       "published_at": "2026-11-14T00:50:09Z",
       "privacy": "public",
-      "views": 3,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rYrw1CBQ75g"
@@ -5941,7 +5971,7 @@
       "hook": "The search for the Titanic was a cover story.",
       "published_at": "2026-11-06T03:30:13Z",
       "privacy": "public",
-      "views": 15,
+      "views": 17,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k1T79ufoaX8",
@@ -6081,7 +6111,7 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 909,
+      "views": 908,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo",
@@ -6165,7 +6195,7 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 334,
+      "views": 333,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48",
@@ -6249,7 +6279,7 @@
       "hook": "That perfect round hole in a seashell isn't an accident. Something drilled it.",
       "published_at": "2026-11-09T18:00:06Z",
       "privacy": "public",
-      "views": 994,
+      "views": 993,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/axMrOJmzu9k",
@@ -6277,7 +6307,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 434,
+      "views": 435,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -6305,7 +6335,7 @@
       "hook": "Something inside this cricket is steering it.",
       "published_at": "2026-11-09T19:00:24Z",
       "privacy": "public",
-      "views": 456,
+      "views": 455,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/OW7wC96MHAo",
@@ -6885,7 +6915,7 @@
       "hook": "A hawk in New Jersey hunts by traffic light.",
       "published_at": "2026-11-12T21:00:39Z",
       "privacy": "public",
-      "views": 130,
+      "views": 135,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BkM61GKu1sc"
@@ -6909,8 +6939,8 @@
       "hook": "This animal can be dried out completely and come back.",
       "published_at": "2026-11-12T21:20:19Z",
       "privacy": "public",
-      "views": 235,
-      "likes": 5,
+      "views": 238,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gudmy6a0BMs"
     },
@@ -6961,7 +6991,7 @@
       "hook": "The five strongest magnets, ranked. One blew its own lab doors off. It isn't number one.",
       "published_at": "2026-11-12T20:00:19Z",
       "privacy": "public",
-      "views": 412,
+      "views": 413,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/nhVqYFmtGDA"
