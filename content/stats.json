@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-14T21:40:13+00:00",
+  "updated_at": "2026-11-14T22:20:28+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 81211,
-    "video_count": 317
+    "video_count": 318
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Tgn2QuDBdPk",
-      "https://youtube.com/shorts/3JloGL6ZBs8"
+      "https://youtube.com/shorts/3JloGL6ZBs8",
+      "https://youtube.com/shorts/RMDeFnxseLM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/3JloGL6ZBs8"
+      "https://youtube.com/shorts/RMDeFnxseLM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/3JloGL6ZBs8"
+      "https://youtube.com/shorts/RMDeFnxseLM"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 317,
-  "total_views": 82858,
+  "total_videos": 318,
+  "total_views": 82964,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 232,
-      "avg_views": 267,
+      "videos": 233,
+      "avg_views": 266,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 301,
-      "avg_views": 253,
+      "videos": 302,
+      "avg_views": 252,
       "over_1500": 3
     },
     "punch": {
@@ -150,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 231,
+      "videos": 232,
       "avg_views": 193
     },
     "en-US-BrianNeural": {
@@ -2404,7 +2404,7 @@
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
       "published_at": "2026-11-13T21:00:04Z",
       "privacy": "public",
-      "views": 694,
+      "views": 679,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/dRW4Ed6TQhk"
@@ -3736,8 +3736,8 @@
       "hook": "This worm has two cannons on its face. They fire glue.",
       "published_at": "2026-11-13T22:00:24Z",
       "privacy": "public",
-      "views": 565,
-      "likes": 3,
+      "views": 607,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Na0gNeyieh0"
     },
@@ -3976,8 +3976,8 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 484,
-      "likes": 4,
+      "views": 495,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q"
     },
@@ -4136,7 +4136,7 @@
       "hook": "This squirrel walks up to rattlesnakes and makes its tail hot. On purpose.",
       "published_at": "2026-11-14T08:40:13Z",
       "privacy": "public",
-      "views": 34,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sYU_YCfGfIQ"
@@ -4244,7 +4244,7 @@
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
       "published_at": "2026-11-14T19:00:20Z",
       "privacy": "public",
-      "views": 33,
+      "views": 68,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg"
@@ -4296,8 +4296,8 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 24,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8"
     },
@@ -4510,11 +4510,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This cat weighs 50 pounds. Its fangs are the same length as a tiger's.",
-      "published_at": "2026-11-14T21:35:27Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-14T22:00:11Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Tgn2QuDBdPk"
     },
     "9sM-TH-q2JU": {
@@ -4536,7 +4536,7 @@
       "hook": "The five priciest paintings ever sold at auction. Number one was once bought for 45 pounds.",
       "published_at": "2026-11-13T19:00:30Z",
       "privacy": "public",
-      "views": 41,
+      "views": 44,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9sM-TH-q2JU"
@@ -4598,14 +4598,14 @@
       "subscribers_gained": 0
     },
     "3JloGL6ZBs8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT47S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4648,6 +4648,30 @@
       "avg_view_percent": 49.4,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "RMDeFnxseLM": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A 2 mm Bug Sings at 99 Decibels, Loud as an Orchestra's Front Row",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The loudest animal for its size is two millimetres long.",
+      "published_at": "2026-11-14T22:20:19Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/RMDeFnxseLM"
     },
     "_DAzc-V2X2o": {
       "upload_status": "processed",
@@ -5144,7 +5168,7 @@
       "hook": "A two-ton shark launches ten feet out of the water.",
       "published_at": "2026-10-22T21:00:33Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LquJ2hMdwYI",
