@@ -1,36 +1,45 @@
 {
-  "updated_at": "2026-11-14T19:30:09+00:00",
+  "updated_at": "2026-11-14T23:03:13+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
     "channel_views": 16289,
-    "video_count": 93
+    "video_count": 94
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/CRYxx_sk6l0"
+      "https://youtube.com/shorts/pKfvusazAu8"
     ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/pKfvusazAu8"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/pKfvusazAu8"
+    ]
   },
   "retention": {
-    "videos_with_data": 78,
-    "avg_view_percent": 60.2,
+    "videos_with_data": 82,
+    "avg_view_percent": 61.8,
     "by_topic": {
-      "earth": 60.3,
+      "earth": 84.0,
       "space": 64.0,
-      "society": 46.5,
-      "animals": 50.3,
-      "body": 59.5,
-      "technology": 67.7
+      "society": 45.8,
+      "animals": 48.9,
+      "body": 57.8,
+      "technology": 61.3
     },
     "best": [
+      {
+        "title": "What If the Sky Went Black at Noon? It Did in 1780, and People Thought It Was the End",
+        "avg_view_percent": 297.5,
+        "views": 7
+      },
       {
         "title": "What If You Lived Inside a Cave on the Moon?",
         "avg_view_percent": 208.5,
@@ -50,11 +59,6 @@
         "title": "What If All the Ice on Earth Melted?",
         "avg_view_percent": 98.3,
         "views": 436
-      },
-      {
-        "title": "What If a Cockpit Window Blew Out Mid-Flight? In 1990 the Captain Went With It",
-        "avg_view_percent": 96.7,
-        "views": 5
       }
     ],
     "worst": [
@@ -86,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 94,
-  "total_views": 16612,
+  "total_videos": 95,
+  "total_views": 16712,
   "by_topic": {
     "earth": {
       "videos": 11,
@@ -105,14 +109,14 @@
       "best_views": 414
     },
     "animals": {
-      "videos": 12,
-      "avg_views": 221,
+      "videos": 13,
+      "avg_views": 204,
       "best_views": 1428
     },
     "body": {
       "videos": 18,
-      "avg_views": 92,
-      "best_views": 580
+      "avg_views": 96,
+      "best_views": 667
     },
     "technology": {
       "videos": 11,
@@ -122,14 +126,14 @@
   },
   "by_style": {
     "classic": {
-      "videos": 94,
-      "avg_views": 177,
+      "videos": 95,
+      "avg_views": 176,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 93,
+      "videos": 94,
       "avg_views": 167
     },
     "en-US-EricNeural": {
@@ -183,7 +187,7 @@
     {
       "title": "What If You Never Cut Your Nails? Unlike Hair, They Never Stop",
       "topic": "body",
-      "views": 580,
+      "views": 667,
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do."
     },
     {
@@ -1367,7 +1371,7 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 75,
+      "views": 77,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI",
@@ -1426,7 +1430,11 @@
       "views": 57,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/tT9xVmnTaBE"
+      "url": "https://youtube.com/shorts/tT9xVmnTaBE",
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 50.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "9VFV9DgN8Kw": {
       "upload_status": "processed",
@@ -1475,10 +1483,14 @@
       "hook": "What if you saw flashes of light with your eyes closed? In space, almost everyone does.",
       "published_at": "2026-11-12T19:40:30Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/UjmJgcGGgIc"
+      "url": "https://youtube.com/shorts/UjmJgcGGgIc",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "k18Z1hNkZYU": {
       "upload_status": "processed",
@@ -1527,7 +1539,7 @@
       "hook": "What if we sent aliens a message? We did, in 1974. It still has 25,000 years to go.",
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
-      "views": 102,
+      "views": 103,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo",
@@ -1555,10 +1567,14 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
-      "views": 580,
-      "likes": 12,
+      "views": 667,
+      "likes": 13,
       "comments": 1,
-      "url": "https://youtube.com/shorts/rhBb6oJbqXE"
+      "url": "https://youtube.com/shorts/rhBb6oJbqXE",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 47.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "KSCEzMiaT2o": {
       "upload_status": "processed",
@@ -1582,7 +1598,11 @@
       "views": 9,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/KSCEzMiaT2o"
+      "url": "https://youtube.com/shorts/KSCEzMiaT2o",
+      "avg_view_seconds": 26.0,
+      "avg_view_percent": 60.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "i_6lwWNqoGo": {
       "upload_status": "processed",
@@ -1606,7 +1626,11 @@
       "views": 2,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/i_6lwWNqoGo"
+      "url": "https://youtube.com/shorts/i_6lwWNqoGo",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "kY4T69sD7NE": {
       "upload_status": "processed",
@@ -1679,7 +1703,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 22,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU"
@@ -1731,7 +1755,7 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 210,
+      "views": 211,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU",
@@ -1759,7 +1783,7 @@
       "hook": "What if you could see with sound, like a bat? Some blind people do. You could learn.",
       "published_at": "2026-11-13T19:50:38Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/W4GbYWh6rmE"
@@ -2191,8 +2215,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dLKcX2ivoBg",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 30.3,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 26.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2247,8 +2271,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QrA3jMszKEw",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 148.0,
+      "avg_view_percent": 297.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2275,8 +2299,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 53.0,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 51.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2415,8 +2439,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/wl6AjU6flcg",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 24.8,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 30.1,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -2467,8 +2491,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VPNJB_3l0us",
-      "avg_view_seconds": 33.0,
-      "avg_view_percent": 70.0,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 51.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2523,8 +2547,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ShUXEqiH32o",
-      "avg_view_seconds": 41.0,
-      "avg_view_percent": 73.5,
+      "avg_view_seconds": 31.0,
+      "avg_view_percent": 56.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2635,8 +2659,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RylZwIA6oUA",
-      "avg_view_seconds": 47.0,
-      "avg_view_percent": 96.7,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 50.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2657,12 +2681,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if a planet had no sun at all? Trillions don't, and some might still have oceans.",
-      "published_at": "2026-11-14T19:27:54Z",
+      "published_at": "2026-11-14T20:00:19Z",
+      "privacy": "public",
+      "views": 5,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/CRYxx_sk6l0"
+    },
+    "pKfvusazAu8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Parachuted Beavers Into the Wilderness? Idaho Dropped 76",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you moved beavers by dropping them out of a plane? Idaho did, in 1948.",
+      "published_at": "2026-11-14T23:03:09Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/CRYxx_sk6l0"
+      "url": "https://youtube.com/shorts/pKfvusazAu8"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
