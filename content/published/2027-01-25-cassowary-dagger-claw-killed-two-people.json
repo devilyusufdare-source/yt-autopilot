@@ -56,5 +56,22 @@
   ],
   "thumbnail_text": "12 CM CLAW. 2 PEOPLE KILLED",
   "priority": 6,
-  "first_comment": "Cassowaries swallow rainforest fruit whole and spread the seeds, so whole forests depend on the bird with the dagger. Which dangerous animal should we rank next?"
+  "first_comment": "Cassowaries swallow rainforest fruit whole and spread the seeds, so whole forests depend on the bird with the dagger. Which dangerous animal should we rank next?",
+  "youtube_id": "3JloGL6ZBs8",
+  "url": "https://youtube.com/shorts/3JloGL6ZBs8",
+  "uploaded_at": "2026-11-14T21:40:11+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-14T22:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-photo": 12,
+    "pixabay-video": 4,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 46.5,
+  "style": "classic",
+  "kind": "shorts"
 }

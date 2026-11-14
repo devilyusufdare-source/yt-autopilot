@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-14T20:15:07+00:00",
+  "updated_at": "2026-11-14T21:40:13+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 81211,
-    "video_count": 316
+    "video_count": 317
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/7b8yugSAEl8"
+      "https://youtube.com/shorts/Tgn2QuDBdPk",
+      "https://youtube.com/shorts/3JloGL6ZBs8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/7b8yugSAEl8"
+      "https://youtube.com/shorts/3JloGL6ZBs8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/7b8yugSAEl8"
+      "https://youtube.com/shorts/3JloGL6ZBs8"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 315,
-  "total_views": 82760,
+  "total_videos": 317,
+  "total_views": 82858,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 230,
-      "avg_views": 269,
+      "videos": 232,
+      "avg_views": 267,
       "best_views": 1507
     },
     "human body": {
@@ -137,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 299,
-      "avg_views": 254,
+      "videos": 301,
+      "avg_views": 253,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 229,
-      "avg_views": 194
+      "videos": 231,
+      "avg_views": 193
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1767,7 +1768,7 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 565,
+      "views": 566,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8",
@@ -2215,7 +2216,7 @@
       "hook": "This fish defends itself with snot. It beats sharks.",
       "published_at": "2026-11-13T20:40:14Z",
       "privacy": "public",
-      "views": 117,
+      "views": 133,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8"
@@ -2351,7 +2352,7 @@
       "hook": "This turtle has a fishing lure growing inside its mouth.",
       "published_at": "2026-11-13T22:30:16Z",
       "privacy": "public",
-      "views": 78,
+      "views": 79,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/a2dldNOvxTA"
@@ -2375,7 +2376,7 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 174,
+      "views": 175,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg",
@@ -2403,7 +2404,7 @@
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
       "published_at": "2026-11-13T21:00:04Z",
       "privacy": "public",
-      "views": 679,
+      "views": 694,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/dRW4Ed6TQhk"
@@ -3207,7 +3208,7 @@
       "hook": "Grab this newt and it stabs you. With its ribs.",
       "published_at": "2026-11-12T22:00:26Z",
       "privacy": "public",
-      "views": 89,
+      "views": 90,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/M6t1_zwUDKQ",
@@ -3975,8 +3976,8 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 449,
-      "likes": 3,
+      "views": 484,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q"
     },
@@ -4243,8 +4244,8 @@
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
       "published_at": "2026-11-14T19:00:20Z",
       "privacy": "public",
-      "views": 7,
-      "likes": 0,
+      "views": 33,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg"
     },
@@ -4385,14 +4386,14 @@
       "subscribers_gained": 0
     },
     "7b8yugSAEl8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT39S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4401,11 +4402,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fish walks on the seafloor. And its legs do something no leg should.",
-      "published_at": "2026-11-14T20:14:59Z",
-      "privacy": "private",
+      "published_at": "2026-11-14T21:00:00Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8"
     },
     "nddxV9p7zlo": {
@@ -4492,6 +4493,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "Tgn2QuDBdPk": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT41S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A 50-Pound Cat With a Tiger's Fangs That Walks Down Trees Headfirst",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This cat weighs 50 pounds. Its fangs are the same length as a tiger's.",
+      "published_at": "2026-11-14T21:35:27Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Tgn2QuDBdPk"
+    },
     "9sM-TH-q2JU": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -4571,6 +4596,30 @@
       "avg_view_percent": 43.6,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "3JloGL6ZBs8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Bird With a 12 cm Dagger on Each Foot Has Killed Two People",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The most dangerous bird on Earth can't even fly.",
+      "published_at": "2026-11-14T21:40:05Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/3JloGL6ZBs8"
     },
     "valUZFoPBN4": {
       "upload_status": "processed",
@@ -6403,7 +6452,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 437,
+      "views": 438,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -6515,7 +6564,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 501,
+      "views": 502,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA",
