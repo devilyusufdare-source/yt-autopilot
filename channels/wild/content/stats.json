@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-14T00:24:54+00:00",
+  "updated_at": "2026-11-14T04:01:00+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 16,
-    "channel_views": 15907,
-    "video_count": 90
+    "subscribers": 17,
+    "channel_views": 16017,
+    "video_count": 91
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/gtcyMkEqArY"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/gtcyMkEqArY"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/gtcyMkEqArY"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 78,
@@ -91,7 +85,7 @@
   },
   "retention_note": null,
   "total_videos": 91,
-  "total_views": 16013,
+  "total_views": 16090,
   "by_topic": {
     "earth": {
       "videos": 11,
@@ -115,26 +109,26 @@
     },
     "body": {
       "videos": 17,
-      "avg_views": 64,
+      "avg_views": 68,
       "best_views": 498
     },
     "technology": {
       "videos": 11,
-      "avg_views": 146,
+      "avg_views": 147,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
       "videos": 91,
-      "avg_views": 176,
+      "avg_views": 177,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 90,
-      "avg_views": 166
+      "avg_views": 167
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1427,7 +1421,7 @@
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
       "published_at": "2026-11-12T08:10:36Z",
       "privacy": "public",
-      "views": 32,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE"
@@ -1479,7 +1473,7 @@
       "hook": "What if you saw flashes of light with your eyes closed? In space, almost everyone does.",
       "published_at": "2026-11-12T19:40:30Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UjmJgcGGgIc"
@@ -1559,7 +1553,7 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
-      "views": 76,
+      "views": 122,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE"
@@ -1631,7 +1625,7 @@
       "hook": "What if you were frozen after death, to be woken later? About 200 people already are, in Arizona.",
       "published_at": "2026-11-13T07:40:15Z",
       "privacy": "public",
-      "views": 22,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kY4T69sD7NE"
@@ -1683,7 +1677,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 14,
+      "views": 15,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU"
@@ -1895,7 +1889,7 @@
       "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
       "published_at": "2026-11-13T21:30:22Z",
       "privacy": "public",
-      "views": 1,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wvmq2CtLbiw"
@@ -1957,14 +1951,14 @@
       "subscribers_gained": 2
     },
     "gtcyMkEqArY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT51S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -1973,11 +1967,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you shrank to the size of an ant? The first thing you'd lose is your eyesight.",
-      "published_at": "2026-11-14T00:24:50Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-14T00:50:20Z",
+      "privacy": "public",
+      "views": 13,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/gtcyMkEqArY"
     },
     "8ov_Z_E0LvQ": {
@@ -2335,7 +2329,7 @@
       "hook": "What if you teed off on the Moon? One astronaut did, and lied about the distance.",
       "published_at": "2026-11-10T13:30:29Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EnjPbpuGvSU",
