@@ -121,6 +121,8 @@ A what-if is the normal schema plus `"format": "whatif"`. Models: `channels/wild
 
 ## What the numbers say (update this section as stats.json grows)
 
+**14 Nov, rankings: keep the whole script to 110 words or fewer.** Two ranking runs failed with "narration is 63s, longer than the 58s limit" (The 5 Coldest Temperatures Ever Recorded: 119 words). The validator's estimate passes them, but numbers with decimals, units and minus signs ("-128.6 degrees Fahrenheit") take far longer to speak than ordinary words. Write numbers the way they are said ("minus 128 degrees"), and cut a line rather than risk the limit.
+
 **12 Nov, What If (channel 2): stop the "…? In 19XX one did" history formula.** Since 8 Nov almost every what-if was a real
 historical event dressed as a what-if ("What If a 77-Ton Space Station Fell on Your Town? In 1979 One Did", "What If 90%
 of a Country's Women Stopped Working for a Day? Iceland Did It in 1975") and the channel collapsed to a median of ~5 views.
