@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-14T22:20:28+00:00",
+  "updated_at": "2026-11-14T23:03:18+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 81211,
-    "video_count": 318
+    "video_count": 320
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/3JloGL6ZBs8",
-      "https://youtube.com/shorts/RMDeFnxseLM"
+      "https://youtube.com/shorts/FyPtcO7OGLM",
+      "https://youtube.com/shorts/BEZ6zrFVLa0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/RMDeFnxseLM"
+      "https://youtube.com/shorts/BEZ6zrFVLa0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/RMDeFnxseLM"
+      "https://youtube.com/shorts/BEZ6zrFVLa0"
     ]
   },
   "retention": {
@@ -77,7 +77,7 @@
       {
         "title": "This Pig's Tusks Grow Through Its Face and Can Pierce Its Own Skull",
         "avg_view_percent": 17.0,
-        "views": 54
+        "views": 55
       },
       {
         "title": "This Bug Plays a Spider's Web Like a Harp, Then Stabs the Spider",
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 318,
-  "total_views": 82964,
+  "total_videos": 320,
+  "total_views": 83015,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -101,13 +101,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 24,
-      "avg_views": 259,
+      "videos": 25,
+      "avg_views": 249,
       "best_views": 1648
     },
     "animals": {
-      "videos": 233,
-      "avg_views": 266,
+      "videos": 234,
+      "avg_views": 265,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 302,
-      "avg_views": 252,
+      "videos": 304,
+      "avg_views": 251,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 232,
-      "avg_views": 193
+      "videos": 234,
+      "avg_views": 191
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2076,7 +2076,7 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 39,
+      "views": 40,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q",
@@ -2352,7 +2352,7 @@
       "hook": "This turtle has a fishing lure growing inside its mouth.",
       "published_at": "2026-11-13T22:30:16Z",
       "privacy": "public",
-      "views": 79,
+      "views": 82,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/a2dldNOvxTA"
@@ -2404,7 +2404,7 @@
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
       "published_at": "2026-11-13T21:00:04Z",
       "privacy": "public",
-      "views": 679,
+      "views": 677,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/dRW4Ed6TQhk"
@@ -2484,7 +2484,7 @@
       "hook": "A goose flies where there is half the oxygen. Its heart barely changes.",
       "published_at": "2026-11-13T21:30:38Z",
       "privacy": "public",
-      "views": 59,
+      "views": 61,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Qn6xqVn9xDE"
@@ -3600,7 +3600,7 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 292,
+      "views": 302,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8"
@@ -3624,7 +3624,7 @@
       "hook": "This pig's teeth are growing straight into its own skull.",
       "published_at": "2026-11-13T02:15:11Z",
       "privacy": "public",
-      "views": 54,
+      "views": 55,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yfeYXBuJ6DU",
@@ -3736,7 +3736,7 @@
       "hook": "This worm has two cannons on its face. They fire glue.",
       "published_at": "2026-11-13T22:00:24Z",
       "privacy": "public",
-      "views": 607,
+      "views": 619,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Na0gNeyieh0"
@@ -3760,7 +3760,7 @@
       "hook": "This spider catches moths without a web. It lies to them.",
       "published_at": "2026-11-14T00:00:16Z",
       "privacy": "public",
-      "views": 929,
+      "views": 930,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/F1JAmyNwUtk"
@@ -3784,7 +3784,7 @@
       "hook": "This mouse-sized mammal is venomous. And it keeps a living pantry.",
       "published_at": "2026-11-13T23:10:24Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6vhduTC_Ms0"
@@ -4136,7 +4136,7 @@
       "hook": "This squirrel walks up to rattlesnakes and makes its tail hot. On purpose.",
       "published_at": "2026-11-14T08:40:13Z",
       "privacy": "public",
-      "views": 38,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sYU_YCfGfIQ"
@@ -4244,8 +4244,8 @@
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
       "published_at": "2026-11-14T19:00:20Z",
       "privacy": "public",
-      "views": 68,
-      "likes": 1,
+      "views": 81,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg"
     },
@@ -4296,7 +4296,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 24,
+      "views": 29,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8"
@@ -4512,7 +4512,7 @@
       "hook": "This cat weighs 50 pounds. Its fangs are the same length as a tiger's.",
       "published_at": "2026-11-14T22:00:11Z",
       "privacy": "public",
-      "views": 1,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tgn2QuDBdPk"
@@ -4536,7 +4536,7 @@
       "hook": "The five priciest paintings ever sold at auction. Number one was once bought for 45 pounds.",
       "published_at": "2026-11-13T19:00:30Z",
       "privacy": "public",
-      "views": 44,
+      "views": 46,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9sM-TH-q2JU"
@@ -4614,11 +4614,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The most dangerous bird on Earth can't even fly.",
-      "published_at": "2026-11-14T21:40:05Z",
-      "privacy": "private",
+      "published_at": "2026-11-14T22:20:38Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/3JloGL6ZBs8"
     },
     "valUZFoPBN4": {
@@ -4650,14 +4650,14 @@
       "subscribers_gained": 0
     },
     "RMDeFnxseLM": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT46S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4666,11 +4666,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The loudest animal for its size is two millimetres long.",
-      "published_at": "2026-11-14T22:20:19Z",
-      "privacy": "private",
+      "published_at": "2026-11-14T22:40:01Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/RMDeFnxseLM"
     },
     "_DAzc-V2X2o": {
@@ -4728,6 +4728,30 @@
       "avg_view_percent": 66.2,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "FyPtcO7OGLM": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT35S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Starfish With 21 Arms Eats 10 Square Metres of Coral a Year",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Divers on this reef carry syringes of vinegar.",
+      "published_at": "2026-11-14T23:00:56Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/FyPtcO7OGLM"
     },
     "An7jwtu8ucI": {
       "upload_status": "processed",
@@ -5920,7 +5944,7 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 934,
+      "views": 935,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k",
@@ -5976,7 +6000,7 @@
       "hook": "A child died two million years ago. We found the killer.",
       "published_at": "2026-11-08T21:30:30Z",
       "privacy": "public",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/2PwdWAM0PVM",
@@ -6120,6 +6144,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rYrw1CBQ75g"
+    },
+    "BEZ6zrFVLa0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Scientists Slowed Light to 38 Miles an Hour. Then They Stopped It",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Light has been slowed to 38 miles an hour.",
+      "published_at": "2026-11-14T23:03:08Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/BEZ6zrFVLa0"
     },
     "k1T79ufoaX8": {
       "upload_status": "processed",
@@ -7120,7 +7168,7 @@
       "hook": "This animal can be dried out completely and come back.",
       "published_at": "2026-11-12T21:20:19Z",
       "privacy": "public",
-      "views": 285,
+      "views": 284,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gudmy6a0BMs",
@@ -7176,7 +7224,7 @@
       "hook": "The five strongest magnets, ranked. One blew its own lab doors off. It isn't number one.",
       "published_at": "2026-11-12T20:00:19Z",
       "privacy": "public",
-      "views": 419,
+      "views": 420,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/nhVqYFmtGDA",

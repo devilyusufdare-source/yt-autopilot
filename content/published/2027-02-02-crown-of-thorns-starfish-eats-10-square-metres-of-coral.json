@@ -57,5 +57,21 @@
   "thumbnail_text": "21 ARMS. 10 M² OF CORAL A YEAR",
   "priority": 6,
   "subject": "crown-of-thorns starfish",
-  "first_comment": "Its spines carry toxins that can damage your liver, and a single starfish eats about 20 cm of coral every night. Would you volunteer to dive and inject them?"
+  "first_comment": "Its spines carry toxins that can damage your liver, and a single starfish eats about 20 cm of coral every night. Would you volunteer to dive and inject them?",
+  "youtube_id": "FyPtcO7OGLM",
+  "url": "https://youtube.com/shorts/FyPtcO7OGLM",
+  "uploaded_at": "2026-11-14T23:01:03+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-15T00:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 34.6,
+  "style": "classic",
+  "kind": "shorts"
 }
