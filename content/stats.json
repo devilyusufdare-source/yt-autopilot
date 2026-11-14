@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-13T23:34:07+00:00",
+  "updated_at": "2026-11-14T00:21:08+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 78214,
-    "video_count": 308
+    "video_count": 310
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/F1JAmyNwUtk",
-      "https://youtube.com/shorts/LUOO26aXB0Q"
+      "https://youtube.com/shorts/rYrw1CBQ75g"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/LUOO26aXB0Q"
+      "https://youtube.com/shorts/rYrw1CBQ75g"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/LUOO26aXB0Q"
+      "https://youtube.com/shorts/rYrw1CBQ75g"
     ]
   },
   "retention": {
@@ -92,12 +91,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 308,
-  "total_views": 79357,
+  "total_videos": 309,
+  "total_views": 79366,
   "by_topic": {
     "psychology": {
-      "videos": 3,
-      "avg_views": 247,
+      "videos": 4,
+      "avg_views": 186,
       "best_views": 364
     },
     "science": {
@@ -112,7 +111,7 @@
     },
     "human body": {
       "videos": 6,
-      "avg_views": 462,
+      "avg_views": 463,
       "best_views": 1384
     },
     "history": {
@@ -133,7 +132,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 292,
+      "videos": 293,
       "avg_views": 248,
       "over_1500": 3
     },
@@ -145,8 +144,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 222,
-      "avg_views": 185
+      "videos": 223,
+      "avg_views": 184
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2211,7 +2210,7 @@
       "hook": "This fish defends itself with snot. It beats sharks.",
       "published_at": "2026-11-13T20:40:14Z",
       "privacy": "public",
-      "views": 7,
+      "views": 0,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8"
@@ -2399,7 +2398,7 @@
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
       "published_at": "2026-11-13T21:00:04Z",
       "privacy": "public",
-      "views": 22,
+      "views": 27,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/dRW4Ed6TQhk"
@@ -2479,7 +2478,7 @@
       "hook": "A goose flies where there is half the oxygen. Its heart barely changes.",
       "published_at": "2026-11-13T21:30:38Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Qn6xqVn9xDE"
@@ -2727,7 +2726,7 @@
       "hook": "This little songbird keeps a butcher's shop.",
       "published_at": "2026-11-11T15:30:02Z",
       "privacy": "public",
-      "views": 37,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/cId-MnziRv0",
@@ -3391,7 +3390,7 @@
       "hook": "One island lost fifteen million crabs. The killers were ants.",
       "published_at": "2026-11-12T22:20:12Z",
       "privacy": "public",
-      "views": 2,
+      "views": 1,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5JchxYrXcH0"
@@ -3415,7 +3414,7 @@
       "hook": "These ants rescue their wounded. And they can tell which wounds are infected.",
       "published_at": "2026-11-13T00:00:17Z",
       "privacy": "public",
-      "views": 930,
+      "views": 931,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/VNUh1UIq9uU"
@@ -3467,7 +3466,7 @@
       "hook": "Five fires that never went out, ranked. Number one was burning before the pyramids were built.",
       "published_at": "2026-11-10T15:30:00Z",
       "privacy": "public",
-      "views": 33,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wd54rwPedR4",
@@ -3579,7 +3578,7 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 97,
+      "views": 100,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8"
@@ -3655,7 +3654,7 @@
       "hook": "The five tallest roller coasters ever built, ranked. The old champion was demolished with explosives last year.",
       "published_at": "2026-11-11T15:00:10Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Yz3YXH2zvyc",
@@ -3733,11 +3732,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This spider catches moths without a web. It lies to them.",
-      "published_at": "2026-11-13T22:40:10Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-14T00:00:16Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/F1JAmyNwUtk"
     },
     "6vhduTC_Ms0": {
@@ -3933,14 +3932,14 @@
       "subscribers_gained": 1
     },
     "LUOO26aXB0Q": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT46S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3949,8 +3948,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
-      "published_at": "2026-11-13T23:33:58Z",
-      "privacy": "private",
+      "published_at": "2026-11-14T00:20:26Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -5847,10 +5846,34 @@
       "hook": "One group of humans evolved a body part for diving.",
       "published_at": "2026-11-13T03:50:23Z",
       "privacy": "public",
-      "views": 544,
+      "views": 545,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/XNfgm85JO5g"
+    },
+    "rYrw1CBQ75g": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "83% of Radiologists Missed a Gorilla Hidden in a Lung Scan",
+      "topic": "psychology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Doctors stared straight at a gorilla and didn't see it.",
+      "published_at": "2026-11-14T00:21:00Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/rYrw1CBQ75g"
     },
     "k1T79ufoaX8": {
       "upload_status": "processed",
@@ -6179,7 +6202,7 @@
       "hook": "That perfect round hole in a seashell isn't an accident. Something drilled it.",
       "published_at": "2026-11-09T18:00:06Z",
       "privacy": "public",
-      "views": 993,
+      "views": 994,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/axMrOJmzu9k",
@@ -6815,7 +6838,7 @@
       "hook": "A hawk in New Jersey hunts by traffic light.",
       "published_at": "2026-11-12T21:00:39Z",
       "privacy": "public",
-      "views": 128,
+      "views": 130,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BkM61GKu1sc"
@@ -6839,7 +6862,7 @@
       "hook": "This animal can be dried out completely and come back.",
       "published_at": "2026-11-12T21:20:19Z",
       "privacy": "public",
-      "views": 232,
+      "views": 233,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gudmy6a0BMs"

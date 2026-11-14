@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "83% MISSED THE GORILLA",
   "priority": 6,
-  "first_comment": "When the radiologists were shown the scan again afterwards, every one of them saw the gorilla. Would you have spotted it?"
+  "first_comment": "When the radiologists were shown the scan again afterwards, every one of them saw the gorilla. Would you have spotted it?",
+  "youtube_id": "rYrw1CBQ75g",
+  "url": "https://youtube.com/shorts/rYrw1CBQ75g",
+  "uploaded_at": "2026-11-14T00:21:05+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-14T00:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 10,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#C4B5FD",
+  "duration_seconds": 28.1,
+  "style": "classic",
+  "kind": "shorts"
 }
