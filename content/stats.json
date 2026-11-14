@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-14T03:33:59+00:00",
+  "updated_at": "2026-11-14T04:01:02+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
-    "channel_views": 78214,
-    "video_count": 312
+    "channel_views": 79471,
+    "video_count": 313
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/ADzZlLQvsPM"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/ADzZlLQvsPM"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/ADzZlLQvsPM"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 282,
@@ -92,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 311,
-  "total_views": 79589,
+  "total_views": 79623,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -2215,8 +2209,8 @@
       "hook": "This fish defends itself with snot. It beats sharks.",
       "published_at": "2026-11-13T20:40:14Z",
       "privacy": "public",
-      "views": 15,
-      "likes": 0,
+      "views": 26,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8"
     },
@@ -2403,7 +2397,7 @@
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
       "published_at": "2026-11-13T21:00:04Z",
       "privacy": "public",
-      "views": 34,
+      "views": 40,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/dRW4Ed6TQhk"
@@ -3583,7 +3577,7 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 109,
+      "views": 123,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8"
@@ -3979,7 +3973,7 @@
       "hook": "This bird runs a protection racket, and other birds pay up.",
       "published_at": "2026-11-14T02:15:01Z",
       "privacy": "public",
-      "views": 2,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/r_RxuoXM_dc"
@@ -5269,14 +5263,14 @@
       "subscribers_gained": 0
     },
     "ADzZlLQvsPM": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT48S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5285,8 +5279,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five best-selling game consoles ever. Number one launched in 2000 and still hasn't been caught.",
-      "published_at": "2026-11-14T03:33:46Z",
-      "privacy": "private",
+      "published_at": "2026-11-14T04:00:09Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -5899,7 +5893,7 @@
       "hook": "One group of humans evolved a body part for diving.",
       "published_at": "2026-11-13T03:50:23Z",
       "privacy": "public",
-      "views": 554,
+      "views": 551,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/XNfgm85JO5g"
@@ -5923,7 +5917,7 @@
       "hook": "Doctors stared straight at a gorilla and didn't see it.",
       "published_at": "2026-11-14T00:50:09Z",
       "privacy": "public",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rYrw1CBQ75g"
