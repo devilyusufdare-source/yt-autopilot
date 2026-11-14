@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T17:01:49+00:00",
+  "updated_at": "2026-11-14T18:31:12+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -9,13 +9,19 @@
     "video_count": 314
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/jFIEFy2VsJg"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/jFIEFy2VsJg"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/jFIEFy2VsJg"
+    ]
   },
   "retention": {
     "videos_with_data": 282,
@@ -85,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 312,
-  "total_views": 82250,
+  "total_videos": 313,
+  "total_views": 82396,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -99,7 +105,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 227,
+      "videos": 228,
       "avg_views": 270,
       "best_views": 1507
     },
@@ -131,7 +137,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 296,
+      "videos": 297,
       "avg_views": 255,
       "over_1500": 3
     },
@@ -143,8 +149,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 226,
-      "avg_views": 195
+      "videos": 227,
+      "avg_views": 194
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2209,8 +2215,8 @@
       "hook": "This fish defends itself with snot. It beats sharks.",
       "published_at": "2026-11-13T20:40:14Z",
       "privacy": "public",
-      "views": 100,
-      "likes": 2,
+      "views": 117,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8"
     },
@@ -2397,8 +2403,8 @@
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
       "published_at": "2026-11-13T21:00:04Z",
       "privacy": "public",
-      "views": 573,
-      "likes": 7,
+      "views": 631,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/dRW4Ed6TQhk"
     },
@@ -3757,7 +3763,7 @@
       "hook": "This mouse-sized mammal is venomous. And it keeps a living pantry.",
       "published_at": "2026-11-13T23:10:24Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6vhduTC_Ms0"
@@ -3949,7 +3955,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 305,
+      "views": 370,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q"
@@ -4198,6 +4204,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "jFIEFy2VsJg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A 7-Inch Fish Was Found With a 34-Inch Fish Inside It",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
+      "published_at": "2026-11-14T18:31:03Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/jFIEFy2VsJg"
+    },
     "Ai052d7-pp4": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -4413,7 +4443,7 @@
       "hook": "The five priciest paintings ever sold at auction. Number one was once bought for 45 pounds.",
       "published_at": "2026-11-13T19:00:30Z",
       "privacy": "public",
-      "views": 31,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9sM-TH-q2JU"
@@ -5221,7 +5251,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 1020,
+      "views": 1022,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8",
@@ -6581,7 +6611,7 @@
       "hook": "An astronaut nearly drowned in space.",
       "published_at": "2026-11-02T02:50:07Z",
       "privacy": "public",
-      "views": 60,
+      "views": 61,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yf9Gl1SzDAU",
