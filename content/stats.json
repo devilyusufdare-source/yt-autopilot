@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-14T00:21:08+00:00",
+  "updated_at": "2026-11-14T01:44:21+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 78214,
-    "video_count": 310
+    "video_count": 311
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/rYrw1CBQ75g"
+      "https://youtube.com/shorts/r_RxuoXM_dc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/rYrw1CBQ75g"
+      "https://youtube.com/shorts/r_RxuoXM_dc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/rYrw1CBQ75g"
+      "https://youtube.com/shorts/r_RxuoXM_dc"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 309,
-  "total_views": 79366,
+  "total_videos": 310,
+  "total_views": 79410,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 225,
-      "avg_views": 260,
+      "videos": 226,
+      "avg_views": 259,
       "best_views": 1507
     },
     "human body": {
@@ -116,7 +116,7 @@
     },
     "history": {
       "videos": 16,
-      "avg_views": 123,
+      "avg_views": 124,
       "best_views": 1114
     },
     "space": {
@@ -126,14 +126,14 @@
     },
     "technology": {
       "videos": 6,
-      "avg_views": 79,
+      "avg_views": 80,
       "best_views": 287
     }
   },
   "by_style": {
     "classic": {
-      "videos": 293,
-      "avg_views": 248,
+      "videos": 294,
+      "avg_views": 247,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 223,
+      "videos": 224,
       "avg_views": 184
     },
     "en-US-BrianNeural": {
@@ -1874,7 +1874,7 @@
       "hook": "A garden songbird that hunts bats.",
       "published_at": "2026-11-10T00:20:27Z",
       "privacy": "public",
-      "views": 45,
+      "views": 46,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/340LMR9p660",
@@ -2210,7 +2210,7 @@
       "hook": "This fish defends itself with snot. It beats sharks.",
       "published_at": "2026-11-13T20:40:14Z",
       "privacy": "public",
-      "views": 0,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8"
@@ -2346,7 +2346,7 @@
       "hook": "This turtle has a fishing lure growing inside its mouth.",
       "published_at": "2026-11-13T22:30:16Z",
       "privacy": "public",
-      "views": 4,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/a2dldNOvxTA"
@@ -2398,8 +2398,8 @@
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
       "published_at": "2026-11-13T21:00:04Z",
       "privacy": "public",
-      "views": 27,
-      "likes": 2,
+      "views": 34,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/dRW4Ed6TQhk"
     },
@@ -2422,7 +2422,7 @@
       "hook": "This glowing 60-foot tube is alive. And it isn't one animal.",
       "published_at": "2026-11-11T00:10:11Z",
       "privacy": "public",
-      "views": 103,
+      "views": 104,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uGfj97UnMNs",
@@ -2478,7 +2478,7 @@
       "hook": "A goose flies where there is half the oxygen. Its heart barely changes.",
       "published_at": "2026-11-13T21:30:38Z",
       "privacy": "public",
-      "views": 1,
+      "views": 0,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Qn6xqVn9xDE"
@@ -3390,7 +3390,7 @@
       "hook": "One island lost fifteen million crabs. The killers were ants.",
       "published_at": "2026-11-12T22:20:12Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5JchxYrXcH0"
@@ -3414,7 +3414,7 @@
       "hook": "These ants rescue their wounded. And they can tell which wounds are infected.",
       "published_at": "2026-11-13T00:00:17Z",
       "privacy": "public",
-      "views": 931,
+      "views": 932,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/VNUh1UIq9uU"
@@ -3466,7 +3466,7 @@
       "hook": "Five fires that never went out, ranked. Number one was burning before the pyramids were built.",
       "published_at": "2026-11-10T15:30:00Z",
       "privacy": "public",
-      "views": 32,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wd54rwPedR4",
@@ -3578,7 +3578,7 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 100,
+      "views": 109,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8"
@@ -3654,7 +3654,7 @@
       "hook": "The five tallest roller coasters ever built, ranked. The old champion was demolished with explosives last year.",
       "published_at": "2026-11-11T15:00:10Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Yz3YXH2zvyc",
@@ -3712,7 +3712,7 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Na0gNeyieh0"
     },
     "F1JAmyNwUtk": {
@@ -3734,7 +3734,7 @@
       "hook": "This spider catches moths without a web. It lies to them.",
       "published_at": "2026-11-14T00:00:16Z",
       "privacy": "public",
-      "views": 1,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/F1JAmyNwUtk"
@@ -3950,10 +3950,34 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
+      "views": 4,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/LUOO26aXB0Q"
+    },
+    "r_RxuoXM_dc": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bird Runs a Protection Racket. Reject Its Egg and It Wrecks Your Nest",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This bird runs a protection racket, and other birds pay up.",
+      "published_at": "2026-11-14T01:44:13Z",
+      "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/LUOO26aXB0Q"
+      "url": "https://youtube.com/shorts/r_RxuoXM_dc"
     },
     "mwNxqOaibXU": {
       "upload_status": "processed",
@@ -4366,7 +4390,7 @@
       "hook": "The five priciest paintings ever sold at auction. Number one was once bought for 45 pounds.",
       "published_at": "2026-11-13T19:00:30Z",
       "privacy": "public",
-      "views": 0,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9sM-TH-q2JU"
@@ -5062,7 +5086,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 955,
+      "views": 956,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg",
@@ -5790,7 +5814,7 @@
       "hook": "Millions of crickets march in a band six miles long.",
       "published_at": "2026-11-09T02:50:04Z",
       "privacy": "public",
-      "views": 335,
+      "views": 337,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aRbjc6mK_Uw",
@@ -5852,14 +5876,14 @@
       "url": "https://youtube.com/shorts/XNfgm85JO5g"
     },
     "rYrw1CBQ75g": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT29S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5868,11 +5892,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Doctors stared straight at a gorilla and didn't see it.",
-      "published_at": "2026-11-14T00:21:00Z",
-      "privacy": "private",
+      "published_at": "2026-11-14T00:50:09Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/rYrw1CBQ75g"
     },
     "k1T79ufoaX8": {
@@ -6202,7 +6226,7 @@
       "hook": "That perfect round hole in a seashell isn't an accident. Something drilled it.",
       "published_at": "2026-11-09T18:00:06Z",
       "privacy": "public",
-      "views": 994,
+      "views": 992,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/axMrOJmzu9k",
@@ -6538,7 +6562,7 @@
       "hook": "Red ants found this caterpillar and carried it home. That was its plan.",
       "published_at": "2026-11-10T21:20:05Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nMa7hcjpTsM",
