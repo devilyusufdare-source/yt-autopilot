@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-15T20:01:49+00:00",
+  "updated_at": "2026-11-15T23:31:16+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
     "channel_views": 16776,
-    "video_count": 99
+    "video_count": 100
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/7DUibZ-ZGZw"
+      "https://youtube.com/shorts/TBPED4Lvws0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/7DUibZ-ZGZw"
+      "https://youtube.com/shorts/TBPED4Lvws0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/7DUibZ-ZGZw"
+      "https://youtube.com/shorts/TBPED4Lvws0"
     ]
   },
   "retention": {
@@ -38,7 +38,7 @@
       {
         "title": "What If the Sky Went Black at Noon? It Did in 1780, and People Thought It Was the End",
         "avg_view_percent": 297.5,
-        "views": 7
+        "views": 8
       },
       {
         "title": "What If You Lived Inside a Cave on the Moon?",
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 100,
-  "total_views": 16815,
+  "total_videos": 101,
+  "total_views": 16832,
   "by_topic": {
     "earth": {
       "videos": 11,
@@ -119,22 +119,22 @@
       "best_views": 667
     },
     "technology": {
-      "videos": 11,
-      "avg_views": 148,
+      "videos": 12,
+      "avg_views": 136,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 100,
-      "avg_views": 168,
+      "videos": 101,
+      "avg_views": 167,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 99,
-      "avg_views": 159
+      "videos": 100,
+      "avg_views": 158
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1707,7 +1707,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 31,
+      "views": 32,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU",
@@ -2015,7 +2015,7 @@
       "hook": "What if you shrank to the size of an ant? The first thing you'd lose is your eyesight.",
       "published_at": "2026-11-14T00:50:20Z",
       "privacy": "public",
-      "views": 19,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/gtcyMkEqArY",
@@ -2151,7 +2151,7 @@
       "hook": "What if every police officer in a city walked out at once? Montreal tried it. Sixteen hours.",
       "published_at": "2026-11-08T21:00:01Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BN6tRrVJNQs",
@@ -2291,7 +2291,7 @@
       "hook": "What if the sky went black at midday, with no eclipse and no storm? In 1780 it happened.",
       "published_at": "2026-11-09T17:50:04Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QrA3jMszKEw",
@@ -2375,7 +2375,7 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 47,
+      "views": 48,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
@@ -2755,7 +2755,7 @@
       "hook": "What if you were buried on the Moon? One man is, and he never got to go alive.",
       "published_at": "2026-11-15T07:40:10Z",
       "privacy": "public",
-      "views": 17,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BxqA1Dw9mFI"
@@ -2883,20 +2883,20 @@
       "hook": "What if you woke up speaking in a foreign accent? You wouldn't have learned a thing.",
       "published_at": "2026-11-15T19:50:27Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KP7S7VpFHD8"
     },
     "7DUibZ-ZGZw": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT42S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2905,11 +2905,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you were locked in a windowless capsule for 520 days? Six men volunteered.",
-      "published_at": "2026-11-15T20:01:44Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-15T21:00:19Z",
+      "privacy": "public",
+      "views": 10,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/7DUibZ-ZGZw"
     },
     "NNxxSa4E8DY": {
@@ -2939,6 +2939,30 @@
       "avg_view_percent": 42.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "TBPED4Lvws0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Turned a Building Around With 600 People Working Inside?",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you spun an office building around while everyone kept working? In 1930, Indianapolis did.",
+      "published_at": "2026-11-15T23:31:11Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/TBPED4Lvws0"
     },
     "Hy3xsXTwQhA": {
       "upload_status": "processed",
