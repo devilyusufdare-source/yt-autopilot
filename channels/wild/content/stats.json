@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-15T18:05:22+00:00",
+  "updated_at": "2026-11-15T19:27:34+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
     "channel_views": 16776,
-    "video_count": 96
+    "video_count": 98
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/6MwRUYxhTM8",
-      "https://youtube.com/shorts/asNdmpC5F_U"
+      "https://youtube.com/shorts/KP7S7VpFHD8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/asNdmpC5F_U"
+      "https://youtube.com/shorts/KP7S7VpFHD8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/asNdmpC5F_U"
+      "https://youtube.com/shorts/KP7S7VpFHD8"
     ]
   },
   "retention": {
@@ -91,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 98,
-  "total_views": 16803,
+  "total_videos": 99,
+  "total_views": 16808,
   "by_topic": {
     "earth": {
       "videos": 11,
@@ -115,8 +114,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 20,
-      "avg_views": 87,
+      "videos": 21,
+      "avg_views": 83,
       "best_views": 667
     },
     "technology": {
@@ -127,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 98,
-      "avg_views": 171,
+      "videos": 99,
+      "avg_views": 170,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 97,
-      "avg_views": 162
+      "videos": 98,
+      "avg_views": 161
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1484,7 +1483,7 @@
       "hook": "What if you saw flashes of light with your eyes closed? In space, almost everyone does.",
       "published_at": "2026-11-12T19:40:30Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UjmJgcGGgIc",
@@ -2782,22 +2781,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you could never make another memory? One man lived that way for 55 years.",
-      "published_at": "2026-11-15T18:02:57Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-15T18:30:12Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/6MwRUYxhTM8"
     },
     "asNdmpC5F_U": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT45S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2806,11 +2805,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you could smell an illness years before any doctor could find it? One woman can.",
-      "published_at": "2026-11-15T18:05:17Z",
-      "privacy": "private",
+      "published_at": "2026-11-15T18:50:37Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/asNdmpC5F_U"
     },
     "JG_L7e77sH8": {
@@ -2840,6 +2839,30 @@
       "avg_view_percent": 64.9,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "KP7S7VpFHD8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Woke Up With a Foreign Accent? About 100 People Have",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you woke up speaking in a foreign accent? You wouldn't have learned a thing.",
+      "published_at": "2026-11-15T19:27:29Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/KP7S7VpFHD8"
     },
     "NNxxSa4E8DY": {
       "upload_status": "processed",
