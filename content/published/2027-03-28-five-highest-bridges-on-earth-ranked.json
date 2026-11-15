@@ -69,5 +69,21 @@
   ],
   "thumbnail_text": "5 HIGHEST BRIDGES, RANKED",
   "priority": 6,
-  "first_comment": "The highest bridge outside China is Mexico's Baluarte Bridge, at 390 meters. Which one would you dare to cross, and what should we rank next?"
+  "first_comment": "The highest bridge outside China is Mexico's Baluarte Bridge, at 390 meters. Which one would you dare to cross, and what should we rank next?",
+  "youtube_id": "Fo0DQwKYbGI",
+  "url": "https://youtube.com/shorts/Fo0DQwKYbGI",
+  "uploaded_at": "2026-11-15T02:41:47+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-15T03:10:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 45.6,
+  "style": "classic",
+  "kind": "shorts"
 }

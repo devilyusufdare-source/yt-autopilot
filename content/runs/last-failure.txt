@@ -1,31 +1,34 @@
-run failed at 2026-11-14T03:34:00+00:00 UTC (error lines and last 25 lines, secrets removed)
+run failed at 2026-11-15T02:44:26+00:00 UTC (error lines and last 25 lines, secrets removed)
 
 earlier error lines:
     raise RuntimeError(f"narration is {total_est:.1f}s, longer than the {max_s:.0f}s limit; shorten the script")
+RuntimeError: narration is 63.1s, longer than the 58s limit; shorten the script
+[run] render failed; trying the next idea so this run still publishes a video
+[tts] edge-tts scene 3 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
 
 last 25 lines:
-RuntimeError: narration is 63.1s, longer than the 58s limit; shorten the script
+[run] rendered 2027-03-28-five-highest-bridges-on-earth-ranked.mp4 (45.6s, voice=edge)
+[upload] 20%
+[upload] 40%
+[upload] 60%
+[upload] 80%
+[run] uploaded: https://youtube.com/shorts/Fo0DQwKYbGI  (goes public at 2026-11-15T03:10:00Z)
 
-[run] (1/1) 2027-01-01-five-coldest-temperatures-ever-recorded-ranked.json  title: The 5 Coldest Temperatures Ever Recorded, Ranked (#1 Is Colder Than Dry Ice)
-[run] style: classic
-[run] voice: 7 scenes (en-US-AndrewNeural)
-[tts] edge-tts scene 1 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[tts] edge-tts scene 6 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
-[run] render failed; trying the next idea so this run still publishes a video
-
-[run] (2/2) 2027-03-25-five-best-selling-game-consoles-ever-ranked.json  title: The 5 Best-Selling Game Consoles Ever, Ranked (#1 Launched in 2000)
+[run] (3/3) 2027-02-08-barracuda-hits-36-mph-and-attacks-anything-that-glints.json  title: A Barracuda Hits 36 mph and Attacks Anything That Glints
 [run] style: classic
 [run] voice: 7 scenes (en-US-AndrewNeural)
 [run] visuals: pixabay
-[visuals] first clip candidate pxb4915: motion 4.4, brightness 143
-[visuals] first clip candidate pxb19600: motion 6.5, brightness 185
-[visuals] first clip candidate pxb3360: motion 6.8, brightness 112
+[run] footage focus: ['barracuda']
+[visuals] first clip candidate pxb366850: motion 0.7, brightness 91
+[visuals] first clip candidate pxb1084: motion 13.6, brightness 109
+[visuals] first clip candidate pxb751: motion 3.8, brightness 44
 [run] rendering final video
-[run] rendered 2027-03-25-five-best-selling-game-consoles-ever-ranked.mp4 (47.1s, voice=edge)
-[run] waiting 17.7 min for a free upload slot (YouTube 24 h limit)
-[upload] 33%
-[upload] 67%
-[run] uploaded: https://youtube.com/shorts/ADzZlLQvsPM  (goes public at 2026-11-14T04:00:00Z)
-[run] stats refreshed: 311 videos, 79589 views total
+[run] rendered 2027-02-08-barracuda-hits-36-mph-and-attacks-anything-that-glints.mp4 (38.0s, voice=edge)
+[upload] 23%
+[upload] 46%
+[upload] 70%
+[upload] 93%
+[run] uploaded: https://youtube.com/shorts/xK7E3M26JZg  (goes public at 2026-11-15T03:30:00Z)
+[run] stats refreshed: 323 videos, 83572 views total
 
-[run] finished: 1 video(s) done, 1 failed
+[run] finished: 2 video(s) done, 1 failed

@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-14T23:56:41+00:00",
+  "updated_at": "2026-11-15T02:44:25+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 81211,
-    "video_count": 321
+    "video_count": 323
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/FyPtcO7OGLM",
-      "https://youtube.com/shorts/XkzwjhVdUho"
+      "https://youtube.com/shorts/xK7E3M26JZg",
+      "https://youtube.com/shorts/Fo0DQwKYbGI"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/XkzwjhVdUho"
+      "https://youtube.com/shorts/xK7E3M26JZg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/XkzwjhVdUho"
+      "https://youtube.com/shorts/xK7E3M26JZg"
     ]
   },
   "retention": {
@@ -77,7 +77,7 @@
       {
         "title": "This Pig's Tusks Grow Through Its Face and Can Pierce Its Own Skull",
         "avg_view_percent": 17.0,
-        "views": 55
+        "views": 59
       },
       {
         "title": "This Bug Plays a Spider's Web Like a Harp, Then Stabs the Spider",
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 321,
-  "total_views": 83174,
+  "total_videos": 323,
+  "total_views": 83572,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -106,7 +106,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 235,
+      "videos": 236,
       "avg_views": 265,
       "best_views": 1507
     },
@@ -126,8 +126,8 @@
       "best_views": 1513
     },
     "technology": {
-      "videos": 6,
-      "avg_views": 80,
+      "videos": 7,
+      "avg_views": 68,
       "best_views": 286
     },
     "games": {
@@ -138,7 +138,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 305,
+      "videos": 307,
       "avg_views": 250,
       "over_1500": 3
     },
@@ -150,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 235,
+      "videos": 237,
       "avg_views": 191
     },
     "en-US-BrianNeural": {
@@ -2216,7 +2216,7 @@
       "hook": "This fish defends itself with snot. It beats sharks.",
       "published_at": "2026-11-13T20:40:14Z",
       "privacy": "public",
-      "views": 133,
+      "views": 145,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8"
@@ -2484,7 +2484,7 @@
       "hook": "A goose flies where there is half the oxygen. Its heart barely changes.",
       "published_at": "2026-11-13T21:30:38Z",
       "privacy": "public",
-      "views": 65,
+      "views": 66,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Qn6xqVn9xDE"
@@ -2816,7 +2816,7 @@
       "hook": "A moray eel bites you twice. The second bite comes from its throat.",
       "published_at": "2026-11-11T18:00:18Z",
       "privacy": "public",
-      "views": 998,
+      "views": 999,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/f32tutRUWsE",
@@ -3600,8 +3600,8 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 327,
-      "likes": 3,
+      "views": 348,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8"
     },
@@ -3624,7 +3624,7 @@
       "hook": "This pig's teeth are growing straight into its own skull.",
       "published_at": "2026-11-13T02:15:11Z",
       "privacy": "public",
-      "views": 55,
+      "views": 59,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yfeYXBuJ6DU",
@@ -3736,7 +3736,7 @@
       "hook": "This worm has two cannons on its face. They fire glue.",
       "published_at": "2026-11-13T22:00:24Z",
       "privacy": "public",
-      "views": 624,
+      "views": 668,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Na0gNeyieh0"
@@ -3760,7 +3760,7 @@
       "hook": "This spider catches moths without a web. It lies to them.",
       "published_at": "2026-11-14T00:00:16Z",
       "privacy": "public",
-      "views": 930,
+      "views": 932,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/F1JAmyNwUtk"
@@ -3976,8 +3976,8 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 532,
-      "likes": 6,
+      "views": 565,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q"
     },
@@ -4000,7 +4000,7 @@
       "hook": "This bird runs a protection racket, and other birds pay up.",
       "published_at": "2026-11-14T02:15:01Z",
       "privacy": "public",
-      "views": 31,
+      "views": 36,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/r_RxuoXM_dc"
@@ -4136,7 +4136,7 @@
       "hook": "This squirrel walks up to rattlesnakes and makes its tail hot. On purpose.",
       "published_at": "2026-11-14T08:40:13Z",
       "privacy": "public",
-      "views": 49,
+      "views": 56,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sYU_YCfGfIQ"
@@ -4244,8 +4244,8 @@
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
       "published_at": "2026-11-14T19:00:20Z",
       "privacy": "public",
-      "views": 84,
-      "likes": 2,
+      "views": 173,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg"
     },
@@ -4296,7 +4296,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 44,
+      "views": 60,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8"
@@ -4404,7 +4404,7 @@
       "hook": "This fish walks on the seafloor. And its legs do something no leg should.",
       "published_at": "2026-11-14T21:00:00Z",
       "privacy": "public",
-      "views": 0,
+      "views": 19,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8"
@@ -4512,8 +4512,8 @@
       "hook": "This cat weighs 50 pounds. Its fangs are the same length as a tiger's.",
       "published_at": "2026-11-14T22:00:11Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 0,
+      "views": 89,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tgn2QuDBdPk"
     },
@@ -4536,7 +4536,7 @@
       "hook": "The five priciest paintings ever sold at auction. Number one was once bought for 45 pounds.",
       "published_at": "2026-11-13T19:00:30Z",
       "privacy": "public",
-      "views": 46,
+      "views": 48,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9sM-TH-q2JU"
@@ -4746,11 +4746,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Divers on this reef carry syringes of vinegar.",
-      "published_at": "2026-11-14T23:00:56Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-15T00:00:26Z",
+      "privacy": "public",
+      "views": 8,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/FyPtcO7OGLM"
     },
     "An7jwtu8ucI": {
@@ -4782,14 +4782,14 @@
       "subscribers_gained": 0
     },
     "XkzwjhVdUho": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4798,11 +4798,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fish has a Ferrari price and a plastic surgeon.",
-      "published_at": "2026-11-14T23:56:32Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-15T00:20:19Z",
+      "privacy": "public",
+      "views": 40,
+      "likes": 2,
+      "comments": 1,
       "url": "https://youtube.com/shorts/XkzwjhVdUho"
     },
     "cmlnxZqwptc": {
@@ -4860,6 +4860,30 @@
       "avg_view_percent": 66.5,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "xK7E3M26JZg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Barracuda Hits 36 mph and Attacks Anything That Glints",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Divers here take off their watches first.",
+      "published_at": "2026-11-15T02:44:15Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/xK7E3M26JZg"
     },
     "lSMWTUoJceo": {
       "upload_status": "processed",
@@ -5244,7 +5268,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 969,
+      "views": 972,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk",
@@ -5641,6 +5665,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "Fo0DQwKYbGI": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT46S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Highest Bridges on Earth, Ranked (All Five Are in One Country)",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five highest bridges on Earth. All five were built by the same country.",
+      "published_at": "2026-11-15T02:41:40Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Fo0DQwKYbGI"
+    },
     "1dSVVteEjkM": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -5828,7 +5876,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 343,
+      "views": 344,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s",
@@ -6188,7 +6236,7 @@
       "hook": "Light has been slowed to 38 miles an hour.",
       "published_at": "2026-11-14T23:30:23Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BEZ6zrFVLa0"
@@ -7136,8 +7184,8 @@
       "hook": "One tiger. 436 people. And two broken teeth explain it.",
       "published_at": "2026-11-12T19:20:03Z",
       "privacy": "public",
-      "views": 621,
-      "likes": 5,
+      "views": 622,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/HE8mLoU1rAs",
       "avg_view_seconds": 21.0,
@@ -7164,7 +7212,7 @@
       "hook": "A hawk in New Jersey hunts by traffic light.",
       "published_at": "2026-11-12T21:00:39Z",
       "privacy": "public",
-      "views": 137,
+      "views": 138,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BkM61GKu1sc",
@@ -7248,7 +7296,7 @@
       "hook": "The five strongest magnets, ranked. One blew its own lab doors off. It isn't number one.",
       "published_at": "2026-11-12T20:00:19Z",
       "privacy": "public",
-      "views": 420,
+      "views": 421,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/nhVqYFmtGDA",

@@ -57,5 +57,21 @@
   "thumbnail_text": "0 TO 36 MPH. IT HUNTS THE GLINT",
   "priority": 6,
   "subject": "great barracuda",
-  "first_comment": "Barracuda are ram-biters: they hit at full speed and slice a fish in two. What's the scariest thing you've seen while diving?"
+  "first_comment": "Barracuda are ram-biters: they hit at full speed and slice a fish in two. What's the scariest thing you've seen while diving?",
+  "youtube_id": "xK7E3M26JZg",
+  "url": "https://youtube.com/shorts/xK7E3M26JZg",
+  "uploaded_at": "2026-11-15T02:44:22+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-15T03:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 38.0,
+  "style": "classic",
+  "kind": "shorts"
 }
