@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T19:07:25+00:00",
+  "updated_at": "2026-11-15T19:48:16+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/-qEs_rymHKQ"
+      "https://youtube.com/shorts/-qEs_rymHKQ",
+      "https://youtube.com/shorts/qQCzFZzti0k"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/-qEs_rymHKQ"
+      "https://youtube.com/shorts/qQCzFZzti0k"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/-qEs_rymHKQ"
+      "https://youtube.com/shorts/qQCzFZzti0k"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 326,
-  "total_views": 86444,
+  "total_videos": 327,
+  "total_views": 86570,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 239,
-      "avg_views": 274,
+      "videos": 240,
+      "avg_views": 273,
       "best_views": 1507
     },
     "human body": {
@@ -137,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 310,
-      "avg_views": 257,
+      "videos": 311,
+      "avg_views": 256,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 240,
-      "avg_views": 201
+      "videos": 241,
+      "avg_views": 200
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2215,7 +2216,7 @@
       "hook": "This fish defends itself with snot. It beats sharks.",
       "published_at": "2026-11-13T20:40:14Z",
       "privacy": "public",
-      "views": 352,
+      "views": 353,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8"
@@ -3735,7 +3736,7 @@
       "hook": "This worm has two cannons on its face. They fire glue.",
       "published_at": "2026-11-13T22:00:24Z",
       "privacy": "public",
-      "views": 852,
+      "views": 860,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/Na0gNeyieh0"
@@ -3975,7 +3976,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 955,
+      "views": 953,
       "likes": 13,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q"
@@ -3999,7 +4000,7 @@
       "hook": "This bird runs a protection racket, and other birds pay up.",
       "published_at": "2026-11-14T02:15:01Z",
       "privacy": "public",
-      "views": 70,
+      "views": 73,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/r_RxuoXM_dc"
@@ -4135,7 +4136,7 @@
       "hook": "This squirrel walks up to rattlesnakes and makes its tail hot. On purpose.",
       "published_at": "2026-11-14T08:40:13Z",
       "privacy": "public",
-      "views": 148,
+      "views": 160,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sYU_YCfGfIQ"
@@ -4243,7 +4244,7 @@
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
       "published_at": "2026-11-14T19:00:20Z",
       "privacy": "public",
-      "views": 611,
+      "views": 610,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg"
@@ -4295,8 +4296,8 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 346,
-      "likes": 1,
+      "views": 307,
+      "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8"
     },
@@ -4403,7 +4404,7 @@
       "hook": "This fish walks on the seafloor. And its legs do something no leg should.",
       "published_at": "2026-11-14T21:00:00Z",
       "privacy": "public",
-      "views": 173,
+      "views": 171,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8"
@@ -4511,8 +4512,8 @@
       "hook": "This cat weighs 50 pounds. Its fangs are the same length as a tiger's.",
       "published_at": "2026-11-14T22:00:11Z",
       "privacy": "public",
-      "views": 370,
-      "likes": 2,
+      "views": 467,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tgn2QuDBdPk"
     },
@@ -4747,7 +4748,7 @@
       "hook": "Divers on this reef carry syringes of vinegar.",
       "published_at": "2026-11-15T00:00:26Z",
       "privacy": "public",
-      "views": 72,
+      "views": 82,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/FyPtcO7OGLM"
@@ -4799,8 +4800,8 @@
       "hook": "This fish has a Ferrari price and a plastic surgeon.",
       "published_at": "2026-11-15T00:20:19Z",
       "privacy": "public",
-      "views": 311,
-      "likes": 4,
+      "views": 346,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/XkzwjhVdUho"
     },
@@ -5039,7 +5040,7 @@
       "hook": "This animal has no teeth. It killed two hunters.",
       "published_at": "2026-11-15T19:00:37Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7uKz9J6doK4"
@@ -5129,14 +5130,14 @@
       "subscribers_gained": 0
     },
     "-qEs_rymHKQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT39S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -5207,6 +5208,30 @@
       "avg_view_percent": 690.0,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "qQCzFZzti0k": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Brazil Banned Everyone From This Island. The Reason Lives in the Trees",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "No one is allowed on this island. By law.",
+      "published_at": "2026-11-15T19:48:08Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/qQCzFZzti0k"
     },
     "_tgT8z8IjDw": {
       "upload_status": "processed",
@@ -6283,7 +6308,7 @@
       "hook": "Doctors stared straight at a gorilla and didn't see it.",
       "published_at": "2026-11-14T00:50:09Z",
       "privacy": "public",
-      "views": 29,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rYrw1CBQ75g"
@@ -9131,7 +9156,7 @@
       "hook": "A parrot once looked in a mirror and asked a question.",
       "published_at": "2026-11-02T21:20:22Z",
       "privacy": "public",
-      "views": 11,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/y5-MSH3z9d0",
