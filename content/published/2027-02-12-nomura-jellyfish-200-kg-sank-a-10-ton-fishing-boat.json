@@ -57,5 +57,21 @@
   "thumbnail_text": "440 LB JELLYFISH SANK A BOAT",
   "priority": 6,
   "subject": "Nomura's jellyfish",
-  "first_comment": "A single Nomura's jellyfish can weigh as much as a sumo wrestler. What is the strangest thing you have ever pulled up in a net?"
+  "first_comment": "A single Nomura's jellyfish can weigh as much as a sumo wrestler. What is the strangest thing you have ever pulled up in a net?",
+  "youtube_id": "guSCzqDd8yw",
+  "url": "https://youtube.com/shorts/guSCzqDd8yw",
+  "uploaded_at": "2026-11-15T07:58:46+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-15T08:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 42.4,
+  "style": "classic",
+  "kind": "shorts"
 }
