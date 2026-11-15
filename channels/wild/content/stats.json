@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-14T23:03:13+00:00",
+  "updated_at": "2026-11-15T07:08:43+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
-    "channel_views": 16289,
-    "video_count": 94
+    "channel_views": 16712,
+    "video_count": 95
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/pKfvusazAu8"
+      "https://youtube.com/shorts/BxqA1Dw9mFI"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/pKfvusazAu8"
+      "https://youtube.com/shorts/BxqA1Dw9mFI"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/pKfvusazAu8"
+      "https://youtube.com/shorts/BxqA1Dw9mFI"
     ]
   },
   "retention": {
@@ -70,7 +70,7 @@
       {
         "title": "What If a Computer Said Five Nukes Were Coming? In 1983 One Did",
         "avg_view_percent": 14.0,
-        "views": 7
+        "views": 8
       },
       {
         "title": "What If We Sent a Dog Into Orbit? We Did in 1957, and Hid the Truth for 45 Years",
@@ -90,17 +90,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 95,
-  "total_views": 16712,
+  "total_videos": 96,
+  "total_views": 16760,
   "by_topic": {
     "earth": {
       "videos": 11,
-      "avg_views": 412,
+      "avg_views": 413,
       "best_views": 1127
     },
     "space": {
-      "videos": 36,
-      "avg_views": 152,
+      "videos": 37,
+      "avg_views": 149,
       "best_views": 1281
     },
     "society": {
@@ -110,12 +110,12 @@
     },
     "animals": {
       "videos": 13,
-      "avg_views": 204,
+      "avg_views": 205,
       "best_views": 1428
     },
     "body": {
       "videos": 18,
-      "avg_views": 96,
+      "avg_views": 97,
       "best_views": 667
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 95,
-      "avg_views": 176,
+      "videos": 96,
+      "avg_views": 175,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 94,
-      "avg_views": 167
+      "videos": 95,
+      "avg_views": 165
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1427,7 +1427,7 @@
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
       "published_at": "2026-11-12T08:10:36Z",
       "privacy": "public",
-      "views": 57,
+      "views": 58,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE",
@@ -1483,7 +1483,7 @@
       "hook": "What if you saw flashes of light with your eyes closed? In space, almost everyone does.",
       "published_at": "2026-11-12T19:40:30Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UjmJgcGGgIc",
@@ -1623,7 +1623,7 @@
       "hook": "What if you saw 100 million colours instead of one million? Some women do, and never find out.",
       "published_at": "2026-11-12T22:10:21Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo",
@@ -1651,7 +1651,7 @@
       "hook": "What if you were frozen after death, to be woken later? About 200 people already are, in Arizona.",
       "published_at": "2026-11-13T07:40:15Z",
       "privacy": "public",
-      "views": 33,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kY4T69sD7NE"
@@ -1703,7 +1703,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 24,
+      "views": 28,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU"
@@ -1727,7 +1727,7 @@
       "hook": "What if a computer said five nuclear missiles were coming? On September 26th, 1983, one did.",
       "published_at": "2026-11-06T19:50:31Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BIt14NsOzWA",
@@ -1915,7 +1915,7 @@
       "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
       "published_at": "2026-11-13T21:30:22Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wvmq2CtLbiw"
@@ -1939,7 +1939,7 @@
       "hook": "What if you fired a gun in space? The bullet never stops. And it might come back.",
       "published_at": "2026-11-07T21:00:38Z",
       "privacy": "public",
-      "views": 68,
+      "views": 69,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg",
@@ -2351,7 +2351,7 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 45,
+      "views": 46,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
@@ -2463,7 +2463,7 @@
       "hook": "What if your bones were hollow, like a bird's? You wouldn't lose a single kilo.",
       "published_at": "2026-11-14T17:50:26Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rZvHcmJwADY"
@@ -2683,12 +2683,36 @@
       "hook": "What if a planet had no sun at all? Trillions don't, and some might still have oceans.",
       "published_at": "2026-11-14T20:00:19Z",
       "privacy": "public",
-      "views": 5,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CRYxx_sk6l0"
     },
     "pKfvusazAu8": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT47S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Parachuted Beavers Into the Wilderness? Idaho Dropped 76",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you moved beavers by dropping them out of a plane? Idaho did, in 1948.",
+      "published_at": "2026-11-14T23:30:29Z",
+      "privacy": "public",
+      "views": 11,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/pKfvusazAu8"
+    },
+    "BxqA1Dw9mFI": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -2700,17 +2724,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Parachuted Beavers Into the Wilderness? Idaho Dropped 76",
-      "topic": "animals",
+      "title": "What If You Were Buried on the Moon? So Far, Exactly One Person Is",
+      "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you moved beavers by dropping them out of a plane? Idaho did, in 1948.",
-      "published_at": "2026-11-14T23:03:09Z",
+      "hook": "What if you were buried on the Moon? One man is, and he never got to go alive.",
+      "published_at": "2026-11-15T07:08:40Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/pKfvusazAu8"
+      "url": "https://youtube.com/shorts/BxqA1Dw9mFI"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
