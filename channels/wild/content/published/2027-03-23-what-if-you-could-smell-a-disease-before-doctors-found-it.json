@@ -57,5 +57,20 @@
   "thumbnail_text": "WHAT IF YOU COULD SMELL DISEASE?",
   "priority": 8,
   "first_comment": "Her heightened sense of smell is hereditary. Which sense would you want turned all the way up, and what should we run through next?",
-  "_attempts": 1
+  "youtube_id": "asNdmpC5F_U",
+  "url": "https://youtube.com/shorts/asNdmpC5F_U",
+  "uploaded_at": "2026-11-15T18:05:21+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-15T18:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 16,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FDA4AF",
+  "duration_seconds": 44.7,
+  "style": "classic",
+  "kind": "shorts"
 }
