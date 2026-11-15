@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-11-15T19:27:34+00:00",
+  "updated_at": "2026-11-15T20:01:49+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
     "channel_views": 16776,
-    "video_count": 98
+    "video_count": 99
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/KP7S7VpFHD8"
+      "https://youtube.com/shorts/7DUibZ-ZGZw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/KP7S7VpFHD8"
+      "https://youtube.com/shorts/7DUibZ-ZGZw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/KP7S7VpFHD8"
+      "https://youtube.com/shorts/7DUibZ-ZGZw"
     ]
   },
   "retention": {
-    "videos_with_data": 82,
-    "avg_view_percent": 61.8,
+    "videos_with_data": 88,
+    "avg_view_percent": 60.9,
     "by_topic": {
-      "earth": 84.0,
-      "space": 64.0,
-      "society": 45.8,
-      "animals": 48.9,
-      "body": 57.8,
-      "technology": 61.3
+      "earth": 83.5,
+      "space": 63.8,
+      "society": 46.8,
+      "animals": 49.1,
+      "body": 47.3,
+      "technology": 67.3
     },
     "best": [
       {
@@ -51,14 +51,14 @@
         "views": 218
       },
       {
+        "title": "What If You Were Frozen After Death? About 200 People Are Waiting in Arizona",
+        "avg_view_percent": 127.2,
+        "views": 39
+      },
+      {
         "title": "What If You Could Visit a Neutron Star?",
         "avg_view_percent": 99.5,
         "views": 72
-      },
-      {
-        "title": "What If All the Ice on Earth Melted?",
-        "avg_view_percent": 98.3,
-        "views": 436
       }
     ],
     "worst": [
@@ -73,6 +73,11 @@
         "views": 8
       },
       {
+        "title": "What If You Saw Flashes With Your Eyes Shut? Astronauts Do",
+        "avg_view_percent": 16.7,
+        "views": 7
+      },
+      {
         "title": "What If We Sent a Dog Into Orbit? We Did in 1957, and Hid the Truth for 45 Years",
         "avg_view_percent": 18.2,
         "views": 5
@@ -81,17 +86,12 @@
         "title": "What If an Animal Floated in Open Space? Tardigrades Did",
         "avg_view_percent": 18.7,
         "views": 3
-      },
-      {
-        "title": "What If a 77-Ton Space Station Fell on Your Town? In 1979 One Did",
-        "avg_view_percent": 23.5,
-        "views": 1
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 99,
-  "total_views": 16808,
+  "total_videos": 100,
+  "total_views": 16815,
   "by_topic": {
     "earth": {
       "videos": 11,
@@ -99,8 +99,8 @@
       "best_views": 1128
     },
     "space": {
-      "videos": 37,
-      "avg_views": 150,
+      "videos": 38,
+      "avg_views": 146,
       "best_views": 1281
     },
     "society": {
@@ -115,7 +115,7 @@
     },
     "body": {
       "videos": 21,
-      "avg_views": 83,
+      "avg_views": 84,
       "best_views": 667
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 99,
-      "avg_views": 170,
+      "videos": 100,
+      "avg_views": 168,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 98,
-      "avg_views": 161
+      "videos": 99,
+      "avg_views": 159
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1180,7 +1180,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 65.4,
+      "avg_view_percent": 63.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1431,8 +1431,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE",
-      "avg_view_seconds": 21.0,
-      "avg_view_percent": 50.0,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 52.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1487,8 +1487,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UjmJgcGGgIc",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 7.0,
+      "avg_view_percent": 16.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1571,10 +1571,10 @@
       "likes": 13,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 47.0,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 38.1,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 1
     },
     "KSCEzMiaT2o": {
       "upload_status": "processed",
@@ -1599,8 +1599,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KSCEzMiaT2o",
-      "avg_view_seconds": 26.0,
-      "avg_view_percent": 60.6,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 26.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1623,7 +1623,7 @@
       "hook": "What if you saw 100 million colours instead of one million? Some women do, and never find out.",
       "published_at": "2026-11-12T22:10:21Z",
       "privacy": "public",
-      "views": 4,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo",
@@ -1654,7 +1654,11 @@
       "views": 39,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/kY4T69sD7NE"
+      "url": "https://youtube.com/shorts/kY4T69sD7NE",
+      "avg_view_seconds": 57.0,
+      "avg_view_percent": 127.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "San75yns9OM": {
       "upload_status": "processed",
@@ -1706,7 +1710,11 @@
       "views": 31,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/CHUrhsz0PzU"
+      "url": "https://youtube.com/shorts/CHUrhsz0PzU",
+      "avg_view_seconds": 33.0,
+      "avg_view_percent": 78.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "BIt14NsOzWA": {
       "upload_status": "processed",
@@ -1786,7 +1794,11 @@
       "views": 4,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/W4GbYWh6rmE"
+      "url": "https://youtube.com/shorts/W4GbYWh6rmE",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 31.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "ueBtcnj-Buc": {
       "upload_status": "processed",
@@ -1840,7 +1852,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 51.9,
+      "avg_view_percent": 52.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1863,10 +1875,14 @@
       "hook": "What if you lived at 5,000 meters, in half the oxygen? 50,000 people do.",
       "published_at": "2026-11-13T21:00:11Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/W4W11A9P1d4"
+      "url": "https://youtube.com/shorts/W4W11A9P1d4",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "hv6S-MG-epc": {
       "upload_status": "processed",
@@ -1915,10 +1931,14 @@
       "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
       "published_at": "2026-11-13T21:30:22Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Wvmq2CtLbiw"
+      "url": "https://youtube.com/shorts/Wvmq2CtLbiw",
+      "avg_view_seconds": 7.0,
+      "avg_view_percent": 19.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "N7DiGn8Mexg": {
       "upload_status": "processed",
@@ -1998,7 +2018,11 @@
       "views": 19,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/gtcyMkEqArY"
+      "url": "https://youtube.com/shorts/gtcyMkEqArY",
+      "avg_view_seconds": 29.0,
+      "avg_view_percent": 57.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "Z7bCR86xvPA": {
       "upload_status": "processed",
@@ -2076,7 +2100,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 29.6,
+      "avg_view_percent": 30.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2215,8 +2239,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/dLKcX2ivoBg",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 26.0,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 31.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2299,8 +2323,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 51.9,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 53.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2355,8 +2379,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
-      "avg_view_seconds": 28.0,
-      "avg_view_percent": 57.9,
+      "avg_view_seconds": 30.0,
+      "avg_view_percent": 61.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2603,8 +2627,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yjXviWLc2f8",
-      "avg_view_seconds": 34.0,
-      "avg_view_percent": 68.6,
+      "avg_view_seconds": 31.0,
+      "avg_view_percent": 63.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2660,7 +2684,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/RylZwIA6oUA",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 50.6,
+      "avg_view_percent": 50.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2707,7 +2731,7 @@
       "hook": "What if you moved beavers by dropping them out of a plane? Idaho did, in 1948.",
       "published_at": "2026-11-14T23:30:29Z",
       "privacy": "public",
-      "views": 18,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/pKfvusazAu8"
@@ -2841,14 +2865,14 @@
       "subscribers_gained": 0
     },
     "KP7S7VpFHD8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT39S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2857,12 +2881,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you woke up speaking in a foreign accent? You wouldn't have learned a thing.",
-      "published_at": "2026-11-15T19:27:29Z",
+      "published_at": "2026-11-15T19:50:27Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/KP7S7VpFHD8"
+    },
+    "7DUibZ-ZGZw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Were Sealed in a Fake Spaceship for 520 Days? Six Men Were",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you were locked in a windowless capsule for 520 days? Six men volunteered.",
+      "published_at": "2026-11-15T20:01:44Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/KP7S7VpFHD8"
+      "url": "https://youtube.com/shorts/7DUibZ-ZGZw"
     },
     "NNxxSa4E8DY": {
       "upload_status": "processed",
