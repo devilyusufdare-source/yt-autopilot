@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T22:45:55+00:00",
+  "updated_at": "2026-11-15T23:34:56+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,19 @@
   },
   "diagnosis": {
     "not_public": [
+      "https://youtube.com/shorts/c0Ref2b_fcQ",
+      "https://youtube.com/shorts/1J5b6SERGtE",
       "https://youtube.com/shorts/PdwMwtJozJo"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/PdwMwtJozJo"
+      "https://youtube.com/shorts/c0Ref2b_fcQ"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/PdwMwtJozJo"
+      "https://youtube.com/shorts/c0Ref2b_fcQ"
     ]
   },
   "retention": {
@@ -76,7 +78,7 @@
       {
         "title": "This Bird Runs a Protection Racket. Reject Its Egg and It Wrecks Your Nest",
         "avg_view_percent": 14.6,
-        "views": 75
+        "views": 80
       },
       {
         "title": "The 5 Most Expensive Paintings Ever Auctioned, Ranked (#1 Once Sold for 45 Pounds)",
@@ -91,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 331,
-  "total_views": 86795,
+  "total_videos": 333,
+  "total_views": 86878,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -100,13 +102,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 25,
-      "avg_views": 249,
+      "videos": 26,
+      "avg_views": 240,
       "best_views": 1648
     },
     "animals": {
-      "videos": 243,
-      "avg_views": 271,
+      "videos": 244,
+      "avg_views": 270,
       "best_views": 1507
     },
     "human body": {
@@ -137,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 315,
-      "avg_views": 254,
+      "videos": 317,
+      "avg_views": 253,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 245,
-      "avg_views": 198
+      "videos": 247,
+      "avg_views": 197
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2215,7 +2217,7 @@
       "hook": "This fish defends itself with snot. It beats sharks.",
       "published_at": "2026-11-13T20:40:14Z",
       "privacy": "public",
-      "views": 362,
+      "views": 383,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8",
@@ -2495,7 +2497,7 @@
       "hook": "A goose flies where there is half the oxygen. Its heart barely changes.",
       "published_at": "2026-11-13T21:30:38Z",
       "privacy": "public",
-      "views": 86,
+      "views": 87,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Qn6xqVn9xDE",
@@ -3223,7 +3225,7 @@
       "hook": "Grab this newt and it stabs you. With its ribs.",
       "published_at": "2026-11-12T22:00:26Z",
       "privacy": "public",
-      "views": 95,
+      "views": 96,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/M6t1_zwUDKQ",
@@ -3755,7 +3757,7 @@
       "hook": "This worm has two cannons on its face. They fire glue.",
       "published_at": "2026-11-13T22:00:24Z",
       "privacy": "public",
-      "views": 853,
+      "views": 882,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/Na0gNeyieh0",
@@ -3960,6 +3962,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "c0Ref2b_fcQ": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Coldest Temperatures Ever Recorded, Ranked (#1 Is Colder Than Dry Ice)",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five coldest temperatures ever recorded, ranked. Number two sat unnoticed in a file for 30 years.",
+      "published_at": "2026-11-15T23:34:43Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/c0Ref2b_fcQ"
+    },
     "pQBmvioCP6E": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -4007,8 +4033,8 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 969,
-      "likes": 14,
+      "views": 978,
+      "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
       "avg_view_seconds": 17.0,
@@ -4035,7 +4061,7 @@
       "hook": "This bird runs a protection racket, and other birds pay up.",
       "published_at": "2026-11-14T02:15:01Z",
       "privacy": "public",
-      "views": 75,
+      "views": 80,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/r_RxuoXM_dc",
@@ -4175,7 +4201,7 @@
       "hook": "This squirrel walks up to rattlesnakes and makes its tail hot. On purpose.",
       "published_at": "2026-11-14T08:40:13Z",
       "privacy": "public",
-      "views": 160,
+      "views": 173,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sYU_YCfGfIQ"
@@ -4283,7 +4309,7 @@
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
       "published_at": "2026-11-14T19:00:20Z",
       "privacy": "public",
-      "views": 656,
+      "views": 631,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg"
@@ -4335,7 +4361,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 366,
+      "views": 365,
       "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8"
@@ -4443,8 +4469,8 @@
       "hook": "This fish walks on the seafloor. And its legs do something no leg should.",
       "published_at": "2026-11-14T21:00:00Z",
       "privacy": "public",
-      "views": 173,
-      "likes": 2,
+      "views": 185,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8"
     },
@@ -4551,7 +4577,7 @@
       "hook": "This cat weighs 50 pounds. Its fangs are the same length as a tiger's.",
       "published_at": "2026-11-14T22:00:11Z",
       "privacy": "public",
-      "views": 517,
+      "views": 499,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tgn2QuDBdPk"
@@ -4791,7 +4817,7 @@
       "hook": "Divers on this reef carry syringes of vinegar.",
       "published_at": "2026-11-15T00:00:26Z",
       "privacy": "public",
-      "views": 84,
+      "views": 87,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/FyPtcO7OGLM"
@@ -4843,7 +4869,7 @@
       "hook": "This fish has a Ferrari price and a plastic surgeon.",
       "published_at": "2026-11-15T00:20:19Z",
       "privacy": "public",
-      "views": 352,
+      "views": 380,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/XkzwjhVdUho"
@@ -4923,7 +4949,7 @@
       "hook": "Divers here take off their watches first.",
       "published_at": "2026-11-15T03:30:02Z",
       "privacy": "public",
-      "views": 43,
+      "views": 48,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xK7E3M26JZg"
@@ -5031,7 +5057,7 @@
       "hook": "A fishing boat sank. The culprit had no brain.",
       "published_at": "2026-11-15T08:20:21Z",
       "privacy": "public",
-      "views": 17,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/guSCzqDd8yw"
@@ -5083,7 +5109,7 @@
       "hook": "This animal has no teeth. It killed two hunters.",
       "published_at": "2026-11-15T19:00:37Z",
       "privacy": "public",
-      "views": 1,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7uKz9J6doK4"
@@ -5273,7 +5299,7 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/qQCzFZzti0k"
     },
     "_tgT8z8IjDw": {
@@ -5323,7 +5349,7 @@
       "hook": "This snake's tail ends in a spider. The spider isn't real.",
       "published_at": "2026-11-15T21:20:15Z",
       "privacy": "public",
-      "views": 6,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/WPn3KiUrA8w"
@@ -5375,7 +5401,7 @@
       "hook": "In 1898, two lions hunted people for nine months.",
       "published_at": "2026-11-15T22:10:17Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/w6grVvcVieI"
@@ -5427,7 +5453,7 @@
       "hook": "In northern Australia, some bushfires are spread by birds.",
       "published_at": "2026-11-15T22:40:04Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tt1wh1NEPBc"
@@ -5459,6 +5485,30 @@
       "avg_view_percent": 48.7,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "1J5b6SERGtE": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT43S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Scientists Rinsed Out Baby Sharks' Stomachs and Found Songbirds",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Baby tiger sharks eat woodpeckers. Out at sea.",
+      "published_at": "2026-11-15T23:31:54Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/1J5b6SERGtE"
     },
     "Ww1LdzP7oCk": {
       "upload_status": "processed",
@@ -6489,14 +6539,14 @@
       "subscribers_gained": 0
     },
     "PdwMwtJozJo": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9331,7 +9381,7 @@
       "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
       "published_at": "2026-11-03T00:10:06Z",
       "privacy": "public",
-      "views": 59,
+      "views": 57,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU",

@@ -70,5 +70,20 @@
   "thumbnail_text": "5 COLDEST PLACES EVER, RANKED",
   "priority": 6,
   "first_comment": "Satellites have measured even colder surface temperatures in Antarctica, but the WMO only counts readings from thermometers in the air. Which would you have put at number one? And what should we rank next: the hottest places on Earth?",
-  "_attempts": 3
+  "youtube_id": "c0Ref2b_fcQ",
+  "url": "https://youtube.com/shorts/c0Ref2b_fcQ",
+  "uploaded_at": "2026-11-15T23:34:53+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-16T00:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 18,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FFD400",
+  "duration_seconds": 57.4,
+  "style": "classic",
+  "kind": "shorts"
 }

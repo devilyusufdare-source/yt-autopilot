@@ -1,34 +1,42 @@
-run failed at 2026-11-15T02:44:26+00:00 UTC (error lines and last 25 lines, secrets removed)
+run failed at 2026-11-15T23:34:56+00:00 UTC (error lines and last 25 lines, secrets removed)
 
 earlier error lines:
-    raise RuntimeError(f"narration is {total_est:.1f}s, longer than the {max_s:.0f}s limit; shorten the script")
-RuntimeError: narration is 63.1s, longer than the 58s limit; shorten the script
+[tts] edge-tts scene 0 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 0 attempt 3 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 20 s
+[tts] edge-tts scene 0 attempt 4 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 40 s
+[tts] edge-tts scene 0 attempt 5 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 60 s
+[tts] edge-tts scene 0 attempt 6 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 90 s
+[tts] edge-tts scene 0 attempt 7 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 120 s
 [run] render failed; trying the next idea so this run still publishes a video
+[tts] edge-tts scene 1 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 1 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
 [tts] edge-tts scene 3 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
+[tts] edge-tts scene 3 attempt 2 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 10 s
+[tts] edge-tts scene 5 attempt 1 failed (NoAudioReceived: No audio was received. Please verify that your parameters are correct.); retrying in 5 s
 
 last 25 lines:
-[run] rendered 2027-03-28-five-highest-bridges-on-earth-ranked.mp4 (45.6s, voice=edge)
-[upload] 20%
-[upload] 40%
-[upload] 60%
-[upload] 80%
-[run] uploaded: https://youtube.com/shorts/Fo0DQwKYbGI  (goes public at 2026-11-15T03:10:00Z)
+[upload] 28%
+[upload] 57%
+[upload] 85%
+[run] uploaded: https://youtube.com/shorts/1J5b6SERGtE  (goes public at 2026-11-16T00:20:00Z)
 
-[run] (3/3) 2027-02-08-barracuda-hits-36-mph-and-attacks-anything-that-glints.json  title: A Barracuda Hits 36 mph and Attacks Anything That Glints
+[run] (3/3) 2027-01-01-five-coldest-temperatures-ever-recorded-ranked.json  title: The 5 Coldest Temperatures Ever Recorded, Ranked (#1 Is Colder Than Dry Ice)
 [run] style: classic
 [run] voice: 7 scenes (en-US-AndrewNeural)
+[run] narration is 63.1s (limit 58s); re-speaking the same voice at +22% speed
 [run] visuals: pixabay
-[run] footage focus: ['barracuda']
-[visuals] first clip candidate pxb366850: motion 0.7, brightness 91
-[visuals] first clip candidate pxb1084: motion 13.6, brightness 109
-[visuals] first clip candidate pxb751: motion 3.8, brightness 44
+[visuals] first clip candidate pxb81044: motion 1.0, brightness 116
+[visuals] first clip candidate pxb81043: motion 1.0, brightness 131
+[visuals] first clip candidate pxb81030: motion 0.4, brightness 131
 [run] rendering final video
-[run] rendered 2027-02-08-barracuda-hits-36-mph-and-attacks-anything-that-glints.mp4 (38.0s, voice=edge)
-[upload] 23%
-[upload] 46%
-[upload] 70%
-[upload] 93%
-[run] uploaded: https://youtube.com/shorts/xK7E3M26JZg  (goes public at 2026-11-15T03:30:00Z)
-[run] stats refreshed: 323 videos, 83572 views total
+[run] rendered 2027-01-01-five-coldest-temperatures-ever-recorded-ranked.mp4 (57.4s, voice=edge)
+[upload] 14%
+[upload] 29%
+[upload] 44%
+[upload] 58%
+[upload] 73%
+[upload] 88%
+[run] uploaded: https://youtube.com/shorts/c0Ref2b_fcQ  (goes public at 2026-11-16T00:40:00Z)
+[run] stats refreshed: 333 videos, 86878 views total
 
 [run] finished: 2 video(s) done, 1 failed
