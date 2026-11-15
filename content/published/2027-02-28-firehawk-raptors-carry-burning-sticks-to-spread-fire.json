@@ -60,5 +60,21 @@
   "thumbnail_text": "BIRDS THAT SPREAD FIRE",
   "priority": 6,
   "subject": "black kite",
-  "first_comment": "A 1963 book already described birds dropping burning brands in grass up to half a kilometre away. Do you count this as using a tool?"
+  "first_comment": "A 1963 book already described birds dropping burning brands in grass up to half a kilometre away. Do you count this as using a tool?",
+  "youtube_id": "tt1wh1NEPBc",
+  "url": "https://youtube.com/shorts/tt1wh1NEPBc",
+  "uploaded_at": "2026-11-15T21:56:20+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-15T22:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 14,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 40.9,
+  "style": "classic",
+  "kind": "shorts"
 }
