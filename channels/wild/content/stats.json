@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-11-15T07:08:43+00:00",
+  "updated_at": "2026-11-15T10:17:30+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
     "channel_views": 16712,
-    "video_count": 95
+    "video_count": 96
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/BxqA1Dw9mFI"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/BxqA1Dw9mFI"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/BxqA1Dw9mFI"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 82,
@@ -91,7 +85,7 @@
   },
   "retention_note": null,
   "total_videos": 96,
-  "total_views": 16760,
+  "total_views": 16777,
   "by_topic": {
     "earth": {
       "videos": 11,
@@ -134,7 +128,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 95,
-      "avg_views": 165
+      "avg_views": 166
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1455,7 +1449,7 @@
       "hook": "What if a spaceship flew by exploding nuclear bombs behind it? America spent seven years building one.",
       "published_at": "2026-11-05T21:20:38Z",
       "privacy": "public",
-      "views": 32,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9VFV9DgN8Kw",
@@ -1623,7 +1617,7 @@
       "hook": "What if you saw 100 million colours instead of one million? Some women do, and never find out.",
       "published_at": "2026-11-12T22:10:21Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo",
@@ -1651,7 +1645,7 @@
       "hook": "What if you were frozen after death, to be woken later? About 200 people already are, in Arizona.",
       "published_at": "2026-11-13T07:40:15Z",
       "privacy": "public",
-      "views": 38,
+      "views": 39,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kY4T69sD7NE"
@@ -1703,7 +1697,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 28,
+      "views": 30,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU"
@@ -1915,7 +1909,7 @@
       "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
       "published_at": "2026-11-13T21:30:22Z",
       "privacy": "public",
-      "views": 9,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wvmq2CtLbiw"
@@ -1995,7 +1989,7 @@
       "hook": "What if you shrank to the size of an ant? The first thing you'd lose is your eyesight.",
       "published_at": "2026-11-14T00:50:20Z",
       "privacy": "public",
-      "views": 18,
+      "views": 19,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/gtcyMkEqArY"
@@ -2071,7 +2065,7 @@
       "hook": "What if killer bees escaped a lab? In 1957, 26 colonies did. They never stopped.",
       "published_at": "2026-11-08T14:50:08Z",
       "privacy": "public",
-      "views": 247,
+      "views": 248,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU",
@@ -2351,7 +2345,7 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 46,
+      "views": 47,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
@@ -2707,20 +2701,20 @@
       "hook": "What if you moved beavers by dropping them out of a plane? Idaho did, in 1948.",
       "published_at": "2026-11-14T23:30:29Z",
       "privacy": "public",
-      "views": 11,
+      "views": 13,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/pKfvusazAu8"
     },
     "BxqA1Dw9mFI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT47S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2729,9 +2723,9 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you were buried on the Moon? One man is, and he never got to go alive.",
-      "published_at": "2026-11-15T07:08:40Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-15T07:40:10Z",
+      "privacy": "public",
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/BxqA1Dw9mFI"
