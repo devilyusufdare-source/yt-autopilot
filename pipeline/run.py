@@ -567,6 +567,18 @@ def build_video(pkg: dict, cfg, outdir: Path, style: str = "classic", publish_at
     durations, words = assemble_voice(audio, gap, outdir / "voice.wav")
     total_est = sum(durations)
     max_s = float(cfg.get("video.max_seconds", 58))
+    if total_est > max_s + 2 and engine == "edge":
+        # 15 Nov: number-heavy rankings ran 63 s against the 58 s limit and the idea was lost. Same voice, faster
+        # speaking rate (up to +30 %), instead of throwing the idea away.
+        from .config import with_overrides
+        base = float(str(cfg.get("voice.edge_rate", "+10%")).replace("%", "").replace("+", "") or 0)
+        faster = min(30.0, (1 + base / 100) * (total_est / (max_s - 1)) * 100 - 100)
+        if faster > base:
+            print(f"[run] narration is {total_est:.1f}s (limit {max_s:.0f}s); re-speaking the same voice at {faster:+.0f}% speed")
+            fast_cfg = with_overrides(cfg, {"voice": {"edge_rate": f"{faster:+.0f}%"}})
+            audio, engine = tts_mod.synthesize(scenes, fast_cfg, outdir / "tts", voice=voice)
+            durations, words = assemble_voice(audio, gap, outdir / "voice.wav")
+            total_est = sum(durations)
     if total_est > max_s + 2:
         raise RuntimeError(f"narration is {total_est:.1f}s, longer than the {max_s:.0f}s limit; shorten the script")
 
