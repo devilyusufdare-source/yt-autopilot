@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-16T21:23:12+00:00",
+  "updated_at": "2026-11-16T23:05:45+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
     "channel_views": 16869,
-    "video_count": 102
+    "video_count": 104
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/wShbdnI6SU8",
-      "https://youtube.com/shorts/0JpzYEV2w5I"
+      "https://youtube.com/shorts/EUD8VmmUr1g"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/0JpzYEV2w5I"
+      "https://youtube.com/shorts/EUD8VmmUr1g"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/0JpzYEV2w5I"
+      "https://youtube.com/shorts/EUD8VmmUr1g"
     ]
   },
   "retention": {
@@ -91,12 +90,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 104,
-  "total_views": 16884,
+  "total_videos": 105,
+  "total_views": 16925,
   "by_topic": {
     "earth": {
-      "videos": 11,
-      "avg_views": 414,
+      "videos": 12,
+      "avg_views": 379,
       "best_views": 1129
     },
     "space": {
@@ -116,7 +115,7 @@
     },
     "body": {
       "videos": 23,
-      "avg_views": 77,
+      "avg_views": 79,
       "best_views": 666
     },
     "technology": {
@@ -127,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 104,
-      "avg_views": 162,
+      "videos": 105,
+      "avg_views": 161,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 103,
-      "avg_views": 154
+      "videos": 104,
+      "avg_views": 153
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -2828,7 +2827,7 @@
       "hook": "What if you could never make another memory? One man lived that way for 55 years.",
       "published_at": "2026-11-15T18:30:12Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6MwRUYxhTM8"
@@ -2980,7 +2979,7 @@
       "hook": "What if you spun an office building around while everyone kept working? In 1930, Indianapolis did.",
       "published_at": "2026-11-15T23:50:28Z",
       "privacy": "public",
-      "views": 18,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TBPED4Lvws0"
@@ -3026,22 +3025,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you swam in a pool on the Moon? Swimming isn't the strange part.",
-      "published_at": "2026-11-16T21:20:30Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-16T21:50:21Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/wShbdnI6SU8"
     },
     "0JpzYEV2w5I": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT40S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3050,12 +3049,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you lost the sense that tells you where your body is? One man did.",
-      "published_at": "2026-11-16T21:23:07Z",
+      "published_at": "2026-11-16T22:10:24Z",
+      "privacy": "public",
+      "views": 37,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/0JpzYEV2w5I"
+    },
+    "EUD8VmmUr1g": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Every Volcano on Earth Erupted at Once?",
+      "topic": "earth",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if every volcano on Earth erupted at once? The lava is the least of it.",
+      "published_at": "2026-11-16T23:05:40Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/0JpzYEV2w5I"
+      "url": "https://youtube.com/shorts/EUD8VmmUr1g"
     },
     "Hy3xsXTwQhA": {
       "upload_status": "processed",

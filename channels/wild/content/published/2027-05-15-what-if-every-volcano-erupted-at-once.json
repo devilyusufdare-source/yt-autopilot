@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "WHAT IF EVERY VOLCANO ERUPTED?",
   "priority": 8,
-  "first_comment": "For scale: one eruption, Pinatubo in 1991, cooled parts of the world by up to 0.4 C for two years. Which disaster should we run next?"
+  "first_comment": "For scale: one eruption, Pinatubo in 1991, cooled parts of the world by up to 0.4 C for two years. Which disaster should we run next?",
+  "youtube_id": "EUD8VmmUr1g",
+  "url": "https://youtube.com/shorts/EUD8VmmUr1g",
+  "uploaded_at": "2026-11-16T23:05:43+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-16T23:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 16,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 42.2,
+  "style": "classic",
+  "kind": "shorts"
 }
