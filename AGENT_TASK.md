@@ -283,3 +283,5 @@ Give priority 6–8 to the strongest technology ideas so the new topics reach th
 Before saving an idea ask: would a stranger stop scrolling in the first second? Is every
 sentence true and sourced? Would the fact still be interesting if told at a dinner table?
 If any answer is no, rewrite or replace it.
+
+**16 Nov, What If (channel 2): copy the nails pattern.** Of 24 what-ifs since the 12 Nov rescue, one broke out: "What If You Never Cut Your Nails?" (667 views; the rest 0-59, median about 12). It is an everyday habit or body part that everyone has, a "Never ..." framing, and a short title that someone could type into search. The flops were niche (smelling disease, 5,000 m altitude, bat hearing, a memory disorder). For What If, 3 of 4 ideas should be "What If You Never/Always ..." about an ordinary body part, habit or daily object (hair, sleep, teeth, blinking, eating, showering, shoes, phones), with a title of 60 characters or fewer.
