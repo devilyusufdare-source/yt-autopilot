@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T23:27:45+00:00",
+  "updated_at": "2026-11-16T23:55:23+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -12,17 +12,19 @@
     "not_public": [
       "https://youtube.com/shorts/vDMd15MlBuU",
       "https://youtube.com/shorts/DMwZMdyQ-3w",
+      "https://youtube.com/shorts/LBLOnSws_pw",
+      "https://youtube.com/shorts/d5f-TlrUDKM",
       "https://youtube.com/shorts/2REQ8iVRxag"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/DMwZMdyQ-3w"
+      "https://youtube.com/shorts/LBLOnSws_pw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/DMwZMdyQ-3w"
+      "https://youtube.com/shorts/LBLOnSws_pw"
     ]
   },
   "retention": {
@@ -93,8 +95,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 343,
-  "total_views": 89232,
+  "total_videos": 345,
+  "total_views": 89242,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -102,13 +104,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 26,
-      "avg_views": 240,
+      "videos": 27,
+      "avg_views": 231,
       "best_views": 1648
     },
     "animals": {
-      "videos": 253,
-      "avg_views": 269,
+      "videos": 254,
+      "avg_views": 268,
       "best_views": 1507
     },
     "human body": {
@@ -139,8 +141,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 327,
-      "avg_views": 252,
+      "videos": 329,
+      "avg_views": 251,
       "over_1500": 3
     },
     "punch": {
@@ -151,8 +153,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 257,
-      "avg_views": 198
+      "videos": 259,
+      "avg_views": 197
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1097,7 +1099,7 @@
       "hook": "A bird that can stay in the air for two months. When does it sleep?",
       "published_at": "2026-10-27T02:30:38Z",
       "privacy": "public",
-      "views": 115,
+      "views": 116,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nHXJKky23q8",
@@ -3057,7 +3059,7 @@
       "hook": "This spider mother is cooking herself for dinner.",
       "published_at": "2026-11-05T21:50:33Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUQJVqXc1zI",
@@ -3617,7 +3619,7 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 428,
+      "views": 429,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8",
@@ -4033,7 +4035,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 1060,
+      "views": 1066,
       "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
@@ -4313,7 +4315,7 @@
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
       "published_at": "2026-11-14T19:00:20Z",
       "privacy": "public",
-      "views": 839,
+      "views": 838,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg",
@@ -4369,7 +4371,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 590,
+      "views": 591,
       "likes": 4,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
@@ -4481,7 +4483,7 @@
       "hook": "This fish walks on the seafloor. And its legs do something no leg should.",
       "published_at": "2026-11-14T21:00:00Z",
       "privacy": "public",
-      "views": 251,
+      "views": 254,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8",
@@ -4593,7 +4595,7 @@
       "hook": "This cat weighs 50 pounds. Its fangs are the same length as a tiger's.",
       "published_at": "2026-11-14T22:00:11Z",
       "privacy": "public",
-      "views": 583,
+      "views": 582,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tgn2QuDBdPk",
@@ -4901,7 +4903,7 @@
       "hook": "This fish has a Ferrari price and a plastic surgeon.",
       "published_at": "2026-11-15T00:20:19Z",
       "privacy": "public",
-      "views": 526,
+      "views": 525,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/XkzwjhVdUho",
@@ -5097,7 +5099,7 @@
       "hook": "A fishing boat sank. The culprit had no brain.",
       "published_at": "2026-11-15T08:20:21Z",
       "privacy": "public",
-      "views": 35,
+      "views": 34,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/guSCzqDd8yw"
@@ -5149,7 +5151,7 @@
       "hook": "This animal has no teeth. It killed two hunters.",
       "published_at": "2026-11-15T19:00:37Z",
       "privacy": "public",
-      "views": 19,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7uKz9J6doK4"
@@ -5257,7 +5259,7 @@
       "hook": "Hyena cubs are born with a full set of teeth.",
       "published_at": "2026-11-15T20:00:25Z",
       "privacy": "public",
-      "views": 238,
+      "views": 211,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/-qEs_rymHKQ"
@@ -5337,7 +5339,7 @@
       "hook": "No one is allowed on this island. By law.",
       "published_at": "2026-11-15T21:00:01Z",
       "privacy": "public",
-      "views": 171,
+      "views": 175,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qQCzFZzti0k"
@@ -5389,7 +5391,7 @@
       "hook": "This snake's tail ends in a spider. The spider isn't real.",
       "published_at": "2026-11-15T21:20:15Z",
       "privacy": "public",
-      "views": 121,
+      "views": 116,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/WPn3KiUrA8w"
@@ -5441,7 +5443,7 @@
       "hook": "In 1898, two lions hunted people for nine months.",
       "published_at": "2026-11-15T22:10:17Z",
       "privacy": "public",
-      "views": 49,
+      "views": 43,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/w6grVvcVieI"
@@ -5833,7 +5835,7 @@
       "hook": "Florida dolphins catch fish with a net made of mud.",
       "published_at": "2026-11-16T21:30:13Z",
       "privacy": "public",
-      "views": 26,
+      "views": 46,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hBfYOHEOwoE"
@@ -5913,7 +5915,7 @@
       "hook": "A kangaroo chased by a dog runs straight for water.",
       "published_at": "2026-11-16T21:50:09Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/43nOUKvyDBI"
@@ -5937,7 +5939,7 @@
       "hook": "These bees don't collect pollen. They eat dead animals.",
       "published_at": "2026-11-16T23:00:13Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/CvX2wp2RiuU"
@@ -6191,14 +6193,14 @@
       "subscribers_gained": 0
     },
     "DMwZMdyQ-3w": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT34S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -6213,6 +6215,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/DMwZMdyQ-3w"
+    },
+    "LBLOnSws_pw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Snake Steals Poison From Toads and Stores It in Its Neck",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This snake is poisonous. But it can't make poison.",
+      "published_at": "2026-11-16T23:55:11Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/LBLOnSws_pw"
     },
     "1dSVVteEjkM": {
       "upload_status": "processed",
@@ -6409,6 +6435,30 @@
       "avg_view_percent": 60.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "d5f-TlrUDKM": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT49S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Biggest Diamonds Ever Mined, Ranked (4 Came From One Mine)",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
+      "published_at": "2026-11-16T23:53:23Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/d5f-TlrUDKM"
     },
     "kKWolYqlfOc": {
       "upload_status": "processed",
@@ -6821,7 +6871,7 @@
       "hook": "One star was measured to be older than the universe.",
       "published_at": "2026-11-16T00:00:07Z",
       "privacy": "public",
-      "views": 121,
+      "views": 129,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PdwMwtJozJo"
