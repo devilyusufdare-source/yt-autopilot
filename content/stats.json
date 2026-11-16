@@ -1,27 +1,28 @@
 {
-  "updated_at": "2026-11-16T22:35:46+00:00",
+  "updated_at": "2026-11-16T23:27:45+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 80,
     "channel_views": 88065,
-    "video_count": 341
+    "video_count": 342
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/CvX2wp2RiuU",
-      "https://youtube.com/shorts/vDMd15MlBuU"
+      "https://youtube.com/shorts/vDMd15MlBuU",
+      "https://youtube.com/shorts/DMwZMdyQ-3w",
+      "https://youtube.com/shorts/2REQ8iVRxag"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/vDMd15MlBuU"
+      "https://youtube.com/shorts/DMwZMdyQ-3w"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/vDMd15MlBuU"
+      "https://youtube.com/shorts/DMwZMdyQ-3w"
     ]
   },
   "retention": {
@@ -92,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 341,
-  "total_views": 89127,
+  "total_videos": 343,
+  "total_views": 89232,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -106,13 +107,13 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 252,
-      "avg_views": 270,
+      "videos": 253,
+      "avg_views": 269,
       "best_views": 1507
     },
     "human body": {
-      "videos": 6,
-      "avg_views": 473,
+      "videos": 7,
+      "avg_views": 406,
       "best_views": 1384
     },
     "history": {
@@ -138,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 325,
-      "avg_views": 253,
+      "videos": 327,
+      "avg_views": 252,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 255,
-      "avg_views": 199
+      "videos": 257,
+      "avg_views": 198
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4312,7 +4313,7 @@
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
       "published_at": "2026-11-14T19:00:20Z",
       "privacy": "public",
-      "views": 830,
+      "views": 839,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg",
@@ -4480,7 +4481,7 @@
       "hook": "This fish walks on the seafloor. And its legs do something no leg should.",
       "published_at": "2026-11-14T21:00:00Z",
       "privacy": "public",
-      "views": 254,
+      "views": 251,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8",
@@ -4592,7 +4593,7 @@
       "hook": "This cat weighs 50 pounds. Its fangs are the same length as a tiger's.",
       "published_at": "2026-11-14T22:00:11Z",
       "privacy": "public",
-      "views": 572,
+      "views": 583,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tgn2QuDBdPk",
@@ -4900,7 +4901,7 @@
       "hook": "This fish has a Ferrari price and a plastic surgeon.",
       "published_at": "2026-11-15T00:20:19Z",
       "privacy": "public",
-      "views": 525,
+      "views": 526,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/XkzwjhVdUho",
@@ -5096,7 +5097,7 @@
       "hook": "A fishing boat sank. The culprit had no brain.",
       "published_at": "2026-11-15T08:20:21Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/guSCzqDd8yw"
@@ -5148,7 +5149,7 @@
       "hook": "This animal has no teeth. It killed two hunters.",
       "published_at": "2026-11-15T19:00:37Z",
       "privacy": "public",
-      "views": 18,
+      "views": 19,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7uKz9J6doK4"
@@ -5256,7 +5257,7 @@
       "hook": "Hyena cubs are born with a full set of teeth.",
       "published_at": "2026-11-15T20:00:25Z",
       "privacy": "public",
-      "views": 211,
+      "views": 238,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/-qEs_rymHKQ"
@@ -5336,7 +5337,7 @@
       "hook": "No one is allowed on this island. By law.",
       "published_at": "2026-11-15T21:00:01Z",
       "privacy": "public",
-      "views": 175,
+      "views": 171,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qQCzFZzti0k"
@@ -5388,7 +5389,7 @@
       "hook": "This snake's tail ends in a spider. The spider isn't real.",
       "published_at": "2026-11-15T21:20:15Z",
       "privacy": "public",
-      "views": 116,
+      "views": 121,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/WPn3KiUrA8w"
@@ -5440,7 +5441,7 @@
       "hook": "In 1898, two lions hunted people for nine months.",
       "published_at": "2026-11-15T22:10:17Z",
       "privacy": "public",
-      "views": 43,
+      "views": 49,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/w6grVvcVieI"
@@ -5544,7 +5545,7 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 345,
+      "views": 367,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0"
@@ -5780,7 +5781,7 @@
       "hook": "One meal turns these tadpoles into cannibals.",
       "published_at": "2026-11-16T08:50:22Z",
       "privacy": "public",
-      "views": 33,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/d2tLlNejRRM"
@@ -5832,7 +5833,7 @@
       "hook": "Florida dolphins catch fish with a net made of mud.",
       "published_at": "2026-11-16T21:30:13Z",
       "privacy": "public",
-      "views": 3,
+      "views": 26,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/hBfYOHEOwoE"
@@ -5912,7 +5913,7 @@
       "hook": "A kangaroo chased by a dog runs straight for water.",
       "published_at": "2026-11-16T21:50:09Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/43nOUKvyDBI"
@@ -5934,22 +5935,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "These bees don't collect pollen. They eat dead animals.",
-      "published_at": "2026-11-16T22:31:33Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-16T23:00:13Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/CvX2wp2RiuU"
     },
     "vDMd15MlBuU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -6180,7 +6181,7 @@
       "hook": "The five highest bridges on Earth. All five were built by the same country.",
       "published_at": "2026-11-15T03:10:20Z",
       "privacy": "public",
-      "views": 92,
+      "views": 93,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Fo0DQwKYbGI",
@@ -6188,6 +6189,30 @@
       "avg_view_percent": 23.7,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "DMwZMdyQ-3w": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bat Hunts North America's Most Venomous Scorpion, Stings and All",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This bat hunts a scorpion whose sting can kill people.",
+      "published_at": "2026-11-16T23:27:37Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/DMwZMdyQ-3w"
     },
     "1dSVVteEjkM": {
       "upload_status": "processed",
@@ -6600,7 +6625,7 @@
       "hook": "These frog eggs know when a snake is eating them.",
       "published_at": "2026-11-09T00:10:35Z",
       "privacy": "public",
-      "views": 1000,
+      "views": 1002,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/4UE4LUCRyws",
@@ -6800,6 +6825,30 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PdwMwtJozJo"
+    },
+    "2REQ8iVRxag": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT33S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Chimp Is Twice as Strong as You, but It Can't Throw Past 20 MPH",
+      "topic": "human body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A chimp is twice as strong as you. It can barely throw.",
+      "published_at": "2026-11-16T23:24:41Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/2REQ8iVRxag"
     },
     "5kHqm6dqHdk": {
       "upload_status": "processed",
