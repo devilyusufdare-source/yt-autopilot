@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-15T23:34:56+00:00",
+  "updated_at": "2026-11-16T00:02:56+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 77,
     "channel_views": 85277,
-    "video_count": 332
+    "video_count": 333
   },
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/c0Ref2b_fcQ",
-      "https://youtube.com/shorts/1J5b6SERGtE",
-      "https://youtube.com/shorts/PdwMwtJozJo"
+      "https://youtube.com/shorts/yQQ84ftFfg0",
+      "https://youtube.com/shorts/1J5b6SERGtE"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/c0Ref2b_fcQ"
+      "https://youtube.com/shorts/yQQ84ftFfg0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/c0Ref2b_fcQ"
+      "https://youtube.com/shorts/yQQ84ftFfg0"
     ]
   },
   "retention": {
@@ -93,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 333,
-  "total_views": 86878,
+  "total_videos": 334,
+  "total_views": 86887,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -107,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 244,
-      "avg_views": 270,
+      "videos": 245,
+      "avg_views": 269,
       "best_views": 1507
     },
     "human body": {
@@ -128,7 +128,7 @@
     },
     "technology": {
       "videos": 7,
-      "avg_views": 72,
+      "avg_views": 73,
       "best_views": 286
     },
     "games": {
@@ -139,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 317,
-      "avg_views": 253,
+      "videos": 318,
+      "avg_views": 252,
       "over_1500": 3
     },
     "punch": {
@@ -151,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 247,
-      "avg_views": 197
+      "videos": 248,
+      "avg_views": 196
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -3963,14 +3963,14 @@
       "subscribers_gained": 0
     },
     "c0Ref2b_fcQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT58S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4033,8 +4033,8 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 978,
-      "likes": 15,
+      "views": 979,
+      "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
       "avg_view_seconds": 17.0,
@@ -4469,7 +4469,7 @@
       "hook": "This fish walks on the seafloor. And its legs do something no leg should.",
       "published_at": "2026-11-14T21:00:00Z",
       "privacy": "public",
-      "views": 185,
+      "views": 186,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8"
@@ -5486,6 +5486,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "yQQ84ftFfg0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Parasite Gives Frogs Extra Legs So Birds Can Catch Them",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Some frogs grow six extra legs. Something wants them to.",
+      "published_at": "2026-11-16T00:02:48Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/yQQ84ftFfg0"
+    },
     "1J5b6SERGtE": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -5949,7 +5973,7 @@
       "hook": "The five highest bridges on Earth. All five were built by the same country.",
       "published_at": "2026-11-15T03:10:20Z",
       "privacy": "public",
-      "views": 26,
+      "views": 33,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Fo0DQwKYbGI"
@@ -6555,8 +6579,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "One star was measured to be older than the universe.",
-      "published_at": "2026-11-15T22:45:44Z",
-      "privacy": "private",
+      "published_at": "2026-11-16T00:00:07Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,

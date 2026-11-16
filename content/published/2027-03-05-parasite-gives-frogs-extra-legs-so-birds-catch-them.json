@@ -60,5 +60,20 @@
   "priority": 6,
   "subject": "frog",
   "first_comment": "One researcher compared the cyst to a golf ball jammed into the spot where the leg grows. Smartest parasite trick you've heard of?",
-  "_attempts": 1
+  "youtube_id": "yQQ84ftFfg0",
+  "url": "https://youtube.com/shorts/yQQ84ftFfg0",
+  "uploaded_at": "2026-11-16T00:02:53+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-16T01:10:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 14,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 38.8,
+  "style": "classic",
+  "kind": "shorts"
 }
