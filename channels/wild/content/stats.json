@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T04:01:13+00:00",
+  "updated_at": "2026-11-16T10:19:15+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -9,13 +9,19 @@
     "video_count": 101
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/EsApbP4yjVE"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/EsApbP4yjVE"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/EsApbP4yjVE"
+    ]
   },
   "retention": {
     "videos_with_data": 88,
@@ -47,7 +53,7 @@
       {
         "title": "What If You Were Frozen After Death? About 200 People Are Waiting in Arizona",
         "avg_view_percent": 127.2,
-        "views": 41
+        "views": 42
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
@@ -84,13 +90,13 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 101,
-  "total_views": 16851,
+  "total_videos": 102,
+  "total_views": 16868,
   "by_topic": {
     "earth": {
       "videos": 11,
-      "avg_views": 413,
-      "best_views": 1128
+      "avg_views": 414,
+      "best_views": 1129
     },
     "space": {
       "videos": 38,
@@ -108,27 +114,27 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 21,
-      "avg_views": 84,
-      "best_views": 667
+      "videos": 22,
+      "avg_views": 80,
+      "best_views": 666
     },
     "technology": {
       "videos": 12,
-      "avg_views": 137,
+      "avg_views": 138,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 101,
-      "avg_views": 167,
+      "videos": 102,
+      "avg_views": 165,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 100,
-      "avg_views": 158
+      "videos": 101,
+      "avg_views": 157
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -151,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1128,
+      "views": 1129,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -181,7 +187,7 @@
     {
       "title": "What If You Never Cut Your Nails? Unlike Hair, They Never Stop",
       "topic": "body",
-      "views": 667,
+      "views": 666,
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do."
     },
     {
@@ -1001,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1128,
+      "views": 1129,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1169,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 89,
+      "views": 90,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1309,7 +1315,7 @@
       "hook": "What if a visitor from another star flew past Earth? In 2025, one did.",
       "published_at": "2026-11-03T19:20:06Z",
       "privacy": "public",
-      "views": 77,
+      "views": 78,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/IzRTbLLmQ1c",
@@ -1561,7 +1567,7 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
-      "views": 667,
+      "views": 666,
       "likes": 13,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE",
@@ -1645,7 +1651,7 @@
       "hook": "What if you were frozen after death, to be woken later? About 200 people already are, in Arizona.",
       "published_at": "2026-11-13T07:40:15Z",
       "privacy": "public",
-      "views": 41,
+      "views": 42,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kY4T69sD7NE",
@@ -1701,7 +1707,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 32,
+      "views": 33,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU",
@@ -2481,7 +2487,7 @@
       "hook": "What if your bones were hollow, like a bird's? You wouldn't lose a single kilo.",
       "published_at": "2026-11-14T17:50:26Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rZvHcmJwADY"
@@ -2953,10 +2959,34 @@
       "hook": "What if you spun an office building around while everyone kept working? In 1930, Indianapolis did.",
       "published_at": "2026-11-15T23:50:28Z",
       "privacy": "public",
-      "views": 5,
+      "views": 17,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/TBPED4Lvws0"
+    },
+    "EsApbP4yjVE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Got a Pig's Kidney? One Worked in a Man for 271 Days",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if surgeons gave you a kidney from a pig? In 2025, one man said yes.",
+      "published_at": "2026-11-16T10:19:11Z",
+      "privacy": "private",
+      "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/TBPED4Lvws0"
+      "url": "https://youtube.com/shorts/EsApbP4yjVE"
     },
     "Hy3xsXTwQhA": {
       "upload_status": "processed",
