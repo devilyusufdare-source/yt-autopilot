@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-16T23:05:45+00:00",
+  "updated_at": "2026-11-16T23:34:36+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
     "channel_views": 16869,
-    "video_count": 104
+    "video_count": 105
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/EUD8VmmUr1g"
+      "https://youtube.com/shorts/z5Wsjl7ctCY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/EUD8VmmUr1g"
+      "https://youtube.com/shorts/z5Wsjl7ctCY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/EUD8VmmUr1g"
+      "https://youtube.com/shorts/z5Wsjl7ctCY"
     ]
   },
   "retention": {
@@ -90,7 +90,7 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 105,
+  "total_videos": 106,
   "total_views": 16925,
   "by_topic": {
     "earth": {
@@ -114,8 +114,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 23,
-      "avg_views": 79,
+      "videos": 24,
+      "avg_views": 76,
       "best_views": 666
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 105,
-      "avg_views": 161,
+      "videos": 106,
+      "avg_views": 160,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 104,
-      "avg_views": 153
+      "videos": 105,
+      "avg_views": 151
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -3057,6 +3057,30 @@
       "url": "https://youtube.com/shorts/0JpzYEV2w5I"
     },
     "EUD8VmmUr1g": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT43S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Every Volcano on Earth Erupted at Once?",
+      "topic": "earth",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if every volcano on Earth erupted at once? The lava is the least of it.",
+      "published_at": "2026-11-16T23:30:19Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/EUD8VmmUr1g"
+    },
+    "z5Wsjl7ctCY": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -3068,17 +3092,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If Every Volcano on Earth Erupted at Once?",
-      "topic": "earth",
+      "title": "What If You Drank a Cup of Bacteria to Prove a Point? It Won a Nobel",
+      "topic": "body",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if every volcano on Earth erupted at once? The lava is the least of it.",
-      "published_at": "2026-11-16T23:05:40Z",
+      "hook": "What if you drank bacteria just to win an argument? In 1984, one doctor did.",
+      "published_at": "2026-11-16T23:34:33Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/EUD8VmmUr1g"
+      "url": "https://youtube.com/shorts/z5Wsjl7ctCY"
     },
     "Hy3xsXTwQhA": {
       "upload_status": "processed",
