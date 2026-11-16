@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-16T21:07:18+00:00",
+  "updated_at": "2026-11-16T22:35:46+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 80,
-    "channel_views": 87094,
-    "video_count": 339
+    "channel_views": 88065,
+    "video_count": 341
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/hBfYOHEOwoE",
-      "https://youtube.com/shorts/43nOUKvyDBI"
+      "https://youtube.com/shorts/CvX2wp2RiuU",
+      "https://youtube.com/shorts/vDMd15MlBuU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/43nOUKvyDBI"
+      "https://youtube.com/shorts/vDMd15MlBuU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/43nOUKvyDBI"
+      "https://youtube.com/shorts/vDMd15MlBuU"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 339,
-  "total_views": 89025,
+  "total_videos": 341,
+  "total_views": 89127,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 250,
-      "avg_views": 271,
+      "videos": 252,
+      "avg_views": 270,
       "best_views": 1507
     },
     "human body": {
@@ -127,7 +127,7 @@
     },
     "technology": {
       "videos": 7,
-      "avg_views": 81,
+      "avg_views": 82,
       "best_views": 286
     },
     "games": {
@@ -138,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 323,
-      "avg_views": 255,
+      "videos": 325,
+      "avg_views": 253,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 253,
-      "avg_views": 201
+      "videos": 255,
+      "avg_views": 199
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4032,7 +4032,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 1055,
+      "views": 1060,
       "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
@@ -4312,7 +4312,7 @@
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
       "published_at": "2026-11-14T19:00:20Z",
       "privacy": "public",
-      "views": 838,
+      "views": 830,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg",
@@ -4368,8 +4368,8 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 554,
-      "likes": 3,
+      "views": 590,
+      "likes": 4,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
       "avg_view_seconds": 20.0,
@@ -4480,7 +4480,7 @@
       "hook": "This fish walks on the seafloor. And its legs do something no leg should.",
       "published_at": "2026-11-14T21:00:00Z",
       "privacy": "public",
-      "views": 249,
+      "views": 254,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8",
@@ -4788,7 +4788,7 @@
       "hook": "This rat kicks a striking rattlesnake in the face. In mid-air.",
       "published_at": "2026-10-21T21:00:29Z",
       "privacy": "public",
-      "views": 303,
+      "views": 304,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
@@ -4900,7 +4900,7 @@
       "hook": "This fish has a Ferrari price and a plastic surgeon.",
       "published_at": "2026-11-15T00:20:19Z",
       "privacy": "public",
-      "views": 524,
+      "views": 525,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/XkzwjhVdUho",
@@ -4984,7 +4984,7 @@
       "hook": "Divers here take off their watches first.",
       "published_at": "2026-11-15T03:30:02Z",
       "privacy": "public",
-      "views": 69,
+      "views": 71,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xK7E3M26JZg",
@@ -5148,7 +5148,7 @@
       "hook": "This animal has no teeth. It killed two hunters.",
       "published_at": "2026-11-15T19:00:37Z",
       "privacy": "public",
-      "views": 22,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7uKz9J6doK4"
@@ -5256,7 +5256,7 @@
       "hook": "Hyena cubs are born with a full set of teeth.",
       "published_at": "2026-11-15T20:00:25Z",
       "privacy": "public",
-      "views": 210,
+      "views": 211,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/-qEs_rymHKQ"
@@ -5336,7 +5336,7 @@
       "hook": "No one is allowed on this island. By law.",
       "published_at": "2026-11-15T21:00:01Z",
       "privacy": "public",
-      "views": 174,
+      "views": 175,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qQCzFZzti0k"
@@ -5388,7 +5388,7 @@
       "hook": "This snake's tail ends in a spider. The spider isn't real.",
       "published_at": "2026-11-15T21:20:15Z",
       "privacy": "public",
-      "views": 115,
+      "views": 116,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/WPn3KiUrA8w"
@@ -5544,8 +5544,8 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 295,
-      "likes": 0,
+      "views": 345,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0"
     },
@@ -5568,7 +5568,7 @@
       "hook": "Baby tiger sharks eat woodpeckers. Out at sea.",
       "published_at": "2026-11-16T00:20:39Z",
       "privacy": "public",
-      "views": 59,
+      "views": 61,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1J5b6SERGtE"
@@ -5676,7 +5676,7 @@
       "hook": "This newt can kill almost anything that swallows it. Except one snake.",
       "published_at": "2026-11-16T03:10:04Z",
       "privacy": "public",
-      "views": 43,
+      "views": 44,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E"
@@ -5830,11 +5830,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Florida dolphins catch fish with a net made of mud.",
-      "published_at": "2026-11-16T21:02:03Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-16T21:30:13Z",
+      "privacy": "public",
+      "views": 3,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/hBfYOHEOwoE"
     },
     "4tjLDcWwrTM": {
@@ -5884,7 +5884,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 1030,
+      "views": 1031,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8",
@@ -5894,6 +5894,54 @@
       "subscribers_gained": 1
     },
     "43nOUKvyDBI": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT43S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Chased Kangaroo Runs Into Water, Then Waits for the Dog to Follow",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A kangaroo chased by a dog runs straight for water.",
+      "published_at": "2026-11-16T21:50:09Z",
+      "privacy": "public",
+      "views": 3,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/43nOUKvyDBI"
+    },
+    "CvX2wp2RiuU": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT37S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "These Bees Gave Up Flowers. They Eat Dead Animals and Still Make Honey",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "These bees don't collect pollen. They eat dead animals.",
+      "published_at": "2026-11-16T22:31:33Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/CvX2wp2RiuU"
+    },
+    "vDMd15MlBuU": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -5905,17 +5953,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A Chased Kangaroo Runs Into Water, Then Waits for the Dog to Follow",
+      "title": "Old Termites Grow Blue Backpacks. In a Fight, They Explode",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "A kangaroo chased by a dog runs straight for water.",
-      "published_at": "2026-11-16T21:07:07Z",
+      "hook": "When these termites get old, they grow explosive backpacks.",
+      "published_at": "2026-11-16T22:35:37Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/43nOUKvyDBI"
+      "url": "https://youtube.com/shorts/vDMd15MlBuU"
     },
     "BYOOrvQjLUo": {
       "upload_status": "processed",
@@ -6132,7 +6180,7 @@
       "hook": "The five highest bridges on Earth. All five were built by the same country.",
       "published_at": "2026-11-15T03:10:20Z",
       "privacy": "public",
-      "views": 91,
+      "views": 92,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Fo0DQwKYbGI",

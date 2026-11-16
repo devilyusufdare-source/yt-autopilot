@@ -60,5 +60,22 @@
   "thumbnail_text": "OLD TERMITES EXPLODE",
   "priority": 6,
   "subject": "termite blue spots",
-  "first_comment": "In lab tests, the liquid from the oldest workers was the most toxic of all. Which insect defence should we cover next?"
+  "first_comment": "In lab tests, the liquid from the oldest workers was the most toxic of all. Which insect defence should we cover next?",
+  "youtube_id": "vDMd15MlBuU",
+  "url": "https://youtube.com/shorts/vDMd15MlBuU",
+  "uploaded_at": "2026-11-16T22:35:43+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-17T00:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-photo": 5,
+    "pixabay-video": 9,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 40.6,
+  "style": "classic",
+  "kind": "shorts"
 }
