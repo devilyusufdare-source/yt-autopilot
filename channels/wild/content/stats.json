@@ -1,38 +1,39 @@
 {
-  "updated_at": "2026-11-16T10:19:15+00:00",
+  "updated_at": "2026-11-16T21:23:12+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
-    "channel_views": 16827,
-    "video_count": 101
+    "channel_views": 16869,
+    "video_count": 102
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/EsApbP4yjVE"
+      "https://youtube.com/shorts/wShbdnI6SU8",
+      "https://youtube.com/shorts/0JpzYEV2w5I"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/EsApbP4yjVE"
+      "https://youtube.com/shorts/0JpzYEV2w5I"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/EsApbP4yjVE"
+      "https://youtube.com/shorts/0JpzYEV2w5I"
     ]
   },
   "retention": {
-    "videos_with_data": 88,
-    "avg_view_percent": 60.9,
+    "videos_with_data": 94,
+    "avg_view_percent": 60.0,
     "by_topic": {
-      "earth": 83.5,
-      "space": 63.8,
+      "earth": 85.4,
+      "space": 64.4,
       "society": 46.8,
-      "animals": 49.1,
-      "body": 47.3,
-      "technology": 67.3
+      "animals": 47.7,
+      "body": 44.2,
+      "technology": 64.3
     },
     "best": [
       {
@@ -52,7 +53,7 @@
       },
       {
         "title": "What If You Were Frozen After Death? About 200 People Are Waiting in Arizona",
-        "avg_view_percent": 127.2,
+        "avg_view_percent": 104.5,
         "views": 42
       },
       {
@@ -63,9 +64,19 @@
     ],
     "worst": [
       {
+        "title": "What If You Could See 100 Million Colours? Some Women Already Can",
+        "avg_view_percent": 5.8,
+        "views": 7
+      },
+      {
         "title": "What If a Country Lost Its Vultures? India Did. 500,000 People Died",
         "avg_view_percent": 10.5,
         "views": 9
+      },
+      {
+        "title": "What If You Saw Flashes With Your Eyes Shut? Astronauts Do",
+        "avg_view_percent": 13.2,
+        "views": 7
       },
       {
         "title": "What If a Computer Said Five Nukes Were Coming? In 1983 One Did",
@@ -73,25 +84,15 @@
         "views": 8
       },
       {
-        "title": "What If You Saw Flashes With Your Eyes Shut? Astronauts Do",
-        "avg_view_percent": 16.7,
-        "views": 7
-      },
-      {
-        "title": "What If We Sent a Dog Into Orbit? We Did in 1957, and Hid the Truth for 45 Years",
-        "avg_view_percent": 18.2,
+        "title": "What If You Had Hollow Bones Like a Bird? You Wouldn't Weigh Any Less",
+        "avg_view_percent": 14.3,
         "views": 5
-      },
-      {
-        "title": "What If an Animal Floated in Open Space? Tardigrades Did",
-        "avg_view_percent": 18.7,
-        "views": 3
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 102,
-  "total_views": 16868,
+  "total_videos": 104,
+  "total_views": 16884,
   "by_topic": {
     "earth": {
       "videos": 11,
@@ -99,8 +100,8 @@
       "best_views": 1129
     },
     "space": {
-      "videos": 38,
-      "avg_views": 146,
+      "videos": 39,
+      "avg_views": 142,
       "best_views": 1281
     },
     "society": {
@@ -114,8 +115,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 22,
-      "avg_views": 80,
+      "videos": 23,
+      "avg_views": 77,
       "best_views": 666
     },
     "technology": {
@@ -126,15 +127,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 102,
-      "avg_views": 165,
+      "videos": 104,
+      "avg_views": 162,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 101,
-      "avg_views": 157
+      "videos": 103,
+      "avg_views": 154
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1179,8 +1180,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 63.5,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 62.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1432,7 +1433,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE",
       "avg_view_seconds": 22.0,
-      "avg_view_percent": 52.3,
+      "avg_view_percent": 53.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1487,8 +1488,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UjmJgcGGgIc",
-      "avg_view_seconds": 7.0,
-      "avg_view_percent": 16.7,
+      "avg_view_seconds": 5.0,
+      "avg_view_percent": 13.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1571,10 +1572,10 @@
       "likes": 13,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 38.1,
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 45.7,
       "shares": 0,
-      "subscribers_gained": 1
+      "subscribers_gained": 2
     },
     "KSCEzMiaT2o": {
       "upload_status": "processed",
@@ -1627,8 +1628,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 2.0,
+      "avg_view_percent": 5.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1655,8 +1656,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kY4T69sD7NE",
-      "avg_view_seconds": 57.0,
-      "avg_view_percent": 127.2,
+      "avg_view_seconds": 47.0,
+      "avg_view_percent": 104.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1711,8 +1712,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU",
-      "avg_view_seconds": 33.0,
-      "avg_view_percent": 78.0,
+      "avg_view_seconds": 42.0,
+      "avg_view_percent": 98.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1767,8 +1768,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU",
-      "avg_view_seconds": 26.0,
-      "avg_view_percent": 57.0,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 56.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1795,8 +1796,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/W4GbYWh6rmE",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 31.1,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 29.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1931,12 +1932,12 @@
       "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
       "published_at": "2026-11-13T21:30:22Z",
       "privacy": "public",
-      "views": 13,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wvmq2CtLbiw",
-      "avg_view_seconds": 7.0,
-      "avg_view_percent": 19.0,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 40.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1963,8 +1964,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/N7DiGn8Mexg",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 38.8,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 40.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2020,7 +2021,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/gtcyMkEqArY",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 57.5,
+      "avg_view_percent": 58.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2043,10 +2044,14 @@
       "hook": "What if one side of Earth always faced the Sun? The survivors would all live in a ring.",
       "published_at": "2026-11-14T10:00:21Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Z7bCR86xvPA"
+      "url": "https://youtube.com/shorts/Z7bCR86xvPA",
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 50.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "8ov_Z_E0LvQ": {
       "upload_status": "processed",
@@ -2100,7 +2105,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/6HSGoaRjPLU",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 30.4,
+      "avg_view_percent": 29.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2323,8 +2328,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rlZPxPBV00A",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 53.0,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 51.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2379,8 +2384,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
-      "avg_view_seconds": 30.0,
-      "avg_view_percent": 61.5,
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 58.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2490,7 +2495,11 @@
       "views": 5,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/rZvHcmJwADY"
+      "url": "https://youtube.com/shorts/rZvHcmJwADY",
+      "avg_view_seconds": 6.0,
+      "avg_view_percent": 14.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "VPNJB_3l0us": {
       "upload_status": "processed",
@@ -2511,8 +2520,8 @@
       "hook": "What if the first atomic bomb had set the air on fire? Its builders had to check.",
       "published_at": "2026-11-10T15:00:21Z",
       "privacy": "public",
-      "views": 10,
-      "likes": 0,
+      "views": 12,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/VPNJB_3l0us",
       "avg_view_seconds": 24.0,
@@ -2679,12 +2688,12 @@
       "hook": "What if the cockpit window blew out at 17,000 feet? In 1990 the captain went with it.",
       "published_at": "2026-11-12T02:15:35Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RylZwIA6oUA",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 50.7,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 41.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2710,7 +2719,11 @@
       "views": 29,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/CRYxx_sk6l0"
+      "url": "https://youtube.com/shorts/CRYxx_sk6l0",
+      "avg_view_seconds": 39.0,
+      "avg_view_percent": 83.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "pKfvusazAu8": {
       "upload_status": "processed",
@@ -2734,7 +2747,11 @@
       "views": 20,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/pKfvusazAu8"
+      "url": "https://youtube.com/shorts/pKfvusazAu8",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 35.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "BxqA1Dw9mFI": {
       "upload_status": "processed",
@@ -2758,7 +2775,11 @@
       "views": 19,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/BxqA1Dw9mFI"
+      "url": "https://youtube.com/shorts/BxqA1Dw9mFI",
+      "avg_view_seconds": 36.0,
+      "avg_view_percent": 76.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
@@ -2883,7 +2904,7 @@
       "hook": "What if you woke up speaking in a foreign accent? You wouldn't have learned a thing.",
       "published_at": "2026-11-15T19:50:27Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KP7S7VpFHD8"
@@ -2907,7 +2928,7 @@
       "hook": "What if you were locked in a windowless capsule for 520 days? Six men volunteered.",
       "published_at": "2026-11-15T21:00:19Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7DUibZ-ZGZw"
@@ -2959,20 +2980,20 @@
       "hook": "What if you spun an office building around while everyone kept working? In 1930, Indianapolis did.",
       "published_at": "2026-11-15T23:50:28Z",
       "privacy": "public",
-      "views": 17,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TBPED4Lvws0"
     },
     "EsApbP4yjVE": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT35S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2981,12 +3002,60 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if surgeons gave you a kidney from a pig? In 2025, one man said yes.",
-      "published_at": "2026-11-16T10:19:11Z",
+      "published_at": "2026-11-16T10:40:23Z",
+      "privacy": "public",
+      "views": 7,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/EsApbP4yjVE"
+    },
+    "wShbdnI6SU8": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT39S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Swam in a Pool on the Moon? You Could Leap Like a Dolphin",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you swam in a pool on the Moon? Swimming isn't the strange part.",
+      "published_at": "2026-11-16T21:20:30Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/EsApbP4yjVE"
+      "url": "https://youtube.com/shorts/wShbdnI6SU8"
+    },
+    "0JpzYEV2w5I": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Couldn't Feel Where Your Body Was? One Man Can't",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you lost the sense that tells you where your body is? One man did.",
+      "published_at": "2026-11-16T21:23:07Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/0JpzYEV2w5I"
     },
     "Hy3xsXTwQhA": {
       "upload_status": "processed",

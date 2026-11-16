@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "WHAT IF YOU SWAM ON THE MOON?",
   "priority": 8,
-  "first_comment": "With a monofin, a champion swimmer could launch four or five meters into the air: a high dive in reverse. What would you try first in Moon gravity?"
+  "first_comment": "With a monofin, a champion swimmer could launch four or five meters into the air: a high dive in reverse. What would you try first in Moon gravity?",
+  "youtube_id": "wShbdnI6SU8",
+  "url": "https://youtube.com/shorts/wShbdnI6SU8",
+  "uploaded_at": "2026-11-16T21:20:35+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-16T21:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#C4B5FD",
+  "duration_seconds": 38.6,
+  "style": "classic",
+  "kind": "shorts"
 }
