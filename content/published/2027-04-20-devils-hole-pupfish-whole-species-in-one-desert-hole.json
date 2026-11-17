@@ -61,5 +61,22 @@
   ],
   "thumbnail_text": "ONE HOLE. ONE SPECIES. 38 LEFT.",
   "priority": 6,
-  "first_comment": "Divers have explored the cavern to more than 400 feet and nobody knows how deep it goes. Would you swim in it?"
+  "first_comment": "Divers have explored the cavern to more than 400 feet and nobody knows how deep it goes. Would you swim in it?",
+  "youtube_id": "Kiboe4Fz6p0",
+  "url": "https://youtube.com/shorts/Kiboe4Fz6p0",
+  "uploaded_at": "2026-11-17T23:12:09+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-18T00:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-photo": 1,
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 36.2,
+  "style": "classic",
+  "kind": "shorts"
 }
