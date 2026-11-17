@@ -54,5 +54,21 @@
   ],
   "thumbnail_text": "WHAT IF FACES ALL LOOKED NEW?",
   "priority": 8,
-  "first_comment": "Do you ever fail to recognise someone you know well? Drop your own what-if below."
+  "first_comment": "Do you ever fail to recognise someone you know well? Drop your own what-if below.",
+  "youtube_id": "Y-KIiHslHr0",
+  "url": "https://youtube.com/shorts/Y-KIiHslHr0",
+  "uploaded_at": "2026-11-17T20:08:25+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-17T21:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FDA4AF",
+  "duration_seconds": 45.1,
+  "style": "classic",
+  "kind": "shorts"
 }
