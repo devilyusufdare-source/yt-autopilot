@@ -59,5 +59,21 @@
   ],
   "thumbnail_text": "67% CHOSE THE SHOCK",
   "priority": 6,
-  "first_comment": "Those who pressed the button gave themselves about 1.5 shocks on average in 15 minutes. Would you have pressed it?"
+  "first_comment": "Those who pressed the button gave themselves about 1.5 shocks on average in 15 minutes. Would you have pressed it?",
+  "youtube_id": "E-1SVtzKHG8",
+  "url": "https://youtube.com/shorts/E-1SVtzKHG8",
+  "uploaded_at": "2026-11-17T22:18:32+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-17T22:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#C4B5FD",
+  "duration_seconds": 30.5,
+  "style": "classic",
+  "kind": "shorts"
 }
