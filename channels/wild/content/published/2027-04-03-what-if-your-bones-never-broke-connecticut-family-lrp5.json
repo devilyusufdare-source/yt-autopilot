@@ -57,5 +57,21 @@
   ],
   "thumbnail_text": "WHAT IF BONES NEVER BROKE?",
   "priority": 9,
-  "first_comment": "Unbreakable bones, but you sink in the pool. Would you take the trade? What should we run through next?"
+  "first_comment": "Unbreakable bones, but you sink in the pool. Would you take the trade? What should we run through next?",
+  "youtube_id": "iVbPulEUnKU",
+  "url": "https://youtube.com/shorts/iVbPulEUnKU",
+  "uploaded_at": "2026-11-17T08:31:04+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-17T09:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 16,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FDA4AF",
+  "duration_seconds": 40.2,
+  "style": "classic",
+  "kind": "shorts"
 }

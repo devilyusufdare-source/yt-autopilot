@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-11-17T04:01:23+00:00",
+  "updated_at": "2026-11-17T08:31:06+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
-    "channel_views": 16869,
+    "channel_views": 16889,
     "video_count": 106
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/iVbPulEUnKU"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/iVbPulEUnKU"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/iVbPulEUnKU"
+    ]
   },
   "retention": {
     "videos_with_data": 94,
@@ -84,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 106,
-  "total_views": 16949,
+  "total_videos": 107,
+  "total_views": 16962,
   "by_topic": {
     "earth": {
       "videos": 12,
@@ -108,8 +114,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 24,
-      "avg_views": 76,
+      "videos": 25,
+      "avg_views": 73,
       "best_views": 666
     },
     "technology": {
@@ -120,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 106,
-      "avg_views": 160,
+      "videos": 107,
+      "avg_views": 159,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 105,
-      "avg_views": 151
+      "videos": 106,
+      "avg_views": 150
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -187,7 +193,7 @@
     {
       "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
       "topic": "earth",
-      "views": 565,
+      "views": 566,
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
     },
     {
@@ -1925,7 +1931,7 @@
       "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
       "published_at": "2026-11-13T21:30:22Z",
       "privacy": "public",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wvmq2CtLbiw",
@@ -2065,7 +2071,7 @@
       "hook": "What if you fell into lava? You wouldn't sink. That's the bad news.",
       "published_at": "2026-11-08T02:40:05Z",
       "privacy": "public",
-      "views": 565,
+      "views": 566,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ov_Z_E0LvQ",
@@ -2121,7 +2127,7 @@
       "hook": "What if we crashed a spacecraft into an asteroid to push it? NASA tried. It overshot.",
       "published_at": "2026-11-08T17:40:28Z",
       "privacy": "public",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SO9aGqEpzdg",
@@ -2429,7 +2435,7 @@
       "hook": "What if a nuclear reactor switched itself on with nobody around? It happened, two billion years ago.",
       "published_at": "2026-11-04T21:20:25Z",
       "privacy": "public",
-      "views": 32,
+      "views": 33,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UWlaqnyoJ4A",
@@ -2821,7 +2827,7 @@
       "hook": "What if you could never make another memory? One man lived that way for 55 years.",
       "published_at": "2026-11-15T18:30:12Z",
       "privacy": "public",
-      "views": 5,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6MwRUYxhTM8"
@@ -2878,6 +2884,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "iVbPulEUnKU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Your Bones Never Broke? A Connecticut Family Has That Gene",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if your bones never broke? One family in Connecticut carries the gene for it.",
+      "published_at": "2026-11-17T08:31:01Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/iVbPulEUnKU"
+    },
     "KP7S7VpFHD8": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -2921,7 +2951,7 @@
       "hook": "What if you were locked in a windowless capsule for 520 days? Six men volunteered.",
       "published_at": "2026-11-15T21:00:19Z",
       "privacy": "public",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7DUibZ-ZGZw"
@@ -2997,7 +3027,7 @@
       "hook": "What if surgeons gave you a kidney from a pig? In 2025, one man said yes.",
       "published_at": "2026-11-16T10:40:23Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EsApbP4yjVE"
@@ -3021,7 +3051,7 @@
       "hook": "What if you swam in a pool on the Moon? Swimming isn't the strange part.",
       "published_at": "2026-11-16T21:50:21Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wShbdnI6SU8"
@@ -3069,7 +3099,7 @@
       "hook": "What if every volcano on Earth erupted at once? The lava is the least of it.",
       "published_at": "2026-11-16T23:30:19Z",
       "privacy": "public",
-      "views": 4,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EUD8VmmUr1g"
