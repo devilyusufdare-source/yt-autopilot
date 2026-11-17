@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T23:12:11+00:00",
+  "updated_at": "2026-11-17T23:56:09+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,19 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Kiboe4Fz6p0"
+      "https://youtube.com/shorts/Kiboe4Fz6p0",
+      "https://youtube.com/shorts/wInoD66MfKk",
+      "https://youtube.com/shorts/K9Um5LVzrtw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Kiboe4Fz6p0"
+      "https://youtube.com/shorts/wInoD66MfKk"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Kiboe4Fz6p0"
+      "https://youtube.com/shorts/wInoD66MfKk"
     ]
   },
   "retention": {
@@ -81,7 +83,7 @@
       {
         "title": "Two Lions Hunted Railway Workers for 9 Months. Their Teeth Hold a Clue",
         "avg_view_percent": 14.9,
-        "views": 260
+        "views": 217
       },
       {
         "title": "This Bat Hunts Frogs by Their Love Songs, and Knows Which Are Poison",
@@ -91,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 354,
-  "total_views": 96456,
+  "total_videos": 356,
+  "total_views": 96448,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -100,13 +102,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 27,
-      "avg_views": 233,
+      "videos": 28,
+      "avg_views": 224,
       "best_views": 1648
     },
     "animals": {
-      "videos": 262,
-      "avg_views": 283,
+      "videos": 263,
+      "avg_views": 282,
       "best_views": 1507
     },
     "human body": {
@@ -137,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 338,
-      "avg_views": 265,
+      "videos": 340,
+      "avg_views": 264,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 268,
-      "avg_views": 217
+      "videos": 270,
+      "avg_views": 215
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4035,7 +4037,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 1112,
+      "views": 1115,
       "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
@@ -4987,7 +4989,7 @@
       "hook": "Divers here take off their watches first.",
       "published_at": "2026-11-15T03:30:02Z",
       "privacy": "public",
-      "views": 77,
+      "views": 76,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xK7E3M26JZg",
@@ -5155,7 +5157,7 @@
       "hook": "This animal has no teeth. It killed two hunters.",
       "published_at": "2026-11-15T19:00:37Z",
       "privacy": "public",
-      "views": 56,
+      "views": 58,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7uKz9J6doK4",
@@ -5267,7 +5269,7 @@
       "hook": "Hyena cubs are born with a full set of teeth.",
       "published_at": "2026-11-15T20:00:25Z",
       "privacy": "public",
-      "views": 426,
+      "views": 425,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/-qEs_rymHKQ",
@@ -5351,7 +5353,7 @@
       "hook": "No one is allowed on this island. By law.",
       "published_at": "2026-11-15T21:00:01Z",
       "privacy": "public",
-      "views": 284,
+      "views": 285,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qQCzFZzti0k",
@@ -5463,7 +5465,7 @@
       "hook": "In 1898, two lions hunted people for nine months.",
       "published_at": "2026-11-15T22:10:17Z",
       "privacy": "public",
-      "views": 260,
+      "views": 217,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w6grVvcVieI",
@@ -5575,7 +5577,7 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 961,
+      "views": 960,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0",
@@ -5715,7 +5717,7 @@
       "hook": "This newt can kill almost anything that swallows it. Except one snake.",
       "published_at": "2026-11-16T03:10:04Z",
       "privacy": "public",
-      "views": 96,
+      "views": 100,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E",
@@ -5771,7 +5773,7 @@
       "hook": "Some crocodiles lie still with sticks balanced on their snouts.",
       "published_at": "2026-11-16T08:30:23Z",
       "privacy": "public",
-      "views": 350,
+      "views": 378,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/5tkYISdPEC8"
@@ -5875,7 +5877,7 @@
       "hook": "Florida dolphins catch fish with a net made of mud.",
       "published_at": "2026-11-16T21:30:13Z",
       "privacy": "public",
-      "views": 486,
+      "views": 475,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/hBfYOHEOwoE"
@@ -5955,7 +5957,7 @@
       "hook": "A kangaroo chased by a dog runs straight for water.",
       "published_at": "2026-11-16T21:50:09Z",
       "privacy": "public",
-      "views": 234,
+      "views": 231,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/43nOUKvyDBI"
@@ -5979,7 +5981,7 @@
       "hook": "These bees don't collect pollen. They eat dead animals.",
       "published_at": "2026-11-16T23:00:13Z",
       "privacy": "public",
-      "views": 139,
+      "views": 141,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/CvX2wp2RiuU"
@@ -6379,7 +6381,7 @@
       "hook": "This animal drinks alcohol at night and stays sober.",
       "published_at": "2026-11-17T02:40:40Z",
       "privacy": "public",
-      "views": 59,
+      "views": 60,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JbZTIQHiuT0"
@@ -6591,7 +6593,7 @@
       "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
       "published_at": "2026-11-17T01:20:11Z",
       "privacy": "public",
-      "views": 26,
+      "views": 27,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/d5f-TlrUDKM"
@@ -6643,7 +6645,7 @@
       "hook": "Scientists changed one thing, and hamster mothers ate their pups.",
       "published_at": "2026-11-17T09:50:35Z",
       "privacy": "public",
-      "views": 93,
+      "views": 90,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/BvjrR1NGn_s"
@@ -6809,14 +6811,14 @@
       "subscribers_gained": 0
     },
     "Kiboe4Fz6p0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -6859,6 +6861,30 @@
       "avg_view_percent": 72.5,
       "shares": 0,
       "subscribers_gained": 3
+    },
+    "wInoD66MfKk": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Insect Answers a Cicada's Love Song. Then It Eats the Singer",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A male cicada sings. The wrong female answers.",
+      "published_at": "2026-11-17T23:55:55Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/wInoD66MfKk"
     },
     "2PwdWAM0PVM": {
       "upload_status": "processed",
@@ -7103,7 +7129,7 @@
       "hook": "One star was measured to be older than the universe.",
       "published_at": "2026-11-16T00:00:07Z",
       "privacy": "public",
-      "views": 187,
+      "views": 194,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PdwMwtJozJo",
@@ -7356,6 +7382,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "K9Um5LVzrtw": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT46S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Biggest Impact Craters on Earth, Ranked (Dino Killer Is Only #2)",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five biggest asteroid scars on Earth. The one that killed the dinosaurs isn't number one.",
+      "published_at": "2026-11-17T23:53:26Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/K9Um5LVzrtw"
+    },
     "32p1FHP1L48": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -7543,7 +7593,7 @@
       "hook": "This ladybug is alive. It's guarding its own parasite.",
       "published_at": "2026-11-10T15:00:03Z",
       "privacy": "public",
-      "views": 949,
+      "views": 955,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA",
