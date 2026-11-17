@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-17T20:08:26+00:00",
+  "updated_at": "2026-11-17T21:55:03+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
-    "channel_views": 16889,
-    "video_count": 108
+    "channel_views": 16962,
+    "video_count": 109
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Y-KIiHslHr0"
+      "https://youtube.com/shorts/AjMnGdB8gjw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Y-KIiHslHr0"
+      "https://youtube.com/shorts/AjMnGdB8gjw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Y-KIiHslHr0"
+      "https://youtube.com/shorts/AjMnGdB8gjw"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 109,
-  "total_views": 16981,
+  "total_videos": 110,
+  "total_views": 16982,
   "by_topic": {
     "earth": {
       "videos": 13,
@@ -99,8 +99,8 @@
       "best_views": 1130
     },
     "space": {
-      "videos": 39,
-      "avg_views": 143,
+      "videos": 40,
+      "avg_views": 139,
       "best_views": 1281
     },
     "society": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 109,
-      "avg_views": 156,
+      "videos": 110,
+      "avg_views": 154,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 108,
-      "avg_views": 148
+      "videos": 109,
+      "avg_views": 146
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1763,7 +1763,7 @@
       "hook": "What if a loaded freight train ran away with nobody aboard? In 2001, one did. Carrying poison.",
       "published_at": "2026-11-06T21:20:30Z",
       "privacy": "public",
-      "views": 213,
+      "views": 214,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/h8DGqyZZFTU",
@@ -3201,14 +3201,14 @@
       "url": "https://youtube.com/shorts/vOcdQlrviSg"
     },
     "Y-KIiHslHr0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT46S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3217,12 +3217,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you couldn't recognise your best friend's face? One in 33 people can't. Most don't know.",
-      "published_at": "2026-11-17T20:08:22Z",
+      "published_at": "2026-11-17T21:00:04Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/Y-KIiHslHr0"
+    },
+    "AjMnGdB8gjw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If the Moon Were Half as Far Away? Tides Eight Times Higher",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if the Moon were half as far away? The first problem isn't the view.",
+      "published_at": "2026-11-17T21:54:58Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/Y-KIiHslHr0"
+      "url": "https://youtube.com/shorts/AjMnGdB8gjw"
     }
   }
 }
