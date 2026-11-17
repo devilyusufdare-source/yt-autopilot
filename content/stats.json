@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T02:52:12+00:00",
+  "updated_at": "2026-11-17T02:54:39+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -14,15 +14,11 @@
       "https://youtube.com/shorts/00WR-lhcyaY"
     ],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/00WR-lhcyaY"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/00WR-lhcyaY"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 315,
@@ -82,7 +78,7 @@
       {
         "title": "Scientists Slowed Light to 38 Miles an Hour. Then They Stopped It",
         "avg_view_percent": 12.5,
-        "views": 4
+        "views": 6
       },
       {
         "title": "A Venomous Shrew Paralyzes Its Prey and Keeps It Alive for 15 Days",
@@ -93,7 +89,7 @@
   },
   "retention_note": null,
   "total_videos": 349,
-  "total_views": 89651,
+  "total_views": 89829,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -107,7 +103,7 @@
     },
     "animals": {
       "videos": 258,
-      "avg_views": 265,
+      "avg_views": 266,
       "best_views": 1507
     },
     "human body": {
@@ -151,7 +147,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 263,
-      "avg_views": 195
+      "avg_views": 196
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1796,7 +1792,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 354,
+      "views": 356,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY",
@@ -3616,7 +3612,7 @@
       "hook": "There's a rattlesnake in this burrow. Except it's a bird.",
       "published_at": "2026-11-13T08:40:37Z",
       "privacy": "public",
-      "views": 428,
+      "views": 429,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/31x-Abpt-a8",
@@ -4032,7 +4028,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 1072,
+      "views": 1074,
       "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
@@ -5256,7 +5252,7 @@
       "hook": "Hyena cubs are born with a full set of teeth.",
       "published_at": "2026-11-15T20:00:25Z",
       "privacy": "public",
-      "views": 249,
+      "views": 260,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/-qEs_rymHKQ"
@@ -5336,7 +5332,7 @@
       "hook": "No one is allowed on this island. By law.",
       "published_at": "2026-11-15T21:00:01Z",
       "privacy": "public",
-      "views": 239,
+      "views": 228,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qQCzFZzti0k"
@@ -5388,7 +5384,7 @@
       "hook": "This snake's tail ends in a spider. The spider isn't real.",
       "published_at": "2026-11-15T21:20:15Z",
       "privacy": "public",
-      "views": 127,
+      "views": 134,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/WPn3KiUrA8w"
@@ -5544,7 +5540,7 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 425,
+      "views": 477,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0"
@@ -5676,7 +5672,7 @@
       "hook": "This newt can kill almost anything that swallows it. Except one snake.",
       "published_at": "2026-11-16T03:10:04Z",
       "privacy": "public",
-      "views": 45,
+      "views": 46,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E"
@@ -5728,7 +5724,7 @@
       "hook": "Some crocodiles lie still with sticks balanced on their snouts.",
       "published_at": "2026-11-16T08:30:23Z",
       "privacy": "public",
-      "views": 91,
+      "views": 96,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/5tkYISdPEC8"
@@ -5780,7 +5776,7 @@
       "hook": "One meal turns these tadpoles into cannibals.",
       "published_at": "2026-11-16T08:50:22Z",
       "privacy": "public",
-      "views": 35,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/d2tLlNejRRM"
@@ -5832,7 +5828,7 @@
       "hook": "Florida dolphins catch fish with a net made of mud.",
       "published_at": "2026-11-16T21:30:13Z",
       "privacy": "public",
-      "views": 56,
+      "views": 149,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/hBfYOHEOwoE"
@@ -5884,7 +5880,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 1032,
+      "views": 1034,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8",
@@ -6208,7 +6204,7 @@
       "hook": "This bat hunts a scorpion whose sting can kill people.",
       "published_at": "2026-11-17T00:50:15Z",
       "privacy": "public",
-      "views": 24,
+      "views": 25,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DMwZMdyQ-3w"
@@ -6338,7 +6334,7 @@
       "privacy": "public",
       "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/JbZTIQHiuT0"
     },
     "dgNAPMvw7Y0": {
@@ -6388,7 +6384,7 @@
       "hook": "A shark was caught 700 miles up the Mississippi River.",
       "published_at": "2026-10-28T16:30:27Z",
       "privacy": "public",
-      "views": 80,
+      "views": 81,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0eDxP_Mfsoo",
@@ -6450,14 +6446,14 @@
       "url": "https://youtube.com/shorts/20EUQtEznq8"
     },
     "00WR-lhcyaY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT31S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -6684,7 +6680,7 @@
       "hook": "These crocodiles are orange, and they hunt in total darkness.",
       "published_at": "2026-11-08T21:00:06Z",
       "privacy": "public",
-      "views": 936,
+      "views": 937,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/m0xau9wSO_k",
@@ -6908,7 +6904,7 @@
       "hook": "Light has been slowed to 38 miles an hour.",
       "published_at": "2026-11-14T23:30:23Z",
       "privacy": "public",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BEZ6zrFVLa0",
@@ -6964,7 +6960,7 @@
       "hook": "One star was measured to be older than the universe.",
       "published_at": "2026-11-16T00:00:07Z",
       "privacy": "public",
-      "views": 149,
+      "views": 154,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PdwMwtJozJo"
@@ -6988,7 +6984,7 @@
       "hook": "A chimp is twice as strong as you. It can barely throw.",
       "published_at": "2026-11-17T00:30:00Z",
       "privacy": "public",
-      "views": 84,
+      "views": 85,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/2REQ8iVRxag"
