@@ -59,5 +59,21 @@
   ],
   "thumbnail_text": "16 MINUTES ON ONE BREATH",
   "priority": 6,
-  "first_comment": "The researcher thinks they may last even longer than 16 minutes. Which animal has the best escape trick?"
+  "first_comment": "The researcher thinks they may last even longer than 16 minutes. Which animal has the best escape trick?",
+  "youtube_id": "20EUQtEznq8",
+  "url": "https://youtube.com/shorts/20EUQtEznq8",
+  "uploaded_at": "2026-11-17T01:52:49+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-17T03:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 10,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 29.1,
+  "style": "classic",
+  "kind": "shorts"
 }
