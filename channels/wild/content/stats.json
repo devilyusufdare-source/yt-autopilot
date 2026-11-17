@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-17T21:55:03+00:00",
+  "updated_at": "2026-11-17T23:11:54+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
     "channel_views": 16962,
-    "video_count": 109
+    "video_count": 110
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/AjMnGdB8gjw"
+      "https://youtube.com/shorts/AzRKI-WYycw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/AjMnGdB8gjw"
+      "https://youtube.com/shorts/AzRKI-WYycw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/AjMnGdB8gjw"
+      "https://youtube.com/shorts/AzRKI-WYycw"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 110,
-  "total_views": 16982,
+  "total_videos": 111,
+  "total_views": 16984,
   "by_topic": {
     "earth": {
       "videos": 13,
@@ -114,8 +114,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 26,
-      "avg_views": 70,
+      "videos": 27,
+      "avg_views": 68,
       "best_views": 662
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 110,
-      "avg_views": 154,
+      "videos": 111,
+      "avg_views": 153,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 109,
-      "avg_views": 146
+      "videos": 110,
+      "avg_views": 145
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -3219,12 +3219,36 @@
       "hook": "What if you couldn't recognise your best friend's face? One in 33 people can't. Most don't know.",
       "published_at": "2026-11-17T21:00:04Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y-KIiHslHr0"
     },
     "AjMnGdB8gjw": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT42S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If the Moon Were Half as Far Away? Tides Eight Times Higher",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if the Moon were half as far away? The first problem isn't the view.",
+      "published_at": "2026-11-17T22:20:14Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/AjMnGdB8gjw"
+    },
+    "AzRKI-WYycw": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -3236,17 +3260,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If the Moon Were Half as Far Away? Tides Eight Times Higher",
-      "topic": "space",
+      "title": "What If You Couldn't Picture Anything in Your Mind? Millions Can't",
+      "topic": "body",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if the Moon were half as far away? The first problem isn't the view.",
-      "published_at": "2026-11-17T21:54:58Z",
+      "hook": "What if you closed your eyes and could picture nothing at all? Millions can't, and never knew.",
+      "published_at": "2026-11-17T23:11:49Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/AjMnGdB8gjw"
+      "url": "https://youtube.com/shorts/AzRKI-WYycw"
     }
   }
 }
