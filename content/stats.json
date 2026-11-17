@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T04:01:12+00:00",
+  "updated_at": "2026-11-17T05:04:03+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -86,7 +86,7 @@
   },
   "retention_note": null,
   "total_videos": 349,
-  "total_views": 90128,
+  "total_views": 90383,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -100,12 +100,12 @@
     },
     "animals": {
       "videos": 258,
-      "avg_views": 266,
+      "avg_views": 267,
       "best_views": 1507
     },
     "human body": {
       "videos": 7,
-      "avg_views": 430,
+      "avg_views": 442,
       "best_views": 1384
     },
     "history": {
@@ -132,7 +132,7 @@
   "by_style": {
     "classic": {
       "videos": 333,
-      "avg_views": 250,
+      "avg_views": 251,
       "over_1500": 3
     },
     "punch": {
@@ -144,7 +144,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 263,
-      "avg_views": 197
+      "avg_views": 198
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4025,7 +4025,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 1074,
+      "views": 1083,
       "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
@@ -4361,7 +4361,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 593,
+      "views": 592,
       "likes": 4,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
@@ -4585,7 +4585,7 @@
       "hook": "This cat weighs 50 pounds. Its fangs are the same length as a tiger's.",
       "published_at": "2026-11-14T22:00:11Z",
       "privacy": "public",
-      "views": 584,
+      "views": 586,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tgn2QuDBdPk",
@@ -4977,7 +4977,7 @@
       "hook": "Divers here take off their watches first.",
       "published_at": "2026-11-15T03:30:02Z",
       "privacy": "public",
-      "views": 73,
+      "views": 74,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xK7E3M26JZg",
@@ -5141,7 +5141,7 @@
       "hook": "This animal has no teeth. It killed two hunters.",
       "published_at": "2026-11-15T19:00:37Z",
       "privacy": "public",
-      "views": 29,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7uKz9J6doK4"
@@ -5249,7 +5249,7 @@
       "hook": "Hyena cubs are born with a full set of teeth.",
       "published_at": "2026-11-15T20:00:25Z",
       "privacy": "public",
-      "views": 279,
+      "views": 282,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/-qEs_rymHKQ"
@@ -5329,7 +5329,7 @@
       "hook": "No one is allowed on this island. By law.",
       "published_at": "2026-11-15T21:00:01Z",
       "privacy": "public",
-      "views": 237,
+      "views": 248,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qQCzFZzti0k"
@@ -5381,7 +5381,7 @@
       "hook": "This snake's tail ends in a spider. The spider isn't real.",
       "published_at": "2026-11-15T21:20:15Z",
       "privacy": "public",
-      "views": 136,
+      "views": 134,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/WPn3KiUrA8w"
@@ -5433,7 +5433,7 @@
       "hook": "In 1898, two lions hunted people for nine months.",
       "published_at": "2026-11-15T22:10:17Z",
       "privacy": "public",
-      "views": 53,
+      "views": 64,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/w6grVvcVieI"
@@ -5537,7 +5537,7 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 500,
+      "views": 477,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0"
@@ -5669,7 +5669,7 @@
       "hook": "This newt can kill almost anything that swallows it. Except one snake.",
       "published_at": "2026-11-16T03:10:04Z",
       "privacy": "public",
-      "views": 45,
+      "views": 58,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E"
@@ -5773,7 +5773,7 @@
       "hook": "One meal turns these tadpoles into cannibals.",
       "published_at": "2026-11-16T08:50:22Z",
       "privacy": "public",
-      "views": 37,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/d2tLlNejRRM"
@@ -5825,7 +5825,7 @@
       "hook": "Florida dolphins catch fish with a net made of mud.",
       "published_at": "2026-11-16T21:30:13Z",
       "privacy": "public",
-      "views": 172,
+      "views": 201,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/hBfYOHEOwoE"
@@ -5905,7 +5905,7 @@
       "hook": "A kangaroo chased by a dog runs straight for water.",
       "published_at": "2026-11-16T21:50:09Z",
       "privacy": "public",
-      "views": 37,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/43nOUKvyDBI"
@@ -6173,7 +6173,7 @@
       "hook": "The five highest bridges on Earth. All five were built by the same country.",
       "published_at": "2026-11-15T03:10:20Z",
       "privacy": "public",
-      "views": 95,
+      "views": 94,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Fo0DQwKYbGI",
@@ -6201,7 +6201,7 @@
       "hook": "This bat hunts a scorpion whose sting can kill people.",
       "published_at": "2026-11-17T00:50:15Z",
       "privacy": "public",
-      "views": 44,
+      "views": 45,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DMwZMdyQ-3w"
@@ -6225,8 +6225,8 @@
       "hook": "This snake is poisonous. But it can't make poison.",
       "published_at": "2026-11-17T01:40:12Z",
       "privacy": "public",
-      "views": 78,
-      "likes": 2,
+      "views": 122,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/LBLOnSws_pw"
     },
@@ -6437,8 +6437,8 @@
       "hook": "This lizard jumps into a stream and doesn't come up.",
       "published_at": "2026-11-17T03:00:39Z",
       "privacy": "public",
-      "views": 12,
-      "likes": 0,
+      "views": 53,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/20EUQtEznq8"
     },
@@ -6461,9 +6461,9 @@
       "hook": "These baby spiders never hunt. They still grow fast.",
       "published_at": "2026-11-17T03:20:27Z",
       "privacy": "public",
-      "views": 11,
+      "views": 41,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/00WR-lhcyaY"
     },
     "_jeX-UKxfww": {
@@ -6981,7 +6981,7 @@
       "hook": "A chimp is twice as strong as you. It can barely throw.",
       "published_at": "2026-11-17T00:30:00Z",
       "privacy": "public",
-      "views": 172,
+      "views": 256,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/2REQ8iVRxag"
