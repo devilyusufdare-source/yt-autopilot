@@ -1,30 +1,27 @@
 {
-  "updated_at": "2026-11-17T01:52:52+00:00",
+  "updated_at": "2026-11-17T02:52:12+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 80,
     "channel_views": 88065,
-    "video_count": 347
+    "video_count": 349
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/vKWhAaMHuzI",
-      "https://youtube.com/shorts/JbZTIQHiuT0",
-      "https://youtube.com/shorts/20EUQtEznq8"
+      "https://youtube.com/shorts/20EUQtEznq8",
+      "https://youtube.com/shorts/00WR-lhcyaY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/JbZTIQHiuT0",
-      "https://youtube.com/shorts/20EUQtEznq8"
+      "https://youtube.com/shorts/00WR-lhcyaY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/JbZTIQHiuT0",
-      "https://youtube.com/shorts/20EUQtEznq8"
+      "https://youtube.com/shorts/00WR-lhcyaY"
     ]
   },
   "retention": {
@@ -95,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 348,
-  "total_views": 89498,
+  "total_videos": 349,
+  "total_views": 89651,
   "by_topic": {
     "psychology": {
       "videos": 4,
@@ -109,13 +106,13 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 257,
-      "avg_views": 266,
+      "videos": 258,
+      "avg_views": 265,
       "best_views": 1507
     },
     "human body": {
       "videos": 7,
-      "avg_views": 409,
+      "avg_views": 418,
       "best_views": 1384
     },
     "history": {
@@ -141,7 +138,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 332,
+      "videos": 333,
       "avg_views": 249,
       "over_1500": 3
     },
@@ -153,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 262,
-      "avg_views": 196
+      "videos": 263,
+      "avg_views": 195
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4035,7 +4032,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 1067,
+      "views": 1072,
       "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
@@ -4371,7 +4368,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 591,
+      "views": 592,
       "likes": 4,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
@@ -5099,7 +5096,7 @@
       "hook": "A fishing boat sank. The culprit had no brain.",
       "published_at": "2026-11-15T08:20:21Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/guSCzqDd8yw"
@@ -5339,7 +5336,7 @@
       "hook": "No one is allowed on this island. By law.",
       "published_at": "2026-11-15T21:00:01Z",
       "privacy": "public",
-      "views": 213,
+      "views": 239,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qQCzFZzti0k"
@@ -5731,7 +5728,7 @@
       "hook": "Some crocodiles lie still with sticks balanced on their snouts.",
       "published_at": "2026-11-16T08:30:23Z",
       "privacy": "public",
-      "views": 71,
+      "views": 91,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/5tkYISdPEC8"
@@ -6183,7 +6180,7 @@
       "hook": "The five highest bridges on Earth. All five were built by the same country.",
       "published_at": "2026-11-15T03:10:20Z",
       "privacy": "public",
-      "views": 93,
+      "views": 94,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Fo0DQwKYbGI",
@@ -6211,8 +6208,8 @@
       "hook": "This bat hunts a scorpion whose sting can kill people.",
       "published_at": "2026-11-17T00:50:15Z",
       "privacy": "public",
-      "views": 7,
-      "likes": 0,
+      "views": 24,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DMwZMdyQ-3w"
     },
@@ -6235,7 +6232,7 @@
       "hook": "This snake is poisonous. But it can't make poison.",
       "published_at": "2026-11-17T01:40:12Z",
       "privacy": "public",
-      "views": 6,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LBLOnSws_pw"
@@ -6313,22 +6310,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fish climbs waterfalls. With its mouth.",
-      "published_at": "2026-11-17T00:49:14Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-17T02:15:27Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/vKWhAaMHuzI"
     },
     "JbZTIQHiuT0": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT34S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -6337,9 +6334,9 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This animal drinks alcohol at night and stays sober.",
-      "published_at": "2026-11-17T00:51:34Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-17T02:40:40Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/JbZTIQHiuT0"
@@ -6429,14 +6426,14 @@
       "subscribers_gained": 0
     },
     "20EUQtEznq8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT30S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -6451,6 +6448,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/20EUQtEznq8"
+    },
+    "00WR-lhcyaY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Spider Nurses Her Babies on Milk With 4x the Protein of a Cow's",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "These baby spiders never hunt. They still grow fast.",
+      "published_at": "2026-11-17T02:52:01Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/00WR-lhcyaY"
     },
     "_jeX-UKxfww": {
       "upload_status": "processed",
@@ -6967,8 +6988,8 @@
       "hook": "A chimp is twice as strong as you. It can barely throw.",
       "published_at": "2026-11-17T00:30:00Z",
       "privacy": "public",
-      "views": 21,
-      "likes": 1,
+      "views": 84,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/2REQ8iVRxag"
     },
