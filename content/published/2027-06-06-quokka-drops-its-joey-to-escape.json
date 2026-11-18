@@ -60,5 +60,22 @@
   ],
   "thumbnail_text": "THE SMILE HIDES A DARK TRICK",
   "priority": 6,
-  "first_comment": "Kangaroos and other wallabies do the same thing. Does this change how you see that smile?"
+  "first_comment": "Kangaroos and other wallabies do the same thing. Does this change how you see that smile?",
+  "youtube_id": "uDDOoREkIS0",
+  "url": "https://youtube.com/shorts/uDDOoREkIS0",
+  "uploaded_at": "2026-11-18T04:18:11+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-18T04:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-photo": 3,
+    "pixabay-video": 9,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 29.2,
+  "style": "classic",
+  "kind": "shorts"
 }

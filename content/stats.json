@@ -1,30 +1,26 @@
 {
-  "updated_at": "2026-11-18T02:26:52+00:00",
+  "updated_at": "2026-11-18T04:18:15+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 82,
-    "channel_views": 93182,
-    "video_count": 360
+    "channel_views": 96733,
+    "video_count": 363
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Zubwd7G6EI0",
-      "https://youtube.com/shorts/vi3MeY9XEsg",
-      "https://youtube.com/shorts/ELTlAcIa1Rs"
+      "https://youtube.com/shorts/uDDOoREkIS0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/vi3MeY9XEsg",
-      "https://youtube.com/shorts/ELTlAcIa1Rs"
+      "https://youtube.com/shorts/uDDOoREkIS0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/vi3MeY9XEsg",
-      "https://youtube.com/shorts/ELTlAcIa1Rs"
+      "https://youtube.com/shorts/uDDOoREkIS0"
     ]
   },
   "retention": {
@@ -95,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 361,
-  "total_views": 96689,
+  "total_videos": 362,
+  "total_views": 96968,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -109,7 +105,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 268,
+      "videos": 269,
       "avg_views": 278,
       "best_views": 1507
     },
@@ -141,7 +137,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 345,
+      "videos": 346,
       "avg_views": 261,
       "over_1500": 3
     },
@@ -153,8 +149,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 275,
-      "avg_views": 212
+      "videos": 276,
+      "avg_views": 213
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -3283,7 +3279,7 @@
       "hook": "This moth flies 600 miles by the stars. To a place it has never seen.",
       "published_at": "2026-11-12T22:40:20Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pR8dGt6tbJo",
@@ -4375,8 +4371,8 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 607,
-      "likes": 5,
+      "views": 611,
+      "likes": 6,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
       "avg_view_seconds": 21.0,
@@ -4627,7 +4623,7 @@
       "hook": "The five priciest paintings ever sold at auction. Number one was once bought for 45 pounds.",
       "published_at": "2026-11-13T19:00:30Z",
       "privacy": "public",
-      "views": 57,
+      "views": 59,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9sM-TH-q2JU",
@@ -4711,7 +4707,7 @@
       "hook": "The most dangerous bird on Earth can't even fly.",
       "published_at": "2026-11-14T22:20:38Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JloGL6ZBs8",
@@ -5523,7 +5519,7 @@
       "hook": "In northern Australia, some bushfires are spread by birds.",
       "published_at": "2026-11-15T22:40:04Z",
       "privacy": "public",
-      "views": 5,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tt1wh1NEPBc",
@@ -5579,7 +5575,7 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 961,
+      "views": 963,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0",
@@ -5719,7 +5715,7 @@
       "hook": "This newt can kill almost anything that swallows it. Except one snake.",
       "published_at": "2026-11-16T03:10:04Z",
       "privacy": "public",
-      "views": 101,
+      "views": 103,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E",
@@ -5775,8 +5771,8 @@
       "hook": "Some crocodiles lie still with sticks balanced on their snouts.",
       "published_at": "2026-11-16T08:30:23Z",
       "privacy": "public",
-      "views": 406,
-      "likes": 7,
+      "views": 422,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/5tkYISdPEC8"
     },
@@ -5827,7 +5823,7 @@
       "hook": "One meal turns these tadpoles into cannibals.",
       "published_at": "2026-11-16T08:50:22Z",
       "privacy": "public",
-      "views": 139,
+      "views": 141,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/d2tLlNejRRM"
@@ -5879,7 +5875,7 @@
       "hook": "Florida dolphins catch fish with a net made of mud.",
       "published_at": "2026-11-16T21:30:13Z",
       "privacy": "public",
-      "views": 486,
+      "views": 506,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/hBfYOHEOwoE"
@@ -6007,7 +6003,7 @@
       "hook": "When these termites get old, they grow explosive backpacks.",
       "published_at": "2026-11-17T00:00:15Z",
       "privacy": "public",
-      "views": 134,
+      "views": 141,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vDMd15MlBuU"
@@ -6255,7 +6251,7 @@
       "hook": "This bat hunts a scorpion whose sting can kill people.",
       "published_at": "2026-11-17T00:50:15Z",
       "privacy": "public",
-      "views": 117,
+      "views": 121,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DMwZMdyQ-3w"
@@ -6279,7 +6275,7 @@
       "hook": "This snake is poisonous. But it can't make poison.",
       "published_at": "2026-11-17T01:40:12Z",
       "privacy": "public",
-      "views": 959,
+      "views": 965,
       "likes": 13,
       "comments": 1,
       "url": "https://youtube.com/shorts/LBLOnSws_pw"
@@ -6359,7 +6355,7 @@
       "hook": "This fish climbs waterfalls. With its mouth.",
       "published_at": "2026-11-17T02:15:27Z",
       "privacy": "public",
-      "views": 483,
+      "views": 526,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/vKWhAaMHuzI"
@@ -6383,7 +6379,7 @@
       "hook": "This animal drinks alcohol at night and stays sober.",
       "published_at": "2026-11-17T02:40:40Z",
       "privacy": "public",
-      "views": 59,
+      "views": 68,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JbZTIQHiuT0"
@@ -6647,7 +6643,7 @@
       "hook": "Scientists changed one thing, and hamster mothers ate their pups.",
       "published_at": "2026-11-17T09:50:35Z",
       "privacy": "public",
-      "views": 93,
+      "views": 104,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/BvjrR1NGn_s"
@@ -6699,7 +6695,7 @@
       "hook": "The loudest bird on Earth weighs half a pound.",
       "published_at": "2026-11-17T21:00:26Z",
       "privacy": "public",
-      "views": 1,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tdDjN5tAZu8"
@@ -6883,8 +6879,8 @@
       "hook": "A male cicada sings. The wrong female answers.",
       "published_at": "2026-11-18T00:40:23Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 12,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wInoD66MfKk"
     },
@@ -6963,8 +6959,8 @@
       "hook": "This wasp grows medicine in its antennae.",
       "published_at": "2026-11-18T02:15:24Z",
       "privacy": "public",
-      "views": 0,
-      "likes": 0,
+      "views": 31,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/9H_VjXFRklE"
     },
@@ -7015,7 +7011,7 @@
       "hook": "Octopuses throw things at each other. Females throw the most.",
       "published_at": "2026-11-18T01:20:10Z",
       "privacy": "public",
-      "views": 12,
+      "views": 28,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/atcvHLmvi0g"
@@ -7393,22 +7389,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A turtle stomps the ground, and worms come up to it.",
-      "published_at": "2026-11-18T01:36:52Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-18T02:40:03Z",
+      "privacy": "public",
+      "views": 66,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Zubwd7G6EI0"
     },
     "vi3MeY9XEsg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT30S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -7417,22 +7413,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
-      "published_at": "2026-11-18T01:39:20Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-18T03:10:17Z",
+      "privacy": "public",
+      "views": 8,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg"
     },
     "ELTlAcIa1Rs": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT29S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -7441,11 +7437,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This owl brings live snakes home to its chicks. Not as food.",
-      "published_at": "2026-11-18T02:26:41Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-18T03:30:33Z",
+      "privacy": "public",
+      "views": 5,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/ELTlAcIa1Rs"
     },
     "Oyni6mm1Ma8": {
@@ -7504,6 +7500,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "uDDOoREkIS0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The World's Happiest Animal Has a Dark Way to Escape Predators",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The world's happiest animal has a brutal escape plan.",
+      "published_at": "2026-11-18T04:18:04Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/uDDOoREkIS0"
+    },
     "K9Um5LVzrtw": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -7523,7 +7543,7 @@
       "hook": "The five biggest asteroid scars on Earth. The one that killed the dinosaurs isn't number one.",
       "published_at": "2026-11-18T00:20:16Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/K9Um5LVzrtw"
