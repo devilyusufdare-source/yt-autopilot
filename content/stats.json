@@ -1,28 +1,30 @@
 {
-  "updated_at": "2026-11-18T01:39:30+00:00",
+  "updated_at": "2026-11-18T02:26:52+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 82,
     "channel_views": 93182,
-    "video_count": 359
+    "video_count": 360
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/9H_VjXFRklE",
       "https://youtube.com/shorts/Zubwd7G6EI0",
-      "https://youtube.com/shorts/vi3MeY9XEsg"
+      "https://youtube.com/shorts/vi3MeY9XEsg",
+      "https://youtube.com/shorts/ELTlAcIa1Rs"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/vi3MeY9XEsg"
+      "https://youtube.com/shorts/vi3MeY9XEsg",
+      "https://youtube.com/shorts/ELTlAcIa1Rs"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/vi3MeY9XEsg"
+      "https://youtube.com/shorts/vi3MeY9XEsg",
+      "https://youtube.com/shorts/ELTlAcIa1Rs"
     ]
   },
   "retention": {
@@ -93,8 +95,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 360,
-  "total_views": 96669,
+  "total_videos": 361,
+  "total_views": 96689,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -107,8 +109,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 267,
-      "avg_views": 279,
+      "videos": 268,
+      "avg_views": 278,
       "best_views": 1507
     },
     "human body": {
@@ -139,7 +141,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 344,
+      "videos": 345,
       "avg_views": 261,
       "over_1500": 3
     },
@@ -151,8 +153,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 274,
-      "avg_views": 213
+      "videos": 275,
+      "avg_views": 212
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -5773,8 +5775,8 @@
       "hook": "Some crocodiles lie still with sticks balanced on their snouts.",
       "published_at": "2026-11-16T08:30:23Z",
       "privacy": "public",
-      "views": 385,
-      "likes": 6,
+      "views": 406,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/5tkYISdPEC8"
     },
@@ -6005,7 +6007,7 @@
       "hook": "When these termites get old, they grow explosive backpacks.",
       "published_at": "2026-11-17T00:00:15Z",
       "privacy": "public",
-      "views": 138,
+      "views": 134,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vDMd15MlBuU"
@@ -6959,11 +6961,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This wasp grows medicine in its antennae.",
-      "published_at": "2026-11-18T00:55:52Z",
-      "privacy": "private",
+      "published_at": "2026-11-18T02:15:24Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/9H_VjXFRklE"
     },
     "aRbjc6mK_Uw": {
@@ -7013,8 +7015,8 @@
       "hook": "Octopuses throw things at each other. Females throw the most.",
       "published_at": "2026-11-18T01:20:10Z",
       "privacy": "public",
-      "views": 10,
-      "likes": 0,
+      "views": 12,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/atcvHLmvi0g"
     },
@@ -7205,7 +7207,7 @@
       "hook": "A chimp is twice as strong as you. It can barely throw.",
       "published_at": "2026-11-17T00:30:00Z",
       "privacy": "public",
-      "views": 922,
+      "views": 923,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/2REQ8iVRxag"
@@ -7421,6 +7423,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg"
+    },
+    "ELTlAcIa1Rs": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Owl Carries Live Snakes Home, and It Doesn't Eat Them",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This owl brings live snakes home to its chicks. Not as food.",
+      "published_at": "2026-11-18T02:26:41Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/ELTlAcIa1Rs"
     },
     "Oyni6mm1Ma8": {
       "upload_status": "processed",
