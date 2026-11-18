@@ -1,27 +1,28 @@
 {
-  "updated_at": "2026-11-18T00:57:52+00:00",
+  "updated_at": "2026-11-18T01:39:30+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 82,
     "channel_views": 93182,
-    "video_count": 358
+    "video_count": 359
   },
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/9H_VjXFRklE",
-      "https://youtube.com/shorts/atcvHLmvi0g"
+      "https://youtube.com/shorts/Zubwd7G6EI0",
+      "https://youtube.com/shorts/vi3MeY9XEsg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/atcvHLmvi0g"
+      "https://youtube.com/shorts/vi3MeY9XEsg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/atcvHLmvi0g"
+      "https://youtube.com/shorts/vi3MeY9XEsg"
     ]
   },
   "retention": {
@@ -92,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 358,
-  "total_views": 96618,
+  "total_videos": 360,
+  "total_views": 96669,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 265,
-      "avg_views": 281,
+      "videos": 267,
+      "avg_views": 279,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 342,
-      "avg_views": 263,
+      "videos": 344,
+      "avg_views": 261,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 272,
-      "avg_views": 214
+      "videos": 274,
+      "avg_views": 213
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -5956,8 +5957,8 @@
       "hook": "A kangaroo chased by a dog runs straight for water.",
       "published_at": "2026-11-16T21:50:09Z",
       "privacy": "public",
-      "views": 234,
-      "likes": 3,
+      "views": 266,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/43nOUKvyDBI"
     },
@@ -6004,7 +6005,7 @@
       "hook": "When these termites get old, they grow explosive backpacks.",
       "published_at": "2026-11-17T00:00:15Z",
       "privacy": "public",
-      "views": 134,
+      "views": 138,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vDMd15MlBuU"
@@ -6592,7 +6593,7 @@
       "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
       "published_at": "2026-11-17T01:20:11Z",
       "privacy": "public",
-      "views": 26,
+      "views": 28,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/d5f-TlrUDKM"
@@ -6828,7 +6829,7 @@
       "hook": "An entire species lives in one hole in the desert.",
       "published_at": "2026-11-18T00:00:06Z",
       "privacy": "public",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Kiboe4Fz6p0"
@@ -6994,14 +6995,14 @@
       "subscribers_gained": 0
     },
     "atcvHLmvi0g": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT31S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -7010,11 +7011,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Octopuses throw things at each other. Females throw the most.",
-      "published_at": "2026-11-18T00:57:43Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-18T01:20:10Z",
+      "privacy": "public",
+      "views": 10,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/atcvHLmvi0g"
     },
     "nMqWHgPm8kY": {
@@ -7372,6 +7373,54 @@
       "avg_view_percent": 51.5,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "Zubwd7G6EI0": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT30S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Turtle Stomps the Ground and Earthworms Come Up to Be Eaten",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A turtle stomps the ground, and worms come up to it.",
+      "published_at": "2026-11-18T01:36:52Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Zubwd7G6EI0"
+    },
+    "vi3MeY9XEsg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Seals Kept Washing Up With Spiral Cuts. The Killer Was Another Seal",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
+      "published_at": "2026-11-18T01:39:20Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/vi3MeY9XEsg"
     },
     "Oyni6mm1Ma8": {
       "upload_status": "processed",
