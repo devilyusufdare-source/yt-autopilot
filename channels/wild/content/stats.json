@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-18T21:31:10+00:00",
+  "updated_at": "2026-11-18T22:26:01+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
     "channel_views": 16987,
-    "video_count": 113
+    "video_count": 114
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/wBy1yiLsTpk"
+      "https://youtube.com/shorts/YMuek63kT5Q"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/wBy1yiLsTpk"
+      "https://youtube.com/shorts/YMuek63kT5Q"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/wBy1yiLsTpk"
+      "https://youtube.com/shorts/YMuek63kT5Q"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 114,
-  "total_views": 17048,
+  "total_videos": 115,
+  "total_views": 17054,
   "by_topic": {
     "earth": {
       "videos": 13,
@@ -99,8 +99,8 @@
       "best_views": 1135
     },
     "space": {
-      "videos": 40,
-      "avg_views": 139,
+      "videos": 41,
+      "avg_views": 136,
       "best_views": 1281
     },
     "society": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 114,
-      "avg_views": 150,
+      "videos": 115,
+      "avg_views": 148,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 113,
-      "avg_views": 142
+      "videos": 114,
+      "avg_views": 140
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1623,7 +1623,7 @@
       "hook": "What if you saw 100 million colours instead of one million? Some women do, and never find out.",
       "published_at": "2026-11-12T22:10:21Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo",
@@ -2773,14 +2773,14 @@
       "url": "https://youtube.com/shorts/LUDRGIKuf40"
     },
     "wBy1yiLsTpk": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT49S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2789,11 +2789,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if a jet ran dry at 41,000 feet? In 1983 one did, over a unit mix-up.",
-      "published_at": "2026-11-18T21:31:05Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-18T22:00:22Z",
+      "privacy": "public",
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/wBy1yiLsTpk"
     },
     "pKfvusazAu8": {
@@ -2851,6 +2851,30 @@
       "avg_view_percent": 37.8,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "YMuek63kT5Q": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If the First Moon Landing Had Failed? Nixon's Speech Was Already Written",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if Apollo 11 had failed? The speech for that night was already typed.",
+      "published_at": "2026-11-18T22:25:57Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/YMuek63kT5Q"
     },
     "jwre0VbiRCc": {
       "upload_status": "processed",
@@ -2983,7 +3007,7 @@
       "hook": "What if your bones never broke? One family in Connecticut carries the gene for it.",
       "published_at": "2026-11-17T09:00:12Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/iVbPulEUnKU"
@@ -3359,7 +3383,7 @@
       "hook": "What if you closed your eyes and could picture nothing at all? Millions can't, and never knew.",
       "published_at": "2026-11-17T23:40:02Z",
       "privacy": "public",
-      "views": 27,
+      "views": 28,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/AzRKI-WYycw"
