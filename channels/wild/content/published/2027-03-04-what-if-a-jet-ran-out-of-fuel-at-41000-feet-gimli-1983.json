@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "WHAT IF A JET RAN OUT OF FUEL?",
   "priority": 7,
-  "first_comment": "The only injuries, about ten minor ones, came on the escape slides. Would you have got back on that plane?"
+  "first_comment": "The only injuries, about ten minor ones, came on the escape slides. Would you have got back on that plane?",
+  "youtube_id": "wBy1yiLsTpk",
+  "url": "https://youtube.com/shorts/wBy1yiLsTpk",
+  "uploaded_at": "2026-11-18T21:31:08+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-18T22:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 48.5,
+  "style": "classic",
+  "kind": "shorts"
 }
