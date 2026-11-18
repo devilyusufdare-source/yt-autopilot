@@ -1,28 +1,27 @@
 {
-  "updated_at": "2026-11-17T23:56:09+00:00",
+  "updated_at": "2026-11-18T00:57:52+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 82,
     "channel_views": 93182,
-    "video_count": 355
+    "video_count": 358
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Kiboe4Fz6p0",
-      "https://youtube.com/shorts/wInoD66MfKk",
-      "https://youtube.com/shorts/K9Um5LVzrtw"
+      "https://youtube.com/shorts/9H_VjXFRklE",
+      "https://youtube.com/shorts/atcvHLmvi0g"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/wInoD66MfKk"
+      "https://youtube.com/shorts/atcvHLmvi0g"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/wInoD66MfKk"
+      "https://youtube.com/shorts/atcvHLmvi0g"
     ]
   },
   "retention": {
@@ -83,7 +82,7 @@
       {
         "title": "Two Lions Hunted Railway Workers for 9 Months. Their Teeth Hold a Clue",
         "avg_view_percent": 14.9,
-        "views": 217
+        "views": 295
       },
       {
         "title": "This Bat Hunts Frogs by Their Love Songs, and Knows Which Are Poison",
@@ -93,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 356,
-  "total_views": 96448,
+  "total_videos": 358,
+  "total_views": 96618,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -107,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 263,
-      "avg_views": 282,
+      "videos": 265,
+      "avg_views": 281,
       "best_views": 1507
     },
     "human body": {
@@ -128,7 +127,7 @@
     },
     "technology": {
       "videos": 7,
-      "avg_views": 82,
+      "avg_views": 83,
       "best_views": 286
     },
     "games": {
@@ -139,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 340,
-      "avg_views": 264,
+      "videos": 342,
+      "avg_views": 263,
       "over_1500": 3
     },
     "punch": {
@@ -151,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 270,
-      "avg_views": 215
+      "videos": 272,
+      "avg_views": 214
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1825,7 +1824,7 @@
       "hook": "This male crab is raising babies. None of them are his.",
       "published_at": "2026-11-09T21:00:39Z",
       "privacy": "public",
-      "views": 27,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vhPnTwH9PZM",
@@ -4037,7 +4036,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 1115,
+      "views": 1125,
       "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
@@ -4373,7 +4372,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 603,
+      "views": 607,
       "likes": 5,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
@@ -4989,7 +4988,7 @@
       "hook": "Divers here take off their watches first.",
       "published_at": "2026-11-15T03:30:02Z",
       "privacy": "public",
-      "views": 76,
+      "views": 77,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xK7E3M26JZg",
@@ -5269,7 +5268,7 @@
       "hook": "Hyena cubs are born with a full set of teeth.",
       "published_at": "2026-11-15T20:00:25Z",
       "privacy": "public",
-      "views": 425,
+      "views": 426,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/-qEs_rymHKQ",
@@ -5353,7 +5352,7 @@
       "hook": "No one is allowed on this island. By law.",
       "published_at": "2026-11-15T21:00:01Z",
       "privacy": "public",
-      "views": 285,
+      "views": 287,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/qQCzFZzti0k",
@@ -5465,7 +5464,7 @@
       "hook": "In 1898, two lions hunted people for nine months.",
       "published_at": "2026-11-15T22:10:17Z",
       "privacy": "public",
-      "views": 217,
+      "views": 295,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w6grVvcVieI",
@@ -5577,7 +5576,7 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 960,
+      "views": 961,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0",
@@ -5605,7 +5604,7 @@
       "hook": "Baby tiger sharks eat woodpeckers. Out at sea.",
       "published_at": "2026-11-16T00:20:39Z",
       "privacy": "public",
-      "views": 72,
+      "views": 74,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1J5b6SERGtE",
@@ -5717,7 +5716,7 @@
       "hook": "This newt can kill almost anything that swallows it. Except one snake.",
       "published_at": "2026-11-16T03:10:04Z",
       "privacy": "public",
-      "views": 100,
+      "views": 101,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E",
@@ -5773,8 +5772,8 @@
       "hook": "Some crocodiles lie still with sticks balanced on their snouts.",
       "published_at": "2026-11-16T08:30:23Z",
       "privacy": "public",
-      "views": 378,
-      "likes": 5,
+      "views": 385,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/5tkYISdPEC8"
     },
@@ -5825,7 +5824,7 @@
       "hook": "One meal turns these tadpoles into cannibals.",
       "published_at": "2026-11-16T08:50:22Z",
       "privacy": "public",
-      "views": 138,
+      "views": 139,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/d2tLlNejRRM"
@@ -5877,7 +5876,7 @@
       "hook": "Florida dolphins catch fish with a net made of mud.",
       "published_at": "2026-11-16T21:30:13Z",
       "privacy": "public",
-      "views": 475,
+      "views": 486,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/hBfYOHEOwoE"
@@ -5957,7 +5956,7 @@
       "hook": "A kangaroo chased by a dog runs straight for water.",
       "published_at": "2026-11-16T21:50:09Z",
       "privacy": "public",
-      "views": 231,
+      "views": 234,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/43nOUKvyDBI"
@@ -5981,7 +5980,7 @@
       "hook": "These bees don't collect pollen. They eat dead animals.",
       "published_at": "2026-11-16T23:00:13Z",
       "privacy": "public",
-      "views": 141,
+      "views": 145,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/CvX2wp2RiuU"
@@ -6225,7 +6224,7 @@
       "hook": "The five highest bridges on Earth. All five were built by the same country.",
       "published_at": "2026-11-15T03:10:20Z",
       "privacy": "public",
-      "views": 97,
+      "views": 98,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Fo0DQwKYbGI",
@@ -6253,7 +6252,7 @@
       "hook": "This bat hunts a scorpion whose sting can kill people.",
       "published_at": "2026-11-17T00:50:15Z",
       "privacy": "public",
-      "views": 110,
+      "views": 117,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DMwZMdyQ-3w"
@@ -6357,7 +6356,7 @@
       "hook": "This fish climbs waterfalls. With its mouth.",
       "published_at": "2026-11-17T02:15:27Z",
       "privacy": "public",
-      "views": 452,
+      "views": 483,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/vKWhAaMHuzI"
@@ -6381,7 +6380,7 @@
       "hook": "This animal drinks alcohol at night and stays sober.",
       "published_at": "2026-11-17T02:40:40Z",
       "privacy": "public",
-      "views": 60,
+      "views": 59,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JbZTIQHiuT0"
@@ -6489,7 +6488,7 @@
       "hook": "This lizard jumps into a stream and doesn't come up.",
       "published_at": "2026-11-17T03:00:39Z",
       "privacy": "public",
-      "views": 891,
+      "views": 892,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/20EUQtEznq8"
@@ -6593,7 +6592,7 @@
       "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
       "published_at": "2026-11-17T01:20:11Z",
       "privacy": "public",
-      "views": 27,
+      "views": 26,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/d5f-TlrUDKM"
@@ -6645,7 +6644,7 @@
       "hook": "Scientists changed one thing, and hamster mothers ate their pups.",
       "published_at": "2026-11-17T09:50:35Z",
       "privacy": "public",
-      "views": 90,
+      "views": 93,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/BvjrR1NGn_s"
@@ -6827,11 +6826,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "An entire species lives in one hole in the desert.",
-      "published_at": "2026-11-17T23:12:00Z",
-      "privacy": "private",
+      "published_at": "2026-11-18T00:00:06Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Kiboe4Fz6p0"
     },
     "TKL8_1FJz8Q": {
@@ -6863,14 +6862,14 @@
       "subscribers_gained": 3
     },
     "wInoD66MfKk": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT30S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -6879,11 +6878,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A male cicada sings. The wrong female answers.",
-      "published_at": "2026-11-17T23:55:55Z",
-      "privacy": "private",
+      "published_at": "2026-11-18T00:40:23Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/wInoD66MfKk"
     },
     "2PwdWAM0PVM": {
@@ -6942,6 +6941,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "9H_VjXFRklE": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT32S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Wasp Hunts Honeybees and Grows Antibiotics in Its Antennae",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This wasp grows medicine in its antennae.",
+      "published_at": "2026-11-18T00:55:52Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/9H_VjXFRklE"
+    },
     "aRbjc6mK_Uw": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -6969,6 +6992,30 @@
       "avg_view_percent": 38.6,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "atcvHLmvi0g": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Octopuses Throw Things at Each Other, and Females Do Most of It",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Octopuses throw things at each other. Females throw the most.",
+      "published_at": "2026-11-18T00:57:43Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/atcvHLmvi0g"
     },
     "nMqWHgPm8kY": {
       "upload_status": "processed",
@@ -7399,11 +7446,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five biggest asteroid scars on Earth. The one that killed the dinosaurs isn't number one.",
-      "published_at": "2026-11-17T23:53:26Z",
-      "privacy": "private",
+      "published_at": "2026-11-18T00:20:16Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/K9Um5LVzrtw"
     },
     "32p1FHP1L48": {
@@ -8825,7 +8872,7 @@
       "hook": "Two orcas rammed a giant fish into thousands of pieces.",
       "published_at": "2026-10-20T10:30:27Z",
       "privacy": "public",
-      "views": 126,
+      "views": 127,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/EwlfYEnJaiU",
