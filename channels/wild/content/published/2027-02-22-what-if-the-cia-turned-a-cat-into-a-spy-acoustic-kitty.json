@@ -55,5 +55,21 @@
   ],
   "thumbnail_text": "WHAT IF A CAT WAS A SPY?",
   "priority": 7,
-  "first_comment": "The memo did admit that cats can be trained to walk short distances. Which animal would make the worst spy?"
+  "first_comment": "The memo did admit that cats can be trained to walk short distances. Which animal would make the worst spy?",
+  "youtube_id": "e6vKmTa6B1U",
+  "url": "https://youtube.com/shorts/e6vKmTa6B1U",
+  "uploaded_at": "2026-11-18T10:49:00+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-18T11:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 43.1,
+  "style": "classic",
+  "kind": "shorts"
 }

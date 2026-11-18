@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-17T23:11:54+00:00",
+  "updated_at": "2026-11-18T10:49:02+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
-    "channel_views": 16962,
-    "video_count": 110
+    "channel_views": 16987,
+    "video_count": 111
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/AzRKI-WYycw"
+      "https://youtube.com/shorts/e6vKmTa6B1U"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/AzRKI-WYycw"
+      "https://youtube.com/shorts/e6vKmTa6B1U"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/AzRKI-WYycw"
+      "https://youtube.com/shorts/e6vKmTa6B1U"
     ]
   },
   "retention": {
@@ -58,7 +58,7 @@
       {
         "title": "What If You Were Frozen After Death? About 200 People Are Waiting in Arizona",
         "avg_view_percent": 98.7,
-        "views": 41
+        "views": 42
       }
     ],
     "worst": [
@@ -90,13 +90,13 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 111,
-  "total_views": 16984,
+  "total_videos": 112,
+  "total_views": 17019,
   "by_topic": {
     "earth": {
       "videos": 13,
-      "avg_views": 351,
-      "best_views": 1130
+      "avg_views": 352,
+      "best_views": 1133
     },
     "space": {
       "videos": 40,
@@ -115,26 +115,26 @@
     },
     "body": {
       "videos": 27,
-      "avg_views": 68,
-      "best_views": 662
+      "avg_views": 69,
+      "best_views": 652
     },
     "technology": {
-      "videos": 12,
-      "avg_views": 139,
+      "videos": 13,
+      "avg_views": 128,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 111,
-      "avg_views": 153,
+      "videos": 112,
+      "avg_views": 152,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 110,
-      "avg_views": 145
+      "videos": 111,
+      "avg_views": 144
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1130,
+      "views": 1133,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -175,7 +175,7 @@
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 1027,
+      "views": 1028,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -187,7 +187,7 @@
     {
       "title": "What If You Never Cut Your Nails? Unlike Hair, They Never Stop",
       "topic": "body",
-      "views": 662,
+      "views": 652,
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do."
     },
     {
@@ -503,7 +503,7 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 1027,
+      "views": 1028,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY",
@@ -1007,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1130,
+      "views": 1133,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1203,7 +1203,7 @@
       "hook": "What if pet snakes got loose in a swamp? The Everglades lost almost all its raccoons.",
       "published_at": "2026-11-02T21:10:15Z",
       "privacy": "public",
-      "views": 294,
+      "views": 296,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/haGtgFdSl9I",
@@ -1231,7 +1231,7 @@
       "hook": "What if a sports car was launched into space and never came back? One was.",
       "published_at": "2026-11-03T02:40:09Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QElYghl0l6s",
@@ -1427,7 +1427,7 @@
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
       "published_at": "2026-11-12T08:10:36Z",
       "privacy": "public",
-      "views": 59,
+      "views": 60,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE",
@@ -1567,7 +1567,7 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do.",
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
-      "views": 662,
+      "views": 652,
       "likes": 13,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE",
@@ -1623,7 +1623,7 @@
       "hook": "What if you saw 100 million colours instead of one million? Some women do, and never find out.",
       "published_at": "2026-11-12T22:10:21Z",
       "privacy": "public",
-      "views": 7,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo",
@@ -1651,7 +1651,7 @@
       "hook": "What if you were frozen after death, to be woken later? About 200 people already are, in Arizona.",
       "published_at": "2026-11-13T07:40:15Z",
       "privacy": "public",
-      "views": 41,
+      "views": 42,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kY4T69sD7NE",
@@ -1931,7 +1931,7 @@
       "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
       "published_at": "2026-11-13T21:30:22Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wvmq2CtLbiw",
@@ -2491,7 +2491,7 @@
       "hook": "What if your bones were hollow, like a bird's? You wouldn't lose a single kilo.",
       "published_at": "2026-11-14T17:50:26Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rZvHcmJwADY",
@@ -2696,6 +2696,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "e6vKmTa6B1U": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If the CIA Turned a Cat Into a Spy? It Did, in the 1960s",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if the CIA turned a cat into a spy? It did, and the first mission lasted minutes.",
+      "published_at": "2026-11-18T10:48:58Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/e6vKmTa6B1U"
+    },
     "CRYxx_sk6l0": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -2715,7 +2739,7 @@
       "hook": "What if a planet had no sun at all? Trillions don't, and some might still have oceans.",
       "published_at": "2026-11-14T20:00:19Z",
       "privacy": "public",
-      "views": 29,
+      "views": 26,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CRYxx_sk6l0",
@@ -2827,7 +2851,7 @@
       "hook": "What if you could never make another memory? One man lived that way for 55 years.",
       "published_at": "2026-11-15T18:30:12Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6MwRUYxhTM8",
@@ -2855,7 +2879,7 @@
       "hook": "What if you could smell an illness years before any doctor could find it? One woman can.",
       "published_at": "2026-11-15T18:50:37Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/asNdmpC5F_U",
@@ -2911,7 +2935,7 @@
       "hook": "What if your bones never broke? One family in Connecticut carries the gene for it.",
       "published_at": "2026-11-17T09:00:12Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/iVbPulEUnKU"
@@ -3071,7 +3095,7 @@
       "hook": "What if you swam in a pool on the Moon? Swimming isn't the strange part.",
       "published_at": "2026-11-16T21:50:21Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wShbdnI6SU8"
@@ -3095,7 +3119,7 @@
       "hook": "What if you lost the sense that tells you where your body is? One man did.",
       "published_at": "2026-11-16T22:10:24Z",
       "privacy": "public",
-      "views": 41,
+      "views": 42,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0JpzYEV2w5I"
@@ -3143,7 +3167,7 @@
       "hook": "What if you drank bacteria just to win an argument? In 1984, one doctor did.",
       "published_at": "2026-11-17T00:00:17Z",
       "privacy": "public",
-      "views": 6,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/z5Wsjl7ctCY"
@@ -3219,7 +3243,7 @@
       "hook": "What if you couldn't recognise your best friend's face? One in 33 people can't. Most don't know.",
       "published_at": "2026-11-17T21:00:04Z",
       "privacy": "public",
-      "views": 1,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y-KIiHslHr0"
@@ -3243,20 +3267,20 @@
       "hook": "What if the Moon were half as far away? The first problem isn't the view.",
       "published_at": "2026-11-17T22:20:14Z",
       "privacy": "public",
-      "views": 1,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/AjMnGdB8gjw"
     },
     "AzRKI-WYycw": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT48S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3265,11 +3289,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you closed your eyes and could picture nothing at all? Millions can't, and never knew.",
-      "published_at": "2026-11-17T23:11:49Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-17T23:40:02Z",
+      "privacy": "public",
+      "views": 17,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/AzRKI-WYycw"
     }
   }
