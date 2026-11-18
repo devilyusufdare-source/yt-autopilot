@@ -69,5 +69,21 @@
   "priority": 6,
   "subject": "Olympus Mons Mars",
   "first_comment": "Olympus Mons or Vesta's peak at number one? And what should we rank next?",
-  "ranking_by": "height from base to peak in kilometres"
+  "ranking_by": "height from base to peak in kilometres",
+  "youtube_id": "suAi0IRJvKg",
+  "url": "https://youtube.com/shorts/suAi0IRJvKg",
+  "uploaded_at": "2026-11-18T21:57:28+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-18T22:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 18,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#7DD3FC",
+  "duration_seconds": 51.7,
+  "style": "classic",
+  "kind": "shorts"
 }
