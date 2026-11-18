@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-11-18T19:27:18+00:00",
+  "updated_at": "2026-11-18T20:54:24+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 82,
     "channel_views": 96733,
-    "video_count": 365
+    "video_count": 366
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/mV5WFa4n8X8"
+      "https://youtube.com/shorts/xN4pLHNtTGY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/mV5WFa4n8X8"
+      "https://youtube.com/shorts/xN4pLHNtTGY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/mV5WFa4n8X8"
+      "https://youtube.com/shorts/xN4pLHNtTGY"
     ]
   },
   "retention": {
-    "videos_with_data": 327,
-    "avg_view_percent": 56.3,
+    "videos_with_data": 341,
+    "avg_view_percent": 55.9,
     "by_topic": {
-      "psychology": 61.4,
-      "science": 59.9,
-      "animals": 53.6,
-      "human body": 94.3,
+      "psychology": 61.6,
+      "science": 60.6,
+      "animals": 52.9,
+      "human body": 96.9,
       "history": 61.3,
-      "space": 64.5,
-      "technology": 57.6
+      "space": 64.4,
+      "technology": 57.9
     },
     "best": [
       {
         "title": "A Vulture Hit a Passenger Jet at 37,000 Feet (Highest Bird Ever)",
-        "avg_view_percent": 656.7,
+        "avg_view_percent": 626.7,
         "views": 34
       },
       {
@@ -74,14 +74,14 @@
         "views": 15
       },
       {
-        "title": "Scientists Slowed Light to 38 Miles an Hour. Then They Stopped It",
-        "avg_view_percent": 12.5,
-        "views": 9
+        "title": "These Bees Gave Up Flowers. They Eat Dead Animals and Still Make Honey",
+        "avg_view_percent": 14.4,
+        "views": 243
       },
       {
-        "title": "Two Lions Hunted Railway Workers for 9 Months. Their Teeth Hold a Clue",
-        "avg_view_percent": 14.9,
-        "views": 297
+        "title": "A Giant Anteater Has No Teeth. It Has Killed Two Hunters",
+        "avg_view_percent": 19.2,
+        "views": 61
       },
       {
         "title": "This Bat Hunts Frogs by Their Love Songs, and Knows Which Are Poison",
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 364,
-  "total_views": 100262,
+  "total_videos": 365,
+  "total_views": 100320,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 270,
-      "avg_views": 289,
+      "videos": 271,
+      "avg_views": 288,
       "best_views": 1507
     },
     "human body": {
@@ -137,8 +137,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 348,
-      "avg_views": 269,
+      "videos": 349,
+      "avg_views": 268,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +149,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 278,
-      "avg_views": 223
+      "videos": 279,
+      "avg_views": 222
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -847,8 +847,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Rahl0RiZm5w",
-      "avg_view_seconds": 11.0,
-      "avg_view_percent": 37.0,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 45.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1800,7 +1800,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY",
       "avg_view_seconds": 20.0,
-      "avg_view_percent": 52.7,
+      "avg_view_percent": 52.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2696,7 +2696,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/uXtropY8iFI",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 48.3,
+      "avg_view_percent": 48.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2836,7 +2836,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/f32tutRUWsE",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 40.3,
+      "avg_view_percent": 40.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2947,8 +2947,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE",
-      "avg_view_seconds": 21.0,
-      "avg_view_percent": 57.3,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 55.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3059,8 +3059,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUQJVqXc1zI",
-      "avg_view_seconds": 36.0,
-      "avg_view_percent": 95.0,
+      "avg_view_seconds": 31.0,
+      "avg_view_percent": 81.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3228,7 +3228,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/M6t1_zwUDKQ",
       "avg_view_seconds": 9.0,
-      "avg_view_percent": 31.0,
+      "avg_view_percent": 30.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3643,7 +3643,7 @@
       "hook": "This pig's teeth are growing straight into its own skull.",
       "published_at": "2026-11-13T02:15:11Z",
       "privacy": "public",
-      "views": 60,
+      "views": 62,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/yfeYXBuJ6DU",
@@ -4040,7 +4040,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 41.5,
+      "avg_view_percent": 42.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4203,12 +4203,12 @@
       "hook": "This squirrel walks up to rattlesnakes and makes its tail hot. On purpose.",
       "published_at": "2026-11-14T08:40:13Z",
       "privacy": "public",
-      "views": 208,
+      "views": 209,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sYU_YCfGfIQ",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 27.8,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 29.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4320,7 +4320,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg",
       "avg_view_seconds": 20.0,
-      "avg_view_percent": 46.5,
+      "avg_view_percent": 46.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4375,8 +4375,8 @@
       "likes": 6,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
-      "avg_view_seconds": 21.0,
-      "avg_view_percent": 51.0,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 48.4,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -4487,8 +4487,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 31.6,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 40.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4600,7 +4600,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Tgn2QuDBdPk",
       "avg_view_seconds": 20.0,
-      "avg_view_percent": 50.4,
+      "avg_view_percent": 49.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4711,8 +4711,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JloGL6ZBs8",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 51.3,
+      "avg_view_seconds": 40.0,
+      "avg_view_percent": 85.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4796,7 +4796,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/_DAzc-V2X2o",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 40.0,
+      "avg_view_percent": 39.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4852,7 +4852,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/FyPtcO7OGLM",
       "avg_view_seconds": 11.0,
-      "avg_view_percent": 32.6,
+      "avg_view_percent": 31.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4908,7 +4908,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/XkzwjhVdUho",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 35.6,
+      "avg_view_percent": 36.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4991,8 +4991,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xK7E3M26JZg",
-      "avg_view_seconds": 21.0,
-      "avg_view_percent": 56.9,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 49.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5048,7 +5048,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/3IPJWe-ZH7s",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 40.3,
+      "avg_view_percent": 40.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5103,8 +5103,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/guSCzqDd8yw",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 42.5,
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 39.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5159,8 +5159,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7uKz9J6doK4",
-      "avg_view_seconds": 9.0,
-      "avg_view_percent": 21.5,
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 19.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5267,12 +5267,12 @@
       "hook": "Hyena cubs are born with a full set of teeth.",
       "published_at": "2026-11-15T20:00:25Z",
       "privacy": "public",
-      "views": 429,
+      "views": 430,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/-qEs_rymHKQ",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 36.6,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 39.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5327,8 +5327,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/WXZ7kpLm8Bc",
-      "avg_view_seconds": 242.0,
-      "avg_view_percent": 656.7,
+      "avg_view_seconds": 231.0,
+      "avg_view_percent": 626.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5356,7 +5356,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/qQCzFZzti0k",
       "avg_view_seconds": 27.0,
-      "avg_view_percent": 61.6,
+      "avg_view_percent": 62.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5411,10 +5411,10 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/WPn3KiUrA8w",
-      "avg_view_seconds": 30.0,
-      "avg_view_percent": 79.0,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 60.1,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 1
     },
     "Z-nWJgNZMZM": {
       "upload_status": "processed",
@@ -5467,8 +5467,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w6grVvcVieI",
-      "avg_view_seconds": 6.0,
-      "avg_view_percent": 14.9,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 51.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5575,12 +5575,12 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 963,
+      "views": 964,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 41.8,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 52.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5607,8 +5607,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1J5b6SERGtE",
-      "avg_view_seconds": 44.0,
-      "avg_view_percent": 103.9,
+      "avg_view_seconds": 35.0,
+      "avg_view_percent": 83.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5719,8 +5719,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 48.8,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 55.5,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -5774,7 +5774,11 @@
       "views": 526,
       "likes": 5,
       "comments": 1,
-      "url": "https://youtube.com/shorts/5tkYISdPEC8"
+      "url": "https://youtube.com/shorts/5tkYISdPEC8",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 35.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "EEYpF25ly4o": {
       "upload_status": "processed",
@@ -5826,7 +5830,11 @@
       "views": 153,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/d2tLlNejRRM"
+      "url": "https://youtube.com/shorts/d2tLlNejRRM",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 36.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "V5bBt2yI2PY": {
       "upload_status": "processed",
@@ -5878,7 +5886,11 @@
       "views": 639,
       "likes": 3,
       "comments": 1,
-      "url": "https://youtube.com/shorts/hBfYOHEOwoE"
+      "url": "https://youtube.com/shorts/hBfYOHEOwoE",
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 33.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "4tjLDcWwrTM": {
       "upload_status": "processed",
@@ -5932,7 +5944,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8",
       "avg_view_seconds": 36.0,
-      "avg_view_percent": 85.6,
+      "avg_view_percent": 85.4,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -5958,7 +5970,11 @@
       "views": 444,
       "likes": 5,
       "comments": 1,
-      "url": "https://youtube.com/shorts/43nOUKvyDBI"
+      "url": "https://youtube.com/shorts/43nOUKvyDBI",
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 43.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "CvX2wp2RiuU": {
       "upload_status": "processed",
@@ -5982,7 +5998,11 @@
       "views": 243,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/CvX2wp2RiuU"
+      "url": "https://youtube.com/shorts/CvX2wp2RiuU",
+      "avg_view_seconds": 5.0,
+      "avg_view_percent": 14.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "vDMd15MlBuU": {
       "upload_status": "processed",
@@ -6003,10 +6023,14 @@
       "hook": "When these termites get old, they grow explosive backpacks.",
       "published_at": "2026-11-17T00:00:15Z",
       "privacy": "public",
-      "views": 181,
+      "views": 204,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/vDMd15MlBuU"
+      "url": "https://youtube.com/shorts/vDMd15MlBuU",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 40.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "BYOOrvQjLUo": {
       "upload_status": "processed",
@@ -6227,8 +6251,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Fo0DQwKYbGI",
-      "avg_view_seconds": 21.0,
-      "avg_view_percent": 46.4,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 48.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6254,7 +6278,11 @@
       "views": 140,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/DMwZMdyQ-3w"
+      "url": "https://youtube.com/shorts/DMwZMdyQ-3w",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 48.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "LBLOnSws_pw": {
       "upload_status": "processed",
@@ -6278,7 +6306,11 @@
       "views": 967,
       "likes": 12,
       "comments": 1,
-      "url": "https://youtube.com/shorts/LBLOnSws_pw"
+      "url": "https://youtube.com/shorts/LBLOnSws_pw",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 47.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "1dSVVteEjkM": {
       "upload_status": "processed",
@@ -6358,7 +6390,11 @@
       "views": 707,
       "likes": 6,
       "comments": 1,
-      "url": "https://youtube.com/shorts/vKWhAaMHuzI"
+      "url": "https://youtube.com/shorts/vKWhAaMHuzI",
+      "avg_view_seconds": 7.0,
+      "avg_view_percent": 23.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "JbZTIQHiuT0": {
       "upload_status": "processed",
@@ -6379,10 +6415,14 @@
       "hook": "This animal drinks alcohol at night and stays sober.",
       "published_at": "2026-11-17T02:40:40Z",
       "privacy": "public",
-      "views": 87,
+      "views": 94,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/JbZTIQHiuT0"
+      "url": "https://youtube.com/shorts/JbZTIQHiuT0",
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 54.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "dgNAPMvw7Y0": {
       "upload_status": "processed",
@@ -6490,7 +6530,11 @@
       "views": 892,
       "likes": 6,
       "comments": 1,
-      "url": "https://youtube.com/shorts/20EUQtEznq8"
+      "url": "https://youtube.com/shorts/20EUQtEznq8",
+      "avg_view_seconds": 6.0,
+      "avg_view_percent": 22.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "00WR-lhcyaY": {
       "upload_status": "processed",
@@ -6514,7 +6558,11 @@
       "views": 949,
       "likes": 6,
       "comments": 1,
-      "url": "https://youtube.com/shorts/00WR-lhcyaY"
+      "url": "https://youtube.com/shorts/00WR-lhcyaY",
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 41.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "_jeX-UKxfww": {
       "upload_status": "processed",
@@ -6594,7 +6642,11 @@
       "views": 43,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/d5f-TlrUDKM"
+      "url": "https://youtube.com/shorts/d5f-TlrUDKM",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 33.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "kKWolYqlfOc": {
       "upload_status": "processed",
@@ -7096,7 +7148,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/rYrw1CBQ75g",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 47.2,
+      "avg_view_percent": 47.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -7123,8 +7175,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BEZ6zrFVLa0",
-      "avg_view_seconds": 4.0,
-      "avg_view_percent": 12.5,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 57.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -7179,8 +7231,8 @@
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/PdwMwtJozJo",
-      "avg_view_seconds": 30.0,
-      "avg_view_percent": 79.7,
+      "avg_view_seconds": 29.0,
+      "avg_view_percent": 76.4,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -7206,7 +7258,11 @@
       "views": 923,
       "likes": 11,
       "comments": 1,
-      "url": "https://youtube.com/shorts/2REQ8iVRxag"
+      "url": "https://youtube.com/shorts/2REQ8iVRxag",
+      "avg_view_seconds": 37.0,
+      "avg_view_percent": 112.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "E-1SVtzKHG8": {
       "upload_status": "processed",
@@ -7473,14 +7529,14 @@
       "subscribers_gained": 0
     },
     "mV5WFa4n8X8": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT31S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -7489,11 +7545,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Doctors scanned a man's head and found mostly fluid.",
-      "published_at": "2026-11-18T19:27:09Z",
-      "privacy": "private",
+      "published_at": "2026-11-18T20:00:36Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/mV5WFa4n8X8"
     },
     "YMC5dytg8rQ": {
@@ -7543,8 +7599,8 @@
       "hook": "The world's happiest animal has a brutal escape plan.",
       "published_at": "2026-11-18T04:50:07Z",
       "privacy": "public",
-      "views": 110,
-      "likes": 1,
+      "views": 120,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/uDDOoREkIS0"
     },
@@ -7619,10 +7675,34 @@
       "hook": "One snake has a lopsided jaw: far more teeth on the right than the left.",
       "published_at": "2026-11-18T09:10:36Z",
       "privacy": "public",
-      "views": 130,
-      "likes": 2,
+      "views": 142,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Psr0jYcJg8o"
+    },
+    "xN4pLHNtTGY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Hawk Hunts in Packs, and They Stand on Each Other's Backs",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Almost every hawk hunts alone. One species hunts like a wolf pack.",
+      "published_at": "2026-11-18T20:54:16Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/xN4pLHNtTGY"
     },
     "cHsF4Dcrv30": {
       "upload_status": "processed",
@@ -7732,7 +7812,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 54.4,
+      "avg_view_percent": 54.0,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -8371,7 +8451,7 @@
       "hook": "This animal can be dried out completely and come back.",
       "published_at": "2026-11-12T21:20:19Z",
       "privacy": "public",
-      "views": 293,
+      "views": 294,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/Gudmy6a0BMs",
@@ -9635,8 +9715,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PXVQE8MFDkM",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 49.9,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 52.5,
       "shares": 0,
       "subscribers_gained": 0
     },
