@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T22:44:54+00:00",
+  "updated_at": "2026-11-18T23:25:19+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/qvqXjZ5X8GI"
+      "https://youtube.com/shorts/qvqXjZ5X8GI",
+      "https://youtube.com/shorts/UMDanzgQzVk"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/qvqXjZ5X8GI"
+      "https://youtube.com/shorts/UMDanzgQzVk"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/qvqXjZ5X8GI"
+      "https://youtube.com/shorts/UMDanzgQzVk"
     ]
   },
   "retention": {
@@ -76,7 +77,7 @@
       {
         "title": "These Bees Gave Up Flowers. They Eat Dead Animals and Still Make Honey",
         "avg_view_percent": 14.4,
-        "views": 243
+        "views": 254
       },
       {
         "title": "A Giant Anteater Has No Teeth. It Has Killed Two Hunters",
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 367,
-  "total_views": 100433,
+  "total_videos": 368,
+  "total_views": 100523,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -105,7 +106,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 272,
+      "videos": 273,
       "avg_views": 287,
       "best_views": 1507
     },
@@ -137,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 351,
-      "avg_views": 267,
+      "videos": 352,
+      "avg_views": 266,
       "over_1500": 3
     },
     "punch": {
@@ -149,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 281,
+      "videos": 282,
       "avg_views": 221
     },
     "en-US-BrianNeural": {
@@ -4595,7 +4596,7 @@
       "hook": "This cat weighs 50 pounds. Its fangs are the same length as a tiger's.",
       "published_at": "2026-11-14T22:00:11Z",
       "privacy": "public",
-      "views": 579,
+      "views": 580,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Tgn2QuDBdPk",
@@ -5883,7 +5884,7 @@
       "hook": "Florida dolphins catch fish with a net made of mud.",
       "published_at": "2026-11-16T21:30:13Z",
       "privacy": "public",
-      "views": 670,
+      "views": 680,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/hBfYOHEOwoE",
@@ -5967,7 +5968,7 @@
       "hook": "A kangaroo chased by a dog runs straight for water.",
       "published_at": "2026-11-16T21:50:09Z",
       "privacy": "public",
-      "views": 444,
+      "views": 466,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/43nOUKvyDBI",
@@ -5995,7 +5996,7 @@
       "hook": "These bees don't collect pollen. They eat dead animals.",
       "published_at": "2026-11-16T23:00:13Z",
       "privacy": "public",
-      "views": 243,
+      "views": 254,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/CvX2wp2RiuU",
@@ -6023,7 +6024,7 @@
       "hook": "When these termites get old, they grow explosive backpacks.",
       "published_at": "2026-11-17T00:00:15Z",
       "privacy": "public",
-      "views": 204,
+      "views": 205,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vDMd15MlBuU",
@@ -6387,7 +6388,7 @@
       "hook": "This fish climbs waterfalls. With its mouth.",
       "published_at": "2026-11-17T02:15:27Z",
       "privacy": "public",
-      "views": 707,
+      "views": 750,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/vKWhAaMHuzI",
@@ -6415,7 +6416,7 @@
       "hook": "This animal drinks alcohol at night and stays sober.",
       "published_at": "2026-11-17T02:40:40Z",
       "privacy": "public",
-      "views": 94,
+      "views": 97,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JbZTIQHiuT0",
@@ -6823,7 +6824,7 @@
       "hook": "Lava once shot nineteen hundred feet into the air.",
       "published_at": "2026-10-29T22:40:34Z",
       "privacy": "public",
-      "views": 87,
+      "views": 88,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8HPrrfRBnJA",
@@ -7063,7 +7064,7 @@
       "hook": "Octopuses throw things at each other. Females throw the most.",
       "published_at": "2026-11-18T01:20:10Z",
       "privacy": "public",
-      "views": 147,
+      "views": 145,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/atcvHLmvi0g"
@@ -7761,14 +7762,14 @@
       "subscribers_gained": 0
     },
     "qvqXjZ5X8GI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT35S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -7839,6 +7840,30 @@
       "avg_view_percent": 54.0,
       "shares": 0,
       "subscribers_gained": 1
+    },
+    "UMDanzgQzVk": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Australia's Deadliest Spider Hasn't Killed Anyone in 40 Years. Why?",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Australia's deadliest spider hasn't killed anyone in over forty years.",
+      "published_at": "2026-11-18T23:25:08Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/UMDanzgQzVk"
     },
     "OW7wC96MHAo": {
       "upload_status": "processed",
