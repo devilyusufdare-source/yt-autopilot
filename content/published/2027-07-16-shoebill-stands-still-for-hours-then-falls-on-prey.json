@@ -56,5 +56,22 @@
   "thumbnail_text": "STILL FOR HOURS. THEN IT FALLS.",
   "priority": 6,
   "subject": "shoebill bird",
-  "first_comment": "It can wait for hours for one meal. What is the most patient animal you know?"
+  "first_comment": "It can wait for hours for one meal. What is the most patient animal you know?",
+  "youtube_id": "cY3wpE_U_Cg",
+  "url": "https://youtube.com/shorts/cY3wpE_U_Cg",
+  "uploaded_at": "2026-11-19T01:12:33+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-19T02:15:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-photo": 8,
+    "pixabay-video": 4,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 33.1,
+  "style": "classic",
+  "kind": "shorts"
 }

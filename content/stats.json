@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-19T00:16:05+00:00",
+  "updated_at": "2026-11-19T01:15:22+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 82,
+    "subscribers": 83,
     "channel_views": 96733,
-    "video_count": 369
+    "video_count": 371
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/UMDanzgQzVk",
-      "https://youtube.com/shorts/DHn0xENEgaY"
+      "https://youtube.com/shorts/cY3wpE_U_Cg",
+      "https://youtube.com/shorts/oFXTxm7eL8Q"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/DHn0xENEgaY"
+      "https://youtube.com/shorts/oFXTxm7eL8Q"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/DHn0xENEgaY"
+      "https://youtube.com/shorts/oFXTxm7eL8Q"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 369,
-  "total_views": 100612,
+  "total_videos": 371,
+  "total_views": 100688,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 274,
-      "avg_views": 286,
+      "videos": 276,
+      "avg_views": 284,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 353,
-      "avg_views": 266,
+      "videos": 355,
+      "avg_views": 264,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 283,
-      "avg_views": 220
+      "videos": 285,
+      "avg_views": 219
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4372,7 +4372,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 615,
+      "views": 616,
       "likes": 6,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
@@ -5464,7 +5464,7 @@
       "hook": "In 1898, two lions hunted people for nine months.",
       "published_at": "2026-11-15T22:10:17Z",
       "privacy": "public",
-      "views": 297,
+      "views": 299,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w6grVvcVieI",
@@ -5576,7 +5576,7 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 964,
+      "views": 966,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0",
@@ -6276,7 +6276,7 @@
       "hook": "This bat hunts a scorpion whose sting can kill people.",
       "published_at": "2026-11-17T00:50:15Z",
       "privacy": "public",
-      "views": 145,
+      "views": 146,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DMwZMdyQ-3w",
@@ -6640,7 +6640,7 @@
       "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
       "published_at": "2026-11-17T01:20:11Z",
       "privacy": "public",
-      "views": 44,
+      "views": 45,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/d5f-TlrUDKM",
@@ -6932,7 +6932,7 @@
       "hook": "A male cicada sings. The wrong female answers.",
       "published_at": "2026-11-18T00:40:23Z",
       "privacy": "public",
-      "views": 59,
+      "views": 61,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wInoD66MfKk"
@@ -7472,7 +7472,7 @@
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
       "published_at": "2026-11-18T03:10:17Z",
       "privacy": "public",
-      "views": 95,
+      "views": 97,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg"
@@ -7496,7 +7496,7 @@
       "hook": "This owl brings live snakes home to its chicks. Not as food.",
       "published_at": "2026-11-18T03:30:33Z",
       "privacy": "public",
-      "views": 184,
+      "views": 207,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/ELTlAcIa1Rs"
@@ -7600,8 +7600,8 @@
       "hook": "The world's happiest animal has a brutal escape plan.",
       "published_at": "2026-11-18T04:50:07Z",
       "privacy": "public",
-      "views": 143,
-      "likes": 2,
+      "views": 153,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uDDOoREkIS0"
     },
@@ -7624,7 +7624,7 @@
       "hook": "The five biggest asteroid scars on Earth. The one that killed the dinosaurs isn't number one.",
       "published_at": "2026-11-18T00:20:16Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/K9Um5LVzrtw"
@@ -7676,7 +7676,7 @@
       "hook": "One snake has a lopsided jaw: far more teeth on the right than the left.",
       "published_at": "2026-11-18T09:10:36Z",
       "privacy": "public",
-      "views": 151,
+      "views": 152,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Psr0jYcJg8o"
@@ -7780,7 +7780,7 @@
       "hook": "A caterpillar fires its own poop five feet through the air. It has a good reason.",
       "published_at": "2026-11-19T00:00:22Z",
       "privacy": "public",
-      "views": 3,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qvqXjZ5X8GI"
@@ -7858,11 +7858,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Australia's deadliest spider hasn't killed anyone in over forty years.",
-      "published_at": "2026-11-18T23:25:08Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-19T00:30:18Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/UMDanzgQzVk"
     },
     "OW7wC96MHAo": {
@@ -7894,6 +7894,54 @@
       "subscribers_gained": 0
     },
     "DHn0xENEgaY": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT35S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Seal Pup Is Weaned in 4 Days, the Shortest Childhood of Any Mammal",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Some mammals raise their young in four days.",
+      "published_at": "2026-11-19T01:00:39Z",
+      "privacy": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/DHn0xENEgaY"
+    },
+    "cY3wpE_U_Cg": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT34S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bird Stands Motionless for Hours, Then Falls on Its Prey",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This bird waits for hours without moving.",
+      "published_at": "2026-11-19T01:12:23Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/cY3wpE_U_Cg"
+    },
+    "oFXTxm7eL8Q": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -7905,17 +7953,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A Seal Pup Is Weaned in 4 Days, the Shortest Childhood of Any Mammal",
+      "title": "The Vampire Squid Hides in Water Almost Without Oxygen and Eats Marine Snow",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "Some mammals raise their young in four days.",
-      "published_at": "2026-11-19T00:15:53Z",
+      "hook": "A squid that lives where most squid would suffocate.",
+      "published_at": "2026-11-19T01:15:08Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/DHn0xENEgaY"
+      "url": "https://youtube.com/shorts/oFXTxm7eL8Q"
     },
     "oG_ieXXeadA": {
       "upload_status": "processed",
