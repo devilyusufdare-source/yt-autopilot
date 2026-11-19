@@ -1,28 +1,26 @@
 {
-  "updated_at": "2026-11-19T01:58:20+00:00",
+  "updated_at": "2026-11-19T04:12:57+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 83,
-    "channel_views": 96733,
-    "video_count": 372
+    "channel_views": 100712,
+    "video_count": 375
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/cY3wpE_U_Cg",
-      "https://youtube.com/shorts/lqttsrqUdQE",
-      "https://youtube.com/shorts/vASc6xS-jZI"
+      "https://youtube.com/shorts/cXzy_DCv0Rg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/vASc6xS-jZI"
+      "https://youtube.com/shorts/cXzy_DCv0Rg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/vASc6xS-jZI"
+      "https://youtube.com/shorts/cXzy_DCv0Rg"
     ]
   },
   "retention": {
@@ -83,7 +81,7 @@
       {
         "title": "A Giant Anteater Has No Teeth. It Has Killed Two Hunters",
         "avg_view_percent": 19.2,
-        "views": 61
+        "views": 60
       },
       {
         "title": "This Bat Hunts Frogs by Their Love Songs, and Knows Which Are Poison",
@@ -93,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 373,
-  "total_views": 100801,
+  "total_videos": 374,
+  "total_views": 101030,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -107,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 278,
-      "avg_views": 283,
+      "videos": 279,
+      "avg_views": 282,
       "best_views": 1507
     },
     "human body": {
@@ -139,7 +137,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 357,
+      "videos": 358,
       "avg_views": 263,
       "over_1500": 3
     },
@@ -151,7 +149,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 287,
+      "videos": 288,
       "avg_views": 218
     },
     "en-US-BrianNeural": {
@@ -3057,7 +3055,7 @@
       "hook": "This spider mother is cooking herself for dinner.",
       "published_at": "2026-11-05T21:50:33Z",
       "privacy": "public",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUQJVqXc1zI",
@@ -4373,7 +4371,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 616,
+      "views": 617,
       "likes": 6,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
@@ -4485,7 +4483,7 @@
       "hook": "This fish walks on the seafloor. And its legs do something no leg should.",
       "published_at": "2026-11-14T21:00:00Z",
       "privacy": "public",
-      "views": 252,
+      "views": 251,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8",
@@ -5157,7 +5155,7 @@
       "hook": "This animal has no teeth. It killed two hunters.",
       "published_at": "2026-11-15T19:00:37Z",
       "privacy": "public",
-      "views": 61,
+      "views": 60,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7uKz9J6doK4",
@@ -5269,7 +5267,7 @@
       "hook": "Hyena cubs are born with a full set of teeth.",
       "published_at": "2026-11-15T20:00:25Z",
       "privacy": "public",
-      "views": 430,
+      "views": 428,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/-qEs_rymHKQ",
@@ -6025,7 +6023,7 @@
       "hook": "When these termites get old, they grow explosive backpacks.",
       "published_at": "2026-11-17T00:00:15Z",
       "privacy": "public",
-      "views": 209,
+      "views": 212,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vDMd15MlBuU",
@@ -6277,7 +6275,7 @@
       "hook": "This bat hunts a scorpion whose sting can kill people.",
       "published_at": "2026-11-17T00:50:15Z",
       "privacy": "public",
-      "views": 146,
+      "views": 148,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DMwZMdyQ-3w",
@@ -6389,7 +6387,7 @@
       "hook": "This fish climbs waterfalls. With its mouth.",
       "published_at": "2026-11-17T02:15:27Z",
       "privacy": "public",
-      "views": 771,
+      "views": 793,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/vKWhAaMHuzI",
@@ -6417,7 +6415,7 @@
       "hook": "This animal drinks alcohol at night and stays sober.",
       "published_at": "2026-11-17T02:40:40Z",
       "privacy": "public",
-      "views": 97,
+      "views": 99,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JbZTIQHiuT0",
@@ -6641,7 +6639,7 @@
       "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
       "published_at": "2026-11-17T01:20:11Z",
       "privacy": "public",
-      "views": 45,
+      "views": 46,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/d5f-TlrUDKM",
@@ -6697,7 +6695,7 @@
       "hook": "Scientists changed one thing, and hamster mothers ate their pups.",
       "published_at": "2026-11-17T09:50:35Z",
       "privacy": "public",
-      "views": 180,
+      "views": 186,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/BvjrR1NGn_s"
@@ -6881,7 +6879,7 @@
       "hook": "An entire species lives in one hole in the desert.",
       "published_at": "2026-11-18T00:00:06Z",
       "privacy": "public",
-      "views": 17,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Kiboe4Fz6p0"
@@ -6933,7 +6931,7 @@
       "hook": "A male cicada sings. The wrong female answers.",
       "published_at": "2026-11-18T00:40:23Z",
       "privacy": "public",
-      "views": 61,
+      "views": 63,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wInoD66MfKk"
@@ -7065,7 +7063,7 @@
       "hook": "Octopuses throw things at each other. Females throw the most.",
       "published_at": "2026-11-18T01:20:10Z",
       "privacy": "public",
-      "views": 167,
+      "views": 162,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/atcvHLmvi0g"
@@ -7473,7 +7471,7 @@
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
       "published_at": "2026-11-18T03:10:17Z",
       "privacy": "public",
-      "views": 108,
+      "views": 111,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg"
@@ -7601,7 +7599,7 @@
       "hook": "The world's happiest animal has a brutal escape plan.",
       "published_at": "2026-11-18T04:50:07Z",
       "privacy": "public",
-      "views": 151,
+      "views": 162,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uDDOoREkIS0"
@@ -7677,7 +7675,7 @@
       "hook": "One snake has a lopsided jaw: far more teeth on the right than the left.",
       "published_at": "2026-11-18T09:10:36Z",
       "privacy": "public",
-      "views": 151,
+      "views": 160,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Psr0jYcJg8o"
@@ -7781,8 +7779,8 @@
       "hook": "A caterpillar fires its own poop five feet through the air. It has a good reason.",
       "published_at": "2026-11-19T00:00:22Z",
       "privacy": "public",
-      "views": 81,
-      "likes": 0,
+      "views": 216,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/qvqXjZ5X8GI"
     },
@@ -7861,9 +7859,9 @@
       "hook": "Australia's deadliest spider hasn't killed anyone in over forty years.",
       "published_at": "2026-11-19T00:30:18Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/UMDanzgQzVk"
     },
     "OW7wC96MHAo": {
@@ -7935,11 +7933,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This bird waits for hours without moving.",
-      "published_at": "2026-11-19T01:12:23Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-19T02:15:34Z",
+      "privacy": "public",
+      "views": 22,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/cY3wpE_U_Cg"
     },
     "oFXTxm7eL8Q": {
@@ -7961,7 +7959,7 @@
       "hook": "A squid that lives where most squid would suffocate.",
       "published_at": "2026-11-19T01:40:17Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/oFXTxm7eL8Q"
@@ -8011,14 +8009,38 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fish shines a light its prey can't see.",
-      "published_at": "2026-11-19T01:55:09Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-19T02:40:07Z",
+      "privacy": "public",
+      "views": 6,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/lqttsrqUdQE"
     },
     "vASc6xS-jZI": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT34S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Frog Oozes Glue, Traps Ants in It, Then Eats Its Own Skin",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This frog turns its own skin into flypaper.",
+      "published_at": "2026-11-19T03:00:25Z",
+      "privacy": "public",
+      "views": 8,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/vASc6xS-jZI"
+    },
+    "cXzy_DCv0Rg": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -8030,17 +8052,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "This Frog Oozes Glue, Traps Ants in It, Then Eats Its Own Skin",
+      "title": "One Day After Hatching, These Ducklings Jump From 50 Feet Up",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "This frog turns its own skin into flypaper.",
-      "published_at": "2026-11-19T01:58:12Z",
+      "hook": "They're one day old. Now they have to jump.",
+      "published_at": "2026-11-19T04:12:42Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/vASc6xS-jZI"
+      "url": "https://youtube.com/shorts/cXzy_DCv0Rg"
     },
     "U0E6tfM-Dqs": {
       "upload_status": "processed",
@@ -10493,7 +10515,7 @@
       "hook": "Only mammals make milk. This egg-laying animal didn't get the memo.",
       "published_at": "2026-11-03T00:10:06Z",
       "privacy": "public",
-      "views": 59,
+      "views": 60,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/91RksZPLfHU",
