@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-18T22:26:01+00:00",
+  "updated_at": "2026-11-19T01:17:40+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
     "channel_views": 16987,
-    "video_count": 114
+    "video_count": 115
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/YMuek63kT5Q"
+      "https://youtube.com/shorts/rohSocsXH2M"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/YMuek63kT5Q"
+      "https://youtube.com/shorts/rohSocsXH2M"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/YMuek63kT5Q"
+      "https://youtube.com/shorts/rohSocsXH2M"
     ]
   },
   "retention": {
@@ -48,7 +48,7 @@
       {
         "title": "What If an Astronaut Let Go of the Ship? In 1984 One Did, on Purpose",
         "avg_view_percent": 156.3,
-        "views": 218
+        "views": 219
       },
       {
         "title": "What If Every Volcano on Earth Erupted at Once?",
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 115,
-  "total_views": 17054,
+  "total_videos": 116,
+  "total_views": 17069,
   "by_topic": {
     "earth": {
       "videos": 13,
@@ -119,22 +119,22 @@
       "best_views": 652
     },
     "technology": {
-      "videos": 14,
-      "avg_views": 119,
+      "videos": 15,
+      "avg_views": 112,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 115,
-      "avg_views": 148,
+      "videos": 116,
+      "avg_views": 147,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 114,
-      "avg_views": 140
+      "videos": 115,
+      "avg_views": 139
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1574,7 +1574,7 @@
       "avg_view_seconds": 17.0,
       "avg_view_percent": 45.7,
       "shares": 0,
-      "subscribers_gained": 2
+      "subscribers_gained": 1
     },
     "KSCEzMiaT2o": {
       "upload_status": "processed",
@@ -1623,7 +1623,7 @@
       "hook": "What if you saw 100 million colours instead of one million? Some women do, and never find out.",
       "published_at": "2026-11-12T22:10:21Z",
       "privacy": "public",
-      "views": 10,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo",
@@ -1679,7 +1679,7 @@
       "hook": "What if an astronaut let go of the spaceship, no rope? In 1984 one did, on purpose.",
       "published_at": "2026-11-06T17:30:13Z",
       "privacy": "public",
-      "views": 218,
+      "views": 219,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/San75yns9OM",
@@ -2767,7 +2767,7 @@
       "hook": "What if the only doctor on an Antarctic base needed surgery? In 1961, he operated on himself.",
       "published_at": "2026-11-18T21:00:14Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUDRGIKuf40"
@@ -2791,7 +2791,7 @@
       "hook": "What if a jet ran dry at 41,000 feet? In 1983 one did, over a unit mix-up.",
       "published_at": "2026-11-18T22:00:22Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wBy1yiLsTpk"
@@ -2853,14 +2853,14 @@
       "subscribers_gained": 0
     },
     "YMuek63kT5Q": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT42S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -2869,11 +2869,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if Apollo 11 had failed? The speech for that night was already typed.",
-      "published_at": "2026-11-18T22:25:57Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-18T22:50:38Z",
+      "privacy": "public",
+      "views": 11,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/YMuek63kT5Q"
     },
     "jwre0VbiRCc": {
@@ -2959,6 +2959,30 @@
       "avg_view_percent": 0.0,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "rohSocsXH2M": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If One Spade Could Switch Off a Country's Internet? In 2011 It Did",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if one spade could knock a whole country offline? In 2011, one did.",
+      "published_at": "2026-11-19T01:17:35Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/rohSocsXH2M"
     },
     "JG_L7e77sH8": {
       "upload_status": "processed",
@@ -3335,7 +3359,7 @@
       "hook": "What if you couldn't recognise your best friend's face? One in 33 people can't. Most don't know.",
       "published_at": "2026-11-17T21:00:04Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y-KIiHslHr0"
@@ -3383,7 +3407,7 @@
       "hook": "What if you closed your eyes and could picture nothing at all? Millions can't, and never knew.",
       "published_at": "2026-11-17T23:40:02Z",
       "privacy": "public",
-      "views": 28,
+      "views": 29,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/AzRKI-WYycw"

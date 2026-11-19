@@ -56,5 +56,22 @@
   ],
   "thumbnail_text": "WHAT IF A SPADE CUT THE INTERNET?",
   "priority": 7,
-  "first_comment": "Reports of the outage range from five hours to twelve. How long could you last offline, and what should we run through next?"
+  "first_comment": "Reports of the outage range from five hours to twelve. How long could you last offline, and what should we run through next?",
+  "youtube_id": "rohSocsXH2M",
+  "url": "https://youtube.com/shorts/rohSocsXH2M",
+  "uploaded_at": "2026-11-19T01:17:38+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-19T02:15:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "pixabay-photo": 2,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 44.9,
+  "style": "classic",
+  "kind": "shorts"
 }
