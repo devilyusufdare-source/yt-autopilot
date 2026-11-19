@@ -57,5 +57,21 @@
   ],
   "thumbnail_text": "WHAT IF THE MONA LISA VANISHED?",
   "priority": 7,
-  "first_comment": "People queued to look at a wall with nothing on it. Would you have gone? What should we run through next?"
+  "first_comment": "People queued to look at a wall with nothing on it. Would you have gone? What should we run through next?",
+  "youtube_id": "fDPP28Z0Zgw",
+  "url": "https://youtube.com/shorts/fDPP28Z0Zgw",
+  "uploaded_at": "2026-11-19T21:42:57+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-19T22:10:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FACC15",
+  "duration_seconds": 38.5,
+  "style": "classic",
+  "kind": "shorts"
 }

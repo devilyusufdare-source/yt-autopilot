@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-11-19T19:43:13+00:00",
+  "updated_at": "2026-11-19T21:42:58+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 18,
+    "subscribers": 19,
     "channel_views": 17051,
-    "video_count": 117
+    "video_count": 118
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/7FmBRVPMpZE"
+      "https://youtube.com/shorts/fDPP28Z0Zgw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/7FmBRVPMpZE"
+      "https://youtube.com/shorts/fDPP28Z0Zgw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/7FmBRVPMpZE"
+      "https://youtube.com/shorts/fDPP28Z0Zgw"
     ]
   },
   "retention": {
-    "videos_with_data": 104,
-    "avg_view_percent": 57.8,
+    "videos_with_data": 109,
+    "avg_view_percent": 56.9,
     "by_topic": {
-      "earth": 78.2,
-      "space": 61.9,
-      "society": 46.1,
+      "earth": 75.9,
+      "space": 60.7,
+      "society": 46.0,
       "animals": 47.7,
-      "body": 46.0,
-      "technology": 62.4
+      "body": 47.0,
+      "technology": 61.9
     },
     "best": [
       {
@@ -51,14 +51,14 @@
         "views": 219
       },
       {
-        "title": "What If Every Volcano on Earth Erupted at Once?",
-        "avg_view_percent": 102.5,
-        "views": 8
-      },
-      {
         "title": "What If You Could Visit a Neutron Star?",
         "avg_view_percent": 99.5,
         "views": 76
+      },
+      {
+        "title": "What If You Were Frozen After Death? About 200 People Are Waiting in Arizona",
+        "avg_view_percent": 98.7,
+        "views": 42
       }
     ],
     "worst": [
@@ -66,6 +66,16 @@
         "title": "What If a Country Lost Its Vultures? India Did. 500,000 People Died",
         "avg_view_percent": 10.5,
         "views": 9
+      },
+      {
+        "title": "What If You Drank a Cup of Bacteria to Prove a Point? It Won a Nobel",
+        "avg_view_percent": 10.7,
+        "views": 10
+      },
+      {
+        "title": "What If You Could Smell a Disease Years Before Doctors Found It? One Woman Can",
+        "avg_view_percent": 11.8,
+        "views": 1
       },
       {
         "title": "What If You Saw Flashes With Your Eyes Shut? Astronauts Do",
@@ -76,22 +86,12 @@
         "title": "What If a Computer Said Five Nukes Were Coming? In 1983 One Did",
         "avg_view_percent": 14.0,
         "views": 8
-      },
-      {
-        "title": "What If You Drank a Cup of Bacteria to Prove a Point? It Won a Nobel",
-        "avg_view_percent": 14.5,
-        "views": 10
-      },
-      {
-        "title": "What If We Sent a Dog Into Orbit? We Did in 1957, and Hid the Truth for 45 Years",
-        "avg_view_percent": 18.2,
-        "views": 5
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 118,
-  "total_views": 17187,
+  "total_videos": 119,
+  "total_views": 17195,
   "by_topic": {
     "earth": {
       "videos": 13,
@@ -104,8 +104,8 @@
       "best_views": 1281
     },
     "society": {
-      "videos": 6,
-      "avg_views": 114,
+      "videos": 7,
+      "avg_views": 97,
       "best_views": 414
     },
     "animals": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 118,
-      "avg_views": 146,
+      "videos": 119,
+      "avg_views": 144,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 117,
-      "avg_views": 138
+      "videos": 118,
+      "avg_views": 137
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1235,8 +1235,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QElYghl0l6s",
-      "avg_view_seconds": 31.0,
-      "avg_view_percent": 78.0,
+      "avg_view_seconds": 33.0,
+      "avg_view_percent": 80.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1431,8 +1431,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 53.7,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 52.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1627,8 +1627,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/i_6lwWNqoGo",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 36.7,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 45.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2047,8 +2047,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Z7bCR86xvPA",
-      "avg_view_seconds": 26.0,
-      "avg_view_percent": 56.0,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 48.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2159,8 +2159,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BN6tRrVJNQs",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 41.3,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 40.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2495,8 +2495,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rZvHcmJwADY",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 31.7,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 55.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2691,8 +2691,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RylZwIA6oUA",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 41.0,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 34.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2767,7 +2767,7 @@
       "hook": "What if the only doctor on an Antarctic base needed surgery? In 1961, he operated on himself.",
       "published_at": "2026-11-18T21:00:14Z",
       "privacy": "public",
-      "views": 7,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUDRGIKuf40"
@@ -2923,7 +2923,7 @@
       "hook": "What if you could never make another memory? One man lived that way for 55 years.",
       "published_at": "2026-11-15T18:30:12Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6MwRUYxhTM8",
@@ -2955,8 +2955,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/asNdmpC5F_U",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 5.0,
+      "avg_view_percent": 11.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3009,14 +3009,14 @@
       "url": "https://youtube.com/shorts/3ks2fdLrLUw"
     },
     "7FmBRVPMpZE": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT46S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3025,12 +3025,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you bred only the friendliest foxes? In Siberia, they started to look like dogs.",
-      "published_at": "2026-11-19T19:43:07Z",
+      "published_at": "2026-11-19T21:00:05Z",
+      "privacy": "public",
+      "views": 4,
+      "likes": 0,
+      "comments": 2,
+      "url": "https://youtube.com/shorts/7FmBRVPMpZE"
+    },
+    "fDPP28Z0Zgw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Someone Stole the Mona Lisa? In 1911 a Handyman Did",
+      "topic": "society",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if someone stole the Mona Lisa? In 1911, a man simply carried it out.",
+      "published_at": "2026-11-19T21:42:53Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/7FmBRVPMpZE"
+      "url": "https://youtube.com/shorts/fDPP28Z0Zgw"
     },
     "JG_L7e77sH8": {
       "upload_status": "processed",
@@ -3082,7 +3106,11 @@
       "views": 5,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/iVbPulEUnKU"
+      "url": "https://youtube.com/shorts/iVbPulEUnKU",
+      "avg_view_seconds": 36.0,
+      "avg_view_percent": 90.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "KP7S7VpFHD8": {
       "upload_status": "processed",
@@ -3303,8 +3331,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EUD8VmmUr1g",
-      "avg_view_seconds": 44.0,
-      "avg_view_percent": 102.5,
+      "avg_view_seconds": 32.0,
+      "avg_view_percent": 74.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3331,8 +3359,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/z5Wsjl7ctCY",
-      "avg_view_seconds": 6.0,
-      "avg_view_percent": 14.5,
+      "avg_view_seconds": 4.0,
+      "avg_view_percent": 10.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3386,7 +3414,11 @@
       "views": 2,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/vOcdQlrviSg"
+      "url": "https://youtube.com/shorts/vOcdQlrviSg",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "Y-KIiHslHr0": {
       "upload_status": "processed",
@@ -3410,7 +3442,11 @@
       "views": 10,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Y-KIiHslHr0"
+      "url": "https://youtube.com/shorts/Y-KIiHslHr0",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 31.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "AjMnGdB8gjw": {
       "upload_status": "processed",
@@ -3434,7 +3470,11 @@
       "views": 5,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/AjMnGdB8gjw"
+      "url": "https://youtube.com/shorts/AjMnGdB8gjw",
+      "avg_view_seconds": 7.0,
+      "avg_view_percent": 17.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "AzRKI-WYycw": {
       "upload_status": "processed",
@@ -3455,10 +3495,14 @@
       "hook": "What if you closed your eyes and could picture nothing at all? Millions can't, and never knew.",
       "published_at": "2026-11-17T23:40:02Z",
       "privacy": "public",
-      "views": 45,
+      "views": 46,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/AzRKI-WYycw"
+      "url": "https://youtube.com/shorts/AzRKI-WYycw",
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 49.7,
+      "shares": 0,
+      "subscribers_gained": 0
     }
   }
 }
