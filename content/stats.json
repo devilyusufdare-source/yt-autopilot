@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T22:48:49+00:00",
+  "updated_at": "2026-11-19T23:36:50+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/nH-9GNDFIFU"
+      "https://youtube.com/shorts/nH-9GNDFIFU",
+      "https://youtube.com/shorts/3SrTOJVAzMs"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/nH-9GNDFIFU"
+      "https://youtube.com/shorts/3SrTOJVAzMs"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/nH-9GNDFIFU"
+      "https://youtube.com/shorts/3SrTOJVAzMs"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 380,
-  "total_views": 104304,
+  "total_videos": 381,
+  "total_views": 104299,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -105,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 283,
-      "avg_views": 290,
+      "videos": 284,
+      "avg_views": 289,
       "best_views": 1507
     },
     "human body": {
@@ -137,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 364,
-      "avg_views": 268,
+      "videos": 365,
+      "avg_views": 267,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 294,
-      "avg_views": 225
+      "videos": 295,
+      "avg_views": 224
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -6639,7 +6640,7 @@
       "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
       "published_at": "2026-11-17T01:20:11Z",
       "privacy": "public",
-      "views": 50,
+      "views": 51,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/d5f-TlrUDKM",
@@ -7311,7 +7312,7 @@
       "hook": "Most men would rather be shocked than sit and think.",
       "published_at": "2026-11-17T22:50:38Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/E-1SVtzKHG8",
@@ -7479,7 +7480,7 @@
       "hook": "A turtle stomps the ground, and worms come up to it.",
       "published_at": "2026-11-18T02:40:03Z",
       "privacy": "public",
-      "views": 941,
+      "views": 940,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zubwd7G6EI0",
@@ -7535,7 +7536,7 @@
       "hook": "This owl brings live snakes home to its chicks. Not as food.",
       "published_at": "2026-11-18T03:30:33Z",
       "privacy": "public",
-      "views": 351,
+      "views": 353,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/ELTlAcIa1Rs",
@@ -7643,7 +7644,7 @@
       "hook": "The world's happiest animal has a brutal escape plan.",
       "published_at": "2026-11-18T04:50:07Z",
       "privacy": "public",
-      "views": 249,
+      "views": 246,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uDDOoREkIS0",
@@ -7671,7 +7672,7 @@
       "hook": "The five biggest asteroid scars on Earth. The one that killed the dinosaurs isn't number one.",
       "published_at": "2026-11-18T00:20:16Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/K9Um5LVzrtw",
@@ -7751,7 +7752,7 @@
       "hook": "One snake has a lopsided jaw: far more teeth on the right than the left.",
       "published_at": "2026-11-18T09:10:36Z",
       "privacy": "public",
-      "views": 239,
+      "views": 241,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Psr0jYcJg8o"
@@ -7935,7 +7936,7 @@
       "hook": "Australia's deadliest spider hasn't killed anyone in over forty years.",
       "published_at": "2026-11-19T00:30:18Z",
       "privacy": "public",
-      "views": 67,
+      "views": 69,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UMDanzgQzVk"
@@ -7987,7 +7988,7 @@
       "hook": "Some mammals raise their young in four days.",
       "published_at": "2026-11-19T01:00:39Z",
       "privacy": "public",
-      "views": 210,
+      "views": 194,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/DHn0xENEgaY"
@@ -8035,7 +8036,7 @@
       "hook": "A squid that lives where most squid would suffocate.",
       "published_at": "2026-11-19T01:40:17Z",
       "privacy": "public",
-      "views": 47,
+      "views": 49,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/oFXTxm7eL8Q"
@@ -8087,7 +8088,7 @@
       "hook": "This fish shines a light its prey can't see.",
       "published_at": "2026-11-19T02:40:07Z",
       "privacy": "public",
-      "views": 140,
+      "views": 142,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lqttsrqUdQE"
@@ -8299,7 +8300,7 @@
       "hook": "The solar system's five tallest mountains. Everest isn't top ten. Number two isn't on a planet.",
       "published_at": "2026-11-18T22:20:20Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/suAi0IRJvKg"
@@ -8735,7 +8736,7 @@
       "hook": "One tiger. 436 people. And two broken teeth explain it.",
       "published_at": "2026-11-12T19:20:03Z",
       "privacy": "public",
-      "views": 626,
+      "views": 624,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/HE8mLoU1rAs",
@@ -8987,7 +8988,7 @@
       "hook": "This eagle weighs about as much as a house cat. Its prey is the size of a child.",
       "published_at": "2026-11-19T21:30:38Z",
       "privacy": "public",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BxI8grmPpI4"
@@ -9017,14 +9018,14 @@
       "url": "https://youtube.com/shorts/2k6-MnJn4jo"
     },
     "nH-9GNDFIFU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT35S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9039,6 +9040,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/nH-9GNDFIFU"
+    },
+    "3SrTOJVAzMs": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Moth Drinks Tears From Sleeping Birds' Eyes With a Barbed Tongue",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "In Madagascar, birds sleep with a thief perched on their necks.",
+      "published_at": "2026-11-19T23:36:33Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/3SrTOJVAzMs"
     },
     "oHOSiC4XktU": {
       "upload_status": "processed",
