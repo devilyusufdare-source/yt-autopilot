@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-19T04:12:57+00:00",
+  "updated_at": "2026-11-19T08:57:02+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 83,
     "channel_views": 100712,
-    "video_count": 375
+    "video_count": 376
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/cXzy_DCv0Rg"
+      "https://youtube.com/shorts/sr9gf5YccLc",
+      "https://youtube.com/shorts/zwPGM6dTkYE"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/cXzy_DCv0Rg"
+      "https://youtube.com/shorts/zwPGM6dTkYE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/cXzy_DCv0Rg"
+      "https://youtube.com/shorts/zwPGM6dTkYE"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 374,
-  "total_views": 101030,
+  "total_videos": 376,
+  "total_views": 101893,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -100,13 +101,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 28,
-      "avg_views": 225,
+      "videos": 29,
+      "avg_views": 217,
       "best_views": 1648
     },
     "animals": {
-      "videos": 279,
-      "avg_views": 282,
+      "videos": 280,
+      "avg_views": 284,
       "best_views": 1507
     },
     "human body": {
@@ -126,7 +127,7 @@
     },
     "technology": {
       "videos": 7,
-      "avg_views": 83,
+      "avg_views": 82,
       "best_views": 286
     },
     "games": {
@@ -137,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 358,
-      "avg_views": 263,
+      "videos": 360,
+      "avg_views": 264,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 288,
-      "avg_views": 218
+      "videos": 290,
+      "avg_views": 219
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2159,7 +2160,7 @@
       "hook": "This fish eats birds, breathes air, and crawls to the next pond when it's done.",
       "published_at": "2026-11-10T18:00:36Z",
       "privacy": "public",
-      "views": 118,
+      "views": 119,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/IN5A3Mj60ok",
@@ -2215,7 +2216,7 @@
       "hook": "This fish defends itself with snot. It beats sharks.",
       "published_at": "2026-11-13T20:40:14Z",
       "privacy": "public",
-      "views": 378,
+      "views": 377,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/PCd1xcbsR_8",
@@ -2943,7 +2944,7 @@
       "hook": "This frog thinks it's about to eat lunch.",
       "published_at": "2026-11-05T21:30:13Z",
       "privacy": "public",
-      "views": 113,
+      "views": 114,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE",
@@ -3027,7 +3028,7 @@
       "hook": "This bird earns a quarter of its food by lying.",
       "published_at": "2026-11-12T02:40:09Z",
       "privacy": "public",
-      "views": 97,
+      "views": 98,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/W_H2LBwWG9Y",
@@ -3419,7 +3420,7 @@
       "hook": "One island lost fifteen million crabs. The killers were ants.",
       "published_at": "2026-11-12T22:20:12Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5JchxYrXcH0",
@@ -4035,7 +4036,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 1126,
+      "views": 1124,
       "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
@@ -4315,7 +4316,7 @@
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
       "published_at": "2026-11-14T19:00:20Z",
       "privacy": "public",
-      "views": 830,
+      "views": 828,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg",
@@ -4371,7 +4372,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 617,
+      "views": 620,
       "likes": 6,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
@@ -4763,7 +4764,7 @@
       "hook": "The loudest animal for its size is two millimetres long.",
       "published_at": "2026-11-14T22:40:01Z",
       "privacy": "public",
-      "views": 6,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RMDeFnxseLM",
@@ -4903,7 +4904,7 @@
       "hook": "This fish has a Ferrari price and a plastic surgeon.",
       "published_at": "2026-11-15T00:20:19Z",
       "privacy": "public",
-      "views": 523,
+      "views": 516,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/XkzwjhVdUho",
@@ -4987,7 +4988,7 @@
       "hook": "Divers here take off their watches first.",
       "published_at": "2026-11-15T03:30:02Z",
       "privacy": "public",
-      "views": 82,
+      "views": 81,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xK7E3M26JZg",
@@ -5267,7 +5268,7 @@
       "hook": "Hyena cubs are born with a full set of teeth.",
       "published_at": "2026-11-15T20:00:25Z",
       "privacy": "public",
-      "views": 428,
+      "views": 430,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/-qEs_rymHKQ",
@@ -5407,7 +5408,7 @@
       "hook": "This snake's tail ends in a spider. The spider isn't real.",
       "published_at": "2026-11-15T21:20:15Z",
       "privacy": "public",
-      "views": 169,
+      "views": 165,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/WPn3KiUrA8w",
@@ -5603,7 +5604,7 @@
       "hook": "Baby tiger sharks eat woodpeckers. Out at sea.",
       "published_at": "2026-11-16T00:20:39Z",
       "privacy": "public",
-      "views": 75,
+      "views": 76,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1J5b6SERGtE",
@@ -5715,7 +5716,7 @@
       "hook": "This newt can kill almost anything that swallows it. Except one snake.",
       "published_at": "2026-11-16T03:10:04Z",
       "privacy": "public",
-      "views": 108,
+      "views": 105,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E",
@@ -5939,7 +5940,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 1034,
+      "views": 1036,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8",
@@ -5967,7 +5968,7 @@
       "hook": "A kangaroo chased by a dog runs straight for water.",
       "published_at": "2026-11-16T21:50:09Z",
       "privacy": "public",
-      "views": 505,
+      "views": 507,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/43nOUKvyDBI",
@@ -6023,7 +6024,7 @@
       "hook": "When these termites get old, they grow explosive backpacks.",
       "published_at": "2026-11-17T00:00:15Z",
       "privacy": "public",
-      "views": 212,
+      "views": 216,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vDMd15MlBuU",
@@ -6247,7 +6248,7 @@
       "hook": "The five highest bridges on Earth. All five were built by the same country.",
       "published_at": "2026-11-15T03:10:20Z",
       "privacy": "public",
-      "views": 98,
+      "views": 97,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Fo0DQwKYbGI",
@@ -6303,7 +6304,7 @@
       "hook": "This snake is poisonous. But it can't make poison.",
       "published_at": "2026-11-17T01:40:12Z",
       "privacy": "public",
-      "views": 968,
+      "views": 969,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/LBLOnSws_pw",
@@ -6387,7 +6388,7 @@
       "hook": "This fish climbs waterfalls. With its mouth.",
       "published_at": "2026-11-17T02:15:27Z",
       "privacy": "public",
-      "views": 793,
+      "views": 794,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/vKWhAaMHuzI",
@@ -6415,7 +6416,7 @@
       "hook": "This animal drinks alcohol at night and stays sober.",
       "published_at": "2026-11-17T02:40:40Z",
       "privacy": "public",
-      "views": 99,
+      "views": 102,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JbZTIQHiuT0",
@@ -6639,7 +6640,7 @@
       "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
       "published_at": "2026-11-17T01:20:11Z",
       "privacy": "public",
-      "views": 46,
+      "views": 47,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/d5f-TlrUDKM",
@@ -6695,8 +6696,8 @@
       "hook": "Scientists changed one thing, and hamster mothers ate their pups.",
       "published_at": "2026-11-17T09:50:35Z",
       "privacy": "public",
-      "views": 186,
-      "likes": 4,
+      "views": 197,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/BvjrR1NGn_s"
     },
@@ -6747,7 +6748,7 @@
       "hook": "The loudest bird on Earth weighs half a pound.",
       "published_at": "2026-11-17T21:00:26Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tdDjN5tAZu8"
@@ -6771,7 +6772,7 @@
       "hook": "That red berry is actually part of an ant.",
       "published_at": "2026-11-17T21:50:25Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8T6_3ddh1vU"
@@ -6879,7 +6880,7 @@
       "hook": "An entire species lives in one hole in the desert.",
       "published_at": "2026-11-18T00:00:06Z",
       "privacy": "public",
-      "views": 16,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Kiboe4Fz6p0"
@@ -6931,7 +6932,7 @@
       "hook": "A male cicada sings. The wrong female answers.",
       "published_at": "2026-11-18T00:40:23Z",
       "privacy": "public",
-      "views": 63,
+      "views": 70,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wInoD66MfKk"
@@ -7063,7 +7064,7 @@
       "hook": "Octopuses throw things at each other. Females throw the most.",
       "published_at": "2026-11-18T01:20:10Z",
       "privacy": "public",
-      "views": 162,
+      "views": 180,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/atcvHLmvi0g"
@@ -7471,7 +7472,7 @@
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
       "published_at": "2026-11-18T03:10:17Z",
       "privacy": "public",
-      "views": 111,
+      "views": 119,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg"
@@ -7495,7 +7496,7 @@
       "hook": "This owl brings live snakes home to its chicks. Not as food.",
       "published_at": "2026-11-18T03:30:33Z",
       "privacy": "public",
-      "views": 207,
+      "views": 259,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/ELTlAcIa1Rs"
@@ -7599,7 +7600,7 @@
       "hook": "The world's happiest animal has a brutal escape plan.",
       "published_at": "2026-11-18T04:50:07Z",
       "privacy": "public",
-      "views": 162,
+      "views": 180,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uDDOoREkIS0"
@@ -7627,6 +7628,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/K9Um5LVzrtw"
+    },
+    "sr9gf5YccLc": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT34S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Touch This Tree Once and It Can Hurt for Months",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Touch this tree once and it can hurt for months.",
+      "published_at": "2026-11-19T08:54:36Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/sr9gf5YccLc"
     },
     "32p1FHP1L48": {
       "upload_status": "processed",
@@ -7675,7 +7700,7 @@
       "hook": "One snake has a lopsided jaw: far more teeth on the right than the left.",
       "published_at": "2026-11-18T09:10:36Z",
       "privacy": "public",
-      "views": 160,
+      "views": 168,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Psr0jYcJg8o"
@@ -7779,8 +7804,8 @@
       "hook": "A caterpillar fires its own poop five feet through the air. It has a good reason.",
       "published_at": "2026-11-19T00:00:22Z",
       "privacy": "public",
-      "views": 216,
-      "likes": 3,
+      "views": 585,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/qvqXjZ5X8GI"
     },
@@ -7859,7 +7884,7 @@
       "hook": "Australia's deadliest spider hasn't killed anyone in over forty years.",
       "published_at": "2026-11-19T00:30:18Z",
       "privacy": "public",
-      "views": 2,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UMDanzgQzVk"
@@ -7911,7 +7936,7 @@
       "hook": "Some mammals raise their young in four days.",
       "published_at": "2026-11-19T01:00:39Z",
       "privacy": "public",
-      "views": 2,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DHn0xENEgaY"
@@ -7935,7 +7960,7 @@
       "hook": "This bird waits for hours without moving.",
       "published_at": "2026-11-19T02:15:34Z",
       "privacy": "public",
-      "views": 22,
+      "views": 32,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/cY3wpE_U_Cg"
@@ -7959,8 +7984,8 @@
       "hook": "A squid that lives where most squid would suffocate.",
       "published_at": "2026-11-19T01:40:17Z",
       "privacy": "public",
-      "views": 2,
-      "likes": 0,
+      "views": 19,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/oFXTxm7eL8Q"
     },
@@ -8011,8 +8036,8 @@
       "hook": "This fish shines a light its prey can't see.",
       "published_at": "2026-11-19T02:40:07Z",
       "privacy": "public",
-      "views": 6,
-      "likes": 0,
+      "views": 11,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lqttsrqUdQE"
     },
@@ -8035,20 +8060,20 @@
       "hook": "This frog turns its own skin into flypaper.",
       "published_at": "2026-11-19T03:00:25Z",
       "privacy": "public",
-      "views": 8,
-      "likes": 0,
-      "comments": 0,
+      "views": 221,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/vASc6xS-jZI"
     },
     "cXzy_DCv0Rg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT30S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -8057,11 +8082,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "They're one day old. Now they have to jump.",
-      "published_at": "2026-11-19T04:12:42Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-19T04:40:13Z",
+      "privacy": "public",
+      "views": 64,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/cXzy_DCv0Rg"
     },
     "U0E6tfM-Dqs": {
@@ -8223,7 +8248,7 @@
       "hook": "The solar system's five tallest mountains. Everest isn't top ten. Number two isn't on a planet.",
       "published_at": "2026-11-18T22:20:20Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/suAi0IRJvKg"
@@ -8311,6 +8336,30 @@
       "avg_view_percent": 42.1,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "zwPGM6dTkYE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Parasite Lives Inside a Wasp's Belly. Its Mate Has 5 Hours to Find It",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This wasp isn't carrying eggs. That bulge is another animal living inside it.",
+      "published_at": "2026-11-19T08:56:50Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/zwPGM6dTkYE"
     },
     "nMa7hcjpTsM": {
       "upload_status": "processed",
@@ -9759,7 +9808,7 @@
       "hook": "Elephants have names. Scientists finally proved it.",
       "published_at": "2026-10-31T14:00:11Z",
       "privacy": "public",
-      "views": 673,
+      "views": 674,
       "likes": 18,
       "comments": 1,
       "url": "https://youtube.com/shorts/UYo-aCcD5oA",
