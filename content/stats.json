@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-19T22:11:07+00:00",
+  "updated_at": "2026-11-19T22:48:49+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 85,
     "channel_views": 100712,
-    "video_count": 380
+    "video_count": 381
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/2k6-MnJn4jo"
+      "https://youtube.com/shorts/nH-9GNDFIFU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/2k6-MnJn4jo"
+      "https://youtube.com/shorts/nH-9GNDFIFU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/2k6-MnJn4jo"
+      "https://youtube.com/shorts/nH-9GNDFIFU"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 379,
-  "total_views": 104219,
+  "total_videos": 380,
+  "total_views": 104304,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 282,
-      "avg_views": 291,
+      "videos": 283,
+      "avg_views": 290,
       "best_views": 1507
     },
     "human body": {
@@ -137,7 +137,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 363,
+      "videos": 364,
       "avg_views": 268,
       "over_1500": 3
     },
@@ -149,7 +149,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 293,
+      "videos": 294,
       "avg_views": 225
     },
     "en-US-BrianNeural": {
@@ -6611,7 +6611,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 348,
+      "views": 349,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s",
@@ -6947,7 +6947,7 @@
       "hook": "A male cicada sings. The wrong female answers.",
       "published_at": "2026-11-18T00:40:23Z",
       "privacy": "public",
-      "views": 103,
+      "views": 107,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wInoD66MfKk",
@@ -7087,7 +7087,7 @@
       "hook": "Octopuses throw things at each other. Females throw the most.",
       "published_at": "2026-11-18T01:20:10Z",
       "privacy": "public",
-      "views": 233,
+      "views": 236,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/atcvHLmvi0g",
@@ -7507,7 +7507,7 @@
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
       "published_at": "2026-11-18T03:10:17Z",
       "privacy": "public",
-      "views": 148,
+      "views": 157,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg",
@@ -7643,7 +7643,7 @@
       "hook": "The world's happiest animal has a brutal escape plan.",
       "published_at": "2026-11-18T04:50:07Z",
       "privacy": "public",
-      "views": 240,
+      "views": 249,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uDDOoREkIS0",
@@ -7987,7 +7987,7 @@
       "hook": "Some mammals raise their young in four days.",
       "published_at": "2026-11-19T01:00:39Z",
       "privacy": "public",
-      "views": 193,
+      "views": 210,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/DHn0xENEgaY"
@@ -8011,7 +8011,7 @@
       "hook": "This bird waits for hours without moving.",
       "published_at": "2026-11-19T02:15:34Z",
       "privacy": "public",
-      "views": 132,
+      "views": 165,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/cY3wpE_U_Cg"
@@ -8135,7 +8135,7 @@
       "hook": "They're one day old. Now they have to jump.",
       "published_at": "2026-11-19T04:40:13Z",
       "privacy": "public",
-      "views": 325,
+      "views": 332,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/cXzy_DCv0Rg"
@@ -8735,7 +8735,7 @@
       "hook": "One tiger. 436 people. And two broken teeth explain it.",
       "published_at": "2026-11-12T19:20:03Z",
       "privacy": "public",
-      "views": 624,
+      "views": 626,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/HE8mLoU1rAs",
@@ -8993,6 +8993,30 @@
       "url": "https://youtube.com/shorts/BxI8grmPpI4"
     },
     "2k6-MnJn4jo": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT36S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Dolphins in Scotland Kill Porpoises, Then Leave Them Uneaten",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Scotland's dolphins keep killing another animal. They never eat it.",
+      "published_at": "2026-11-19T22:40:00Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/2k6-MnJn4jo"
+    },
+    "nH-9GNDFIFU": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -9004,17 +9028,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "Dolphins in Scotland Kill Porpoises, Then Leave Them Uneaten",
+      "title": "A Venomous Lizard's Spit Started the Ozempic Drug Family",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "Scotland's dolphins keep killing another animal. They never eat it.",
-      "published_at": "2026-11-19T22:10:54Z",
+      "hook": "One of the world's best-selling drug families started with a venomous lizard.",
+      "published_at": "2026-11-19T22:48:40Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/2k6-MnJn4jo"
+      "url": "https://youtube.com/shorts/nH-9GNDFIFU"
     },
     "oHOSiC4XktU": {
       "upload_status": "processed",

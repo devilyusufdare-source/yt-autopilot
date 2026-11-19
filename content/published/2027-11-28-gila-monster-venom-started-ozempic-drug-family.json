@@ -57,5 +57,21 @@
   ],
   "thumbnail_text": "OZEMPIC STARTED WITH THIS",
   "priority": 7,
-  "first_comment": "Fun detail: the VA declined to patent the discovery. Which animal do you think holds the next big medicine?"
+  "first_comment": "Fun detail: the VA declined to patent the discovery. Which animal do you think holds the next big medicine?",
+  "youtube_id": "nH-9GNDFIFU",
+  "url": "https://youtube.com/shorts/nH-9GNDFIFU",
+  "uploaded_at": "2026-11-19T22:48:45+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-20T00:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 35.0,
+  "style": "classic",
+  "kind": "shorts"
 }
