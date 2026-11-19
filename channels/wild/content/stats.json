@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-19T10:49:42+00:00",
+  "updated_at": "2026-11-19T19:43:13+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 18,
-    "channel_views": 16987,
-    "video_count": 116
+    "channel_views": 17051,
+    "video_count": 117
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/3ks2fdLrLUw"
+      "https://youtube.com/shorts/7FmBRVPMpZE"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/3ks2fdLrLUw"
+      "https://youtube.com/shorts/7FmBRVPMpZE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/3ks2fdLrLUw"
+      "https://youtube.com/shorts/7FmBRVPMpZE"
     ]
   },
   "retention": {
@@ -90,17 +90,17 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 117,
-  "total_views": 17161,
+  "total_videos": 118,
+  "total_views": 17187,
   "by_topic": {
     "earth": {
       "videos": 13,
       "avg_views": 352,
-      "best_views": 1140
+      "best_views": 1141
     },
     "space": {
       "videos": 42,
-      "avg_views": 133,
+      "avg_views": 134,
       "best_views": 1281
     },
     "society": {
@@ -109,8 +109,8 @@
       "best_views": 414
     },
     "animals": {
-      "videos": 13,
-      "avg_views": 207,
+      "videos": 14,
+      "avg_views": 192,
       "best_views": 1428
     },
     "body": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 117,
-      "avg_views": 147,
+      "videos": 118,
+      "avg_views": 146,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 116,
-      "avg_views": 139
+      "videos": 117,
+      "avg_views": 138
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1140,
+      "views": 1141,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -175,7 +175,7 @@
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
       "topic": "earth",
-      "views": 1028,
+      "views": 1029,
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
@@ -503,7 +503,7 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast.",
       "published_at": "2026-10-25T13:40:31Z",
       "privacy": "public",
-      "views": 1028,
+      "views": 1029,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY",
@@ -1007,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1140,
+      "views": 1141,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1371,7 +1371,7 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 77,
+      "views": 79,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI",
@@ -1707,7 +1707,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 38,
+      "views": 40,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU",
@@ -1931,7 +1931,7 @@
       "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
       "published_at": "2026-11-13T21:30:22Z",
       "privacy": "public",
-      "views": 20,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wvmq2CtLbiw",
@@ -2043,7 +2043,7 @@
       "hook": "What if one side of Earth always faced the Sun? The survivors would all live in a ring.",
       "published_at": "2026-11-14T10:00:21Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Z7bCR86xvPA",
@@ -2491,7 +2491,7 @@
       "hook": "What if your bones were hollow, like a bird's? You wouldn't lose a single kilo.",
       "published_at": "2026-11-14T17:50:26Z",
       "privacy": "public",
-      "views": 11,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rZvHcmJwADY",
@@ -2767,7 +2767,7 @@
       "hook": "What if the only doctor on an Antarctic base needed surgery? In 1961, he operated on himself.",
       "published_at": "2026-11-18T21:00:14Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUDRGIKuf40"
@@ -2791,7 +2791,7 @@
       "hook": "What if a jet ran dry at 41,000 feet? In 1983 one did, over a unit mix-up.",
       "published_at": "2026-11-18T22:00:22Z",
       "privacy": "public",
-      "views": 39,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wBy1yiLsTpk"
@@ -2871,7 +2871,7 @@
       "hook": "What if Apollo 11 had failed? The speech for that night was already typed.",
       "published_at": "2026-11-18T22:50:38Z",
       "privacy": "public",
-      "views": 33,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMuek63kT5Q"
@@ -2985,14 +2985,14 @@
       "url": "https://youtube.com/shorts/rohSocsXH2M"
     },
     "3ks2fdLrLUw": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT42S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3001,12 +3001,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if the space station sprang a leak? In 2018 it did. The crew slept through it.",
-      "published_at": "2026-11-19T10:49:38Z",
+      "published_at": "2026-11-19T11:20:24Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/3ks2fdLrLUw"
+    },
+    "7FmBRVPMpZE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Bred Only the Friendliest Foxes? Siberia Has Since 1959",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you bred only the friendliest foxes? In Siberia, they started to look like dogs.",
+      "published_at": "2026-11-19T19:43:07Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/3ks2fdLrLUw"
+      "url": "https://youtube.com/shorts/7FmBRVPMpZE"
     },
     "JG_L7e77sH8": {
       "upload_status": "processed",
@@ -3191,7 +3215,7 @@
       "hook": "What if surgeons gave you a kidney from a pig? In 2025, one man said yes.",
       "published_at": "2026-11-16T10:40:23Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EsApbP4yjVE",
@@ -3431,7 +3455,7 @@
       "hook": "What if you closed your eyes and could picture nothing at all? Millions can't, and never knew.",
       "published_at": "2026-11-17T23:40:02Z",
       "privacy": "public",
-      "views": 35,
+      "views": 45,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/AzRKI-WYycw"
