@@ -1,27 +1,28 @@
 {
-  "updated_at": "2026-11-19T01:15:22+00:00",
+  "updated_at": "2026-11-19T01:58:20+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 83,
     "channel_views": 96733,
-    "video_count": 371
+    "video_count": 372
   },
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/cY3wpE_U_Cg",
-      "https://youtube.com/shorts/oFXTxm7eL8Q"
+      "https://youtube.com/shorts/lqttsrqUdQE",
+      "https://youtube.com/shorts/vASc6xS-jZI"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/oFXTxm7eL8Q"
+      "https://youtube.com/shorts/vASc6xS-jZI"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/oFXTxm7eL8Q"
+      "https://youtube.com/shorts/vASc6xS-jZI"
     ]
   },
   "retention": {
@@ -77,7 +78,7 @@
       {
         "title": "These Bees Gave Up Flowers. They Eat Dead Animals and Still Make Honey",
         "avg_view_percent": 14.4,
-        "views": 263
+        "views": 265
       },
       {
         "title": "A Giant Anteater Has No Teeth. It Has Killed Two Hunters",
@@ -92,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 371,
-  "total_views": 100688,
+  "total_videos": 373,
+  "total_views": 100801,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 276,
-      "avg_views": 284,
+      "videos": 278,
+      "avg_views": 283,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 355,
-      "avg_views": 264,
+      "videos": 357,
+      "avg_views": 263,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 285,
-      "avg_views": 219
+      "videos": 287,
+      "avg_views": 218
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -5576,7 +5577,7 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 966,
+      "views": 969,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0",
@@ -5884,7 +5885,7 @@
       "hook": "Florida dolphins catch fish with a net made of mud.",
       "published_at": "2026-11-16T21:30:13Z",
       "privacy": "public",
-      "views": 677,
+      "views": 685,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/hBfYOHEOwoE",
@@ -5996,7 +5997,7 @@
       "hook": "These bees don't collect pollen. They eat dead animals.",
       "published_at": "2026-11-16T23:00:13Z",
       "privacy": "public",
-      "views": 263,
+      "views": 265,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/CvX2wp2RiuU",
@@ -6388,8 +6389,8 @@
       "hook": "This fish climbs waterfalls. With its mouth.",
       "published_at": "2026-11-17T02:15:27Z",
       "privacy": "public",
-      "views": 753,
-      "likes": 6,
+      "views": 771,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/vKWhAaMHuzI",
       "avg_view_seconds": 7.0,
@@ -6880,7 +6881,7 @@
       "hook": "An entire species lives in one hole in the desert.",
       "published_at": "2026-11-18T00:00:06Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Kiboe4Fz6p0"
@@ -7012,7 +7013,7 @@
       "hook": "This wasp grows medicine in its antennae.",
       "published_at": "2026-11-18T02:15:24Z",
       "privacy": "public",
-      "views": 937,
+      "views": 938,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/9H_VjXFRklE"
@@ -7064,7 +7065,7 @@
       "hook": "Octopuses throw things at each other. Females throw the most.",
       "published_at": "2026-11-18T01:20:10Z",
       "privacy": "public",
-      "views": 146,
+      "views": 167,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/atcvHLmvi0g"
@@ -7472,7 +7473,7 @@
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
       "published_at": "2026-11-18T03:10:17Z",
       "privacy": "public",
-      "views": 97,
+      "views": 108,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg"
@@ -7600,7 +7601,7 @@
       "hook": "The world's happiest animal has a brutal escape plan.",
       "published_at": "2026-11-18T04:50:07Z",
       "privacy": "public",
-      "views": 153,
+      "views": 151,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uDDOoREkIS0"
@@ -7676,7 +7677,7 @@
       "hook": "One snake has a lopsided jaw: far more teeth on the right than the left.",
       "published_at": "2026-11-18T09:10:36Z",
       "privacy": "public",
-      "views": 152,
+      "views": 151,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Psr0jYcJg8o"
@@ -7780,7 +7781,7 @@
       "hook": "A caterpillar fires its own poop five feet through the air. It has a good reason.",
       "published_at": "2026-11-19T00:00:22Z",
       "privacy": "public",
-      "views": 29,
+      "views": 81,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qvqXjZ5X8GI"
@@ -7860,9 +7861,9 @@
       "hook": "Australia's deadliest spider hasn't killed anyone in over forty years.",
       "published_at": "2026-11-19T00:30:18Z",
       "privacy": "public",
-      "views": 2,
+      "views": 1,
       "likes": 0,
-      "comments": 1,
+      "comments": 0,
       "url": "https://youtube.com/shorts/UMDanzgQzVk"
     },
     "OW7wC96MHAo": {
@@ -7942,14 +7943,14 @@
       "url": "https://youtube.com/shorts/cY3wpE_U_Cg"
     },
     "oFXTxm7eL8Q": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT40S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -7958,11 +7959,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A squid that lives where most squid would suffocate.",
-      "published_at": "2026-11-19T01:15:08Z",
-      "privacy": "private",
+      "published_at": "2026-11-19T01:40:17Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/oFXTxm7eL8Q"
     },
     "oG_ieXXeadA": {
@@ -7992,6 +7993,54 @@
       "avg_view_percent": 45.2,
       "shares": 0,
       "subscribers_gained": 1
+    },
+    "lqttsrqUdQE": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT37S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Fish Hunts With a Red Searchlight Its Prey Can't See",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This fish shines a light its prey can't see.",
+      "published_at": "2026-11-19T01:55:09Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/lqttsrqUdQE"
+    },
+    "vASc6xS-jZI": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Frog Oozes Glue, Traps Ants in It, Then Eats Its Own Skin",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This frog turns its own skin into flypaper.",
+      "published_at": "2026-11-19T01:58:12Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/vASc6xS-jZI"
     },
     "U0E6tfM-Dqs": {
       "upload_status": "processed",
