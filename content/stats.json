@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-19T20:59:12+00:00",
+  "updated_at": "2026-11-19T22:11:07+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 85,
     "channel_views": 100712,
-    "video_count": 379
+    "video_count": 380
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/BxI8grmPpI4"
+      "https://youtube.com/shorts/2k6-MnJn4jo"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/BxI8grmPpI4"
+      "https://youtube.com/shorts/2k6-MnJn4jo"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/BxI8grmPpI4"
+      "https://youtube.com/shorts/2k6-MnJn4jo"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 378,
-  "total_views": 104156,
+  "total_videos": 379,
+  "total_views": 104219,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -105,7 +105,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 281,
+      "videos": 282,
       "avg_views": 291,
       "best_views": 1507
     },
@@ -137,8 +137,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 362,
-      "avg_views": 269,
+      "videos": 363,
+      "avg_views": 268,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +149,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 292,
-      "avg_views": 226
+      "videos": 293,
+      "avg_views": 225
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4371,7 +4371,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 622,
+      "views": 623,
       "likes": 6,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
@@ -5379,7 +5379,7 @@
       "hook": "Songbirds migrate at night to avoid hawks. Something else is waiting.",
       "published_at": "2026-11-07T12:10:31Z",
       "privacy": "public",
-      "views": 22,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/_tgT8z8IjDw",
@@ -6387,7 +6387,7 @@
       "hook": "This fish climbs waterfalls. With its mouth.",
       "published_at": "2026-11-17T02:15:27Z",
       "privacy": "public",
-      "views": 796,
+      "views": 795,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/vKWhAaMHuzI",
@@ -6611,7 +6611,7 @@
       "hook": "This spider's last web isn't for catching anything.",
       "published_at": "2026-11-08T19:00:28Z",
       "privacy": "public",
-      "views": 349,
+      "views": 348,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/yINHGWLKu0s",
@@ -6947,7 +6947,7 @@
       "hook": "A male cicada sings. The wrong female answers.",
       "published_at": "2026-11-18T00:40:23Z",
       "privacy": "public",
-      "views": 101,
+      "views": 103,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wInoD66MfKk",
@@ -7087,8 +7087,8 @@
       "hook": "Octopuses throw things at each other. Females throw the most.",
       "published_at": "2026-11-18T01:20:10Z",
       "privacy": "public",
-      "views": 234,
-      "likes": 1,
+      "views": 233,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/atcvHLmvi0g",
       "avg_view_seconds": 10.0,
@@ -7507,7 +7507,7 @@
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
       "published_at": "2026-11-18T03:10:17Z",
       "privacy": "public",
-      "views": 147,
+      "views": 148,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg",
@@ -7535,7 +7535,7 @@
       "hook": "This owl brings live snakes home to its chicks. Not as food.",
       "published_at": "2026-11-18T03:30:33Z",
       "privacy": "public",
-      "views": 346,
+      "views": 351,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/ELTlAcIa1Rs",
@@ -7643,7 +7643,7 @@
       "hook": "The world's happiest animal has a brutal escape plan.",
       "published_at": "2026-11-18T04:50:07Z",
       "privacy": "public",
-      "views": 238,
+      "views": 240,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uDDOoREkIS0",
@@ -7699,7 +7699,7 @@
       "hook": "Touch this tree once and it can hurt for months.",
       "published_at": "2026-11-19T09:20:02Z",
       "privacy": "public",
-      "views": 27,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sr9gf5YccLc"
@@ -7751,7 +7751,7 @@
       "hook": "One snake has a lopsided jaw: far more teeth on the right than the left.",
       "published_at": "2026-11-18T09:10:36Z",
       "privacy": "public",
-      "views": 240,
+      "views": 239,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Psr0jYcJg8o"
@@ -7935,7 +7935,7 @@
       "hook": "Australia's deadliest spider hasn't killed anyone in over forty years.",
       "published_at": "2026-11-19T00:30:18Z",
       "privacy": "public",
-      "views": 60,
+      "views": 67,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UMDanzgQzVk"
@@ -7987,7 +7987,7 @@
       "hook": "Some mammals raise their young in four days.",
       "published_at": "2026-11-19T01:00:39Z",
       "privacy": "public",
-      "views": 197,
+      "views": 193,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/DHn0xENEgaY"
@@ -8011,7 +8011,7 @@
       "hook": "This bird waits for hours without moving.",
       "published_at": "2026-11-19T02:15:34Z",
       "privacy": "public",
-      "views": 141,
+      "views": 132,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/cY3wpE_U_Cg"
@@ -8035,7 +8035,7 @@
       "hook": "A squid that lives where most squid would suffocate.",
       "published_at": "2026-11-19T01:40:17Z",
       "privacy": "public",
-      "views": 46,
+      "views": 47,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/oFXTxm7eL8Q"
@@ -8087,7 +8087,7 @@
       "hook": "This fish shines a light its prey can't see.",
       "published_at": "2026-11-19T02:40:07Z",
       "privacy": "public",
-      "views": 128,
+      "views": 140,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lqttsrqUdQE"
@@ -8135,8 +8135,8 @@
       "hook": "They're one day old. Now they have to jump.",
       "published_at": "2026-11-19T04:40:13Z",
       "privacy": "public",
-      "views": 302,
-      "likes": 2,
+      "views": 325,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/cXzy_DCv0Rg"
     },
@@ -8407,7 +8407,7 @@
       "hook": "This wasp isn't carrying eggs. That bulge is another animal living inside it.",
       "published_at": "2026-11-19T09:40:36Z",
       "privacy": "public",
-      "views": 87,
+      "views": 108,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zwPGM6dTkYE"
@@ -8969,14 +8969,14 @@
       "subscribers_gained": 0
     },
     "BxI8grmPpI4": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -8985,12 +8985,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This eagle weighs about as much as a house cat. Its prey is the size of a child.",
-      "published_at": "2026-11-19T20:59:03Z",
+      "published_at": "2026-11-19T21:30:38Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/BxI8grmPpI4"
+    },
+    "2k6-MnJn4jo": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Dolphins in Scotland Kill Porpoises, Then Leave Them Uneaten",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Scotland's dolphins keep killing another animal. They never eat it.",
+      "published_at": "2026-11-19T22:10:54Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/BxI8grmPpI4"
+      "url": "https://youtube.com/shorts/2k6-MnJn4jo"
     },
     "oHOSiC4XktU": {
       "upload_status": "processed",
