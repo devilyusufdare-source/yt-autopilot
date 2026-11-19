@@ -1,0 +1,61 @@
+{
+  "id": "2027-12-05-cornea-has-no-blood-and-breathes-air",
+  "format": "fact",
+  "topic": "human body",
+  "subject": "human eye",
+  "title": "Your Cornea Has No Blood Vessels. It Breathes Straight From the Air",
+  "scenes": [
+    {
+      "text": "One part of your body has no blood supply at all, and you're looking through it.",
+      "keywords": "human eye close up"
+    },
+    {
+      "text": "It's your cornea, the clear dome on the front of your eye.",
+      "keywords": "eye macro"
+    },
+    {
+      "text": "Blood vessels would cloud it, so it has none.",
+      "keywords": "eye close up"
+    },
+    {
+      "text": "Instead it takes oxygen straight from the air, dissolved in your tears.",
+      "keywords": "eye blinking"
+    },
+    {
+      "text": "Close your eyes to sleep and that supply drops, from about 21 percent oxygen to around 8.",
+      "keywords": "person sleeping"
+    },
+    {
+      "text": "So at night it borrows oxygen from blood vessels inside your eyelid. The window you see through breathes air.",
+      "keywords": "eye opening"
+    }
+  ],
+  "description": "Your cornea has no blood vessels. It takes its oxygen directly from the air, dissolved in the tear film.\nAbout half a millimetre thick, the cornea stays transparent because it is avascular. With your eyes open it draws on air at about 21 percent oxygen; when you sleep, it relies on the blood vessels of the inner eyelid and the oxygen available drops to about 7 or 8 percent.\nWhich body part would you like explained next?",
+  "tags": [
+    "cornea",
+    "eye facts",
+    "human eye",
+    "oxygen",
+    "human body facts",
+    "body facts",
+    "how eyes work",
+    "biology facts",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#eyes",
+    "#science"
+  ],
+  "sources": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK532960/",
+    "https://kolibri.teacherinabox.org.au/modules/en-wikipedia_for_schools-static/wp/c/Cornea.htm",
+    "https://www.lens.com/questions-answered/how-much-oxygen-does-the-cornea-need-from-the-air/"
+  ],
+  "thumbnail_text": "NO BLOOD. IT BREATHES AIR.",
+  "priority": 5,
+  "first_comment": "This is also why sleeping in contact lenses is risky: they cut the cornea's air supply even more. Did you know this one?"
+}

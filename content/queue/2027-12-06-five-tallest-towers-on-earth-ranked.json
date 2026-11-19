@@ -1,0 +1,72 @@
+{
+  "id": "2027-12-06-five-tallest-towers-on-earth-ranked",
+  "format": "ranking",
+  "ranking_by": "pinnacle height of a free-standing tower (not a building or guyed mast)",
+  "topic": "technology",
+  "subject": "tall tower",
+  "title": "The 5 Tallest Towers on Earth, Ranked (None of Them Is a Building)",
+  "scenes": [
+    {
+      "text": "The tallest towers on Earth aren't buildings. Nobody lives in any of them.",
+      "keywords": "tokyo skytree"
+    },
+    {
+      "text": "Number five: the Oriental Pearl Tower in Shanghai. 468 metres, finished in 1994.",
+      "keywords": "oriental pearl tower",
+      "rank": 5,
+      "label": "Oriental Pearl · 468 m"
+    },
+    {
+      "text": "Number four: Moscow's Ostankino Tower. 540 metres, and it was already standing in 1967.",
+      "keywords": "ostankino tower",
+      "rank": 4,
+      "label": "Ostankino · 540 m"
+    },
+    {
+      "text": "Number three: the CN Tower in Toronto. 553 metres, finished in 1976.",
+      "keywords": "cn tower toronto",
+      "rank": 3,
+      "label": "CN Tower · 553 m"
+    },
+    {
+      "text": "Number two: the Canton Tower in Guangzhou, China. About 600 metres, finished in 2010.",
+      "keywords": "canton tower guangzhou",
+      "rank": 2,
+      "label": "Canton Tower · 600 m"
+    },
+    {
+      "text": "Number one: Tokyo Skytree. 634 metres, opened in 2012. Almost two Eiffel Towers, stacked.",
+      "keywords": "tokyo skytree",
+      "rank": 1,
+      "label": "Tokyo Skytree · 634 m"
+    }
+  ],
+  "description": "The five tallest free-standing towers on Earth, ranked by height. Skyscrapers and guyed masts don't count, so nobody lives in any of these.\nThree of them are in Asia, and the oldest, Moscow's Ostankino, dates from 1967.\nWhich tower would you climb first?",
+  "tags": [
+    "tallest towers",
+    "tokyo skytree",
+    "cn tower",
+    "canton tower",
+    "ostankino tower",
+    "oriental pearl tower",
+    "engineering",
+    "world records",
+    "ranking",
+    "technology facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#engineering",
+    "#ranking",
+    "#worldrecords"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_tallest_towers",
+    "https://www.worldatlas.com/articles/10-tallest-towers-in-the-world.html"
+  ],
+  "thumbnail_text": "5 TALLEST TOWERS, RANKED",
+  "priority": 5,
+  "first_comment": "Which would you put at number one for the view, and what should we rank next?"
+}
