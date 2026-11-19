@@ -60,5 +60,21 @@
   ],
   "thumbnail_text": "4 KG EAGLE. 22 KG BABOON.",
   "priority": 7,
-  "first_comment": "Verreaux's eagles often hunt in pairs, one distracting the prey while the other strikes. Which animal punches furthest above its weight?"
+  "first_comment": "Verreaux's eagles often hunt in pairs, one distracting the prey while the other strikes. Which animal punches furthest above its weight?",
+  "youtube_id": "BxI8grmPpI4",
+  "url": "https://youtube.com/shorts/BxI8grmPpI4",
+  "uploaded_at": "2026-11-19T20:59:08+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-19T21:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 31.5,
+  "style": "classic",
+  "kind": "shorts"
 }
