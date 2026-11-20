@@ -70,5 +70,22 @@
   "thumbnail_text": "5 BIGGEST EYES, RANKED",
   "priority": 6,
   "first_comment": "A squid beats the biggest animal that ever lived, by more than double. Which would you put at number one, and what should we rank next?",
-  "id": "2027-08-25-five-biggest-eyes-on-earth-ranked"
+  "id": "2027-08-25-five-biggest-eyes-on-earth-ranked",
+  "youtube_id": "g-p2zANZcwg",
+  "url": "https://youtube.com/shorts/g-p2zANZcwg",
+  "uploaded_at": "2026-11-20T19:08:48+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-20T20:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-photo": 3,
+    "pixabay-video": 14,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 43.1,
+  "style": "classic",
+  "kind": "shorts"
 }

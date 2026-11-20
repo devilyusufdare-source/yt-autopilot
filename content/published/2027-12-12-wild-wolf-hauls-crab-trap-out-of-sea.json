@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "A WOLF ROBBED A CRAB TRAP",
   "priority": 7,
-  "first_comment": "She knew to pull the float, not the trap. Is that tool use, or just a very smart wolf?"
+  "first_comment": "She knew to pull the float, not the trap. Is that tool use, or just a very smart wolf?",
+  "youtube_id": "x2_mV8zrkn8",
+  "url": "https://youtube.com/shorts/x2_mV8zrkn8",
+  "uploaded_at": "2026-11-20T19:11:12+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-20T19:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 30.4,
+  "style": "classic",
+  "kind": "shorts"
 }
