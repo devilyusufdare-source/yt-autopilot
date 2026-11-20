@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "6 MM. HALF A SECOND. GONE.",
   "priority": 7,
-  "first_comment": "It drinks wasps. Which insect predator should we cover next?"
+  "first_comment": "It drinks wasps. Which insect predator should we cover next?",
+  "youtube_id": "6RusQeLzNC8",
+  "url": "https://youtube.com/shorts/6RusQeLzNC8",
+  "uploaded_at": "2026-11-20T23:05:25+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-21T00:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 10,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 27.8,
+  "style": "classic",
+  "kind": "shorts"
 }
