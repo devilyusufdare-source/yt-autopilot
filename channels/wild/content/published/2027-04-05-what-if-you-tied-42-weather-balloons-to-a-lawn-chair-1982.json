@@ -57,5 +57,22 @@
   ],
   "thumbnail_text": "WHAT IF A LAWN CHAIR FLEW?",
   "priority": 7,
-  "first_comment": "Asked why he did it, he said a man can't just sit around. Would you have cut the rope? What should we run through next?"
+  "first_comment": "Asked why he did it, he said a man can't just sit around. Would you have cut the rope? What should we run through next?",
+  "youtube_id": "9mOlLy7_d8o",
+  "url": "https://youtube.com/shorts/9mOlLy7_d8o",
+  "uploaded_at": "2026-11-20T21:20:18+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-20T21:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "pixabay-photo": 2,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 39.9,
+  "style": "classic",
+  "kind": "shorts"
 }
