@@ -60,5 +60,21 @@
   "thumbnail_text": "ITS MOUTH LEAVES ITS HEAD",
   "priority": 6,
   "first_comment": "65 percent of its head length, in 34 milliseconds. Which fish would you like to see slowed down next?",
-  "id": "2027-08-05-slingjaw-wrasse-mouth-extends-65-percent-of-head"
+  "id": "2027-08-05-slingjaw-wrasse-mouth-extends-65-percent-of-head",
+  "youtube_id": "kpYG9J-sqAE",
+  "url": "https://youtube.com/shorts/kpYG9J-sqAE",
+  "uploaded_at": "2026-11-20T00:36:03+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-20T01:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 38.1,
+  "style": "classic",
+  "kind": "shorts"
 }
