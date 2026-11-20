@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-20T10:36:44+00:00",
+  "updated_at": "2026-11-20T19:21:31+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 19,
     "channel_views": 17197,
-    "video_count": 121
+    "video_count": 122
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/tVcSP2FFguw"
+      "https://youtube.com/shorts/M4M2mpzTtAI"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/tVcSP2FFguw"
+      "https://youtube.com/shorts/M4M2mpzTtAI"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/tVcSP2FFguw"
+      "https://youtube.com/shorts/M4M2mpzTtAI"
     ]
   },
   "retention": {
@@ -90,12 +90,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 122,
-  "total_views": 17445,
+  "total_videos": 123,
+  "total_views": 17477,
   "by_topic": {
     "earth": {
       "videos": 14,
-      "avg_views": 329,
+      "avg_views": 330,
       "best_views": 1142
     },
     "space": {
@@ -104,13 +104,13 @@
       "best_views": 1281
     },
     "society": {
-      "videos": 8,
-      "avg_views": 104,
+      "videos": 9,
+      "avg_views": 92,
       "best_views": 414
     },
     "animals": {
       "videos": 14,
-      "avg_views": 194,
+      "avg_views": 195,
       "best_views": 1428
     },
     "body": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 122,
-      "avg_views": 143,
+      "videos": 123,
+      "avg_views": 142,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 121,
-      "avg_views": 136
+      "videos": 122,
+      "avg_views": 135
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1175,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 95,
+      "views": 96,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1511,7 +1511,7 @@
       "hook": "What if one snake species took over a whole island? Guam found out, and the forest went silent.",
       "published_at": "2026-11-06T03:10:25Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU",
@@ -2843,7 +2843,7 @@
       "hook": "What if you were buried on the Moon? One man is, and he never got to go alive.",
       "published_at": "2026-11-15T07:40:10Z",
       "privacy": "public",
-      "views": 20,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BxqA1Dw9mFI",
@@ -3027,7 +3027,7 @@
       "hook": "What if you bred only the friendliest foxes? In Siberia, they started to look like dogs.",
       "published_at": "2026-11-19T21:00:05Z",
       "privacy": "public",
-      "views": 27,
+      "views": 45,
       "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/7FmBRVPMpZE"
@@ -3075,7 +3075,7 @@
       "hook": "What if someone cut down the oldest tree on Earth? In 1964, someone did. With permission.",
       "published_at": "2026-11-19T23:00:31Z",
       "privacy": "public",
-      "views": 25,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DASKI3gIAMo"
@@ -3133,14 +3133,14 @@
       "subscribers_gained": 0
     },
     "tVcSP2FFguw": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT48S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3149,11 +3149,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you lost 17,000 wallets on purpose? Scientists did, and the experts called it wrong.",
-      "published_at": "2026-11-20T10:36:37Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-20T11:00:04Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/tVcSP2FFguw"
     },
     "iVbPulEUnKU": {
@@ -3183,6 +3183,30 @@
       "avg_view_percent": 90.1,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "M4M2mpzTtAI": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Nobody Told a Soldier the War Was Over? One Fought On Until 1974",
+      "topic": "society",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a soldier never heard his war had ended? One kept fighting for 29 years.",
+      "published_at": "2026-11-20T19:21:25Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/M4M2mpzTtAI"
     },
     "KP7S7VpFHD8": {
       "upload_status": "processed",
@@ -3511,7 +3535,7 @@
       "hook": "What if you couldn't recognise your best friend's face? One in 33 people can't. Most don't know.",
       "published_at": "2026-11-17T21:00:04Z",
       "privacy": "public",
-      "views": 10,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y-KIiHslHr0",
@@ -3567,7 +3591,7 @@
       "hook": "What if you closed your eyes and could picture nothing at all? Millions can't, and never knew.",
       "published_at": "2026-11-17T23:40:02Z",
       "privacy": "public",
-      "views": 48,
+      "views": 50,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/AzRKI-WYycw",
