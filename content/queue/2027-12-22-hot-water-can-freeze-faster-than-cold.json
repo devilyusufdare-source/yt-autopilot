@@ -1,0 +1,60 @@
+{
+  "id": "2027-12-22-hot-water-can-freeze-faster-than-cold",
+  "format": "fact",
+  "topic": "science",
+  "subject": "ice cubes freezing",
+  "title": "A Schoolboy's Ice Cream Showed Hot Water Can Freeze Faster",
+  "scenes": [
+    {
+      "text": "Hot water can freeze faster than cold water. Physicists still argue about why.",
+      "keywords": "water freezing"
+    },
+    {
+      "text": "In 1963, a Tanzanian schoolboy named Erasto Mpemba put hot ice cream mix in the freezer.",
+      "keywords": "ice cream"
+    },
+    {
+      "text": "It froze before his classmates' cooled mix. His teacher laughed at him.",
+      "keywords": "freezer"
+    },
+    {
+      "text": "Years later he tested it with a physicist, and they published it in 1969. It's now called the Mpemba effect.",
+      "keywords": "physics laboratory"
+    },
+    {
+      "text": "In 2020, scientists in Canada made a tiny hot system cool faster than a warm one, again and again.",
+      "keywords": "laser laboratory"
+    },
+    {
+      "text": "Evaporation, dissolved gases, frost, nobody agrees which matters most. A student's ice cream still beats the experts.",
+      "keywords": "ice cubes"
+    }
+  ],
+  "description": "The Mpemba effect: under some conditions, hot water can freeze faster than cooler water. Tanzanian student Erasto Mpemba noticed it with ice cream mix in 1963 and published it with physicist Denis Osborne in 1969.\nIn 2020, Simon Fraser University researchers reported the effect in a controlled microscopic system (Nature). Whether and why it happens in ordinary water is still debated.\nHave you ever tried it?",
+  "tags": [
+    "mpemba effect",
+    "hot water freezes faster",
+    "physics facts",
+    "science facts",
+    "erasto mpemba",
+    "freezing water",
+    "thermodynamics",
+    "science mystery",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#physics",
+    "#facts"
+  ],
+  "sources": [
+    "https://www.sfu.ca/sfunews/stories/2020/08/hot-water-can-sometimes-cool-faster-than-warm-water---sfu-experi.html",
+    "https://www.smithsonianmag.com/smart-news/new-experiment-shows-why-sometimes-hot-water-cools-faster-cold-water-180975543/",
+    "https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/"
+  ],
+  "thumbnail_text": "HOT WATER FREEZES FASTER?",
+  "priority": 6,
+  "first_comment": "Two cups in the freezer, one hot, one cold. Which would you bet on?"
+}
