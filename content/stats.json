@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-20T01:48:42+00:00",
+  "updated_at": "2026-11-20T04:04:01+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 85,
     "channel_views": 100712,
-    "video_count": 384
+    "video_count": 386
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/6xndYUmKm4s",
-      "https://youtube.com/shorts/rQZIO4AScUM"
+      "https://youtube.com/shorts/OcstKSV45J0",
+      "https://youtube.com/shorts/BLgz-A_5c6U"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/rQZIO4AScUM"
+      "https://youtube.com/shorts/OcstKSV45J0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/rQZIO4AScUM"
+      "https://youtube.com/shorts/OcstKSV45J0"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 384,
-  "total_views": 104518,
+  "total_videos": 386,
+  "total_views": 104703,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 287,
-      "avg_views": 287,
+      "videos": 288,
+      "avg_views": 286,
       "best_views": 1507
     },
     "human body": {
@@ -122,12 +122,12 @@
     },
     "space": {
       "videos": 30,
-      "avg_views": 293,
+      "avg_views": 294,
       "best_views": 1513
     },
     "technology": {
-      "videos": 7,
-      "avg_views": 82,
+      "videos": 8,
+      "avg_views": 72,
       "best_views": 286
     },
     "games": {
@@ -138,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 368,
-      "avg_views": 266,
+      "videos": 370,
+      "avg_views": 265,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 298,
-      "avg_views": 222
+      "videos": 300,
+      "avg_views": 221
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2944,7 +2944,7 @@
       "hook": "This frog thinks it's about to eat lunch.",
       "published_at": "2026-11-05T21:30:13Z",
       "privacy": "public",
-      "views": 116,
+      "views": 118,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE",
@@ -3056,7 +3056,7 @@
       "hook": "This spider mother is cooking herself for dinner.",
       "published_at": "2026-11-05T21:50:33Z",
       "privacy": "public",
-      "views": 8,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUQJVqXc1zI",
@@ -3812,7 +3812,7 @@
       "hook": "This mouse-sized mammal is venomous. And it keeps a living pantry.",
       "published_at": "2026-11-13T23:10:24Z",
       "privacy": "public",
-      "views": 12,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6vhduTC_Ms0",
@@ -4372,7 +4372,7 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 624,
+      "views": 625,
       "likes": 6,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
@@ -4904,7 +4904,7 @@
       "hook": "This fish has a Ferrari price and a plastic surgeon.",
       "published_at": "2026-11-15T00:20:19Z",
       "privacy": "public",
-      "views": 516,
+      "views": 515,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/XkzwjhVdUho",
@@ -5408,7 +5408,7 @@
       "hook": "This snake's tail ends in a spider. The spider isn't real.",
       "published_at": "2026-11-15T21:20:15Z",
       "privacy": "public",
-      "views": 166,
+      "views": 165,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/WPn3KiUrA8w",
@@ -5716,7 +5716,7 @@
       "hook": "This newt can kill almost anything that swallows it. Except one snake.",
       "published_at": "2026-11-16T03:10:04Z",
       "privacy": "public",
-      "views": 107,
+      "views": 106,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E",
@@ -5744,7 +5744,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 965,
+      "views": 966,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg",
@@ -5884,7 +5884,7 @@
       "hook": "Florida dolphins catch fish with a net made of mud.",
       "published_at": "2026-11-16T21:30:13Z",
       "privacy": "public",
-      "views": 680,
+      "views": 679,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/hBfYOHEOwoE",
@@ -6304,7 +6304,7 @@
       "hook": "This snake is poisonous. But it can't make poison.",
       "published_at": "2026-11-17T01:40:12Z",
       "privacy": "public",
-      "views": 967,
+      "views": 969,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/LBLOnSws_pw",
@@ -6388,7 +6388,7 @@
       "hook": "This fish climbs waterfalls. With its mouth.",
       "published_at": "2026-11-17T02:15:27Z",
       "privacy": "public",
-      "views": 795,
+      "views": 789,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/vKWhAaMHuzI",
@@ -6556,7 +6556,7 @@
       "hook": "These baby spiders never hunt. They still grow fast.",
       "published_at": "2026-11-17T03:20:27Z",
       "privacy": "public",
-      "views": 945,
+      "views": 943,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/00WR-lhcyaY",
@@ -6640,7 +6640,7 @@
       "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
       "published_at": "2026-11-17T01:20:11Z",
       "privacy": "public",
-      "views": 52,
+      "views": 51,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/d5f-TlrUDKM",
@@ -7032,7 +7032,7 @@
       "hook": "This wasp grows medicine in its antennae.",
       "published_at": "2026-11-18T02:15:24Z",
       "privacy": "public",
-      "views": 937,
+      "views": 939,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/9H_VjXFRklE",
@@ -7480,7 +7480,7 @@
       "hook": "A turtle stomps the ground, and worms come up to it.",
       "published_at": "2026-11-18T02:40:03Z",
       "privacy": "public",
-      "views": 942,
+      "views": 943,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zubwd7G6EI0",
@@ -7508,7 +7508,7 @@
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
       "published_at": "2026-11-18T03:10:17Z",
       "privacy": "public",
-      "views": 161,
+      "views": 162,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg",
@@ -7644,7 +7644,7 @@
       "hook": "The world's happiest animal has a brutal escape plan.",
       "published_at": "2026-11-18T04:50:07Z",
       "privacy": "public",
-      "views": 253,
+      "views": 255,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/uDDOoREkIS0",
@@ -7700,10 +7700,34 @@
       "hook": "Touch this tree once and it can hurt for months.",
       "published_at": "2026-11-19T09:20:02Z",
       "privacy": "public",
-      "views": 33,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sr9gf5YccLc"
+    },
+    "OcstKSV45J0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Satellite That Died in 1967 Started Transmitting Again 45 Years Later",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A satellite that died in 1967 is transmitting again.",
+      "published_at": "2026-11-20T04:03:51Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/OcstKSV45J0"
     },
     "32p1FHP1L48": {
       "upload_status": "processed",
@@ -7752,7 +7776,7 @@
       "hook": "One snake has a lopsided jaw: far more teeth on the right than the left.",
       "published_at": "2026-11-18T09:10:36Z",
       "privacy": "public",
-      "views": 255,
+      "views": 260,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Psr0jYcJg8o"
@@ -7776,7 +7800,7 @@
       "hook": "Almost every hawk hunts alone. One species hunts like a wolf pack.",
       "published_at": "2026-11-18T21:20:37Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xN4pLHNtTGY"
@@ -7936,7 +7960,7 @@
       "hook": "Australia's deadliest spider hasn't killed anyone in over forty years.",
       "published_at": "2026-11-19T00:30:18Z",
       "privacy": "public",
-      "views": 81,
+      "views": 98,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UMDanzgQzVk"
@@ -7988,7 +8012,7 @@
       "hook": "Some mammals raise their young in four days.",
       "published_at": "2026-11-19T01:00:39Z",
       "privacy": "public",
-      "views": 301,
+      "views": 355,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/DHn0xENEgaY"
@@ -8012,8 +8036,8 @@
       "hook": "This bird waits for hours without moving.",
       "published_at": "2026-11-19T02:15:34Z",
       "privacy": "public",
-      "views": 181,
-      "likes": 3,
+      "views": 186,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/cY3wpE_U_Cg"
     },
@@ -8036,7 +8060,7 @@
       "hook": "A squid that lives where most squid would suffocate.",
       "published_at": "2026-11-19T01:40:17Z",
       "privacy": "public",
-      "views": 49,
+      "views": 60,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/oFXTxm7eL8Q"
@@ -8088,7 +8112,7 @@
       "hook": "This fish shines a light its prey can't see.",
       "published_at": "2026-11-19T02:40:07Z",
       "privacy": "public",
-      "views": 142,
+      "views": 154,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/lqttsrqUdQE"
@@ -8136,7 +8160,7 @@
       "hook": "They're one day old. Now they have to jump.",
       "published_at": "2026-11-19T04:40:13Z",
       "privacy": "public",
-      "views": 332,
+      "views": 362,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/cXzy_DCv0Rg"
@@ -8300,7 +8324,7 @@
       "hook": "The solar system's five tallest mountains. Everest isn't top ten. Number two isn't on a planet.",
       "published_at": "2026-11-18T22:20:20Z",
       "privacy": "public",
-      "views": 4,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/suAi0IRJvKg"
@@ -8408,7 +8432,7 @@
       "hook": "This wasp isn't carrying eggs. That bulge is another animal living inside it.",
       "published_at": "2026-11-19T09:40:36Z",
       "privacy": "public",
-      "views": 125,
+      "views": 146,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zwPGM6dTkYE"
@@ -8460,7 +8484,7 @@
       "hook": "This fish looks ordinary. Then its mouth leaves its head.",
       "published_at": "2026-11-20T01:00:12Z",
       "privacy": "public",
-      "views": 1,
+      "views": 0,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kpYG9J-sqAE"
@@ -8482,22 +8506,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "That isn't a dead leaf on the riverbed. It's waiting for a fish.",
-      "published_at": "2026-11-20T01:15:24Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-20T02:15:18Z",
+      "privacy": "public",
+      "views": 8,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/6xndYUmKm4s"
     },
     "rQZIO4AScUM": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -8506,11 +8530,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This male spider brings his date a present. A third of the time, it's garbage.",
-      "published_at": "2026-11-20T01:48:33Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-20T02:40:19Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/rQZIO4AScUM"
     },
     "JB0ZuvAxI28": {
@@ -8564,6 +8588,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/NVnYPd0MFVQ"
+    },
+    "BLgz-A_5c6U": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT45S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Frog Swallowed Her Eggs and Gave Birth Through Her Mouth",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This frog ate her own eggs. Six weeks later, she spat out frogs.",
+      "published_at": "2026-11-20T04:01:46Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/BLgz-A_5c6U"
     },
     "PJlr06UakxU": {
       "upload_status": "processed",
@@ -9060,7 +9108,7 @@
       "hook": "This eagle weighs about as much as a house cat. Its prey is the size of a child.",
       "published_at": "2026-11-19T21:30:38Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BxI8grmPpI4"
@@ -9108,7 +9156,7 @@
       "hook": "One of the world's best-selling drug families started with a venomous lizard.",
       "published_at": "2026-11-20T00:00:26Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nH-9GNDFIFU"
@@ -9132,7 +9180,7 @@
       "hook": "In Madagascar, birds sleep with a thief perched on their necks.",
       "published_at": "2026-11-20T00:20:27Z",
       "privacy": "public",
-      "views": 3,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3SrTOJVAzMs"
