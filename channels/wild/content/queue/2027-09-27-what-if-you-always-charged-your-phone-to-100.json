@@ -1,0 +1,61 @@
+{
+  "id": "2027-09-27-what-if-you-always-charged-your-phone-to-100",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "smartphone battery",
+  "title": "What If You Always Kept Your Phone at 100%?",
+  "scenes": [
+    {
+      "text": "What if your phone never dropped below 100 percent? It would die sooner, not later.",
+      "keywords": "smartphone charging"
+    },
+    {
+      "text": "Phone batteries are lithium ion. Every charge cycle wears them a little.",
+      "keywords": "phone battery"
+    },
+    {
+      "text": "But sitting full is its own stress. A full cell holds its highest voltage, and that speeds up the chemistry that eats capacity.",
+      "keywords": "phone plugged in"
+    },
+    {
+      "text": "In lab tests, a battery kept full at room temperature lost about a fifth of its capacity in a year. Kept at 40 percent, it lost four percent.",
+      "keywords": "phone battery low"
+    },
+    {
+      "text": "Heat makes it worse. Full and hot, the loss roughly doubled.",
+      "keywords": "phone in sun"
+    },
+    {
+      "text": "That's why phones now pause at 80 percent overnight. The last fifth of the tank costs the most.",
+      "keywords": "smartphone screen"
+    }
+  ],
+  "description": "What if you always kept your phone at 100%? Lithium-ion batteries age faster when they sit at a high state of charge, especially when warm.\nBattery University's storage tests: about 80% capacity left after a year at full charge and 25 degrees C, versus 96% at 40% charge; at 40 degrees C and full charge, about 65%. Apple's Optimized Battery Charging holds at 80% to reduce this.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "phone battery",
+    "charging to 100",
+    "lithium ion battery",
+    "battery health",
+    "optimized charging",
+    "smartphone tips",
+    "technology facts",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#technology",
+    "#battery"
+  ],
+  "sources": [
+    "https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries",
+    "https://support.apple.com/en-au/108055",
+    "https://www.ifixit.com/News/90983/why-charging-your-gadgets-over-80-is-such-a-bad-idea"
+  ],
+  "thumbnail_text": "WHAT IF YOUR PHONE STAYED AT 100%?",
+  "priority": 6,
+  "first_comment": "Be honest: what percentage is your phone at right now? What everyday habit should we test next?"
+}
