@@ -57,5 +57,22 @@
   ],
   "thumbnail_text": "ORCAS RUN FROM THIS",
   "priority": 7,
-  "first_comment": "Competition, mobbing, or something else? What's your best guess for why orcas avoid them?"
+  "first_comment": "Competition, mobbing, or something else? What's your best guess for why orcas avoid them?",
+  "youtube_id": "F6jrJbuKAWQ",
+  "url": "https://youtube.com/shorts/F6jrJbuKAWQ",
+  "uploaded_at": "2026-11-20T22:23:18+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-20T22:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 6,
+    "pixabay-photo": 6,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 31.4,
+  "style": "classic",
+  "kind": "shorts"
 }
