@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-20T01:20:10+00:00",
+  "updated_at": "2026-11-20T10:36:44+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 19,
-    "channel_views": 17051,
-    "video_count": 120
+    "channel_views": 17197,
+    "video_count": 121
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/hbCw9GKD7Zg"
+      "https://youtube.com/shorts/tVcSP2FFguw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/hbCw9GKD7Zg"
+      "https://youtube.com/shorts/tVcSP2FFguw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/hbCw9GKD7Zg"
+      "https://youtube.com/shorts/tVcSP2FFguw"
     ]
   },
   "retention": {
@@ -58,7 +58,7 @@
       {
         "title": "What If You Were Frozen After Death? About 200 People Are Waiting in Arizona",
         "avg_view_percent": 98.7,
-        "views": 42
+        "views": 44
       }
     ],
     "worst": [
@@ -90,12 +90,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 121,
-  "total_views": 17244,
+  "total_videos": 122,
+  "total_views": 17445,
   "by_topic": {
     "earth": {
       "videos": 14,
-      "avg_views": 327,
+      "avg_views": 329,
       "best_views": 1142
     },
     "space": {
@@ -104,13 +104,13 @@
       "best_views": 1281
     },
     "society": {
-      "videos": 7,
-      "avg_views": 103,
+      "videos": 8,
+      "avg_views": 104,
       "best_views": 414
     },
     "animals": {
       "videos": 14,
-      "avg_views": 193,
+      "avg_views": 194,
       "best_views": 1428
     },
     "body": {
@@ -120,21 +120,21 @@
     },
     "technology": {
       "videos": 16,
-      "avg_views": 107,
+      "avg_views": 110,
       "best_views": 1046
     }
   },
   "by_style": {
     "classic": {
-      "videos": 121,
+      "videos": 122,
       "avg_views": 143,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 120,
-      "avg_views": 135
+      "videos": 121,
+      "avg_views": 136
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -1175,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 94,
+      "views": 95,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1651,7 +1651,7 @@
       "hook": "What if you were frozen after death, to be woken later? About 200 people already are, in Arizona.",
       "published_at": "2026-11-13T07:40:15Z",
       "privacy": "public",
-      "views": 42,
+      "views": 44,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kY4T69sD7NE",
@@ -2491,7 +2491,7 @@
       "hook": "What if your bones were hollow, like a bird's? You wouldn't lose a single kilo.",
       "published_at": "2026-11-14T17:50:26Z",
       "privacy": "public",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rZvHcmJwADY",
@@ -2659,7 +2659,7 @@
       "hook": "What if you froze stiff as a board, no pulse, for six hours? One teenager woke up.",
       "published_at": "2026-11-11T16:30:12Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hYWH50rQX_M",
@@ -2843,7 +2843,7 @@
       "hook": "What if you were buried on the Moon? One man is, and he never got to go alive.",
       "published_at": "2026-11-15T07:40:10Z",
       "privacy": "public",
-      "views": 19,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BxqA1Dw9mFI",
@@ -2871,7 +2871,7 @@
       "hook": "What if Apollo 11 had failed? The speech for that night was already typed.",
       "published_at": "2026-11-18T22:50:38Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMuek63kT5Q"
@@ -2923,7 +2923,7 @@
       "hook": "What if you could never make another memory? One man lived that way for 55 years.",
       "published_at": "2026-11-15T18:30:12Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6MwRUYxhTM8",
@@ -2979,7 +2979,7 @@
       "hook": "What if one spade could knock a whole country offline? In 2011, one did.",
       "published_at": "2026-11-19T02:15:09Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rohSocsXH2M"
@@ -3003,7 +3003,7 @@
       "hook": "What if the space station sprang a leak? In 2018 it did. The crew slept through it.",
       "published_at": "2026-11-19T11:20:24Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3ks2fdLrLUw"
@@ -3027,8 +3027,8 @@
       "hook": "What if you bred only the friendliest foxes? In Siberia, they started to look like dogs.",
       "published_at": "2026-11-19T21:00:05Z",
       "privacy": "public",
-      "views": 9,
-      "likes": 0,
+      "views": 27,
+      "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/7FmBRVPMpZE"
     },
@@ -3051,8 +3051,8 @@
       "hook": "What if someone stole the Mona Lisa? In 1911, a man simply carried it out.",
       "published_at": "2026-11-19T22:10:35Z",
       "privacy": "public",
-      "views": 37,
-      "likes": 0,
+      "views": 149,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/fDPP28Z0Zgw"
     },
@@ -3075,20 +3075,20 @@
       "hook": "What if someone cut down the oldest tree on Earth? In 1964, someone did. With permission.",
       "published_at": "2026-11-19T23:00:31Z",
       "privacy": "public",
-      "views": 1,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DASKI3gIAMo"
     },
     "hbCw9GKD7Zg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT47S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3097,11 +3097,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if your submarine sank to the seabed with you inside? In 1973, two men found out.",
-      "published_at": "2026-11-20T01:20:05Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-20T02:15:08Z",
+      "privacy": "public",
+      "views": 37,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/hbCw9GKD7Zg"
     },
     "JG_L7e77sH8": {
@@ -3131,6 +3131,30 @@
       "avg_view_percent": 64.9,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "tVcSP2FFguw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Lost 17,000 Wallets on Purpose? Scientists Did",
+      "topic": "society",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you lost 17,000 wallets on purpose? Scientists did, and the experts called it wrong.",
+      "published_at": "2026-11-20T10:36:37Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/tVcSP2FFguw"
     },
     "iVbPulEUnKU": {
       "upload_status": "processed",
@@ -3319,7 +3343,7 @@
       "hook": "What if you swam in a pool on the Moon? Swimming isn't the strange part.",
       "published_at": "2026-11-16T21:50:21Z",
       "privacy": "public",
-      "views": 7,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wShbdnI6SU8",
@@ -3459,7 +3483,7 @@
       "hook": "What if Earth's magnetic field disappeared? Not the movie version. The real one is stranger.",
       "published_at": "2026-11-17T11:40:07Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vOcdQlrviSg",
