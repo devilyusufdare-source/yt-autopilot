@@ -57,5 +57,21 @@
   ],
   "thumbnail_text": "WHAT IF YOUR SUB SANK?",
   "priority": 7,
-  "first_comment": "Seventy-six hours, one sandwich, twelve minutes of oxygen to spare. Could you stay that still? What should we run through next?"
+  "first_comment": "Seventy-six hours, one sandwich, twelve minutes of oxygen to spare. Could you stay that still? What should we run through next?",
+  "youtube_id": "hbCw9GKD7Zg",
+  "url": "https://youtube.com/shorts/hbCw9GKD7Zg",
+  "uploaded_at": "2026-11-20T01:20:08+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-20T02:15:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 16,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 46.4,
+  "style": "classic",
+  "kind": "shorts"
 }
