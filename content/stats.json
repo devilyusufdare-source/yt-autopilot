@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-20T20:43:30+00:00",
+  "updated_at": "2026-11-20T21:48:25+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 85,
     "channel_views": 104515,
-    "video_count": 391
+    "video_count": 392
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/2Qb2jGjZqCQ"
+      "https://youtube.com/shorts/tJd06ONsRyk"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/2Qb2jGjZqCQ"
+      "https://youtube.com/shorts/tJd06ONsRyk"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/2Qb2jGjZqCQ"
+      "https://youtube.com/shorts/tJd06ONsRyk"
     ]
   },
   "retention": {
@@ -86,13 +86,13 @@
       {
         "title": "The Vampire Squid Hides in Water Almost Without Oxygen and Eats Marine Snow",
         "avg_view_percent": 16.1,
-        "views": 125
+        "views": 133
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 390,
-  "total_views": 108413,
+  "total_videos": 391,
+  "total_views": 108626,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 292,
-      "avg_views": 295,
+      "videos": 293,
+      "avg_views": 294,
       "best_views": 1507
     },
     "human body": {
@@ -126,7 +126,7 @@
     },
     "technology": {
       "videos": 8,
-      "avg_views": 79,
+      "avg_views": 80,
       "best_views": 286
     },
     "games": {
@@ -137,7 +137,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 374,
+      "videos": 375,
       "avg_views": 272,
       "over_1500": 3
     },
@@ -149,7 +149,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 304,
+      "videos": 305,
       "avg_views": 231
     },
     "en-US-BrianNeural": {
@@ -2411,7 +2411,7 @@
       "hook": "Fish swim straight into a snail's mouth. It drugs them with insulin first.",
       "published_at": "2026-11-13T21:00:04Z",
       "privacy": "public",
-      "views": 927,
+      "views": 926,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/dRW4Ed6TQhk",
@@ -4203,7 +4203,7 @@
       "hook": "This squirrel walks up to rattlesnakes and makes its tail hot. On purpose.",
       "published_at": "2026-11-14T08:40:13Z",
       "privacy": "public",
-      "views": 214,
+      "views": 215,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sYU_YCfGfIQ",
@@ -5743,7 +5743,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 966,
+      "views": 969,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg",
@@ -7703,7 +7703,7 @@
       "hook": "Touch this tree once and it can hurt for months.",
       "published_at": "2026-11-19T09:20:02Z",
       "privacy": "public",
-      "views": 46,
+      "views": 45,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sr9gf5YccLc"
@@ -7727,7 +7727,7 @@
       "hook": "A satellite that died in 1967 is transmitting again.",
       "published_at": "2026-11-20T04:50:16Z",
       "privacy": "public",
-      "views": 58,
+      "views": 64,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/OcstKSV45J0"
@@ -7975,7 +7975,7 @@
       "hook": "Australia's deadliest spider hasn't killed anyone in over forty years.",
       "published_at": "2026-11-19T00:30:18Z",
       "privacy": "public",
-      "views": 276,
+      "views": 304,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UMDanzgQzVk",
@@ -8031,8 +8031,8 @@
       "hook": "Some mammals raise their young in four days.",
       "published_at": "2026-11-19T01:00:39Z",
       "privacy": "public",
-      "views": 604,
-      "likes": 7,
+      "views": 608,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/DHn0xENEgaY",
       "avg_view_seconds": 14.0,
@@ -8087,7 +8087,7 @@
       "hook": "A squid that lives where most squid would suffocate.",
       "published_at": "2026-11-19T01:40:17Z",
       "privacy": "public",
-      "views": 125,
+      "views": 133,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/oFXTxm7eL8Q",
@@ -8143,7 +8143,7 @@
       "hook": "This fish shines a light its prey can't see.",
       "published_at": "2026-11-19T02:40:07Z",
       "privacy": "public",
-      "views": 285,
+      "views": 292,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/lqttsrqUdQE",
@@ -8171,7 +8171,7 @@
       "hook": "This frog turns its own skin into flypaper.",
       "published_at": "2026-11-19T03:00:25Z",
       "privacy": "public",
-      "views": 946,
+      "views": 949,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/vASc6xS-jZI",
@@ -8199,8 +8199,8 @@
       "hook": "They're one day old. Now they have to jump.",
       "published_at": "2026-11-19T04:40:13Z",
       "privacy": "public",
-      "views": 681,
-      "likes": 6,
+      "views": 742,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/cXzy_DCv0Rg",
       "avg_view_seconds": 13.0,
@@ -8479,7 +8479,7 @@
       "hook": "This wasp isn't carrying eggs. That bulge is another animal living inside it.",
       "published_at": "2026-11-19T09:40:36Z",
       "privacy": "public",
-      "views": 234,
+      "views": 235,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zwPGM6dTkYE"
@@ -8579,7 +8579,7 @@
       "hook": "This male spider brings his date a present. A third of the time, it's garbage.",
       "published_at": "2026-11-20T02:40:19Z",
       "privacy": "public",
-      "views": 203,
+      "views": 192,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/rQZIO4AScUM"
@@ -8655,8 +8655,8 @@
       "hook": "This frog ate her own eggs. Six weeks later, she spat out frogs.",
       "published_at": "2026-11-20T04:30:09Z",
       "privacy": "public",
-      "views": 795,
-      "likes": 13,
+      "views": 839,
+      "likes": 14,
       "comments": 1,
       "url": "https://youtube.com/shorts/BLgz-A_5c6U"
     },
@@ -8679,8 +8679,8 @@
       "hook": "Something inside this fish wants it to get eaten.",
       "published_at": "2026-11-20T09:10:17Z",
       "privacy": "public",
-      "views": 130,
-      "likes": 1,
+      "views": 162,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM"
     },
@@ -8731,7 +8731,7 @@
       "hook": "The five biggest eyes on Earth. No whale wins. Number one is the size of a football.",
       "published_at": "2026-11-20T20:00:33Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/g-p2zANZcwg"
@@ -9203,7 +9203,7 @@
       "hook": "This eagle weighs about as much as a house cat. Its prey is the size of a child.",
       "published_at": "2026-11-19T21:30:38Z",
       "privacy": "public",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BxI8grmPpI4"
@@ -9251,7 +9251,7 @@
       "hook": "One of the world's best-selling drug families started with a venomous lizard.",
       "published_at": "2026-11-20T00:00:26Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nH-9GNDFIFU"
@@ -9327,12 +9327,36 @@
       "hook": "Fishermen kept finding their crab traps torn apart. The thief wasn't a seal.",
       "published_at": "2026-11-20T19:40:10Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 25,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2_mV8zrkn8"
     },
     "2Qb2jGjZqCQ": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT28S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Parasite Queen Makes Ants Kill Their Own Mother",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This ant queen takes over a colony without killing anyone herself.",
+      "published_at": "2026-11-20T21:10:18Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/2Qb2jGjZqCQ"
+    },
+    "tJd06ONsRyk": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -9344,17 +9368,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "A Parasite Queen Makes Ants Kill Their Own Mother",
+      "title": "A Fox Walked Into a Wolf Den and Came Out With a Pup",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "This ant queen takes over a colony without killing anyone herself.",
-      "published_at": "2026-11-20T20:43:20Z",
+      "hook": "Wolves kill foxes. One night near Rome, it went the other way.",
+      "published_at": "2026-11-20T21:48:15Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/2Qb2jGjZqCQ"
+      "url": "https://youtube.com/shorts/tJd06ONsRyk"
     },
     "wgJfNru7RlQ": {
       "upload_status": "processed",
