@@ -1,0 +1,61 @@
+{
+  "id": "2027-12-11-mars-has-two-speeds-of-sound",
+  "format": "fact",
+  "topic": "space",
+  "subject": "Mars planet",
+  "title": "Mars Has Two Speeds of Sound, So High Notes Arrive First",
+  "scenes": [
+    {
+      "text": "On Mars, high notes reach your ear before low ones.",
+      "keywords": "mars surface"
+    },
+    {
+      "text": "NASA's Perseverance rover carried microphones. Mars was so quiet the team thought one was broken.",
+      "keywords": "mars rover"
+    },
+    {
+      "text": "Then they timed the crack of its laser zapping rocks: about 250 meters a second.",
+      "keywords": "mars landscape"
+    },
+    {
+      "text": "But the low hum of the Ingenuity helicopter traveled only about 240.",
+      "keywords": "mars helicopter"
+    },
+    {
+      "text": "The thin carbon dioxide air slows low pitches more than high ones.",
+      "keywords": "red planet"
+    },
+    {
+      "text": "On Earth, both arrive together at 343 meters a second. On Mars, a song would reach you out of order.",
+      "keywords": "mars surface"
+    }
+  ],
+  "description": "Perseverance's microphones showed that on Mars, high-pitched sounds travel at about 250 meters per second while low-pitched sounds travel at about 240 (Nature, 2022).\nThe team measured the laser's sparks and the Ingenuity helicopter's hum. On Earth sound travels at about 343 meters per second, and on Mars it fades within about 8 meters versus about 65 on Earth.\nWhat would you want to hear first on Mars?",
+  "tags": [
+    "mars",
+    "speed of sound",
+    "perseverance rover",
+    "sound on mars",
+    "ingenuity helicopter",
+    "nasa",
+    "space facts",
+    "planet facts",
+    "mars facts",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#mars",
+    "#space",
+    "#nasa"
+  ],
+  "sources": [
+    "https://www.jpl.nasa.gov/news/what-sounds-captured-by-nasas-perseverance-rover-reveal-about-mars/",
+    "https://www.sciencenews.org/article/mars-two-sound-speeds-laser-helicopter"
+  ],
+  "thumbnail_text": "MARS HAS 2 SPEEDS OF SOUND",
+  "priority": 5,
+  "first_comment": "Sound also dies out after about 8 meters on Mars. Would you even hear someone shouting across the street?"
+}
