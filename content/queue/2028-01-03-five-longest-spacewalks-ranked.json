@@ -1,0 +1,74 @@
+{
+  "id": "2028-01-03-five-longest-spacewalks-ranked",
+  "format": "ranking",
+  "ranking_by": "duration of a single spacewalk",
+  "topic": "space",
+  "subject": "astronaut spacewalk",
+  "title": "The 5 Longest Spacewalks Ever, Ranked (#1 Isn't American)",
+  "scenes": [
+    {
+      "text": "The longest spacewalk ever lasted over nine hours. NASA doesn't hold the record.",
+      "keywords": "astronaut spacewalk"
+    },
+    {
+      "text": "Number five: Sunita Williams and Akihiko Hoshide, 2012. Eight hours seventeen minutes outside the space station.",
+      "keywords": "astronaut spacewalk",
+      "rank": 5,
+      "label": "Williams & Hoshide · 8h 17m"
+    },
+    {
+      "text": "Number four: two Chinese astronauts, May 2024. Eight hours twenty-three minutes outside the Tiangong station.",
+      "keywords": "astronaut space station",
+      "rank": 4,
+      "label": "Shenzhou-18 crew · 8h 23m"
+    },
+    {
+      "text": "Number three: three NASA astronauts in 1992, the first spacewalk with three people. Eight hours twenty-nine minutes.",
+      "keywords": "space shuttle astronaut",
+      "rank": 3,
+      "label": "STS-49 trio · 8h 29m"
+    },
+    {
+      "text": "Number two: Jim Voss and Susan Helms, 2001. Eight hours fifty-six minutes, the record for 23 years.",
+      "keywords": "astronaut spacewalk",
+      "rank": 2,
+      "label": "Voss & Helms · 8h 56m"
+    },
+    {
+      "text": "Number one: Cai Xuzhe and Song Lingdong of China, December 2024. Nine hours and six minutes in open space.",
+      "keywords": "astronaut spacewalk earth",
+      "rank": 1,
+      "label": "Cai & Song · 9h 06m"
+    }
+  ],
+  "description": "The five longest single spacewalks ever: Williams and Hoshide (8 h 17 min, 2012), the Shenzhou-18 crew Ye Guangfu and Li Guangsu (8 h 23 min, May 2024), STS-49's Thuot, Hieb and Akers (8 h 29 min, 1992), Voss and Helms (8 h 56 min, 2001) and Shenzhou-19's Cai Xuzhe and Song Lingdong (9 h 06 min, December 2024).\nTwo later Chinese spacewalks (January and December 2025) are listed at about the same length as number five.\nCould you spend nine hours in a spacesuit?",
+  "tags": [
+    "longest spacewalk",
+    "spacewalk record",
+    "astronauts",
+    "tiangong",
+    "shenzhou 19",
+    "international space station",
+    "space records",
+    "nasa",
+    "space facts",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#astronaut",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-conduct-record-breaking-9-hour-spacewalk-outside-tiangong-space-station-photos",
+    "https://en.wikipedia.org/wiki/List_of_longest_spacewalks",
+    "https://www.space.com/17386-space-station-nasa-spacewalk-expedition-32.html",
+    "https://www.nasa.gov/mission/sts-49"
+  ],
+  "thumbnail_text": "5 LONGEST SPACEWALKS, RANKED",
+  "priority": 6,
+  "first_comment": "Nine hours with no bathroom break. Which would you put at #1, and what should we rank next?"
+}
