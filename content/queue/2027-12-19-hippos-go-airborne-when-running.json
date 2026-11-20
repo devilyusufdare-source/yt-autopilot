@@ -1,0 +1,61 @@
+{
+  "id": "2027-12-19-hippos-go-airborne-when-running",
+  "format": "fact",
+  "topic": "animals",
+  "subject": "hippopotamus",
+  "title": "A Hippo Can Weigh 2 Tons, and It Still Flies When It Runs",
+  "scenes": [
+    {
+      "text": "A hippo can weigh over two tons. When it runs, it leaves the ground.",
+      "keywords": "hippo running"
+    },
+    {
+      "text": "Scientists filmed thirty-two hippos and studied one hundred sixty-nine strides.",
+      "keywords": "hippopotamus walking"
+    },
+    {
+      "text": "At speed, all four feet were off the ground for about fifteen percent of each stride.",
+      "keywords": "hippo running water"
+    },
+    {
+      "text": "That's roughly three tenths of a second of pure air, every few steps.",
+      "keywords": "hippopotamus"
+    },
+    {
+      "text": "And they never gallop. Hippos trot at every speed, just faster and faster.",
+      "keywords": "hippo charging"
+    },
+    {
+      "text": "Elephants never get all four feet up. The hippo, somehow, does.",
+      "keywords": "hippopotamus"
+    }
+  ],
+  "description": "Royal Veterinary College researchers analysed 169 strides from 32 hippos (PeerJ, 2024) and found that fast-moving hippos have all four feet off the ground for about 15% of each stride, around 0.3 seconds.\nHippos trot at all speeds and don't gallop. Adults average about 1,300 to 1,500 kg and can exceed 2,000 kg.\nWhat other heavy animal would you never expect to leave the ground?",
+  "tags": [
+    "hippo",
+    "hippopotamus",
+    "hippo running",
+    "airborne",
+    "animal locomotion",
+    "african animals",
+    "royal veterinary college",
+    "animal facts",
+    "weird animals",
+    "nature facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#hippo",
+    "#animals",
+    "#wildlife"
+  ],
+  "sources": [
+    "https://rvc.ac.uk/Contents/Item/Display/196687",
+    "https://phys.org/news/2024-07-high-video-hippos-airborne.html"
+  ],
+  "thumbnail_text": "2 TONS. ALL FOUR FEET UP",
+  "priority": 6,
+  "first_comment": "Elephants keep at least one foot on the ground at all times. Did you think hippos could fly, even for a moment?"
+}
