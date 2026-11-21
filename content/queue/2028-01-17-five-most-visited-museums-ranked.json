@@ -1,0 +1,72 @@
+{
+  "id": "2028-01-17-five-most-visited-museums-ranked",
+  "format": "ranking",
+  "ranking_by": "visitors per year",
+  "topic": "history",
+  "subject": "museum crowd",
+  "title": "The 5 Most-Visited Museums on Earth, Ranked (#3 Isn't in Europe)",
+  "scenes": [
+    {
+      "text": "The world's busiest museum gets nine million visitors a year. Number three surprises everyone.",
+      "keywords": "museum crowd"
+    },
+    {
+      "text": "Number five: the Metropolitan Museum of Art, New York. About six million visitors last year.",
+      "keywords": "metropolitan museum new york",
+      "rank": 5,
+      "label": "The Met · 6.0 million"
+    },
+    {
+      "text": "Number four: the British Museum in London. Around six point four million, and entry is free.",
+      "keywords": "british museum london",
+      "rank": 4,
+      "label": "British Museum · 6.4 million"
+    },
+    {
+      "text": "Number three: the National Museum of Korea in Seoul. Six point five million, more than London.",
+      "keywords": "seoul museum",
+      "rank": 3,
+      "label": "Museum of Korea · 6.5 million"
+    },
+    {
+      "text": "Number two: the Vatican Museums. Almost seven million people, many there for the Sistine Chapel.",
+      "keywords": "sistine chapel",
+      "rank": 2,
+      "label": "Vatican Museums · 6.9 million"
+    },
+    {
+      "text": "Number one: the Louvre in Paris. Over nine million visitors in a single year.",
+      "keywords": "louvre paris",
+      "rank": 1,
+      "label": "Louvre · 9.0 million"
+    }
+  ],
+  "description": "The five most-visited museums in The Art Newspaper's 2025 survey: the Metropolitan Museum of Art (5.98 million, main building), the British Museum (6.44 million), the National Museum of Korea (6.51 million), the Vatican Museums (6.93 million) and the Louvre (9.05 million).\nWhich of these have you visited?",
+  "tags": [
+    "most visited museums",
+    "louvre",
+    "vatican museums",
+    "british museum",
+    "national museum of korea",
+    "metropolitan museum",
+    "museums",
+    "travel facts",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#museum",
+    "#louvre",
+    "#travel"
+  ],
+  "sources": [
+    "https://www.theartnewspaper.com/2026/03/31/exclusive-the-worlds-100-most-visited-museums-in-2025-new-museums-a-big-hit-with-visitors",
+    "https://mymodernmet.com/worlds-most-visited-museums-2025",
+    "https://www.ccb.pt/wp-content/uploads/2026/04/TOP150ArtNewspaper1.pdf"
+  ],
+  "thumbnail_text": "5 BUSIEST MUSEUMS, RANKED",
+  "priority": 5,
+  "first_comment": "Which museum would you put at number one, and what should we rank next?"
+}

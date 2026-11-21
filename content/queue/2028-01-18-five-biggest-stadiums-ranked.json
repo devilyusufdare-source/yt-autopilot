@@ -1,0 +1,73 @@
+{
+  "id": "2028-01-18-five-biggest-stadiums-ranked",
+  "format": "ranking",
+  "ranking_by": "seating capacity",
+  "topic": "technology",
+  "subject": "stadium crowd",
+  "title": "The 5 Biggest Stadiums on Earth, Ranked (#1 Isn't for Football)",
+  "scenes": [
+    {
+      "text": "The biggest stadium on Earth wasn't built for football.",
+      "keywords": "stadium crowd"
+    },
+    {
+      "text": "Number five: Ohio Stadium in Columbus. About 102,780 seats.",
+      "keywords": "football stadium crowd",
+      "rank": 5,
+      "label": "Ohio Stadium · 102,780"
+    },
+    {
+      "text": "Number four: Beaver Stadium at Penn State. Around 106,000 fans, packed in white.",
+      "keywords": "college football stadium",
+      "rank": 4,
+      "label": "Beaver Stadium · ~106,000"
+    },
+    {
+      "text": "Number three: Michigan Stadium, nicknamed the Big House. 107,601 seats.",
+      "keywords": "michigan stadium",
+      "rank": 3,
+      "label": "Michigan Stadium · 107,601"
+    },
+    {
+      "text": "Number two: the May Day Stadium in Pyongyang. North Korea claims 150,000, but counts suggest about 114,000.",
+      "keywords": "pyongyang stadium",
+      "rank": 2,
+      "label": "May Day Stadium · ~114,000"
+    },
+    {
+      "text": "Number one: the Narendra Modi Stadium in India, built for cricket. About 132,000 seats.",
+      "keywords": "cricket stadium crowd",
+      "rank": 1,
+      "label": "Narendra Modi · ~132,000"
+    }
+  ],
+  "description": "The five biggest stadiums by seating capacity: Ohio Stadium (102,780), Beaver Stadium (about 106,000 during renovation), Michigan Stadium (107,601), Pyongyang's Rungrado 1st of May Stadium (150,000 claimed, about 114,000 counted after its 2014 renovation) and the Narendra Modi Stadium in Ahmedabad (about 132,000).\nWhich one would you most like to watch a game in?",
+  "tags": [
+    "biggest stadiums",
+    "narendra modi stadium",
+    "michigan stadium",
+    "beaver stadium",
+    "ohio stadium",
+    "rungrado stadium",
+    "cricket",
+    "college football",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#stadium",
+    "#cricket",
+    "#football"
+  ],
+  "sources": [
+    "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/venues/icc-men-s-t20-world-cup-2026-narendra-modi-stadium",
+    "https://mgoblue.com/news/2015/8/7/u_m_announces_new_seating_capacity_for_michigan_stadium",
+    "https://stadiumdb.com/news/2016/08/north_korea_kims_shrinking_pride",
+    "https://frontofficesports.com/article/the-25-biggest-college-football-stadiums/"
+  ],
+  "thumbnail_text": "5 BIGGEST STADIUMS, RANKED",
+  "priority": 5,
+  "first_comment": "Which stadium would you put at number one, and what should we rank next?"
+}
