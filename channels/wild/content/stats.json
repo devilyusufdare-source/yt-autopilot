@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-21T00:51:42+00:00",
+  "updated_at": "2026-11-21T10:17:28+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 19,
-    "channel_views": 17197,
-    "video_count": 125
+    "channel_views": 17222,
+    "video_count": 126
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/LCu9Sugf1gQ"
+      "https://youtube.com/shorts/GA_mNTqtArc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/LCu9Sugf1gQ"
+      "https://youtube.com/shorts/GA_mNTqtArc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/LCu9Sugf1gQ"
+      "https://youtube.com/shorts/GA_mNTqtArc"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 126,
-  "total_views": 17510,
+  "total_videos": 127,
+  "total_views": 17550,
   "by_topic": {
     "earth": {
       "videos": 14,
@@ -105,40 +105,40 @@
     },
     "society": {
       "videos": 10,
-      "avg_views": 83,
+      "avg_views": 84,
       "best_views": 414
     },
     "animals": {
       "videos": 14,
-      "avg_views": 196,
+      "avg_views": 197,
       "best_views": 1428
     },
     "body": {
-      "videos": 28,
-      "avg_views": 69,
+      "videos": 29,
+      "avg_views": 67,
       "best_views": 654
     },
     "technology": {
       "videos": 17,
-      "avg_views": 103,
-      "best_views": 1046
+      "avg_views": 104,
+      "best_views": 1047
     }
   },
   "by_style": {
     "classic": {
-      "videos": 126,
-      "avg_views": 139,
+      "videos": 127,
+      "avg_views": 138,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 125,
-      "avg_views": 132
+      "videos": 126,
+      "avg_views": 131
     },
     "en-US-EricNeural": {
       "videos": 1,
-      "avg_views": 1046
+      "avg_views": 1047
     }
   },
   "top_videos": [
@@ -169,7 +169,7 @@
     {
       "title": "What If We Launched Our Nuclear Waste Into the Sun?",
       "topic": "technology",
-      "views": 1046,
+      "views": 1047,
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
     },
     {
@@ -783,7 +783,7 @@
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system.",
       "published_at": "2026-10-31T02:40:35Z",
       "privacy": "public",
-      "views": 1046,
+      "views": 1047,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8",
@@ -1091,7 +1091,7 @@
       "hook": "What if an animal frozen for 46,000 years came back to life? One did.",
       "published_at": "2026-11-02T02:40:20Z",
       "privacy": "public",
-      "views": 60,
+      "views": 65,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Z0QgS6RgYvM",
@@ -1371,7 +1371,7 @@
       "hook": "What if an asteroid hit the Moon in 2032? The Moon would be fine. Your satellites wouldn't.",
       "published_at": "2026-11-04T14:10:11Z",
       "privacy": "public",
-      "views": 79,
+      "views": 81,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI",
@@ -3023,7 +3023,7 @@
       "hook": "What if the space station sprang a leak? In 2018 it did. The crew slept through it.",
       "published_at": "2026-11-19T11:20:24Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3ks2fdLrLUw"
@@ -3047,7 +3047,7 @@
       "hook": "What if you bred only the friendliest foxes? In Siberia, they started to look like dogs.",
       "published_at": "2026-11-19T21:00:05Z",
       "privacy": "public",
-      "views": 59,
+      "views": 67,
       "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/7FmBRVPMpZE"
@@ -3071,7 +3071,7 @@
       "hook": "What if someone stole the Mona Lisa? In 1911, a man simply carried it out.",
       "published_at": "2026-11-19T22:10:35Z",
       "privacy": "public",
-      "views": 149,
+      "views": 151,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/fDPP28Z0Zgw"
@@ -3095,7 +3095,7 @@
       "hook": "What if someone cut down the oldest tree on Earth? In 1964, someone did. With permission.",
       "published_at": "2026-11-19T23:00:31Z",
       "privacy": "public",
-      "views": 35,
+      "views": 39,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DASKI3gIAMo"
@@ -3171,7 +3171,7 @@
       "hook": "What if you lost 17,000 wallets on purpose? Scientists did, and the experts called it wrong.",
       "published_at": "2026-11-20T11:00:04Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tVcSP2FFguw"
@@ -3223,7 +3223,7 @@
       "hook": "What if a soldier never heard his war had ended? One kept fighting for 29 years.",
       "published_at": "2026-11-20T19:50:05Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4M2mpzTtAI"
@@ -3247,7 +3247,7 @@
       "hook": "What if you tied weather balloons to a lawn chair? In 1982 one man tried it.",
       "published_at": "2026-11-20T21:50:31Z",
       "privacy": "public",
-      "views": 3,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9mOlLy7_d8o"
@@ -3271,7 +3271,7 @@
       "hook": "What if the first living things to circle the Moon weren't astronauts? They were two tortoises.",
       "published_at": "2026-11-20T22:30:15Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TF0v6IOVgfU"
@@ -3305,6 +3305,30 @@
       "subscribers_gained": 0
     },
     "LCu9Sugf1gQ": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT39S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Someone Sold the Eiffel Tower for Scrap? In 1925 a Con Man Did",
+      "topic": "society",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if someone sold the Eiffel Tower for scrap? In 1925, a con man collected the money.",
+      "published_at": "2026-11-21T02:15:30Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/LCu9Sugf1gQ"
+    },
+    "GA_mNTqtArc": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -3316,17 +3340,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If Someone Sold the Eiffel Tower for Scrap? In 1925 a Con Man Did",
-      "topic": "society",
+      "title": "What If a Particle Beam Went Through Your Head? In 1978 One Did",
+      "topic": "body",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if someone sold the Eiffel Tower for scrap? In 1925, a con man collected the money.",
-      "published_at": "2026-11-21T00:51:38Z",
+      "hook": "What if a particle beam went straight through your head? In 1978, it happened to a physicist.",
+      "published_at": "2026-11-21T10:17:23Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/LCu9Sugf1gQ"
+      "url": "https://youtube.com/shorts/GA_mNTqtArc"
     },
     "7DUibZ-ZGZw": {
       "upload_status": "processed",
