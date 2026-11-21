@@ -58,5 +58,21 @@
   "thumbnail_text": "DEADLIEST SNAKE. 3 FEET LONG.",
   "priority": 6,
   "first_comment": "Smaller than most garden snakes, yet it out-kills cobras and mambas. Which snake did you think was the deadliest?",
-  "id": "2027-08-26-saw-scaled-viper-deadliest-snake-shorter-than-your-arm"
+  "id": "2027-08-26-saw-scaled-viper-deadliest-snake-shorter-than-your-arm",
+  "youtube_id": "yp_4peDLHjg",
+  "url": "https://youtube.com/shorts/yp_4peDLHjg",
+  "uploaded_at": "2026-11-21T20:32:24+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-21T21:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 14,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 40.6,
+  "style": "classic",
+  "kind": "shorts"
 }
