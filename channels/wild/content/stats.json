@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-21T20:12:12+00:00",
+  "updated_at": "2026-11-21T21:26:21+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 20,
     "channel_views": 17497,
-    "video_count": 128
+    "video_count": 129
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/NsXb-qULx0Y"
+      "https://youtube.com/shorts/7iq_bEhNqMU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/NsXb-qULx0Y"
+      "https://youtube.com/shorts/7iq_bEhNqMU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/NsXb-qULx0Y"
+      "https://youtube.com/shorts/7iq_bEhNqMU"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 129,
-  "total_views": 17744,
+  "total_videos": 130,
+  "total_views": 17943,
   "by_topic": {
     "earth": {
       "videos": 14,
@@ -110,12 +110,12 @@
     },
     "animals": {
       "videos": 15,
-      "avg_views": 190,
+      "avg_views": 203,
       "best_views": 1428
     },
     "body": {
-      "videos": 29,
-      "avg_views": 67,
+      "videos": 30,
+      "avg_views": 65,
       "best_views": 654
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 129,
+      "videos": 130,
       "avg_views": 138,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 128,
-      "avg_views": 130
+      "videos": 129,
+      "avg_views": 131
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -3107,7 +3107,7 @@
       "hook": "What if someone cut down the oldest tree on Earth? In 1964, someone did. With permission.",
       "published_at": "2026-11-19T23:00:31Z",
       "privacy": "public",
-      "views": 105,
+      "views": 108,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DASKI3gIAMo",
@@ -3267,7 +3267,7 @@
       "hook": "What if you tied weather balloons to a lawn chair? In 1982 one man tried it.",
       "published_at": "2026-11-20T21:50:31Z",
       "privacy": "public",
-      "views": 44,
+      "views": 45,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9mOlLy7_d8o"
@@ -3291,7 +3291,7 @@
       "hook": "What if the first living things to circle the Moon weren't astronauts? They were two tortoises.",
       "published_at": "2026-11-20T22:30:15Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TF0v6IOVgfU"
@@ -3419,20 +3419,20 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 65,
-      "likes": 3,
+      "views": 259,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w"
     },
     "NsXb-qULx0Y": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT40S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3441,8 +3441,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if NASA taped over the first Moon landing? It did, to save on tape.",
-      "published_at": "2026-11-21T20:12:07Z",
-      "privacy": "private",
+      "published_at": "2026-11-21T21:00:35Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -3475,6 +3475,30 @@
       "avg_view_percent": 42.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "7iq_bEhNqMU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Ate an Airplane? One Man Did, and It Took Two Years",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you tried to eat an airplane? Guinness says one man finished the whole thing.",
+      "published_at": "2026-11-21T21:26:18Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/7iq_bEhNqMU"
     },
     "TBPED4Lvws0": {
       "upload_status": "processed",
