@@ -57,5 +57,21 @@
   ],
   "thumbnail_text": "WHAT IF THE EIFFEL TOWER SOLD?",
   "priority": 7,
-  "first_comment": "He once escaped from jail on a rope of bedsheets. Which landmark would be hardest to fake-sell today? What should we run through next?"
+  "first_comment": "He once escaped from jail on a rope of bedsheets. Which landmark would be hardest to fake-sell today? What should we run through next?",
+  "youtube_id": "LCu9Sugf1gQ",
+  "url": "https://youtube.com/shorts/LCu9Sugf1gQ",
+  "uploaded_at": "2026-11-21T00:51:40+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-21T02:15:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FACC15",
+  "duration_seconds": 38.6,
+  "style": "classic",
+  "kind": "shorts"
 }
