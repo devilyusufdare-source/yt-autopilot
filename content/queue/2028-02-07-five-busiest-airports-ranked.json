@@ -1,0 +1,73 @@
+{
+  "id": "2028-02-07-five-busiest-airports-ranked",
+  "format": "ranking",
+  "ranking_by": "total passengers in 2025 (ACI World)",
+  "topic": "technology",
+  "subject": "airport terminal",
+  "title": "The 5 Busiest Airports on Earth, Ranked (#5 Jumped Five Places)",
+  "scenes": [
+    {
+      "text": "The busiest airport on Earth handles more people than live in Germany.",
+      "keywords": "airport terminal crowd"
+    },
+    {
+      "text": "Number five: Shanghai Pudong. 85 million passengers in 2025, up from tenth place.",
+      "keywords": "shanghai airport",
+      "rank": 5,
+      "label": "Shanghai Pudong · 85M"
+    },
+    {
+      "text": "Number four: Dallas Fort Worth. 85.7 million passengers, even though its traffic fell last year.",
+      "keywords": "dallas airport",
+      "rank": 4,
+      "label": "Dallas Fort Worth · 85.7M"
+    },
+    {
+      "text": "Number three: Tokyo Haneda. 91.7 million people through one city airport.",
+      "keywords": "tokyo haneda airport",
+      "rank": 3,
+      "label": "Tokyo Haneda · 91.7M"
+    },
+    {
+      "text": "Number two: Dubai. 95.2 million, and the busiest for international flights.",
+      "keywords": "dubai airport",
+      "rank": 2,
+      "label": "Dubai · 95.2M"
+    },
+    {
+      "text": "Number one: Atlanta. 106 million passengers in one year. That's nearly 300,000 every single day.",
+      "keywords": "atlanta airport",
+      "rank": 1,
+      "label": "Atlanta · 106.3M"
+    }
+  ],
+  "description": "The world's five busiest airports by total passengers in 2025, from ACI World's final rankings: Shanghai Pudong (85.0 million, up from 10th), Dallas Fort Worth (85.7 million), Tokyo Haneda (91.7 million), Dubai (95.2 million) and Atlanta (106.3 million).\nAirports worldwide handled about 9.8 billion passengers in 2025.\nWhich of these have you flown through?",
+  "tags": [
+    "busiest airports",
+    "busiest airport in the world",
+    "atlanta airport",
+    "dubai airport",
+    "tokyo haneda",
+    "dallas fort worth airport",
+    "shanghai pudong",
+    "aviation facts",
+    "travel facts",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#aviation",
+    "#travel",
+    "#ranking"
+  ],
+  "sources": [
+    "https://aci.aero/2026/07/15/worlds-busiest-airports-atlanta-holds-asia-climbs-strong-demand-while-asia-pacific-growth-reshape-the-rankings/",
+    "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
+    "https://www.cp24.com/news/2026/04/14/these-are-the-worlds-busiest-airports-for-2025/"
+  ],
+  "thumbnail_text": "5 BUSIEST AIRPORTS, RANKED",
+  "priority": 0,
+  "first_comment": "Which airport would you put at number one for the worst layover? And what should we rank next?"
+}
