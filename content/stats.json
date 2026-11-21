@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-21T21:11:20+00:00",
+  "updated_at": "2026-11-21T22:13:33+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 90,
     "channel_views": 107425,
-    "video_count": 404
+    "video_count": 406
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/yp_4peDLHjg",
-      "https://youtube.com/shorts/r02FaMyLqps"
+      "https://youtube.com/shorts/aUc22oiCadg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/r02FaMyLqps"
+      "https://youtube.com/shorts/aUc22oiCadg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/r02FaMyLqps"
+      "https://youtube.com/shorts/aUc22oiCadg"
     ]
   },
   "retention": {
@@ -92,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 404,
-  "total_views": 112932,
+  "total_videos": 405,
+  "total_views": 113014,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -106,13 +105,13 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 304,
-      "avg_views": 297,
+      "videos": 305,
+      "avg_views": 296,
       "best_views": 1507
     },
     "human body": {
       "videos": 9,
-      "avg_views": 418,
+      "avg_views": 419,
       "best_views": 1384
     },
     "history": {
@@ -127,7 +126,7 @@
     },
     "technology": {
       "videos": 8,
-      "avg_views": 101,
+      "avg_views": 103,
       "best_views": 286
     },
     "games": {
@@ -138,8 +137,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 388,
-      "avg_views": 274,
+      "videos": 389,
+      "avg_views": 273,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +149,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 318,
-      "avg_views": 235
+      "videos": 319,
+      "avg_views": 234
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -3728,7 +3727,7 @@
       "hook": "The top of Mount Everest is made of seashells.",
       "published_at": "2026-10-20T12:00:38Z",
       "privacy": "public",
-      "views": 90,
+      "views": 91,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5pKsRTupbRY",
@@ -4653,7 +4652,7 @@
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
       "views": 21,
-      "likes": 0,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM",
       "avg_view_seconds": 17.0,
@@ -5464,7 +5463,7 @@
       "hook": "In 1898, two lions hunted people for nine months.",
       "published_at": "2026-11-15T22:10:17Z",
       "privacy": "public",
-      "views": 301,
+      "views": 302,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w6grVvcVieI",
@@ -6640,7 +6639,7 @@
       "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
       "published_at": "2026-11-17T01:20:11Z",
       "privacy": "public",
-      "views": 52,
+      "views": 54,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/d5f-TlrUDKM",
@@ -7592,7 +7591,7 @@
       "hook": "Doctors scanned a man's head and found mostly fluid.",
       "published_at": "2026-11-18T20:00:36Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mV5WFa4n8X8",
@@ -7732,7 +7731,7 @@
       "hook": "A satellite that died in 1967 is transmitting again.",
       "published_at": "2026-11-20T04:50:16Z",
       "privacy": "public",
-      "views": 233,
+      "views": 245,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/OcstKSV45J0",
@@ -7900,7 +7899,7 @@
       "hook": "There's a planet darker than coal, and nobody knows why.",
       "published_at": "2026-11-21T04:30:20Z",
       "privacy": "public",
-      "views": 167,
+      "views": 168,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nxgC5XgtZKk"
@@ -8624,7 +8623,7 @@
       "hook": "This male spider brings his date a present. A third of the time, it's garbage.",
       "published_at": "2026-11-20T02:40:19Z",
       "privacy": "public",
-      "views": 417,
+      "views": 421,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/rQZIO4AScUM",
@@ -8736,7 +8735,7 @@
       "hook": "Something inside this fish wants it to get eaten.",
       "published_at": "2026-11-20T09:10:17Z",
       "privacy": "public",
-      "views": 306,
+      "views": 321,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM"
@@ -8788,7 +8787,7 @@
       "hook": "In this pond, something two inches long is drinking the tadpoles.",
       "published_at": "2026-11-21T02:15:13Z",
       "privacy": "public",
-      "views": 66,
+      "views": 67,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg"
@@ -8858,11 +8857,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The deadliest snake on Earth is shorter than your arm.",
-      "published_at": "2026-11-21T20:32:19Z",
-      "privacy": "private",
+      "published_at": "2026-11-21T21:20:36Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/yp_4peDLHjg"
     },
     "MJ6FRS8q71M": {
@@ -8894,6 +8893,30 @@
       "subscribers_gained": 0
     },
     "r02FaMyLqps": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT43S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This 30-Inch Fish Bites Scuba Divers, and Swimming Up Makes It Worse",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This fish attacks scuba divers. And swimming up makes it worse.",
+      "published_at": "2026-11-21T21:40:19Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/r02FaMyLqps"
+    },
+    "aUc22oiCadg": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -8905,17 +8928,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "This 30-Inch Fish Bites Scuba Divers, and Swimming Up Makes It Worse",
+      "title": "A Fish Hum Kept a Whole Town Awake. They Blamed the Military",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "This fish attacks scuba divers. And swimming up makes it worse.",
-      "published_at": "2026-11-21T21:11:11Z",
+      "hook": "A town couldn't sleep all summer. The noise was fish.",
+      "published_at": "2026-11-21T22:13:24Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/r02FaMyLqps"
+      "url": "https://youtube.com/shorts/aUc22oiCadg"
     },
     "jy8dtKqr5n4": {
       "upload_status": "processed",
@@ -9076,7 +9099,7 @@
       "hook": "The five most common cells in your body. Your 86 billion brain cells don't even make the list.",
       "published_at": "2026-11-21T09:10:04Z",
       "privacy": "public",
-      "views": 8,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/t0vTFy2UXeE"
@@ -9436,7 +9459,7 @@
       "hook": "One of the world's best-selling drug families started with a venomous lizard.",
       "published_at": "2026-11-20T00:00:26Z",
       "privacy": "public",
-      "views": 27,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nH-9GNDFIFU",
@@ -9568,7 +9591,7 @@
       "hook": "Wolves kill foxes. One night near Rome, it went the other way.",
       "published_at": "2026-11-20T22:20:27Z",
       "privacy": "public",
-      "views": 24,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tJd06ONsRyk"
@@ -9668,7 +9691,7 @@
       "hook": "Chimpanzees nearly emptied a forest of monkeys. It took teamwork.",
       "published_at": "2026-11-21T00:20:14Z",
       "privacy": "public",
-      "views": 791,
+      "views": 826,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16pVAdMJmQ"
@@ -9748,7 +9771,7 @@
       "hook": "Fishermen fear one shark for a strange reason: it might land in the boat.",
       "published_at": "2026-11-21T08:50:03Z",
       "privacy": "public",
-      "views": 444,
+      "views": 441,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/gjWX134b_AU"
@@ -9772,7 +9795,7 @@
       "hook": "A coyote and a badger hunt side by side. Neither one is the prey.",
       "published_at": "2026-11-21T19:00:02Z",
       "privacy": "public",
-      "views": 0,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY"
@@ -9796,7 +9819,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo"
@@ -9848,7 +9871,7 @@
       "hook": "One electric eel gives 860 volts. Ten at once is a different story.",
       "published_at": "2026-11-21T20:20:08Z",
       "privacy": "public",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ahNRNMxj9mA"

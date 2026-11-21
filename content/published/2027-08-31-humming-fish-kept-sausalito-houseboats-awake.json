@@ -58,5 +58,22 @@
   "thumbnail_text": "A FISH KEPT A TOWN AWAKE",
   "priority": 6,
   "first_comment": "Sewage pumps, submarines, aliens... it was a fish looking for a date. What would you have blamed?",
-  "id": "2027-08-31-humming-fish-kept-sausalito-houseboats-awake"
+  "id": "2027-08-31-humming-fish-kept-sausalito-houseboats-awake",
+  "youtube_id": "aUc22oiCadg",
+  "url": "https://youtube.com/shorts/aUc22oiCadg",
+  "uploaded_at": "2026-11-21T22:13:30+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-21T22:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "pixabay-photo": 4,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 42.8,
+  "style": "classic",
+  "kind": "shorts"
 }
