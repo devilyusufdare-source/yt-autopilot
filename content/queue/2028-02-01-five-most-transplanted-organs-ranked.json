@@ -1,0 +1,72 @@
+{
+  "id": "2028-02-01-five-most-transplanted-organs-ranked",
+  "format": "ranking",
+  "ranking_by": "number of transplants performed in the US in 2024",
+  "topic": "human body",
+  "subject": "human kidney",
+  "title": "The 5 Most Transplanted Organs, Ranked (#1 Beats the Rest Combined)",
+  "scenes": [
+    {
+      "text": "One organ gets transplanted more than every other organ combined.",
+      "keywords": "surgeons operating room"
+    },
+    {
+      "text": "Number five: the pancreas. About 850 transplants in America in 2024, most alongside a new kidney.",
+      "keywords": "pancreas",
+      "rank": 5,
+      "label": "Pancreas · ~850"
+    },
+    {
+      "text": "Number four: the lungs. About 3,400 transplants, more than nine every single day.",
+      "keywords": "lungs",
+      "rank": 4,
+      "label": "Lungs · ~3,400"
+    },
+    {
+      "text": "Number three: the heart. About 4,600 donated hearts, now beating in someone else's chest.",
+      "keywords": "human heart",
+      "rank": 3,
+      "label": "Heart · ~4,600"
+    },
+    {
+      "text": "Number two: the liver. 11,458 transplants in one year, more than thirty every day.",
+      "keywords": "liver",
+      "rank": 2,
+      "label": "Liver · 11,458"
+    },
+    {
+      "text": "Number one: the kidney. About 28,000 transplants, more than all the others combined. You were born with a spare.",
+      "keywords": "kidney",
+      "rank": 1,
+      "label": "Kidney · ~28,000"
+    }
+  ],
+  "description": "The five most transplanted organs in the United States in 2024: pancreas (847, mostly kidney-pancreas), lungs (about 3,400), heart (about 4,600), liver (11,458) and kidney (about 28,000 by OPTN and SRTR counts).\nThe US passed 48,000 organ transplants in 2024, a record, and kidneys alone outnumbered every other organ combined.\nWhich number surprised you most?",
+  "tags": [
+    "organ transplant",
+    "kidney transplant",
+    "liver transplant",
+    "heart transplant",
+    "lung transplant",
+    "pancreas transplant",
+    "organ donation",
+    "human body facts",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#organdonation",
+    "#ranking"
+  ],
+  "sources": [
+    "https://hrsa.gov/optn/news-events/news/organ-transplants-exceeded-48000-2024-33-percent-increase-transplants-performed-2023",
+    "https://srtr.hrsa.gov/adr/2024/Overview/",
+    "https://unos.org/media-resources/releases/u-s-surpassed-48000-organ-transplants-in-2024/"
+  ],
+  "thumbnail_text": "5 MOST TRANSPLANTED ORGANS",
+  "priority": 5,
+  "first_comment": "Which organ would you have put at number one, and what should we rank next?"
+}

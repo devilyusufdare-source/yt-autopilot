@@ -1,0 +1,75 @@
+{
+  "id": "2028-01-31-five-coldest-survivors-ranked",
+  "format": "ranking",
+  "ranking_by": "lowest temperature an animal has survived (wild or lab)",
+  "topic": "animals",
+  "subject": "tardigrade",
+  "title": "The 5 Animals That Survive the Deepest Cold, Ranked (#1 Is Tiny)",
+  "scenes": [
+    {
+      "text": "Polar bears don't make this list. Number one is barely visible to your eye.",
+      "keywords": "polar bear snow"
+    },
+    {
+      "text": "Number five: the Arctic ground squirrel. Its body drops to minus three degrees Celsius while it hibernates.",
+      "keywords": "arctic ground squirrel",
+      "rank": 5,
+      "label": "Arctic ground squirrel · -3°C"
+    },
+    {
+      "text": "Number four: the Alaska wood frog. Frozen solid at minus eighteen, for up to seven months.",
+      "keywords": "wood frog",
+      "rank": 4,
+      "label": "Wood frog · -18°C"
+    },
+    {
+      "text": "Number three: the Arctic woolly bear caterpillar. It freezes solid at minus fifty, winter after winter.",
+      "keywords": "woolly bear caterpillar",
+      "rank": 3,
+      "label": "Woolly bear · -50°C"
+    },
+    {
+      "text": "Number two: the red flat bark beetle larva. In lab tests, its insides turned to glass and it survived minus one hundred.",
+      "keywords": "bark beetle larva",
+      "rank": 2,
+      "label": "Bark beetle larva · -100°C"
+    },
+    {
+      "text": "Number one: the tardigrade, about half a millimeter long. It has survived minus two hundred degrees.",
+      "keywords": "tardigrade",
+      "rank": 1,
+      "label": "Tardigrade · -200°C"
+    }
+  ],
+  "description": "The five animals known to survive the lowest temperatures: the Arctic ground squirrel (body at minus 2.9 C in hibernation), the Alaska wood frog (frozen at minus 18 C for up to 218 days), the Arctic woolly bear caterpillar (frozen solid at minus 50 C or below), the red flat bark beetle larva (vitrified, survived minus 100 C in lab tests and reportedly down to minus 150 C) and the tardigrade (minus 200 C in the lab).\nWhich one surprised you most?",
+  "tags": [
+    "cold tolerant animals",
+    "tardigrade",
+    "water bear",
+    "arctic ground squirrel",
+    "wood frog",
+    "woolly bear caterpillar",
+    "bark beetle",
+    "freeze tolerance",
+    "top 5 ranking",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#tardigrade",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/79891-lowest-body-temperature-recorded-in-a-mammal",
+    "https://uaf.edu/news/archives/news-archives-2010-2021/alaska-frogs.php",
+    "https://www.guinnessworldrecords.com/world-records/84899-lowest-temperature-endured-by-insects",
+    "https://kids.frontiersin.org/articles/10.3389/frym.2021.573691",
+    "https://guinnessworldrecords.com/news/2019/3/tardigrades-are-these-the-worlds-toughest-animals-564195"
+  ],
+  "thumbnail_text": "5 COLDEST SURVIVORS, RANKED",
+  "priority": 6,
+  "first_comment": "Which one would you put at number one, and what animal record should we rank next?"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "2028-01-29-gold-hotter-than-the-sun-didnt-melt",
+  "format": "fact",
+  "topic": "science",
+  "subject": "gold metal",
+  "title": "Gold Hit 19,000 Kelvin, Hotter Than the Sun, and Didn't Melt",
+  "scenes": [
+    {
+      "text": "Scientists heated gold hotter than the Sun. It didn't melt.",
+      "keywords": "laser beam lab"
+    },
+    {
+      "text": "Gold normally melts at about a thousand degrees Celsius.",
+      "keywords": "molten gold pouring"
+    },
+    {
+      "text": "In 2025, a Stanford lab hit a thin gold film with a laser, reaching nineteen thousand kelvin. Fourteen times its melting point.",
+      "keywords": "laser lab experiment"
+    },
+    {
+      "text": "Physicists thought no solid could survive past three times its melting point.",
+      "keywords": "gold bars"
+    },
+    {
+      "text": "So why didn't it melt? The heat arrived in under a trillionth of a second, too fast for the atoms to spread apart.",
+      "keywords": "gold atoms"
+    },
+    {
+      "text": "Hotter than the Sun's surface, and still solid.",
+      "keywords": "sun surface flares"
+    }
+  ],
+  "description": "Scientists heated gold to about 19,000 kelvin (33,740 F), more than 14 times its melting point, and it stayed solid.\nThe SLAC team (Nature, 2025) heated a 50-nanometer gold film with a 45-femtosecond laser pulse, so fast the metal had no time to expand. A 1980s theory, the entropy catastrophe, said solids could not survive past about three times their melting point.\nWhat should scientists try to overheat next?",
+  "tags": [
+    "superheated gold",
+    "gold",
+    "slac",
+    "entropy catastrophe",
+    "laser experiment",
+    "melting point",
+    "physics",
+    "hotter than the sun",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#physics",
+    "#gold"
+  ],
+  "sources": [
+    "https://www6.slac.stanford.edu/news/2025-07-23-limit-does-not-exist-superheated-gold-survives-entropy-catastrophe",
+    "https://www.smithsonianmag.com/smart-news/physicists-superheated-gold-to-hotter-than-the-suns-surface-and-disproved-a-40-year-old-idea-180987043/",
+    "https://warwick.ac.uk/news/pressreleases/superheated_gold_survives_temperatures_far_beyond_its_melting_point"
+  ],
+  "thumbnail_text": "GOLD: 14X ITS MELTING POINT",
+  "priority": 6,
+  "first_comment": "Bonus: the whole blast lasted 45 quadrillionths of a second. What would you want to see heated like this?"
+}
