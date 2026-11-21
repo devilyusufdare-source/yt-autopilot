@@ -57,5 +57,21 @@
   "thumbnail_text": "A WHALE WITH A SMOKE BOMB",
   "priority": 6,
   "first_comment": "Three gallons of ink and a vanishing act. Squid, octopus or whale: who does the ink escape best?",
-  "id": "2027-09-02-pygmy-sperm-whale-escapes-sharks-with-cloud-of-ink"
+  "id": "2027-09-02-pygmy-sperm-whale-escapes-sharks-with-cloud-of-ink",
+  "youtube_id": "6FAMi2C_sHs",
+  "url": "https://youtube.com/shorts/6FAMi2C_sHs",
+  "uploaded_at": "2026-11-21T23:04:25+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-22T00:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 36.5,
+  "style": "classic",
+  "kind": "shorts"
 }

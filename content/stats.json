@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-21T22:13:33+00:00",
+  "updated_at": "2026-11-21T23:04:29+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 90,
     "channel_views": 107425,
-    "video_count": 406
+    "video_count": 407
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/aUc22oiCadg"
+      "https://youtube.com/shorts/6FAMi2C_sHs"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/aUc22oiCadg"
+      "https://youtube.com/shorts/6FAMi2C_sHs"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/aUc22oiCadg"
+      "https://youtube.com/shorts/6FAMi2C_sHs"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 405,
-  "total_views": 113014,
+  "total_videos": 406,
+  "total_views": 113145,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -105,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 305,
-      "avg_views": 296,
+      "videos": 306,
+      "avg_views": 295,
       "best_views": 1507
     },
     "human body": {
@@ -126,7 +126,7 @@
     },
     "technology": {
       "videos": 8,
-      "avg_views": 103,
+      "avg_views": 101,
       "best_views": 286
     },
     "games": {
@@ -137,7 +137,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 389,
+      "videos": 390,
       "avg_views": 273,
       "over_1500": 3
     },
@@ -149,7 +149,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 319,
+      "videos": 320,
       "avg_views": 234
     },
     "en-US-BrianNeural": {
@@ -5715,7 +5715,7 @@
       "hook": "This newt can kill almost anything that swallows it. Except one snake.",
       "published_at": "2026-11-16T03:10:04Z",
       "privacy": "public",
-      "views": 106,
+      "views": 107,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E",
@@ -5939,7 +5939,7 @@
       "hook": "The largest chimpanzee group ever known tore itself in two.",
       "published_at": "2026-11-07T21:00:34Z",
       "privacy": "public",
-      "views": 1037,
+      "views": 1039,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/zUdEfphF1O8",
@@ -7283,7 +7283,7 @@
       "hook": "A chimp is twice as strong as you. It can barely throw.",
       "published_at": "2026-11-17T00:30:00Z",
       "privacy": "public",
-      "views": 912,
+      "views": 914,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/2REQ8iVRxag",
@@ -7591,7 +7591,7 @@
       "hook": "Doctors scanned a man's head and found mostly fluid.",
       "published_at": "2026-11-18T20:00:36Z",
       "privacy": "public",
-      "views": 7,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mV5WFa4n8X8",
@@ -7731,7 +7731,7 @@
       "hook": "A satellite that died in 1967 is transmitting again.",
       "published_at": "2026-11-20T04:50:16Z",
       "privacy": "public",
-      "views": 245,
+      "views": 233,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/OcstKSV45J0",
@@ -7899,7 +7899,7 @@
       "hook": "There's a planet darker than coal, and nobody knows why.",
       "published_at": "2026-11-21T04:30:20Z",
       "privacy": "public",
-      "views": 168,
+      "views": 167,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nxgC5XgtZKk"
@@ -8787,7 +8787,7 @@
       "hook": "In this pond, something two inches long is drinking the tadpoles.",
       "published_at": "2026-11-21T02:15:13Z",
       "privacy": "public",
-      "views": 67,
+      "views": 92,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg"
@@ -8811,7 +8811,7 @@
       "hook": "This bird knocks a gannet out of the sky by grabbing one wing.",
       "published_at": "2026-11-21T02:40:38Z",
       "privacy": "public",
-      "views": 139,
+      "views": 159,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4rnYbMm98E"
@@ -8917,14 +8917,14 @@
       "url": "https://youtube.com/shorts/r02FaMyLqps"
     },
     "aUc22oiCadg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT43S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -8933,12 +8933,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A town couldn't sleep all summer. The noise was fish.",
-      "published_at": "2026-11-21T22:13:24Z",
+      "published_at": "2026-11-21T22:40:06Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/aUc22oiCadg"
+    },
+    "6FAMi2C_sHs": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Whale Escapes Sharks by Squirting Gallons of Dark Ink",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This whale squirts ink like a squid.",
+      "published_at": "2026-11-21T23:04:20Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/aUc22oiCadg"
+      "url": "https://youtube.com/shorts/6FAMi2C_sHs"
     },
     "jy8dtKqr5n4": {
       "upload_status": "processed",
@@ -9099,7 +9123,7 @@
       "hook": "The five most common cells in your body. Your 86 billion brain cells don't even make the list.",
       "published_at": "2026-11-21T09:10:04Z",
       "privacy": "public",
-      "views": 10,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/t0vTFy2UXeE"
@@ -9403,7 +9427,7 @@
       "hook": "This eagle weighs about as much as a house cat. Its prey is the size of a child.",
       "published_at": "2026-11-19T21:30:38Z",
       "privacy": "public",
-      "views": 22,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BxI8grmPpI4",
@@ -9543,7 +9567,7 @@
       "hook": "Fishermen kept finding their crab traps torn apart. The thief wasn't a seal.",
       "published_at": "2026-11-20T19:40:10Z",
       "privacy": "public",
-      "views": 893,
+      "views": 918,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2_mV8zrkn8"
@@ -9567,7 +9591,7 @@
       "hook": "This ant queen takes over a colony without killing anyone herself.",
       "published_at": "2026-11-20T21:10:18Z",
       "privacy": "public",
-      "views": 13,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Qb2jGjZqCQ"
@@ -9591,7 +9615,7 @@
       "hook": "Wolves kill foxes. One night near Rome, it went the other way.",
       "published_at": "2026-11-20T22:20:27Z",
       "privacy": "public",
-      "views": 23,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tJd06ONsRyk"
@@ -9795,7 +9819,7 @@
       "hook": "A coyote and a badger hunt side by side. Neither one is the prey.",
       "published_at": "2026-11-21T19:00:02Z",
       "privacy": "public",
-      "views": 5,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY"
@@ -9819,7 +9843,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 5,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo"
@@ -9871,7 +9895,7 @@
       "hook": "One electric eel gives 860 volts. Ten at once is a different story.",
       "published_at": "2026-11-21T20:20:08Z",
       "privacy": "public",
-      "views": 4,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ahNRNMxj9mA"
