@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-21T20:32:28+00:00",
+  "updated_at": "2026-11-21T21:11:20+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 90,
     "channel_views": 107425,
-    "video_count": 403
+    "video_count": 404
   },
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/yp_4peDLHjg",
-      "https://youtube.com/shorts/1o5TYYjytTo"
+      "https://youtube.com/shorts/r02FaMyLqps"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/yp_4peDLHjg"
+      "https://youtube.com/shorts/r02FaMyLqps"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/yp_4peDLHjg"
+      "https://youtube.com/shorts/r02FaMyLqps"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 403,
-  "total_views": 112917,
+  "total_videos": 404,
+  "total_views": 112932,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 303,
-      "avg_views": 298,
+      "videos": 304,
+      "avg_views": 297,
       "best_views": 1507
     },
     "human body": {
@@ -122,12 +122,12 @@
     },
     "space": {
       "videos": 31,
-      "avg_views": 289,
+      "avg_views": 290,
       "best_views": 1513
     },
     "technology": {
       "videos": 8,
-      "avg_views": 102,
+      "avg_views": 101,
       "best_views": 286
     },
     "games": {
@@ -138,7 +138,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 387,
+      "videos": 388,
       "avg_views": 274,
       "over_1500": 3
     },
@@ -150,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 317,
+      "videos": 318,
       "avg_views": 235
     },
     "en-US-BrianNeural": {
@@ -5576,7 +5576,7 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 969,
+      "views": 970,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0",
@@ -7592,7 +7592,7 @@
       "hook": "Doctors scanned a man's head and found mostly fluid.",
       "published_at": "2026-11-18T20:00:36Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mV5WFa4n8X8",
@@ -7732,7 +7732,7 @@
       "hook": "A satellite that died in 1967 is transmitting again.",
       "published_at": "2026-11-20T04:50:16Z",
       "privacy": "public",
-      "views": 237,
+      "views": 233,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/OcstKSV45J0",
@@ -7900,7 +7900,7 @@
       "hook": "There's a planet darker than coal, and nobody knows why.",
       "published_at": "2026-11-21T04:30:20Z",
       "privacy": "public",
-      "views": 160,
+      "views": 167,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nxgC5XgtZKk"
@@ -8064,7 +8064,7 @@
       "hook": "Some mammals raise their young in four days.",
       "published_at": "2026-11-19T01:00:39Z",
       "privacy": "public",
-      "views": 653,
+      "views": 654,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/DHn0xENEgaY",
@@ -8233,7 +8233,7 @@
       "published_at": "2026-11-19T04:40:13Z",
       "privacy": "public",
       "views": 900,
-      "likes": 6,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/cXzy_DCv0Rg",
       "avg_view_seconds": 12.0,
@@ -8596,7 +8596,7 @@
       "hook": "That isn't a dead leaf on the riverbed. It's waiting for a fish.",
       "published_at": "2026-11-20T02:15:18Z",
       "privacy": "public",
-      "views": 896,
+      "views": 912,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/6xndYUmKm4s",
@@ -8736,7 +8736,7 @@
       "hook": "Something inside this fish wants it to get eaten.",
       "published_at": "2026-11-20T09:10:17Z",
       "privacy": "public",
-      "views": 314,
+      "views": 306,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM"
@@ -8788,7 +8788,7 @@
       "hook": "In this pond, something two inches long is drinking the tadpoles.",
       "published_at": "2026-11-21T02:15:13Z",
       "privacy": "public",
-      "views": 64,
+      "views": 66,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg"
@@ -8812,7 +8812,7 @@
       "hook": "This bird knocks a gannet out of the sky by grabbing one wing.",
       "published_at": "2026-11-21T02:40:38Z",
       "privacy": "public",
-      "views": 132,
+      "views": 139,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4rnYbMm98E"
@@ -8836,20 +8836,20 @@
       "hook": "The five biggest eyes on Earth. No whale wins. Number one is the size of a football.",
       "published_at": "2026-11-20T20:00:33Z",
       "privacy": "public",
-      "views": 62,
+      "views": 64,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/g-p2zANZcwg"
     },
     "yp_4peDLHjg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -8892,6 +8892,30 @@
       "avg_view_percent": 40.6,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "r02FaMyLqps": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This 30-Inch Fish Bites Scuba Divers, and Swimming Up Makes It Worse",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This fish attacks scuba divers. And swimming up makes it worse.",
+      "published_at": "2026-11-21T21:11:11Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/r02FaMyLqps"
     },
     "jy8dtKqr5n4": {
       "upload_status": "processed",
@@ -9052,7 +9076,7 @@
       "hook": "The five most common cells in your body. Your 86 billion brain cells don't even make the list.",
       "published_at": "2026-11-21T09:10:04Z",
       "privacy": "public",
-      "views": 9,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/t0vTFy2UXeE"
@@ -9412,7 +9436,7 @@
       "hook": "One of the world's best-selling drug families started with a venomous lizard.",
       "published_at": "2026-11-20T00:00:26Z",
       "privacy": "public",
-      "views": 28,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nH-9GNDFIFU",
@@ -9520,7 +9544,7 @@
       "hook": "This ant queen takes over a colony without killing anyone herself.",
       "published_at": "2026-11-20T21:10:18Z",
       "privacy": "public",
-      "views": 17,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Qb2jGjZqCQ"
@@ -9544,7 +9568,7 @@
       "hook": "Wolves kill foxes. One night near Rome, it went the other way.",
       "published_at": "2026-11-20T22:20:27Z",
       "privacy": "public",
-      "views": 22,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tJd06ONsRyk"
@@ -9644,7 +9668,7 @@
       "hook": "Chimpanzees nearly emptied a forest of monkeys. It took teamwork.",
       "published_at": "2026-11-21T00:20:14Z",
       "privacy": "public",
-      "views": 801,
+      "views": 791,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16pVAdMJmQ"
@@ -9724,7 +9748,7 @@
       "hook": "Fishermen fear one shark for a strange reason: it might land in the boat.",
       "published_at": "2026-11-21T08:50:03Z",
       "privacy": "public",
-      "views": 439,
+      "views": 444,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/gjWX134b_AU"
@@ -9748,7 +9772,7 @@
       "hook": "A coyote and a badger hunt side by side. Neither one is the prey.",
       "published_at": "2026-11-21T19:00:02Z",
       "privacy": "public",
-      "views": 5,
+      "views": 0,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY"
@@ -9770,11 +9794,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This animal's head walks away from its body. On purpose.",
-      "published_at": "2026-11-21T19:46:40Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-21T21:00:03Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo"
     },
     "qR2EsU5H4ZM": {
