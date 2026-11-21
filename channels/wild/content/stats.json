@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-11-21T18:20:20+00:00",
+  "updated_at": "2026-11-21T20:12:12+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 19,
-    "channel_views": 17222,
-    "video_count": 127
+    "subscribers": 20,
+    "channel_views": 17497,
+    "video_count": 128
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/hAffA8OTw7w"
+      "https://youtube.com/shorts/NsXb-qULx0Y"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/hAffA8OTw7w"
+      "https://youtube.com/shorts/NsXb-qULx0Y"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/hAffA8OTw7w"
+      "https://youtube.com/shorts/NsXb-qULx0Y"
     ]
   },
   "retention": {
-    "videos_with_data": 113,
-    "avg_view_percent": 56.3,
+    "videos_with_data": 119,
+    "avg_view_percent": 55.3,
     "by_topic": {
-      "earth": 75.9,
-      "space": 59.6,
-      "society": 46.0,
-      "animals": 47.3,
-      "body": 47.2,
-      "technology": 60.9
+      "earth": 69.1,
+      "space": 58.3,
+      "society": 45.6,
+      "animals": 48.8,
+      "body": 46.8,
+      "technology": 61.3
     },
     "best": [
       {
@@ -52,7 +52,7 @@
       },
       {
         "title": "What If You Could Visit a Neutron Star?",
-        "avg_view_percent": 99.5,
+        "avg_view_percent": 99.4,
         "views": 76
       },
       {
@@ -62,6 +62,11 @@
       }
     ],
     "worst": [
+      {
+        "title": "What If the Space Station Sprang a Leak? In 2018 It Did",
+        "avg_view_percent": 6.3,
+        "views": 3
+      },
       {
         "title": "What If a Country Lost Its Vultures? India Did. 500,000 People Died",
         "avg_view_percent": 10.5,
@@ -81,26 +86,21 @@
         "title": "What If You Saw Flashes With Your Eyes Shut? Astronauts Do",
         "avg_view_percent": 13.2,
         "views": 8
-      },
-      {
-        "title": "What If You Swam in a Pool on the Moon? You Could Leap Like a Dolphin",
-        "avg_view_percent": 13.7,
-        "views": 7
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 128,
-  "total_views": 17659,
+  "total_videos": 129,
+  "total_views": 17744,
   "by_topic": {
     "earth": {
       "videos": 14,
-      "avg_views": 334,
+      "avg_views": 335,
       "best_views": 1142
     },
     "space": {
-      "videos": 43,
-      "avg_views": 131,
+      "videos": 44,
+      "avg_views": 128,
       "best_views": 1281
     },
     "society": {
@@ -110,7 +110,7 @@
     },
     "animals": {
       "videos": 15,
-      "avg_views": 185,
+      "avg_views": 190,
       "best_views": 1428
     },
     "body": {
@@ -120,21 +120,21 @@
     },
     "technology": {
       "videos": 17,
-      "avg_views": 105,
+      "avg_views": 106,
       "best_views": 1047
     }
   },
   "by_style": {
     "classic": {
-      "videos": 128,
+      "videos": 129,
       "avg_views": 138,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 127,
-      "avg_views": 131
+      "videos": 128,
+      "avg_views": 130
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -508,7 +508,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/2bwg6x0eZVY",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 62.4,
+      "avg_view_percent": 62.3,
       "shares": 0,
       "subscribers_gained": 3
     },
@@ -620,7 +620,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/yxeZpoL6wKQ",
       "avg_view_seconds": 35.0,
-      "avg_view_percent": 99.5,
+      "avg_view_percent": 99.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1175,12 +1175,12 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 95,
+      "views": 97,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 63.0,
+      "avg_view_percent": 61.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1375,8 +1375,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 50.8,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 52.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1711,8 +1711,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU",
-      "avg_view_seconds": 38.0,
-      "avg_view_percent": 88.5,
+      "avg_view_seconds": 37.0,
+      "avg_view_percent": 86.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1931,7 +1931,7 @@
       "hook": "What if you ate nothing but carrots? You'd turn orange. But your eyes would stay white.",
       "published_at": "2026-11-13T21:30:22Z",
       "privacy": "public",
-      "views": 22,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wvmq2CtLbiw",
@@ -2496,7 +2496,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/rZvHcmJwADY",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 55.3,
+      "avg_view_percent": 56.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2663,8 +2663,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hYWH50rQX_M",
-      "avg_view_seconds": 26.0,
-      "avg_view_percent": 55.9,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 28.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2859,8 +2859,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BxqA1Dw9mFI",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 37.8,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 34.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2887,8 +2887,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMuek63kT5Q",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 35.9,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 33.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3026,7 +3026,11 @@
       "views": 3,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/3ks2fdLrLUw"
+      "url": "https://youtube.com/shorts/3ks2fdLrLUw",
+      "avg_view_seconds": 2.0,
+      "avg_view_percent": 6.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "7FmBRVPMpZE": {
       "upload_status": "processed",
@@ -3047,10 +3051,14 @@
       "hook": "What if you bred only the friendliest foxes? In Siberia, they started to look like dogs.",
       "published_at": "2026-11-19T21:00:05Z",
       "privacy": "public",
-      "views": 83,
+      "views": 84,
       "likes": 1,
       "comments": 2,
-      "url": "https://youtube.com/shorts/7FmBRVPMpZE"
+      "url": "https://youtube.com/shorts/7FmBRVPMpZE",
+      "avg_view_seconds": 31.0,
+      "avg_view_percent": 69.2,
+      "shares": 0,
+      "subscribers_gained": 1
     },
     "fDPP28Z0Zgw": {
       "upload_status": "processed",
@@ -3074,7 +3082,11 @@
       "views": 151,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/fDPP28Z0Zgw"
+      "url": "https://youtube.com/shorts/fDPP28Z0Zgw",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 43.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "DASKI3gIAMo": {
       "upload_status": "processed",
@@ -3095,10 +3107,14 @@
       "hook": "What if someone cut down the oldest tree on Earth? In 1964, someone did. With permission.",
       "published_at": "2026-11-19T23:00:31Z",
       "privacy": "public",
-      "views": 99,
+      "views": 105,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/DASKI3gIAMo"
+      "url": "https://youtube.com/shorts/DASKI3gIAMo",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 40.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "hbCw9GKD7Zg": {
       "upload_status": "processed",
@@ -3122,7 +3138,11 @@
       "views": 37,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/hbCw9GKD7Zg"
+      "url": "https://youtube.com/shorts/hbCw9GKD7Zg",
+      "avg_view_seconds": 31.0,
+      "avg_view_percent": 66.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "JG_L7e77sH8": {
       "upload_status": "processed",
@@ -3171,7 +3191,7 @@
       "hook": "What if you lost 17,000 wallets on purpose? Scientists did, and the experts called it wrong.",
       "published_at": "2026-11-20T11:00:04Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tVcSP2FFguw"
@@ -3223,7 +3243,7 @@
       "hook": "What if a soldier never heard his war had ended? One kept fighting for 29 years.",
       "published_at": "2026-11-20T19:50:05Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4M2mpzTtAI"
@@ -3247,7 +3267,7 @@
       "hook": "What if you tied weather balloons to a lawn chair? In 1982 one man tried it.",
       "published_at": "2026-11-20T21:50:31Z",
       "privacy": "public",
-      "views": 37,
+      "views": 44,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9mOlLy7_d8o"
@@ -3381,6 +3401,30 @@
       "subscribers_gained": 0
     },
     "hAffA8OTw7w": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT37S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
+      "published_at": "2026-11-21T18:50:10Z",
+      "privacy": "public",
+      "views": 65,
+      "likes": 3,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/hAffA8OTw7w"
+    },
+    "NsXb-qULx0Y": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -3392,17 +3436,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
-      "topic": "animals",
+      "title": "What If NASA Taped Over the Moon Landing? It Did",
+      "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
-      "published_at": "2026-11-21T18:20:16Z",
+      "hook": "What if NASA taped over the first Moon landing? It did, to save on tape.",
+      "published_at": "2026-11-21T20:12:07Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/hAffA8OTw7w"
+      "url": "https://youtube.com/shorts/NsXb-qULx0Y"
     },
     "NNxxSa4E8DY": {
       "upload_status": "processed",
@@ -3483,8 +3527,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EsApbP4yjVE",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 53.0,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 64.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3651,8 +3695,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vOcdQlrviSg",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 7.0,
+      "avg_view_percent": 17.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3735,8 +3779,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/AzRKI-WYycw",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 49.3,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 51.6,
       "shares": 0,
       "subscribers_gained": 0
     }
