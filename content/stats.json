@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-21T00:48:10+00:00",
+  "updated_at": "2026-11-21T01:31:12+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 86,
+    "subscribers": 87,
     "channel_views": 105370,
     "video_count": 396
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/lNpn_w2Fesg"
+      "https://youtube.com/shorts/lNpn_w2Fesg",
+      "https://youtube.com/shorts/M4rnYbMm98E"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/lNpn_w2Fesg"
+      "https://youtube.com/shorts/M4rnYbMm98E"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/lNpn_w2Fesg"
+      "https://youtube.com/shorts/M4rnYbMm98E"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 395,
-  "total_views": 109109,
+  "total_videos": 396,
+  "total_views": 109325,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -105,7 +106,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 297,
+      "videos": 298,
       "avg_views": 292,
       "best_views": 1507
     },
@@ -137,7 +138,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 379,
+      "videos": 380,
       "avg_views": 270,
       "over_1500": 3
     },
@@ -149,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 309,
+      "videos": 310,
       "avg_views": 229
     },
     "en-US-BrianNeural": {
@@ -6751,7 +6752,7 @@
       "hook": "The loudest bird on Earth weighs half a pound.",
       "published_at": "2026-11-17T21:00:26Z",
       "privacy": "public",
-      "views": 14,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tdDjN5tAZu8",
@@ -7727,7 +7728,7 @@
       "hook": "A satellite that died in 1967 is transmitting again.",
       "published_at": "2026-11-20T04:50:16Z",
       "privacy": "public",
-      "views": 72,
+      "views": 73,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/OcstKSV45J0"
@@ -7975,8 +7976,8 @@
       "hook": "Australia's deadliest spider hasn't killed anyone in over forty years.",
       "published_at": "2026-11-19T00:30:18Z",
       "privacy": "public",
-      "views": 468,
-      "likes": 2,
+      "views": 529,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UMDanzgQzVk",
       "avg_view_seconds": 15.0,
@@ -8199,8 +8200,8 @@
       "hook": "They're one day old. Now they have to jump.",
       "published_at": "2026-11-19T04:40:13Z",
       "privacy": "public",
-      "views": 742,
-      "likes": 7,
+      "views": 839,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/cXzy_DCv0Rg",
       "avg_view_seconds": 13.0,
@@ -8679,7 +8680,7 @@
       "hook": "Something inside this fish wants it to get eaten.",
       "published_at": "2026-11-20T09:10:17Z",
       "privacy": "public",
-      "views": 162,
+      "views": 182,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM"
@@ -8713,14 +8714,14 @@
       "subscribers_gained": 0
     },
     "lNpn_w2Fesg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT44S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -8735,6 +8736,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg"
+    },
+    "M4rnYbMm98E": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Bird Stalls Gannets Mid-Air by Grabbing a Wing, Then Robs Them",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This bird knocks a gannet out of the sky by grabbing one wing.",
+      "published_at": "2026-11-21T01:31:02Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/M4rnYbMm98E"
     },
     "g-p2zANZcwg": {
       "upload_status": "processed",
@@ -9251,7 +9276,7 @@
       "hook": "Scotland's dolphins keep killing another animal. They never eat it.",
       "published_at": "2026-11-19T22:40:00Z",
       "privacy": "public",
-      "views": 4,
+      "views": 2,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/2k6-MnJn4jo"
@@ -9351,8 +9376,8 @@
       "hook": "Fishermen kept finding their crab traps torn apart. The thief wasn't a seal.",
       "published_at": "2026-11-20T19:40:10Z",
       "privacy": "public",
-      "views": 60,
-      "likes": 3,
+      "views": 100,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2_mV8zrkn8"
     },
@@ -9499,7 +9524,7 @@
       "hook": "Chimpanzees nearly emptied a forest of monkeys. It took teamwork.",
       "published_at": "2026-11-21T00:20:14Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16pVAdMJmQ"
