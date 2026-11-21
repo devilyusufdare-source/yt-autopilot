@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T23:04:29+00:00",
+  "updated_at": "2026-11-21T23:49:09+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/6FAMi2C_sHs"
+      "https://youtube.com/shorts/6FAMi2C_sHs",
+      "https://youtube.com/shorts/EfrF1VO5eqc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/6FAMi2C_sHs"
+      "https://youtube.com/shorts/EfrF1VO5eqc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/6FAMi2C_sHs"
+      "https://youtube.com/shorts/EfrF1VO5eqc"
     ]
   },
   "retention": {
@@ -91,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 406,
-  "total_views": 113145,
+  "total_videos": 407,
+  "total_views": 113216,
   "by_topic": {
     "psychology": {
       "videos": 5,
@@ -105,7 +106,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 306,
+      "videos": 307,
       "avg_views": 295,
       "best_views": 1507
     },
@@ -126,7 +127,7 @@
     },
     "technology": {
       "videos": 8,
-      "avg_views": 101,
+      "avg_views": 103,
       "best_views": 286
     },
     "games": {
@@ -137,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 390,
-      "avg_views": 273,
+      "videos": 391,
+      "avg_views": 272,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 320,
-      "avg_views": 234
+      "videos": 321,
+      "avg_views": 233
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4735,7 +4736,7 @@
       "hook": "These goats climb a 160 foot vertical dam wall. Just to lick it.",
       "published_at": "2026-10-21T19:30:15Z",
       "privacy": "public",
-      "views": 441,
+      "views": 442,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/valUZFoPBN4",
@@ -5463,7 +5464,7 @@
       "hook": "In 1898, two lions hunted people for nine months.",
       "published_at": "2026-11-15T22:10:17Z",
       "privacy": "public",
-      "views": 302,
+      "views": 301,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/w6grVvcVieI",
@@ -5715,7 +5716,7 @@
       "hook": "This newt can kill almost anything that swallows it. Except one snake.",
       "published_at": "2026-11-16T03:10:04Z",
       "privacy": "public",
-      "views": 107,
+      "views": 106,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E",
@@ -6639,7 +6640,7 @@
       "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
       "published_at": "2026-11-17T01:20:11Z",
       "privacy": "public",
-      "views": 54,
+      "views": 52,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/d5f-TlrUDKM",
@@ -7087,7 +7088,7 @@
       "hook": "Octopuses throw things at each other. Females throw the most.",
       "published_at": "2026-11-18T01:20:10Z",
       "privacy": "public",
-      "views": 246,
+      "views": 245,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/atcvHLmvi0g",
@@ -7731,7 +7732,7 @@
       "hook": "A satellite that died in 1967 is transmitting again.",
       "published_at": "2026-11-20T04:50:16Z",
       "privacy": "public",
-      "views": 233,
+      "views": 245,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/OcstKSV45J0",
@@ -8623,7 +8624,7 @@
       "hook": "This male spider brings his date a present. A third of the time, it's garbage.",
       "published_at": "2026-11-20T02:40:19Z",
       "privacy": "public",
-      "views": 421,
+      "views": 424,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/rQZIO4AScUM",
@@ -8735,7 +8736,7 @@
       "hook": "Something inside this fish wants it to get eaten.",
       "published_at": "2026-11-20T09:10:17Z",
       "privacy": "public",
-      "views": 321,
+      "views": 326,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM"
@@ -8787,7 +8788,7 @@
       "hook": "In this pond, something two inches long is drinking the tadpoles.",
       "published_at": "2026-11-21T02:15:13Z",
       "privacy": "public",
-      "views": 92,
+      "views": 88,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg"
@@ -8811,7 +8812,7 @@
       "hook": "This bird knocks a gannet out of the sky by grabbing one wing.",
       "published_at": "2026-11-21T02:40:38Z",
       "privacy": "public",
-      "views": 159,
+      "views": 142,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4rnYbMm98E"
@@ -8941,14 +8942,14 @@
       "url": "https://youtube.com/shorts/aUc22oiCadg"
     },
     "6FAMi2C_sHs": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9047,6 +9048,30 @@
       "avg_view_percent": 48.1,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "EfrF1VO5eqc": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Octopus's Mating Arm Detaches and Swims Off on Its Own",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Science once named a worm. It was an octopus's arm.",
+      "published_at": "2026-11-21T23:49:03Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/EfrF1VO5eqc"
     },
     "34Pjo1b82WY": {
       "upload_status": "processed",
@@ -9427,7 +9452,7 @@
       "hook": "This eagle weighs about as much as a house cat. Its prey is the size of a child.",
       "published_at": "2026-11-19T21:30:38Z",
       "privacy": "public",
-      "views": 24,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BxI8grmPpI4",
@@ -9483,7 +9508,7 @@
       "hook": "One of the world's best-selling drug families started with a venomous lizard.",
       "published_at": "2026-11-20T00:00:26Z",
       "privacy": "public",
-      "views": 28,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nH-9GNDFIFU",
@@ -9715,7 +9740,7 @@
       "hook": "Chimpanzees nearly emptied a forest of monkeys. It took teamwork.",
       "published_at": "2026-11-21T00:20:14Z",
       "privacy": "public",
-      "views": 826,
+      "views": 878,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16pVAdMJmQ"
@@ -9819,7 +9844,7 @@
       "hook": "A coyote and a badger hunt side by side. Neither one is the prey.",
       "published_at": "2026-11-21T19:00:02Z",
       "privacy": "public",
-      "views": 34,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY"
@@ -9843,7 +9868,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 33,
+      "views": 56,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo"
@@ -9895,7 +9920,7 @@
       "hook": "One electric eel gives 860 volts. Ten at once is a different story.",
       "published_at": "2026-11-21T20:20:08Z",
       "privacy": "public",
-      "views": 7,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ahNRNMxj9mA"

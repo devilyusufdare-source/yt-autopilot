@@ -60,5 +60,22 @@
   ],
   "thumbnail_text": "THE ARM THAT SWIMS ALONE",
   "priority": 6,
-  "first_comment": "Cuvier was one of the greatest anatomists alive and he still called it a worm. What is the strangest animal body part you know of?"
+  "first_comment": "Cuvier was one of the greatest anatomists alive and he still called it a worm. What is the strangest animal body part you know of?",
+  "youtube_id": "EfrF1VO5eqc",
+  "url": "https://youtube.com/shorts/EfrF1VO5eqc",
+  "uploaded_at": "2026-11-21T23:49:06+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-22T00:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 9,
+    "pixabay-photo": 6,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 37.5,
+  "style": "classic",
+  "kind": "shorts"
 }
