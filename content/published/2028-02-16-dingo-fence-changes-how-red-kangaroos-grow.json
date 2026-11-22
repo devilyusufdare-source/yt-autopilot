@@ -60,5 +60,21 @@
   ],
   "thumbnail_text": "ONE FENCE. TWO KANGAROOS.",
   "priority": 7,
-  "first_comment": "On the dingo-free side there are also far more kangaroos and emus. Should the fence stay?"
+  "first_comment": "On the dingo-free side there are also far more kangaroos and emus. Should the fence stay?",
+  "youtube_id": "p2Tub0DIkUc",
+  "url": "https://youtube.com/shorts/p2Tub0DIkUc",
+  "uploaded_at": "2026-11-22T19:59:54+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-22T21:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 32.4,
+  "style": "classic",
+  "kind": "shorts"
 }
