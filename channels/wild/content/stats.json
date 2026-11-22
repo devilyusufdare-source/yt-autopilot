@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-11-22T18:45:08+00:00",
+  "updated_at": "2026-11-22T20:28:43+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 21,
     "channel_views": 17710,
-    "video_count": 132
+    "video_count": 133
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/boMYdIENFW4"
+      "https://youtube.com/shorts/rnrf8cSlOmc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/boMYdIENFW4"
+      "https://youtube.com/shorts/rnrf8cSlOmc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/boMYdIENFW4"
+      "https://youtube.com/shorts/rnrf8cSlOmc"
     ]
   },
   "retention": {
-    "videos_with_data": 119,
-    "avg_view_percent": 55.4,
+    "videos_with_data": 121,
+    "avg_view_percent": 55.3,
     "by_topic": {
-      "earth": 69.1,
-      "space": 58.3,
-      "society": 45.6,
-      "animals": 48.8,
-      "body": 46.8,
-      "technology": 61.3
+      "earth": 68.5,
+      "space": 58.9,
+      "society": 41.6,
+      "animals": 49.1,
+      "body": 48.1,
+      "technology": 59.6
     },
     "best": [
       {
@@ -63,11 +63,6 @@
     ],
     "worst": [
       {
-        "title": "What If the Space Station Sprang a Leak? In 2018 It Did",
-        "avg_view_percent": 6.3,
-        "views": 3
-      },
-      {
         "title": "What If a Country Lost Its Vultures? India Did. 500,000 People Died",
         "avg_view_percent": 10.5,
         "views": 9
@@ -78,25 +73,30 @@
         "views": 10
       },
       {
+        "title": "What If Someone Sold the Eiffel Tower for Scrap? In 1925 a Con Man Did",
+        "avg_view_percent": 11.7,
+        "views": 7
+      },
+      {
         "title": "What If You Could Smell a Disease Years Before Doctors Found It? One Woman Can",
         "avg_view_percent": 11.8,
         "views": 1
       },
       {
-        "title": "What If You Saw Flashes With Your Eyes Shut? Astronauts Do",
-        "avg_view_percent": 13.2,
-        "views": 8
+        "title": "What If You Swam in a Pool on the Moon? You Could Leap Like a Dolphin",
+        "avg_view_percent": 13.7,
+        "views": 7
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 133,
-  "total_views": 18881,
+  "total_videos": 134,
+  "total_views": 18901,
   "by_topic": {
     "earth": {
       "videos": 15,
-      "avg_views": 314,
-      "best_views": 1148
+      "avg_views": 315,
+      "best_views": 1159
     },
     "space": {
       "videos": 44,
@@ -114,27 +114,27 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 30,
-      "avg_views": 66,
+      "videos": 31,
+      "avg_views": 64,
       "best_views": 654
     },
     "technology": {
       "videos": 18,
-      "avg_views": 100,
+      "avg_views": 101,
       "best_views": 1047
     }
   },
   "by_style": {
     "classic": {
-      "videos": 133,
-      "avg_views": 142,
+      "videos": 134,
+      "avg_views": 141,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 132,
-      "avg_views": 135
+      "videos": 133,
+      "avg_views": 134
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1148,
+      "views": 1159,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -169,7 +169,7 @@
     {
       "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
       "topic": "animals",
-      "views": 1089,
+      "views": 1092,
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
@@ -480,7 +480,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/S5qOoYJHgX8",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 63.7,
+      "avg_view_percent": 63.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -788,7 +788,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/FJ7GavEjUw8",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 67.2,
+      "avg_view_percent": 67.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1007,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1148,
+      "views": 1159,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1095,8 +1095,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Z0QgS6RgYvM",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 68.2,
+      "avg_view_seconds": 31.0,
+      "avg_view_percent": 85.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1375,8 +1375,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uEVMR_vc2XI",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 52.2,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 53.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1487,8 +1487,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/UjmJgcGGgIc",
-      "avg_view_seconds": 5.0,
-      "avg_view_percent": 13.2,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 36.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2407,7 +2407,7 @@
       "hook": "What if you teed off on the Moon? One astronaut did, and lied about the distance.",
       "published_at": "2026-11-10T13:30:29Z",
       "privacy": "public",
-      "views": 12,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EnjPbpuGvSU",
@@ -2943,8 +2943,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/6MwRUYxhTM8",
-      "avg_view_seconds": 43.0,
-      "avg_view_percent": 95.3,
+      "avg_view_seconds": 45.0,
+      "avg_view_percent": 98.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3027,8 +3027,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3ks2fdLrLUw",
-      "avg_view_seconds": 2.0,
-      "avg_view_percent": 6.3,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 33.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3055,8 +3055,8 @@
       "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/7FmBRVPMpZE",
-      "avg_view_seconds": 31.0,
-      "avg_view_percent": 69.2,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 55.7,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -3084,7 +3084,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/fDPP28Z0Zgw",
       "avg_view_seconds": 17.0,
-      "avg_view_percent": 43.6,
+      "avg_view_percent": 45.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3111,8 +3111,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DASKI3gIAMo",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 40.4,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 32.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3194,7 +3194,11 @@
       "views": 8,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/tVcSP2FFguw"
+      "url": "https://youtube.com/shorts/tVcSP2FFguw",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "iVbPulEUnKU": {
       "upload_status": "processed",
@@ -3215,7 +3219,7 @@
       "hook": "What if your bones never broke? One family in Connecticut carries the gene for it.",
       "published_at": "2026-11-17T09:00:12Z",
       "privacy": "public",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/iVbPulEUnKU",
@@ -3246,7 +3250,11 @@
       "views": 3,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/M4M2mpzTtAI"
+      "url": "https://youtube.com/shorts/M4M2mpzTtAI",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "9mOlLy7_d8o": {
       "upload_status": "processed",
@@ -3267,10 +3275,14 @@
       "hook": "What if you tied weather balloons to a lawn chair? In 1982 one man tried it.",
       "published_at": "2026-11-20T21:50:31Z",
       "privacy": "public",
-      "views": 52,
+      "views": 57,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/9mOlLy7_d8o"
+      "url": "https://youtube.com/shorts/9mOlLy7_d8o",
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 35.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "TF0v6IOVgfU": {
       "upload_status": "processed",
@@ -3294,7 +3306,11 @@
       "views": 7,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/TF0v6IOVgfU"
+      "url": "https://youtube.com/shorts/TF0v6IOVgfU",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "KP7S7VpFHD8": {
       "upload_status": "processed",
@@ -3346,7 +3362,11 @@
       "views": 7,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/LCu9Sugf1gQ"
+      "url": "https://youtube.com/shorts/LCu9Sugf1gQ",
+      "avg_view_seconds": 4.0,
+      "avg_view_percent": 11.7,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "GA_mNTqtArc": {
       "upload_status": "processed",
@@ -3419,7 +3439,7 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1089,
+      "views": 1092,
       "likes": 19,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w"
@@ -3605,14 +3625,14 @@
       "subscribers_gained": 0
     },
     "boMYdIENFW4": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT42S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3621,11 +3641,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you binned a hard drive worth hundreds of millions of dollars? In 2013, it happened.",
-      "published_at": "2026-11-22T18:45:04Z",
-      "privacy": "private",
+      "published_at": "2026-11-22T19:10:34Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/boMYdIENFW4"
     },
     "wShbdnI6SU8": {
@@ -3711,6 +3731,30 @@
       "avg_view_percent": 74.8,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "rnrf8cSlOmc": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
+      "published_at": "2026-11-22T20:28:39Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/rnrf8cSlOmc"
     },
     "z5Wsjl7ctCY": {
       "upload_status": "processed",
@@ -3819,8 +3863,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Y-KIiHslHr0",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 53.0,
+      "avg_view_seconds": 28.0,
+      "avg_view_percent": 62.0,
       "shares": 0,
       "subscribers_gained": 0
     },
