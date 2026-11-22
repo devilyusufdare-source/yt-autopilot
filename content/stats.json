@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-22T00:21:25+00:00",
+  "updated_at": "2026-11-22T03:09:25+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 90,
     "channel_views": 107425,
-    "video_count": 408
+    "video_count": 410
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Mvn2FYFBrMI",
-      "https://youtube.com/shorts/EfrF1VO5eqc"
+      "https://youtube.com/shorts/COLUcCiSS2c"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Mvn2FYFBrMI"
+      "https://youtube.com/shorts/COLUcCiSS2c"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Mvn2FYFBrMI"
+      "https://youtube.com/shorts/COLUcCiSS2c"
     ]
   },
   "retention": {
@@ -92,12 +91,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 408,
-  "total_views": 113347,
+  "total_videos": 409,
+  "total_views": 114224,
   "by_topic": {
     "psychology": {
       "videos": 6,
-      "avg_views": 130,
+      "avg_views": 131,
       "best_views": 364
     },
     "science": {
@@ -106,8 +105,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 307,
-      "avg_views": 295,
+      "videos": 308,
+      "avg_views": 297,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +137,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 392,
-      "avg_views": 272,
+      "videos": 393,
+      "avg_views": 273,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +149,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 322,
-      "avg_views": 233
+      "videos": 323,
+      "avg_views": 235
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -3812,7 +3811,7 @@
       "hook": "This mouse-sized mammal is venomous. And it keeps a living pantry.",
       "published_at": "2026-11-13T23:10:24Z",
       "privacy": "public",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6vhduTC_Ms0",
@@ -4988,7 +4987,7 @@
       "hook": "Divers here take off their watches first.",
       "published_at": "2026-11-15T03:30:02Z",
       "privacy": "public",
-      "views": 84,
+      "views": 85,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xK7E3M26JZg",
@@ -7452,7 +7451,7 @@
       "hook": "Fishermen swore a fish was eating birds in mid-air. Nobody had a single photo.",
       "published_at": "2026-11-09T15:00:32Z",
       "privacy": "public",
-      "views": 909,
+      "views": 910,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/8VbMxHG-Bzo",
@@ -7508,7 +7507,7 @@
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
       "published_at": "2026-11-18T03:10:17Z",
       "privacy": "public",
-      "views": 167,
+      "views": 168,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg",
@@ -7962,14 +7961,14 @@
       "subscribers_gained": 0
     },
     "Mvn2FYFBrMI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT36S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -7978,11 +7977,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Scientists dropped people off a 150-foot tower to find out if fear slows down time.",
-      "published_at": "2026-11-22T00:21:17Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-22T00:50:23Z",
+      "privacy": "public",
+      "views": 7,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Mvn2FYFBrMI"
     },
     "q18WSuE5NJ0": {
@@ -8172,7 +8171,7 @@
       "hook": "This ladybug is alive. It's guarding its own parasite.",
       "published_at": "2026-11-10T15:00:03Z",
       "privacy": "public",
-      "views": 956,
+      "views": 957,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/oG_ieXXeadA",
@@ -8648,7 +8647,7 @@
       "hook": "This male spider brings his date a present. A third of the time, it's garbage.",
       "published_at": "2026-11-20T02:40:19Z",
       "privacy": "public",
-      "views": 417,
+      "views": 433,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/rQZIO4AScUM",
@@ -8732,7 +8731,7 @@
       "hook": "This frog ate her own eggs. Six weeks later, she spat out frogs.",
       "published_at": "2026-11-20T04:30:09Z",
       "privacy": "public",
-      "views": 928,
+      "views": 931,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/BLgz-A_5c6U",
@@ -8760,8 +8759,8 @@
       "hook": "Something inside this fish wants it to get eaten.",
       "published_at": "2026-11-20T09:10:17Z",
       "privacy": "public",
-      "views": 326,
-      "likes": 6,
+      "views": 400,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM"
     },
@@ -8812,7 +8811,7 @@
       "hook": "In this pond, something two inches long is drinking the tadpoles.",
       "published_at": "2026-11-21T02:15:13Z",
       "privacy": "public",
-      "views": 99,
+      "views": 121,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg"
@@ -8836,7 +8835,7 @@
       "hook": "This bird knocks a gannet out of the sky by grabbing one wing.",
       "published_at": "2026-11-21T02:40:38Z",
       "privacy": "public",
-      "views": 139,
+      "views": 171,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4rnYbMm98E"
@@ -8860,7 +8859,7 @@
       "hook": "The five biggest eyes on Earth. No whale wins. Number one is the size of a football.",
       "published_at": "2026-11-20T20:00:33Z",
       "privacy": "public",
-      "views": 64,
+      "views": 65,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/g-p2zANZcwg"
@@ -8984,8 +8983,8 @@
       "hook": "This whale squirts ink like a squid.",
       "published_at": "2026-11-22T00:00:15Z",
       "privacy": "public",
-      "views": 6,
-      "likes": 0,
+      "views": 168,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs"
     },
@@ -9090,11 +9089,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Science once named a worm. It was an octopus's arm.",
-      "published_at": "2026-11-21T23:49:03Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-22T00:30:01Z",
+      "privacy": "public",
+      "views": 28,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc"
     },
     "34Pjo1b82WY": {
@@ -9172,7 +9171,7 @@
       "hook": "The five most common cells in your body. Your 86 billion brain cells don't even make the list.",
       "published_at": "2026-11-21T09:10:04Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/t0vTFy2UXeE"
@@ -9616,7 +9615,7 @@
       "hook": "Fishermen kept finding their crab traps torn apart. The thief wasn't a seal.",
       "published_at": "2026-11-20T19:40:10Z",
       "privacy": "public",
-      "views": 893,
+      "views": 918,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2_mV8zrkn8"
@@ -9764,7 +9763,7 @@
       "hook": "Chimpanzees nearly emptied a forest of monkeys. It took teamwork.",
       "published_at": "2026-11-21T00:20:14Z",
       "privacy": "public",
-      "views": 876,
+      "views": 904,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16pVAdMJmQ"
@@ -9844,7 +9843,7 @@
       "hook": "Fishermen fear one shark for a strange reason: it might land in the boat.",
       "published_at": "2026-11-21T08:50:03Z",
       "privacy": "public",
-      "views": 516,
+      "views": 533,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/gjWX134b_AU"
@@ -9868,8 +9867,8 @@
       "hook": "A coyote and a badger hunt side by side. Neither one is the prey.",
       "published_at": "2026-11-21T19:00:02Z",
       "privacy": "public",
-      "views": 37,
-      "likes": 0,
+      "views": 80,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY"
     },
@@ -9892,8 +9891,8 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 78,
-      "likes": 0,
+      "views": 451,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo"
     },
@@ -9944,8 +9943,8 @@
       "hook": "One electric eel gives 860 volts. Ten at once is a different story.",
       "published_at": "2026-11-21T20:20:08Z",
       "privacy": "public",
-      "views": 22,
-      "likes": 0,
+      "views": 62,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ahNRNMxj9mA"
     },
@@ -9976,6 +9975,30 @@
       "avg_view_percent": 40.4,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "COLUcCiSS2c": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Australian Water Rats Rip the Hearts Out of Poisonous Toads",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Cane toads are covered in poison. This rat eats their hearts.",
+      "published_at": "2026-11-22T03:09:17Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/COLUcCiSS2c"
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",

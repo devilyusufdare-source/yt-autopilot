@@ -61,5 +61,21 @@
   ],
   "thumbnail_text": "IT EATS POISON TOAD HEARTS",
   "priority": 7,
-  "first_comment": "Bonus fact: the rats ignored small toads and went for the biggest ones, even though medium toads outnumbered large ones 27 to 1. Why go big?"
+  "first_comment": "Bonus fact: the rats ignored small toads and went for the biggest ones, even though medium toads outnumbered large ones 27 to 1. Why go big?",
+  "youtube_id": "COLUcCiSS2c",
+  "url": "https://youtube.com/shorts/COLUcCiSS2c",
+  "uploaded_at": "2026-11-22T03:09:21+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-22T03:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 30.5,
+  "style": "classic",
+  "kind": "shorts"
 }
