@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-11-22T10:23:59+00:00",
+  "updated_at": "2026-11-22T18:45:08+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 21,
-    "channel_views": 17594,
-    "video_count": 131
+    "channel_views": 17710,
+    "video_count": 132
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/1kSlgoBaYOE"
+      "https://youtube.com/shorts/boMYdIENFW4"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/1kSlgoBaYOE"
+      "https://youtube.com/shorts/boMYdIENFW4"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/1kSlgoBaYOE"
+      "https://youtube.com/shorts/boMYdIENFW4"
     ]
   },
   "retention": {
     "videos_with_data": 119,
-    "avg_view_percent": 55.3,
+    "avg_view_percent": 55.4,
     "by_topic": {
       "earth": 69.1,
       "space": 58.3,
@@ -90,13 +90,13 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 132,
-  "total_views": 18800,
+  "total_videos": 133,
+  "total_views": 18881,
   "by_topic": {
     "earth": {
       "videos": 15,
-      "avg_views": 313,
-      "best_views": 1146
+      "avg_views": 314,
+      "best_views": 1148
     },
     "space": {
       "videos": 44,
@@ -110,7 +110,7 @@
     },
     "animals": {
       "videos": 15,
-      "avg_views": 255,
+      "avg_views": 259,
       "best_views": 1428
     },
     "body": {
@@ -119,22 +119,22 @@
       "best_views": 654
     },
     "technology": {
-      "videos": 17,
-      "avg_views": 106,
+      "videos": 18,
+      "avg_views": 100,
       "best_views": 1047
     }
   },
   "by_style": {
     "classic": {
-      "videos": 132,
+      "videos": 133,
       "avg_views": 142,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 131,
-      "avg_views": 136
+      "videos": 132,
+      "avg_views": 135
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1146,
+      "views": 1148,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -167,16 +167,16 @@
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes."
     },
     {
+      "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
+      "topic": "animals",
+      "views": 1089,
+      "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
+    },
+    {
       "title": "What If We Launched Our Nuclear Waste Into the Sun?",
       "topic": "technology",
       "views": 1047,
       "hook": "What if we launched nuclear waste into the Sun? It's harder than leaving the solar system."
-    },
-    {
-      "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
-      "topic": "animals",
-      "views": 1032,
-      "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
       "title": "What If the Dinosaur-Killing Asteroid Hit Earth Today?",
@@ -1007,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1146,
+      "views": 1148,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1595,7 +1595,7 @@
       "hook": "What if you lived underwater for months, no sunlight? Submariners do, and their bodies keep score.",
       "published_at": "2026-11-12T21:30:36Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/KSCEzMiaT2o",
@@ -2407,7 +2407,7 @@
       "hook": "What if you teed off on the Moon? One astronaut did, and lied about the distance.",
       "published_at": "2026-11-10T13:30:29Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EnjPbpuGvSU",
@@ -2771,7 +2771,7 @@
       "hook": "What if the only doctor on an Antarctic base needed surgery? In 1961, he operated on himself.",
       "published_at": "2026-11-18T21:00:14Z",
       "privacy": "public",
-      "views": 10,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUDRGIKuf40",
@@ -2799,7 +2799,7 @@
       "hook": "What if a jet ran dry at 41,000 feet? In 1983 one did, over a unit mix-up.",
       "published_at": "2026-11-18T22:00:22Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wBy1yiLsTpk",
@@ -3051,7 +3051,7 @@
       "hook": "What if you bred only the friendliest foxes? In Siberia, they started to look like dogs.",
       "published_at": "2026-11-19T21:00:05Z",
       "privacy": "public",
-      "views": 89,
+      "views": 90,
       "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/7FmBRVPMpZE",
@@ -3267,7 +3267,7 @@
       "hook": "What if you tied weather balloons to a lawn chair? In 1982 one man tried it.",
       "published_at": "2026-11-20T21:50:31Z",
       "privacy": "public",
-      "views": 49,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9mOlLy7_d8o"
@@ -3291,7 +3291,7 @@
       "hook": "What if the first living things to circle the Moon weren't astronauts? They were two tortoises.",
       "published_at": "2026-11-20T22:30:15Z",
       "privacy": "public",
-      "views": 8,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TF0v6IOVgfU"
@@ -3367,7 +3367,7 @@
       "hook": "What if a particle beam went straight through your head? In 1978, it happened to a physicist.",
       "published_at": "2026-11-21T10:40:28Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GA_mNTqtArc"
@@ -3419,7 +3419,7 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1032,
+      "views": 1089,
       "likes": 19,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w"
@@ -3519,7 +3519,7 @@
       "hook": "What if you took 54 years to finish a marathon? One Olympic runner did.",
       "published_at": "2026-11-22T00:20:08Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JGgtBD3I01M"
@@ -3553,14 +3553,14 @@
       "subscribers_gained": 0
     },
     "1kSlgoBaYOE": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT40S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3569,11 +3569,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if a tree were the only one for 250 miles? Somebody still drove into it.",
-      "published_at": "2026-11-22T10:23:55Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-22T10:50:07Z",
+      "privacy": "public",
+      "views": 12,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/1kSlgoBaYOE"
     },
     "EsApbP4yjVE": {
@@ -3603,6 +3603,30 @@
       "avg_view_percent": 64.4,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "boMYdIENFW4": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Threw Away a Hard Drive Holding 8,000 Bitcoin? One Man Did",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you binned a hard drive worth hundreds of millions of dollars? In 2013, it happened.",
+      "published_at": "2026-11-22T18:45:04Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/boMYdIENFW4"
     },
     "wShbdnI6SU8": {
       "upload_status": "processed",
@@ -3851,8 +3875,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/AzRKI-WYycw",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 51.6,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 53.3,
       "shares": 0,
       "subscribers_gained": 0
     }
