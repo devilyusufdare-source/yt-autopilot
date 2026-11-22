@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:28:43+00:00",
+  "updated_at": "2026-11-22T20:54:32+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/rnrf8cSlOmc"
+      "https://youtube.com/shorts/rnrf8cSlOmc",
+      "https://youtube.com/shorts/XEtNh6GXHWY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/rnrf8cSlOmc"
+      "https://youtube.com/shorts/XEtNh6GXHWY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/rnrf8cSlOmc"
+      "https://youtube.com/shorts/XEtNh6GXHWY"
     ]
   },
   "retention": {
@@ -90,13 +91,13 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 134,
-  "total_views": 18901,
+  "total_videos": 135,
+  "total_views": 18900,
   "by_topic": {
     "earth": {
       "videos": 15,
       "avg_views": 315,
-      "best_views": 1159
+      "best_views": 1161
     },
     "space": {
       "videos": 44,
@@ -119,22 +120,22 @@
       "best_views": 654
     },
     "technology": {
-      "videos": 18,
-      "avg_views": 101,
+      "videos": 19,
+      "avg_views": 95,
       "best_views": 1047
     }
   },
   "by_style": {
     "classic": {
-      "videos": 134,
-      "avg_views": 141,
+      "videos": 135,
+      "avg_views": 140,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 133,
-      "avg_views": 134
+      "videos": 134,
+      "avg_views": 133
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +158,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1159,
+      "views": 1161,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -1007,7 +1008,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1159,
+      "views": 1161,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -2407,7 +2408,7 @@
       "hook": "What if you teed off on the Moon? One astronaut did, and lied about the distance.",
       "published_at": "2026-11-10T13:30:29Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EnjPbpuGvSU",
@@ -2883,7 +2884,7 @@
       "hook": "What if Apollo 11 had failed? The speech for that night was already typed.",
       "published_at": "2026-11-18T22:50:38Z",
       "privacy": "public",
-      "views": 37,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMuek63kT5Q",
@@ -3219,7 +3220,7 @@
       "hook": "What if your bones never broke? One family in Connecticut carries the gene for it.",
       "published_at": "2026-11-17T09:00:12Z",
       "privacy": "public",
-      "views": 7,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/iVbPulEUnKU",
@@ -3275,7 +3276,7 @@
       "hook": "What if you tied weather balloons to a lawn chair? In 1982 one man tried it.",
       "published_at": "2026-11-20T21:50:31Z",
       "privacy": "public",
-      "views": 57,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9mOlLy7_d8o",
@@ -3643,7 +3644,7 @@
       "hook": "What if you binned a hard drive worth hundreds of millions of dollars? In 2013, it happened.",
       "published_at": "2026-11-22T19:10:34Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/boMYdIENFW4"
@@ -3733,14 +3734,14 @@
       "subscribers_gained": 0
     },
     "rnrf8cSlOmc": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT44S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3755,6 +3756,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc"
+    },
+    "XEtNh6GXHWY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Plane Stayed in the Air for 64 Days? In 1958 Two Men Did It",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a plane took off and didn't land for two months? One did. It was tiny.",
+      "published_at": "2026-11-22T20:54:28Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/XEtNh6GXHWY"
     },
     "z5Wsjl7ctCY": {
       "upload_status": "processed",
