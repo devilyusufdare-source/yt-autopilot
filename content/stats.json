@@ -1,27 +1,28 @@
 {
-  "updated_at": "2026-11-22T20:02:12+00:00",
+  "updated_at": "2026-11-22T20:50:31+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 89,
     "channel_views": 112805,
-    "video_count": 414
+    "video_count": 415
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/p2Tub0DIkUc",
-      "https://youtube.com/shorts/M7aCq1QH0Ho"
+      "https://youtube.com/shorts/1ZdY68_jeKU",
+      "https://youtube.com/shorts/JZ4FPUKiU7s",
+      "https://youtube.com/shorts/p2Tub0DIkUc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/M7aCq1QH0Ho"
+      "https://youtube.com/shorts/JZ4FPUKiU7s"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/M7aCq1QH0Ho"
+      "https://youtube.com/shorts/JZ4FPUKiU7s"
     ]
   },
   "retention": {
@@ -72,7 +73,7 @@
       {
         "title": "This 2-Inch Larva Stabs Tadpoles and Drinks Them Through Its Jaws",
         "avg_view_percent": 9.9,
-        "views": 221
+        "views": 223
       },
       {
         "title": "In 1932, Australia Went to War Against Emus. The Emus Won",
@@ -87,13 +88,13 @@
       {
         "title": "A Venomous Lizard's Spit Started the Ozempic Drug Family",
         "avg_view_percent": 14.4,
-        "views": 32
+        "views": 31
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 414,
-  "total_views": 116474,
+  "total_videos": 416,
+  "total_views": 116504,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 312,
-      "avg_views": 300,
+      "videos": 314,
+      "avg_views": 298,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 398,
-      "avg_views": 276,
+      "videos": 400,
+      "avg_views": 274,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 328,
-      "avg_views": 238
+      "videos": 330,
+      "avg_views": 237
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4484,7 +4485,7 @@
       "hook": "This fish walks on the seafloor. And its legs do something no leg should.",
       "published_at": "2026-11-14T21:00:00Z",
       "privacy": "public",
-      "views": 255,
+      "views": 253,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8",
@@ -5576,7 +5577,7 @@
       "hook": "Some frogs grow six extra legs. Something wants them to.",
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
-      "views": 971,
+      "views": 972,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0",
@@ -5632,7 +5633,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 973,
+      "views": 974,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk",
@@ -8260,7 +8261,7 @@
       "hook": "They're one day old. Now they have to jump.",
       "published_at": "2026-11-19T04:40:13Z",
       "privacy": "public",
-      "views": 900,
+      "views": 901,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/cXzy_DCv0Rg",
@@ -8820,7 +8821,7 @@
       "hook": "In this pond, something two inches long is drinking the tadpoles.",
       "published_at": "2026-11-21T02:15:13Z",
       "privacy": "public",
-      "views": 221,
+      "views": 223,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg",
@@ -9117,6 +9118,54 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc"
     },
+    "1ZdY68_jeKU": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT39S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Fly Finds Singing Crickets With Ears Half a Millimetre Apart",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "For this cricket, singing is suicide. The killer's a fly.",
+      "published_at": "2026-11-22T20:47:30Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/1ZdY68_jeKU"
+    },
+    "JZ4FPUKiU7s": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Wasp Walls Its Nest Shut With Up to 13 Dead Ants",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This wasp's front door is a pile of ant corpses.",
+      "published_at": "2026-11-22T20:50:22Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/JZ4FPUKiU7s"
+    },
     "34Pjo1b82WY": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -9356,7 +9405,7 @@
       "hook": "The five fastest signals in your body, ranked. Pain doesn't even make the top three.",
       "published_at": "2026-11-22T08:40:08Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wk146qYH8dY"
@@ -9576,7 +9625,7 @@
       "hook": "One of the world's best-selling drug families started with a venomous lizard.",
       "published_at": "2026-11-20T00:00:26Z",
       "privacy": "public",
-      "views": 32,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/nH-9GNDFIFU",
@@ -9660,7 +9709,7 @@
       "hook": "Fishermen kept finding their crab traps torn apart. The thief wasn't a seal.",
       "published_at": "2026-11-20T19:40:10Z",
       "privacy": "public",
-      "views": 967,
+      "views": 972,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2_mV8zrkn8",
@@ -9960,7 +10009,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 943,
+      "views": 956,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo"
@@ -10088,8 +10137,8 @@
       "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
       "published_at": "2026-11-22T19:00:26Z",
       "privacy": "public",
-      "views": 4,
-      "likes": 0,
+      "views": 11,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ"
     },
@@ -10114,7 +10163,7 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Aw7y-aQIuFA"
     },
     "p2Tub0DIkUc": {
@@ -10198,14 +10247,14 @@
       "subscribers_gained": 0
     },
     "M7aCq1QH0Ho": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT33S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10214,11 +10263,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A spider near Lake Victoria craves human blood. It can't pierce your skin.",
-      "published_at": "2026-11-22T20:02:03Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-22T20:30:04Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/M7aCq1QH0Ho"
     },
     "Ns_EX-TGGOM": {
