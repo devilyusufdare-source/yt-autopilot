@@ -59,5 +59,21 @@
   ],
   "thumbnail_text": "IT FLIES INTO FIRES",
   "priority": 7,
-  "first_comment": "Scientists think these beetles cannot breed successfully in unburnt trees at all. Which animal sense would you steal?"
+  "first_comment": "Scientists think these beetles cannot breed successfully in unburnt trees at all. Which animal sense would you steal?",
+  "youtube_id": "Aw7y-aQIuFA",
+  "url": "https://youtube.com/shorts/Aw7y-aQIuFA",
+  "uploaded_at": "2026-11-22T18:35:13+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-22T20:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 32.1,
+  "style": "classic",
+  "kind": "shorts"
 }

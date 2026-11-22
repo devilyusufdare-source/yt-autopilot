@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-22T08:12:22+00:00",
+  "updated_at": "2026-11-22T18:35:16+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 90,
+    "subscribers": 89,
     "channel_views": 107505,
-    "video_count": 411
+    "video_count": 412
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/wk146qYH8dY"
+      "https://youtube.com/shorts/aeYWyH7qqQQ",
+      "https://youtube.com/shorts/Aw7y-aQIuFA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/wk146qYH8dY"
+      "https://youtube.com/shorts/Aw7y-aQIuFA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/wk146qYH8dY"
+      "https://youtube.com/shorts/Aw7y-aQIuFA"
     ]
   },
   "retention": {
@@ -91,12 +92,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 410,
-  "total_views": 115539,
+  "total_videos": 412,
+  "total_views": 116451,
   "by_topic": {
     "psychology": {
       "videos": 6,
-      "avg_views": 135,
+      "avg_views": 137,
       "best_views": 364
     },
     "science": {
@@ -105,13 +106,13 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 308,
-      "avg_views": 301,
+      "videos": 310,
+      "avg_views": 302,
       "best_views": 1507
     },
     "human body": {
       "videos": 10,
-      "avg_views": 378,
+      "avg_views": 380,
       "best_views": 1384
     },
     "history": {
@@ -121,7 +122,7 @@
     },
     "space": {
       "videos": 31,
-      "avg_views": 290,
+      "avg_views": 291,
       "best_views": 1513
     },
     "technology": {
@@ -137,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 394,
-      "avg_views": 276,
+      "videos": 396,
+      "avg_views": 277,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 324,
-      "avg_views": 238
+      "videos": 326,
+      "avg_views": 240
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2019,7 +2020,7 @@
       "hook": "The five longest animals on Earth, ranked. Number one is not a whale.",
       "published_at": "2026-10-26T22:30:34Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vosG2Q9tRXk",
@@ -2075,7 +2076,7 @@
       "hook": "To kill this fly, America breeds a hundred million of them a week.",
       "published_at": "2026-11-04T20:00:23Z",
       "privacy": "public",
-      "views": 40,
+      "views": 42,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/5OGNZTZrY3Q",
@@ -4203,7 +4204,7 @@
       "hook": "This squirrel walks up to rattlesnakes and makes its tail hot. On purpose.",
       "published_at": "2026-11-14T08:40:13Z",
       "privacy": "public",
-      "views": 215,
+      "views": 216,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sYU_YCfGfIQ",
@@ -4371,12 +4372,12 @@
       "hook": "Rattlesnakes have one predator that bites them back. It isn't bigger. It isn't venomous.",
       "published_at": "2026-11-14T20:00:02Z",
       "privacy": "public",
-      "views": 628,
+      "views": 629,
       "likes": 6,
       "comments": 2,
       "url": "https://youtube.com/shorts/7dLQA0mEwz8",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 47.7,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 47.6,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -5576,7 +5577,7 @@
       "published_at": "2026-11-16T01:10:23Z",
       "privacy": "public",
       "views": 971,
-      "likes": 7,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/yQQ84ftFfg0",
       "avg_view_seconds": 34.0,
@@ -5967,7 +5968,7 @@
       "hook": "A kangaroo chased by a dog runs straight for water.",
       "published_at": "2026-11-16T21:50:09Z",
       "privacy": "public",
-      "views": 505,
+      "views": 506,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/43nOUKvyDBI",
@@ -6023,7 +6024,7 @@
       "hook": "When these termites get old, they grow explosive backpacks.",
       "published_at": "2026-11-17T00:00:15Z",
       "privacy": "public",
-      "views": 218,
+      "views": 219,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vDMd15MlBuU",
@@ -6051,7 +6052,7 @@
       "hook": "This caterpillar wears the body parts of dead insects.",
       "published_at": "2026-11-07T21:30:25Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BYOOrvQjLUo",
@@ -6415,7 +6416,7 @@
       "hook": "This animal drinks alcohol at night and stays sober.",
       "published_at": "2026-11-17T02:40:40Z",
       "privacy": "public",
-      "views": 101,
+      "views": 103,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/JbZTIQHiuT0",
@@ -6560,7 +6561,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/00WR-lhcyaY",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 45.6,
+      "avg_view_percent": 45.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6751,7 +6752,7 @@
       "hook": "The loudest bird on Earth weighs half a pound.",
       "published_at": "2026-11-17T21:00:26Z",
       "privacy": "public",
-      "views": 14,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tdDjN5tAZu8",
@@ -7479,12 +7480,12 @@
       "hook": "A turtle stomps the ground, and worms come up to it.",
       "published_at": "2026-11-18T02:40:03Z",
       "privacy": "public",
-      "views": 930,
+      "views": 931,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/Zubwd7G6EI0",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 41.6,
+      "avg_view_percent": 41.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -7507,7 +7508,7 @@
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
       "published_at": "2026-11-18T03:10:17Z",
       "privacy": "public",
-      "views": 168,
+      "views": 174,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg",
@@ -7591,7 +7592,7 @@
       "hook": "Doctors scanned a man's head and found mostly fluid.",
       "published_at": "2026-11-18T20:00:36Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mV5WFa4n8X8",
@@ -7759,7 +7760,7 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 339,
+      "views": 342,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48",
@@ -7787,7 +7788,7 @@
       "hook": "One snake has a lopsided jaw: far more teeth on the right than the left.",
       "published_at": "2026-11-18T09:10:36Z",
       "privacy": "public",
-      "views": 275,
+      "views": 277,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Psr0jYcJg8o",
@@ -7899,7 +7900,7 @@
       "hook": "There's a planet darker than coal, and nobody knows why.",
       "published_at": "2026-11-21T04:30:20Z",
       "privacy": "public",
-      "views": 186,
+      "views": 207,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nxgC5XgtZKk"
@@ -7979,7 +7980,7 @@
       "hook": "Scientists dropped people off a 150-foot tower to find out if fear slows down time.",
       "published_at": "2026-11-22T00:50:23Z",
       "privacy": "public",
-      "views": 31,
+      "views": 45,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Mvn2FYFBrMI"
@@ -8003,7 +8004,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 453,
+      "views": 454,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -8087,7 +8088,7 @@
       "hook": "Some mammals raise their young in four days.",
       "published_at": "2026-11-19T01:00:39Z",
       "privacy": "public",
-      "views": 659,
+      "views": 663,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/DHn0xENEgaY",
@@ -8759,7 +8760,7 @@
       "hook": "Something inside this fish wants it to get eaten.",
       "published_at": "2026-11-20T09:10:17Z",
       "privacy": "public",
-      "views": 469,
+      "views": 521,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM"
@@ -8811,7 +8812,7 @@
       "hook": "In this pond, something two inches long is drinking the tadpoles.",
       "published_at": "2026-11-21T02:15:13Z",
       "privacy": "public",
-      "views": 163,
+      "views": 221,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg"
@@ -8835,7 +8836,7 @@
       "hook": "This bird knocks a gannet out of the sky by grabbing one wing.",
       "published_at": "2026-11-21T02:40:38Z",
       "privacy": "public",
-      "views": 214,
+      "views": 264,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4rnYbMm98E"
@@ -8859,7 +8860,7 @@
       "hook": "The five biggest eyes on Earth. No whale wins. Number one is the size of a football.",
       "published_at": "2026-11-20T20:00:33Z",
       "privacy": "public",
-      "views": 66,
+      "views": 68,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/g-p2zANZcwg"
@@ -8935,7 +8936,7 @@
       "hook": "This fish attacks scuba divers. And swimming up makes it worse.",
       "published_at": "2026-11-21T21:40:19Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/r02FaMyLqps"
@@ -8959,7 +8960,7 @@
       "hook": "A town couldn't sleep all summer. The noise was fish.",
       "published_at": "2026-11-21T22:40:06Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/aUc22oiCadg"
@@ -8983,8 +8984,8 @@
       "hook": "This whale squirts ink like a squid.",
       "published_at": "2026-11-22T00:00:15Z",
       "privacy": "public",
-      "views": 306,
-      "likes": 5,
+      "views": 557,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs"
     },
@@ -9091,7 +9092,7 @@
       "hook": "Science once named a worm. It was an octopus's arm.",
       "published_at": "2026-11-22T00:30:01Z",
       "privacy": "public",
-      "views": 43,
+      "views": 80,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc"
@@ -9171,7 +9172,7 @@
       "hook": "The five most common cells in your body. Your 86 billion brain cells don't even make the list.",
       "published_at": "2026-11-21T09:10:04Z",
       "privacy": "public",
-      "views": 16,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/t0vTFy2UXeE"
@@ -9317,14 +9318,14 @@
       "subscribers_gained": 0
     },
     "wk146qYH8dY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT46S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9333,11 +9334,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five fastest signals in your body, ranked. Pain doesn't even make the top three.",
-      "published_at": "2026-11-22T08:12:11Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-22T08:40:08Z",
+      "privacy": "public",
+      "views": 10,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/wk146qYH8dY"
     },
     "nhVqYFmtGDA": {
@@ -9471,7 +9472,7 @@
       "hook": "Orcas throw themselves onto a beach to catch their dinner.",
       "published_at": "2026-10-29T02:40:02Z",
       "privacy": "public",
-      "views": 144,
+      "views": 146,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/tB1PyAE5HZs",
@@ -9499,7 +9500,7 @@
       "hook": "This eagle weighs about as much as a house cat. Its prey is the size of a child.",
       "published_at": "2026-11-19T21:30:38Z",
       "privacy": "public",
-      "views": 24,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BxI8grmPpI4",
@@ -9639,7 +9640,7 @@
       "hook": "Fishermen kept finding their crab traps torn apart. The thief wasn't a seal.",
       "published_at": "2026-11-20T19:40:10Z",
       "privacy": "public",
-      "views": 923,
+      "views": 967,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2_mV8zrkn8"
@@ -9687,7 +9688,7 @@
       "hook": "Wolves kill foxes. One night near Rome, it went the other way.",
       "published_at": "2026-11-20T22:20:27Z",
       "privacy": "public",
-      "views": 29,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tJd06ONsRyk"
@@ -9711,7 +9712,7 @@
       "hook": "Orcas hunt great whites. But off Iceland, they run from something smaller.",
       "published_at": "2026-11-20T22:50:31Z",
       "privacy": "public",
-      "views": 20,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/F6jrJbuKAWQ"
@@ -9763,7 +9764,7 @@
       "hook": "A fly the size of a grain of rice hunts like a guided missile.",
       "published_at": "2026-11-21T00:00:26Z",
       "privacy": "public",
-      "views": 144,
+      "views": 146,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6RusQeLzNC8"
@@ -9787,7 +9788,7 @@
       "hook": "Chimpanzees nearly emptied a forest of monkeys. It took teamwork.",
       "published_at": "2026-11-21T00:20:14Z",
       "privacy": "public",
-      "views": 908,
+      "views": 941,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16pVAdMJmQ"
@@ -9867,7 +9868,7 @@
       "hook": "Fishermen fear one shark for a strange reason: it might land in the boat.",
       "published_at": "2026-11-21T08:50:03Z",
       "privacy": "public",
-      "views": 712,
+      "views": 839,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/gjWX134b_AU"
@@ -9891,8 +9892,8 @@
       "hook": "A coyote and a badger hunt side by side. Neither one is the prey.",
       "published_at": "2026-11-21T19:00:02Z",
       "privacy": "public",
-      "views": 154,
-      "likes": 1,
+      "views": 226,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY"
     },
@@ -9915,7 +9916,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 930,
+      "views": 943,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo"
@@ -9967,7 +9968,7 @@
       "hook": "One electric eel gives 860 volts. Ten at once is a different story.",
       "published_at": "2026-11-21T20:20:08Z",
       "privacy": "public",
-      "views": 126,
+      "views": 199,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ahNRNMxj9mA"
@@ -10019,10 +10020,58 @@
       "hook": "Cane toads are covered in poison. This rat eats their hearts.",
       "published_at": "2026-11-22T03:40:18Z",
       "privacy": "public",
-      "views": 39,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/COLUcCiSS2c"
+    },
+    "aeYWyH7qqQQ": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT31S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Red Deer on a Scottish Island Bite the Heads Off Seabird Chicks",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
+      "published_at": "2026-11-22T18:33:01Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/aeYWyH7qqQQ"
+    },
+    "Aw7y-aQIuFA": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Beetle Flies Toward Wildfires It May Sense 80 Miles Away",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Every animal runs from a forest fire. One beetle flies straight toward it.",
+      "published_at": "2026-11-22T18:35:07Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Aw7y-aQIuFA"
     },
     "uMujdO5WqYo": {
       "upload_status": "processed",
@@ -10939,7 +10988,7 @@
       "hook": "Some shark pups fight to the death before they are born.",
       "published_at": "2026-10-31T21:10:27Z",
       "privacy": "public",
-      "views": 51,
+      "views": 52,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PXVQE8MFDkM",
