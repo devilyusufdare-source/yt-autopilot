@@ -61,5 +61,21 @@
   ],
   "thumbnail_text": "8.86 SECONDS. THEN FIRE.",
   "priority": 7,
-  "first_comment": "21.50 seconds in 2025, 8.86 in 2026. Would you race it over 100 meters, or over a marathon?"
+  "first_comment": "21.50 seconds in 2025, 8.86 in 2026. Would you race it over 100 meters, or over a marathon?",
+  "youtube_id": "8ZUGSlyxN1g",
+  "url": "https://youtube.com/shorts/8ZUGSlyxN1g",
+  "uploaded_at": "2026-11-22T23:38:08+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-23T00:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 34.1,
+  "style": "classic",
+  "kind": "shorts"
 }
