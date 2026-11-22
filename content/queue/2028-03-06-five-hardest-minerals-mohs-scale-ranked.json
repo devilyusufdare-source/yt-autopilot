@@ -1,0 +1,75 @@
+{
+  "id": "2028-03-06-five-hardest-minerals-mohs-scale-ranked",
+  "format": "ranking",
+  "ranking_by": "Mohs hardness (scratch hardness)",
+  "topic": "science",
+  "subject": "diamond",
+  "title": "The 5 Hardest Minerals, Ranked (#1 Is Four Times Harder Than #2)",
+  "scenes": [
+    {
+      "text": "A ruby is harder than almost anything on Earth. It still only comes second.",
+      "keywords": "ruby gemstone"
+    },
+    {
+      "text": "Number five: orthoclase feldspar. It's a six on the Mohs scale, harder than a steel knife blade.",
+      "keywords": "feldspar mineral",
+      "rank": 5,
+      "label": "Orthoclase · 6 Mohs"
+    },
+    {
+      "text": "Number four: quartz, a seven. It scratches window glass easily.",
+      "keywords": "quartz crystal",
+      "rank": 4,
+      "label": "Quartz · 7 Mohs"
+    },
+    {
+      "text": "Number three: topaz, an eight. It scratches quartz.",
+      "keywords": "topaz gemstone",
+      "rank": 3,
+      "label": "Topaz · 8 Mohs"
+    },
+    {
+      "text": "Number two: corundum, a nine. Rubies are corundum, and it's about twice as hard as topaz.",
+      "keywords": "ruby gemstone",
+      "rank": 2,
+      "label": "Corundum · 9 Mohs"
+    },
+    {
+      "text": "Number one: diamond, a ten. But the scale isn't even. Diamond is almost four times harder than the ruby.",
+      "keywords": "diamond",
+      "rank": 1,
+      "label": "Diamond · 10 Mohs"
+    }
+  ],
+  "description": "The top five of the Mohs scale of mineral hardness, devised by the German mineralogist Friedrich Mohs: orthoclase feldspar (6), quartz (7), topaz (8), corundum (9, the mineral that forms rubies) and diamond (10).\nThe scale only ranks which mineral scratches which. Measured as absolute hardness, quartz is about 100, topaz 200, corundum 400 and diamond about 1,500, so diamond is almost four times as hard as corundum. A knife blade and window glass are about 5.5.\nWhich would you rather own: the ruby or the diamond?",
+  "tags": [
+    "hardest minerals",
+    "mohs scale",
+    "mohs hardness",
+    "diamond",
+    "ruby",
+    "corundum",
+    "topaz",
+    "quartz",
+    "feldspar",
+    "geology facts",
+    "science facts",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#ranking",
+    "#geology"
+  ],
+  "sources": [
+    "https://www.open.edu/openlearn/science-maths-technology/minerals-and-the-crystalline-state/content-section-3.6",
+    "https://www.newworldencyclopedia.org/entry/Mohs_scale_of_mineral_hardness",
+    "https://nature.berkeley.edu/classes/eps2/wisc/L2c3.html"
+  ],
+  "thumbnail_text": "5 HARDEST MINERALS, RANKED",
+  "priority": 5,
+  "first_comment": "The gap between 9 and 10 is bigger than the gap between 1 and 9. Which mineral would you put at number one if diamond didn't exist, and what should we rank next?"
+}
