@@ -1,0 +1,65 @@
+{
+  "id": "2028-02-09-vervet-monkeys-three-alarm-calls-three-killers",
+  "format": "fact",
+  "topic": "animals",
+  "subject": "vervet monkey",
+  "title": "Vervet Monkeys Use 3 Different Alarm Calls for 3 Different Killers",
+  "scenes": [
+    {
+      "text": "One scream sends these monkeys up a tree. Another makes them stare at the ground.",
+      "keywords": "vervet monkey running"
+    },
+    {
+      "text": "Vervet monkeys in Kenya face three big killers: leopards, eagles and pythons.",
+      "keywords": "vervet monkey group"
+    },
+    {
+      "text": "Each killer gets its own alarm call. Leopard call: everyone runs up into the trees.",
+      "keywords": "vervet monkey climbing tree"
+    },
+    {
+      "text": "Eagle call: they look up at the sky and duck into bushes. Snake call: they look down.",
+      "keywords": "vervet monkey looking up"
+    },
+    {
+      "text": "In 1980, scientists hid a speaker and played the calls with no predator around. The monkeys did exactly the same.",
+      "keywords": "vervet monkey alert"
+    },
+    {
+      "text": "So that scream doesn't just mean danger. It names the killer.",
+      "keywords": "vervet monkey calling"
+    }
+  ],
+  "description": "One alarm call sends vervet monkeys up a tree; another makes them stare at the ground.\nIn Amboseli National Park, Kenya, vervets give different alarm calls to leopards, martial eagles and pythons. When Robert Seyfarth, Dorothy Cheney and Peter Marler played recorded alarms from hidden speakers with no predator present (Science, 1980), the monkeys ran into trees for leopard alarms, looked up for eagle alarms and looked down for snake alarms. Infants call at the wrong animals at first and get more precise with age.\nWhich animal do you think has the smartest warning system?",
+  "tags": [
+    "vervet monkey",
+    "alarm calls",
+    "monkey communication",
+    "animal language",
+    "leopard",
+    "martial eagle",
+    "python",
+    "primate facts",
+    "animal intelligence",
+    "africa wildlife",
+    "animal facts",
+    "nature facts",
+    "wildlife",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#monkey",
+    "#wildlife"
+  ],
+  "sources": [
+    "https://stolkarjen.github.io/social-intelligence/readings/Seyfarth80.pdf",
+    "https://carta.anthropogeny.org/node/309603",
+    "https://www.open.edu/openlearn/nature-environment/natural-history/studying-mammals-the-social-climbers/content-section-3.5.2"
+  ],
+  "thumbnail_text": "3 KILLERS. 3 ALARM CALLS.",
+  "priority": 5,
+  "first_comment": "Baby vervets get it wrong at first and sound the eagle alarm at harmless birds. Adults look around before trusting a youngster's call. Smart?"
+}
