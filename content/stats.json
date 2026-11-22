@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-22T20:50:31+00:00",
+  "updated_at": "2026-11-22T21:18:52+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 89,
     "channel_views": 112805,
-    "video_count": 415
+    "video_count": 416
   },
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/1ZdY68_jeKU",
       "https://youtube.com/shorts/JZ4FPUKiU7s",
-      "https://youtube.com/shorts/p2Tub0DIkUc"
+      "https://youtube.com/shorts/TRO7NWyuM5Q"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/JZ4FPUKiU7s"
+      "https://youtube.com/shorts/TRO7NWyuM5Q"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/JZ4FPUKiU7s"
+      "https://youtube.com/shorts/TRO7NWyuM5Q"
     ]
   },
   "retention": {
@@ -93,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 416,
-  "total_views": 116504,
+  "total_videos": 417,
+  "total_views": 116507,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 314,
-      "avg_views": 298,
+      "videos": 315,
+      "avg_views": 297,
       "best_views": 1507
     },
     "human body": {
@@ -139,7 +139,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 400,
+      "videos": 401,
       "avg_views": 274,
       "over_1500": 3
     },
@@ -151,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 330,
-      "avg_views": 237
+      "videos": 331,
+      "avg_views": 236
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -8261,7 +8261,7 @@
       "hook": "They're one day old. Now they have to jump.",
       "published_at": "2026-11-19T04:40:13Z",
       "privacy": "public",
-      "views": 901,
+      "views": 900,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/cXzy_DCv0Rg",
@@ -8737,7 +8737,7 @@
       "hook": "This frog ate her own eggs. Six weeks later, she spat out frogs.",
       "published_at": "2026-11-20T04:30:09Z",
       "privacy": "public",
-      "views": 931,
+      "views": 928,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/BLgz-A_5c6U",
@@ -8849,7 +8849,7 @@
       "hook": "This bird knocks a gannet out of the sky by grabbing one wing.",
       "published_at": "2026-11-21T02:40:38Z",
       "privacy": "public",
-      "views": 264,
+      "views": 265,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4rnYbMm98E",
@@ -9005,7 +9005,7 @@
       "hook": "This whale squirts ink like a squid.",
       "published_at": "2026-11-22T00:00:15Z",
       "privacy": "public",
-      "views": 583,
+      "views": 585,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs"
@@ -9143,14 +9143,14 @@
       "url": "https://youtube.com/shorts/1ZdY68_jeKU"
     },
     "JZ4FPUKiU7s": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9245,6 +9245,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/t0vTFy2UXeE"
+    },
+    "TRO7NWyuM5Q": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Bat With a 1-Meter Wingspan Hunts Birds and Carries Them Home",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Something leaves piles of feathers under one tree. Every night.",
+      "published_at": "2026-11-22T21:18:43Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/TRO7NWyuM5Q"
     },
     "P0lB-d1EO7s": {
       "upload_status": "processed",
@@ -9405,7 +9429,7 @@
       "hook": "The five fastest signals in your body, ranked. Pain doesn't even make the top three.",
       "published_at": "2026-11-22T08:40:08Z",
       "privacy": "public",
-      "views": 11,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wk146qYH8dY"
@@ -9653,7 +9677,7 @@
       "hook": "In Madagascar, birds sleep with a thief perched on their necks.",
       "published_at": "2026-11-20T00:20:27Z",
       "privacy": "public",
-      "views": 200,
+      "views": 195,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3SrTOJVAzMs",
@@ -9961,7 +9985,7 @@
       "hook": "Fishermen fear one shark for a strange reason: it might land in the boat.",
       "published_at": "2026-11-21T08:50:03Z",
       "privacy": "public",
-      "views": 829,
+      "views": 832,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/gjWX134b_AU"
@@ -10061,7 +10085,7 @@
       "hook": "One electric eel gives 860 volts. Ten at once is a different story.",
       "published_at": "2026-11-21T20:20:08Z",
       "privacy": "public",
-      "views": 199,
+      "views": 201,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ahNRNMxj9mA"
@@ -10161,7 +10185,7 @@
       "hook": "Every animal runs from a forest fire. One beetle flies straight toward it.",
       "published_at": "2026-11-22T20:00:38Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Aw7y-aQIuFA"
@@ -10183,11 +10207,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Red kangaroos grow up differently depending on which side of one fence they live.",
-      "published_at": "2026-11-22T19:59:41Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-22T21:00:14Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/p2Tub0DIkUc"
     },
     "uMujdO5WqYo": {
@@ -11689,7 +11713,7 @@
       "hook": "A parrot once looked in a mirror and asked a question.",
       "published_at": "2026-11-02T21:20:22Z",
       "privacy": "public",
-      "views": 13,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/y5-MSH3z9d0",
