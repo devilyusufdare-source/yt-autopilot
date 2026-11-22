@@ -1,0 +1,75 @@
+{
+  "id": "2028-02-20-five-deadliest-pandemics-ranked",
+  "format": "ranking",
+  "ranking_by": "estimated deaths (mainstream estimates; ranges overlap)",
+  "topic": "history",
+  "subject": "old hospital ward",
+  "title": "The 5 Deadliest Pandemics in History, Ranked (1918 Flu Is Only #2)",
+  "scenes": [
+    {
+      "text": "The 1918 flu killed at least 50 million people. It's only number two.",
+      "keywords": "old hospital ward"
+    },
+    {
+      "text": "Number five: COVID-19. About 15 million extra deaths in its first two years alone, the WHO estimates.",
+      "keywords": "COVID-19",
+      "rank": 5,
+      "label": "COVID-19 · ~15M"
+    },
+    {
+      "text": "Number four: HIV and AIDS. About 44 million lives since the 1980s, and the count is still rising.",
+      "keywords": "HIV/AIDS",
+      "rank": 4,
+      "label": "HIV/AIDS · ~44M"
+    },
+    {
+      "text": "Number three: the Plague of Justinian, in the year 541. Estimates run from 25 to 100 million.",
+      "keywords": "Plague of Justinian",
+      "rank": 3,
+      "label": "Plague of Justinian · 25-100M"
+    },
+    {
+      "text": "Number two: the 1918 flu. It infected about one in three people alive.",
+      "keywords": "1918 flu",
+      "rank": 2,
+      "label": "1918 flu · 50-100M"
+    },
+    {
+      "text": "Number one: the Black Death. Europe alone lost up to 50 million people, up to half of everyone, before counting Asia and Africa.",
+      "keywords": "Black Death",
+      "rank": 1,
+      "label": "Black Death · 50M+ in Europe"
+    }
+  ],
+  "description": "History's five deadliest pandemics by estimated deaths. Old tolls are rough and the ranges overlap, so this follows mainstream estimates: Gavi's list of history's deadliest plagues, plus CDC, WHO, UNAIDS and Britannica figures.\nCOVID-19: WHO estimates 14.9 million excess deaths in 2020-2021. HIV/AIDS: 44.2 million deaths since the epidemic began (UNAIDS, range 33.8-61.1 million). Plague of Justinian (from 541): 25-100 million (Britannica; Gavi 30-50 million). 1918 flu: at least 50 million (CDC), up to 100 million; about a third of the world was infected. Black Death (1347-1352): about 25-50 million in Europe, 30-60% of its people; Gavi's worldwide estimate is 75-200 million. Smallpox in the Americas is left out because its toll can't be separated from war and famine.\nWhich of these surprised you most?",
+  "tags": [
+    "deadliest pandemics",
+    "pandemics in history",
+    "black death",
+    "1918 flu",
+    "spanish flu",
+    "plague of justinian",
+    "hiv aids",
+    "covid 19",
+    "history facts",
+    "plague history",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#history",
+    "#ranking",
+    "#pandemic"
+  ],
+  "sources": [
+    "https://www.gavi.org/vaccineswork/historys-seven-deadliest-plagues",
+    "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html",
+    "https://www.unaids.org/en/resources/fact-sheet",
+    "https://ourworldindata.org/historical-pandemics"
+  ],
+  "thumbnail_text": "5 DEADLIEST PANDEMICS, RANKED",
+  "priority": 5,
+  "first_comment": "Estimates for the oldest ones vary a lot. Which would you put at number one, and what should we rank next?"
+}

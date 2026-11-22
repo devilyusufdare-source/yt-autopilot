@@ -1,0 +1,65 @@
+{
+  "id": "2028-02-19-robot-ran-100m-in-8-86-seconds-then-caught-fire",
+  "format": "fact",
+  "topic": "technology",
+  "subject": "humanoid robot",
+  "title": "A Robot Ran 100 Meters in 8.86 Seconds, Then Caught Fire",
+  "scenes": [
+    {
+      "text": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
+      "keywords": "humanoid robot running"
+    },
+    {
+      "text": "One year earlier, the same robot needed 21 and a half seconds.",
+      "keywords": "humanoid robot walking"
+    },
+    {
+      "text": "In August 2026 in Beijing, the humanoid robot Tiangong Ultra ran a semifinal in 8.86 seconds. Bolt's record is 9.58.",
+      "keywords": "running track stadium"
+    },
+    {
+      "text": "That's more than twice as fast in a single year.",
+      "keywords": "humanoid robot legs"
+    },
+    {
+      "text": "Its brakes? A thick mat past the finish line. It slammed in, collapsed, and a small fire broke out in its chest.",
+      "keywords": "robot falling sparks"
+    },
+    {
+      "text": "So yes, a robot beat Bolt. Bolt just never caught fire.",
+      "keywords": "sprinter finish line"
+    }
+  ],
+  "description": "A humanoid robot ran 100 metres faster than Usain Bolt's 9.58-second world record, then crashed into the mat that stops it. By the end of the games the humanoid 100 m record had been lowered again.\nAt the second World Humanoid Robot Games in Beijing in August 2026, Tiangong Ultra (Beijing Humanoid Robot Innovation Center) ran 9.39 seconds in a heat and 8.86 seconds in its semifinal, Reuters reported. At the first games a year earlier it won in 21.50 seconds. After the 8.86 run it struck a thick mat beyond the line, collapsed, and a small fire appeared in its torso. It is not an official world record: World Athletics records are for human athletes.\nHow long until robots race people for real?",
+  "tags": [
+    "humanoid robot",
+    "robot beats usain bolt",
+    "tiangong ultra",
+    "world humanoid robot games",
+    "robot 100m",
+    "usain bolt record",
+    "robot sprint",
+    "fastest robot",
+    "robotics",
+    "technology facts",
+    "tech news",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#robot",
+    "#technology",
+    "#robotics"
+  ],
+  "sources": [
+    "https://www.businessday.co.za/world/2026-08-25-chinas-humanoid-robot-beats-bolts-100m-record-with-886-second-run/",
+    "https://aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing",
+    "https://www.flashscore.com/news/robot-olympics-moves-one-step-closer-after-humanoid-runs-100m-in-9-39s/MFnUilL7/",
+    "https://www.dexerto.com/entertainment/robot-breaks-usain-bolts-100m-world-record-before-massive-crash-into-wall-3401400/",
+    "https://abcnews.com/Business/wireStory/robot-sprinter-shatters-100-meter-record-sparks-fly-135981006"
+  ],
+  "thumbnail_text": "8.86 SECONDS. THEN FIRE.",
+  "priority": 7,
+  "first_comment": "21.50 seconds in 2025, 8.86 in 2026. Would you race it over 100 meters, or over a marathon?"
+}

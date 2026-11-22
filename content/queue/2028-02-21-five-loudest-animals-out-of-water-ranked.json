@@ -1,0 +1,76 @@
+{
+  "id": "2028-02-21-five-loudest-animals-out-of-water-ranked",
+  "format": "ranking",
+  "ranking_by": "peak decibels measured in air",
+  "topic": "animals",
+  "subject": "northern elephant seal",
+  "title": "The 5 Loudest Animals Out of Water, Ranked (The Lion Misses Out)",
+  "scenes": [
+    {
+      "text": "A lion's roar hits 114 decibels. It doesn't even make the top five.",
+      "keywords": "lion roaring"
+    },
+    {
+      "text": "Number five: the hippo. Some of its calls have been measured at 115 decibels.",
+      "keywords": "hippopotamus",
+      "rank": 5,
+      "label": "Hippo · 115 dB"
+    },
+    {
+      "text": "Number four: the screaming piha, a bird from the Amazon rainforest, at 116.",
+      "keywords": "screaming piha",
+      "rank": 4,
+      "label": "Screaming piha · 116 dB"
+    },
+    {
+      "text": "Number three: the African elephant. Its rumbles reach 117 decibels, as loud as construction tools.",
+      "keywords": "african elephant",
+      "rank": 3,
+      "label": "African elephant · 117 dB"
+    },
+    {
+      "text": "Number two: the white bellbird, at 125. The male screams it right into a female's face.",
+      "keywords": "white bellbird",
+      "rank": 2,
+      "label": "White bellbird · 125 dB"
+    },
+    {
+      "text": "Number one: the northern elephant seal. Males bellow at up to 131 decibels. So the loudest elephant isn't an elephant.",
+      "keywords": "northern elephant seal",
+      "rank": 1,
+      "label": "Northern elephant seal · 131 dB"
+    }
+  ],
+  "description": "The five loudest animal calls measured in air: hippo (115 dB), screaming piha (116 dB), African elephant (117 dB), white bellbird (125 dB) and northern elephant seal (131 dB peak, measured 1 m from adult males on a breeding beach). The lion's roar is about 114 dB.\nUnderwater decibels use a different scale, so sperm whales and snapping shrimp are left out. Bulldog bats are often quoted at 140 dB, but that was measured 10 cm from the mouth, in ultrasound we can't hear. Measuring distances vary between studies, so close calls are approximate.\nWhich animal did you expect at number one?",
+  "tags": [
+    "loudest animals",
+    "loudest animal in the world",
+    "northern elephant seal",
+    "white bellbird",
+    "loudest bird",
+    "screaming piha",
+    "african elephant",
+    "hippo sounds",
+    "lion roar",
+    "animal sounds",
+    "animal facts",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#ranking",
+    "#wildlife"
+  ],
+  "sources": [
+    "https://acousti.ca/ja/node/57996",
+    "https://www.nationalgeographic.com/animals/article/this-is-loudest-bird-on-earth",
+    "https://www.ifaw.org/journal/loudest-animals-on-earth",
+    "https://www.livescience.com/animals/32-of-the-loudest-animals-on-earth"
+  ],
+  "thumbnail_text": "5 LOUDEST ANIMALS, RANKED",
+  "priority": 5,
+  "first_comment": "Two elephants, and the louder one is a seal. Which animal would you put at number one, and what should we rank next?"
+}
