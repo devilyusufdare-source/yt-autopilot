@@ -1,0 +1,62 @@
+{
+  "id": "2027-10-22-what-if-you-never-opened-a-window",
+  "format": "whatif",
+  "topic": "earth",
+  "subject": "indoor carbon dioxide",
+  "title": "What If You Never Opened a Window?",
+  "scenes": [
+    {
+      "text": "What if you never opened a window? The oxygen wouldn't run out. Your breath would pile up.",
+      "keywords": "closed window bedroom night"
+    },
+    {
+      "text": "Outdoor air holds about 425 parts per million of carbon dioxide. Every breath adds more to the room.",
+      "keywords": "person breathing cold air"
+    },
+    {
+      "text": "In a closed bedroom overnight, carbon dioxide can climb past 2,000 by morning, and in some rooms past 3,000.",
+      "keywords": "person sleeping dark bedroom"
+    },
+    {
+      "text": "At about 950, office workers in a Harvard study scored 15 percent lower on decision-making tests than in well-ventilated air.",
+      "keywords": "office worker tired desk"
+    },
+    {
+      "text": "At about 1,400, their scores were 50 percent lower. The air looked and felt exactly the same.",
+      "keywords": "stuffy office meeting room"
+    },
+    {
+      "text": "Danish researchers found people slept better and tested better next morning with the window open. The fog was their breath.",
+      "keywords": "open window curtains breeze"
+    }
+  ],
+  "description": "What if you never opened a window? Outdoor air holds about 425 ppm of carbon dioxide, but closed bedrooms have been measured at 2,000 to 3,000 ppm and more by morning.\nIn a Harvard study, cognitive scores were about 15% lower at 945 ppm and 50% lower at 1,400 ppm, and a Danish study found people slept and performed better with the window open.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "open window",
+    "carbon dioxide",
+    "CO2 indoors",
+    "indoor air quality",
+    "stuffy room",
+    "sleep science",
+    "brain fog",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#airquality",
+    "#sciencefacts"
+  ],
+  "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4892924",
+    "https://www.ashrae.org/news/ashraejournal/using-indoor-air-quality-tactics-to-sleep-better-at-night-perform-well-the-next-day",
+    "https://www.nzmj.org.nz/journal/vol-139-no-1637/stuffy-nights-elevated-bedroom-carbon-dioxide-concentrations-indicate-inadequate-ventilation-in-wellington-homes",
+    "https://dtu.dk/english/newsarchive/2023/05/ventilate-your-bedroom-at-night-you-perform-better-the-next-day"
+  ],
+  "thumbnail_text": "WHAT IF YOU NEVER OPENED A WINDOW",
+  "priority": 7,
+  "first_comment": "In one study, leaving the bedroom door open but the window shut made no measurable difference to sleep. Window open or shut at night? And what should we run through next?"
+}

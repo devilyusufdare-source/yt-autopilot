@@ -1,0 +1,61 @@
+{
+  "id": "2027-10-24-what-if-you-never-unplugged-anything",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "standby power",
+  "title": "What If You Never Unplugged Anything?",
+  "scenes": [
+    {
+      "text": "What if you never unplugged anything? Most homes already live like this. They just never see the bill.",
+      "keywords": "power strip many plugs"
+    },
+    {
+      "text": "Your TV, modem, game console and microwave clock keep drawing power when they're off, 24 hours a day.",
+      "keywords": "tv standby red light"
+    },
+    {
+      "text": "Across 70,000 California homes, that idle draw averaged 164 watts per home, all day, every day.",
+      "keywords": "electricity meter spinning"
+    },
+    {
+      "text": "That was nearly a quarter of each home's electricity, used by things nobody was using.",
+      "keywords": "living room devices dark"
+    },
+    {
+      "text": "It added up to about 165 dollars a year per home, and up to 440 dollars on high electricity rates.",
+      "keywords": "electricity bill money"
+    },
+    {
+      "text": "Across America, about 19 billion dollars a year. The output of roughly 50 large power plants, just to keep things asleep.",
+      "keywords": "power plant smoke stacks"
+    }
+  ],
+  "description": "What if you never unplugged anything? An NRDC study of 70,000 northern California homes found always-on devices drew an average of 164 watts, nearly a quarter of household electricity.\nThat idle load costs about $165 a year per home, up to $440 on high rates, and about $19 billion a year across the US, the output of 50 large power plants.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "standby power",
+    "vampire power",
+    "phantom load",
+    "electricity bill",
+    "unplug devices",
+    "energy saving",
+    "technology facts",
+    "what would happen",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#technology",
+    "#energy"
+  ],
+  "sources": [
+    "https://www.nrdc.org/press-releases/always-inactive-devices-may-devour-19-billion-worth-electricity-annually",
+    "https://www.nationalgeographic.com/science/article/150507-home-energy-hogs-vampires-use-electricity-idle-loads",
+    "https://www2.lbl.gov/Science-Articles/Archive/leaking-watts.html"
+  ],
+  "thumbnail_text": "WHAT IF YOU NEVER UNPLUGGED?",
+  "priority": 0,
+  "first_comment": "In that study the average home had 65 devices plugged in. How many are in your room right now? And what should we run through next?"
+}
