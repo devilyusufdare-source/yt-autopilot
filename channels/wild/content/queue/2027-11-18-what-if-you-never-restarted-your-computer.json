@@ -1,0 +1,62 @@
+{
+  "id": "2027-11-18-what-if-you-never-restarted-your-computer",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "software clocks, counters and why rebooting works",
+  "title": "What If You Never Restarted Your Computer?",
+  "scenes": [
+    {
+      "text": "What if you never restarted your computer? Its clock, not its hardware, would betray you first.",
+      "keywords": "computer screen glowing in dark room"
+    },
+    {
+      "text": "Over days, leaky programs hold on to memory they never give back, and everything slows.",
+      "keywords": "slow loading spinner on screen"
+    },
+    {
+      "text": "After forty-nine point seven days, some old Windows ninety-five machines simply froze. A millisecond counter ran out of room.",
+      "keywords": "old windows 95 computer"
+    },
+    {
+      "text": "After a hundred hours, one missile-defence computer ran a third of a second slow, aiming about seven hundred metres off.",
+      "keywords": "radar dish military"
+    },
+    {
+      "text": "A Boeing seven eight seven powered for two hundred forty-eight days straight could lose all electrical power.",
+      "keywords": "boeing 787 cockpit"
+    },
+    {
+      "text": "So the oldest tech-support advice is real engineering. Turning it off and on again sets the clock back to zero.",
+      "keywords": "finger pressing power button"
+    }
+  ],
+  "description": "What if you never restarted your computer? Some Windows 95 and 98 systems stopped responding after exactly 49.7 days of continuous running, and a 2015 FAA directive warned that a Boeing 787 left powered for 248 days could lose all AC power because a software counter overflowed.\nThe US GAO found a Patriot battery's clock had drifted about 0.34 seconds after 100 hours, shifting its tracking gate by about 687 metres; rebooting reset it.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "restart computer",
+    "reboot",
+    "turn it off and on again",
+    "software bug",
+    "windows 95",
+    "boeing 787",
+    "patriot missile",
+    "technology facts",
+    "computer facts",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#technology",
+    "#sciencefacts"
+  ],
+  "sources": [
+    "https://www.federalregister.gov/documents/2015/05/01/2015-10066/airworthiness-directives-the-boeing-company-airplanes",
+    "https://www.globalsecurity.org/space/library/report/gao/im92026.htm",
+    "https://www.linuxtoday.com/news/microsoft-confirms-windows-may-crash-after-49-7-days/"
+  ],
+  "thumbnail_text": "WHAT IF YOU NEVER REBOOTED?",
+  "priority": 6,
+  "first_comment": "How long has your computer been on right now? What everyday thing should we never switch off next?"
+}
