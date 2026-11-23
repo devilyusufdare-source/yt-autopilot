@@ -1,0 +1,27 @@
+{
+  "id": "2028-04-13-five-animals-that-hear-highest-sounds-ranked",
+  "format": "ranking",
+  "ranking_by": "highest sound frequency the animal can hear",
+  "topic": "animals",
+  "subject": "animal ears",
+  "title": "The 5 Animals That Hear the Highest Sounds, Ranked (#1 Isn't a Bat)",
+  "scenes": [
+    {"text": "You top out around 20,000 hertz. Bats don't even win this one.", "keywords": "bat flying night"},
+    {"text": "Number five: the house mouse. About 91,000 hertz, more than four times your limit.", "keywords": "house mouse", "rank": 5, "label": "House mouse · 91,000 Hz"},
+    {"text": "Number four: the beluga whale. About 123,000 hertz, hearing its own echoes under Arctic ice.", "keywords": "beluga whale", "rank": 4, "label": "Beluga · 123,000 Hz"},
+    {"text": "Number three: the porpoise. Up to about 150,000 hertz, more than three times a dog.", "keywords": "harbor porpoise", "rank": 3, "label": "Porpoise · 150,000 Hz"},
+    {"text": "Number two: bats. Some species call and hear up to about 212,000 hertz.", "keywords": "bat flying", "rank": 2, "label": "Bats · 212,000 Hz"},
+    {"text": "Number one: the greater wax moth. 300,000 hertz, higher than any bat that hunts it.", "keywords": "wax moth", "rank": 1, "label": "Wax moth · 300,000 Hz"}
+  ],
+  "description": "The highest sound frequencies these animals are known to hear: house mouse about 91,000 hertz, beluga whale about 123,000, porpoise about 150,000, some bats up to about 212,000, and the greater wax moth up to 300,000 hertz, the highest ever measured in an animal.\nHumans hear up to about 20,000 hertz at best, and dogs about 45,000. Hearing tests differ between studies, so treat the middle of the list as approximate.\nWhy do you think a moth would need ears that beat every bat?",
+  "tags": ["animal hearing", "highest frequency hearing", "greater wax moth", "bat echolocation", "beluga whale", "porpoise", "house mouse", "ultrasound", "animal facts", "animals ranked", "top 5 ranking", "shorts facts"],
+  "hashtags": ["#shorts", "#animals", "#ranking", "#nature"],
+  "sources": [
+    "https://www.lsu.edu/deafness/HearingRange.html",
+    "https://www.scientificamerican.com/article/moth-smashes-ultrasound-hearing-record/",
+    "https://www.sciencedaily.com/releases/2013/05/130508092830.htm"
+  ],
+  "thumbnail_text": "5 BEST EARS ON EARTH, RANKED",
+  "priority": 6,
+  "first_comment": "Which animal would you have put at number one? And what animal sense should we rank next?"
+}

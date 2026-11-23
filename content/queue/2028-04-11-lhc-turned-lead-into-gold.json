@@ -1,0 +1,62 @@
+{
+  "id": "2028-04-11-lhc-turned-lead-into-gold",
+  "format": "fact",
+  "topic": "science",
+  "subject": "Large Hadron Collider",
+  "title": "Physicists Finally Turned Lead Into Gold. It Lasted a Microsecond",
+  "scenes": [
+    {
+      "text": "Alchemists failed for centuries. Physicists finally turned lead into gold.",
+      "keywords": "molten gold pouring"
+    },
+    {
+      "text": "It happened inside the Large Hadron Collider, a 27-kilometer ring under France and Switzerland.",
+      "keywords": "large hadron collider tunnel"
+    },
+    {
+      "text": "Lead nuclei race past each other at almost the speed of light, without even touching.",
+      "keywords": "particle accelerator beam"
+    },
+    {
+      "text": "Their electric fields can knock out three protons. Lead minus three protons is gold.",
+      "keywords": "lead metal block"
+    },
+    {
+      "text": "From 2015 to 2018, that made about 86 billion gold atoms.",
+      "keywords": "gold bars stack"
+    },
+    {
+      "text": "Total weight: 29 trillionths of a gram. And each atom fell apart in about a millionth of a second.",
+      "keywords": "gold dust sparkle"
+    }
+  ],
+  "description": "In 2025, CERN's ALICE experiment reported measuring lead turning into gold at the Large Hadron Collider.\nWhen lead nuclei narrowly miss each other, their electromagnetic fields can knock out three protons, turning lead (82 protons) into gold (79 protons).\nAcross the LHC's 2015 to 2018 run, about 86 billion gold nuclei were made, about 29 picograms in total, and most lasted around a microsecond.\nIf you could make real gold this way, would it ever be worth the cost?",
+  "tags": [
+    "lead into gold",
+    "alchemy",
+    "large hadron collider",
+    "cern",
+    "alice experiment",
+    "particle physics",
+    "gold atoms",
+    "nuclear physics",
+    "science facts",
+    "physics facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#physics",
+    "#cern"
+  ],
+  "sources": [
+    "https://home.cern/alice-detects-conversion-lead-gold-lhc/",
+    "https://www.scientificamerican.com/article/large-hadron-collider-physicists-turn-lead-into-gold-for-a-fraction-of-a/",
+    "https://www.space.com/astronomy/modern-day-alchemy-scientists-turn-lead-into-gold-at-the-large-hadron-collider"
+  ],
+  "thumbnail_text": "LEAD INTO GOLD. FOR REAL.",
+  "priority": 7,
+  "first_comment": "At its peak, the collider was making about 89,000 gold nuclei every second, and it still added up to almost nothing. How long do you think it would take to make one gold ring?"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2028-04-12-five-fastest-apps-to-100-million-users-ranked",
+  "format": "ranking",
+  "ranking_by": "time to reach 100 million users",
+  "topic": "technology",
+  "subject": "smartphone apps",
+  "title": "The 5 Fastest Apps to 100 Million Users, Ranked (#1 Took 5 Days)",
+  "scenes": [
+    {"text": "ChatGPT's growth shocked the whole tech world. It's only number two.", "keywords": "phone apps scrolling"},
+    {"text": "Number five: Instagram. About two and a half years to reach 100 million users.", "keywords": "Instagram app", "rank": 5, "label": "Instagram · 2.5 years"},
+    {"text": "Number four: WeChat. About fourteen months for China's messaging app that does almost everything.", "keywords": "WeChat app", "rank": 4, "label": "WeChat · 14 months"},
+    {"text": "Number three: TikTok. Just nine months after its global launch, from zero to 100 million.", "keywords": "TikTok app", "rank": 3, "label": "TikTok · 9 months"},
+    {"text": "Number two: ChatGPT. Two months, a record that lasted only about half a year.", "keywords": "ChatGPT", "rank": 2, "label": "ChatGPT · 2 months"},
+    {"text": "Number one: Threads. 100 million sign-ups in five days, riding on Instagram accounts.", "keywords": "Threads app", "rank": 1, "label": "Threads · 5 days"}
+  ],
+  "description": "How long popular apps took to reach 100 million users: Instagram about 2.5 years (counts range from 2 years 4 months to 2 years 6 months), WeChat about 14 months, TikTok 9 months after its global launch, ChatGPT 2 months, Threads 5 days.\nThreads counted sign-ups, helped by one-tap Instagram logins, while ChatGPT's figure was an estimate of monthly active users by UBS analysts.\nWhich of these do you think will still be around in twenty years?",
+  "tags": ["fastest growing apps", "100 million users", "threads app", "chatgpt", "tiktok", "instagram", "wechat", "tech records", "technology ranked", "top 5 ranking", "mind blowing facts", "shorts facts"],
+  "hashtags": ["#shorts", "#technology", "#ranking", "#apps"],
+  "sources": [
+    "https://www.visualcapitalist.com/threads-100-million-users",
+    "https://deccanherald.com/technology/threads-to-twitter-how-long-it-took-for-popular-apps-to-reach-100-million-users-1235877-1975958",
+    "https://technode.com/2012/03/29/breaking-pony-ma-confirms-that-tencents-weixin-has-reached-100-million-users/"
+  ],
+  "thumbnail_text": "5 FASTEST APPS, RANKED",
+  "priority": 6,
+  "first_comment": "Which app would you have put at number one? And what tech record should we rank next?"
+}
