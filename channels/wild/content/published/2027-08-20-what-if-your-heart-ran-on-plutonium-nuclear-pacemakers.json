@@ -56,5 +56,21 @@
   ],
   "thumbnail_text": "WHAT IF HEARTS RAN ON PLUTONIUM?",
   "priority": 7,
-  "first_comment": "The titanium capsule was built to survive a gunshot and a cremation furnace. Would you accept a power source that outlives you inside your chest?"
+  "first_comment": "The titanium capsule was built to survive a gunshot and a cremation furnace. Would you accept a power source that outlives you inside your chest?",
+  "youtube_id": "OpmJ3yfz1lc",
+  "url": "https://youtube.com/shorts/OpmJ3yfz1lc",
+  "uploaded_at": "2026-11-23T22:59:40+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-23T23:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 18,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 53.3,
+  "style": "classic",
+  "kind": "shorts"
 }

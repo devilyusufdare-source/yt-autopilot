@@ -1,38 +1,39 @@
 {
-  "updated_at": "2026-11-23T11:21:38+00:00",
+  "updated_at": "2026-11-23T22:59:42+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 22,
     "channel_views": 17722,
-    "video_count": 137
+    "video_count": 138
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/FdfnsKuwHF4"
+      "https://youtube.com/shorts/uA4BiNGtBCI",
+      "https://youtube.com/shorts/OpmJ3yfz1lc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/FdfnsKuwHF4"
+      "https://youtube.com/shorts/OpmJ3yfz1lc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/FdfnsKuwHF4"
+      "https://youtube.com/shorts/OpmJ3yfz1lc"
     ]
   },
   "retention": {
-    "videos_with_data": 121,
-    "avg_view_percent": 55.3,
+    "videos_with_data": 125,
+    "avg_view_percent": 55.4,
     "by_topic": {
-      "earth": 68.5,
-      "space": 58.9,
-      "society": 41.6,
-      "animals": 49.1,
-      "body": 48.1,
-      "technology": 59.6
+      "earth": 68.8,
+      "space": 59.0,
+      "society": 45.6,
+      "animals": 48.7,
+      "body": 47.8,
+      "technology": 59.4
     },
     "best": [
       {
@@ -58,7 +59,7 @@
       {
         "title": "What If You Were Frozen After Death? About 200 People Are Waiting in Arizona",
         "avg_view_percent": 98.7,
-        "views": 45
+        "views": 48
       }
     ],
     "worst": [
@@ -73,11 +74,6 @@
         "views": 10
       },
       {
-        "title": "What If Someone Sold the Eiffel Tower for Scrap? In 1925 a Con Man Did",
-        "avg_view_percent": 11.7,
-        "views": 7
-      },
-      {
         "title": "What If You Could Smell a Disease Years Before Doctors Found It? One Woman Can",
         "avg_view_percent": 11.8,
         "views": 3
@@ -86,17 +82,22 @@
         "title": "What If You Swam in a Pool on the Moon? You Could Leap Like a Dolphin",
         "avg_view_percent": 13.7,
         "views": 7
+      },
+      {
+        "title": "What If a Computer Said Five Nukes Were Coming? In 1983 One Did",
+        "avg_view_percent": 14.0,
+        "views": 8
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 138,
-  "total_views": 19365,
+  "total_videos": 140,
+  "total_views": 19637,
   "by_topic": {
     "earth": {
       "videos": 15,
-      "avg_views": 315,
-      "best_views": 1169
+      "avg_views": 316,
+      "best_views": 1170
     },
     "space": {
       "videos": 45,
@@ -110,30 +111,30 @@
     },
     "animals": {
       "videos": 15,
-      "avg_views": 261,
+      "avg_views": 263,
       "best_views": 1428
     },
     "body": {
-      "videos": 32,
-      "avg_views": 74,
+      "videos": 33,
+      "avg_views": 78,
       "best_views": 654
     },
     "technology": {
-      "videos": 20,
-      "avg_views": 94,
+      "videos": 21,
+      "avg_views": 90,
       "best_views": 1047
     }
   },
   "by_style": {
     "classic": {
-      "videos": 138,
+      "videos": 140,
       "avg_views": 140,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 137,
+      "videos": 139,
       "avg_views": 134
     },
     "en-US-EricNeural": {
@@ -157,13 +158,13 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1169,
+      "views": 1170,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
       "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
       "topic": "animals",
-      "views": 1122,
+      "views": 1158,
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
@@ -197,10 +198,10 @@
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do."
     },
     {
-      "title": "What If You Fell Into Lava? You Wouldn't Sink, and That's the Problem",
-      "topic": "earth",
-      "views": 566,
-      "hook": "What if you fell into lava? You wouldn't sink. That's the bad news."
+      "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
+      "topic": "body",
+      "views": 572,
+      "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
     }
   ],
   "videos": {
@@ -1007,12 +1008,12 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1169,
+      "views": 1170,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 79.5,
+      "avg_view_percent": 80.0,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1180,8 +1181,8 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 61.6,
-      "shares": 0,
+      "avg_view_percent": 61.2,
+      "shares": 1,
       "subscribers_gained": 0
     },
     "haGtgFdSl9I": {
@@ -1431,8 +1432,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE",
-      "avg_view_seconds": 22.0,
-      "avg_view_percent": 52.0,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 50.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1515,8 +1516,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/k18Z1hNkZYU",
-      "avg_view_seconds": 16.0,
-      "avg_view_percent": 40.1,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 37.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1651,7 +1652,7 @@
       "hook": "What if you were frozen after death, to be woken later? About 200 people already are, in Arizona.",
       "published_at": "2026-11-13T07:40:15Z",
       "privacy": "public",
-      "views": 45,
+      "views": 48,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/kY4T69sD7NE",
@@ -1852,7 +1853,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 51.8,
+      "avg_view_percent": 51.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1935,8 +1936,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Wvmq2CtLbiw",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 33.0,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 44.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2379,7 +2380,7 @@
       "hook": "What if every spider in a valley fled a flood at once? Australia found out in 2012.",
       "published_at": "2026-11-10T02:40:25Z",
       "privacy": "public",
-      "views": 50,
+      "views": 51,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/PUuUwav27oM",
@@ -2883,12 +2884,12 @@
       "hook": "What if Apollo 11 had failed? The speech for that night was already typed.",
       "published_at": "2026-11-18T22:50:38Z",
       "privacy": "public",
-      "views": 39,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMuek63kT5Q",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 33.6,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 32.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3055,8 +3056,8 @@
       "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/7FmBRVPMpZE",
-      "avg_view_seconds": 25.0,
-      "avg_view_percent": 55.7,
+      "avg_view_seconds": 22.0,
+      "avg_view_percent": 49.7,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -3107,12 +3108,12 @@
       "hook": "What if someone cut down the oldest tree on Earth? In 1964, someone did. With permission.",
       "published_at": "2026-11-19T23:00:31Z",
       "privacy": "public",
-      "views": 108,
+      "views": 109,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DASKI3gIAMo",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 32.9,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 35.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3251,8 +3252,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4M2mpzTtAI",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 33.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3279,8 +3280,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9mOlLy7_d8o",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 35.8,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 33.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3307,8 +3308,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TF0v6IOVgfU",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 64.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3363,8 +3364,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/LCu9Sugf1gQ",
-      "avg_view_seconds": 4.0,
-      "avg_view_percent": 11.7,
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 55.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3387,10 +3388,14 @@
       "hook": "What if a particle beam went straight through your head? In 1978, it happened to a physicist.",
       "published_at": "2026-11-21T10:40:28Z",
       "privacy": "public",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/GA_mNTqtArc"
+      "url": "https://youtube.com/shorts/GA_mNTqtArc",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "7DUibZ-ZGZw": {
       "upload_status": "processed",
@@ -3439,10 +3444,14 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1122,
+      "views": 1158,
       "likes": 21,
       "comments": 1,
-      "url": "https://youtube.com/shorts/hAffA8OTw7w"
+      "url": "https://youtube.com/shorts/hAffA8OTw7w",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 53.6,
+      "shares": 0,
+      "subscribers_gained": 2
     },
     "NsXb-qULx0Y": {
       "upload_status": "processed",
@@ -3466,7 +3475,11 @@
       "views": 0,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/NsXb-qULx0Y"
+      "url": "https://youtube.com/shorts/NsXb-qULx0Y",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "NNxxSa4E8DY": {
       "upload_status": "processed",
@@ -3492,7 +3505,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/NNxxSa4E8DY",
       "avg_view_seconds": 17.0,
-      "avg_view_percent": 42.3,
+      "avg_view_percent": 41.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3518,7 +3531,11 @@
       "views": 48,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/7iq_bEhNqMU"
+      "url": "https://youtube.com/shorts/7iq_bEhNqMU",
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 29.2,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "JGgtBD3I01M": {
       "upload_status": "processed",
@@ -3542,7 +3559,11 @@
       "views": 11,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/JGgtBD3I01M"
+      "url": "https://youtube.com/shorts/JGgtBD3I01M",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "TBPED4Lvws0": {
       "upload_status": "processed",
@@ -3643,7 +3664,7 @@
       "hook": "What if you binned a hard drive worth hundreds of millions of dollars? In 2013, it happened.",
       "published_at": "2026-11-22T19:10:34Z",
       "privacy": "public",
-      "views": 19,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/boMYdIENFW4"
@@ -3751,8 +3772,8 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 365,
-      "likes": 6,
+      "views": 572,
+      "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc"
     },
@@ -3775,7 +3796,7 @@
       "hook": "What if a plane took off and didn't land for two months? One did. It was tiny.",
       "published_at": "2026-11-22T21:20:12Z",
       "privacy": "public",
-      "views": 23,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/XEtNh6GXHWY"
@@ -3879,7 +3900,7 @@
       "hook": "What if a disease could be wiped out with no vaccine and no drug? One nearly was.",
       "published_at": "2026-11-23T08:40:05Z",
       "privacy": "public",
-      "views": 2,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ENjWrNbpz4"
@@ -3987,7 +4008,7 @@
       "hook": "What if you closed your eyes and could picture nothing at all? Millions can't, and never knew.",
       "published_at": "2026-11-17T23:40:02Z",
       "privacy": "public",
-      "views": 49,
+      "views": 50,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/AzRKI-WYycw",
@@ -3997,6 +4018,54 @@
       "subscribers_gained": 0
     },
     "FdfnsKuwHF4": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT50S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Pointed a Telescope at Nothing for 10 Days? Hubble Did in 1995",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you aimed the best telescope ever built at nothing, for ten days? In 1995, someone did.",
+      "published_at": "2026-11-23T11:50:08Z",
+      "privacy": "public",
+      "views": 6,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/FdfnsKuwHF4"
+    },
+    "uA4BiNGtBCI": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT44S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Could Grow a Third Set of Teeth? Japan Is Testing a Drug",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
+      "published_at": "2026-11-23T22:57:57Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/uA4BiNGtBCI"
+    },
+    "OpmJ3yfz1lc": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -4008,17 +4077,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Pointed a Telescope at Nothing for 10 Days? Hubble Did in 1995",
-      "topic": "space",
+      "title": "What If Your Heart Ran on Plutonium? In the 1970s, Thousands Did",
+      "topic": "technology",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you aimed the best telescope ever built at nothing, for ten days? In 1995, someone did.",
-      "published_at": "2026-11-23T11:21:35Z",
+      "hook": "What if the device keeping your heart beating ran on plutonium? For thousands of people, it did.",
+      "published_at": "2026-11-23T22:59:36Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/FdfnsKuwHF4"
+      "url": "https://youtube.com/shorts/OpmJ3yfz1lc"
     }
   }
 }
