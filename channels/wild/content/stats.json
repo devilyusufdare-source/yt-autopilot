@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-22T20:54:32+00:00",
+  "updated_at": "2026-11-23T00:22:28+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 21,
+    "subscribers": 22,
     "channel_views": 17710,
-    "video_count": 133
+    "video_count": 135
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/rnrf8cSlOmc",
-      "https://youtube.com/shorts/XEtNh6GXHWY"
+      "https://youtube.com/shorts/ZXSQJcWswoE"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/XEtNh6GXHWY"
+      "https://youtube.com/shorts/ZXSQJcWswoE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/XEtNh6GXHWY"
+      "https://youtube.com/shorts/ZXSQJcWswoE"
     ]
   },
   "retention": {
@@ -91,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 135,
-  "total_views": 18900,
+  "total_videos": 136,
+  "total_views": 19104,
   "by_topic": {
     "earth": {
       "videos": 15,
@@ -106,36 +105,36 @@
     },
     "society": {
       "videos": 11,
-      "avg_views": 78,
+      "avg_views": 76,
       "best_views": 414
     },
     "animals": {
       "videos": 15,
-      "avg_views": 259,
+      "avg_views": 260,
       "best_views": 1428
     },
     "body": {
       "videos": 31,
-      "avg_views": 64,
+      "avg_views": 70,
       "best_views": 654
     },
     "technology": {
-      "videos": 19,
-      "avg_views": 95,
+      "videos": 20,
+      "avg_views": 91,
       "best_views": 1047
     }
   },
   "by_style": {
     "classic": {
-      "videos": 135,
+      "videos": 136,
       "avg_views": 140,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 134,
-      "avg_views": 133
+      "videos": 135,
+      "avg_views": 134
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -162,16 +161,16 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
+      "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
+      "topic": "animals",
+      "views": 1108,
+      "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
+    },
+    {
       "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
       "topic": "space",
       "views": 1096,
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes."
-    },
-    {
-      "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
-      "topic": "animals",
-      "views": 1092,
-      "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
       "title": "What If We Launched Our Nuclear Waste Into the Sun?",
@@ -1541,7 +1540,7 @@
       "published_at": "2026-11-06T14:40:14Z",
       "privacy": "public",
       "views": 107,
-      "likes": 3,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/r3cUPK9Raeo",
       "avg_view_seconds": 38.0,
@@ -2884,7 +2883,7 @@
       "hook": "What if Apollo 11 had failed? The speech for that night was already typed.",
       "published_at": "2026-11-18T22:50:38Z",
       "privacy": "public",
-      "views": 38,
+      "views": 39,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMuek63kT5Q",
@@ -3052,7 +3051,7 @@
       "hook": "What if you bred only the friendliest foxes? In Siberia, they started to look like dogs.",
       "published_at": "2026-11-19T21:00:05Z",
       "privacy": "public",
-      "views": 90,
+      "views": 86,
       "likes": 1,
       "comments": 2,
       "url": "https://youtube.com/shorts/7FmBRVPMpZE",
@@ -3080,7 +3079,7 @@
       "hook": "What if someone stole the Mona Lisa? In 1911, a man simply carried it out.",
       "published_at": "2026-11-19T22:10:35Z",
       "privacy": "public",
-      "views": 151,
+      "views": 133,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/fDPP28Z0Zgw",
@@ -3136,7 +3135,7 @@
       "hook": "What if your submarine sank to the seabed with you inside? In 1973, two men found out.",
       "published_at": "2026-11-20T02:15:08Z",
       "privacy": "public",
-      "views": 37,
+      "views": 36,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hbCw9GKD7Zg",
@@ -3220,7 +3219,7 @@
       "hook": "What if your bones never broke? One family in Connecticut carries the gene for it.",
       "published_at": "2026-11-17T09:00:12Z",
       "privacy": "public",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/iVbPulEUnKU",
@@ -3276,7 +3275,7 @@
       "hook": "What if you tied weather balloons to a lawn chair? In 1982 one man tried it.",
       "published_at": "2026-11-20T21:50:31Z",
       "privacy": "public",
-      "views": 52,
+      "views": 57,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/9mOlLy7_d8o",
@@ -3304,7 +3303,7 @@
       "hook": "What if the first living things to circle the Moon weren't astronauts? They were two tortoises.",
       "published_at": "2026-11-20T22:30:15Z",
       "privacy": "public",
-      "views": 7,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TF0v6IOVgfU",
@@ -3440,8 +3439,8 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1092,
-      "likes": 19,
+      "views": 1108,
+      "likes": 20,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w"
     },
@@ -3516,7 +3515,7 @@
       "hook": "What if you tried to eat an airplane? Guinness says one man finished the whole thing.",
       "published_at": "2026-11-21T22:00:15Z",
       "privacy": "public",
-      "views": 44,
+      "views": 47,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7iq_bEhNqMU"
@@ -3616,7 +3615,7 @@
       "hook": "What if surgeons gave you a kidney from a pig? In 2025, one man said yes.",
       "published_at": "2026-11-16T10:40:23Z",
       "privacy": "public",
-      "views": 13,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EsApbP4yjVE",
@@ -3644,7 +3643,7 @@
       "hook": "What if you binned a hard drive worth hundreds of millions of dollars? In 2013, it happened.",
       "published_at": "2026-11-22T19:10:34Z",
       "privacy": "public",
-      "views": 2,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/boMYdIENFW4"
@@ -3750,22 +3749,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
-      "published_at": "2026-11-22T20:28:39Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-22T21:00:35Z",
+      "privacy": "public",
+      "views": 181,
+      "likes": 2,
+      "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc"
     },
     "XEtNh6GXHWY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3774,10 +3773,10 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if a plane took off and didn't land for two months? One did. It was tiny.",
-      "published_at": "2026-11-22T20:54:28Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
+      "published_at": "2026-11-22T21:20:12Z",
+      "privacy": "public",
+      "views": 12,
+      "likes": 1,
       "comments": 0,
       "url": "https://youtube.com/shorts/XEtNh6GXHWY"
     },
@@ -3836,6 +3835,30 @@
       "avg_view_percent": 10.5,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "ZXSQJcWswoE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Skyscraper Melted Cars? In 2013 One in London Did",
+      "topic": "technology",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a skyscraper could melt a car? In 2013, one in London did. By accident.",
+      "published_at": "2026-11-23T00:22:23Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/ZXSQJcWswoE"
     },
     "vOcdQlrviSg": {
       "upload_status": "processed",
@@ -3940,7 +3963,7 @@
       "hook": "What if you closed your eyes and could picture nothing at all? Millions can't, and never knew.",
       "published_at": "2026-11-17T23:40:02Z",
       "privacy": "public",
-      "views": 49,
+      "views": 48,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/AzRKI-WYycw",

@@ -59,5 +59,21 @@
   ],
   "thumbnail_text": "THIS TOWER MELTED A CAR",
   "priority": 7,
-  "first_comment": "A passer-by reportedly fried an egg in the hot spot. Which building mistake should we run through next?"
+  "first_comment": "A passer-by reportedly fried an egg in the hot spot. Which building mistake should we run through next?",
+  "youtube_id": "ZXSQJcWswoE",
+  "url": "https://youtube.com/shorts/ZXSQJcWswoE",
+  "uploaded_at": "2026-11-23T00:22:26+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-23T00:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 14,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 42.4,
+  "style": "classic",
+  "kind": "shorts"
 }
