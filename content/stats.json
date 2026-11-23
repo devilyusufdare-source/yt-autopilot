@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-23T00:54:02+00:00",
+  "updated_at": "2026-11-23T03:48:59+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 90,
-    "channel_views": 112805,
-    "video_count": 422
+    "channel_views": 112884,
+    "video_count": 423
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/4Mgc724oTSs"
+      "https://youtube.com/shorts/n1zH-Jpia10"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/4Mgc724oTSs"
+      "https://youtube.com/shorts/n1zH-Jpia10"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/4Mgc724oTSs"
+      "https://youtube.com/shorts/n1zH-Jpia10"
     ]
   },
   "retention": {
@@ -44,7 +44,7 @@
       {
         "title": "A Parasite Lives Inside a Wasp's Belly. Its Mate Has 5 Hours to Find It",
         "avg_view_percent": 234.3,
-        "views": 299
+        "views": 297
       },
       {
         "title": "The Titanic Was Found During a Secret Navy Hunt for Lost Nuclear Subs",
@@ -71,7 +71,7 @@
       {
         "title": "This 2-Inch Larva Stabs Tadpoles and Drinks Them Through Its Jaws",
         "avg_view_percent": 9.9,
-        "views": 225
+        "views": 230
       },
       {
         "title": "In 1932, Australia Went to War Against Emus. The Emus Won",
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 421,
-  "total_views": 116660,
+  "total_videos": 422,
+  "total_views": 116825,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -105,13 +105,13 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 317,
-      "avg_views": 296,
+      "videos": 318,
+      "avg_views": 295,
       "best_views": 1507
     },
     "human body": {
       "videos": 10,
-      "avg_views": 380,
+      "avg_views": 381,
       "best_views": 1384
     },
     "history": {
@@ -137,7 +137,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 405,
+      "videos": 406,
       "avg_views": 271,
       "over_1500": 3
     },
@@ -149,7 +149,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 335,
+      "videos": 336,
       "avg_views": 234
     },
     "en-US-BrianNeural": {
@@ -3055,7 +3055,7 @@
       "hook": "This spider mother is cooking herself for dinner.",
       "published_at": "2026-11-05T21:50:33Z",
       "privacy": "public",
-      "views": 10,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUQJVqXc1zI",
@@ -4035,7 +4035,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 1122,
+      "views": 1123,
       "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
@@ -4651,7 +4651,7 @@
       "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
-      "views": 22,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM",
@@ -7759,7 +7759,7 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 342,
+      "views": 343,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48",
@@ -7899,7 +7899,7 @@
       "hook": "There's a planet darker than coal, and nobody knows why.",
       "published_at": "2026-11-21T04:30:20Z",
       "privacy": "public",
-      "views": 206,
+      "views": 212,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nxgC5XgtZKk",
@@ -7983,7 +7983,7 @@
       "hook": "Scientists dropped people off a 150-foot tower to find out if fear slows down time.",
       "published_at": "2026-11-22T00:50:23Z",
       "privacy": "public",
-      "views": 48,
+      "views": 50,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Mvn2FYFBrMI"
@@ -8007,7 +8007,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 454,
+      "views": 455,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -8091,7 +8091,7 @@
       "hook": "Some mammals raise their young in four days.",
       "published_at": "2026-11-19T01:00:39Z",
       "privacy": "public",
-      "views": 660,
+      "views": 662,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/DHn0xENEgaY",
@@ -8539,7 +8539,7 @@
       "hook": "This wasp isn't carrying eggs. That bulge is another animal living inside it.",
       "published_at": "2026-11-19T09:40:36Z",
       "privacy": "public",
-      "views": 299,
+      "views": 297,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/zwPGM6dTkYE",
@@ -8595,7 +8595,7 @@
       "hook": "This fish looks ordinary. Then its mouth leaves its head.",
       "published_at": "2026-11-20T01:00:12Z",
       "privacy": "public",
-      "views": 352,
+      "views": 354,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/kpYG9J-sqAE",
@@ -8764,7 +8764,7 @@
       "published_at": "2026-11-20T09:10:17Z",
       "privacy": "public",
       "views": 521,
-      "likes": 7,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM",
       "avg_view_seconds": 24.0,
@@ -8819,7 +8819,7 @@
       "hook": "In this pond, something two inches long is drinking the tadpoles.",
       "published_at": "2026-11-21T02:15:13Z",
       "privacy": "public",
-      "views": 225,
+      "views": 230,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg",
@@ -8847,7 +8847,7 @@
       "hook": "This bird knocks a gannet out of the sky by grabbing one wing.",
       "published_at": "2026-11-21T02:40:38Z",
       "privacy": "public",
-      "views": 267,
+      "views": 270,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4rnYbMm98E",
@@ -8955,7 +8955,7 @@
       "hook": "This fish attacks scuba divers. And swimming up makes it worse.",
       "published_at": "2026-11-21T21:40:19Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/r02FaMyLqps"
@@ -9003,7 +9003,7 @@
       "hook": "This whale squirts ink like a squid.",
       "published_at": "2026-11-22T00:00:15Z",
       "privacy": "public",
-      "views": 592,
+      "views": 604,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs"
@@ -9111,7 +9111,7 @@
       "hook": "Science once named a worm. It was an octopus's arm.",
       "published_at": "2026-11-22T00:30:01Z",
       "privacy": "public",
-      "views": 83,
+      "views": 87,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc"
@@ -9135,7 +9135,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 3,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU"
@@ -9239,7 +9239,7 @@
       "hook": "The five most common cells in your body. Your 86 billion brain cells don't even make the list.",
       "published_at": "2026-11-21T09:10:04Z",
       "privacy": "public",
-      "views": 24,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/t0vTFy2UXeE"
@@ -9264,7 +9264,7 @@
       "published_at": "2026-11-22T22:30:17Z",
       "privacy": "public",
       "views": 0,
-      "likes": 0,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TRO7NWyuM5Q"
     },
@@ -9339,7 +9339,7 @@
       "hook": "Millions of these crayfish exist. They're all one animal.",
       "published_at": "2026-11-23T00:40:22Z",
       "privacy": "public",
-      "views": 4,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM"
@@ -9475,7 +9475,7 @@
       "hook": "The five fastest signals in your body, ranked. Pain doesn't even make the top three.",
       "published_at": "2026-11-22T08:40:08Z",
       "privacy": "public",
-      "views": 18,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wk146qYH8dY"
@@ -9537,14 +9537,14 @@
       "subscribers_gained": 0
     },
     "4Mgc724oTSs": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT58S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9553,11 +9553,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five buildings that took longest to finish. Number one took longer than the United States has existed.",
-      "published_at": "2026-11-23T00:53:50Z",
-      "privacy": "private",
+      "published_at": "2026-11-23T02:15:13Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/4Mgc724oTSs"
     },
     "3JIgcw-3dJU": {
@@ -9803,7 +9803,7 @@
       "hook": "Fishermen kept finding their crab traps torn apart. The thief wasn't a seal.",
       "published_at": "2026-11-20T19:40:10Z",
       "privacy": "public",
-      "views": 972,
+      "views": 973,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2_mV8zrkn8",
@@ -9887,7 +9887,7 @@
       "hook": "Orcas hunt great whites. But off Iceland, they run from something smaller.",
       "published_at": "2026-11-20T22:50:31Z",
       "privacy": "public",
-      "views": 24,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/F6jrJbuKAWQ",
@@ -9971,7 +9971,7 @@
       "hook": "Chimpanzees nearly emptied a forest of monkeys. It took teamwork.",
       "published_at": "2026-11-21T00:20:14Z",
       "privacy": "public",
-      "views": 941,
+      "views": 942,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16pVAdMJmQ",
@@ -10055,7 +10055,7 @@
       "hook": "Fishermen fear one shark for a strange reason: it might land in the boat.",
       "published_at": "2026-11-21T08:50:03Z",
       "privacy": "public",
-      "views": 831,
+      "views": 843,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/gjWX134b_AU"
@@ -10079,8 +10079,8 @@
       "hook": "A coyote and a badger hunt side by side. Neither one is the prey.",
       "published_at": "2026-11-21T19:00:02Z",
       "privacy": "public",
-      "views": 240,
-      "likes": 3,
+      "views": 249,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY"
     },
@@ -10155,7 +10155,7 @@
       "hook": "One electric eel gives 860 volts. Ten at once is a different story.",
       "published_at": "2026-11-21T20:20:08Z",
       "privacy": "public",
-      "views": 201,
+      "views": 204,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ahNRNMxj9mA"
@@ -10231,8 +10231,8 @@
       "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
       "published_at": "2026-11-22T19:00:26Z",
       "privacy": "public",
-      "views": 52,
-      "likes": 2,
+      "views": 74,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ"
     },
@@ -10255,7 +10255,7 @@
       "hook": "Every animal runs from a forest fire. One beetle flies straight toward it.",
       "published_at": "2026-11-22T20:00:38Z",
       "privacy": "public",
-      "views": 8,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Aw7y-aQIuFA"
@@ -10279,7 +10279,7 @@
       "hook": "Red kangaroos grow up differently depending on which side of one fence they live.",
       "published_at": "2026-11-22T21:00:14Z",
       "privacy": "public",
-      "views": 71,
+      "views": 72,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2Tub0DIkUc"
@@ -10303,7 +10303,7 @@
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
       "published_at": "2026-11-23T00:00:17Z",
       "privacy": "public",
-      "views": 0,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g"
@@ -10383,7 +10383,7 @@
       "hook": "A spider near Lake Victoria craves human blood. It can't pierce your skin.",
       "published_at": "2026-11-22T20:30:04Z",
       "privacy": "public",
-      "views": 10,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/M7aCq1QH0Ho"
@@ -10415,6 +10415,30 @@
       "avg_view_percent": 31.2,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "n1zH-Jpia10": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Fish Leaps Out of a Lake and Catches Swallows in Mid-Air",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Swallows skim this African lake to drink. Some never fly back up.",
+      "published_at": "2026-11-23T03:48:50Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/n1zH-Jpia10"
     },
     "nib97oLvxwI": {
       "upload_status": "processed",
