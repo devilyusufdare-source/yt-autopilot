@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-23T00:16:26+00:00",
+  "updated_at": "2026-11-23T00:54:02+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 90,
     "channel_views": 112805,
-    "video_count": 421
+    "video_count": 422
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/p2WN5v3a5YM"
+      "https://youtube.com/shorts/4Mgc724oTSs"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/p2WN5v3a5YM"
+      "https://youtube.com/shorts/4Mgc724oTSs"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/p2WN5v3a5YM"
+      "https://youtube.com/shorts/4Mgc724oTSs"
     ]
   },
   "retention": {
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 420,
-  "total_views": 116641,
+  "total_videos": 421,
+  "total_views": 116660,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -115,8 +115,8 @@
       "best_views": 1384
     },
     "history": {
-      "videos": 16,
-      "avg_views": 127,
+      "videos": 17,
+      "avg_views": 120,
       "best_views": 1114
     },
     "space": {
@@ -137,8 +137,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 404,
-      "avg_views": 272,
+      "videos": 405,
+      "avg_views": 271,
       "over_1500": 3
     },
     "punch": {
@@ -149,8 +149,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 334,
-      "avg_views": 235
+      "videos": 335,
+      "avg_views": 234
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -7507,7 +7507,7 @@
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
       "published_at": "2026-11-18T03:10:17Z",
       "privacy": "public",
-      "views": 175,
+      "views": 176,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg",
@@ -8847,7 +8847,7 @@
       "hook": "This bird knocks a gannet out of the sky by grabbing one wing.",
       "published_at": "2026-11-21T02:40:38Z",
       "privacy": "public",
-      "views": 265,
+      "views": 267,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4rnYbMm98E",
@@ -9003,7 +9003,7 @@
       "hook": "This whale squirts ink like a squid.",
       "published_at": "2026-11-22T00:00:15Z",
       "privacy": "public",
-      "views": 604,
+      "views": 592,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs"
@@ -9135,7 +9135,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 4,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU"
@@ -9321,14 +9321,14 @@
       "url": "https://youtube.com/shorts/h9Bg2t9zZIo"
     },
     "p2WN5v3a5YM": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT43S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9337,11 +9337,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Millions of these crayfish exist. They're all one animal.",
-      "published_at": "2026-11-23T00:16:17Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-23T00:40:22Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM"
     },
     "HE8mLoU1rAs": {
@@ -9475,7 +9475,7 @@
       "hook": "The five fastest signals in your body, ranked. Pain doesn't even make the top three.",
       "published_at": "2026-11-22T08:40:08Z",
       "privacy": "public",
-      "views": 11,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wk146qYH8dY"
@@ -9535,6 +9535,30 @@
       "avg_view_percent": 71.9,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "4Mgc724oTSs": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Buildings That Took Longest to Finish, Ranked (#1 Beat 632 Years)",
+      "topic": "history",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five buildings that took longest to finish. Number one took longer than the United States has existed.",
+      "published_at": "2026-11-23T00:53:50Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/4Mgc724oTSs"
     },
     "3JIgcw-3dJU": {
       "upload_status": "processed",
@@ -10056,7 +10080,7 @@
       "published_at": "2026-11-21T19:00:02Z",
       "privacy": "public",
       "views": 240,
-      "likes": 4,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY"
     },
@@ -10079,7 +10103,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 956,
+      "views": 959,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo"
@@ -10207,8 +10231,8 @@
       "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
       "published_at": "2026-11-22T19:00:26Z",
       "privacy": "public",
-      "views": 44,
-      "likes": 3,
+      "views": 52,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ"
     },
@@ -10255,8 +10279,8 @@
       "hook": "Red kangaroos grow up differently depending on which side of one fence they live.",
       "published_at": "2026-11-22T21:00:14Z",
       "privacy": "public",
-      "views": 64,
-      "likes": 1,
+      "views": 71,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2Tub0DIkUc"
     },
