@@ -1,0 +1,76 @@
+{
+  "id": "2028-03-17-five-windiest-planets-ranked",
+  "format": "ranking",
+  "ranking_by": "fastest wind speed measured on each planet",
+  "topic": "space",
+  "subject": "Neptune planet",
+  "title": "The 5 Windiest Planets, Ranked (Earth Makes the List)",
+  "scenes": [
+    {
+      "text": "Earth makes this list. Number one has winds faster than sound, with almost no sunlight.",
+      "keywords": "neptune planet"
+    },
+    {
+      "text": "Number five: Earth. A cyclone gust in Australia hit two hundred fifty-three miles an hour.",
+      "keywords": "hurricane from space",
+      "rank": 5,
+      "label": "Earth · 253 mph gust"
+    },
+    {
+      "text": "Number four: Jupiter. Winds around the Great Red Spot top four hundred miles an hour.",
+      "keywords": "jupiter planet",
+      "rank": 4,
+      "label": "Jupiter · 400+ mph"
+    },
+    {
+      "text": "Number three: Uranus. Its winds reach about five hundred sixty miles an hour.",
+      "keywords": "uranus planet",
+      "rank": 3,
+      "label": "Uranus · 560 mph"
+    },
+    {
+      "text": "Number two: Saturn. Winds at its equator blow about eleven hundred miles an hour.",
+      "keywords": "saturn planet",
+      "rank": 2,
+      "label": "Saturn · 1,100 mph"
+    },
+    {
+      "text": "Number one: Neptune, the farthest planet from the Sun. Its winds pass twelve hundred miles an hour, faster than sound.",
+      "keywords": "neptune planet",
+      "rank": 1,
+      "label": "Neptune · 1,200+ mph"
+    }
+  ],
+  "description": "The fastest winds measured on each planet: Earth's record gust of 253 mph (408 km/h) at Barrow Island, Australia, in 1996; Jupiter's Great Red Spot, over 400 mph; Uranus, up to about 560 mph (900 km/h); Saturn's equator, about 1,100 mph (500 m/s); and Neptune, over 1,200 mph (2,000 km/h), supersonic by Earth standards.\nVenus's cloud-top winds of 300-400 km/h just miss the list, and Mars's are slower still.\nWhy do you think the coldest, darkest planet has the fastest winds?",
+  "tags": [
+    "windiest planets",
+    "neptune",
+    "saturn",
+    "uranus",
+    "jupiter",
+    "fastest winds",
+    "solar system",
+    "planets ranked",
+    "space facts",
+    "astronomy",
+    "top 5 ranking",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#ranking",
+    "#planets"
+  ],
+  "sources": [
+    "https://science.nasa.gov/neptune/facts",
+    "https://science.nasa.gov/saturn/facts",
+    "https://science.nasa.gov/uranus/facts",
+    "https://science.nasa.gov/missions/hubble/hubble-shows-winds-in-jupiters-great-red-spot-are-speeding-up",
+    "https://www.bom.gov.au/cyclone/history/olivia.shtml"
+  ],
+  "thumbnail_text": "5 WINDIEST PLANETS, RANKED",
+  "priority": 6,
+  "first_comment": "Neptune gets about 900 times less sunlight than Earth and still has the fastest winds. Which planet would you rank next: biggest storms or longest days?"
+}
