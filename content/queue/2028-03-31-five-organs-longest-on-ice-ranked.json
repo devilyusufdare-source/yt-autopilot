@@ -1,0 +1,27 @@
+{
+  "id": "2028-03-31-five-organs-longest-on-ice-ranked",
+  "format": "ranking",
+  "ranking_by": "maximum cold-storage time outside the body before transplant",
+  "topic": "human body",
+  "subject": "organ transplant cooler",
+  "title": "The 5 Organs That Last Longest on Ice, Ranked (#1 Waits 36 Hours)",
+  "scenes": [
+    {"text": "One organ can wait a day and a half on ice. The heart isn't even close.", "keywords": "organ transplant cooler"},
+    {"text": "Number five: the heart. On ice, it has only four to six hours to beat again.", "keywords": "human heart model", "rank": 5, "label": "Heart · 4-6 hours"},
+    {"text": "Number four: the lungs. Four to eight hours, so they often travel by plane.", "keywords": "human lungs model", "rank": 4, "label": "Lungs · 4-8 hours"},
+    {"text": "Number three: the liver. Eight to twelve hours for the body's biggest internal organ.", "keywords": "human liver model", "rank": 3, "label": "Liver · 8-12 hours"},
+    {"text": "Number two: the pancreas. Twelve to eighteen hours packed in cold solution.", "keywords": "pancreas anatomy model", "rank": 2, "label": "Pancreas · 12-18 hours"},
+    {"text": "Number one: the kidney. Twenty-four to thirty-six hours, a day and a half on ice.", "keywords": "human kidney model", "rank": 1, "label": "Kidney · 24-36 hours"}
+  ],
+  "description": "How long donated organs can be kept on ice before transplant, according to the windows used by US organ procurement organizations: heart 4-6 hours, lungs 4-8 hours, liver 8-12 hours, pancreas 12-18 hours, kidney 24-36 hours.\nThe intestines (8-16 hours) overlap the liver, and newer perfusion machines that pump fluid through an organ can stretch these times.\nWhy do you think the kidney can wait so much longer than the heart?",
+  "tags": ["organ transplant", "organ donation", "kidney transplant", "heart transplant", "organs on ice", "human body ranked", "human body facts", "anatomy", "medical science", "top 5 ranking", "mind blowing facts", "shorts facts"],
+  "hashtags": ["#shorts", "#humanbody", "#ranking", "#science"],
+  "sources": [
+    "https://www.livescience.com/how-long-can-donated-organs-last-before-transplant.html",
+    "https://www.life-source.org/latest/how-long-can-an-organ-be-outside-the-body-before-transplant/",
+    "https://donatelife.ny.gov/faqs/when-must-organs-eyes-and-tissues-be-recovered"
+  ],
+  "thumbnail_text": "5 ORGANS LONGEST ON ICE",
+  "priority": 6,
+  "first_comment": "Which organ would you have put at number one? And what should we rank next in the human body?"
+}
