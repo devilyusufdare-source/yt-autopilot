@@ -56,5 +56,21 @@
   ],
   "thumbnail_text": "WHAT IF HUBBLE STARED AT NOTHING?",
   "priority": 7,
-  "first_comment": "That first patch covers about one 24-millionth of the sky. If you could stare at any spot in the universe for ten days, where would you point?"
+  "first_comment": "That first patch covers about one 24-millionth of the sky. If you could stare at any spot in the universe for ten days, where would you point?",
+  "youtube_id": "FdfnsKuwHF4",
+  "url": "https://youtube.com/shorts/FdfnsKuwHF4",
+  "uploaded_at": "2026-11-23T11:21:37+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-23T11:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 16,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#C4B5FD",
+  "duration_seconds": 49.6,
+  "style": "classic",
+  "kind": "shorts"
 }

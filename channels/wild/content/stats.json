@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-23T08:10:18+00:00",
+  "updated_at": "2026-11-23T11:21:38+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 22,
     "channel_views": 17722,
-    "video_count": 136
+    "video_count": 137
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/0ENjWrNbpz4"
+      "https://youtube.com/shorts/FdfnsKuwHF4"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/0ENjWrNbpz4"
+      "https://youtube.com/shorts/FdfnsKuwHF4"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/0ENjWrNbpz4"
+      "https://youtube.com/shorts/FdfnsKuwHF4"
     ]
   },
   "retention": {
@@ -80,7 +80,7 @@
       {
         "title": "What If You Could Smell a Disease Years Before Doctors Found It? One Woman Can",
         "avg_view_percent": 11.8,
-        "views": 1
+        "views": 3
       },
       {
         "title": "What If You Swam in a Pool on the Moon? You Could Leap Like a Dolphin",
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 137,
-  "total_views": 19245,
+  "total_videos": 138,
+  "total_views": 19365,
   "by_topic": {
     "earth": {
       "videos": 15,
@@ -99,8 +99,8 @@
       "best_views": 1169
     },
     "space": {
-      "videos": 44,
-      "avg_views": 128,
+      "videos": 45,
+      "avg_views": 125,
       "best_views": 1281
     },
     "society": {
@@ -110,12 +110,12 @@
     },
     "animals": {
       "videos": 15,
-      "avg_views": 260,
+      "avg_views": 261,
       "best_views": 1428
     },
     "body": {
       "videos": 32,
-      "avg_views": 71,
+      "avg_views": 74,
       "best_views": 654
     },
     "technology": {
@@ -126,14 +126,14 @@
   },
   "by_style": {
     "classic": {
-      "videos": 137,
+      "videos": 138,
       "avg_views": 140,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 136,
+      "videos": 137,
       "avg_views": 134
     },
     "en-US-EricNeural": {
@@ -163,7 +163,7 @@
     {
       "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
       "topic": "animals",
-      "views": 1113,
+      "views": 1122,
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
@@ -2967,7 +2967,7 @@
       "hook": "What if you could smell an illness years before any doctor could find it? One woman can.",
       "published_at": "2026-11-15T18:50:37Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/asNdmpC5F_U",
@@ -3439,7 +3439,7 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1113,
+      "views": 1122,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w"
@@ -3751,8 +3751,8 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 258,
-      "likes": 4,
+      "views": 365,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc"
     },
@@ -3861,14 +3861,14 @@
       "url": "https://youtube.com/shorts/ZXSQJcWswoE"
     },
     "0ENjWrNbpz4": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT46S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -3877,11 +3877,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if a disease could be wiped out with no vaccine and no drug? One nearly was.",
-      "published_at": "2026-11-23T08:10:13Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-23T08:40:05Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/0ENjWrNbpz4"
     },
     "vOcdQlrviSg": {
@@ -3995,6 +3995,30 @@
       "avg_view_percent": 53.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "FdfnsKuwHF4": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Pointed a Telescope at Nothing for 10 Days? Hubble Did in 1995",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you aimed the best telescope ever built at nothing, for ten days? In 1995, someone did.",
+      "published_at": "2026-11-23T11:21:35Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/FdfnsKuwHF4"
     }
   }
 }
