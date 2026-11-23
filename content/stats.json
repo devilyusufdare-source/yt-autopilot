@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-22T23:38:11+00:00",
+  "updated_at": "2026-11-23T00:16:26+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 90,
     "channel_views": 112805,
-    "video_count": 420
+    "video_count": 421
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/8ZUGSlyxN1g"
+      "https://youtube.com/shorts/p2WN5v3a5YM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/8ZUGSlyxN1g"
+      "https://youtube.com/shorts/p2WN5v3a5YM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/8ZUGSlyxN1g"
+      "https://youtube.com/shorts/p2WN5v3a5YM"
     ]
   },
   "retention": {
@@ -44,7 +44,7 @@
       {
         "title": "A Parasite Lives Inside a Wasp's Belly. Its Mate Has 5 Hours to Find It",
         "avg_view_percent": 234.3,
-        "views": 297
+        "views": 299
       },
       {
         "title": "The Titanic Was Found During a Secret Navy Hunt for Lost Nuclear Subs",
@@ -91,8 +91,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 419,
-  "total_views": 116597,
+  "total_videos": 420,
+  "total_views": 116641,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -105,7 +105,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 316,
+      "videos": 317,
       "avg_views": 296,
       "best_views": 1507
     },
@@ -137,7 +137,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 403,
+      "videos": 404,
       "avg_views": 272,
       "over_1500": 3
     },
@@ -149,7 +149,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 333,
+      "videos": 334,
       "avg_views": 235
     },
     "en-US-BrianNeural": {
@@ -3055,7 +3055,7 @@
       "hook": "This spider mother is cooking herself for dinner.",
       "published_at": "2026-11-05T21:50:33Z",
       "privacy": "public",
-      "views": 11,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUQJVqXc1zI",
@@ -4483,7 +4483,7 @@
       "hook": "This fish walks on the seafloor. And its legs do something no leg should.",
       "published_at": "2026-11-14T21:00:00Z",
       "privacy": "public",
-      "views": 253,
+      "views": 255,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/7b8yugSAEl8",
@@ -7899,7 +7899,7 @@
       "hook": "There's a planet darker than coal, and nobody knows why.",
       "published_at": "2026-11-21T04:30:20Z",
       "privacy": "public",
-      "views": 205,
+      "views": 206,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/nxgC5XgtZKk",
@@ -7983,7 +7983,7 @@
       "hook": "Scientists dropped people off a 150-foot tower to find out if fear slows down time.",
       "published_at": "2026-11-22T00:50:23Z",
       "privacy": "public",
-      "views": 46,
+      "views": 48,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Mvn2FYFBrMI"
@@ -8539,7 +8539,7 @@
       "hook": "This wasp isn't carrying eggs. That bulge is another animal living inside it.",
       "published_at": "2026-11-19T09:40:36Z",
       "privacy": "public",
-      "views": 297,
+      "views": 299,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/zwPGM6dTkYE",
@@ -8847,7 +8847,7 @@
       "hook": "This bird knocks a gannet out of the sky by grabbing one wing.",
       "published_at": "2026-11-21T02:40:38Z",
       "privacy": "public",
-      "views": 267,
+      "views": 265,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4rnYbMm98E",
@@ -9003,7 +9003,7 @@
       "hook": "This whale squirts ink like a squid.",
       "published_at": "2026-11-22T00:00:15Z",
       "privacy": "public",
-      "views": 592,
+      "views": 604,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs"
@@ -9135,7 +9135,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU"
@@ -9319,6 +9319,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/h9Bg2t9zZIo"
+    },
+    "p2WN5v3a5YM": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Millions of These Crayfish Exist, and Every One Is the Same Animal",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Millions of these crayfish exist. They're all one animal.",
+      "published_at": "2026-11-23T00:16:17Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/p2WN5v3a5YM"
     },
     "HE8mLoU1rAs": {
       "upload_status": "processed",
@@ -10007,7 +10031,7 @@
       "hook": "Fishermen fear one shark for a strange reason: it might land in the boat.",
       "published_at": "2026-11-21T08:50:03Z",
       "privacy": "public",
-      "views": 833,
+      "views": 831,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/gjWX134b_AU"
@@ -10031,8 +10055,8 @@
       "hook": "A coyote and a badger hunt side by side. Neither one is the prey.",
       "published_at": "2026-11-21T19:00:02Z",
       "privacy": "public",
-      "views": 237,
-      "likes": 3,
+      "views": 240,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY"
     },
@@ -10183,8 +10207,8 @@
       "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
       "published_at": "2026-11-22T19:00:26Z",
       "privacy": "public",
-      "views": 36,
-      "likes": 2,
+      "views": 44,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ"
     },
@@ -10207,7 +10231,7 @@
       "hook": "Every animal runs from a forest fire. One beetle flies straight toward it.",
       "published_at": "2026-11-22T20:00:38Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Aw7y-aQIuFA"
@@ -10231,20 +10255,20 @@
       "hook": "Red kangaroos grow up differently depending on which side of one fence they live.",
       "published_at": "2026-11-22T21:00:14Z",
       "privacy": "public",
-      "views": 55,
-      "likes": 2,
+      "views": 64,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2Tub0DIkUc"
     },
     "8ZUGSlyxN1g": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT35S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10253,11 +10277,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
-      "published_at": "2026-11-22T23:38:03Z",
-      "privacy": "private",
+      "published_at": "2026-11-23T00:00:17Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g"
     },
     "uMujdO5WqYo": {
@@ -10335,7 +10359,7 @@
       "hook": "A spider near Lake Victoria craves human blood. It can't pierce your skin.",
       "published_at": "2026-11-22T20:30:04Z",
       "privacy": "public",
-      "views": 2,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/M7aCq1QH0Ho"
