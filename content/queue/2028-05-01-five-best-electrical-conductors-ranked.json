@@ -1,0 +1,72 @@
+{
+  "format": "ranking",
+  "ranking_by": "electrical conductivity at room temperature, as a share of copper's",
+  "topic": "science",
+  "subject": "metals",
+  "title": "The 5 Best Metals for Carrying Electricity, Ranked",
+  "scenes": [
+    {
+      "text": "Gold coats the connectors in your phone. It isn't even the best conductor.",
+      "keywords": "gold bars"
+    },
+    {
+      "text": "Number five: calcium. As a pure metal, it carries current half as well as copper, and fizzes in water.",
+      "keywords": "calcium metal",
+      "rank": 5,
+      "label": "Calcium · 50% of copper"
+    },
+    {
+      "text": "Number four: aluminum. Sixty-three percent of copper, but much lighter, so it hangs in power lines.",
+      "keywords": "power lines",
+      "rank": 4,
+      "label": "Aluminum · 63% of copper"
+    },
+    {
+      "text": "Number three: gold. Sixty-nine percent of copper. It's in your phone because it never tarnishes.",
+      "keywords": "gold jewelry",
+      "rank": 3,
+      "label": "Gold · 69% of copper"
+    },
+    {
+      "text": "Number two: copper, the standard every other metal is measured against.",
+      "keywords": "copper wire",
+      "rank": 2,
+      "label": "Copper · 100%"
+    },
+    {
+      "text": "Number one: silver. Just six percent better than copper. So why aren't wires silver? It costs far more, and it tarnishes.",
+      "keywords": "silver bars",
+      "rank": 1,
+      "label": "Silver · 106% of copper"
+    }
+  ],
+  "description": "Electrical resistivity at 20 °C: silver 1.59, copper 1.68, gold 2.44, aluminum 2.65 and calcium about 3.4 (in 10^-8 ohm metres). Compared with copper, that makes silver about 106%, gold 69%, aluminum 63% and calcium 50%.\nCopper wins in wiring because it is almost as good as silver at a tiny fraction of the price.\nWhich metal surprised you most on this list?",
+  "tags": [
+    "best conductors",
+    "electrical conductivity",
+    "silver",
+    "copper",
+    "gold",
+    "aluminum",
+    "calcium",
+    "metals ranked",
+    "science facts",
+    "physics facts",
+    "top 5 ranking",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#ranking",
+    "#physics"
+  ],
+  "sources": [
+    "https://hyperphysics.gsu.edu/hbase/Tables/rstiv.html",
+    "https://www.engineeringtoolbox.com/conductors-d_1381.html"
+  ],
+  "thumbnail_text": "5 BEST CONDUCTORS, RANKED",
+  "priority": 0,
+  "first_comment": "Would you put silver wiring in your house if it were cheap? And what should we rank next?",
+  "id": "2028-05-01-five-best-electrical-conductors-ranked"
+}

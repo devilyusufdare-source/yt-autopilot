@@ -1,0 +1,73 @@
+{
+  "format": "ranking",
+  "ranking_by": "best official outright water speed record set by each boat",
+  "topic": "technology",
+  "subject": "speed record boats",
+  "title": "The 5 Fastest Boats Ever, Ranked (#1 Was Built at Home)",
+  "scenes": [
+    {
+      "text": "The fastest boat ever was built in a backyard. Its record has stood since 1978.",
+      "keywords": "speedboat racing"
+    },
+    {
+      "text": "Number five: Bluebird K4. A hundred and forty-one miles an hour, back in 1939.",
+      "keywords": "vintage speedboat",
+      "rank": 5,
+      "label": "Bluebird K4 · 141 mph"
+    },
+    {
+      "text": "Number four: Slo-mo-shun Four. A hundred and seventy-eight, skimming the lake on just three points.",
+      "keywords": "hydroplane racing boat",
+      "rank": 4,
+      "label": "Slo-mo-shun IV · 178 mph"
+    },
+    {
+      "text": "Number three: Bluebird K7. Two hundred and seventy-six miles an hour, on jet power.",
+      "keywords": "jet boat",
+      "rank": 3,
+      "label": "Bluebird K7 · 276 mph"
+    },
+    {
+      "text": "Number two: Hustler. Two hundred and eighty-five miles an hour, set in 1967.",
+      "keywords": "fast boat lake",
+      "rank": 2,
+      "label": "Hustler · 285 mph"
+    },
+    {
+      "text": "Number one: Spirit of Australia. Three hundred and seventeen miles an hour, built by one man at home. Two people have died trying to beat it.",
+      "keywords": "speedboat spray",
+      "rank": 1,
+      "label": "Spirit of Australia · 317 mph"
+    }
+  ],
+  "description": "Best official water speed records of the boats that held the outright record: Bluebird K4 141.7 mph (1939), Slo-mo-shun IV 178.5 mph (1952), Bluebird K7 276.3 mph (1964), Hustler 285.2 mph (1967) and Spirit of Australia 317.6 mph, about 511 km/h (1978).\nKen Warby designed and built Spirit of Australia in his backyard in Sydney. Lee Taylor (1980) and Craig Arfons (1989) were killed trying to beat his record.\nWould you climb into a boat going 317 mph?",
+  "tags": [
+    "water speed record",
+    "fastest boats",
+    "spirit of australia",
+    "ken warby",
+    "bluebird k7",
+    "hustler boat",
+    "slo-mo-shun",
+    "hydroplane",
+    "speed records",
+    "technology facts",
+    "top 5 ranking",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#technology",
+    "#ranking",
+    "#speed"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_water_speed_records",
+    "https://www.guinnessworldrecords.com/news/2024/2/the-deadly-history-of-the-water-speed-world-record-764494",
+    "https://www.sea.museum/society-and-water/ken-warby"
+  ],
+  "thumbnail_text": "5 FASTEST BOATS EVER, RANKED",
+  "priority": 6,
+  "first_comment": "The water speed record is one of the deadliest records in sport. Which speed record should we rank next?",
+  "id": "2028-05-02-five-fastest-boats-water-speed-record-ranked"
+}
