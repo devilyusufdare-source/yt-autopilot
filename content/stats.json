@@ -1,30 +1,21 @@
 {
-  "updated_at": "2026-11-24T04:46:26+00:00",
+  "updated_at": "2026-11-24T06:57:09+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 89,
     "channel_views": 119838,
-    "video_count": 435
+    "video_count": 439
   },
   "diagnosis": {
-    "not_public": [
-      "https://youtube.com/shorts/QjopkSF-yI8",
-      "https://youtube.com/shorts/Z-s7KnUAY5M",
-      "https://youtube.com/shorts/H0TeQyyZqew",
-      "https://youtube.com/shorts/Jg1yd4qKmLk"
-    ],
+    "not_public": [],
     "made_for_kids": [],
-    "not_processed": [
-      "https://youtube.com/shorts/Jg1yd4qKmLk"
-    ],
+    "not_processed": [],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": [
-      "https://youtube.com/shorts/Jg1yd4qKmLk"
-    ]
+    "sd_only": []
   },
   "retention": {
     "videos_with_data": 400,
@@ -48,7 +39,7 @@
       {
         "title": "The Fastest Shark Sometimes Ends Up Inside the Fishing Boat",
         "avg_view_percent": 346.9,
-        "views": 864
+        "views": 865
       },
       {
         "title": "A Parasite Lives Inside a Wasp's Belly. Its Mate Has 5 Hours to Find It",
@@ -90,13 +81,13 @@
       {
         "title": "The 5 Best-Selling Game Consoles Ever, Ranked (#1 Launched in 2000)",
         "avg_view_percent": 19.4,
-        "views": 5
+        "views": 6
       }
     ]
   },
   "retention_note": null,
   "total_videos": 437,
-  "total_views": 120150,
+  "total_views": 120583,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -110,7 +101,7 @@
     },
     "animals": {
       "videos": 332,
-      "avg_views": 292,
+      "avg_views": 294,
       "best_views": 1507
     },
     "human body": {
@@ -130,19 +121,19 @@
     },
     "technology": {
       "videos": 9,
-      "avg_views": 105,
+      "avg_views": 106,
       "best_views": 286
     },
     "games": {
       "videos": 1,
-      "avg_views": 5,
-      "best_views": 5
+      "avg_views": 6,
+      "best_views": 6
     }
   },
   "by_style": {
     "classic": {
       "videos": 421,
-      "avg_views": 269,
+      "avg_views": 270,
       "over_1500": 3
     },
     "punch": {
@@ -154,7 +145,7 @@
   "by_voice": {
     "en-US-AndrewNeural": {
       "videos": 351,
-      "avg_views": 233
+      "avg_views": 234
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4207,7 +4198,7 @@
       "hook": "This squirrel walks up to rattlesnakes and makes its tail hot. On purpose.",
       "published_at": "2026-11-14T08:40:13Z",
       "privacy": "public",
-      "views": 217,
+      "views": 216,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/sYU_YCfGfIQ",
@@ -5803,7 +5794,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 185,
+      "views": 186,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o",
@@ -5971,7 +5962,7 @@
       "hook": "A kangaroo chased by a dog runs straight for water.",
       "published_at": "2026-11-16T21:50:09Z",
       "privacy": "public",
-      "views": 508,
+      "views": 509,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/43nOUKvyDBI",
@@ -6111,7 +6102,7 @@
       "hook": "The five best-selling game consoles ever. Number one launched in 2000 and still hasn't been caught.",
       "published_at": "2026-11-14T04:00:09Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ADzZlLQvsPM",
@@ -6503,7 +6494,7 @@
       "hook": "A male bee tries to mate with this lump.",
       "published_at": "2026-11-08T16:50:16Z",
       "privacy": "public",
-      "views": 460,
+      "views": 461,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/L9krOxCwGWg",
@@ -8015,7 +8006,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 456,
+      "views": 457,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -9163,7 +9154,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 114,
+      "views": 121,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU"
@@ -9451,7 +9442,7 @@
       "hook": "Spiders eat snakes. On every continent but one.",
       "published_at": "2026-11-23T09:40:26Z",
       "privacy": "public",
-      "views": 58,
+      "views": 64,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/BU5Vn7FN7oY"
@@ -9497,11 +9488,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "One touch of this caterpillar can stop your blood clotting.",
-      "published_at": "2026-11-24T03:57:49Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-24T05:00:01Z",
+      "privacy": "public",
+      "views": 16,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/QjopkSF-yI8"
     },
     "Gudmy6a0BMs": {
@@ -9549,11 +9540,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This turtle breathes through its backside.",
-      "published_at": "2026-11-24T04:00:02Z",
-      "privacy": "private",
+      "published_at": "2026-11-24T05:30:34Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Z-s7KnUAY5M"
     },
     "mmv9b2xQG2A": {
@@ -9603,7 +9594,7 @@
       "hook": "The five fastest signals in your body, ranked. Pain doesn't even make the top three.",
       "published_at": "2026-11-22T08:40:08Z",
       "privacy": "public",
-      "views": 37,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wk146qYH8dY"
@@ -9705,22 +9696,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Dead female flies attract more males than live ones.",
-      "published_at": "2026-11-24T04:17:28Z",
-      "privacy": "private",
+      "published_at": "2026-11-24T05:50:15Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/H0TeQyyZqew"
     },
     "Jg1yd4qKmLk": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT31S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9729,11 +9720,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A deadly sea snake chases divers. It isn't hunting them.",
-      "published_at": "2026-11-24T04:46:17Z",
-      "privacy": "private",
+      "published_at": "2026-11-24T06:10:36Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Jg1yd4qKmLk"
     },
     "3JIgcw-3dJU": {
@@ -9783,8 +9774,8 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 12,
-      "likes": 0,
+      "views": 35,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8"
     },
@@ -10255,7 +10246,7 @@
       "hook": "Fishermen fear one shark for a strange reason: it might land in the boat.",
       "published_at": "2026-11-21T08:50:03Z",
       "privacy": "public",
-      "views": 864,
+      "views": 865,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/gjWX134b_AU",
@@ -10311,7 +10302,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 1072,
+      "views": 1076,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo",
@@ -10423,7 +10414,7 @@
       "hook": "Cane toads are covered in poison. This rat eats their hearts.",
       "published_at": "2026-11-22T03:40:18Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/COLUcCiSS2c",
@@ -10451,7 +10442,7 @@
       "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
       "published_at": "2026-11-22T19:00:26Z",
       "privacy": "public",
-      "views": 612,
+      "views": 676,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ"
@@ -10475,7 +10466,7 @@
       "hook": "Every animal runs from a forest fire. One beetle flies straight toward it.",
       "published_at": "2026-11-22T20:00:38Z",
       "privacy": "public",
-      "views": 94,
+      "views": 96,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Aw7y-aQIuFA"
@@ -10523,7 +10514,7 @@
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
       "published_at": "2026-11-23T00:00:17Z",
       "privacy": "public",
-      "views": 86,
+      "views": 94,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g"
@@ -10603,7 +10594,7 @@
       "hook": "A spider near Lake Victoria craves human blood. It can't pierce your skin.",
       "published_at": "2026-11-22T20:30:04Z",
       "privacy": "public",
-      "views": 694,
+      "views": 743,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M7aCq1QH0Ho"
@@ -10655,7 +10646,7 @@
       "hook": "Swallows skim this African lake to drink. Some never fly back up.",
       "published_at": "2026-11-23T04:10:04Z",
       "privacy": "public",
-      "views": 530,
+      "views": 572,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/n1zH-Jpia10"
@@ -10679,7 +10670,7 @@
       "hook": "A toad swallows this beetle whole. The beetle wins.",
       "published_at": "2026-11-24T00:00:38Z",
       "privacy": "public",
-      "views": 59,
+      "views": 81,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wzYEu-w7Ww0"
@@ -10703,7 +10694,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 52,
+      "views": 72,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo"
@@ -10727,7 +10718,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 20,
+      "views": 57,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU"
@@ -10807,7 +10798,7 @@
       "hook": "This ant queen gives birth to another species.",
       "published_at": "2026-11-24T01:10:18Z",
       "privacy": "public",
-      "views": 3,
+      "views": 36,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/siGA3-PQ2IY"
@@ -10883,7 +10874,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 64,
+      "views": 102,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg"
@@ -10931,8 +10922,8 @@
       "hook": "Orcas are top predators. Some keep handing their food to humans.",
       "published_at": "2026-11-24T04:30:28Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 56,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/L-m0jBWJt7M"
     },
