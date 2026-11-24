@@ -1,0 +1,61 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "olm salamander",
+  "title": "This Salamander Stayed in One Spot for Over 7 Years",
+  "scenes": [
+    {
+      "text": "Scientists checked on this animal for seven years. It never moved.",
+      "keywords": "olm"
+    },
+    {
+      "text": "The olm is a blind, pale salamander that lives in flooded caves in Europe.",
+      "keywords": "olm"
+    },
+    {
+      "text": "Researchers in Bosnia tagged them and kept finding them again and again.",
+      "keywords": "cave water"
+    },
+    {
+      "text": "One was sitting in exactly the same spot for 2,569 days.",
+      "keywords": "olm"
+    },
+    {
+      "text": "It barely needs to move. An olm can go about ten years without eating.",
+      "keywords": "olm"
+    },
+    {
+      "text": "And scientists think it can live to around 100. Seven years is just a long nap.",
+      "keywords": "olm"
+    }
+  ],
+  "description": "In a capture-recapture study in eastern Bosnia and Herzegovina (2010-2018, Journal of Zoology 2020), one olm was found in the same spot over 2,569 days.\nOlms are blind cave salamanders that can go about 10 years without food and are estimated to live up to around 100 years.\nCould you sit still for seven years?",
+  "tags": [
+    "olm",
+    "proteus",
+    "cave salamander",
+    "salamander",
+    "blind animal",
+    "cave animals",
+    "longevity",
+    "amphibians",
+    "animal facts",
+    "weird animals",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#salamander",
+    "#caves"
+  ],
+  "sources": [
+    "https://www.sciencenews.org/article/blind-aquatic-salamander-may-have-sat-mostly-still-seven-years",
+    "https://www.smithsonianmag.com/smart-news/cave-dwelling-salamander-didnt-move-7-years-180974233/"
+  ],
+  "thumbnail_text": "2,569 DAYS IN ONE SPOT",
+  "priority": 5,
+  "first_comment": "Locals once thought olms were baby dragons washed out of caves. What would you have guessed?",
+  "id": "2028-05-06-olm-stayed-in-one-spot-seven-years"
+}

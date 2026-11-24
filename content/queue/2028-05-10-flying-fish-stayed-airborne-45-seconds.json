@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "flying fish",
+  "title": "A Flying Fish Stayed in the Air for 45 Seconds",
+  "scenes": [
+    {
+      "text": "This fish escapes the ocean's hunters by leaving the ocean.",
+      "keywords": "flying fish"
+    },
+    {
+      "text": "Flying fish race toward the surface at about 37 miles an hour.",
+      "keywords": "flying fish"
+    },
+    {
+      "text": "They burst out, spread fins like wings and glide, beating their tail on the water to keep going.",
+      "keywords": "flying fish"
+    },
+    {
+      "text": "One glide can cover over 600 feet. Several in a row, over 1,300.",
+      "keywords": "flying fish"
+    },
+    {
+      "text": "In 2008, a Japanese TV crew filmed one in the air for 45 seconds.",
+      "keywords": "flying fish"
+    },
+    {
+      "text": "Below, tuna and dolphinfish lose the trail. Their meal just flew away.",
+      "keywords": "tuna fish"
+    }
+  ],
+  "description": "Flying fish reach about 37 mph underwater before breaking the surface, then glide on wing-like fins; a single glide can reach about 600-655 feet and a chain of glides about 1,300 feet.\nIn May 2008 an NHK crew filmed one airborne for 45 seconds off Kagoshima, Japan, a Guinness record.\nWhat animal would you most like to see fly?",
+  "tags": [
+    "flying fish",
+    "fish",
+    "ocean",
+    "gliding",
+    "escape",
+    "predators",
+    "guinness record",
+    "fish facts",
+    "animal facts",
+    "ocean facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#fish",
+    "#ocean",
+    "#animals"
+  ],
+  "sources": [
+    "https://guinnessworldrecords.com/world-records/498196-longest-flight-by-a-flyingfish-duration",
+    "https://www.nationalgeographic.com/animals/fish/facts/flying-fish",
+    "https://www.britannica.com/animal/flying-fish"
+  ],
+  "thumbnail_text": "FISH FLIES FOR 45 SECONDS",
+  "priority": 5,
+  "first_comment": "Flying fish sometimes land on ship decks at night. Would you rather be the tuna or the fish?",
+  "id": "2028-05-10-flying-fish-stayed-airborne-45-seconds"
+}

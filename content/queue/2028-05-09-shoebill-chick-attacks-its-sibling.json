@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "shoebill",
+  "title": "Shoebills Lay Two Eggs, but Usually Only One Chick Lives",
+  "scenes": [
+    {
+      "text": "This bird lays two eggs, but usually only one chick survives.",
+      "keywords": "shoebill"
+    },
+    {
+      "text": "Shoebill parents are careful. They pour water from their bills over the eggs, up to five times a day.",
+      "keywords": "shoebill"
+    },
+    {
+      "text": "The eggs are laid days apart, so the first chick is bigger.",
+      "keywords": "shoebill"
+    },
+    {
+      "text": "And it attacks its younger sibling, again and again.",
+      "keywords": "shoebill"
+    },
+    {
+      "text": "The parents don't step in. The big chick takes the food, and often the life of the other.",
+      "keywords": "shoebill"
+    },
+    {
+      "text": "The second egg is just a backup. If the first chick lives, the second rarely does.",
+      "keywords": "shoebill"
+    }
+  ],
+  "description": "Shoebills usually lay two eggs, up to five days apart, and cool them with water carried in their bills, sometimes four or five times a day.\nUsually only one chick survives: the older one outcompetes or attacks its sibling, and the parents do not intervene.\nWhy do you think the parents let it happen?",
+  "tags": [
+    "shoebill",
+    "shoebill stork",
+    "birds",
+    "siblicide",
+    "bird facts",
+    "africa",
+    "wetlands",
+    "survival",
+    "animal facts",
+    "weird animals",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#birds",
+    "#shoebill",
+    "#animals"
+  ],
+  "sources": [
+    "https://animals.sandiegozoo.org/animals/shoebill",
+    "https://www.livescience.com/animals/shoebill-the-human-sized-african-bird-that-eats-baby-crocodiles-and-kills-its-siblings",
+    "https://www.nationalgeographic.com/animals/birds/facts/shoebill"
+  ],
+  "thumbnail_text": "TWO EGGS. ONE SURVIVOR.",
+  "priority": 5,
+  "first_comment": "Shoebills can stand still for hours waiting for a lungfish. Would you want one as a neighbour?",
+  "id": "2028-05-09-shoebill-chick-attacks-its-sibling"
+}

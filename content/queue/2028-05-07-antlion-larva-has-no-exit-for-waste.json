@@ -1,0 +1,61 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "antlion larva",
+  "title": "This Insect Doesn't Poop for Up to 3 Years",
+  "scenes": [
+    {
+      "text": "This insect can go three years without pooping.",
+      "keywords": "antlion"
+    },
+    {
+      "text": "It's an antlion larva, waiting at the bottom of a sand pit it digs in about 15 minutes.",
+      "keywords": "antlion pit"
+    },
+    {
+      "text": "When an ant slips in, it flicks sand to knock it down the slope, then grabs it.",
+      "keywords": "antlion"
+    },
+    {
+      "text": "But its gut is a dead end. There's no way out, so every meal's waste stays inside.",
+      "keywords": "antlion"
+    },
+    {
+      "text": "It can stay a larva for up to three years, storing all of it.",
+      "keywords": "antlion"
+    },
+    {
+      "text": "It finally empties out only at the end of its cocoon stage, as it becomes a winged adult.",
+      "keywords": "antlion"
+    }
+  ],
+  "description": "Antlion larvae dig cone-shaped pits in sand and pelt prey with flicked sand. Their midgut ends in a dead end, so waste builds up through the whole larval stage, which can last up to three years.\nThe gut only connects near the end of the pupal stage, and the stored waste is passed as the adult emerges.\nWould you rather have this or the wombat's cube poop?",
+  "tags": [
+    "antlion",
+    "doodlebug",
+    "antlion pit",
+    "insects",
+    "insect facts",
+    "predator",
+    "weird animals",
+    "bugs",
+    "animal facts",
+    "nature",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#insects",
+    "#animals",
+    "#nature"
+  ],
+  "sources": [
+    "https://genent.cals.ncsu.edu/insect-identification/order-neuroptera/",
+    "https://yardandgarden.extension.iastate.edu/encyclopedia/antlions-and-doodlebugs"
+  ],
+  "thumbnail_text": "3 YEARS. NO POOP.",
+  "priority": 6,
+  "first_comment": "Some of the stored waste even gets turned into silk for its cocoon. Did you ever make antlion pits as a kid?",
+  "id": "2028-05-07-antlion-larva-has-no-exit-for-waste"
+}
