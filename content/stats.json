@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-24T04:00:13+00:00",
+  "updated_at": "2026-11-24T04:17:36+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 89,
     "channel_views": 119838,
-    "video_count": 433
+    "video_count": 434
   },
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/QjopkSF-yI8",
       "https://youtube.com/shorts/Z-s7KnUAY5M",
-      "https://youtube.com/shorts/rc6PXu-F2v8",
+      "https://youtube.com/shorts/H0TeQyyZqew",
       "https://youtube.com/shorts/L-m0jBWJt7M"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Z-s7KnUAY5M"
+      "https://youtube.com/shorts/H0TeQyyZqew"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Z-s7KnUAY5M"
+      "https://youtube.com/shorts/H0TeQyyZqew"
     ]
   },
   "retention": {
@@ -90,13 +90,13 @@
       {
         "title": "The 5 Best-Selling Game Consoles Ever, Ranked (#1 Launched in 2000)",
         "avg_view_percent": 19.4,
-        "views": 5
+        "views": 6
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 435,
-  "total_views": 120041,
+  "total_videos": 436,
+  "total_views": 120010,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -109,8 +109,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 330,
-      "avg_views": 294,
+      "videos": 331,
+      "avg_views": 293,
       "best_views": 1507
     },
     "human body": {
@@ -135,13 +135,13 @@
     },
     "games": {
       "videos": 1,
-      "avg_views": 5,
-      "best_views": 5
+      "avg_views": 6,
+      "best_views": 6
     }
   },
   "by_style": {
     "classic": {
-      "videos": 419,
+      "videos": 420,
       "avg_views": 270,
       "over_1500": 3
     },
@@ -153,7 +153,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 349,
+      "videos": 350,
       "avg_views": 234
     },
     "en-US-BrianNeural": {
@@ -5243,7 +5243,7 @@
       "hook": "This snake spits venom into your eyes from eight feet away.",
       "published_at": "2026-10-22T15:10:32Z",
       "privacy": "public",
-      "views": 42,
+      "views": 43,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/l57MjoYS9NY",
@@ -6111,7 +6111,7 @@
       "hook": "The five best-selling game consoles ever. Number one launched in 2000 and still hasn't been caught.",
       "published_at": "2026-11-14T04:00:09Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ADzZlLQvsPM",
@@ -9023,7 +9023,7 @@
       "hook": "This whale squirts ink like a squid.",
       "published_at": "2026-11-22T00:00:15Z",
       "privacy": "public",
-      "views": 837,
+      "views": 833,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs",
@@ -9163,7 +9163,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 114,
+      "views": 118,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU"
@@ -9371,7 +9371,7 @@
       "hook": "Millions of these crayfish exist. They're all one animal.",
       "published_at": "2026-11-23T00:40:22Z",
       "privacy": "public",
-      "views": 171,
+      "views": 173,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM"
@@ -9475,9 +9475,9 @@
       "hook": "This shrimp eats an animal hollow, then moves in.",
       "published_at": "2026-11-24T03:50:14Z",
       "privacy": "public",
-      "views": 1,
+      "views": 0,
       "likes": 0,
-      "comments": 1,
+      "comments": 0,
       "url": "https://youtube.com/shorts/O7HD8WvNKl0"
     },
     "QjopkSF-yI8": {
@@ -9533,14 +9533,14 @@
       "subscribers_gained": 0
     },
     "Z-s7KnUAY5M": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT34S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9688,6 +9688,30 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/4Mgc724oTSs"
     },
+    "H0TeQyyZqew": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Fungus Kills Flies at Sunset, Then Uses Their Bodies as Bait",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Dead female flies attract more males than live ones.",
+      "published_at": "2026-11-24T04:17:28Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/H0TeQyyZqew"
+    },
     "3JIgcw-3dJU": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -9733,11 +9757,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
-      "published_at": "2026-11-24T03:20:45Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-24T04:10:30Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8"
     },
     "mzel-4ZbiC0": {
@@ -10403,7 +10427,7 @@
       "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
       "published_at": "2026-11-22T19:00:26Z",
       "privacy": "public",
-      "views": 612,
+      "views": 577,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ"
@@ -10427,7 +10451,7 @@
       "hook": "Every animal runs from a forest fire. One beetle flies straight toward it.",
       "published_at": "2026-11-22T20:00:38Z",
       "privacy": "public",
-      "views": 94,
+      "views": 87,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Aw7y-aQIuFA"
@@ -10451,7 +10475,7 @@
       "hook": "Red kangaroos grow up differently depending on which side of one fence they live.",
       "published_at": "2026-11-22T21:00:14Z",
       "privacy": "public",
-      "views": 208,
+      "views": 204,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2Tub0DIkUc"
@@ -10475,7 +10499,7 @@
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
       "published_at": "2026-11-23T00:00:17Z",
       "privacy": "public",
-      "views": 86,
+      "views": 89,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g"
@@ -10499,7 +10523,7 @@
       "hook": "They crashed a 100 mph train into a nuclear waste flask.",
       "published_at": "2026-10-19T19:30:00Z",
       "privacy": "public",
-      "views": 74,
+      "views": 73,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uMujdO5WqYo",
@@ -10555,7 +10579,7 @@
       "hook": "A spider near Lake Victoria craves human blood. It can't pierce your skin.",
       "published_at": "2026-11-22T20:30:04Z",
       "privacy": "public",
-      "views": 694,
+      "views": 692,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M7aCq1QH0Ho"
@@ -10607,7 +10631,7 @@
       "hook": "Swallows skim this African lake to drink. Some never fly back up.",
       "published_at": "2026-11-23T04:10:04Z",
       "privacy": "public",
-      "views": 530,
+      "views": 549,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/n1zH-Jpia10"
@@ -10655,7 +10679,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 52,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo"
@@ -10835,7 +10859,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 35,
+      "views": 49,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg"
@@ -10859,7 +10883,7 @@
       "hook": "Alchemists failed for centuries. Physicists finally turned lead into gold.",
       "published_at": "2026-11-24T03:20:19Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hO2AhQOFOpg"
