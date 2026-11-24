@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-24T23:08:09+00:00",
+  "updated_at": "2026-11-24T23:40:46+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 22,
     "channel_views": 19844,
-    "video_count": 144
+    "video_count": 145
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/3JAwig_ZbLc"
+      "https://youtube.com/shorts/gMwEXEowZOI"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/3JAwig_ZbLc"
+      "https://youtube.com/shorts/gMwEXEowZOI"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/3JAwig_ZbLc"
+      "https://youtube.com/shorts/gMwEXEowZOI"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 145,
-  "total_views": 20011,
+  "total_videos": 146,
+  "total_views": 20017,
   "by_topic": {
     "earth": {
       "videos": 16,
@@ -114,8 +114,8 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 34,
-      "avg_views": 85,
+      "videos": 35,
+      "avg_views": 83,
       "best_views": 810
     },
     "technology": {
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 145,
-      "avg_views": 138,
+      "videos": 146,
+      "avg_views": 137,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 144,
-      "avg_views": 132
+      "videos": 145,
+      "avg_views": 131
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
       "topic": "animals",
-      "views": 1189,
+      "views": 1195,
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
@@ -3443,7 +3443,7 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1189,
+      "views": 1195,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w",
@@ -4205,6 +4205,30 @@
       "url": "https://youtube.com/shorts/TF7RF4CnmiY"
     },
     "3JAwig_ZbLc": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT34S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Held In Every Sneeze?",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you held in every sneeze? The pressure has to go somewhere.",
+      "published_at": "2026-11-24T23:40:33Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/3JAwig_ZbLc"
+    },
+    "gMwEXEowZOI": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -4216,17 +4240,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Held In Every Sneeze?",
+      "title": "What If You Never Looked Up From Your Phone?",
       "topic": "body",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you held in every sneeze? The pressure has to go somewhere.",
-      "published_at": "2026-11-24T23:08:04Z",
+      "hook": "What if you never looked up from your phone? Your neck would carry a second head.",
+      "published_at": "2026-11-24T23:40:43Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/3JAwig_ZbLc"
+      "url": "https://youtube.com/shorts/gMwEXEowZOI"
     }
   }
 }
