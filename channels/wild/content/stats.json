@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-24T10:23:38+00:00",
+  "updated_at": "2026-11-24T12:59:06+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 22,
     "channel_views": 19652,
-    "video_count": 141
+    "video_count": 142
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/hvp6pNquLG4"
+      "https://youtube.com/shorts/gF1OnIb8rI4"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/hvp6pNquLG4"
+      "https://youtube.com/shorts/gF1OnIb8rI4"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/hvp6pNquLG4"
+      "https://youtube.com/shorts/gF1OnIb8rI4"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 142,
-  "total_views": 19810,
+  "total_videos": 143,
+  "total_views": 19836,
   "by_topic": {
     "earth": {
       "videos": 16,
@@ -99,8 +99,8 @@
       "best_views": 1172
     },
     "space": {
-      "videos": 45,
-      "avg_views": 125,
+      "videos": 46,
+      "avg_views": 123,
       "best_views": 1281
     },
     "society": {
@@ -115,8 +115,8 @@
     },
     "body": {
       "videos": 33,
-      "avg_views": 82,
-      "best_views": 670
+      "avg_views": 83,
+      "best_views": 679
     },
     "technology": {
       "videos": 21,
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 142,
-      "avg_views": 140,
+      "videos": 143,
+      "avg_views": 139,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 141,
-      "avg_views": 133
+      "videos": 142,
+      "avg_views": 132
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -155,16 +155,16 @@
       "hook": "What if Earth stopped spinning? Suddenly, you would not feel the stop. You'd feel the speed."
     },
     {
+      "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
+      "topic": "animals",
+      "views": 1177,
+      "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
+    },
+    {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
       "views": 1172,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
-    },
-    {
-      "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
-      "topic": "animals",
-      "views": 1171,
-      "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
       "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
@@ -193,7 +193,7 @@
     {
       "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
       "topic": "body",
-      "views": 670,
+      "views": 679,
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
     },
     {
@@ -3443,7 +3443,7 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1171,
+      "views": 1177,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w",
@@ -3771,7 +3771,7 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 670,
+      "views": 679,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc"
@@ -3795,7 +3795,7 @@
       "hook": "What if a plane took off and didn't land for two months? One did. It was tiny.",
       "published_at": "2026-11-22T21:20:12Z",
       "privacy": "public",
-      "views": 27,
+      "views": 28,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/XEtNh6GXHWY"
@@ -3899,7 +3899,7 @@
       "hook": "What if a disease could be wiped out with no vaccine and no drug? One nearly was.",
       "published_at": "2026-11-23T08:40:05Z",
       "privacy": "public",
-      "views": 22,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ENjWrNbpz4"
@@ -4059,8 +4059,8 @@
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
       "published_at": "2026-11-23T23:30:38Z",
       "privacy": "public",
-      "views": 15,
-      "likes": 0,
+      "views": 24,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uA4BiNGtBCI"
     },
@@ -4113,6 +4113,30 @@
       "url": "https://youtube.com/shorts/qDc5aUNOZlk"
     },
     "hvp6pNquLG4": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT43S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If the Earth Were a Cube? You'd Live in Six Round Puddles",
+      "topic": "earth",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if Earth were a cube? Every ocean would gather into six round puddles.",
+      "published_at": "2026-11-24T10:50:19Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/hvp6pNquLG4"
+    },
+    "gF1OnIb8rI4": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -4124,17 +4148,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If the Earth Were a Cube? You'd Live in Six Round Puddles",
-      "topic": "earth",
+      "title": "What If an Asteroid Hit the Ocean Instead of Land?",
+      "topic": "space",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if Earth were a cube? Every ocean would gather into six round puddles.",
-      "published_at": "2026-11-24T10:23:34Z",
+      "hook": "What if an asteroid hit the ocean? The tsunami isn't the problem. The sky is.",
+      "published_at": "2026-11-24T12:59:01Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/hvp6pNquLG4"
+      "url": "https://youtube.com/shorts/gF1OnIb8rI4"
     }
   }
 }
