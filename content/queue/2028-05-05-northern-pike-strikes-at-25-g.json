@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "northern pike",
+  "title": "A Pike Hits 25 G When It Strikes. Ducks Aren't Safe",
+  "scenes": [
+    {
+      "text": "Ducks on this lake have a predator under the surface.",
+      "keywords": "northern pike"
+    },
+    {
+      "text": "The northern pike can grow to almost five feet and hunts by ambush in weedy water.",
+      "keywords": "northern pike"
+    },
+    {
+      "text": "It waits, perfectly still, then launches at around 12 G, peaking near 25 G.",
+      "keywords": "northern pike"
+    },
+    {
+      "text": "A fighter pilot blacks out at about nine.",
+      "keywords": "fighter jet"
+    },
+    {
+      "text": "Hundreds of backward-pointing teeth mean nothing it grabs can pull free.",
+      "keywords": "northern pike"
+    },
+    {
+      "text": "It eats fish, frogs, mice and even ducks. Prey up to a third of its own length.",
+      "keywords": "northern pike"
+    }
+  ],
+  "description": "Northern pike reach up to about 1.5 m and are ambush predators. Fast-start studies (Harper and Blake, 1990) measured a mean maximum acceleration of about 120 m/s² (around 12 g), with a peak of about 245 m/s² (about 25 g).\nHundreds of backward-slanting teeth grip prey, which can include fish, frogs, rodents and waterfowl up to a third of the pike's length.\nWhat's the scariest thing you've seen come out of a lake?",
+  "tags": [
+    "northern pike",
+    "pike",
+    "predator fish",
+    "freshwater fish",
+    "ambush predator",
+    "fishing",
+    "lake",
+    "fish facts",
+    "animal facts",
+    "wildlife",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#fish",
+    "#animals",
+    "#fishing"
+  ],
+  "sources": [
+    "https://dnr.state.mn.us/minnaqua/speciesprofile/northern_pike.html",
+    "https://cob.silverchair.com/jeb/article-pdf/150/1/321/2640040/jexbio_150_1_321.pdf",
+    "https://fishbase.se/summary/258"
+  ],
+  "thumbnail_text": "PIKE STRIKE: 25 G",
+  "priority": 6,
+  "first_comment": "Have you ever caught a pike, or had one steal your catch? Tell us below.",
+  "id": "2028-05-05-northern-pike-strikes-at-25-g"
+}
