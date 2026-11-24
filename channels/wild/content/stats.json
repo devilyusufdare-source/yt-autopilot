@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-24T01:04:13+00:00",
+  "updated_at": "2026-11-24T10:23:38+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 22,
-    "channel_views": 18936,
-    "video_count": 140
+    "channel_views": 19652,
+    "video_count": 141
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/qDc5aUNOZlk"
+      "https://youtube.com/shorts/hvp6pNquLG4"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/qDc5aUNOZlk"
+      "https://youtube.com/shorts/hvp6pNquLG4"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/qDc5aUNOZlk"
+      "https://youtube.com/shorts/hvp6pNquLG4"
     ]
   },
   "retention": {
@@ -90,13 +90,13 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 141,
-  "total_views": 19659,
+  "total_videos": 142,
+  "total_views": 19810,
   "by_topic": {
     "earth": {
-      "videos": 15,
-      "avg_views": 316,
-      "best_views": 1170
+      "videos": 16,
+      "avg_views": 296,
+      "best_views": 1172
     },
     "space": {
       "videos": 45,
@@ -110,30 +110,30 @@
     },
     "animals": {
       "videos": 16,
-      "avg_views": 247,
+      "avg_views": 248,
       "best_views": 1428
     },
     "body": {
       "videos": 33,
-      "avg_views": 79,
-      "best_views": 654
+      "avg_views": 82,
+      "best_views": 670
     },
     "technology": {
       "videos": 21,
-      "avg_views": 90,
+      "avg_views": 91,
       "best_views": 1047
     }
   },
   "by_style": {
     "classic": {
-      "videos": 141,
-      "avg_views": 139,
+      "videos": 142,
+      "avg_views": 140,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 140,
+      "videos": 141,
       "avg_views": 133
     },
     "en-US-EricNeural": {
@@ -157,13 +157,13 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1170,
+      "views": 1172,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
       "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
       "topic": "animals",
-      "views": 1163,
+      "views": 1171,
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
@@ -191,16 +191,16 @@
       "hook": "What if the Earth were actually flat? You'd have about an hour to enjoy it."
     },
     {
+      "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
+      "topic": "body",
+      "views": 670,
+      "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
+    },
+    {
       "title": "What If You Never Cut Your Nails? Unlike Hair, They Never Stop",
       "topic": "body",
       "views": 654,
       "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do."
-    },
-    {
-      "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
-      "topic": "body",
-      "views": 572,
-      "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
     }
   ],
   "videos": {
@@ -1007,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1170,
+      "views": 1172,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1175,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 99,
+      "views": 100,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1707,7 +1707,7 @@
       "hook": "What if Earth had an eighth continent? It already does. Ninety-five percent of it is underwater.",
       "published_at": "2026-11-13T10:30:07Z",
       "privacy": "public",
-      "views": 40,
+      "views": 42,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU",
@@ -3443,7 +3443,7 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1163,
+      "views": 1171,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w",
@@ -3663,7 +3663,7 @@
       "hook": "What if you binned a hard drive worth hundreds of millions of dollars? In 2013, it happened.",
       "published_at": "2026-11-22T19:10:34Z",
       "privacy": "public",
-      "views": 23,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/boMYdIENFW4"
@@ -3771,8 +3771,8 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 572,
-      "likes": 11,
+      "views": 670,
+      "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc"
     },
@@ -3899,7 +3899,7 @@
       "hook": "What if a disease could be wiped out with no vaccine and no drug? One nearly was.",
       "published_at": "2026-11-23T08:40:05Z",
       "privacy": "public",
-      "views": 14,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ENjWrNbpz4"
@@ -4059,7 +4059,7 @@
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
       "published_at": "2026-11-23T23:30:38Z",
       "privacy": "public",
-      "views": 8,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uA4BiNGtBCI"
@@ -4083,12 +4083,36 @@
       "hook": "What if the device keeping your heart beating ran on plutonium? For thousands of people, it did.",
       "published_at": "2026-11-23T23:50:38Z",
       "privacy": "public",
-      "views": 1,
-      "likes": 0,
+      "views": 20,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/OpmJ3yfz1lc"
     },
     "qDc5aUNOZlk": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT53S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Weighed Every Living Thing on Earth? Humans Barely Register",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you put every living thing on Earth on one scale? Humans would barely move the needle.",
+      "published_at": "2026-11-24T02:15:36Z",
+      "privacy": "public",
+      "views": 4,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/qDc5aUNOZlk"
+    },
+    "hvp6pNquLG4": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -4100,17 +4124,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Weighed Every Living Thing on Earth? Humans Barely Register",
-      "topic": "animals",
+      "title": "What If the Earth Were a Cube? You'd Live in Six Round Puddles",
+      "topic": "earth",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you put every living thing on Earth on one scale? Humans would barely move the needle.",
-      "published_at": "2026-11-24T01:04:08Z",
+      "hook": "What if Earth were a cube? Every ocean would gather into six round puddles.",
+      "published_at": "2026-11-24T10:23:34Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/qDc5aUNOZlk"
+      "url": "https://youtube.com/shorts/hvp6pNquLG4"
     }
   }
 }
