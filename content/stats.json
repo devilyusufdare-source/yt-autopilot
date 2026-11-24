@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-24T00:19:53+00:00",
+  "updated_at": "2026-11-24T01:41:32+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 89,
     "channel_views": 116910,
-    "video_count": 427
+    "video_count": 429
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/C-B8qGMgpYU",
-      "https://youtube.com/shorts/siGA3-PQ2IY"
+      "https://youtube.com/shorts/A3ygi0TEdM4",
+      "https://youtube.com/shorts/lYnIq7kMPdg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/siGA3-PQ2IY"
+      "https://youtube.com/shorts/lYnIq7kMPdg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/siGA3-PQ2IY"
+      "https://youtube.com/shorts/lYnIq7kMPdg"
     ]
   },
   "retention": {
@@ -93,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 427,
-  "total_views": 119643,
+  "total_videos": 429,
+  "total_views": 119786,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 323,
-      "avg_views": 299,
+      "videos": 325,
+      "avg_views": 298,
       "best_views": 1507
     },
     "human body": {
@@ -139,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 411,
-      "avg_views": 275,
+      "videos": 413,
+      "avg_views": 274,
       "over_1500": 3
     },
     "punch": {
@@ -151,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 341,
-      "avg_views": 239
+      "videos": 343,
+      "avg_views": 238
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -6025,7 +6025,7 @@
       "hook": "When these termites get old, they grow explosive backpacks.",
       "published_at": "2026-11-17T00:00:15Z",
       "privacy": "public",
-      "views": 226,
+      "views": 227,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vDMd15MlBuU",
@@ -9021,7 +9021,7 @@
       "hook": "This whale squirts ink like a squid.",
       "published_at": "2026-11-22T00:00:15Z",
       "privacy": "public",
-      "views": 821,
+      "views": 833,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs",
@@ -9133,7 +9133,7 @@
       "hook": "Science once named a worm. It was an octopus's arm.",
       "published_at": "2026-11-22T00:30:01Z",
       "privacy": "public",
-      "views": 115,
+      "views": 116,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc",
@@ -9161,7 +9161,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 108,
+      "views": 107,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU"
@@ -9369,7 +9369,7 @@
       "hook": "Millions of these crayfish exist. They're all one animal.",
       "published_at": "2026-11-23T00:40:22Z",
       "privacy": "public",
-      "views": 153,
+      "views": 160,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM"
@@ -9449,7 +9449,7 @@
       "hook": "Spiders eat snakes. On every continent but one.",
       "published_at": "2026-11-23T09:40:26Z",
       "privacy": "public",
-      "views": 49,
+      "views": 58,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/BU5Vn7FN7oY"
@@ -9609,7 +9609,7 @@
       "hook": "The five buildings that took longest to finish. Number one took longer than the United States has existed.",
       "published_at": "2026-11-23T02:15:13Z",
       "privacy": "public",
-      "views": 12,
+      "views": 11,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/4Mgc724oTSs"
@@ -9857,7 +9857,7 @@
       "hook": "Fishermen kept finding their crab traps torn apart. The thief wasn't a seal.",
       "published_at": "2026-11-20T19:40:10Z",
       "privacy": "public",
-      "views": 975,
+      "views": 973,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/x2_mV8zrkn8",
@@ -10137,7 +10137,7 @@
       "hook": "A coyote and a badger hunt side by side. Neither one is the prey.",
       "published_at": "2026-11-21T19:00:02Z",
       "privacy": "public",
-      "views": 447,
+      "views": 448,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY",
@@ -10165,7 +10165,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 1064,
+      "views": 1066,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo",
@@ -10305,8 +10305,8 @@
       "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
       "published_at": "2026-11-22T19:00:26Z",
       "privacy": "public",
-      "views": 501,
-      "likes": 4,
+      "views": 577,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ"
     },
@@ -10329,7 +10329,7 @@
       "hook": "Every animal runs from a forest fire. One beetle flies straight toward it.",
       "published_at": "2026-11-22T20:00:38Z",
       "privacy": "public",
-      "views": 77,
+      "views": 87,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Aw7y-aQIuFA"
@@ -10353,7 +10353,7 @@
       "hook": "Red kangaroos grow up differently depending on which side of one fence they live.",
       "published_at": "2026-11-22T21:00:14Z",
       "privacy": "public",
-      "views": 200,
+      "views": 204,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2Tub0DIkUc"
@@ -10457,7 +10457,7 @@
       "hook": "A spider near Lake Victoria craves human blood. It can't pierce your skin.",
       "published_at": "2026-11-22T20:30:04Z",
       "privacy": "public",
-      "views": 629,
+      "views": 631,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M7aCq1QH0Ho"
@@ -10533,7 +10533,7 @@
       "hook": "A toad swallows this beetle whole. The beetle wins.",
       "published_at": "2026-11-24T00:00:38Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wzYEu-w7Ww0"
@@ -10557,7 +10557,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 7,
+      "views": 25,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo"
@@ -10579,11 +10579,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This parrot lost half his beak. Now he's the boss.",
-      "published_at": "2026-11-24T00:18:31Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-24T00:50:09Z",
+      "privacy": "public",
+      "views": 1,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU"
     },
     "nib97oLvxwI": {
@@ -10643,14 +10643,14 @@
       "subscribers_gained": 0
     },
     "siGA3-PQ2IY": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT26S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10659,11 +10659,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This ant queen gives birth to another species.",
-      "published_at": "2026-11-24T00:19:42Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-24T01:10:18Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/siGA3-PQ2IY"
     },
     "KZhvfyr0xgY": {
@@ -10693,6 +10693,54 @@
       "avg_view_percent": 35.2,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "A3ygi0TEdM4": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT28S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Cod Ate 10 Million Fish in Hours, the Biggest Feast Ever Recorded",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Twenty-three million fish banded together for safety. It backfired.",
+      "published_at": "2026-11-24T01:39:39Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/A3ygi0TEdM4"
+    },
+    "lYnIq7kMPdg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Shark's Tracking Tag Turned Warm Because a Bigger Shark Ate It",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
+      "published_at": "2026-11-24T01:41:21Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/lYnIq7kMPdg"
     },
     "MvTzV6WNdAA": {
       "upload_status": "processed",
