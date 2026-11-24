@@ -1,0 +1,61 @@
+{
+  "format": "fact",
+  "topic": "human body",
+  "subject": "human liver",
+  "title": "Surgeons Can Remove Two-Thirds of Your Liver. It Grows Back",
+  "scenes": [
+    {
+      "text": "Doctors can cut away most of one organ in your body. It grows back.",
+      "keywords": "surgeons operating room"
+    },
+    {
+      "text": "A healthy liver can lose up to two-thirds of itself and still recover.",
+      "keywords": "surgery team"
+    },
+    {
+      "text": "Living donors give up to sixty percent of theirs to save someone else.",
+      "keywords": "hospital bed patient"
+    },
+    {
+      "text": "In about six weeks, both pieces grow into full-sized, working livers.",
+      "keywords": "medical scan screen"
+    },
+    {
+      "text": "The cells that are left start dividing again, within days.",
+      "keywords": "cells dividing microscope"
+    },
+    {
+      "text": "One liver goes in. Two come out. No other organ in you can do that.",
+      "keywords": "surgeons operating room"
+    }
+  ],
+  "description": "A healthy liver can lose up to two-thirds of its volume and regrow, according to Cleveland Clinic. Living donors can give up to 60% of theirs.\nMichigan Medicine says that in about six weeks the donated part grows into a normal-sized liver in the recipient while the donor's liver regrows too.\nWhich organ would you most like to be able to regrow?",
+  "tags": [
+    "liver regeneration",
+    "liver",
+    "living donor",
+    "human body facts",
+    "organ transplant",
+    "regrow organs",
+    "anatomy facts",
+    "science facts",
+    "body facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#science",
+    "#facts"
+  ],
+  "sources": [
+    "https://my.clevelandclinic.org/health/treatments/22930-hepatectomy-liver-resection",
+    "https://uofmhealth.org/conditions-treatments/transplantation/living-donor-liver-transplant",
+    "https://www.nyp.org/healthmatters/what-you-dont-know-about-your-liver-the-bodys-super-organ"
+  ],
+  "thumbnail_text": "CUT 60%. IT GROWS BACK.",
+  "priority": 6,
+  "first_comment": "A damaged liver can only lose about a third, so this works best on a healthy one. What other body fact should we cover?",
+  "id": "2028-04-18-liver-regrows-after-two-thirds-removed"
+}

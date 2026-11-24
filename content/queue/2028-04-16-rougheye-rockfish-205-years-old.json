@@ -1,0 +1,61 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "rougheye rockfish",
+  "title": "A Fish Caught in Alaska in 2000 Had Hatched Around 1795",
+  "scenes": [
+    {
+      "text": "A fisherman pulled up a fish in Alaska that was older than the light bulb.",
+      "keywords": "rockfish"
+    },
+    {
+      "text": "It was a rougheye rockfish, caught in the year 2000. Scientists counted its age.",
+      "keywords": "rockfish underwater"
+    },
+    {
+      "text": "Inside a fish's ear is a tiny stone that grows one ring every year, like a tree.",
+      "keywords": "tree rings close up"
+    },
+    {
+      "text": "They sliced it, charred it in a flame, and counted under a microscope.",
+      "keywords": "scientist microscope"
+    },
+    {
+      "text": "Two hundred and five rings. It hatched around 1795, when Napoleon was still a young general.",
+      "keywords": "rockfish deep sea"
+    },
+    {
+      "text": "Cold, deep water slows everything down. Even dying.",
+      "keywords": "deep ocean dark water"
+    }
+  ],
+  "description": "A rougheye rockfish caught in southeast Alaska in May 2000 was aged at 205 years from the growth rings in its ear stone (otolith), the oldest fish recorded off Alaska and possibly in the whole North Pacific.\nRougheyes live roughly 150 to 450 metres deep and can grow to 97 cm. Otolith ages are read by eye, so treat the exact number as an estimate.\nWhat would a 205-year-old fish have lived through?",
+  "tags": [
+    "rougheye rockfish",
+    "oldest fish",
+    "rockfish",
+    "longest living animals",
+    "otolith",
+    "alaska fish",
+    "deep sea fish",
+    "fish facts",
+    "animal records",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#fish",
+    "#ocean",
+    "#animals"
+  ],
+  "sources": [
+    "https://mtalab.adfg.alaska.gov/ADU/Files/AFRB.08.1.012-021.pdf",
+    "https://wdfw.wa.gov/species-habitats/species/sebastes-aleutianus"
+  ],
+  "thumbnail_text": "205-YEAR-OLD FISH",
+  "priority": 5,
+  "first_comment": "Bonus: the same paper found another slope rockfish aged 157. Which animal do you think lives longest of all?",
+  "id": "2028-04-16-rougheye-rockfish-205-years-old"
+}

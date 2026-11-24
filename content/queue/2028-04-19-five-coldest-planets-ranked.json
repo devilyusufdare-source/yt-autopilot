@@ -1,0 +1,72 @@
+{
+  "format": "ranking",
+  "ranking_by": "mean temperature (NASA planetary fact sheet)",
+  "topic": "space",
+  "subject": "planets",
+  "title": "The 5 Coldest Planets, Ranked (#1 Barely Beats #2)",
+  "scenes": [
+    {
+      "text": "The coldest planet is a billion miles past number two, and only five degrees colder.",
+      "keywords": "planet in space"
+    },
+    {
+      "text": "Number five: Mars. Minus 65 Celsius on average, colder than Antarctica.",
+      "keywords": "mars planet",
+      "rank": 5,
+      "label": "Mars · -65 °C"
+    },
+    {
+      "text": "Number four: Jupiter. Minus 110, even though it makes some of its own heat.",
+      "keywords": "jupiter planet",
+      "rank": 4,
+      "label": "Jupiter · -110 °C"
+    },
+    {
+      "text": "Number three: Saturn. Minus 140, at the cloud layer where pressure matches Earth's air.",
+      "keywords": "saturn planet",
+      "rank": 3,
+      "label": "Saturn · -140 °C"
+    },
+    {
+      "text": "Number two: Uranus. Minus 195, a planet tipped on its side.",
+      "keywords": "uranus planet",
+      "rank": 2,
+      "label": "Uranus · -195 °C"
+    },
+    {
+      "text": "Number one: Neptune. Minus 200. A billion miles farther out, and just five degrees colder.",
+      "keywords": "neptune planet",
+      "rank": 1,
+      "label": "Neptune · -200 °C"
+    }
+  ],
+  "description": "Mean temperatures from NASA's planetary fact sheet: Mars -65 °C, Jupiter -110 °C, Saturn -140 °C, Uranus -195 °C and Neptune -200 °C (for the giant planets, measured where the pressure equals sea level on Earth).\nNeptune orbits about 30 times Earth's distance from the Sun, Uranus about 19, yet they differ by only five degrees.\nWhy do you think Neptune isn't much colder?",
+  "tags": [
+    "coldest planets",
+    "planets ranked",
+    "neptune",
+    "uranus",
+    "saturn",
+    "jupiter",
+    "mars",
+    "planet temperature",
+    "solar system",
+    "space facts",
+    "top 5 ranking",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#ranking",
+    "#planets"
+  ],
+  "sources": [
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/index.html",
+    "https://science.nasa.gov/solar-system/temperatures-across-our-solar-system"
+  ],
+  "thumbnail_text": "5 COLDEST PLANETS, RANKED",
+  "priority": 5,
+  "first_comment": "Which would you put at #1 if moons counted too? And what should we rank next?",
+  "id": "2028-04-19-five-coldest-planets-ranked"
+}

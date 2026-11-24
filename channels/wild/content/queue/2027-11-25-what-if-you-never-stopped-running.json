@@ -1,0 +1,62 @@
+{
+  "format": "whatif",
+  "topic": "body",
+  "subject": "long distance runner",
+  "title": "What If You Never Stopped Running?",
+  "scenes": [
+    {
+      "text": "What if you never stopped running? Your legs aren't what gives up first.",
+      "keywords": "runner on empty road"
+    },
+    {
+      "text": "In week one, runners crossing America burned energy at a huge multiple of their resting rate.",
+      "keywords": "marathon runners road"
+    },
+    {
+      "text": "But the body has a ceiling: about two and a half times your resting burn, roughly four thousand calories a day.",
+      "keywords": "runner eating food"
+    },
+    {
+      "text": "Above it, you can't refuel fast enough. Your body starts eating its own fat stores.",
+      "keywords": "tired runner sitting"
+    },
+    {
+      "text": "By week twenty, the runners' bodies had quietly cut about six hundred calories a day elsewhere.",
+      "keywords": "runner sunset road"
+    },
+    {
+      "text": "So the limit isn't your muscles. It's how fast your body can turn food into fuel.",
+      "keywords": "runner finish line"
+    }
+  ],
+  "description": "A 2019 Science Advances study of athletes running the 3,000-mile Race Across the USA, about a marathon a day for months, found humans can sustain only about 2.5 times their resting metabolic rate, roughly 4,000 kcal a day.\nAfter 20 weeks the runners burned about 600 fewer calories a day than their mileage predicted. Researchers think the cap comes from how fast the body can absorb and convert food.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "never stop running",
+    "human endurance",
+    "endurance limit",
+    "metabolism",
+    "ultramarathon",
+    "calories",
+    "race across usa",
+    "human body facts",
+    "science facts",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#humanbody",
+    "#sciencefacts"
+  ],
+  "sources": [
+    "https://www.aaas.org/news/human-endurance-has-metabolic-limit",
+    "https://today.duke.edu/2019/06/there-limit-human-endurance-science-says-yes",
+    "https://sites.harvard.edu/sitn/2019/06/24/human-endurance-not-limitless"
+  ],
+  "thumbnail_text": "WHAT IF YOU NEVER STOP RUNNING?",
+  "priority": 6,
+  "first_comment": "The same ceiling showed up in the Tour de France and in pregnancy. What's the longest you've ever run without stopping?",
+  "id": "2027-11-25-what-if-you-never-stopped-running"
+}
