@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-23T22:38:00+00:00",
+  "updated_at": "2026-11-24T00:19:53+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 89,
     "channel_views": 116910,
-    "video_count": 425
+    "video_count": 427
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/wzYEu-w7Ww0",
-      "https://youtube.com/shorts/hsIoAzF-Tyo"
+      "https://youtube.com/shorts/C-B8qGMgpYU",
+      "https://youtube.com/shorts/siGA3-PQ2IY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/hsIoAzF-Tyo"
+      "https://youtube.com/shorts/siGA3-PQ2IY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/hsIoAzF-Tyo"
+      "https://youtube.com/shorts/siGA3-PQ2IY"
     ]
   },
   "retention": {
@@ -93,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 425,
-  "total_views": 119514,
+  "total_videos": 427,
+  "total_views": 119643,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 321,
-      "avg_views": 301,
+      "videos": 323,
+      "avg_views": 299,
       "best_views": 1507
     },
     "human body": {
@@ -128,7 +128,7 @@
     },
     "technology": {
       "videos": 9,
-      "avg_views": 103,
+      "avg_views": 105,
       "best_views": 286
     },
     "games": {
@@ -139,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 409,
-      "avg_views": 276,
+      "videos": 411,
+      "avg_views": 275,
       "over_1500": 3
     },
     "punch": {
@@ -151,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 339,
-      "avg_views": 240
+      "videos": 341,
+      "avg_views": 239
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -3057,7 +3057,7 @@
       "hook": "This spider mother is cooking herself for dinner.",
       "published_at": "2026-11-05T21:50:33Z",
       "privacy": "public",
-      "views": 15,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUQJVqXc1zI",
@@ -5157,7 +5157,7 @@
       "hook": "This animal has no teeth. It killed two hunters.",
       "published_at": "2026-11-15T19:00:37Z",
       "privacy": "public",
-      "views": 60,
+      "views": 61,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/7uKz9J6doK4",
@@ -5717,7 +5717,7 @@
       "hook": "This newt can kill almost anything that swallows it. Except one snake.",
       "published_at": "2026-11-16T03:10:04Z",
       "privacy": "public",
-      "views": 107,
+      "views": 108,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/s-Oargwa64E",
@@ -6697,7 +6697,7 @@
       "hook": "Scientists changed one thing, and hamster mothers ate their pups.",
       "published_at": "2026-11-17T09:50:35Z",
       "privacy": "public",
-      "views": 205,
+      "views": 206,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/BvjrR1NGn_s",
@@ -8265,7 +8265,7 @@
       "hook": "They're one day old. Now they have to jump.",
       "published_at": "2026-11-19T04:40:13Z",
       "privacy": "public",
-      "views": 904,
+      "views": 903,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/cXzy_DCv0Rg",
@@ -8629,7 +8629,7 @@
       "hook": "That isn't a dead leaf on the riverbed. It's waiting for a fish.",
       "published_at": "2026-11-20T02:15:18Z",
       "privacy": "public",
-      "views": 904,
+      "views": 905,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/6xndYUmKm4s",
@@ -8965,7 +8965,7 @@
       "hook": "This fish attacks scuba divers. And swimming up makes it worse.",
       "published_at": "2026-11-21T21:40:19Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/r02FaMyLqps",
@@ -9021,7 +9021,7 @@
       "hook": "This whale squirts ink like a squid.",
       "published_at": "2026-11-22T00:00:15Z",
       "privacy": "public",
-      "views": 819,
+      "views": 821,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs",
@@ -9133,7 +9133,7 @@
       "hook": "Science once named a worm. It was an octopus's arm.",
       "published_at": "2026-11-22T00:30:01Z",
       "privacy": "public",
-      "views": 111,
+      "views": 115,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc",
@@ -9161,7 +9161,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 81,
+      "views": 108,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU"
@@ -9369,7 +9369,7 @@
       "hook": "Millions of these crayfish exist. They're all one animal.",
       "published_at": "2026-11-23T00:40:22Z",
       "privacy": "public",
-      "views": 138,
+      "views": 153,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM"
@@ -9449,7 +9449,7 @@
       "hook": "Spiders eat snakes. On every continent but one.",
       "published_at": "2026-11-23T09:40:26Z",
       "privacy": "public",
-      "views": 48,
+      "views": 49,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/BU5Vn7FN7oY"
@@ -9609,7 +9609,7 @@
       "hook": "The five buildings that took longest to finish. Number one took longer than the United States has existed.",
       "published_at": "2026-11-23T02:15:13Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/4Mgc724oTSs"
@@ -9997,7 +9997,7 @@
       "hook": "A fly the size of a grain of rice hunts like a guided missile.",
       "published_at": "2026-11-21T00:00:26Z",
       "privacy": "public",
-      "views": 146,
+      "views": 145,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6RusQeLzNC8",
@@ -10165,7 +10165,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 1066,
+      "views": 1064,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo",
@@ -10221,7 +10221,7 @@
       "hook": "One electric eel gives 860 volts. Ten at once is a different story.",
       "published_at": "2026-11-21T20:20:08Z",
       "privacy": "public",
-      "views": 246,
+      "views": 249,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/ahNRNMxj9mA",
@@ -10305,7 +10305,7 @@
       "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
       "published_at": "2026-11-22T19:00:26Z",
       "privacy": "public",
-      "views": 491,
+      "views": 501,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ"
@@ -10329,7 +10329,7 @@
       "hook": "Every animal runs from a forest fire. One beetle flies straight toward it.",
       "published_at": "2026-11-22T20:00:38Z",
       "privacy": "public",
-      "views": 78,
+      "views": 77,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Aw7y-aQIuFA"
@@ -10377,7 +10377,7 @@
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
       "published_at": "2026-11-23T00:00:17Z",
       "privacy": "public",
-      "views": 71,
+      "views": 81,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g"
@@ -10457,8 +10457,8 @@
       "hook": "A spider near Lake Victoria craves human blood. It can't pierce your skin.",
       "published_at": "2026-11-22T20:30:04Z",
       "privacy": "public",
-      "views": 619,
-      "likes": 2,
+      "views": 629,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M7aCq1QH0Ho"
     },
@@ -10509,7 +10509,7 @@
       "hook": "Swallows skim this African lake to drink. Some never fly back up.",
       "published_at": "2026-11-23T04:10:04Z",
       "privacy": "public",
-      "views": 479,
+      "views": 516,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/n1zH-Jpia10"
@@ -10531,22 +10531,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A toad swallows this beetle whole. The beetle wins.",
-      "published_at": "2026-11-23T22:36:42Z",
-      "privacy": "private",
+      "published_at": "2026-11-24T00:00:38Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/wzYEu-w7Ww0"
     },
     "hsIoAzF-Tyo": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT27S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10555,12 +10555,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
-      "published_at": "2026-11-23T22:37:52Z",
+      "published_at": "2026-11-23T23:10:02Z",
+      "privacy": "public",
+      "views": 7,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/hsIoAzF-Tyo"
+    },
+    "C-B8qGMgpYU": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT27S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Parrot Missing Half Its Beak Won Every Fight and Became Boss",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This parrot lost half his beak. Now he's the boss.",
+      "published_at": "2026-11-24T00:18:31Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/hsIoAzF-Tyo"
+      "url": "https://youtube.com/shorts/C-B8qGMgpYU"
     },
     "nib97oLvxwI": {
       "upload_status": "processed",
@@ -10617,6 +10641,30 @@
       "avg_view_percent": 51.7,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "siGA3-PQ2IY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Ant Queen Gives Birth to Sons of a Different Species",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This ant queen gives birth to another species.",
+      "published_at": "2026-11-24T00:19:42Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/siGA3-PQ2IY"
     },
     "KZhvfyr0xgY": {
       "upload_status": "processed",
