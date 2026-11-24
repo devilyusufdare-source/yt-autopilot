@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-24T21:36:50+00:00",
+  "updated_at": "2026-11-24T23:08:09+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 22,
     "channel_views": 19844,
-    "video_count": 143
+    "video_count": 144
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/TF7RF4CnmiY"
+      "https://youtube.com/shorts/3JAwig_ZbLc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/TF7RF4CnmiY"
+      "https://youtube.com/shorts/3JAwig_ZbLc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/TF7RF4CnmiY"
+      "https://youtube.com/shorts/3JAwig_ZbLc"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 144,
-  "total_views": 20018,
+  "total_videos": 145,
+  "total_views": 20011,
   "by_topic": {
     "earth": {
       "videos": 16,
@@ -114,9 +114,9 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 33,
-      "avg_views": 88,
-      "best_views": 822
+      "videos": 34,
+      "avg_views": 85,
+      "best_views": 810
     },
     "technology": {
       "videos": 21,
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 144,
-      "avg_views": 139,
+      "videos": 145,
+      "avg_views": 138,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 143,
-      "avg_views": 133
+      "videos": 144,
+      "avg_views": 132
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
       "topic": "animals",
-      "views": 1192,
+      "views": 1189,
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
@@ -193,7 +193,7 @@
     {
       "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
       "topic": "body",
-      "views": 822,
+      "views": 810,
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
     },
     {
@@ -3443,7 +3443,7 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1192,
+      "views": 1189,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w",
@@ -3779,7 +3779,7 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 822,
+      "views": 810,
       "likes": 19,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc",
@@ -3919,7 +3919,7 @@
       "hook": "What if a disease could be wiped out with no vaccine and no drug? One nearly was.",
       "published_at": "2026-11-23T08:40:05Z",
       "privacy": "public",
-      "views": 25,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ENjWrNbpz4"
@@ -4055,7 +4055,7 @@
       "hook": "What if you aimed the best telescope ever built at nothing, for ten days? In 1995, someone did.",
       "published_at": "2026-11-23T11:50:08Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/FdfnsKuwHF4"
@@ -4079,7 +4079,7 @@
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
       "published_at": "2026-11-23T23:30:38Z",
       "privacy": "public",
-      "views": 42,
+      "views": 47,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uA4BiNGtBCI"
@@ -4181,6 +4181,30 @@
       "url": "https://youtube.com/shorts/gF1OnIb8rI4"
     },
     "TF7RF4CnmiY": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT48S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Earth Were 5% Closer to the Sun? The Oceans Would Leak Into Space",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if Earth sat five percent closer to the Sun? You wouldn't boil. Something slower would happen.",
+      "published_at": "2026-11-24T22:00:38Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/TF7RF4CnmiY"
+    },
+    "3JAwig_ZbLc": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -4192,17 +4216,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If Earth Were 5% Closer to the Sun? The Oceans Would Leak Into Space",
-      "topic": "space",
+      "title": "What If You Held In Every Sneeze?",
+      "topic": "body",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if Earth sat five percent closer to the Sun? You wouldn't boil. Something slower would happen.",
-      "published_at": "2026-11-24T21:36:47Z",
+      "hook": "What if you held in every sneeze? The pressure has to go somewhere.",
+      "published_at": "2026-11-24T23:08:04Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/TF7RF4CnmiY"
+      "url": "https://youtube.com/shorts/3JAwig_ZbLc"
     }
   }
 }
