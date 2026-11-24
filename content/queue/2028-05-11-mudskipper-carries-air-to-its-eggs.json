@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "mudskipper",
+  "title": "This Fish Carries Air Underground to Keep Its Eggs Breathing",
+  "scenes": [
+    {
+      "text": "This fish fills its nest with air, one mouthful at a time.",
+      "keywords": "mudskipper"
+    },
+    {
+      "text": "Mudskippers live on mudflats and lay their eggs in a chamber deep in the mud.",
+      "keywords": "mudskipper"
+    },
+    {
+      "text": "The water down there has almost no oxygen. The eggs would suffocate.",
+      "keywords": "mudflat"
+    },
+    {
+      "text": "So the male gulps air at the surface, dives down, and spits it into the chamber.",
+      "keywords": "mudskipper"
+    },
+    {
+      "text": "About 100 mouthfuls make a bubble the eggs can breathe from.",
+      "keywords": "mudskipper"
+    },
+    {
+      "text": "When it's time to hatch, he takes the air back out, and the flood makes them hatch.",
+      "keywords": "mudskipper"
+    }
+  ],
+  "description": "Mudskippers lay eggs in an underground chamber where the water holds almost no oxygen. Males of Periophthalmus modestus gulp air at the surface and release it into the egg chamber, around 100 mouthfuls to fill it.\nAt hatching time the male removes the air so the chamber floods, which triggers hatching (Journal of Experimental Biology, 2007).\nWhat's the most devoted animal parent you know?",
+  "tags": [
+    "mudskipper",
+    "fish",
+    "fish out of water",
+    "eggs",
+    "animal parents",
+    "mudflats",
+    "oxygen",
+    "fish facts",
+    "animal facts",
+    "weird animals",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#fish",
+    "#animals",
+    "#nature"
+  ],
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/17981862/",
+    "https://www.nationalgeographic.com/magazine/article/mudskipper-builds-ideal-nest-for-his-offspring",
+    "https://ideas.repec.org/a/nat/nature/v391y1998i6664d10.1038_34560.html"
+  ],
+  "thumbnail_text": "100 GULPS OF AIR FOR EGGS",
+  "priority": 0,
+  "first_comment": "Mudskippers also breathe through their skin. Which fish has the strangest life, in your opinion?",
+  "id": "2028-05-11-mudskipper-carries-air-to-its-eggs"
+}

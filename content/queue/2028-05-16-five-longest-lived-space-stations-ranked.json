@@ -1,0 +1,74 @@
+{
+  "format": "ranking",
+  "ranking_by": "years in orbit, from launch of the first module to reentry (or to November 2026)",
+  "topic": "space",
+  "subject": "space station",
+  "title": "The 5 Longest-Lived Space Stations, Ranked (#1 Is Still Up)",
+  "scenes": [
+    {
+      "text": "Only two of these space stations are still flying. One is number one.",
+      "keywords": "space station orbit"
+    },
+    {
+      "text": "Number five: China's Tiangong. Its core module launched in 2021, so about five and a half years so far.",
+      "keywords": "Tiangong space station",
+      "rank": 5,
+      "label": "Tiangong · 5.5 years"
+    },
+    {
+      "text": "Number four: Skylab, America's first station. Six years in orbit before it fell in 1979.",
+      "keywords": "Skylab",
+      "rank": 4,
+      "label": "Skylab · 6 years"
+    },
+    {
+      "text": "Number three: Salyut 7. Almost nine years before it came down in 1991.",
+      "keywords": "space station",
+      "rank": 3,
+      "label": "Salyut 7 · ~9 years"
+    },
+    {
+      "text": "Number two: Mir. Fifteen years, until it was steered into the Pacific in 2001.",
+      "keywords": "Mir space station",
+      "rank": 2,
+      "label": "Mir · 15 years"
+    },
+    {
+      "text": "Number one: the International Space Station. First piece launched in 1998. Twenty-eight years, and still flying.",
+      "keywords": "International Space Station",
+      "rank": 1,
+      "label": "ISS · 28 years"
+    }
+  ],
+  "description": "Time in orbit: ISS since 20 Nov 1998 (28 years in Nov 2026), Mir 19 Feb 1986 to 23 Mar 2001 (15 years), Salyut 7 19 Apr 1982 to 7 Feb 1991 (8.8 years), Skylab 14 May 1973 to 11 Jul 1979 (6.2 years), Tiangong since 29 Apr 2021 (5.6 years).\nSalyut 6 (4.8 years) just misses the list.\nWhich station would you want to live on?",
+  "tags": [
+    "space stations",
+    "iss",
+    "international space station",
+    "mir",
+    "skylab",
+    "salyut 7",
+    "tiangong",
+    "space history",
+    "space ranked",
+    "top 5",
+    "space facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#ranking",
+    "#iss"
+  ],
+  "sources": [
+    "https://sci.esa.int/web/home/-/11765-launch-of-the-first-element-of-international-space-station-on-20-november",
+    "https://www.nasa.gov/history/20-years-ago-space-station-mir-reenters-earths-atmosphere/",
+    "https://www.nasa.gov/history/40-years-ago-skylab-reenters-earths-atmosphere/",
+    "https://www.smithsonianmag.com/air-space-magazine/china-begins-building-its-own-space-station-180977622/"
+  ],
+  "thumbnail_text": "5 LONGEST-LIVED SPACE STATIONS",
+  "priority": 0,
+  "first_comment": "Will Tiangong outlast the ISS? Tell us what we should rank next.",
+  "id": "2028-05-16-five-longest-lived-space-stations-ranked"
+}

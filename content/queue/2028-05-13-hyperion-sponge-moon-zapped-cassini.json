@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "space",
+  "subject": "Hyperion moon",
+  "title": "Saturn Has a Sponge-Shaped Moon, and It Zapped a Spacecraft",
+  "scenes": [
+    {
+      "text": "Saturn has a moon that looks like a sponge, and it shot at a spacecraft.",
+      "keywords": "Hyperion moon"
+    },
+    {
+      "text": "Hyperion is about 170 miles across, and more than 40 percent of it is empty space.",
+      "keywords": "Saturn moon"
+    },
+    {
+      "text": "It's so light it would almost float in water, and it tumbles with no regular spin.",
+      "keywords": "Saturn"
+    },
+    {
+      "text": "In 2014, scientists found that Cassini had flown through a beam of electrons from its surface.",
+      "keywords": "Cassini spacecraft"
+    },
+    {
+      "text": "Sunlight and Saturn's magnetic bubble had charged the moon to about minus 200 volts.",
+      "keywords": "Saturn"
+    },
+    {
+      "text": "It was the first charged surface ever confirmed on a world other than our Moon.",
+      "keywords": "Hyperion moon"
+    }
+  ],
+  "description": "Hyperion, about 270 km across, has a porosity of more than 40% and a density about half that of water, and it tumbles chaotically.\nIn 2014 scientists reported that during a 2005 flyby Cassini was hit by an electron beam from Hyperion's surface, charged to about minus 200 volts: the first confirmed charged surface on an object other than our Moon.\nWhich moon in the solar system would you visit first?",
+  "tags": [
+    "hyperion",
+    "saturn moon",
+    "saturn",
+    "cassini",
+    "space facts",
+    "moons",
+    "solar system",
+    "nasa",
+    "astronomy",
+    "planets",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#saturn",
+    "#astronomy"
+  ],
+  "sources": [
+    "https://science.nasa.gov/saturn/moons/hyperion/",
+    "https://www.jpl.nasa.gov/news/cassini-caught-in-hyperions-particle-beam/",
+    "https://www.nature.com/articles/nature05779"
+  ],
+  "thumbnail_text": "SPONGE MOON ZAPS SPACECRAFT",
+  "priority": 6,
+  "first_comment": "Hyperion's craters are so deep and sharp because there's so much empty space inside. Would you call it a moon or a rock?",
+  "id": "2028-05-13-hyperion-sponge-moon-zapped-cassini"
+}

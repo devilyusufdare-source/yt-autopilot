@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "technology",
+  "subject": "Voyager golden record",
+  "title": "The Record Leaving Our Solar System Comes With a Uranium Clock",
+  "scenes": [
+    {
+      "text": "Two records are leaving the solar system, with a clock built into the cover.",
+      "keywords": "golden record"
+    },
+    {
+      "text": "In 1977, both Voyager probes launched carrying a 12-inch gold-plated copper record.",
+      "keywords": "Voyager spacecraft"
+    },
+    {
+      "text": "On it: 115 images, greetings in 55 languages and about 90 minutes of music.",
+      "keywords": "vinyl record"
+    },
+    {
+      "text": "The cover shows how to play it, and a map of 14 pulsars pointing to our Sun.",
+      "keywords": "golden record"
+    },
+    {
+      "text": "The clock is a speck of pure uranium-238. Measure how much has decayed, and you know how long it's been flying.",
+      "keywords": "Voyager spacecraft"
+    },
+    {
+      "text": "Its half-life is four and a half billion years. The record should last more than a billion.",
+      "keywords": "golden record"
+    }
+  ],
+  "description": "Voyager 1 and 2 each carry a 12-inch gold-plated copper record with 115 images, greetings in 55 languages and about 90 minutes of music, chosen by a committee chaired by Carl Sagan.\nThe cover carries playing instructions, a pulsar map locating the Sun and an ultra-pure uranium-238 source that works as a radioactive clock (half-life 4.51 billion years).\nWhat song would you put on it today?",
+  "tags": [
+    "voyager golden record",
+    "voyager",
+    "golden record",
+    "nasa",
+    "carl sagan",
+    "space probe",
+    "uranium",
+    "interstellar",
+    "space facts",
+    "technology facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#voyager",
+    "#nasa"
+  ],
+  "sources": [
+    "https://science.nasa.gov/mission/voyager/golden-record-cover",
+    "https://science.nasa.gov/mission/voyager/golden-record-contents/",
+    "https://www.jpl.nasa.gov/news/voyager-will-carry-earth-sounds-record/"
+  ],
+  "thumbnail_text": "A URANIUM CLOCK ON A RECORD",
+  "priority": 6,
+  "first_comment": "The record even includes a cartridge and needle to play it. Which song would you send to aliens?",
+  "id": "2028-05-14-voyager-golden-record-uranium-clock"
+}

@@ -1,0 +1,74 @@
+{
+  "format": "ranking",
+  "ranking_by": "average adult male body mass",
+  "topic": "animals",
+  "subject": "land animals",
+  "title": "The 5 Heaviest Land Animals, Ranked (The Giraffe Misses Out)",
+  "scenes": [
+    {
+      "text": "The giraffe is the tallest animal on land. It doesn't even make this list.",
+      "keywords": "giraffe"
+    },
+    {
+      "text": "Number five: the hippo. A big male averages about one and a half tons.",
+      "keywords": "hippopotamus",
+      "rank": 5,
+      "label": "Hippo · 1.5 tons"
+    },
+    {
+      "text": "Number four: the African forest elephant. Smaller than its cousins, around two tons.",
+      "keywords": "forest elephant",
+      "rank": 4,
+      "label": "Forest elephant · ~2 tons"
+    },
+    {
+      "text": "Number three: the white rhino. Males weigh about 2.3 tons, all from eating grass.",
+      "keywords": "white rhino",
+      "rank": 3,
+      "label": "White rhino · 2.3 tons"
+    },
+    {
+      "text": "Number two: the Asian elephant. An adult male averages about four tons.",
+      "keywords": "asian elephant",
+      "rank": 2,
+      "label": "Asian elephant · 4 tons"
+    },
+    {
+      "text": "Number one: the African bush elephant. Males average six tons, about as much as four family cars.",
+      "keywords": "african elephant",
+      "rank": 1,
+      "label": "Bush elephant · 6 tons"
+    }
+  ],
+  "description": "Average adult male masses: African bush elephant about 6 t, Asian elephant about 4 t, white rhino about 2.3 t, African forest elephant about 2 t (an estimate) and hippo about 1.5 t. Large Indian rhinos can rival hippos; giraffes weigh 0.7-2 t.\nFigures from Larramendi (2016) and San Diego Zoo Wildlife Alliance fact sheets.\nWhich animal surprised you most on this list?",
+  "tags": [
+    "heaviest land animals",
+    "biggest animals",
+    "african elephant",
+    "asian elephant",
+    "white rhino",
+    "hippo",
+    "forest elephant",
+    "animals ranked",
+    "top 5",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#ranking",
+    "#elephant"
+  ],
+  "sources": [
+    "https://app.pan.pl/archive/published/app61/app001362014.pdf",
+    "https://ielc.libguides.com/sdzg/factsheets/whiterhino/characteristics",
+    "https://ielc.libguides.com/sdzg/factsheets/hippopotamus/characteristics",
+    "https://britannica.com/science/How-Much-Does-an-Elephant-Weigh"
+  ],
+  "thumbnail_text": "5 HEAVIEST LAND ANIMALS",
+  "priority": 5,
+  "first_comment": "Which animal would you put at number one if extinct ones counted? And what should we rank next?",
+  "id": "2028-05-15-five-heaviest-land-animals-ranked"
+}
