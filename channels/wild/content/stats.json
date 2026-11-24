@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-23T22:59:42+00:00",
+  "updated_at": "2026-11-24T01:04:13+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 22,
-    "channel_views": 17722,
-    "video_count": 138
+    "channel_views": 18936,
+    "video_count": 140
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/uA4BiNGtBCI",
-      "https://youtube.com/shorts/OpmJ3yfz1lc"
+      "https://youtube.com/shorts/qDc5aUNOZlk"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/OpmJ3yfz1lc"
+      "https://youtube.com/shorts/qDc5aUNOZlk"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/OpmJ3yfz1lc"
+      "https://youtube.com/shorts/qDc5aUNOZlk"
     ]
   },
   "retention": {
@@ -91,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 140,
-  "total_views": 19637,
+  "total_videos": 141,
+  "total_views": 19659,
   "by_topic": {
     "earth": {
       "videos": 15,
@@ -110,13 +109,13 @@
       "best_views": 414
     },
     "animals": {
-      "videos": 15,
-      "avg_views": 263,
+      "videos": 16,
+      "avg_views": 247,
       "best_views": 1428
     },
     "body": {
       "videos": 33,
-      "avg_views": 78,
+      "avg_views": 79,
       "best_views": 654
     },
     "technology": {
@@ -127,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 140,
-      "avg_views": 140,
+      "videos": 141,
+      "avg_views": 139,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 139,
-      "avg_views": 134
+      "videos": 140,
+      "avg_views": 133
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -164,13 +163,13 @@
     {
       "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
       "topic": "animals",
-      "views": 1158,
+      "views": 1163,
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
       "title": "What If the Sun's Gravity Vanished but It Kept Shining?",
       "topic": "space",
-      "views": 1096,
+      "views": 1097,
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes."
     },
     {
@@ -532,7 +531,7 @@
       "hook": "What if the Sun's gravity switched off? You wouldn't notice for eight minutes.",
       "published_at": "2026-10-27T16:50:07Z",
       "privacy": "public",
-      "views": 1096,
+      "views": 1097,
       "likes": 36,
       "comments": 1,
       "url": "https://youtube.com/shorts/vvwy7bHBZt4",
@@ -3444,7 +3443,7 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1158,
+      "views": 1163,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w",
@@ -3664,7 +3663,7 @@
       "hook": "What if you binned a hard drive worth hundreds of millions of dollars? In 2013, it happened.",
       "published_at": "2026-11-22T19:10:34Z",
       "privacy": "public",
-      "views": 22,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/boMYdIENFW4"
@@ -3796,7 +3795,7 @@
       "hook": "What if a plane took off and didn't land for two months? One did. It was tiny.",
       "published_at": "2026-11-22T21:20:12Z",
       "privacy": "public",
-      "views": 24,
+      "views": 27,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/XEtNh6GXHWY"
@@ -3900,7 +3899,7 @@
       "hook": "What if a disease could be wiped out with no vaccine and no drug? One nearly was.",
       "published_at": "2026-11-23T08:40:05Z",
       "privacy": "public",
-      "views": 11,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ENjWrNbpz4"
@@ -4058,22 +4057,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
-      "published_at": "2026-11-23T22:57:57Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-23T23:30:38Z",
+      "privacy": "public",
+      "views": 8,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/uA4BiNGtBCI"
     },
     "OpmJ3yfz1lc": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT54S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4082,12 +4081,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if the device keeping your heart beating ran on plutonium? For thousands of people, it did.",
-      "published_at": "2026-11-23T22:59:36Z",
+      "published_at": "2026-11-23T23:50:38Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/OpmJ3yfz1lc"
+    },
+    "qDc5aUNOZlk": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Weighed Every Living Thing on Earth? Humans Barely Register",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you put every living thing on Earth on one scale? Humans would barely move the needle.",
+      "published_at": "2026-11-24T01:04:08Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/OpmJ3yfz1lc"
+      "url": "https://youtube.com/shorts/qDc5aUNOZlk"
     }
   }
 }
