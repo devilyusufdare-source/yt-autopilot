@@ -1,0 +1,63 @@
+{
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "airplane cabin door",
+  "title": "What If You Opened a Plane Door at 35,000 Feet?",
+  "scenes": [
+    {
+      "text": "What if you tried to open a plane door at 35,000 feet? You'd lose to the air.",
+      "keywords": "airplane flying above clouds"
+    },
+    {
+      "text": "To keep you breathing, the cabin is pumped to about eight pounds more pressure per square inch than outside.",
+      "keywords": "airplane cabin passengers"
+    },
+    {
+      "text": "On a passenger door, that adds up to several tons pressing it shut.",
+      "keywords": "airplane door closeup"
+    },
+    {
+      "text": "And the door is a plug: bigger than its frame, so it must swing inward first.",
+      "keywords": "flight attendant airplane door"
+    },
+    {
+      "text": "No human can pull several tons inward. The higher you fly, the tighter it seals.",
+      "keywords": "airplane wing clouds"
+    },
+    {
+      "text": "The real danger is near the ground. In 2023, a passenger opened one about 700 feet up.",
+      "keywords": "airplane landing runway"
+    }
+  ],
+  "description": "At cruising altitude an airliner cabin is pressurised to roughly 8 psi above the outside air. Spread over a typical passenger door of about 2,400 square inches, that works out to roughly 20,000 pounds, several tons, holding it closed; plug-type doors also have to move inward before they can open.\nNear the ground the pressure difference disappears: in May 2023 a passenger opened an emergency exit on an Asiana flight about 700 feet above Daegu, and the plane landed safely.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "plane door mid flight",
+    "open airplane door",
+    "cabin pressure",
+    "plug door",
+    "aviation facts",
+    "airplane",
+    "flight safety",
+    "physics",
+    "technology facts",
+    "what would happen",
+    "science facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#aviation",
+    "#sciencefacts"
+  ],
+  "sources": [
+    "https://askthepilot.com/tag/exit/",
+    "https://www.nationalgeographic.com/science/article/130528-airplane-door-open-midflight-pilot-eject",
+    "https://www.nbcnews.com/news/world/passenger-plane-flies-open-door-lands-safely-south-korea-rcna86373"
+  ],
+  "thumbnail_text": "WHAT IF YOU OPENED A PLANE DOOR?",
+  "priority": 7,
+  "first_comment": "Have you ever sat in the exit row? Would you trust yourself to open that door in an emergency?",
+  "id": "2027-12-02-what-if-you-opened-a-plane-door-at-35000-feet"
+}

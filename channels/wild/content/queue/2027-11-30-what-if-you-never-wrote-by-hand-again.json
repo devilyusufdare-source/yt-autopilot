@@ -1,0 +1,63 @@
+{
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "hand writing with pen",
+  "title": "What If You Never Wrote by Hand Again?",
+  "scenes": [
+    {
+      "text": "What if you never wrote by hand again? Your keyboard would win the race and lose the test.",
+      "keywords": "hands typing laptop keyboard"
+    },
+    {
+      "text": "Typing is fast. Students on laptops take down far more words in a lecture.",
+      "keywords": "students laptops lecture hall"
+    },
+    {
+      "text": "But in a Princeton study, they did worse on the conceptual questions afterwards.",
+      "keywords": "student taking exam"
+    },
+    {
+      "text": "Laptop note-takers copied lectures word for word instead of putting ideas in their own words.",
+      "keywords": "person typing fast"
+    },
+    {
+      "text": "In 2024, Norwegian scientists put 256 sensors on students' heads. Handwriting lit up brain networks that typing didn't.",
+      "keywords": "eeg cap brain scan"
+    },
+    {
+      "text": "Slow is the point. The effort of shaping every letter may be what makes it stick.",
+      "keywords": "hand writing with pen notebook"
+    }
+  ],
+  "description": "In a 2014 Psychological Science study (Princeton and UCLA), students who took lecture notes on laptops wrote more words but more verbatim, and did worse on conceptual questions than students writing by hand.\nIn a 2024 study at the Norwegian University of Science and Technology, 256-electrode EEG showed far more widespread brain connectivity when students wrote by hand than when they typed. Later replication attempts of the note-taking result have been mixed.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "handwriting vs typing",
+    "writing by hand",
+    "note taking",
+    "laptop notes",
+    "brain connectivity",
+    "learning",
+    "memory",
+    "students",
+    "technology facts",
+    "what would happen",
+    "science facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#handwriting",
+    "#sciencefacts"
+  ],
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/24760141/",
+    "https://www.frontiersin.org/news/2024/01/26/writing-by-hand-increase-brain-connectivity-typing",
+    "https://pubmed.ncbi.nlm.nih.gov/38343894/"
+  ],
+  "thumbnail_text": "WHAT IF YOU NEVER WROTE BY HAND?",
+  "priority": 5,
+  "first_comment": "When did you last write a full page by hand? Pen people versus keyboard people, go.",
+  "id": "2027-11-30-what-if-you-never-wrote-by-hand-again"
+}

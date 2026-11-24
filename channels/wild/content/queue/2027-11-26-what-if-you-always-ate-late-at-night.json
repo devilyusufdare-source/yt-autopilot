@@ -1,0 +1,63 @@
+{
+  "format": "whatif",
+  "topic": "body",
+  "subject": "dinner plate at night",
+  "title": "What If You Always Ate Dinner Late at Night?",
+  "scenes": [
+    {
+      "text": "What if you always ate dinner late at night? Same food, same calories, different body.",
+      "keywords": "dinner plate at night"
+    },
+    {
+      "text": "Harvard scientists fed volunteers identical meals, just four hours later in the day.",
+      "keywords": "people eating dinner"
+    },
+    {
+      "text": "Within days, the hunger hormone rose against the fullness hormone by about a third.",
+      "keywords": "hungry person fridge night"
+    },
+    {
+      "text": "Their bodies also burned about five percent fewer calories while awake. Same plate, slower engine.",
+      "keywords": "person sitting tired evening"
+    },
+    {
+      "text": "Even their fat tissue switched genes toward storing fat instead of burning it.",
+      "keywords": "microscope laboratory"
+    },
+    {
+      "text": "So the clock matters, not just the plate. Your body handles the same meal differently after dark.",
+      "keywords": "clock at night"
+    }
+  ],
+  "description": "In a 2022 Cell Metabolism study from Brigham and Women's Hospital, 16 volunteers ate identical meals on an early schedule and on a schedule shifted four hours later.\nLate eating raised hunger, increased the ghrelin-to-leptin ratio by about 34%, cut waking energy expenditure by about 5% and shifted fat-tissue genes toward fat storage.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "eating late at night",
+    "late dinner",
+    "meal timing",
+    "hunger hormones",
+    "leptin",
+    "ghrelin",
+    "metabolism",
+    "human body facts",
+    "health science",
+    "what would happen",
+    "science facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#humanbody",
+    "#sciencefacts"
+  ],
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/36198293/",
+    "https://news.harvard.edu/gazette/story/2022/10/study-looks-at-why-late-night-eating-increases-obesity-risk",
+    "https://www.sciencedaily.com/releases/2022/10/221004121928.htm"
+  ],
+  "thumbnail_text": "WHAT IF YOU ALWAYS ATE LATE?",
+  "priority": 6,
+  "first_comment": "The volunteers ate exactly the same food both times. What time do you usually eat dinner?",
+  "id": "2027-11-26-what-if-you-always-ate-late-at-night"
+}

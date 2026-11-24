@@ -1,0 +1,63 @@
+{
+  "format": "whatif",
+  "topic": "body",
+  "subject": "person asleep in bed",
+  "title": "What If You Only Slept Six Hours a Night?",
+  "scenes": [
+    {
+      "text": "What if you only slept six hours every night? You wouldn't feel the worst part.",
+      "keywords": "alarm clock early morning"
+    },
+    {
+      "text": "Scientists in Pennsylvania limited volunteers to six hours in bed for two weeks straight.",
+      "keywords": "person asleep in bed"
+    },
+    {
+      "text": "Every day, their attention lapses piled up. There was no point where they leveled off.",
+      "keywords": "tired person at desk"
+    },
+    {
+      "text": "By the end, they performed like people who had stayed awake for one to two nights straight.",
+      "keywords": "yawning person computer"
+    },
+    {
+      "text": "Yet they rated themselves only a little sleepy. They believed they had adapted.",
+      "keywords": "person drinking coffee morning"
+    },
+    {
+      "text": "So six hours doesn't feel like a problem. That's exactly why it is one.",
+      "keywords": "alarm clock ringing"
+    }
+  ],
+  "description": "In a 2003 University of Pennsylvania study published in Sleep, 48 adults were restricted to 4, 6 or 8 hours in bed for 14 days, or kept awake for three nights.\nThe 6-hour group's attention lapses rose steadily with no plateau, reaching levels equivalent to up to two nights of total sleep deprivation, while their own sleepiness ratings rose only slightly.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "six hours of sleep",
+    "sleep deprivation",
+    "sleep restriction",
+    "not enough sleep",
+    "sleep science",
+    "attention",
+    "human body facts",
+    "brain",
+    "health science",
+    "what would happen",
+    "science facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#sleep",
+    "#sciencefacts"
+  ],
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/12683469/",
+    "https://academic.oup.com/sleep/article/26/2/117/2709164",
+    "https://www.thedp.com/article/2003/03/study_shows_impact_of_sleep_loss_deprivation"
+  ],
+  "thumbnail_text": "WHAT IF YOU ONLY SLEPT 6 HOURS?",
+  "priority": 7,
+  "first_comment": "How many hours did you actually sleep last night? Be honest.",
+  "id": "2027-12-01-what-if-you-only-slept-six-hours-a-night"
+}
