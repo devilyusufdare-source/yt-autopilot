@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-11-24T21:08:01+00:00",
+  "updated_at": "2026-11-24T22:44:44+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 92,
+    "subscribers": 93,
     "channel_views": 121373,
     "video_count": 440
   },
   "diagnosis": {
-    "not_public": [],
+    "not_public": [
+      "https://youtube.com/shorts/VGuE6YMJ58k"
+    ],
     "made_for_kids": [],
-    "not_processed": [],
+    "not_processed": [
+      "https://youtube.com/shorts/VGuE6YMJ58k"
+    ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
-    "sd_only": []
+    "sd_only": [
+      "https://youtube.com/shorts/VGuE6YMJ58k"
+    ]
   },
   "retention": {
     "videos_with_data": 414,
@@ -39,7 +45,7 @@
       {
         "title": "The Fastest Shark Sometimes Ends Up Inside the Fishing Boat",
         "avg_view_percent": 311.7,
-        "views": 865
+        "views": 863
       },
       {
         "title": "A Parasite Lives Inside a Wasp's Belly. Its Mate Has 5 Hours to Find It",
@@ -86,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 438,
-  "total_views": 123432,
+  "total_videos": 439,
+  "total_views": 123919,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -100,13 +106,13 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 333,
-      "avg_views": 301,
+      "videos": 334,
+      "avg_views": 302,
       "best_views": 1507
     },
     "human body": {
       "videos": 10,
-      "avg_views": 383,
+      "avg_views": 384,
       "best_views": 1384
     },
     "history": {
@@ -132,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 422,
-      "avg_views": 276,
+      "videos": 423,
+      "avg_views": 277,
       "over_1500": 3
     },
     "punch": {
@@ -144,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 352,
-      "avg_views": 242
+      "videos": 353,
+      "avg_views": 243
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -2379,7 +2385,7 @@
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
       "views": 169,
-      "likes": 0,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg",
       "avg_view_seconds": 14.0,
@@ -7586,7 +7592,7 @@
       "hook": "Doctors scanned a man's head and found mostly fluid.",
       "published_at": "2026-11-18T20:00:36Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mV5WFa4n8X8",
@@ -7754,7 +7760,7 @@
       "hook": "On one Pacific island, the top predator has no bones. And it hunts birds.",
       "published_at": "2026-11-09T16:30:32Z",
       "privacy": "public",
-      "views": 343,
+      "views": 342,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/32p1FHP1L48",
@@ -8818,7 +8824,7 @@
       "hook": "In this pond, something two inches long is drinking the tadpoles.",
       "published_at": "2026-11-21T02:15:13Z",
       "privacy": "public",
-      "views": 230,
+      "views": 228,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg",
@@ -9154,7 +9160,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 157,
+      "views": 162,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU",
@@ -9510,7 +9516,7 @@
       "hook": "One touch of this caterpillar can stop your blood clotting.",
       "published_at": "2026-11-24T05:00:01Z",
       "privacy": "public",
-      "views": 274,
+      "views": 330,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/QjopkSF-yI8"
@@ -9802,8 +9808,8 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 423,
-      "likes": 7,
+      "views": 545,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8"
     },
@@ -10190,7 +10196,7 @@
       "hook": "Chimpanzees nearly emptied a forest of monkeys. It took teamwork.",
       "published_at": "2026-11-21T00:20:14Z",
       "privacy": "public",
-      "views": 945,
+      "views": 948,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16pVAdMJmQ",
@@ -10274,7 +10280,7 @@
       "hook": "Fishermen fear one shark for a strange reason: it might land in the boat.",
       "published_at": "2026-11-21T08:50:03Z",
       "privacy": "public",
-      "views": 865,
+      "views": 863,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/gjWX134b_AU",
@@ -10443,7 +10449,7 @@
       "published_at": "2026-11-22T03:40:18Z",
       "privacy": "public",
       "views": 42,
-      "likes": 0,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/COLUcCiSS2c",
       "avg_view_seconds": 11.0,
@@ -10470,7 +10476,7 @@
       "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
       "published_at": "2026-11-22T19:00:26Z",
       "privacy": "public",
-      "views": 748,
+      "views": 755,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ",
@@ -10526,7 +10532,7 @@
       "hook": "Red kangaroos grow up differently depending on which side of one fence they live.",
       "published_at": "2026-11-22T21:00:14Z",
       "privacy": "public",
-      "views": 227,
+      "views": 226,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2Tub0DIkUc",
@@ -10554,7 +10560,7 @@
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
       "published_at": "2026-11-23T00:00:17Z",
       "privacy": "public",
-      "views": 124,
+      "views": 122,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g",
@@ -10638,7 +10644,7 @@
       "hook": "A spider near Lake Victoria craves human blood. It can't pierce your skin.",
       "published_at": "2026-11-22T20:30:04Z",
       "privacy": "public",
-      "views": 893,
+      "views": 901,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M7aCq1QH0Ho",
@@ -10722,7 +10728,7 @@
       "hook": "A toad swallows this beetle whole. The beetle wins.",
       "published_at": "2026-11-24T00:00:38Z",
       "privacy": "public",
-      "views": 440,
+      "views": 508,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wzYEu-w7Ww0"
@@ -10746,7 +10752,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 84,
+      "views": 92,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo"
@@ -10770,8 +10776,8 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 215,
-      "likes": 2,
+      "views": 306,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU"
     },
@@ -10850,7 +10856,7 @@
       "hook": "This ant queen gives birth to another species.",
       "published_at": "2026-11-24T01:10:18Z",
       "privacy": "public",
-      "views": 207,
+      "views": 216,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/siGA3-PQ2IY"
@@ -10926,7 +10932,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 323,
+      "views": 383,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg"
@@ -10950,7 +10956,7 @@
       "hook": "Alchemists failed for centuries. Physicists finally turned lead into gold.",
       "published_at": "2026-11-24T03:20:19Z",
       "privacy": "public",
-      "views": 33,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hO2AhQOFOpg"
@@ -10974,8 +10980,8 @@
       "hook": "Orcas are top predators. Some keep handing their food to humans.",
       "published_at": "2026-11-24T04:30:28Z",
       "privacy": "public",
-      "views": 563,
-      "likes": 7,
+      "views": 619,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/L-m0jBWJt7M"
     },
@@ -11058,6 +11064,30 @@
       "avg_view_percent": 50.5,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "VGuE6YMJ58k": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Lions Batted a Pangolin Around for an Hour. It Walked Away",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A pride of lions couldn't open this animal.",
+      "published_at": "2026-11-24T22:44:36Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/VGuE6YMJ58k"
     },
     "tq008mZVJQU": {
       "upload_status": "processed",

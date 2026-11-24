@@ -58,5 +58,22 @@
   "thumbnail_text": "LIONS VS PANGOLIN: 1 HOUR",
   "priority": 7,
   "first_comment": "Lions don't always lose this fight, but they often do. What other animal could survive a whole pride?",
-  "id": "2028-05-08-lions-cant-open-a-rolled-pangolin"
+  "id": "2028-05-08-lions-cant-open-a-rolled-pangolin",
+  "youtube_id": "VGuE6YMJ58k",
+  "url": "https://youtube.com/shorts/VGuE6YMJ58k",
+  "uploaded_at": "2026-11-24T22:44:41+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-25T00:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 8,
+    "pixabay-photo": 1,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 23.2,
+  "style": "classic",
+  "kind": "shorts"
 }
