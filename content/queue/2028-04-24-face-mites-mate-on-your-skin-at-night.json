@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "face mite",
+  "title": "Tiny Mites Crawl Out of Almost Every Adult's Face at Night",
+  "scenes": [
+    {
+      "text": "Tonight, while you sleep, tiny animals will crawl out of your face to mate.",
+      "keywords": "mite under microscope"
+    },
+    {
+      "text": "They're face mites, a third of a millimetre long, living in the hair follicles of most adults.",
+      "keywords": "mite microscope"
+    },
+    {
+      "text": "By day they stay buried head first, eating the oil in your skin.",
+      "keywords": "skin pores close up"
+    },
+    {
+      "text": "They've lost the genes that protect against sunlight, so they only come out in the dark.",
+      "keywords": "person sleeping at night"
+    },
+    {
+      "text": "Scientists think they even use your own sleep hormone, released at dusk, to wake up.",
+      "keywords": "bedroom night"
+    },
+    {
+      "text": "They've lived on us so long, they may be turning into part of us.",
+      "keywords": "mite under microscope"
+    }
+  ],
+  "description": "Demodex folliculorum mites, about 0.3 mm long, live in the hair follicles of most adults' faces. A 2022 genome study led by the universities of Reading and Bangor found they have lost genes for UV protection and come out at night to mate.\nThe researchers suggest they may use the melatonin our skin releases at dusk, and could be shifting from parasites to symbionts.\nDid you know these were living on you?",
+  "tags": [
+    "face mites",
+    "demodex",
+    "demodex folliculorum",
+    "skin mites",
+    "mites",
+    "tiny animals",
+    "arachnids",
+    "microscopic animals",
+    "animal facts",
+    "science news",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#animals",
+    "#science",
+    "#microscope"
+  ],
+  "sources": [
+    "https://reading.ac.uk/news/2022/Research-News/Secret-lives-of-skin-mites-in-our-faces",
+    "https://bangor.ac.uk/news/the-secret-lives-of-mites-in-the-skin-of-our-faces",
+    "https://www.sciencedaily.com/releases/2022/06/220622101404.htm"
+  ],
+  "thumbnail_text": "THEY LIVE IN YOUR FACE",
+  "priority": 6,
+  "first_comment": "Each mite has only a few hundred cells, and each leg runs on three single-cell muscles. Does this make you want to wash your face, or not think about it?",
+  "id": "2028-04-24-face-mites-mate-on-your-skin-at-night"
+}

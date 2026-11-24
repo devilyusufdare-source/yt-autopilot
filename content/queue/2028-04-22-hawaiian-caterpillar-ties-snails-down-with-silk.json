@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "caterpillar",
+  "title": "A Hawaiian Caterpillar Ties Snails to Leaves, Then Eats Them",
+  "scenes": [
+    {
+      "text": "On one Hawaiian island, a caterpillar hunts like a spider.",
+      "keywords": "caterpillar on leaf"
+    },
+    {
+      "text": "Caterpillars eat leaves. This one, found on Maui, eats meat.",
+      "keywords": "caterpillar close up"
+    },
+    {
+      "text": "When it finds a tiny snail resting on a leaf, it starts spinning silk.",
+      "keywords": "small snail on leaf"
+    },
+    {
+      "text": "It ties the shell down to the leaf, so the snail can't crawl away.",
+      "keywords": "silk threads close up"
+    },
+    {
+      "text": "Then it squeezes inside the shell and eats the snail alive.",
+      "keywords": "snail shell close up"
+    },
+    {
+      "text": "Scientists had studied caterpillars for centuries. This was the first one ever caught hunting snails.",
+      "keywords": "caterpillar on leaf"
+    }
+  ],
+  "description": "Hyposmocoma molluscivora, a moth caterpillar from Maui, ties small snails to leaves with silk, then crawls into the shell and eats the snail, as described in Science in 2005.\nIt was the first caterpillar known to prey on snails; almost all caterpillars eat plants.\nWhat other animal would you never expect to be a hunter?",
+  "tags": [
+    "hyposmocoma molluscivora",
+    "snail eating caterpillar",
+    "carnivorous caterpillar",
+    "hawaii insects",
+    "maui",
+    "caterpillar facts",
+    "predator insects",
+    "weird animals",
+    "animal facts",
+    "nature facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#insects",
+    "#animals",
+    "#hawaii"
+  ],
+  "sources": [
+    "https://www.nature.com/news/2005/050718/full/news050718-11.html",
+    "https://www.sciencenews.org/article/meat-eating-caterpillar-it-hunts-snails-and-ties-them-down",
+    "https://manoa.hawaii.edu/news/article.php?aId=1159"
+  ],
+  "thumbnail_text": "THIS CATERPILLAR EATS MEAT",
+  "priority": 6,
+  "first_comment": "It lives in a portable silk case, so it hunts while carrying its own house. Would you rather meet this caterpillar or the snail?",
+  "id": "2028-04-22-hawaiian-caterpillar-ties-snails-down-with-silk"
+}
