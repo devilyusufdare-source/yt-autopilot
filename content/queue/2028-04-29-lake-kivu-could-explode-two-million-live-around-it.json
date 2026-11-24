@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "science",
+  "subject": "Lake Kivu",
+  "title": "A Lake in Africa Could Explode. Two Million People Live Around It",
+  "scenes": [
+    {
+      "text": "There's a lake in Africa that could explode. Two million people live around it.",
+      "keywords": "african lake aerial"
+    },
+    {
+      "text": "Lake Kivu looks calm. But its deep water holds about three hundred cubic kilometres of gas.",
+      "keywords": "calm lake water"
+    },
+    {
+      "text": "Carbon dioxide and methane, locked down by the weight of the water above.",
+      "keywords": "gas bubbles water"
+    },
+    {
+      "text": "Like the cap on a soda bottle.",
+      "keywords": "soda bottle opening"
+    },
+    {
+      "text": "If the deep water ever rolled over, it could release a suffocating cloud. A smaller lake in Cameroon did that in 1986.",
+      "keywords": "fog over lake"
+    },
+    {
+      "text": "So Rwanda is pumping the gas up and burning it for electricity.",
+      "keywords": "power plant"
+    }
+  ],
+  "description": "Lake Kivu, on the border of Rwanda and the Democratic Republic of the Congo, holds roughly 300 cubic kilometres of dissolved carbon dioxide and methane in its deep layers, and about two million people live around it.\nIn 1986 a similar gas release from Lake Nyos in Cameroon killed more than 1,700 people. At Kivu, power plants now extract the methane to generate electricity, which also slowly lowers the risk.\nWould you live next to a lake like this?",
+  "tags": [
+    "lake kivu",
+    "limnic eruption",
+    "exploding lake",
+    "lake nyos",
+    "methane",
+    "carbon dioxide",
+    "rwanda",
+    "science facts",
+    "earth science",
+    "geology facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#earth",
+    "#facts"
+  ],
+  "sources": [
+    "https://www.livescience.com/planet-earth/geology/lake-kivu-the-ticking-time-bomb-that-could-one-day-explode-and-unleash-a-massive-deadly-gas-cloud",
+    "https://en.wikipedia.org/wiki/Lake_Kivu",
+    "https://www.nationalgeographic.com/environment/article/africa-lake-kivu-explosion-energy"
+  ],
+  "thumbnail_text": "THIS LAKE COULD EXPLODE",
+  "priority": 6,
+  "first_comment": "The gas has built up over centuries. Would you trust a power plant to keep it in check, or move away?",
+  "id": "2028-04-29-lake-kivu-could-explode-two-million-live-around-it"
+}

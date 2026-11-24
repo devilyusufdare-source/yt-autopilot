@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "human body",
+  "subject": "human kidneys",
+  "title": "Your Blood Goes Through a Filter Nearly 30 Times a Day",
+  "scenes": [
+    {
+      "text": "Every drop of your blood goes through a filter nearly thirty times a day.",
+      "keywords": "blood cells flowing"
+    },
+    {
+      "text": "The filters are your kidneys, each one about the size of your fist.",
+      "keywords": "human kidney model"
+    },
+    {
+      "text": "Together they process about a hundred and fifty quarts of blood every day.",
+      "keywords": "blood bags hospital"
+    },
+    {
+      "text": "Inside each kidney, about a million tiny filters pull out waste and extra water.",
+      "keywords": "cells under microscope"
+    },
+    {
+      "text": "Only one or two quarts of it leave your body as urine. The rest goes back in.",
+      "keywords": "glass of water"
+    },
+    {
+      "text": "Nearly thirty times a day. And you only need one kidney to live.",
+      "keywords": "surgeons operating room"
+    }
+  ],
+  "description": "According to the NIH's kidney institute (NIDDK), your two fist-sized kidneys filter about 150 quarts of blood a day and turn only 1 to 2 quarts into urine. With roughly 5 litres (about 5.3 quarts) of blood in an adult, that is close to 30 passes a day.\nEach kidney holds about a million filtering units called nephrons, and people can live healthy lives with just one kidney.\nWhat other organ do you think works this hard?",
+  "tags": [
+    "kidneys",
+    "kidney function",
+    "nephrons",
+    "human body facts",
+    "blood filter",
+    "urine",
+    "organ facts",
+    "anatomy facts",
+    "health science",
+    "biology facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#science",
+    "#facts"
+  ],
+  "sources": [
+    "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+    "https://www.kidney.org/kidney-topics/kidneys-master-chemists-body",
+    "https://my.clevelandclinic.org/health/body/21824-kidney"
+  ],
+  "thumbnail_text": "BLOOD FILTERED 30X A DAY",
+  "priority": 0,
+  "first_comment": "Bonus: the kidneys get about a fifth of every heartbeat's blood. Which organ should we cover next?",
+  "id": "2028-04-30-blood-filtered-nearly-30-times-a-day"
+}

@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "crabeater seal",
+  "title": "Four in Five Crabeater Seals Wear the Same Scars",
+  "scenes": [
+    {
+      "text": "Four out of five adult crabeater seals carry the same scars.",
+      "keywords": "crabeater seal"
+    },
+    {
+      "text": "Long parallel gashes along their sides and back flippers, as if raked by a giant comb.",
+      "keywords": "crabeater seal on ice"
+    },
+    {
+      "text": "And despite the name, crabs have nothing to do with it. They eat almost nothing but krill.",
+      "keywords": "antarctic krill"
+    },
+    {
+      "text": "The marks are teeth. They come from the crabeater's main hunter, the leopard seal.",
+      "keywords": "leopard seal"
+    },
+    {
+      "text": "Most attacks hit pups in their first year, and many never reach their second.",
+      "keywords": "crabeater seal pup"
+    },
+    {
+      "text": "So every scarred adult on the ice is one that got away.",
+      "keywords": "crabeater seal on ice"
+    }
+  ],
+  "description": "Studies in the Antarctic found that around 80% of adult crabeater seals carry scars from leopard seal attacks, most picked up as pups in their first year, when leopard seals kill many of them.\nDespite their name, crabeaters live almost entirely on Antarctic krill, which they strain through lobed teeth.\nWould you rather be the crabeater or the leopard seal?",
+  "tags": [
+    "crabeater seal",
+    "leopard seal",
+    "seal scars",
+    "antarctica",
+    "antarctic animals",
+    "krill",
+    "predator and prey",
+    "seal facts",
+    "survival in nature",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#antarctica",
+    "#seals",
+    "#animals"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Crabeater_seal",
+    "https://www.antarctica.gov.au/about-antarctica/animals/seals/crabeater-seal/",
+    "https://www.nhm.ac.uk/discover/are-leopard-seals-dangerous.html"
+  ],
+  "thumbnail_text": "4 IN 5 SEALS SCARRED",
+  "priority": 6,
+  "first_comment": "Bonus: crabeaters are thought to be the most numerous seal on Earth, numbering in the millions. Which predator would you least want to meet on the ice?",
+  "id": "2028-04-25-crabeater-seals-four-in-five-carry-leopard-seal-scars"
+}

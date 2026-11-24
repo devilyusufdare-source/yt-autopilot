@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "pumpkin toadlet",
+  "title": "This Frog Jumps Fine and Crash-Lands Almost Every Time",
+  "scenes": [
+    {
+      "text": "This frog can jump. It just can't land.",
+      "keywords": "pumpkin toadlet"
+    },
+    {
+      "text": "The pumpkin toadlet from Brazil is about one centimetre long, smaller than your thumbnail.",
+      "keywords": "pumpkin toadlet on leaf"
+    },
+    {
+      "text": "Filmed in slow motion, it spins in the air and smacks into the ground on its back or face.",
+      "keywords": "pumpkin toadlet"
+    },
+    {
+      "text": "Scientists scanned its head. Its balance organs are the smallest found in any adult vertebrate.",
+      "keywords": "frog close up"
+    },
+    {
+      "text": "In tubes that tiny, the fluid barely moves, so its brain never feels the spin.",
+      "keywords": "pumpkin toadlet on leaf"
+    },
+    {
+      "text": "It shrank so far, it lost its sense of falling. It still jumps anyway.",
+      "keywords": "pumpkin toadlet"
+    }
+  ],
+  "description": "A 2022 study in Science Advances filmed Brazilian pumpkin toadlets (Brachycephalus) jumping and found most landings were uncontrolled crashes. Their inner-ear semicircular canals are the smallest known in any adult vertebrate, too small for the fluid inside to sense rotation properly.\nThe frogs are about one centimetre long.\nCould you tell up from down with an inner ear that small?",
+  "tags": [
+    "pumpkin toadlet",
+    "brachycephalus",
+    "tiny frog",
+    "smallest frog",
+    "frog jump",
+    "inner ear",
+    "balance",
+    "brazil animals",
+    "amphibians",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#frog",
+    "#animals",
+    "#nature"
+  ],
+  "sources": [
+    "https://www.sciencenews.org/article/pumpkin-toadlets-jump-brachycephalus",
+    "https://www.smithsonianmag.com/smart-news/the-pumpkin-toadlets-miniature-size-makes-it-a-lousy-hopper-180980279/",
+    "https://phys.org/news/2022-06-tiny-brazilian-frogs-poor-jumpers.html"
+  ],
+  "thumbnail_text": "FROG CAN'T LAND",
+  "priority": 6,
+  "first_comment": "Their bright orange skin warns predators they're toxic, so a clumsy landing isn't fatal. What's the clumsiest animal you know?",
+  "id": "2028-04-27-pumpkin-toadlet-too-small-to-land-a-jump"
+}

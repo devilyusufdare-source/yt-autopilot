@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "spotted salamander",
+  "title": "This Salamander Has Algae Living Inside Its Own Cells",
+  "scenes": [
+    {
+      "text": "There's an animal with a backbone that runs partly on sunlight.",
+      "keywords": "spotted salamander"
+    },
+    {
+      "text": "Spotted salamander eggs glow green in spring ponds. Scientists noticed it in 1888.",
+      "keywords": "salamander eggs in pond"
+    },
+    {
+      "text": "The green is algae, living in the jelly and feeding the embryos oxygen.",
+      "keywords": "spotted salamander eggs"
+    },
+    {
+      "text": "In 2010, a researcher looked closer and found the algae inside the embryo's own cells.",
+      "keywords": "microscope"
+    },
+    {
+      "text": "No other vertebrate is known to carry photosynthetic algae inside its cells.",
+      "keywords": "spotted salamander"
+    },
+    {
+      "text": "A salamander, partly powered by the Sun. It took over 120 years to spot.",
+      "keywords": "spotted salamander"
+    }
+  ],
+  "description": "Green algae (Oophila) have been known to live in spotted salamander egg masses since 1888. In 2010 Ryan Kerney found the algae inside the cells of the salamander embryos, the first known case of a photosynthetic symbiont inside vertebrate cells (published in PNAS in 2011).\nThe algae supply oxygen and the embryos give them waste nitrogen.\nWhat other animal do you think could be secretly solar powered?",
+  "tags": [
+    "spotted salamander",
+    "solar salamander",
+    "salamander",
+    "algae",
+    "photosynthesis",
+    "symbiosis",
+    "amphibians",
+    "vertebrate",
+    "biology facts",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#salamander",
+    "#biology",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.scientificamerican.com/article/solar-salamander/",
+    "https://www.nationalgeographic.com/science/article/solar-salamanders-have-algae-in-their-cells",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3080989"
+  ],
+  "thumbnail_text": "SOLAR-POWERED SALAMANDER",
+  "priority": 0,
+  "first_comment": "The sea slug Elysia steals chloroplasts too, but it has no backbone. Which would you rather be: solar or sea slug?",
+  "id": "2028-04-28-spotted-salamander-has-algae-inside-its-cells"
+}

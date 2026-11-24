@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "sea hare",
+  "title": "A Slow Sea Slug Beats Lobsters by Jamming Their Noses",
+  "scenes": [
+    {
+      "text": "A soft slug with no armour walks away from lobster attacks.",
+      "keywords": "sea hare"
+    },
+    {
+      "text": "The California sea hare can't run, bite or hide. A spiny lobster should win every time.",
+      "keywords": "spiny lobster"
+    },
+    {
+      "text": "Instead, the slug squirts two clouds: purple ink and a thick white goo.",
+      "keywords": "sea hare ink"
+    },
+    {
+      "text": "The goo sticks to the lobster's smell sensors on its antennae and gums them up.",
+      "keywords": "spiny lobster antennae"
+    },
+    {
+      "text": "The ink adds chemicals that taste like food, so the lobster stops to groom and pick at nothing.",
+      "keywords": "sea hare underwater"
+    },
+    {
+      "text": "The purple even comes from the red seaweed it eats. Dinner, turned into a weapon.",
+      "keywords": "red seaweed underwater"
+    }
+  ],
+  "description": "When a spiny lobster attacks, the California sea hare releases purple ink and white opaline. Studies at Georgia State University found the sticky opaline clogs the lobster's chemical sensors and triggers grooming, while the ink's food-like chemicals distract it.\nThe purple pigment comes from the red algae the sea hare eats.\nWhich animal defence is the strangest you've seen?",
+  "tags": [
+    "sea hare",
+    "california sea hare",
+    "spiny lobster",
+    "sea slug",
+    "ink defense",
+    "opaline",
+    "marine biology",
+    "ocean animals",
+    "animal defense",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#ocean",
+    "#seaslug",
+    "#animals"
+  ],
+  "sources": [
+    "https://phys.org/news/2013-03-sea-hares-outsmart-peckish-lobsters.html",
+    "https://www.the-scientist.com/the-sea-hares-chemical-attack-39561",
+    "https://www.scientificamerican.com/blog/running-ponies/sea-hares-thwart-spiny-lobster-attack-with-goo/"
+  ],
+  "thumbnail_text": "SLUG BLINDS LOBSTER",
+  "priority": 5,
+  "first_comment": "Bonus: the ink's food-like chemicals can make a lobster try to eat the cloud itself. Which ocean animal has the weirdest defence?",
+  "id": "2028-04-26-sea-hare-glues-lobster-senses-with-ink"
+}
