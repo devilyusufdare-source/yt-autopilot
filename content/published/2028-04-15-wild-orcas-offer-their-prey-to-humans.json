@@ -57,5 +57,21 @@
   "thumbnail_text": "ORCAS GIVE HUMANS THEIR KILL",
   "priority": 7,
   "first_comment": "Researchers say: don't accept. Watching is fine, but feeding wild orcas changes their behaviour. What would you have done?",
-  "id": "2028-04-15-wild-orcas-offer-their-prey-to-humans"
+  "id": "2028-04-15-wild-orcas-offer-their-prey-to-humans",
+  "youtube_id": "L-m0jBWJt7M",
+  "url": "https://youtube.com/shorts/L-m0jBWJt7M",
+  "uploaded_at": "2026-11-24T03:22:03+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-24T04:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 10,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 27.9,
+  "style": "classic",
+  "kind": "shorts"
 }
