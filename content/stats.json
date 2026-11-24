@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:44:44+00:00",
+  "updated_at": "2026-11-24T23:29:47+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
+      "https://youtube.com/shorts/WWdKT5PRTDo",
       "https://youtube.com/shorts/VGuE6YMJ58k"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/VGuE6YMJ58k"
+      "https://youtube.com/shorts/WWdKT5PRTDo"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/VGuE6YMJ58k"
+      "https://youtube.com/shorts/WWdKT5PRTDo"
     ]
   },
   "retention": {
@@ -92,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 439,
-  "total_views": 123919,
+  "total_videos": 440,
+  "total_views": 124080,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 334,
-      "avg_views": 302,
+      "videos": 335,
+      "avg_views": 301,
       "best_views": 1507
     },
     "human body": {
@@ -127,7 +128,7 @@
     },
     "technology": {
       "videos": 9,
-      "avg_views": 109,
+      "avg_views": 110,
       "best_views": 286
     },
     "games": {
@@ -138,7 +139,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 423,
+      "videos": 424,
       "avg_views": 277,
       "over_1500": 3
     },
@@ -150,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 353,
-      "avg_views": 243
+      "videos": 354,
+      "avg_views": 242
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -7088,7 +7089,7 @@
       "hook": "Octopuses throw things at each other. Females throw the most.",
       "published_at": "2026-11-18T01:20:10Z",
       "privacy": "public",
-      "views": 245,
+      "views": 247,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/atcvHLmvi0g",
@@ -7732,7 +7733,7 @@
       "hook": "A satellite that died in 1967 is transmitting again.",
       "published_at": "2026-11-20T04:50:16Z",
       "privacy": "public",
-      "views": 283,
+      "views": 282,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/OcstKSV45J0",
@@ -7816,7 +7817,7 @@
       "hook": "Almost every hawk hunts alone. One species hunts like a wolf pack.",
       "published_at": "2026-11-18T21:20:37Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xN4pLHNtTGY",
@@ -9160,7 +9161,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 162,
+      "views": 165,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU",
@@ -9384,7 +9385,7 @@
       "hook": "Millions of these crayfish exist. They're all one animal.",
       "published_at": "2026-11-23T00:40:22Z",
       "privacy": "public",
-      "views": 215,
+      "views": 218,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM",
@@ -9468,8 +9469,8 @@
       "hook": "Spiders eat snakes. On every continent but one.",
       "published_at": "2026-11-23T09:40:26Z",
       "privacy": "public",
-      "views": 114,
-      "likes": 1,
+      "views": 116,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BU5Vn7FN7oY"
     },
@@ -9492,7 +9493,7 @@
       "hook": "This shrimp eats an animal hollow, then moves in.",
       "published_at": "2026-11-24T03:50:14Z",
       "privacy": "public",
-      "views": 120,
+      "views": 121,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/O7HD8WvNKl0"
@@ -9516,7 +9517,7 @@
       "hook": "One touch of this caterpillar can stop your blood clotting.",
       "published_at": "2026-11-24T05:00:01Z",
       "privacy": "public",
-      "views": 330,
+      "views": 354,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/QjopkSF-yI8"
@@ -9756,10 +9757,34 @@
       "hook": "A deadly sea snake chases divers. It isn't hunting them.",
       "published_at": "2026-11-24T06:10:36Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Jg1yd4qKmLk"
+    },
+    "WWdKT5PRTDo": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Fish Walks Between Ponds for Days, and It Chokes Whatever Eats It",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This fish kills the bird that swallows it.",
+      "published_at": "2026-11-24T23:29:36Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/WWdKT5PRTDo"
     },
     "3JIgcw-3dJU": {
       "upload_status": "processed",
@@ -9808,8 +9833,8 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 545,
-      "likes": 9,
+      "views": 616,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8"
     },
@@ -10504,7 +10529,7 @@
       "hook": "Every animal runs from a forest fire. One beetle flies straight toward it.",
       "published_at": "2026-11-22T20:00:38Z",
       "privacy": "public",
-      "views": 125,
+      "views": 129,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Aw7y-aQIuFA",
@@ -10532,7 +10557,7 @@
       "hook": "Red kangaroos grow up differently depending on which side of one fence they live.",
       "published_at": "2026-11-22T21:00:14Z",
       "privacy": "public",
-      "views": 226,
+      "views": 228,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2Tub0DIkUc",
@@ -10560,7 +10585,7 @@
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
       "published_at": "2026-11-23T00:00:17Z",
       "privacy": "public",
-      "views": 122,
+      "views": 129,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g",
@@ -10700,7 +10725,7 @@
       "hook": "Swallows skim this African lake to drink. Some never fly back up.",
       "published_at": "2026-11-23T04:10:04Z",
       "privacy": "public",
-      "views": 607,
+      "views": 612,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/n1zH-Jpia10",
@@ -10752,7 +10777,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 92,
+      "views": 110,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo"
@@ -10856,7 +10881,7 @@
       "hook": "This ant queen gives birth to another species.",
       "published_at": "2026-11-24T01:10:18Z",
       "privacy": "public",
-      "views": 216,
+      "views": 227,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/siGA3-PQ2IY"
@@ -10908,7 +10933,7 @@
       "hook": "Twenty-three million fish banded together for safety. It backfired.",
       "published_at": "2026-11-24T02:15:23Z",
       "privacy": "public",
-      "views": 82,
+      "views": 81,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/A3ygi0TEdM4"
@@ -10932,7 +10957,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 383,
+      "views": 385,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg"
@@ -10956,7 +10981,7 @@
       "hook": "Alchemists failed for centuries. Physicists finally turned lead into gold.",
       "published_at": "2026-11-24T03:20:19Z",
       "privacy": "public",
-      "views": 34,
+      "views": 38,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hO2AhQOFOpg"
@@ -11004,7 +11029,7 @@
       "hook": "This larva kills termites without biting first.",
       "published_at": "2026-11-24T12:00:05Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1kZFpfwsvaY"
@@ -11066,14 +11091,14 @@
       "subscribers_gained": 0
     },
     "VGuE6YMJ58k": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT24S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
