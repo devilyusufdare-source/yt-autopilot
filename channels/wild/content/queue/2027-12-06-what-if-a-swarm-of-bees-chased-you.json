@@ -1,0 +1,62 @@
+{
+  "format": "whatif",
+  "topic": "animals",
+  "subject": "honeybee swarm",
+  "title": "What If a Swarm of Bees Chased You?",
+  "scenes": [
+    {
+      "text": "What if a swarm of angry bees chased you? Jumping into water is the worst move.",
+      "keywords": "bee swarm"
+    },
+    {
+      "text": "Africanized honeybees attack in huge numbers and can chase you for more than a quarter mile.",
+      "keywords": "honeybees"
+    },
+    {
+      "text": "They fly about 12 to 15 miles an hour. Most healthy people can outrun them.",
+      "keywords": "person running"
+    },
+    {
+      "text": "A stinger left in your skin keeps pumping venom for up to a minute. Get it out within seconds.",
+      "keywords": "bee sting"
+    },
+    {
+      "text": "An average adult can survive more than 1,100 stings. One man in 1962 survived 2,443.",
+      "keywords": "honeybees"
+    },
+    {
+      "text": "But dive into a pond, and the bees just wait above the water until you come up for air.",
+      "keywords": "pond water"
+    }
+  ],
+  "description": "USDA bee researchers say Africanized bees defend in large numbers and may chase people more than a quarter mile; they fly about 12-15 mph, so run and cover your face, and do not jump into water because the bees wait for you to surface.\nA stinger can keep injecting venom for up to a minute; the average adult can tolerate about 10 stings per pound of body weight. The Guinness record is 2,443 stings survived, in 1962.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "bee swarm",
+    "africanized bees",
+    "killer bees",
+    "bee stings",
+    "honeybees",
+    "survival",
+    "animals",
+    "insects",
+    "science facts",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#bees",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.ars.usda.gov/pacific-west-area/tucson-az/carl-hayden-bee-research-center/docs/bee-safety/bee-safety/",
+    "https://www.ars.usda.gov/pacific-west-area/tucson-az/carl-hayden-bee-research-center/docs/bee-safety/bee-stings-101/",
+    "https://www.guinnessworldrecords.com/world-records/most-bee-stings-removed/"
+  ],
+  "thumbnail_text": "WHAT IF BEES CHASED YOU?",
+  "priority": 7,
+  "first_comment": "Would you have run, or jumped in the pond? Tell us your own what-if.",
+  "id": "2027-12-06-what-if-a-swarm-of-bees-chased-you"
+}

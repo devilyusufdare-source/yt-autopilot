@@ -1,0 +1,62 @@
+{
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "phone in rice",
+  "title": "What If You Put Your Wet Phone in Rice?",
+  "scenes": [
+    {
+      "text": "What if you dropped your phone in water and buried it in rice? Apple says don't.",
+      "keywords": "phone in water"
+    },
+    {
+      "text": "Rice can't pull water out of a phone's insides. It only touches the outside.",
+      "keywords": "uncooked rice"
+    },
+    {
+      "text": "In a 2014 test of seven drying materials, uncooked rice came dead last.",
+      "keywords": "uncooked rice"
+    },
+    {
+      "text": "And every one of them lost to plain open air.",
+      "keywords": "phone on table"
+    },
+    {
+      "text": "Worse, tiny bits of rice and starch dust can get stuck in the charging port.",
+      "keywords": "phone charging port"
+    },
+    {
+      "text": "Apple's advice: tap it, port down, let it air-dry, and wait up to a day to charge. The rice only made you feel better.",
+      "keywords": "smartphone"
+    }
+  ],
+  "description": "Apple's support guidance says not to put a wet iPhone in a bag of rice because small particles can damage it; instead tap it gently with the connector facing down and leave it to dry, waiting up to 24 hours before charging.\nIn a 2014 Gazelle test of seven materials, uncooked rice dried worst, and open air beat them all.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "wet phone",
+    "phone in rice",
+    "water damage",
+    "iphone",
+    "smartphone tips",
+    "technology myths",
+    "tech facts",
+    "myth busting",
+    "science facts",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#tech",
+    "#phone"
+  ],
+  "sources": [
+    "https://www.macrumors.com/how-to/do-not-put-wet-iphone-in-rice/",
+    "https://www.gazelle.com/thehorn/2014/05/06/gazelles-guide-water-damage-truth-rice-galaxy-everything/",
+    "https://support.apple.com/en-us/102643"
+  ],
+  "thumbnail_text": "WHAT IF YOUR PHONE GOES IN RICE?",
+  "priority": 6,
+  "first_comment": "Have you ever saved a phone with rice, or did it just dry by itself? Tell us your what-if.",
+  "id": "2027-12-04-what-if-you-put-your-wet-phone-in-rice"
+}

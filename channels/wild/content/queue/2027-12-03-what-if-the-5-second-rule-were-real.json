@@ -1,0 +1,61 @@
+{
+  "format": "whatif",
+  "topic": "body",
+  "subject": "food dropped on floor",
+  "title": "What If the 5-Second Rule Were Real?",
+  "scenes": [
+    {
+      "text": "What if the five-second rule were true? Scientists tested it 2,560 times.",
+      "keywords": "food dropped on floor"
+    },
+    {
+      "text": "At Rutgers, researchers coated steel, tile, wood and carpet with bacteria, then dropped food on them.",
+      "keywords": "kitchen floor"
+    },
+    {
+      "text": "Watermelon, bread, buttered bread and gummy candy, left for under a second, five, thirty, or three hundred seconds.",
+      "keywords": "watermelon slice"
+    },
+    {
+      "text": "Bacteria jumped onto the food in under one second. Longer meant more, but no moment was safe.",
+      "keywords": "bread on floor"
+    },
+    {
+      "text": "Wet food was worst. Watermelon picked up the most. Gummy candy, the least.",
+      "keywords": "gummy candy"
+    },
+    {
+      "text": "The real surprise: carpet passed on the fewest bacteria. The rule is a myth, and the rug beats the tile.",
+      "keywords": "carpet close up"
+    }
+  ],
+  "description": "A 2016 Rutgers study (Applied and Environmental Microbiology) tested four foods on four surfaces at four contact times, 2,560 measurements in all, using a harmless relative of Salmonella.\nTransfer sometimes began in under a second; watermelon picked up the most, gummy candy the least, and carpet transferred far less than tile or steel.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "five second rule",
+    "5 second rule",
+    "food on the floor",
+    "bacteria",
+    "germs",
+    "rutgers study",
+    "food safety",
+    "science facts",
+    "body facts",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#science",
+    "#food"
+  ],
+  "sources": [
+    "https://www.rutgers.edu/news/rutgers-researchers-debunk-five-second-rule-eating-food-floor-isnt-safe",
+    "https://www.eurekalert.org/news-releases/579114"
+  ],
+  "thumbnail_text": "WHAT IF THE 5-SECOND RULE WORKED?",
+  "priority": 7,
+  "first_comment": "Be honest: what's the longest you've left food on the floor and still eaten it?",
+  "id": "2027-12-03-what-if-the-5-second-rule-were-real"
+}

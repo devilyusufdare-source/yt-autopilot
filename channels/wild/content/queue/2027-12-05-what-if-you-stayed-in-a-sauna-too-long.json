@@ -1,0 +1,62 @@
+{
+  "format": "whatif",
+  "topic": "body",
+  "subject": "sauna",
+  "title": "What If You Stayed in a Sauna Too Long?",
+  "scenes": [
+    {
+      "text": "What if you stayed in a sauna far too long? The hot air isn't the real danger.",
+      "keywords": "sauna"
+    },
+    {
+      "text": "A Finnish sauna runs about 80 to 100 degrees Celsius, but the air is dry, so your sweat can cool you.",
+      "keywords": "sauna stones"
+    },
+    {
+      "text": "Throw water on the stones, and the humidity jumps. Now the heat hits your skin much harder.",
+      "keywords": "water on sauna stones"
+    },
+    {
+      "text": "Stay too long, and your core passes 40 degrees. That's heat stroke: confusion, then collapse.",
+      "keywords": "sweating man"
+    },
+    {
+      "text": "In 2010, the World Sauna Championship ran at 110 degrees, with water thrown on the stones.",
+      "keywords": "sauna"
+    },
+    {
+      "text": "After about six minutes, both finalists collapsed. One died. The contest was never held again.",
+      "keywords": "sauna door"
+    }
+  ],
+  "description": "Finnish saunas usually run at 80-100 °C with low humidity (10-20%); throwing water on the stones briefly raises temperature and humidity. Heat stroke typically means a core temperature above 40 °C.\nAt the 2010 World Sauna Championships in Heinola, Finland, held at 110 °C, both finalists collapsed after about six minutes; one died and the event was never held again.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "sauna",
+    "heat stroke",
+    "body temperature",
+    "heat",
+    "finland",
+    "sauna championship",
+    "human body",
+    "health science",
+    "body facts",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#body",
+    "#science"
+  ],
+  "sources": [
+    "https://research-information.bris.ac.uk/ws/files/154526230/Clean_version_Sauna_review_MCP_Final.pdf",
+    "https://www.merckmanuals.com/home/injuries-and-poisoning/heat-disorders/heatstroke",
+    "https://en.wikipedia.org/wiki/World_Sauna_Championships"
+  ],
+  "thumbnail_text": "WHAT IF YOU NEVER LEFT THE SAUNA?",
+  "priority": 6,
+  "first_comment": "What's the longest you've lasted in a sauna? Ten minutes is plenty for most people.",
+  "id": "2027-12-05-what-if-you-stayed-in-a-sauna-too-long"
+}
