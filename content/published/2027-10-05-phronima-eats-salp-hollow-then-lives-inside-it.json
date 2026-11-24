@@ -60,5 +60,21 @@
   ],
   "thumbnail_text": "EATEN HOLLOW. THEN LIVED IN.",
   "priority": 6,
-  "first_comment": "Phronima has to keep eating to maintain the barrel, which slowly shrinks. Which animal recycles its prey in the strangest way?"
+  "first_comment": "Phronima has to keep eating to maintain the barrel, which slowly shrinks. Which animal recycles its prey in the strangest way?",
+  "youtube_id": "O7HD8WvNKl0",
+  "url": "https://youtube.com/shorts/O7HD8WvNKl0",
+  "uploaded_at": "2026-11-24T02:38:00+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-24T03:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 32.1,
+  "style": "classic",
+  "kind": "shorts"
 }

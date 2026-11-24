@@ -1,27 +1,28 @@
 {
-  "updated_at": "2026-11-24T01:41:32+00:00",
+  "updated_at": "2026-11-24T02:38:03+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 89,
     "channel_views": 116910,
-    "video_count": 429
+    "video_count": 430
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/A3ygi0TEdM4",
-      "https://youtube.com/shorts/lYnIq7kMPdg"
+      "https://youtube.com/shorts/O7HD8WvNKl0",
+      "https://youtube.com/shorts/lYnIq7kMPdg",
+      "https://youtube.com/shorts/hO2AhQOFOpg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/lYnIq7kMPdg"
+      "https://youtube.com/shorts/O7HD8WvNKl0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/lYnIq7kMPdg"
+      "https://youtube.com/shorts/O7HD8WvNKl0"
     ]
   },
   "retention": {
@@ -93,8 +94,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 429,
-  "total_views": 119786,
+  "total_videos": 431,
+  "total_views": 119817,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -102,18 +103,18 @@
       "best_views": 364
     },
     "science": {
-      "videos": 30,
-      "avg_views": 213,
+      "videos": 31,
+      "avg_views": 206,
       "best_views": 1648
     },
     "animals": {
-      "videos": 325,
-      "avg_views": 298,
+      "videos": 326,
+      "avg_views": 297,
       "best_views": 1507
     },
     "human body": {
       "videos": 10,
-      "avg_views": 382,
+      "avg_views": 383,
       "best_views": 1384
     },
     "history": {
@@ -139,8 +140,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 413,
-      "avg_views": 274,
+      "videos": 415,
+      "avg_views": 272,
       "over_1500": 3
     },
     "punch": {
@@ -151,8 +152,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 343,
-      "avg_views": 238
+      "videos": 345,
+      "avg_views": 236
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -6025,7 +6026,7 @@
       "hook": "When these termites get old, they grow explosive backpacks.",
       "published_at": "2026-11-17T00:00:15Z",
       "privacy": "public",
-      "views": 227,
+      "views": 228,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vDMd15MlBuU",
@@ -7985,7 +7986,7 @@
       "hook": "Scientists dropped people off a 150-foot tower to find out if fear slows down time.",
       "published_at": "2026-11-22T00:50:23Z",
       "privacy": "public",
-      "views": 55,
+      "views": 56,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Mvn2FYFBrMI",
@@ -8825,7 +8826,7 @@
       "hook": "In this pond, something two inches long is drinking the tadpoles.",
       "published_at": "2026-11-21T02:15:13Z",
       "privacy": "public",
-      "views": 232,
+      "views": 230,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg",
@@ -9021,7 +9022,7 @@
       "hook": "This whale squirts ink like a squid.",
       "published_at": "2026-11-22T00:00:15Z",
       "privacy": "public",
-      "views": 833,
+      "views": 837,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs",
@@ -9133,7 +9134,7 @@
       "hook": "Science once named a worm. It was an octopus's arm.",
       "published_at": "2026-11-22T00:30:01Z",
       "privacy": "public",
-      "views": 116,
+      "views": 118,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc",
@@ -9161,7 +9162,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 107,
+      "views": 110,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU"
@@ -9369,7 +9370,7 @@
       "hook": "Millions of these crayfish exist. They're all one animal.",
       "published_at": "2026-11-23T00:40:22Z",
       "privacy": "public",
-      "views": 160,
+      "views": 171,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM"
@@ -9449,10 +9450,34 @@
       "hook": "Spiders eat snakes. On every continent but one.",
       "published_at": "2026-11-23T09:40:26Z",
       "privacy": "public",
-      "views": 58,
+      "views": 57,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/BU5Vn7FN7oY"
+    },
+    "O7HD8WvNKl0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Shrimp Eats an Animal Hollow, Then Moves Into the Body",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This shrimp eats an animal hollow, then moves in.",
+      "published_at": "2026-11-24T02:37:56Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/O7HD8WvNKl0"
     },
     "Gudmy6a0BMs": {
       "upload_status": "processed",
@@ -9529,7 +9554,7 @@
       "hook": "The five fastest signals in your body, ranked. Pain doesn't even make the top three.",
       "published_at": "2026-11-22T08:40:08Z",
       "privacy": "public",
-      "views": 32,
+      "views": 37,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/wk146qYH8dY"
@@ -9609,7 +9634,7 @@
       "hook": "The five buildings that took longest to finish. Number one took longer than the United States has existed.",
       "published_at": "2026-11-23T02:15:13Z",
       "privacy": "public",
-      "views": 11,
+      "views": 13,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/4Mgc724oTSs"
@@ -10025,7 +10050,7 @@
       "hook": "Chimpanzees nearly emptied a forest of monkeys. It took teamwork.",
       "published_at": "2026-11-21T00:20:14Z",
       "privacy": "public",
-      "views": 945,
+      "views": 944,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/T16pVAdMJmQ",
@@ -10165,7 +10190,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 1066,
+      "views": 1067,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo",
@@ -10305,8 +10330,8 @@
       "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
       "published_at": "2026-11-22T19:00:26Z",
       "privacy": "public",
-      "views": 577,
-      "likes": 5,
+      "views": 557,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ"
     },
@@ -10329,7 +10354,7 @@
       "hook": "Every animal runs from a forest fire. One beetle flies straight toward it.",
       "published_at": "2026-11-22T20:00:38Z",
       "privacy": "public",
-      "views": 87,
+      "views": 94,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Aw7y-aQIuFA"
@@ -10353,7 +10378,7 @@
       "hook": "Red kangaroos grow up differently depending on which side of one fence they live.",
       "published_at": "2026-11-22T21:00:14Z",
       "privacy": "public",
-      "views": 204,
+      "views": 205,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2Tub0DIkUc"
@@ -10377,7 +10402,7 @@
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
       "published_at": "2026-11-23T00:00:17Z",
       "privacy": "public",
-      "views": 81,
+      "views": 86,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g"
@@ -10509,7 +10534,7 @@
       "hook": "Swallows skim this African lake to drink. Some never fly back up.",
       "published_at": "2026-11-23T04:10:04Z",
       "privacy": "public",
-      "views": 516,
+      "views": 530,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/n1zH-Jpia10"
@@ -10557,9 +10582,9 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 25,
+      "views": 7,
       "likes": 0,
-      "comments": 1,
+      "comments": 0,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo"
     },
     "C-B8qGMgpYU": {
@@ -10581,7 +10606,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 1,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU"
@@ -10661,7 +10686,7 @@
       "hook": "This ant queen gives birth to another species.",
       "published_at": "2026-11-24T01:10:18Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/siGA3-PQ2IY"
@@ -10711,22 +10736,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Twenty-three million fish banded together for safety. It backfired.",
-      "published_at": "2026-11-24T01:39:39Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-24T02:15:23Z",
+      "privacy": "public",
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/A3ygi0TEdM4"
     },
     "lYnIq7kMPdg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT31S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10741,6 +10766,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg"
+    },
+    "hO2AhQOFOpg": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT32S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Physicists Finally Turned Lead Into Gold. It Lasted a Microsecond",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Alchemists failed for centuries. Physicists finally turned lead into gold.",
+      "published_at": "2026-11-24T02:36:28Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/hO2AhQOFOpg"
     },
     "MvTzV6WNdAA": {
       "upload_status": "processed",
