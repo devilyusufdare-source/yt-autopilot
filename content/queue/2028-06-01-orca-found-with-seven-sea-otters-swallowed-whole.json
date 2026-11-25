@@ -1,0 +1,63 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "killer whale",
+  "title": "An Orca Washed Up With 7 Sea Otters Inside It, All Swallowed Whole",
+  "scenes": [
+    {
+      "text": "A dead orca washed up with seven sea otters inside it.",
+      "keywords": "killer whale"
+    },
+    {
+      "text": "Orcas don't normally eat sea otters. And they almost never swallow prey whole.",
+      "keywords": "sea otter"
+    },
+    {
+      "text": "Six otters were intact in her stomach. Together, all seven weighed two hundred fifty-eight pounds.",
+      "keywords": "sea otter floating"
+    },
+    {
+      "text": "Her DNA said she belonged thousands of miles away, near Alaska. No one from her group had been seen here.",
+      "keywords": "killer whale"
+    },
+    {
+      "text": "Scientists think she was starving, far from home, and gulped whatever she could catch.",
+      "keywords": "killer whale swimming"
+    },
+    {
+      "text": "The seventh otter was stuck in her throat. It may be what killed her.",
+      "keywords": "sea otter"
+    }
+  ],
+  "description": "In 2020 a female killer whale stranded on one of Russia's Commander Islands in the Bering Sea. Researchers found six whole sea otters in her stomach and a seventh lodged between her mouth and esophagus; together they weighed 117 kg (258 lb).\nDNA showed she was a Bigg's killer whale from the Aleutians-to-California population, the first ever found in the western Pacific. The study, in Aquatic Mammals (2023), suggests she was starving and that the otter in her throat may have killed her.\nWhy do you think she swam so far from home?",
+  "tags": [
+    "killer whale",
+    "orca",
+    "sea otter",
+    "orca facts",
+    "Bigg's killer whale",
+    "Commander Islands",
+    "Bering Sea",
+    "marine mammals",
+    "predator facts",
+    "ocean animals",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#orca",
+    "#seaotter",
+    "#animals"
+  ],
+  "sources": [
+    "https://doi.org/10.1578/am.49.5.2023.462",
+    "https://www.livescience.com/animals/orcas/scientists-investigate-mysterious-case-of-orca-that-swallowed-7-sea-otters-whole",
+    "https://www.iflscience.com/curious-case-of-the-killer-whale-that-swallowed-seven-sea-otters-whole-70939"
+  ],
+  "thumbnail_text": "7 OTTERS. SWALLOWED WHOLE.",
+  "priority": 6,
+  "first_comment": "Orcas usually tear prey apart and eat only the fattiest parts, which makes seven whole otters even stranger. What do you think drove her that far?",
+  "id": "2028-06-01-orca-found-with-seven-sea-otters-swallowed-whole"
+}

@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "science",
+  "subject": "Statue of Liberty",
+  "title": "The Statue of Liberty Wasn't Built Green. It Took About 20 Years",
+  "scenes": [
+    {
+      "text": "The Statue of Liberty wasn't green when it was unveiled.",
+      "keywords": "statue of liberty"
+    },
+    {
+      "text": "In 1886 she was shiny reddish-brown, like a new penny. Her skin is copper as thin as two pennies.",
+      "keywords": "copper sheet"
+    },
+    {
+      "text": "Salty sea air and rain went to work. Within about 20 years, she was turning blue-green.",
+      "keywords": "statue of liberty"
+    },
+    {
+      "text": "In 1906, Congress set aside money to paint her. People protested it would be sacrilege.",
+      "keywords": "new york harbor"
+    },
+    {
+      "text": "Good thing. That green crust is a patina, and it shields the copper underneath from corroding.",
+      "keywords": "copper patina"
+    },
+    {
+      "text": "The green isn't damage. It's her armor.",
+      "keywords": "statue of liberty"
+    }
+  ],
+  "description": "When it was unveiled in 1886, the Statue of Liberty was a shiny reddish-brown, the colour of a new penny. Its copper skin is about as thick as two pennies.\nReactions with air, rain and sea spray built a blue-green patina over roughly two decades. In 1906 Congress set aside $62,000 to paint it, but protests stopped the plan, and the patina now protects the copper beneath.\nWould you have voted to paint her?",
+  "tags": [
+    "Statue of Liberty",
+    "copper patina",
+    "Lady Liberty",
+    "copper",
+    "chemistry facts",
+    "New York",
+    "history facts",
+    "science facts",
+    "oxidation",
+    "verdigris",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#statueofliberty",
+    "#science",
+    "#history"
+  ],
+  "sources": [
+    "https://www.history.com/articles/statue-of-liberty-green-color-change",
+    "https://www.acs.org/content/dam/acsorg/pressroom/reactions/infographics/statue-of-liberty-became-green.pdf",
+    "https://www.snopes.com/fact-check/statue-liberty-different-color/"
+  ],
+  "thumbnail_text": "SHE WASN'T BUILT GREEN",
+  "priority": 6,
+  "first_comment": "Bartholdi reportedly expected her to darken to red, not turn green. What colour would you want her to be?",
+  "id": "2028-06-10-statue-of-liberty-was-not-built-green"
+}

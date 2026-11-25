@@ -1,0 +1,76 @@
+{
+  "format": "ranking",
+  "ranking_by": "surveyed length of the cave system",
+  "topic": "science",
+  "subject": "limestone cave",
+  "title": "The 5 Longest Caves on Earth, Ranked (#2 Is Completely Flooded)",
+  "scenes": [
+    {
+      "text": "Number two is the longest underwater cave on Earth. Number one you can walk through.",
+      "keywords": "limestone cave"
+    },
+    {
+      "text": "Number five: Jewel Cave, South Dakota. About two hundred and twenty miles mapped, and still growing.",
+      "keywords": "jewel cave",
+      "rank": 5,
+      "label": "Jewel Cave · 220 mi"
+    },
+    {
+      "text": "Number four: Sac Actun, Mexico. More than two hundred and twenty-five miles of flooded tunnels.",
+      "keywords": "cenote diver",
+      "rank": 4,
+      "label": "Sac Actun · 225+ mi"
+    },
+    {
+      "text": "Number three: Shuanghe Cave, China. About two hundred and seventy miles, the longest in Asia.",
+      "keywords": "karst cave china",
+      "rank": 3,
+      "label": "Shuanghe Cave · 273 mi"
+    },
+    {
+      "text": "Number two: Ox Bel Ha, Mexico. Over three hundred and twenty miles, almost all underwater.",
+      "keywords": "underwater cave diver",
+      "rank": 2,
+      "label": "Ox Bel Ha · 326+ mi"
+    },
+    {
+      "text": "Number one: Mammoth Cave, Kentucky. Four hundred and twenty-six miles of mostly dry passages.",
+      "keywords": "mammoth cave",
+      "rank": 1,
+      "label": "Mammoth Cave · 426 mi"
+    }
+  ],
+  "description": "Surveyed length of the world's longest cave systems: Mammoth Cave, Kentucky, 426 miles (NPS, 2022); Sistema Ox Bel Ha, Mexico, at least 326 miles (524 km), the longest underwater cave; Shuanghe Cave, China, 439.7 km (2025 survey); Sistema Sac Actun, Mexico, more than 368 km; Jewel Cave, South Dakota, about 220 miles.\nCavers add miles to these every year, so the order can still change.\nWhich cave would you dare to explore?",
+  "tags": [
+    "longest caves",
+    "Mammoth Cave",
+    "Ox Bel Ha",
+    "Sac Actun",
+    "Shuanghe Cave",
+    "Jewel Cave",
+    "underwater cave",
+    "cave diving",
+    "cenote",
+    "geology facts",
+    "top 5",
+    "science facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#caves",
+    "#science",
+    "#top5"
+  ],
+  "sources": [
+    "https://www.nps.gov/maca/learn/news/mammoth-cave-just-got-a-little-more-mammoth.htm",
+    "https://www.livescience.com/planet-earth/geology/sistema-ox-bel-ha-a-vast-hidden-system-thats-the-longest-underwater-cave-in-the-world",
+    "https://www.eguizhou.gov.cn/2025-10/28/c_1136012.htm",
+    "https://sites.northwestern.edu/monroyrios/sistema-sac-actun-en",
+    "https://en.wikipedia.org/wiki/List_of_longest_caves"
+  ],
+  "thumbnail_text": "5 LONGEST CAVES, RANKED",
+  "priority": 5,
+  "first_comment": "Which one would you put at number one if you had to explore it yourself? And what should we rank next?",
+  "id": "2028-06-08-five-longest-caves-on-earth-ranked"
+}
