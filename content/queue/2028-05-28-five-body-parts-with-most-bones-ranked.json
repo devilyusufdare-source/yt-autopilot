@@ -1,0 +1,74 @@
+{
+  "format": "ranking",
+  "ranking_by": "number of bones in each body region (adult, both sides counted)",
+  "topic": "human body",
+  "subject": "human skeleton",
+  "title": "The 5 Body Parts With the Most Bones, Ranked (Your Skull Is Only #5)",
+  "scenes": [
+    {
+      "text": "Over half your bones hide in just two places. Your skull isn't one of them.",
+      "keywords": "human skeleton"
+    },
+    {
+      "text": "Number five: your skull. Twenty-two bones, locked together so tightly they look like one.",
+      "keywords": "human skull",
+      "rank": 5,
+      "label": "Skull · 22 bones"
+    },
+    {
+      "text": "Number four: your rib cage. Twenty-four ribs plus your breastbone makes twenty-five.",
+      "keywords": "rib cage x-ray",
+      "rank": 4,
+      "label": "Rib cage · 25 bones"
+    },
+    {
+      "text": "Number three: your spine. Twenty-six bones, from your neck all the way down to your tailbone.",
+      "keywords": "spine x-ray",
+      "rank": 3,
+      "label": "Spine · 26 bones"
+    },
+    {
+      "text": "Number two: your feet. Twenty-six bones in each one, fifty-two in total.",
+      "keywords": "bare feet walking",
+      "rank": 2,
+      "label": "Both feet · 52 bones"
+    },
+    {
+      "text": "Number one: your hands. Twenty-seven each, fifty-four together. Hands and feet hold more than half your skeleton.",
+      "keywords": "hands close up",
+      "rank": 1,
+      "label": "Both hands · 54 bones"
+    }
+  ],
+  "description": "Bones per body region in an adult: both hands 54 (27 each), both feet 52 (26 each), spine 26 (24 vertebrae plus sacrum and tailbone), rib cage 25 (24 ribs plus the sternum), skull 22 (8 cranial and 14 facial).\nHands and feet together hold 106 of your 206 bones.\nWhich number surprised you most?",
+  "tags": [
+    "bones",
+    "human skeleton",
+    "how many bones",
+    "bones in the hand",
+    "bones in the foot",
+    "skull",
+    "spine",
+    "rib cage",
+    "anatomy facts",
+    "human body facts",
+    "top 5",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#ranking",
+    "#anatomy"
+  ],
+  "sources": [
+    "https://health.clevelandclinic.org/facts-about-the-skeletal-system",
+    "https://my.clevelandclinic.org/health/body/22344-axial-skeleton",
+    "https://www.livescience.com/44137-skeletal-system-surprising-facts.html",
+    "https://courses.lumenlearning.com/wm-biology2/chapter/human-axial-skeleton"
+  ],
+  "thumbnail_text": "WHERE YOUR BONES ARE, RANKED",
+  "priority": 5,
+  "first_comment": "Would you have put the hands at number one? Tell us what part of the body we should rank next.",
+  "id": "2028-05-28-five-body-parts-with-most-bones-ranked"
+}

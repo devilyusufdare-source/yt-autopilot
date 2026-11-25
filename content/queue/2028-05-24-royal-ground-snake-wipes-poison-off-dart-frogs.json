@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "royal ground snake",
+  "title": "This Snake Drags Poison Frogs Across the Ground Before Eating Them",
+  "scenes": [
+    {
+      "text": "This snake eats frogs coated in deadly poison. Most of them live.",
+      "keywords": "royal ground snake"
+    },
+    {
+      "text": "The prey: three-striped poison dart frogs from the Amazon. Their skin is packed with toxins.",
+      "keywords": "poison dart frog"
+    },
+    {
+      "text": "Scientists offered them to ten hungry royal ground snakes. Six wouldn't touch them.",
+      "keywords": "royal ground snake"
+    },
+    {
+      "text": "The other four did something strange first. They dragged each frog across the ground.",
+      "keywords": "royal ground snake"
+    },
+    {
+      "text": "Wiping off poison, like birds rub toxic bugs clean. Their livers seem to handle the rest.",
+      "keywords": "poison dart frog"
+    },
+    {
+      "text": "Three of the four survived. Even a poison eater wipes its plate first.",
+      "keywords": "royal ground snake"
+    }
+  ],
+  "description": "Royal ground snakes from the Colombian Amazon can eat three-striped poison dart frogs, whose skin carries toxins such as histrionicotoxins and pumiliotoxins.\nIn a test with 10 hungry snakes, six refused the frogs. The four that attacked first dragged the frogs along the ground, and three of them survived. Lab tests suggest the snakes' livers help neutralize the toxins.\nWould you trust your liver that much?",
+  "tags": [
+    "royal ground snake",
+    "poison dart frog",
+    "three-striped poison frog",
+    "snake eats frog",
+    "Amazon animals",
+    "toxic animals",
+    "snake facts",
+    "frog facts",
+    "predator facts",
+    "venom and poison",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#snake",
+    "#frog",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.sciencealert.com/snakes-caught-wiping-poison-off-frogs-amidst-natures-toxic-arms-race",
+    "https://www.vice.com/en/article/snakes-filmed-wiping-poison-off-frogs-before-eating-them-alive/"
+  ],
+  "thumbnail_text": "POISON FROG. WIPE. SWALLOW.",
+  "priority": 6,
+  "first_comment": "Poison dart frogs don't make their poison. They get it from the ants and mites they eat, which is why many raised in captivity are harmless. What would you name this snake?",
+  "id": "2028-05-24-royal-ground-snake-wipes-poison-off-dart-frogs"
+}

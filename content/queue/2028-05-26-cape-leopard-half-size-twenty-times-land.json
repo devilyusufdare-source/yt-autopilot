@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "leopard",
+  "title": "Cape Leopards Weigh Half as Much but Need 20 Times the Land",
+  "scenes": [
+    {
+      "text": "These leopards are half the size, yet need twenty times the land.",
+      "keywords": "leopard hunting"
+    },
+    {
+      "text": "A savanna male weighs about sixty-five kilos. A Cape male, about thirty-five.",
+      "keywords": "leopard"
+    },
+    {
+      "text": "A Kruger male roams up to fifty square kilometres. A Cape male, up to a thousand.",
+      "keywords": "leopard"
+    },
+    {
+      "text": "The Cape mountains have no big herds. Just rock hyraxes and small antelope, spread thin.",
+      "keywords": "rock hyrax"
+    },
+    {
+      "text": "Over twenty thousand years, about ninety genes shifted. They shrank to fit the food.",
+      "keywords": "leopard"
+    },
+    {
+      "text": "So it isn't a smaller leopard. It's a leopard built for an empty mountain.",
+      "keywords": "leopard"
+    }
+  ],
+  "description": "Leopards in South Africa's Cape mountains weigh about half as much as savanna leopards: males around 35 kg versus 60 to 70 kg. Yet a Cape male can range over 200 to 1,000 square kilometres, compared with 25 to 50 in Kruger.\nA 2026 genome study found about 90 genes linked to body size, muscle and energy use that set them apart, a split that began 20,000 to 24,000 years ago.\nShould the Cape leopard count as its own subspecies?",
+  "tags": [
+    "cape leopard",
+    "leopard",
+    "South Africa wildlife",
+    "leopard facts",
+    "big cats",
+    "rock hyrax",
+    "klipspringer",
+    "Kruger National Park",
+    "evolution",
+    "small leopards",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#leopard",
+    "#bigcats",
+    "#animals"
+  ],
+  "sources": [
+    "https://capeleopard.org.za/news-media/archive/story/survivor-the-cape-leopard",
+    "https://sciencedaily.com/releases/2026/06/260623083113.htm"
+  ],
+  "thumbnail_text": "HALF THE SIZE. 20X THE LAND.",
+  "priority": 0,
+  "first_comment": "Fewer than one thousand Cape leopards are left, and a bounty on them only ended in 1968. Bonus question: how would you find one in a thousand square kilometres?",
+  "id": "2028-05-26-cape-leopard-half-size-twenty-times-land"
+}

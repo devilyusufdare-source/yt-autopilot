@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "human body",
+  "subject": "person sneezing",
+  "title": "A Single Sneeze Can Carry Droplets 27 Feet Across a Room",
+  "scenes": [
+    {
+      "text": "Standing six feet from a sneeze? You're nowhere near out of range.",
+      "keywords": "man sneezing slow motion"
+    },
+    {
+      "text": "High-speed cameras at MIT filmed sneezes, and the droplets kept going.",
+      "keywords": "sneeze droplets spray"
+    },
+    {
+      "text": "One sneeze threw them twenty-three to twenty-seven feet. That's seven to eight meters.",
+      "keywords": "long office hallway"
+    },
+    {
+      "text": "Why so far? The droplets don't fly alone. They ride a warm, wet cloud of gas.",
+      "keywords": "steam cloud drifting"
+    },
+    {
+      "text": "That cloud keeps them from drying out, so they drift instead of dropping.",
+      "keywords": "mist drifting in light"
+    },
+    {
+      "text": "The six-foot rule came from a 1930s idea of lone droplets. It covers about a quarter of a sneeze.",
+      "keywords": "man sneezing slow motion"
+    }
+  ],
+  "description": "MIT researcher Lydia Bourouiba filmed sneezes with high-speed cameras: the droplets travel 23 to 27 feet (7 to 8 meters).\nThey ride a warm, moist, turbulent cloud of gas that keeps them from evaporating and carries them far beyond the roughly 2 meters predicted by a 1930s model of lone droplets.\nHow far away do you stand when someone sneezes?",
+  "tags": [
+    "sneeze",
+    "how far does a sneeze travel",
+    "sneeze cloud",
+    "sneeze slow motion",
+    "fluid dynamics",
+    "human body facts",
+    "science facts",
+    "body facts",
+    "MIT research",
+    "germs",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#science",
+    "#facts"
+  ],
+  "sources": [
+    "https://www.nationalgeographic.com/science/article/coronavirus-covid-sneeze-fluid-dynamics-in-photos",
+    "https://imes.mit.edu/news-events/potential-implications-reducing-transmission-covid-19",
+    "https://physicsworld.com/a/protective-equipment-against-covid-19-needs-to-go-further-scientists-say/"
+  ],
+  "thumbnail_text": "ONE SNEEZE: 27 FEET",
+  "priority": 6,
+  "first_comment": "Bonus: coughs carry droplets about 5 meters in the same kind of cloud. What should we film in slow motion next?",
+  "id": "2028-05-27-one-sneeze-carries-droplets-27-feet"
+}
