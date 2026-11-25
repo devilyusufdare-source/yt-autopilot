@@ -1,0 +1,63 @@
+{
+  "id": "2028-06-20-lightning-on-mars-found-by-a-microphone",
+  "format": "fact",
+  "topic": "space",
+  "subject": "Mars dust devil",
+  "title": "Lightning on Mars Was Found by a Microphone, Not a Camera",
+  "scenes": [
+    {
+      "text": "Lightning on Mars was found by a microphone, not a camera.",
+      "keywords": "mars dust storm"
+    },
+    {
+      "text": "NASA's Perseverance rover recorded fifty-five strange snaps over two Martian years.",
+      "keywords": "mars rover desert"
+    },
+    {
+      "text": "At first, scientists blamed one of them on a grain of sand hitting the mic.",
+      "keywords": "sand grains blowing"
+    },
+    {
+      "text": "But the snaps came when dust devils and dust storms swept right over the rover.",
+      "keywords": "dust devil desert"
+    },
+    {
+      "text": "Spinning dust builds up static, and Mars' thin air lets it jump as sparks only a few centimetres long.",
+      "keywords": "electric spark close up"
+    },
+    {
+      "text": "So yes, Mars has lightning. It's about as strong as the shock from a doorknob.",
+      "keywords": "mars planet surface"
+    }
+  ],
+  "description": "Lightning on Mars was finally confirmed, and it was heard, not seen.\nNASA's Perseverance rover's SuperCam microphone picked up 55 electrical discharges over two Martian years, mostly when dust devils passed overhead or dust storm fronts rolled through. The arcs are only a few centimetres long, roughly as strong as a static shock from a doorknob, because Mars' thin air needs far less charge to spark.\nWould you want to stand inside a Martian dust devil?",
+  "tags": [
+    "lightning on Mars",
+    "Mars facts",
+    "Perseverance rover",
+    "Mars dust devil",
+    "Mars dust storm",
+    "static electricity",
+    "NASA discoveries",
+    "SuperCam microphone",
+    "space facts",
+    "planet facts",
+    "astronomy",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#space",
+    "#mars",
+    "#nasa"
+  ],
+  "sources": [
+    "https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/",
+    "https://www.npr.org/2025/11/26/nx-s1-5616433/mars-rover-lightening-space",
+    "https://earthsky.org/space/lightning-on-mars-dust-storms-dust-devils-perseverance-rover/"
+  ],
+  "thumbnail_text": "MARS LIGHTNING. HEARD.",
+  "priority": 6,
+  "first_comment": "Bonus: in 1971 the Soviet Mars 3 lander went silent about 20 seconds after touching down in a dust storm, and one researcher says an electrical discharge can't be ruled out. Would you risk landing in one?"
+}

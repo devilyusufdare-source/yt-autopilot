@@ -1,0 +1,63 @@
+{
+  "id": "2028-06-21-hair-thin-glass-fiber-outran-japans-internet",
+  "format": "fact",
+  "topic": "technology",
+  "subject": "optical fiber cable",
+  "title": "A Glass Thread as Thin as a Hair Outran Japan's Whole Internet",
+  "scenes": [
+    {
+      "text": "A glass thread as thin as a hair outran Japan's internet.",
+      "keywords": "fiber optic cable light"
+    },
+    {
+      "text": "In 2025, Japanese engineers pushed over a million gigabits a second through one single fiber.",
+      "keywords": "fiber optic cable"
+    },
+    {
+      "text": "That's about twenty-six times the download traffic of every home connection in Japan combined.",
+      "keywords": "tokyo city night"
+    },
+    {
+      "text": "And they kept it up over eighteen hundred kilometres, about Berlin to Naples.",
+      "keywords": "fiber optic network"
+    },
+    {
+      "text": "The trick: inside that one strand run nineteen separate cores, each carrying its own light.",
+      "keywords": "fiber optic strands glowing"
+    },
+    {
+      "text": "Yet it's exactly as thick as the fibers already buried under city streets. Just nineteen times the lanes.",
+      "keywords": "fiber optic cable street"
+    }
+  ],
+  "description": "One optical fiber, just 0.125 millimetres thick, carried more data than Japan's entire home internet.\nIn 2025 Japan's NICT and partners sent 1.02 petabits per second over 1,808 kilometres through a 19-core fiber with the same standard cladding diameter as ordinary single-core fiber. That is about 26 times the total download traffic of Japan's fixed broadband subscribers, and over 3.5 million times faster than a typical US home connection.\nWhat would you download first at that speed?",
+  "tags": [
+    "internet speed record",
+    "fiber optic",
+    "optical fiber",
+    "petabit internet",
+    "fastest internet",
+    "NICT Japan",
+    "19 core fiber",
+    "internet technology",
+    "technology facts",
+    "engineering records",
+    "tech news",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#technology",
+    "#internet",
+    "#facts"
+  ],
+  "sources": [
+    "https://www.nict.go.jp/en/press/2025/05/29-1.html",
+    "https://www.techradar.com/pro/internet-speeds-3-5-million-times-faster-than-us-average-possible-with-current-fiber-optic-cable-tech-how-does-1-020-000-gbps-sound",
+    "https://www.ispreview.co.uk/index.php/2025/05/world-record-as-1-02-petabits-per-second-sent-over-1808km-of-optical-fibre.html"
+  ],
+  "thumbnail_text": "ONE FIBER BEAT JAPAN'S INTERNET",
+  "priority": 6,
+  "first_comment": "The record is about 3.5 million times faster than an average US home connection. Would you rather have that speed at home, or unlimited battery on your phone?"
+}

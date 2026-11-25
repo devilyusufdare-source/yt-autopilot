@@ -1,0 +1,76 @@
+{
+  "id": "2028-06-23-five-oldest-cave-paintings-ranked",
+  "format": "ranking",
+  "ranking_by": "minimum age of dated cave art in years",
+  "topic": "history",
+  "subject": "cave hand stencil",
+  "title": "The 5 Oldest Cave Paintings Ever Found, Ranked (France Isn't on It)",
+  "scenes": [
+    {
+      "text": "The five oldest cave paintings ever found. France doesn't make the list.",
+      "keywords": "cave painting"
+    },
+    {
+      "text": "Number five: El Castillo, Spain. A red disk at least forty thousand eight hundred years old.",
+      "keywords": "cave painting red",
+      "rank": 5,
+      "label": "El Castillo · 40,800 years"
+    },
+    {
+      "text": "Number four: a life-size wild pig on Sulawesi, Indonesia. At least forty-five thousand five hundred years.",
+      "keywords": "cave painting animal",
+      "rank": 4,
+      "label": "Sulawesi pig · 45,500 years"
+    },
+    {
+      "text": "Number three: a pig with three human-like figures, also on Sulawesi. Fifty-one thousand two hundred years.",
+      "keywords": "ancient cave art",
+      "rank": 3,
+      "label": "Pig and hunters · 51,200 years"
+    },
+    {
+      "text": "Number two: hand stencils in Spanish caves, over sixty-four thousand years. Too old for modern humans, so likely Neanderthals.",
+      "keywords": "hand stencil cave",
+      "rank": 2,
+      "label": "Spanish caves · 64,000 years"
+    },
+    {
+      "text": "Number one: a hand stencil on Muna island, Indonesia. At least sixty-seven thousand eight hundred years, fingertips reshaped into points. Lascaux in France? About seventeen thousand.",
+      "keywords": "hand print cave wall",
+      "rank": 1,
+      "label": "Muna stencil · 67,800 years"
+    }
+  ],
+  "description": "The five oldest cave paintings ever dated, ranked by their minimum age.\nA red disk in El Castillo cave, Spain, is at least 40,800 years old; a life-size warty pig in Leang Tedongnge on Sulawesi dates to at least 45,500 years; a pig with three human-like figures in Leang Karampuang, also on Sulawesi, is at least 51,200 years old; hand stencils and markings in Spanish caves such as Maltravieso are over 64,000 years old, before modern humans reached Europe, so likely made by Neanderthals; and a hand stencil with reshaped, pointed fingertips on Muna island, Indonesia, is at least 67,800 years old. Famous Lascaux is about 17,000 years old.\nWhich one surprised you most?",
+  "tags": [
+    "oldest cave paintings",
+    "oldest art",
+    "cave art",
+    "hand stencil",
+    "Sulawesi cave art",
+    "Neanderthal art",
+    "El Castillo",
+    "Lascaux",
+    "prehistoric art",
+    "archaeology",
+    "history facts",
+    "history rankings",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#history",
+    "#archaeology",
+    "#ranking"
+  ],
+  "sources": [
+    "https://archaeology.org/news/2026/01/22/hand-stencil-in-indonesia-named-oldest-rock-art/",
+    "https://www.southampton.ac.uk/news/2018/02/neanderthals-art.page",
+    "https://www.nationalgeographic.com/science/article/45500-year-old-pig-painting-worlds-oldest-animal-art",
+    "https://www.cbc.ca/news/science/oldest-cave-man-art-in-europe-dates-back-40-800-years-1.1285131"
+  ],
+  "thumbnail_text": "OLDEST CAVE PAINTINGS, RANKED",
+  "priority": 7,
+  "first_comment": "Which would you put at number one? These are minimum ages, so any of them could turn out older. Bonus: the Muna stencil's fingers were reshaped to look pointed, maybe like an animal claw. What should we rank next?"
+}

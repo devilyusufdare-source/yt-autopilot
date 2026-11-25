@@ -1,0 +1,75 @@
+{
+  "id": "2028-06-22-five-most-produced-aircraft-ranked",
+  "format": "ranking",
+  "ranking_by": "total number of aircraft built",
+  "topic": "technology",
+  "subject": "Cessna 172 airplane",
+  "title": "The 5 Most-Built Airplanes Ever, Ranked (#1 Never Fired a Shot)",
+  "scenes": [
+    {
+      "text": "The five most-built airplanes ever. Number one never fired a shot, and you can still buy one.",
+      "keywords": "small airplane takeoff"
+    },
+    {
+      "text": "Number five: the Cessna one-fifty and one-fifty-two. About thirty-one thousand built, with just two seats.",
+      "keywords": "cessna airplane flying",
+      "rank": 5,
+      "label": "Cessna 150/152 · 31,000"
+    },
+    {
+      "text": "Number four: the Piper Cherokee. Over thirty-two thousand, and Piper has built it since 1960.",
+      "keywords": "piper airplane",
+      "rank": 4,
+      "label": "Piper Cherokee · 32,000"
+    },
+    {
+      "text": "Number three: the Messerschmitt one-oh-nine. About thirty-five thousand, Germany's main fighter of World War Two.",
+      "keywords": "messerschmitt fighter plane",
+      "rank": 3,
+      "label": "Messerschmitt Bf 109 · 35,000"
+    },
+    {
+      "text": "Number two: the Ilyushin Il-2. Over thirty-six thousand of these armored Soviet attack planes.",
+      "keywords": "world war two airplane",
+      "rank": 2,
+      "label": "Ilyushin Il-2 · 36,000"
+    },
+    {
+      "text": "Number one: the Cessna one-seventy-two. More than forty-four thousand since 1955, and still coming off the line. It's probably parked at your local airfield.",
+      "keywords": "cessna 172 airplane",
+      "rank": 1,
+      "label": "Cessna 172 · 44,000+"
+    }
+  ],
+  "description": "The five most-produced airplanes in history, ranked by total number built.\nThe Cessna 150 and 152 two-seat trainers reached about 31,000; Piper's PA-28 Cherokee family passed 32,000 and is still in production; about 35,000 Messerschmitt Bf 109 fighters were built in World War II; the armored Ilyushin Il-2 attack plane reached about 36,000; and the Cessna 172 Skyhawk, first flown in 1955, has passed 44,000 and is still being built.\nWhich plane did you expect at number one?",
+  "tags": [
+    "most produced aircraft",
+    "Cessna 172",
+    "Cessna 150",
+    "Piper Cherokee",
+    "Messerschmitt Bf 109",
+    "Ilyushin Il-2",
+    "aviation history",
+    "airplane facts",
+    "aircraft records",
+    "technology rankings",
+    "top 5",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#aviation",
+    "#technology",
+    "#ranking"
+  ],
+  "sources": [
+    "https://www.statista.com/chart/20788/the-most-produced-aircraft-of-all-time/",
+    "https://aerospaceweb.org/question/history/q0292.shtml",
+    "https://aviationweek.com/business-aviation/aircraft-propulsion/cessnas-172-still-going-strong-65",
+    "https://planeandpilotmag.com/article/piper-pa-28s/"
+  ],
+  "thumbnail_text": "5 MOST-BUILT PLANES, RANKED",
+  "priority": 6,
+  "first_comment": "Which would you put at number one? The Soviet Po-2 biplane may belong on this list too, but estimates run from 20,000 to 40,000, so nobody knows. What should we rank next?"
+}
