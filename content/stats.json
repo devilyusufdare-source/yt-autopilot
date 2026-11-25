@@ -1,27 +1,28 @@
 {
-  "updated_at": "2026-11-25T03:02:37+00:00",
+  "updated_at": "2026-11-25T03:35:20+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 93,
     "channel_views": 121373,
-    "video_count": 445
+    "video_count": 446
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/K3Zno95QGTk",
+      "https://youtube.com/shorts/VaNe8GcU9OA",
+      "https://youtube.com/shorts/4RbyZ2WP2lg",
       "https://youtube.com/shorts/ImDa8hIXciU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/ImDa8hIXciU"
+      "https://youtube.com/shorts/4RbyZ2WP2lg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/ImDa8hIXciU"
+      "https://youtube.com/shorts/4RbyZ2WP2lg"
     ]
   },
   "retention": {
@@ -93,8 +94,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 445,
-  "total_views": 124877,
+  "total_videos": 447,
+  "total_views": 124971,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,8 +108,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 338,
-      "avg_views": 301,
+      "videos": 340,
+      "avg_views": 299,
       "best_views": 1507
     },
     "human body": {
@@ -139,8 +140,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 429,
-      "avg_views": 275,
+      "videos": 431,
+      "avg_views": 274,
       "over_1500": 3
     },
     "punch": {
@@ -151,8 +152,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 359,
-      "avg_views": 241
+      "videos": 361,
+      "avg_views": 240
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -9157,7 +9158,7 @@
       "hook": "Science once named a worm. It was an octopus's arm.",
       "published_at": "2026-11-22T00:30:01Z",
       "privacy": "public",
-      "views": 120,
+      "views": 119,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc",
@@ -9541,7 +9542,7 @@
       "hook": "One touch of this caterpillar can stop your blood clotting.",
       "published_at": "2026-11-24T05:00:01Z",
       "privacy": "public",
-      "views": 354,
+      "views": 391,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/QjopkSF-yI8"
@@ -9857,8 +9858,8 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 945,
-      "likes": 12,
+      "views": 954,
+      "likes": 13,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8"
     },
@@ -9966,6 +9967,30 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/1-Tq6_60EWQ"
     },
+    "VaNe8GcU9OA": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT32S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Worm Lives Inside Glaciers and Melts If It Gets Too Warm",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A worm lives its whole life inside a glacier. Hold it in your hand and it dies.",
+      "published_at": "2026-11-25T03:33:13Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/VaNe8GcU9OA"
+    },
     "BxI8grmPpI4": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -9993,6 +10018,30 @@
       "avg_view_percent": 67.5,
       "shares": 1,
       "subscribers_gained": 0
+    },
+    "4RbyZ2WP2lg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Deep-Sea Bug Refused Every Meal for Five Years, and Lived",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "An aquarium animal refused every meal for five years. And it looked perfectly fine.",
+      "published_at": "2026-11-25T03:35:10Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/4RbyZ2WP2lg"
     },
     "2k6-MnJn4jo": {
       "upload_status": "processed",
@@ -10209,7 +10258,7 @@
       "hook": "Orcas hunt great whites. But off Iceland, they run from something smaller.",
       "published_at": "2026-11-20T22:50:31Z",
       "privacy": "public",
-      "views": 26,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/F6jrJbuKAWQ",
@@ -10405,7 +10454,7 @@
       "hook": "A coyote and a badger hunt side by side. Neither one is the prey.",
       "published_at": "2026-11-21T19:00:02Z",
       "privacy": "public",
-      "views": 448,
+      "views": 451,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY",
@@ -10825,7 +10874,7 @@
       "hook": "A toad swallows this beetle whole. The beetle wins.",
       "published_at": "2026-11-24T00:00:38Z",
       "privacy": "public",
-      "views": 575,
+      "views": 594,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wzYEu-w7Ww0"
@@ -10873,7 +10922,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 351,
+      "views": 349,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU"
@@ -10953,7 +11002,7 @@
       "hook": "This ant queen gives birth to another species.",
       "published_at": "2026-11-24T01:10:18Z",
       "privacy": "public",
-      "views": 235,
+      "views": 240,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/siGA3-PQ2IY"
@@ -11005,7 +11054,7 @@
       "hook": "Twenty-three million fish banded together for safety. It backfired.",
       "published_at": "2026-11-24T02:15:23Z",
       "privacy": "public",
-      "views": 107,
+      "views": 106,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/A3ygi0TEdM4"
@@ -11029,7 +11078,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 496,
+      "views": 505,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg"
@@ -11077,7 +11126,7 @@
       "hook": "Orcas are top predators. Some keep handing their food to humans.",
       "published_at": "2026-11-24T04:30:28Z",
       "privacy": "public",
-      "views": 734,
+      "views": 749,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/L-m0jBWJt7M"
@@ -11259,8 +11308,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A three-legged lion did something no lion had been filmed doing.",
-      "published_at": "2026-11-25T03:01:14Z",
-      "privacy": "private",
+      "published_at": "2026-11-25T03:30:04Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -11295,14 +11344,14 @@
       "subscribers_gained": 0
     },
     "ImDa8hIXciU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",

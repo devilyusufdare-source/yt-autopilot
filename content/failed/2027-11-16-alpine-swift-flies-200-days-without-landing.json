@@ -55,5 +55,7 @@
   ],
   "thumbnail_text": "200 DAYS IN THE AIR. NO LANDING.",
   "priority": 6,
-  "first_comment": "Which animal record should we cover next? Tell us below."
+  "first_comment": "Which animal record should we cover next? Tell us below.",
+  "_error": "duplicate of an already published video: This Bird Flew 8,400 Miles Without Landing. Eleven Days Straight",
+  "_failed_at": "2026-11-25T03:31:49+00:00"
 }
