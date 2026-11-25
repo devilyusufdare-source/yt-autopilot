@@ -1,28 +1,27 @@
 {
-  "updated_at": "2026-11-25T03:35:20+00:00",
+  "updated_at": "2026-11-25T05:28:55+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 93,
     "channel_views": 121373,
-    "video_count": 446
+    "video_count": 449
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/VaNe8GcU9OA",
-      "https://youtube.com/shorts/4RbyZ2WP2lg",
-      "https://youtube.com/shorts/ImDa8hIXciU"
+      "https://youtube.com/shorts/q08kkaiZFUM",
+      "https://youtube.com/shorts/otgPu858_iI"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/4RbyZ2WP2lg"
+      "https://youtube.com/shorts/otgPu858_iI"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/4RbyZ2WP2lg"
+      "https://youtube.com/shorts/otgPu858_iI"
     ]
   },
   "retention": {
@@ -94,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 447,
-  "total_views": 124971,
+  "total_videos": 449,
+  "total_views": 125163,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -108,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 340,
-      "avg_views": 299,
+      "videos": 342,
+      "avg_views": 298,
       "best_views": 1507
     },
     "human body": {
@@ -140,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 431,
-      "avg_views": 274,
+      "videos": 433,
+      "avg_views": 273,
       "over_1500": 3
     },
     "punch": {
@@ -152,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 361,
-      "avg_views": 240
+      "videos": 363,
+      "avg_views": 239
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -8038,7 +8037,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 459,
+      "views": 461,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -8799,7 +8798,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 56.6,
+      "avg_view_percent": 56.4,
       "shares": 1,
       "subscribers_gained": 0
     },
@@ -8906,7 +8905,7 @@
       "hook": "The five biggest eyes on Earth. No whale wins. Number one is the size of a football.",
       "published_at": "2026-11-20T20:00:33Z",
       "privacy": "public",
-      "views": 70,
+      "views": 71,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/g-p2zANZcwg",
@@ -9518,7 +9517,7 @@
       "hook": "This shrimp eats an animal hollow, then moves in.",
       "published_at": "2026-11-24T03:50:14Z",
       "privacy": "public",
-      "views": 168,
+      "views": 169,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/O7HD8WvNKl0"
@@ -9542,7 +9541,7 @@
       "hook": "One touch of this caterpillar can stop your blood clotting.",
       "published_at": "2026-11-24T05:00:01Z",
       "privacy": "public",
-      "views": 391,
+      "views": 400,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/QjopkSF-yI8"
@@ -9782,7 +9781,7 @@
       "hook": "A deadly sea snake chases divers. It isn't hunting them.",
       "published_at": "2026-11-24T06:10:36Z",
       "privacy": "public",
-      "views": 5,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Jg1yd4qKmLk"
@@ -9858,8 +9857,8 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 954,
-      "likes": 13,
+      "views": 1006,
+      "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8"
     },
@@ -9882,7 +9881,7 @@
       "hook": "The biggest eagle that ever lived killed prey thirteen times its own weight.",
       "published_at": "2026-11-25T02:15:00Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZyM3TzsL-bQ"
@@ -9962,7 +9961,7 @@
       "hook": "The five oldest photographs on Earth, ranked. Number one needed at least eight hours of light.",
       "published_at": "2026-11-25T02:40:09Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1-Tq6_60EWQ"
@@ -9984,11 +9983,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A worm lives its whole life inside a glacier. Hold it in your hand and it dies.",
-      "published_at": "2026-11-25T03:33:13Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-25T04:20:27Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/VaNe8GcU9OA"
     },
     "BxI8grmPpI4": {
@@ -10020,14 +10019,14 @@
       "subscribers_gained": 0
     },
     "4RbyZ2WP2lg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10036,11 +10035,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "An aquarium animal refused every meal for five years. And it looked perfectly fine.",
-      "published_at": "2026-11-25T03:35:10Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-25T04:40:31Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/4RbyZ2WP2lg"
     },
     "2k6-MnJn4jo": {
@@ -10062,7 +10061,7 @@
       "hook": "Scotland's dolphins keep killing another animal. They never eat it.",
       "published_at": "2026-11-19T22:40:00Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/2k6-MnJn4jo",
@@ -10098,6 +10097,54 @@
       "avg_view_percent": 26.1,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "q08kkaiZFUM": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT33S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Echidnas Can't Sweat or Pant, So They Blow Snot Bubbles",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This spiny animal should die on a hot Australian afternoon. It doesn't.",
+      "published_at": "2026-11-25T05:27:13Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/q08kkaiZFUM"
+    },
+    "otgPu858_iI": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Wild Lynx Gives Dead Rabbits a Bath. Scientists Think They Know Why",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A wild cat in Spain does something no carnivore was ever seen doing.",
+      "published_at": "2026-11-25T05:28:40Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/otgPu858_iI"
     },
     "3SrTOJVAzMs": {
       "upload_status": "processed",
@@ -10230,7 +10277,7 @@
       "hook": "Wolves kill foxes. One night near Rome, it went the other way.",
       "published_at": "2026-11-20T22:20:27Z",
       "privacy": "public",
-      "views": 38,
+      "views": 39,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tJd06ONsRyk",
@@ -10258,7 +10305,7 @@
       "hook": "Orcas hunt great whites. But off Iceland, they run from something smaller.",
       "published_at": "2026-11-20T22:50:31Z",
       "privacy": "public",
-      "views": 27,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/F6jrJbuKAWQ",
@@ -10874,7 +10921,7 @@
       "hook": "A toad swallows this beetle whole. The beetle wins.",
       "published_at": "2026-11-24T00:00:38Z",
       "privacy": "public",
-      "views": 594,
+      "views": 641,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wzYEu-w7Ww0"
@@ -10922,7 +10969,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 349,
+      "views": 354,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU"
@@ -11054,7 +11101,7 @@
       "hook": "Twenty-three million fish banded together for safety. It backfired.",
       "published_at": "2026-11-24T02:15:23Z",
       "privacy": "public",
-      "views": 106,
+      "views": 108,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/A3ygi0TEdM4"
@@ -11078,7 +11125,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 505,
+      "views": 509,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg"
@@ -11102,7 +11149,7 @@
       "hook": "Alchemists failed for centuries. Physicists finally turned lead into gold.",
       "published_at": "2026-11-24T03:20:19Z",
       "privacy": "public",
-      "views": 38,
+      "views": 42,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hO2AhQOFOpg"
@@ -11126,7 +11173,7 @@
       "hook": "Orcas are top predators. Some keep handing their food to humans.",
       "published_at": "2026-11-24T04:30:28Z",
       "privacy": "public",
-      "views": 749,
+      "views": 761,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/L-m0jBWJt7M"
@@ -11230,7 +11277,7 @@
       "hook": "A pride of lions couldn't open this animal.",
       "published_at": "2026-11-25T00:00:27Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VGuE6YMJ58k"
@@ -11310,9 +11357,9 @@
       "hook": "A three-legged lion did something no lion had been filmed doing.",
       "published_at": "2026-11-25T03:30:04Z",
       "privacy": "public",
-      "views": 0,
+      "views": 30,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/K3Zno95QGTk"
     },
     "EwlfYEnJaiU": {
@@ -11360,11 +11407,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "City birds treat women differently from men. Nobody knows why.",
-      "published_at": "2026-11-25T03:02:28Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-25T03:50:15Z",
+      "privacy": "public",
+      "views": 8,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/ImDa8hIXciU"
     },
     "MB2BicyS1rs": {
