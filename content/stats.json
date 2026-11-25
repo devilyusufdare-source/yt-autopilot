@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-25T21:59:03+00:00",
+  "updated_at": "2026-11-25T23:06:02+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 92,
     "channel_views": 125563,
-    "video_count": 454
+    "video_count": 455
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/Lcguh13-9Xk"
+      "https://youtube.com/shorts/anjtwli9-Gg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/Lcguh13-9Xk"
+      "https://youtube.com/shorts/anjtwli9-Gg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/Lcguh13-9Xk"
+      "https://youtube.com/shorts/anjtwli9-Gg"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 453,
-  "total_views": 125869,
+  "total_videos": 454,
+  "total_views": 125887,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -116,8 +116,8 @@
       "best_views": 1384
     },
     "history": {
-      "videos": 18,
-      "avg_views": 114,
+      "videos": 19,
+      "avg_views": 108,
       "best_views": 1115
     },
     "space": {
@@ -138,7 +138,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 437,
+      "videos": 438,
       "avg_views": 272,
       "over_1500": 3
     },
@@ -150,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 367,
-      "avg_views": 239
+      "videos": 368,
+      "avg_views": 238
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -3784,7 +3784,7 @@
       "hook": "This spider catches moths without a web. It lies to them.",
       "published_at": "2026-11-14T00:00:16Z",
       "privacy": "public",
-      "views": 931,
+      "views": 932,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/F1JAmyNwUtk",
@@ -6136,7 +6136,7 @@
       "hook": "This snake doesn't swallow its prey. It opens it.",
       "published_at": "2026-11-08T00:10:35Z",
       "privacy": "public",
-      "views": 976,
+      "views": 984,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/KBYp_uwN89M",
@@ -6640,7 +6640,7 @@
       "hook": "The five biggest diamonds ever mined. Four came from one mine, all since 2019.",
       "published_at": "2026-11-17T01:20:11Z",
       "privacy": "public",
-      "views": 55,
+      "views": 56,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/d5f-TlrUDKM",
@@ -9904,7 +9904,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 1152,
+      "views": 1155,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8",
@@ -10168,7 +10168,7 @@
       "hook": "This spiny animal should die on a hot Australian afternoon. It doesn't.",
       "published_at": "2026-11-25T05:50:03Z",
       "privacy": "public",
-      "views": 19,
+      "views": 20,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/q08kkaiZFUM"
@@ -10244,7 +10244,7 @@
       "hook": "A bird smaller than your fist walks up to a raccoon and starts pulling its fur.",
       "published_at": "2026-11-25T10:20:07Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/NaRqPn4-tVM"
@@ -11408,7 +11408,7 @@
       "hook": "A pride of lions couldn't open this animal.",
       "published_at": "2026-11-25T00:00:27Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VGuE6YMJ58k"
@@ -11574,14 +11574,14 @@
       "subscribers_gained": 0
     },
     "Lcguh13-9Xk": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT27S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -11590,11 +11590,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The biggest fish on Earth has one weak spot. Orcas found it.",
-      "published_at": "2026-11-25T21:58:52Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-25T22:30:25Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Lcguh13-9Xk"
     },
     "O2zL5iipSFs": {
@@ -11624,6 +11624,30 @@
       "avg_view_percent": 37.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "anjtwli9-Gg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Oldest Cave Paintings Ever Found, Ranked (France Isn't on It)",
+      "topic": "history",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five oldest cave paintings ever found. France doesn't make the list.",
+      "published_at": "2026-11-25T23:05:53Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/anjtwli9-Gg"
     },
     "sSBPt5yFR_c": {
       "upload_status": "processed",
