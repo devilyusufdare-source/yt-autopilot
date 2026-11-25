@@ -69,5 +69,21 @@
   ],
   "thumbnail_text": "5 OLDEST PHOTOS, RANKED",
   "priority": 6,
-  "first_comment": "Which would you put at number one? The first photo of the Sun came in 1845, with sunspots visible in a 1/60th of a second exposure. What should we rank next?"
+  "first_comment": "Which would you put at number one? The first photo of the Sun came in 1845, with sunspots visible in a 1/60th of a second exposure. What should we rank next?",
+  "youtube_id": "1-Tq6_60EWQ",
+  "url": "https://youtube.com/shorts/1-Tq6_60EWQ",
+  "uploaded_at": "2026-11-25T02:16:40+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-25T02:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 17,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FCD34D",
+  "duration_seconds": 53.6,
+  "style": "classic",
+  "kind": "shorts"
 }

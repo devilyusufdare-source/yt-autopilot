@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-25T01:26:06+00:00",
+  "updated_at": "2026-11-25T02:16:43+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 93,
     "channel_views": 121373,
-    "video_count": 443
+    "video_count": 444
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/ZyM3TzsL-bQ"
+      "https://youtube.com/shorts/1-Tq6_60EWQ"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/ZyM3TzsL-bQ"
+      "https://youtube.com/shorts/1-Tq6_60EWQ"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/ZyM3TzsL-bQ"
+      "https://youtube.com/shorts/1-Tq6_60EWQ"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 442,
-  "total_views": 124538,
+  "total_videos": 443,
+  "total_views": 124906,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,7 +107,7 @@
     },
     "animals": {
       "videos": 336,
-      "avg_views": 302,
+      "avg_views": 303,
       "best_views": 1507
     },
     "human body": {
@@ -116,8 +116,8 @@
       "best_views": 1384
     },
     "history": {
-      "videos": 17,
-      "avg_views": 121,
+      "videos": 18,
+      "avg_views": 114,
       "best_views": 1115
     },
     "space": {
@@ -138,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 426,
-      "avg_views": 276,
+      "videos": 427,
+      "avg_views": 277,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 356,
-      "avg_views": 242
+      "videos": 357,
+      "avg_views": 243
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1320,7 +1320,7 @@
       "hook": "This worm has no mouth, no stomach, and it grows taller than you.",
       "published_at": "2026-10-27T14:00:23Z",
       "privacy": "public",
-      "views": 92,
+      "views": 93,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/MEVi7vL7saY",
@@ -7732,7 +7732,7 @@
       "hook": "A satellite that died in 1967 is transmitting again.",
       "published_at": "2026-11-20T04:50:16Z",
       "privacy": "public",
-      "views": 283,
+      "views": 282,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/OcstKSV45J0",
@@ -7816,7 +7816,7 @@
       "hook": "Almost every hawk hunts alone. One species hunts like a wolf pack.",
       "published_at": "2026-11-18T21:20:37Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xN4pLHNtTGY",
@@ -8764,7 +8764,7 @@
       "hook": "This frog ate her own eggs. Six weeks later, she spat out frogs.",
       "published_at": "2026-11-20T04:30:09Z",
       "privacy": "public",
-      "views": 928,
+      "views": 930,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/BLgz-A_5c6U",
@@ -8792,7 +8792,7 @@
       "hook": "Something inside this fish wants it to get eaten.",
       "published_at": "2026-11-20T09:10:17Z",
       "privacy": "public",
-      "views": 526,
+      "views": 525,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM",
@@ -8876,7 +8876,7 @@
       "hook": "This bird knocks a gannet out of the sky by grabbing one wing.",
       "published_at": "2026-11-21T02:40:38Z",
       "privacy": "public",
-      "views": 271,
+      "views": 270,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4rnYbMm98E",
@@ -9184,7 +9184,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 162,
+      "views": 166,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU",
@@ -9492,7 +9492,7 @@
       "hook": "Spiders eat snakes. On every continent but one.",
       "published_at": "2026-11-23T09:40:26Z",
       "privacy": "public",
-      "views": 124,
+      "views": 126,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BU5Vn7FN7oY"
@@ -9516,7 +9516,7 @@
       "hook": "This shrimp eats an animal hollow, then moves in.",
       "published_at": "2026-11-24T03:50:14Z",
       "privacy": "public",
-      "views": 143,
+      "views": 162,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/O7HD8WvNKl0"
@@ -9540,7 +9540,7 @@
       "hook": "One touch of this caterpillar can stop your blood clotting.",
       "published_at": "2026-11-24T05:00:01Z",
       "privacy": "public",
-      "views": 354,
+      "views": 391,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/QjopkSF-yI8"
@@ -9856,20 +9856,20 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 831,
+      "views": 911,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8"
     },
     "ZyM3TzsL-bQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT39S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9878,8 +9878,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The biggest eagle that ever lived killed prey thirteen times its own weight.",
-      "published_at": "2026-11-25T01:25:59Z",
-      "privacy": "private",
+      "published_at": "2026-11-25T02:15:00Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -9940,6 +9940,30 @@
       "avg_view_percent": 51.5,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "1-Tq6_60EWQ": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Oldest Photographs Ever Taken, Ranked (#1 Took Hours to Expose)",
+      "topic": "history",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The five oldest photographs on Earth, ranked. Number one needed at least eight hours of light.",
+      "published_at": "2026-11-25T02:16:34Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/1-Tq6_60EWQ"
     },
     "BxI8grmPpI4": {
       "upload_status": "processed",
@@ -10408,7 +10432,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 1093,
+      "views": 1095,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo",
@@ -10520,7 +10544,7 @@
       "hook": "Cane toads are covered in poison. This rat eats their hearts.",
       "published_at": "2026-11-22T03:40:18Z",
       "privacy": "public",
-      "views": 42,
+      "views": 43,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/COLUcCiSS2c",
@@ -10632,7 +10656,7 @@
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
       "published_at": "2026-11-23T00:00:17Z",
       "privacy": "public",
-      "views": 129,
+      "views": 130,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g",
@@ -10772,7 +10796,7 @@
       "hook": "Swallows skim this African lake to drink. Some never fly back up.",
       "published_at": "2026-11-23T04:10:04Z",
       "privacy": "public",
-      "views": 612,
+      "views": 613,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/n1zH-Jpia10",
@@ -10800,7 +10824,7 @@
       "hook": "A toad swallows this beetle whole. The beetle wins.",
       "published_at": "2026-11-24T00:00:38Z",
       "privacy": "public",
-      "views": 575,
+      "views": 594,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wzYEu-w7Ww0"
@@ -10824,7 +10848,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 112,
+      "views": 110,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo"
@@ -10848,7 +10872,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 306,
+      "views": 349,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU"
@@ -10928,7 +10952,7 @@
       "hook": "This ant queen gives birth to another species.",
       "published_at": "2026-11-24T01:10:18Z",
       "privacy": "public",
-      "views": 234,
+      "views": 240,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/siGA3-PQ2IY"
@@ -10980,7 +11004,7 @@
       "hook": "Twenty-three million fish banded together for safety. It backfired.",
       "published_at": "2026-11-24T02:15:23Z",
       "privacy": "public",
-      "views": 100,
+      "views": 106,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/A3ygi0TEdM4"
@@ -11004,7 +11028,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 487,
+      "views": 505,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg"
@@ -11052,7 +11076,7 @@
       "hook": "Orcas are top predators. Some keep handing their food to humans.",
       "published_at": "2026-11-24T04:30:28Z",
       "privacy": "public",
-      "views": 619,
+      "views": 749,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/L-m0jBWJt7M"
