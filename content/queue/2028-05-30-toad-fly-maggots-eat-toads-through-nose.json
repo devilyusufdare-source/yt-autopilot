@@ -1,0 +1,63 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "toad fly",
+  "title": "This Fly's Maggots Eat Living Toads From the Nose Inward",
+  "scenes": [
+    {
+      "text": "A fly can kill a toad without ever biting it.",
+      "keywords": "common toad"
+    },
+    {
+      "text": "It's called the toad fly, and across Europe it targets living common toads.",
+      "keywords": "common toad"
+    },
+    {
+      "text": "It lays its eggs right on the toad's skin, often near the nostrils and eyes.",
+      "keywords": "toad fly"
+    },
+    {
+      "text": "The maggots crawl into the nose and start eating the toad's head from the inside.",
+      "keywords": "toad fly"
+    },
+    {
+      "text": "Infected toads stop hiding and sit out in the open. That invites even more flies.",
+      "keywords": "common toad"
+    },
+    {
+      "text": "Within a week, it's dead. Killed by a fly that never bit it once.",
+      "keywords": "common toad"
+    }
+  ],
+  "description": "A fly can kill a common toad without ever biting it.\nThe toad fly, Lucilia bufonivora, lays eggs on living toads, often around the nostrils and eyes. The maggots move into the nose and feed on the living head. Infected toads sit out in the open, and they die within a few days to a week. There is no cure.\nHave you ever seen a toad with a damaged nose?",
+  "tags": [
+    "toad fly",
+    "Lucilia bufonivora",
+    "common toad",
+    "parasite",
+    "maggots",
+    "toad myiasis",
+    "parasitic fly",
+    "amphibian facts",
+    "creepy animal facts",
+    "nature is metal",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#toad",
+    "#parasite",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.arguk.org/get-involved/news/look-out-for-toad-fly-this-summer",
+    "https://www.froglife.org/2018/08/",
+    "https://link.springer.com/article/10.1007/s10344-022-01623-5"
+  ],
+  "thumbnail_text": "ONE FLY. ONE WEEK. DEAD.",
+  "priority": 6,
+  "first_comment": "A 2022 study found toad fly infections in 12 European countries, mostly in bigger, older female toads. Would you rather be the toad or the fly?",
+  "id": "2028-05-30-toad-fly-maggots-eat-toads-through-nose"
+}

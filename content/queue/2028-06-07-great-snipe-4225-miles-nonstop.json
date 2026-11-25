@@ -1,0 +1,63 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "great snipe",
+  "title": "A Plump Wading Bird Flew 4,225 Miles Nonstop in 3.5 Days",
+  "scenes": [
+    {
+      "text": "The fastest long-distance flier isn't a falcon. It's chubby.",
+      "keywords": "great snipe"
+    },
+    {
+      "text": "Meet the great snipe, a plump little wading bird that nests in Sweden.",
+      "keywords": "great snipe"
+    },
+    {
+      "text": "Scientists tagged ten males. One flew four thousand two hundred miles to central Africa without landing.",
+      "keywords": "great snipe flying"
+    },
+    {
+      "text": "Three and a half days, at up to sixty miles an hour, with little help from wind.",
+      "keywords": "great snipe flying"
+    },
+    {
+      "text": "How? Before leaving, they almost double their body weight, mostly fuel they burn on the way.",
+      "keywords": "great snipe"
+    },
+    {
+      "text": "So that chubby look isn't laziness. It's a full fuel tank.",
+      "keywords": "great snipe"
+    }
+  ],
+  "description": "Great snipes tracked from Sweden flew up to 4,225 miles to central Africa without stopping, in about three and a half days.\nThey reach ground speeds of up to 60 mph with little tailwind help, after almost doubling their body weight before the trip. The study was published in Biology Letters.\nCould you stay awake for three and a half days?",
+  "tags": [
+    "great snipe",
+    "bird migration",
+    "fastest migration",
+    "nonstop flight",
+    "migratory birds",
+    "bird records",
+    "wading birds",
+    "bird facts",
+    "animal records",
+    "nature facts",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#birds",
+    "#migration",
+    "#animals"
+  ],
+  "sources": [
+    "https://royalsociety.org/news/2011/great-snipes-are-long-distance-champions/",
+    "https://phys.org/news/2011-05-great-snipe-fastest-migratory-bird.html",
+    "https://www.nationalgeographic.com/animals/article/110606-fastest-birds-flight-animals-migration-science"
+  ],
+  "thumbnail_text": "4,225 MILES. NO STOPS.",
+  "priority": 5,
+  "first_comment": "Most migrating songbirds stop to refuel every few hundred miles. Great snipes fly straight over Europe and the Sahara. Which bird would you bet on in a race?",
+  "id": "2028-06-07-great-snipe-4225-miles-nonstop"
+}

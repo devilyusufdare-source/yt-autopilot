@@ -1,0 +1,63 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "snailfish",
+  "title": "A Fish Was Filmed 27,349 Feet Down, Deeper Than Any Other",
+  "scenes": [
+    {
+      "text": "There's a depth where fish stop existing. One lives right there.",
+      "keywords": "snailfish"
+    },
+    {
+      "text": "Cameras in a trench off Japan caught a baby snailfish swimming.",
+      "keywords": "snailfish swimming"
+    },
+    {
+      "text": "Eight thousand three hundred thirty-six meters down. Over five miles.",
+      "keywords": "snailfish"
+    },
+    {
+      "text": "The water presses more than eight hundred times harder than at the surface.",
+      "keywords": "snailfish"
+    },
+    {
+      "text": "Why no deeper? Fish need a molecule that shields their proteins from pressure. Past about eight thousand four hundred meters, they likely can't make enough.",
+      "keywords": "snailfish"
+    },
+    {
+      "text": "So this tiny fish is swimming at the floor for every fish on Earth.",
+      "keywords": "snailfish swimming"
+    }
+  ],
+  "description": "A juvenile snailfish was filmed 8,336 meters (27,349 feet) down in the Izu-Ogasawara Trench off Japan, the deepest fish ever recorded on camera.\nResearchers think fish can't live much below 8,200 to 8,400 meters, because they can no longer make enough TMAO, a compound that protects their proteins from the pressure.\nWhat do you think lives below the fish limit?",
+  "tags": [
+    "snailfish",
+    "deepest fish",
+    "deep sea fish",
+    "Izu-Ogasawara Trench",
+    "hadal zone",
+    "ocean trench",
+    "deep sea creatures",
+    "ocean records",
+    "fish facts",
+    "animal records",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#deepsea",
+    "#fish",
+    "#animals"
+  ],
+  "sources": [
+    "https://nhm.ac.uk/discover/news/2023/april/deepest-ever-fish-filmed-depth-8336-metres.html",
+    "https://www.smithsonianmag.com/smart-news/behold-the-deepest-fish-ever-filmed-180981937/",
+    "https://www.npr.org/2023/04/05/1168051498/deepest-fish-japan-photograph"
+  ],
+  "thumbnail_text": "27,349 FEET DOWN. STILL ALIVE.",
+  "priority": 6,
+  "first_comment": "Snailfish have no swim bladder, which is part of why they handle the pressure. They feed on tiny crustaceans in the trench. Below this depth, the bottom belongs to shrimp-like amphipods and worms. Would you ride a sub down there?",
+  "id": "2028-06-03-snailfish-filmed-at-fish-depth-limit"
+}

@@ -1,0 +1,61 @@
+{
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "old smoke alarm",
+  "title": "What If You Never Replaced Your Smoke Alarm?",
+  "scenes": [
+    {
+      "text": "What if you never replaced your smoke alarm? Its sneakiest failure is getting too jumpy.",
+      "keywords": "smoke alarm ceiling"
+    },
+    {
+      "text": "Each year, about 3 percent of smoke alarms simply stop working as parts fail at random.",
+      "keywords": "electronics circuit board"
+    },
+    {
+      "text": "By year 10, only about 73 percent still work. That's why makers set a 10-year lifespan.",
+      "keywords": "calendar pages"
+    },
+    {
+      "text": "Over the years, sensors drift, usually becoming more sensitive, so ordinary cooking starts setting them off.",
+      "keywords": "smoky frying pan"
+    },
+    {
+      "text": "Annoyed people pull the power. And after 20 years, only about 54 percent would work even if left powered.",
+      "keywords": "removing battery"
+    },
+    {
+      "text": "When one does sound, you may have under 2 minutes to get out. An old alarm can steal that warning.",
+      "keywords": "family leaving house"
+    }
+  ],
+  "description": "What if you never replaced your smoke alarm? About 3% of smoke alarms fail each year; at 10 years about 73% still work and at 20 years about 54%, and aging alarms usually drift toward being more sensitive, which leads people to disconnect them (Minnesota State Fire Marshal).\nThe US Fire Administration says to replace alarms every 10 years and that you may have less than 2 minutes to escape; NFPA finds almost 3 in 5 home fire deaths occur with no alarm or one that failed.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "smoke alarm",
+    "smoke detector",
+    "fire safety",
+    "home safety",
+    "battery",
+    "technology",
+    "everyday science",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#firesafety",
+    "#science"
+  ],
+  "sources": [
+    "https://dps.mn.gov/divisions/sfm/for-families/Documents/Home%20Fire%20Safety%20Information/smokedetectorreplacement.pdf",
+    "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/",
+    "https://www1.maine.gov/dps/fmo/sites/maine.gov.dps.fmo/files/inline-files/nfpa_smoke_alarms_in_u.s._home_fires.pdf"
+  ],
+  "thumbnail_text": "WHAT IF YOUR SMOKE ALARM GOT OLD?",
+  "priority": 6,
+  "first_comment": "Do you know how old your smoke alarm is? Tell us the household gadget we should run through next.",
+  "id": "2027-12-23-what-if-you-never-replaced-your-smoke-alarm"
+}

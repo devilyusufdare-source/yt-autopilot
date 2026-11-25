@@ -1,0 +1,63 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "cave spider",
+  "title": "A New Fungus Drives Cave Spiders Out of Hiding to Die",
+  "scenes": [
+    {
+      "text": "Spiders that hide in the dark start walking toward the light.",
+      "keywords": "cave spider"
+    },
+    {
+      "text": "They're orb-weaving cave spiders, and normally they stay tucked in their webs.",
+      "keywords": "cave spider"
+    },
+    {
+      "text": "In twenty twenty-one, a BBC crew in Northern Ireland found one dead in the open.",
+      "keywords": "cave spider"
+    },
+    {
+      "text": "It was coated in a fungus no one had ever named.",
+      "keywords": "cave spider"
+    },
+    {
+      "text": "Infected spiders leave their webs and die on bare walls, where scientists think airflow spreads its spores.",
+      "keywords": "cave spider"
+    },
+    {
+      "text": "Its name honors David Attenborough. The walk toward the light is the fungus, not the spider.",
+      "keywords": "cave spider"
+    }
+  ],
+  "description": "Cave spiders that normally hide in their webs are leaving them to die out in the open.\nThe cause is a fungus first spotted in 2021 by a BBC Winterwatch crew in Northern Ireland and named Gibellula attenboroughii in 2025. Infected spiders die on exposed cave walls and ceilings, where scientists think air currents help spread the spores.\nWould you go into that cave?",
+  "tags": [
+    "cave spider",
+    "zombie spider",
+    "Gibellula attenboroughii",
+    "zombie fungus",
+    "parasitic fungus",
+    "David Attenborough",
+    "Northern Ireland caves",
+    "spider facts",
+    "fungus facts",
+    "nature is metal",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#spider",
+    "#fungus",
+    "#nature"
+  ],
+  "sources": [
+    "https://www.sciencenews.org/article/fungus-attenborough-zombie-cave-spiders",
+    "https://www.eurekalert.org/news-releases/1072064",
+    "https://www.sciencealert.com/scientists-discover-a-fungus-turning-spiders-into-zombies"
+  ],
+  "thumbnail_text": "FUNGUS. WALK OUT. DIE.",
+  "priority": 6,
+  "first_comment": "The first one was found on the ceiling of an old gunpowder store, not a cave. What would you name the next zombie fungus?",
+  "id": "2028-05-31-new-fungus-drives-cave-spiders-out-to-die"
+}

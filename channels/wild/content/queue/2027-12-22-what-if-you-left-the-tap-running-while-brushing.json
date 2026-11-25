@@ -1,0 +1,61 @@
+{
+  "format": "whatif",
+  "topic": "earth",
+  "subject": "tap running while brushing",
+  "title": "What If You Left the Tap Running While Brushing?",
+  "scenes": [
+    {
+      "text": "What if you always left the tap running while brushing? It feels like nothing. It isn't.",
+      "keywords": "bathroom faucet running"
+    },
+    {
+      "text": "An older bathroom faucet pours about 2 gallons a minute, so a two-minute brush drains roughly 4 gallons.",
+      "keywords": "water down drain"
+    },
+    {
+      "text": "Brush twice a day, and the US EPA says turning off the tap could save up to 8 gallons daily.",
+      "keywords": "person brushing teeth"
+    },
+    {
+      "text": "Over a year, that's roughly 2,900 gallons, from one sink and one person.",
+      "keywords": "water storage tank"
+    },
+    {
+      "text": "The average American uses about 82 gallons a day at home, so that's over a month of water.",
+      "keywords": "family home kitchen"
+    },
+    {
+      "text": "Newer faucets flow at about half that rate. But the fastest upgrade is still a flick of your wrist.",
+      "keywords": "hand turning tap"
+    }
+  ],
+  "description": "What if you always left the tap running while brushing? Older bathroom faucets run at about 2 gallons a minute and newer ones about 1 (USGS, NYC DEP); the US EPA says turning off the tap while brushing can save 8 gallons a day.\nThat is roughly 2,900 gallons a year, versus about 82 gallons a day used at home by the average American (EPA, citing USGS).\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "brushing teeth",
+    "tap water",
+    "save water",
+    "water waste",
+    "faucet",
+    "environment",
+    "everyday science",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#water",
+    "#science"
+  ],
+  "sources": [
+    "https://www.epa.gov/watersense/statistics-and-facts",
+    "https://water.usgs.gov/edu/activity-percapita.php",
+    "https://www.nyc.gov/assets/dep/downloads/pdf/environment/education/water-use-calculator-worksheet.pdf"
+  ],
+  "thumbnail_text": "WHAT IF THE TAP KEPT RUNNING?",
+  "priority": 6,
+  "first_comment": "Tap on or tap off while you brush? Tell us the tiny daily habit we should run through next.",
+  "id": "2027-12-22-what-if-you-left-the-tap-running-while-brushing"
+}

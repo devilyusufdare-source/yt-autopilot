@@ -1,0 +1,63 @@
+{
+  "format": "whatif",
+  "topic": "space",
+  "subject": "blue sun",
+  "title": "What If the Sun Were Blue?",
+  "scenes": [
+    {
+      "text": "What if the Sun were blue? It would look stunning. Nobody would ever get to see it.",
+      "keywords": "sun in space"
+    },
+    {
+      "text": "Our Sun's surface is about 6,000 kelvin. Blue stars burn far hotter, from roughly 10,000 to over 50,000.",
+      "keywords": "blue star glowing"
+    },
+    {
+      "text": "That heat takes weight. A star needs roughly three times the Sun's mass or more to shine blue.",
+      "keywords": "giant star space"
+    },
+    {
+      "text": "Heavy stars burn their fuel madly. One with about 3 times the Sun's mass lasts roughly 500 million years.",
+      "keywords": "star burning fire"
+    },
+    {
+      "text": "On Earth, the first animals appeared only about 600 million years ago, roughly 4 billion years after the planet formed.",
+      "keywords": "ancient ocean fossil"
+    },
+    {
+      "text": "A blue Sun would be dead before animals could evolve. Our plain star gives about 10 billion years.",
+      "keywords": "sunrise over earth"
+    }
+  ],
+  "description": "What if the Sun were blue? Blue stars are hotter and more massive (roughly 3 or more times the Sun's mass), and heavy stars burn their fuel far faster: an A0 star of 3.3 solar masses lasts about 500 million years versus roughly 10 billion for the Sun (OpenStax Astronomy, NASA).\nThe first animals appear in the fossil record only about 600 million years ago, some 4 billion years after Earth formed.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "blue sun",
+    "blue star",
+    "the sun",
+    "star lifetime",
+    "astronomy",
+    "space facts",
+    "science explained",
+    "what would happen",
+    "evolution",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#space",
+    "#science"
+  ],
+  "sources": [
+    "https://openstax.org/books/astronomy/pages/22-1-evolution-from-the-main-sequence-to-red-giants",
+    "https://www.space.com/blue-stars",
+    "https://science.nasa.gov/?p=201226",
+    "https://www.nationalgeographic.com/science/article/precambrian-time",
+    "https://www.livescience.com/animals/what-was-the-first-animal-on-earth"
+  ],
+  "thumbnail_text": "WHAT IF THE SUN WERE BLUE?",
+  "priority": 7,
+  "first_comment": "Which colour of sun would you pick, and why? Tell us the space question we should run through next.",
+  "id": "2027-12-18-what-if-the-sun-were-blue"
+}

@@ -1,0 +1,62 @@
+{
+  "format": "whatif",
+  "topic": "society",
+  "subject": "reusable shopping bags",
+  "title": "What If You Never Washed Your Shopping Bags?",
+  "scenes": [
+    {
+      "text": "What if you never washed your shopping bags? The danger isn't the dirt you can see.",
+      "keywords": "reusable shopping bag"
+    },
+    {
+      "text": "Researchers swabbed 84 bags from real shoppers. About half carried coliform bacteria, and 12 percent had E. coli.",
+      "keywords": "lab petri dish"
+    },
+    {
+      "text": "Why? About 97 percent of the shoppers they asked had never washed or bleached their bags.",
+      "keywords": "groceries in bag"
+    },
+    {
+      "text": "Add meat juice, leave a bag in a warm car trunk for 2 hours, and bacteria grew about tenfold.",
+      "keywords": "car trunk groceries"
+    },
+    {
+      "text": "In 2010, one bag stored in a hotel bathroom spread a stomach virus through a girls' soccer team.",
+      "keywords": "soccer team girls"
+    },
+    {
+      "text": "The fix is one wash, which cut the bacteria by more than 99 percent. The bag was never the problem.",
+      "keywords": "washing machine"
+    }
+  ],
+  "description": "What if you never washed your shopping bags? A study of 84 reusable bags in Los Angeles, San Francisco and Tucson found coliform bacteria in about half and E. coli in 12%; 97% of shoppers said they had never washed them, and washing cut bacteria by more than 99% (Loma Linda University, TIME).\nIn 2010 a reusable bag kept in a hotel bathroom was linked to a norovirus outbreak on an Oregon girls' soccer team (CIDRAP, ScienceDaily).\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "reusable bags",
+    "shopping bags",
+    "grocery bag",
+    "bacteria",
+    "germs",
+    "food safety",
+    "everyday science",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#germs",
+    "#science"
+  ],
+  "sources": [
+    "https://publichealth.llu.edu/about/blog/dr-ryan-sinclair-reusable-shopping-bag-study",
+    "https://healthland.time.com/?p=6172",
+    "https://www.cidrap.umn.edu/news-perspective/2012/05/bathroom-stored-grocery-bag-fingered-norovirus-outbreak",
+    "https://www.sciencedaily.com/releases/2012/05/120509092524.htm"
+  ],
+  "thumbnail_text": "WHAT IF YOU NEVER WASHED BAGS?",
+  "priority": 6,
+  "first_comment": "Be honest: when did you last wash your shopping bags? Tell us the everyday object we should run through next.",
+  "id": "2027-12-19-what-if-you-never-washed-your-shopping-bags"
+}

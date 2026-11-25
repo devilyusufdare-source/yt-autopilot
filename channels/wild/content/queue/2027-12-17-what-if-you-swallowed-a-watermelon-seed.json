@@ -1,0 +1,63 @@
+{
+  "format": "whatif",
+  "topic": "body",
+  "subject": "swallowed watermelon seed",
+  "title": "What If You Swallowed a Watermelon Seed?",
+  "scenes": [
+    {
+      "text": "What if you swallowed a watermelon seed? The old warning says it sprouts. Your gut disagrees.",
+      "keywords": "watermelon slice seeds"
+    },
+    {
+      "text": "Within seconds it drops into your stomach, an acid bath that sits somewhere around pH 1.5 to 3.",
+      "keywords": "stomach illustration"
+    },
+    {
+      "text": "In about six hours, it has ridden through your stomach and the whole length of your small intestine.",
+      "keywords": "digestive system animation"
+    },
+    {
+      "text": "Your body keeps it near 98.6 degrees, inside the 70 to 105 degree range where watermelon seeds can sprout.",
+      "keywords": "seed sprouting soil"
+    },
+    {
+      "text": "But for the next 36 to 48 hours it sits in your colon, a naturally low-oxygen place. Seeds need oxygen.",
+      "keywords": "dark tunnel"
+    },
+    {
+      "text": "About two days after that bite, it simply leaves. The only thing that ever grew was the myth.",
+      "keywords": "kids eating watermelon"
+    }
+  ],
+  "description": "What if you swallowed a watermelon seed? Food takes about six hours to pass through the stomach and small intestine, then up to 36-48 hours in the colon, according to Mayo Clinic.\nBody temperature sits inside the range where watermelon seeds germinate, but seeds need oxygen to respire, and the large intestine is a naturally low-oxygen environment.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "watermelon seed",
+    "swallowed a seed",
+    "digestion",
+    "stomach acid",
+    "human body",
+    "myth busted",
+    "body facts",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#humanbody",
+    "#science"
+  ],
+  "sources": [
+    "https://www.mayoclinic.org/digestive-system/expert-answers/faq-20058340",
+    "https://www.aces.edu/wp-content/uploads/2023/03/ANR-1061_SoilTemperatureConditionsforVegetableSeedGermination_030623bL-G.pdf",
+    "https://open.lib.umn.edu/horticulture/chapter/9-2-seed-physiology/",
+    "https://health.ucdavis.edu/news/headlines/hydrogen-peroxide-keeps-gut-bacteria-away-from-the-colon-lining-/2020/12",
+    "https://www.discovermagazine.com/health/why-stomach-acid-is-super-strong-and-super-important"
+  ],
+  "thumbnail_text": "WHAT IF YOU SWALLOWED A SEED?",
+  "priority": 7,
+  "first_comment": "Did someone tell you a watermelon would grow in your stomach? Tell us the childhood warning we should run through next.",
+  "id": "2027-12-17-what-if-you-swallowed-a-watermelon-seed"
+}

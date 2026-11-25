@@ -1,0 +1,62 @@
+{
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "dryer lint filter",
+  "title": "What If You Never Cleaned Your Dryer Lint Filter?",
+  "scenes": [
+    {
+      "text": "What if you never cleaned your dryer's lint filter? That soft grey fluff is fuel.",
+      "keywords": "dryer lint filter"
+    },
+    {
+      "text": "Every load sheds fibers from your clothes. Skip the screen for weeks, and they start choking the dryer's airflow.",
+      "keywords": "clothes dryer spinning"
+    },
+    {
+      "text": "Lint burns easily. It's the first thing to catch fire in about 28 percent of US home dryer fires.",
+      "keywords": "small flame"
+    },
+    {
+      "text": "And the top cause of those fires is failure to clean, behind roughly a third of them.",
+      "keywords": "laundry room"
+    },
+    {
+      "text": "US fire departments answer about 2,900 home clothes dryer fires every year. January is the worst month.",
+      "keywords": "fire truck night"
+    },
+    {
+      "text": "Peel off that fluff after every load. The scariest lint is the part you can't see, deep in the vent.",
+      "keywords": "dryer vent outside"
+    }
+  ],
+  "description": "What if you never cleaned your dryer's lint filter? The US Fire Administration estimates about 2,900 home clothes dryer fires a year, peaking in January; failure to clean was the leading factor (34%), and dust, fiber and lint were the item first ignited in 28%.\nNFPA and UL figures agree that failure to clean is the leading cause (29-33%). Lint also builds up in the vent and duct, which need cleaning too.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "dryer lint",
+    "lint filter",
+    "clothes dryer",
+    "dryer fire",
+    "home safety",
+    "laundry",
+    "everyday science",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#homesafety",
+    "#science"
+  ],
+  "sources": [
+    "https://www.claimsjournal.com/news/national/2012/08/14/211886.htm",
+    "https://www.energy.gov/sites/default/files/2016/06/f32/NFPA_DryerFactSheet.pdf",
+    "https://www.ul.com/news/mitigating-clothes-dryer-fires",
+    "https://blogs.extension.iastate.edu/answerline/tag/lint"
+  ],
+  "thumbnail_text": "WHAT IF YOU NEVER CLEANED LINT?",
+  "priority": 6,
+  "first_comment": "Do you clean the lint filter every single load? Tell us the household chore we should run through next.",
+  "id": "2027-12-20-what-if-you-never-cleaned-your-dryer-lint-filter"
+}
