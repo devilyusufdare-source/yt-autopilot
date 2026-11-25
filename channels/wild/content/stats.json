@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-25T20:45:20+00:00",
+  "updated_at": "2026-11-25T22:38:50+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 22,
     "channel_views": 20131,
-    "video_count": 148
+    "video_count": 149
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/xMq0LUr2j1E"
+      "https://youtube.com/shorts/eZLgnXtnC-M"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/xMq0LUr2j1E"
+      "https://youtube.com/shorts/eZLgnXtnC-M"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/xMq0LUr2j1E"
+      "https://youtube.com/shorts/eZLgnXtnC-M"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 149,
-  "total_views": 21126,
+  "total_videos": 150,
+  "total_views": 21204,
   "by_topic": {
     "earth": {
       "videos": 16,
@@ -106,7 +106,7 @@
     "society": {
       "videos": 12,
       "avg_views": 148,
-      "best_views": 924
+      "best_views": 927
     },
     "animals": {
       "videos": 16,
@@ -114,9 +114,9 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 37,
+      "videos": 38,
       "avg_views": 82,
-      "best_views": 871
+      "best_views": 872
     },
     "technology": {
       "videos": 21,
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 149,
-      "avg_views": 142,
+      "videos": 150,
+      "avg_views": 141,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 148,
-      "avg_views": 136
+      "videos": 149,
+      "avg_views": 135
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -187,7 +187,7 @@
     {
       "title": "What If You Never Replaced Your Kitchen Sponge?",
       "topic": "society",
-      "views": 924,
+      "views": 927,
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you."
     },
     {
@@ -199,7 +199,7 @@
     {
       "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
       "topic": "body",
-      "views": 871,
+      "views": 872,
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
     }
   ],
@@ -3247,7 +3247,7 @@
       "hook": "What if a soldier never heard his war had ended? One kept fighting for 29 years.",
       "published_at": "2026-11-20T19:50:05Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4M2mpzTtAI",
@@ -3779,7 +3779,7 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 871,
+      "views": 872,
       "likes": 20,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc",
@@ -4087,7 +4087,7 @@
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
       "published_at": "2026-11-23T23:30:38Z",
       "privacy": "public",
-      "views": 65,
+      "views": 68,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uA4BiNGtBCI",
@@ -4243,7 +4243,7 @@
       "hook": "What if you held in every sneeze? The pressure has to go somewhere.",
       "published_at": "2026-11-24T23:40:33Z",
       "privacy": "public",
-      "views": 27,
+      "views": 26,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JAwig_ZbLc"
@@ -4267,7 +4267,7 @@
       "hook": "What if you never looked up from your phone? Your neck would carry a second head.",
       "published_at": "2026-11-25T00:10:12Z",
       "privacy": "public",
-      "views": 11,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/gMwEXEowZOI"
@@ -4291,8 +4291,8 @@
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you.",
       "published_at": "2026-11-25T09:30:17Z",
       "privacy": "public",
-      "views": 924,
-      "likes": 4,
+      "views": 927,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/8Xl382-MJ4E"
     },
@@ -4321,14 +4321,14 @@
       "url": "https://youtube.com/shorts/U_iEQTGWVEA"
     },
     "xMq0LUr2j1E": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT34S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4337,12 +4337,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you never cleaned your belly button? You'd be growing a tiny rainforest.",
-      "published_at": "2026-11-25T20:45:15Z",
+      "published_at": "2026-11-25T21:10:16Z",
+      "privacy": "public",
+      "views": 69,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/xMq0LUr2j1E"
+    },
+    "eZLgnXtnC-M": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Never Stopped Growing?",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you never stopped growing? Your own size would turn against you.",
+      "published_at": "2026-11-25T22:38:47Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/xMq0LUr2j1E"
+      "url": "https://youtube.com/shorts/eZLgnXtnC-M"
     }
   }
 }
