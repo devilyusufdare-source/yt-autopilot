@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-25T09:04:32+00:00",
+  "updated_at": "2026-11-25T11:47:33+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 22,
     "channel_views": 20072,
-    "video_count": 146
+    "video_count": 147
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/8Xl382-MJ4E"
+      "https://youtube.com/shorts/U_iEQTGWVEA"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/8Xl382-MJ4E"
+      "https://youtube.com/shorts/U_iEQTGWVEA"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/8Xl382-MJ4E"
+      "https://youtube.com/shorts/U_iEQTGWVEA"
     ]
   },
   "retention": {
@@ -90,13 +90,13 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 147,
-  "total_views": 20116,
+  "total_videos": 148,
+  "total_views": 20671,
   "by_topic": {
     "earth": {
       "videos": 16,
       "avg_views": 296,
-      "best_views": 1174
+      "best_views": 1175
     },
     "space": {
       "videos": 47,
@@ -105,8 +105,8 @@
     },
     "society": {
       "videos": 12,
-      "avg_views": 70,
-      "best_views": 414
+      "avg_views": 116,
+      "best_views": 542
     },
     "animals": {
       "videos": 16,
@@ -114,9 +114,9 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 35,
-      "avg_views": 85,
-      "best_views": 862
+      "videos": 36,
+      "avg_views": 83,
+      "best_views": 866
     },
     "technology": {
       "videos": 21,
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 147,
-      "avg_views": 137,
+      "videos": 148,
+      "avg_views": 140,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 146,
-      "avg_views": 131
+      "videos": 147,
+      "avg_views": 133
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,13 +157,13 @@
     {
       "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
       "topic": "animals",
-      "views": 1202,
+      "views": 1204,
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1174,
+      "views": 1175,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -193,7 +193,7 @@
     {
       "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
       "topic": "body",
-      "views": 862,
+      "views": 866,
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
     },
     {
@@ -1007,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1174,
+      "views": 1175,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -3443,7 +3443,7 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1202,
+      "views": 1204,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w",
@@ -3779,7 +3779,7 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 862,
+      "views": 866,
       "likes": 20,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc",
@@ -3919,7 +3919,7 @@
       "hook": "What if a disease could be wiped out with no vaccine and no drug? One nearly was.",
       "published_at": "2026-11-23T08:40:05Z",
       "privacy": "public",
-      "views": 31,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ENjWrNbpz4"
@@ -4079,7 +4079,7 @@
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
       "published_at": "2026-11-23T23:30:38Z",
       "privacy": "public",
-      "views": 57,
+      "views": 59,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uA4BiNGtBCI"
@@ -4127,7 +4127,7 @@
       "hook": "What if you put every living thing on Earth on one scale? Humans would barely move the needle.",
       "published_at": "2026-11-24T02:15:36Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qDc5aUNOZlk"
@@ -4223,8 +4223,8 @@
       "hook": "What if you held in every sneeze? The pressure has to go somewhere.",
       "published_at": "2026-11-24T23:40:33Z",
       "privacy": "public",
-      "views": 12,
-      "likes": 0,
+      "views": 13,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JAwig_ZbLc"
     },
@@ -4247,20 +4247,20 @@
       "hook": "What if you never looked up from your phone? Your neck would carry a second head.",
       "published_at": "2026-11-25T00:10:12Z",
       "privacy": "public",
-      "views": 5,
-      "likes": 0,
+      "views": 6,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/gMwEXEowZOI"
     },
     "8Xl382-MJ4E": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT33S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4269,12 +4269,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you.",
-      "published_at": "2026-11-25T09:04:28Z",
+      "published_at": "2026-11-25T09:30:17Z",
+      "privacy": "public",
+      "views": 542,
+      "likes": 4,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/8Xl382-MJ4E"
+    },
+    "U_iEQTGWVEA": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Drank Way Too Much Water?",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you drank way too much water, too fast? The danger isn't your stomach. It's your brain.",
+      "published_at": "2026-11-25T11:47:28Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/8Xl382-MJ4E"
+      "url": "https://youtube.com/shorts/U_iEQTGWVEA"
     }
   }
 }
