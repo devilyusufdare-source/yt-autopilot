@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-24T23:29:47+00:00",
+  "updated_at": "2026-11-25T00:24:45+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 93,
     "channel_views": 121373,
-    "video_count": 440
+    "video_count": 442
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/WWdKT5PRTDo",
-      "https://youtube.com/shorts/VGuE6YMJ58k"
+      "https://youtube.com/shorts/O3tXA9p47pI"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/WWdKT5PRTDo"
+      "https://youtube.com/shorts/O3tXA9p47pI"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/WWdKT5PRTDo"
+      "https://youtube.com/shorts/O3tXA9p47pI"
     ]
   },
   "retention": {
@@ -93,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 440,
-  "total_views": 124080,
+  "total_videos": 441,
+  "total_views": 124344,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -102,13 +101,13 @@
       "best_views": 364
     },
     "science": {
-      "videos": 31,
-      "avg_views": 207,
+      "videos": 32,
+      "avg_views": 201,
       "best_views": 1648
     },
     "animals": {
       "videos": 335,
-      "avg_views": 301,
+      "avg_views": 302,
       "best_views": 1507
     },
     "human body": {
@@ -128,7 +127,7 @@
     },
     "technology": {
       "videos": 9,
-      "avg_views": 110,
+      "avg_views": 109,
       "best_views": 286
     },
     "games": {
@@ -139,7 +138,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 424,
+      "videos": 425,
       "avg_views": 277,
       "over_1500": 3
     },
@@ -151,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 354,
+      "videos": 355,
       "avg_views": 242
     },
     "en-US-BrianNeural": {
@@ -1769,7 +1768,7 @@
       "hook": "This caterpillar is guarding the babies that ate it alive.",
       "published_at": "2026-11-04T18:30:23Z",
       "privacy": "public",
-      "views": 574,
+      "views": 575,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Ky1kAzkOT8",
@@ -2385,7 +2384,7 @@
       "hook": "These ants can't feed themselves. So they steal babies.",
       "published_at": "2026-11-10T20:00:01Z",
       "privacy": "public",
-      "views": 169,
+      "views": 171,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TgGGPT0hFpg",
@@ -7733,7 +7732,7 @@
       "hook": "A satellite that died in 1967 is transmitting again.",
       "published_at": "2026-11-20T04:50:16Z",
       "privacy": "public",
-      "views": 282,
+      "views": 283,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/OcstKSV45J0",
@@ -7789,7 +7788,7 @@
       "hook": "One snake has a lopsided jaw: far more teeth on the right than the left.",
       "published_at": "2026-11-18T09:10:36Z",
       "privacy": "public",
-      "views": 277,
+      "views": 282,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Psr0jYcJg8o",
@@ -7817,7 +7816,7 @@
       "hook": "Almost every hawk hunts alone. One species hunts like a wolf pack.",
       "published_at": "2026-11-18T21:20:37Z",
       "privacy": "public",
-      "views": 9,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xN4pLHNtTGY",
@@ -7993,6 +7992,30 @@
       "avg_view_percent": 58.1,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "O3tXA9p47pI": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The Heaviest Living Thing on Earth Is a Fungus Hiding Under a Forest",
+      "topic": "science",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The heaviest living thing on Earth isn't a whale or a tree. It's a fungus.",
+      "published_at": "2026-11-25T00:24:36Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/O3tXA9p47pI"
     },
     "q18WSuE5NJ0": {
       "upload_status": "processed",
@@ -9161,7 +9184,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 165,
+      "views": 162,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU",
@@ -9385,7 +9408,7 @@
       "hook": "Millions of these crayfish exist. They're all one animal.",
       "published_at": "2026-11-23T00:40:22Z",
       "privacy": "public",
-      "views": 218,
+      "views": 215,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM",
@@ -9469,8 +9492,8 @@
       "hook": "Spiders eat snakes. On every continent but one.",
       "published_at": "2026-11-23T09:40:26Z",
       "privacy": "public",
-      "views": 116,
-      "likes": 2,
+      "views": 114,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/BU5Vn7FN7oY"
     },
@@ -9493,7 +9516,7 @@
       "hook": "This shrimp eats an animal hollow, then moves in.",
       "published_at": "2026-11-24T03:50:14Z",
       "privacy": "public",
-      "views": 121,
+      "views": 143,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/O7HD8WvNKl0"
@@ -9733,7 +9756,7 @@
       "hook": "Dead female flies attract more males than live ones.",
       "published_at": "2026-11-24T05:50:15Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/H0TeQyyZqew"
@@ -9763,14 +9786,14 @@
       "url": "https://youtube.com/shorts/Jg1yd4qKmLk"
     },
     "WWdKT5PRTDo": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9779,8 +9802,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fish kills the bird that swallows it.",
-      "published_at": "2026-11-24T23:29:36Z",
-      "privacy": "private",
+      "published_at": "2026-11-25T00:20:24Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -9833,8 +9856,8 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 616,
-      "likes": 8,
+      "views": 728,
+      "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8"
     },
@@ -10585,7 +10608,7 @@
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
       "published_at": "2026-11-23T00:00:17Z",
       "privacy": "public",
-      "views": 129,
+      "views": 124,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g",
@@ -10669,7 +10692,7 @@
       "hook": "A spider near Lake Victoria craves human blood. It can't pierce your skin.",
       "published_at": "2026-11-22T20:30:04Z",
       "privacy": "public",
-      "views": 901,
+      "views": 904,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M7aCq1QH0Ho",
@@ -10753,7 +10776,7 @@
       "hook": "A toad swallows this beetle whole. The beetle wins.",
       "published_at": "2026-11-24T00:00:38Z",
       "privacy": "public",
-      "views": 508,
+      "views": 575,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wzYEu-w7Ww0"
@@ -10777,7 +10800,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 110,
+      "views": 112,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo"
@@ -10881,7 +10904,7 @@
       "hook": "This ant queen gives birth to another species.",
       "published_at": "2026-11-24T01:10:18Z",
       "privacy": "public",
-      "views": 227,
+      "views": 207,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/siGA3-PQ2IY"
@@ -10933,7 +10956,7 @@
       "hook": "Twenty-three million fish banded together for safety. It backfired.",
       "published_at": "2026-11-24T02:15:23Z",
       "privacy": "public",
-      "views": 81,
+      "views": 100,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/A3ygi0TEdM4"
@@ -10957,8 +10980,8 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 385,
-      "likes": 4,
+      "views": 450,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg"
     },
@@ -11029,7 +11052,7 @@
       "hook": "This larva kills termites without biting first.",
       "published_at": "2026-11-24T12:00:05Z",
       "privacy": "public",
-      "views": 2,
+      "views": 0,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1kZFpfwsvaY"
@@ -11107,11 +11130,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A pride of lions couldn't open this animal.",
-      "published_at": "2026-11-24T22:44:36Z",
-      "privacy": "private",
+      "published_at": "2026-11-25T00:00:27Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/VGuE6YMJ58k"
     },
     "tq008mZVJQU": {
