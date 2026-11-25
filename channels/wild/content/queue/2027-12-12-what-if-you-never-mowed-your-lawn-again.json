@@ -1,0 +1,63 @@
+{
+  "format": "whatif",
+  "topic": "earth",
+  "subject": "unmowed lawn",
+  "title": "What If You Never Mowed Your Lawn Again?",
+  "scenes": [
+    {
+      "text": "What if you never mowed your lawn again? Your yard would slowly try to become a forest.",
+      "keywords": "lawn mower grass"
+    },
+    {
+      "text": "Within weeks, dandelions and clover bloom. Lawns cut only every three weeks grow up to 2.5 times more flowers.",
+      "keywords": "dandelions lawn"
+    },
+    {
+      "text": "After one uncut May, British lawns held over 250 plant species between them, even wild orchids.",
+      "keywords": "wildflower meadow"
+    },
+    {
+      "text": "Around year five, brambles, shrubs and pine seedlings push up through the grass, if seeds blow in nearby.",
+      "keywords": "overgrown garden"
+    },
+    {
+      "text": "After about 50 years, pines tower over the house. By year 100, oaks and hickories are catching up.",
+      "keywords": "young forest"
+    },
+    {
+      "text": "One English wheat field was abandoned in 1882. Half of it is woodland now. A lawn only exists because you mow.",
+      "keywords": "old woodland"
+    }
+  ],
+  "description": "What if you never mowed your lawn again? A UMass Amherst study found lawns mowed every three weeks had up to 2.5 times more flowers, and Plantlife's No Mow May survey recorded over 250 plant species on unmown British lawns.\nLeft alone, open ground passes through grasses, shrubs and pines to hardwood forest over about a century; Rothamsted's Broadbalk Wilderness, abandoned in 1882, is now partly woodland.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "lawn",
+    "no mow may",
+    "mowing",
+    "wildflowers",
+    "bees",
+    "ecological succession",
+    "forest",
+    "nature facts",
+    "earth science",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#nature",
+    "#garden"
+  ],
+  "sources": [
+    "https://www.umass.edu/news/article/lazy-lawn-mowers-can-help-support-suburban",
+    "https://www.sites.ext.vt.edu/virtualforest/pdf/SuccessionActivitySheets.pdf",
+    "https://era.rothamsted.ac.uk/experiment/rbk1w",
+    "https://www.gardensillustrated.com/news/no-mow-may-wildlife-friendly/"
+  ],
+  "thumbnail_text": "WHAT IF YOU NEVER MOWED AGAIN?",
+  "priority": 5,
+  "first_comment": "How long could you leave your lawn before the neighbours complained? Tell us your what-if.",
+  "id": "2027-12-12-what-if-you-never-mowed-your-lawn-again"
+}

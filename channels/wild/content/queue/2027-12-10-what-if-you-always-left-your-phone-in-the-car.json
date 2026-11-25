@@ -1,0 +1,63 @@
+{
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "phone in car",
+  "title": "What If You Always Left Your Phone in the Car?",
+  "scenes": [
+    {
+      "text": "What if you always left your phone in the car? A mild 73-degree day is enough.",
+      "keywords": "phone on car dashboard"
+    },
+    {
+      "text": "On a 73-degree day, the cabin can pass 100 degrees Fahrenheit within 25 minutes. A cracked window barely helps.",
+      "keywords": "parked car sunny"
+    },
+    {
+      "text": "After an hour, it averages about 40 degrees hotter than outside. Dark dashboards can pass 180 degrees.",
+      "keywords": "car interior sun"
+    },
+    {
+      "text": "Your phone is meant to run only up to 95 degrees. Now it dims, slows down and stops charging.",
+      "keywords": "smartphone overheating"
+    },
+    {
+      "text": "Kept full at 104 degrees for a year, a lithium battery can keep only about 65 percent of its capacity.",
+      "keywords": "phone battery"
+    },
+    {
+      "text": "The screen recovers once it cools. The battery doesn't. Apple says heat can permanently shorten its life.",
+      "keywords": "person holding phone"
+    }
+  ],
+  "description": "What if you always left your phone in the car? A Stanford study found parked cars heat up by about 40°F within an hour, even on mild days, and the National Weather Service notes 100°F within 25 minutes at 73°F outside.\nApple rates iPhones for 32-95°F and warns heat can permanently shorten battery life; Battery University estimates a full lithium battery stored at 40°C keeps about 65% capacity after a year.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "phone",
+    "hot car",
+    "phone battery",
+    "overheating",
+    "lithium battery",
+    "smartphone",
+    "technology facts",
+    "what would happen",
+    "summer heat",
+    "science explained",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#technology",
+    "#phone"
+  ],
+  "sources": [
+    "https://support.apple.com/en-us/ht201678",
+    "https://med.stanford.edu/news/all-news/2005/07/parked-cars-get-dangerously-hot-even-on-cool-days-stanford-study-finds.html",
+    "https://www.weather.gov/lsx/excessiveheat-automobiles",
+    "https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries"
+  ],
+  "thumbnail_text": "WHAT IF YOUR PHONE LIVED IN A CAR?",
+  "priority": 0,
+  "first_comment": "Where does your phone spend the hottest part of the day? Tell us your what-if.",
+  "id": "2027-12-10-what-if-you-always-left-your-phone-in-the-car"
+}
