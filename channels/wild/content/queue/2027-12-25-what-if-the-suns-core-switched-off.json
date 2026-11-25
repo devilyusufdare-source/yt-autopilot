@@ -1,0 +1,63 @@
+{
+  "id": "2027-12-25-what-if-the-suns-core-switched-off",
+  "format": "whatif",
+  "topic": "space",
+  "subject": "sun's core stops fusion",
+  "title": "What If the Sun's Core Switched Off?",
+  "scenes": [
+    {
+      "text": "What if the Sun's core stopped making energy tonight? The sky wouldn't change at all.",
+      "keywords": "sun in space"
+    },
+    {
+      "text": "About eight minutes later, the flood of ghostly particles called neutrinos would stop. Detectors deep underground would go quiet.",
+      "keywords": "underground laboratory"
+    },
+    {
+      "text": "But sunlight wouldn't dim. The energy leaving the Sun's surface today spent over a hundred thousand years escaping the core.",
+      "keywords": "sunlight through clouds"
+    },
+    {
+      "text": "With no fusion pushing outward, the Sun would slowly shrink under its own gravity. Squeezing heats it, so it keeps glowing.",
+      "keywords": "sun surface plasma"
+    },
+    {
+      "text": "That squeeze alone could keep it shining for tens of millions of years.",
+      "keywords": "sunrise over earth"
+    },
+    {
+      "text": "Plants would grow and you'd still get sunburned. Only neutrinos would know. And in 2014, they told us: the core is still on.",
+      "keywords": "sunny field"
+    }
+  ],
+  "description": "What if the Sun's core stopped fusing hydrogen? Neutrinos from the core reach Earth in about eight minutes, so detectors would notice first, but the energy now leaving the surface took more than 100,000 years to work its way out, and gravitational contraction (the Kelvin-Helmholtz mechanism) could keep the Sun shining for tens of millions of years.\nIn 2014 the Borexino experiment measured neutrinos from the Sun's first fusion step and found its output today matches its output 100,000 years ago.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "sun",
+    "sun stopped",
+    "nuclear fusion",
+    "neutrinos",
+    "solar core",
+    "space",
+    "astronomy",
+    "sunlight",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#space",
+    "#sun"
+  ],
+  "sources": [
+    "https://www.symmetrymagazine.org/article/august-2014/first-measurement-of-suns-real-time-energy?page=6",
+    "https://www.universetoday.com/articles/what-would-happen-if-the-sun-stopped-part-1-the-infernal-reservoir",
+    "https://www.universetoday.com/articles/what-would-happen-if-the-sun-stopped-part-2-kelvin-and-helmholtz-at-the-ready",
+    "https://www.universetoday.com/articles/what-would-happen-if-the-sun-stopped-part-3-the-photon-traffic-jam"
+  ],
+  "thumbnail_text": "WHAT IF THE SUN'S CORE DIED?",
+  "priority": 7,
+  "first_comment": "Would you rather know the Sun's core stopped, or never find out? Drop the space what-if we should run through next."
+}

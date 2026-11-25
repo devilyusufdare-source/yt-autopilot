@@ -1,0 +1,63 @@
+{
+  "id": "2027-12-27-what-if-you-cooked-on-a-gas-stove-every-day",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "gas stove indoor air",
+  "title": "What If You Cooked on a Gas Stove Every Day?",
+  "scenes": [
+    {
+      "text": "What if you cooked on a gas stove every day? It pollutes even when it's switched off.",
+      "keywords": "gas stove flame"
+    },
+    {
+      "text": "Within minutes in a small kitchen with no hood, nitrogen dioxide can pass the US one-hour guideline.",
+      "keywords": "cooking on stove"
+    },
+    {
+      "text": "One burner on high, or an oven at three hundred fifty degrees, can push indoor benzene above secondhand smoke levels.",
+      "keywords": "oven kitchen"
+    },
+    {
+      "text": "After an oven runs ninety minutes, the gas reaches even the farthest bedroom, and it lingers there for hours.",
+      "keywords": "bedroom interior"
+    },
+    {
+      "text": "Outside-vented hoods removed only ten to seventy percent, and cooks use them just a quarter to forty percent of the time.",
+      "keywords": "kitchen range hood"
+    },
+    {
+      "text": "With the knobs off? Over three quarters of its methane leaks out then. Nationwide, that warms like half a million cars.",
+      "keywords": "traffic cars"
+    }
+  ],
+  "description": "What if you cooked on a gas stove every day? Stanford researchers measuring 53 California homes found that without a range hood or good ventilation, nitrogen dioxide can exceed the EPA one-hour guideline within minutes, especially in small kitchens, and more than three-quarters of stove methane leaks while the stove is off (comparable to about 500,000 cars' emissions nationwide).\nA 2023 Stanford study found one burner on high or an oven at 350F can raise indoor benzene above secondhand-smoke levels; a later Stanford-led study found NO2 reached distant bedrooms and lingered for hours, with outdoor-vented hoods 10-70% effective.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "gas stove",
+    "gas cooker",
+    "indoor air",
+    "air pollution",
+    "nitrogen dioxide",
+    "benzene",
+    "methane",
+    "kitchen",
+    "technology",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#gasstove",
+    "#science"
+  ],
+  "sources": [
+    "https://www.eurekalert.org/news-releases/941079",
+    "https://news.stanford.edu/2023/06/16/cooking-gas-stoves-emits-benzene-2/",
+    "https://www.scientificamerican.com/article/gas-stove-pollution-lingers-in-homes-for-hours-even-outside-the-kitchen/"
+  ],
+  "thumbnail_text": "WHAT IF YOU ONLY COOKED ON GAS?",
+  "priority": 6,
+  "first_comment": "Gas or electric in your kitchen? Tell us the household appliance we should run through next."
+}
