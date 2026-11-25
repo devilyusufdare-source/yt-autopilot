@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-25T02:16:43+00:00",
+  "updated_at": "2026-11-25T03:02:37+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 93,
     "channel_views": 121373,
-    "video_count": 444
+    "video_count": 445
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/1-Tq6_60EWQ"
+      "https://youtube.com/shorts/K3Zno95QGTk",
+      "https://youtube.com/shorts/ImDa8hIXciU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/1-Tq6_60EWQ"
+      "https://youtube.com/shorts/ImDa8hIXciU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/1-Tq6_60EWQ"
+      "https://youtube.com/shorts/ImDa8hIXciU"
     ]
   },
   "retention": {
@@ -92,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 443,
-  "total_views": 124906,
+  "total_videos": 445,
+  "total_views": 124877,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 336,
-      "avg_views": 303,
+      "videos": 338,
+      "avg_views": 301,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 427,
-      "avg_views": 277,
+      "videos": 429,
+      "avg_views": 275,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 357,
-      "avg_views": 243
+      "videos": 359,
+      "avg_views": 241
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -9156,7 +9157,7 @@
       "hook": "Science once named a worm. It was an octopus's arm.",
       "published_at": "2026-11-22T00:30:01Z",
       "privacy": "public",
-      "views": 119,
+      "views": 120,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc",
@@ -9408,7 +9409,7 @@
       "hook": "Millions of these crayfish exist. They're all one animal.",
       "published_at": "2026-11-23T00:40:22Z",
       "privacy": "public",
-      "views": 223,
+      "views": 227,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM",
@@ -9516,7 +9517,7 @@
       "hook": "This shrimp eats an animal hollow, then moves in.",
       "published_at": "2026-11-24T03:50:14Z",
       "privacy": "public",
-      "views": 162,
+      "views": 168,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/O7HD8WvNKl0"
@@ -9540,7 +9541,7 @@
       "hook": "One touch of this caterpillar can stop your blood clotting.",
       "published_at": "2026-11-24T05:00:01Z",
       "privacy": "public",
-      "views": 391,
+      "views": 354,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/QjopkSF-yI8"
@@ -9856,7 +9857,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 911,
+      "views": 945,
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8"
@@ -9882,7 +9883,7 @@
       "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/ZyM3TzsL-bQ"
     },
     "mzel-4ZbiC0": {
@@ -9942,14 +9943,14 @@
       "subscribers_gained": 0
     },
     "1-Tq6_60EWQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT54S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -9958,11 +9959,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five oldest photographs on Earth, ranked. Number one needed at least eight hours of light.",
-      "published_at": "2026-11-25T02:16:34Z",
-      "privacy": "private",
+      "published_at": "2026-11-25T02:40:09Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/1-Tq6_60EWQ"
     },
     "BxI8grmPpI4": {
@@ -10824,7 +10825,7 @@
       "hook": "A toad swallows this beetle whole. The beetle wins.",
       "published_at": "2026-11-24T00:00:38Z",
       "privacy": "public",
-      "views": 594,
+      "views": 575,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/wzYEu-w7Ww0"
@@ -10848,7 +10849,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 110,
+      "views": 118,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo"
@@ -10872,7 +10873,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 349,
+      "views": 351,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU"
@@ -10952,7 +10953,7 @@
       "hook": "This ant queen gives birth to another species.",
       "published_at": "2026-11-24T01:10:18Z",
       "privacy": "public",
-      "views": 240,
+      "views": 235,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/siGA3-PQ2IY"
@@ -11004,7 +11005,7 @@
       "hook": "Twenty-three million fish banded together for safety. It backfired.",
       "published_at": "2026-11-24T02:15:23Z",
       "privacy": "public",
-      "views": 106,
+      "views": 107,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/A3ygi0TEdM4"
@@ -11028,7 +11029,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 505,
+      "views": 496,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg"
@@ -11076,7 +11077,7 @@
       "hook": "Orcas are top predators. Some keep handing their food to humans.",
       "published_at": "2026-11-24T04:30:28Z",
       "privacy": "public",
-      "views": 749,
+      "views": 734,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/L-m0jBWJt7M"
@@ -11241,6 +11242,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "K3Zno95QGTk": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT30S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Three-Legged Lion Swam Over a Kilometre Through Crocodiles",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A three-legged lion did something no lion had been filmed doing.",
+      "published_at": "2026-11-25T03:01:14Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/K3Zno95QGTk"
+    },
     "EwlfYEnJaiU": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -11268,6 +11293,30 @@
       "avg_view_percent": 85.7,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "ImDa8hIXciU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "City Birds Let Men Get Three Feet Closer Than Women",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "City birds treat women differently from men. Nobody knows why.",
+      "published_at": "2026-11-25T03:02:28Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/ImDa8hIXciU"
     },
     "MB2BicyS1rs": {
       "upload_status": "processed",
