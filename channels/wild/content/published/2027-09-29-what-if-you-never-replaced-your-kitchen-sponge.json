@@ -56,5 +56,21 @@
   ],
   "thumbnail_text": "WHAT IF YOU NEVER TOSSED IT?",
   "priority": 7,
-  "first_comment": "How old is your sponge right now? Be honest. What household object should we check next?"
+  "first_comment": "How old is your sponge right now? Be honest. What household object should we check next?",
+  "youtube_id": "8Xl382-MJ4E",
+  "url": "https://youtube.com/shorts/8Xl382-MJ4E",
+  "uploaded_at": "2026-11-25T09:04:30+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-25T09:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FACC15",
+  "duration_seconds": 32.8,
+  "style": "classic",
+  "kind": "shorts"
 }
