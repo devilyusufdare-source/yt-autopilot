@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-25T20:29:45+00:00",
+  "updated_at": "2026-11-25T21:59:03+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 92,
     "channel_views": 125563,
-    "video_count": 453
+    "video_count": 454
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/qzZAIhnbG5M"
+      "https://youtube.com/shorts/Lcguh13-9Xk"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/qzZAIhnbG5M"
+      "https://youtube.com/shorts/Lcguh13-9Xk"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/qzZAIhnbG5M"
+      "https://youtube.com/shorts/Lcguh13-9Xk"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 452,
-  "total_views": 125859,
+  "total_videos": 453,
+  "total_views": 125869,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -106,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 344,
-      "avg_views": 299,
+      "videos": 345,
+      "avg_views": 298,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 436,
-      "avg_views": 273,
+      "videos": 437,
+      "avg_views": 272,
       "over_1500": 3
     },
     "punch": {
@@ -150,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 366,
+      "videos": 367,
       "avg_views": 239
     },
     "en-US-BrianNeural": {
@@ -2329,7 +2329,7 @@
       "published_at": "2026-10-17T15:30:29Z",
       "privacy": "public",
       "views": 1384,
-      "likes": 53,
+      "likes": 52,
       "comments": 2,
       "url": "https://youtube.com/shorts/UUHeyNuVn8M",
       "avg_view_seconds": 28.0,
@@ -8046,14 +8046,14 @@
       "subscribers_gained": 1
     },
     "qzZAIhnbG5M": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT41S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -8062,11 +8062,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "In space, two pieces of metal can touch and never come apart.",
-      "published_at": "2026-11-25T20:29:33Z",
-      "privacy": "private",
+      "published_at": "2026-11-25T21:00:11Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/qzZAIhnbG5M"
     },
     "UMDanzgQzVk": {
@@ -9932,7 +9932,7 @@
       "hook": "The biggest eagle that ever lived killed prey thirteen times its own weight.",
       "published_at": "2026-11-25T02:15:00Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZyM3TzsL-bQ"
@@ -10060,7 +10060,7 @@
       "hook": "This eagle weighs about as much as a house cat. Its prey is the size of a child.",
       "published_at": "2026-11-19T21:30:38Z",
       "privacy": "public",
-      "views": 27,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BxI8grmPpI4",
@@ -10168,7 +10168,7 @@
       "hook": "This spiny animal should die on a hot Australian afternoon. It doesn't.",
       "published_at": "2026-11-25T05:50:03Z",
       "privacy": "public",
-      "views": 18,
+      "views": 19,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/q08kkaiZFUM"
@@ -10192,7 +10192,7 @@
       "hook": "A wild cat in Spain does something no carnivore was ever seen doing.",
       "published_at": "2026-11-25T06:20:38Z",
       "privacy": "public",
-      "views": 11,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/otgPu858_iI"
@@ -10244,7 +10244,7 @@
       "hook": "A bird smaller than your fist walks up to a raccoon and starts pulling its fur.",
       "published_at": "2026-11-25T10:20:07Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/NaRqPn4-tVM"
@@ -10376,7 +10376,7 @@
       "hook": "Wolves kill foxes. One night near Rome, it went the other way.",
       "published_at": "2026-11-20T22:20:27Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tJd06ONsRyk",
@@ -10628,7 +10628,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 1108,
+      "views": 1109,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo",
@@ -11540,7 +11540,7 @@
       "hook": "City birds treat women differently from men. Nobody knows why.",
       "published_at": "2026-11-25T03:50:15Z",
       "privacy": "public",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ImDa8hIXciU"
@@ -11572,6 +11572,30 @@
       "avg_view_percent": 28.8,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "Lcguh13-9Xk": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Orcas Flip the Biggest Fish on Earth Upside Down, Then Bite",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The biggest fish on Earth has one weak spot. Orcas found it.",
+      "published_at": "2026-11-25T21:58:52Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Lcguh13-9Xk"
     },
     "O2zL5iipSFs": {
       "upload_status": "processed",
