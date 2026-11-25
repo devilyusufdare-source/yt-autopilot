@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-25T00:24:45+00:00",
+  "updated_at": "2026-11-25T01:26:06+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 93,
     "channel_views": 121373,
-    "video_count": 442
+    "video_count": 443
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/O3tXA9p47pI"
+      "https://youtube.com/shorts/ZyM3TzsL-bQ"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/O3tXA9p47pI"
+      "https://youtube.com/shorts/ZyM3TzsL-bQ"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/O3tXA9p47pI"
+      "https://youtube.com/shorts/ZyM3TzsL-bQ"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 441,
-  "total_views": 124344,
+  "total_videos": 442,
+  "total_views": 124538,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -106,7 +106,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 335,
+      "videos": 336,
       "avg_views": 302,
       "best_views": 1507
     },
@@ -127,7 +127,7 @@
     },
     "technology": {
       "videos": 9,
-      "avg_views": 109,
+      "avg_views": 110,
       "best_views": 286
     },
     "games": {
@@ -138,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 425,
-      "avg_views": 277,
+      "videos": 426,
+      "avg_views": 276,
       "over_1500": 3
     },
     "punch": {
@@ -150,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 355,
+      "videos": 356,
       "avg_views": 242
     },
     "en-US-BrianNeural": {
@@ -7994,14 +7994,14 @@
       "subscribers_gained": 0
     },
     "O3tXA9p47pI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT38S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -8010,11 +8010,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The heaviest living thing on Earth isn't a whale or a tree. It's a fungus.",
-      "published_at": "2026-11-25T00:24:36Z",
-      "privacy": "private",
+      "published_at": "2026-11-25T00:40:11Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/O3tXA9p47pI"
     },
     "q18WSuE5NJ0": {
@@ -9044,7 +9044,7 @@
       "hook": "This whale squirts ink like a squid.",
       "published_at": "2026-11-22T00:00:15Z",
       "privacy": "public",
-      "views": 837,
+      "views": 835,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs",
@@ -9408,7 +9408,7 @@
       "hook": "Millions of these crayfish exist. They're all one animal.",
       "published_at": "2026-11-23T00:40:22Z",
       "privacy": "public",
-      "views": 215,
+      "views": 223,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM",
@@ -9492,8 +9492,8 @@
       "hook": "Spiders eat snakes. On every continent but one.",
       "published_at": "2026-11-23T09:40:26Z",
       "privacy": "public",
-      "views": 114,
-      "likes": 1,
+      "views": 124,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BU5Vn7FN7oY"
     },
@@ -9592,7 +9592,7 @@
       "hook": "This turtle breathes through its backside.",
       "published_at": "2026-11-24T05:30:34Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Z-s7KnUAY5M"
@@ -9804,9 +9804,9 @@
       "hook": "This fish kills the bird that swallows it.",
       "published_at": "2026-11-25T00:20:24Z",
       "privacy": "public",
-      "views": 0,
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/WWdKT5PRTDo"
     },
     "3JIgcw-3dJU": {
@@ -9856,10 +9856,34 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 728,
-      "likes": 10,
+      "views": 831,
+      "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8"
+    },
+    "ZyM3TzsL-bQ": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A 33-Pound Eagle Killed Birds 13 Times Its Weight, and People May Have Been Next",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The biggest eagle that ever lived killed prey thirteen times its own weight.",
+      "published_at": "2026-11-25T01:25:59Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/ZyM3TzsL-bQ"
     },
     "mzel-4ZbiC0": {
       "upload_status": "processed",
@@ -10608,7 +10632,7 @@
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
       "published_at": "2026-11-23T00:00:17Z",
       "privacy": "public",
-      "views": 124,
+      "views": 129,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g",
@@ -10904,7 +10928,7 @@
       "hook": "This ant queen gives birth to another species.",
       "published_at": "2026-11-24T01:10:18Z",
       "privacy": "public",
-      "views": 207,
+      "views": 234,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/siGA3-PQ2IY"
@@ -10980,7 +11004,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 450,
+      "views": 487,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg"
@@ -11052,7 +11076,7 @@
       "hook": "This larva kills termites without biting first.",
       "published_at": "2026-11-24T12:00:05Z",
       "privacy": "public",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1kZFpfwsvaY"
