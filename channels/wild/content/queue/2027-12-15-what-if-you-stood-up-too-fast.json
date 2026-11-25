@@ -1,0 +1,61 @@
+{
+  "format": "whatif",
+  "topic": "body",
+  "subject": "head rush",
+  "title": "What If You Stood Up Too Fast?",
+  "scenes": [
+    {
+      "text": "What if you stood up too fast? For a moment, your brain runs short of blood.",
+      "keywords": "person standing up"
+    },
+    {
+      "text": "The instant you rise, gravity drags roughly half a litre to a litre of blood into your legs and trunk.",
+      "keywords": "legs walking"
+    },
+    {
+      "text": "Within seconds, less blood returns to your heart and pressure dips. Vision blurs and your head goes light.",
+      "keywords": "blurry room"
+    },
+    {
+      "text": "Pressure sensors in your neck catch the drop. Your heart speeds up by about 10 to 15 beats a minute.",
+      "keywords": "heart rate monitor"
+    },
+    {
+      "text": "Your veins tighten and push blood back up. In most people, the fix is quick and nobody notices.",
+      "keywords": "person getting out of bed"
+    },
+    {
+      "text": "You do this every morning. A head rush is just the day your reflex is a beat too slow.",
+      "keywords": "morning bedroom"
+    }
+  ],
+  "description": "What if you stood up too fast? Standing normally pools roughly 0.5 to 1 litre of blood in the leg and trunk veins, briefly lowering blood pressure, according to the Merck Manual.\nPressure sensors in the aorta and carotid arteries react by speeding the heart (typically 10-15 beats a minute) and tightening vessels; when that reflex lags, you get a head rush.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "head rush",
+    "standing up",
+    "dizzy",
+    "blood pressure",
+    "human body",
+    "heart",
+    "body facts",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#humanbody",
+    "#science"
+  ],
+  "sources": [
+    "https://www.merckmanuals.com/professional/cardiovascular-disorders/symptoms-of-cardiovascular-disorders/orthostatic-hypotension",
+    "https://www.statpearls.com/sp/ms/654/26348/",
+    "https://www.health.harvard.edu/heart-health/after-standing-a-fall-in-blood-pressure"
+  ],
+  "thumbnail_text": "WHAT IF YOU STOOD UP TOO FAST?",
+  "priority": 6,
+  "first_comment": "Do you get head rushes when you stand up? Tell us the everyday body moment we should run through next.",
+  "id": "2027-12-15-what-if-you-stood-up-too-fast"
+}

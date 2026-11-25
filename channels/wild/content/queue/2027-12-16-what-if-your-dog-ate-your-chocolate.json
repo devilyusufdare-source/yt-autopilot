@@ -1,0 +1,60 @@
+{
+  "format": "whatif",
+  "topic": "animals",
+  "subject": "dog chocolate",
+  "title": "What If Your Dog Ate Your Chocolate?",
+  "scenes": [
+    {
+      "text": "What if your dog ate your chocolate? Nothing might happen for hours. That's the trap.",
+      "keywords": "dog with chocolate"
+    },
+    {
+      "text": "Chocolate contains theobromine, a cousin of caffeine. A dog's body needs about 17 hours to clear half of it.",
+      "keywords": "chocolate bar"
+    },
+    {
+      "text": "Within about 2 to 12 hours, signs start: vomiting, thirst, restlessness. Bigger doses race the heart.",
+      "keywords": "restless dog"
+    },
+    {
+      "text": "Darker means stronger. Baking chocolate packs nearly seven times more per gram than milk chocolate.",
+      "keywords": "dark chocolate pieces"
+    },
+    {
+      "text": "About 20 milligrams per kilo brings mild signs. Around 60 can cause seizures. Severe cases last up to 72 hours.",
+      "keywords": "veterinarian dog"
+    },
+    {
+      "text": "For a ten-kilo dog, one 100-gram dark bar comes close to seizure level. White chocolate barely registers.",
+      "keywords": "white chocolate"
+    }
+  ],
+  "description": "What if your dog ate your chocolate? Theobromine and caffeine in chocolate have a half-life of about 17.5 hours in dogs, versus a few hours in humans, and signs usually appear within hours (Merck Veterinary Manual, WSU).\nMild signs start around 20 mg/kg, seizures around 60 mg/kg; unsweetened baking chocolate holds about 15.5 mg/g against 2.3 mg/g in milk chocolate.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "dog",
+    "chocolate",
+    "dogs and chocolate",
+    "theobromine",
+    "pet facts",
+    "animal facts",
+    "dog health",
+    "animals",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#dogs",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate",
+    "https://hospital.vetmed.wsu.edu/?p=12371"
+  ],
+  "thumbnail_text": "WHAT IF YOUR DOG ATE CHOCOLATE?",
+  "priority": 7,
+  "first_comment": "What's the strangest thing your pet has ever eaten? Tell us your what-if.",
+  "id": "2027-12-16-what-if-your-dog-ate-your-chocolate"
+}

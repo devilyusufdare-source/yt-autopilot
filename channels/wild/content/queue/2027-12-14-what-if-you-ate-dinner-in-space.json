@@ -1,0 +1,62 @@
+{
+  "format": "whatif",
+  "topic": "space",
+  "subject": "space food",
+  "title": "What If You Ate Dinner in Space?",
+  "scenes": [
+    {
+      "text": "What if you ate dinner in space? It would taste like you had a heavy cold.",
+      "keywords": "astronaut eating"
+    },
+    {
+      "text": "In your first days in orbit, fluid that gravity kept in your legs drifts up into your head.",
+      "keywords": "space station interior"
+    },
+    {
+      "text": "Your face puffs up and your nose blocks. Since smell drives flavour, your food goes flat.",
+      "keywords": "floating food pouch"
+    },
+    {
+      "text": "In one astronaut's test, applesauce scored 6 out of 10 for taste on the ground, and only 4 in space.",
+      "keywords": "applesauce spoon"
+    },
+    {
+      "text": "So crews reach for hot sauce. One astronaut who disliked shrimp cocktail ate it constantly in orbit.",
+      "keywords": "hot sauce bottle"
+    },
+    {
+      "text": "And forget bread. Floating crumbs can get into eyes and equipment, so since 1985 it's mostly tortillas.",
+      "keywords": "tortilla wrap"
+    }
+  ],
+  "description": "What if you ate dinner in space? Without gravity, body fluid shifts toward the head, causing a puffy face and blocked nose that feels like a heavy cold, so food tastes weaker; one astronaut rated applesauce 6 of 10 on Earth and 4 in space (NASA).\nCrews add hot sauce and spicy condiments, and tortillas replaced crumb-shedding bread after 1985.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "space food",
+    "astronaut",
+    "space station",
+    "taste in space",
+    "microgravity",
+    "NASA",
+    "hot sauce",
+    "tortillas",
+    "space facts",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#space",
+    "#astronaut"
+  ],
+  "sources": [
+    "https://www.nasa.gov/sites/default/files/atoms/files/tasteinspace.pdf",
+    "https://www.scientificamerican.com/article/taste-changes-in-space/",
+    "https://www.nasa.gov/history/space-station-20th-food-on-iss"
+  ],
+  "thumbnail_text": "WHAT IF YOU ATE DINNER IN SPACE?",
+  "priority": 5,
+  "first_comment": "What is the one meal you'd want to take to space? And what should we run through next?",
+  "id": "2027-12-14-what-if-you-ate-dinner-in-space"
+}

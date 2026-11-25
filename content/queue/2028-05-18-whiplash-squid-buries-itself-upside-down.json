@@ -1,0 +1,61 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "whiplash squid",
+  "title": "4,000 Metres Down, a Squid Buried Its Head in the Mud",
+  "scenes": [
+    {
+      "text": "A deep sea camera filmed two white stalks. Then the stalks moved.",
+      "keywords": "squid"
+    },
+    {
+      "text": "Four thousand metres down in the Pacific, they looked like sponges.",
+      "keywords": "deep sea floor"
+    },
+    {
+      "text": "They weren't. They were the tentacles of a squid, buried head first in the mud.",
+      "keywords": "squid"
+    },
+    {
+      "text": "Its body hung upside down and rigid, with just two arms sticking out.",
+      "keywords": "squid"
+    },
+    {
+      "text": "No squid had ever been seen burying itself, let alone upside down.",
+      "keywords": "squid"
+    },
+    {
+      "text": "Scientists think it's a disguise. In the deep sea, even a sponge might be hungry.",
+      "keywords": "sea sponge"
+    }
+  ],
+  "description": "During the SMARTEX expedition to the Clarion-Clipperton Zone, a remotely operated vehicle filmed an unknown whiplash squid about 4,000 metres down with its head buried in sediment and two long white tentacles sticking up like a sponge stalk.\nIt is the first squid ever recorded burying itself, and no cephalopod had been seen in that upside-down rigid pose. It may be hiding from predators or ambushing small crustaceans. The report was published in Ecology.\nWhat else do you think is hiding down there?",
+  "tags": [
+    "whiplash squid",
+    "squid",
+    "deep sea",
+    "deep sea creatures",
+    "clarion clipperton zone",
+    "camouflage",
+    "cephalopod",
+    "ocean animals",
+    "weird animals",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#deepsea",
+    "#squid",
+    "#ocean"
+  ],
+  "sources": [
+    "https://www.livescience.com/animals/mollusks/very-novel-and-very-puzzling-unknown-species-of-squid-spotted-burying-itself-upside-down-pretending-to-be-a-plant",
+    "https://www.noc.ac.uk/news/discovery-muddy-squid-highlights-deep-sea-knowledge-gaps"
+  ],
+  "thumbnail_text": "SQUID. HEAD IN THE MUD.",
+  "priority": 5,
+  "first_comment": "It was only the second squid spotted in that area in over 40 years of research. Would you have noticed it?",
+  "id": "2028-05-18-whiplash-squid-buries-itself-upside-down"
+}
