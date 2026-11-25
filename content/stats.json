@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T23:06:02+00:00",
+  "updated_at": "2026-11-25T23:48:55+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
+      "https://youtube.com/shorts/NyxwrkQfC8E",
       "https://youtube.com/shorts/anjtwli9-Gg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/anjtwli9-Gg"
+      "https://youtube.com/shorts/NyxwrkQfC8E"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/anjtwli9-Gg"
+      "https://youtube.com/shorts/NyxwrkQfC8E"
     ]
   },
   "retention": {
@@ -92,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 454,
-  "total_views": 125887,
+  "total_videos": 455,
+  "total_views": 125890,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 345,
-      "avg_views": 298,
+      "videos": 346,
+      "avg_views": 297,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 438,
-      "avg_views": 272,
+      "videos": 439,
+      "avg_views": 271,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 368,
-      "avg_views": 238
+      "videos": 369,
+      "avg_views": 237
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -10268,7 +10269,7 @@
       "hook": "Every winter, this tiny animal shrinks its own skull.",
       "published_at": "2026-11-25T10:50:35Z",
       "privacy": "public",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/59sLe__3Ywk"
@@ -11592,10 +11593,34 @@
       "hook": "The biggest fish on Earth has one weak spot. Orcas found it.",
       "published_at": "2026-11-25T22:30:25Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Lcguh13-9Xk"
+    },
+    "NyxwrkQfC8E": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Scientists Measured These Lizards 4 Days Before a Hurricane Hit",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
+      "published_at": "2026-11-25T23:48:47Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/NyxwrkQfC8E"
     },
     "O2zL5iipSFs": {
       "upload_status": "processed",
@@ -11626,14 +11651,14 @@
       "subscribers_gained": 0
     },
     "anjtwli9-Gg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT44S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
