@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "common octopus",
+  "title": "Octopuses Tear Open the Crab That's Invading the Mediterranean",
+  "scenes": [
+    {
+      "text": "An invader is overrunning the Mediterranean, and almost nothing eats it.",
+      "keywords": "blue crab"
+    },
+    {
+      "text": "Atlantic blue crabs arrived from the Americas and spread with few natural predators.",
+      "keywords": "blue crab"
+    },
+    {
+      "text": "Then divers in Spain filmed something new: wild octopuses hunting adult blue crabs.",
+      "keywords": "octopus hunting"
+    },
+    {
+      "text": "The octopus pins the crab with its arms, wraps it in its web and cracks the shell open.",
+      "keywords": "octopus"
+    },
+    {
+      "text": "In tank tests, an adult octopus ate about four hundred grams of crab meat a day.",
+      "keywords": "octopus"
+    },
+    {
+      "text": "That's sixteen percent of its own weight. The invader finally has an enemy.",
+      "keywords": "octopus"
+    }
+  ],
+  "description": "The Atlantic blue crab has spread widely across the Mediterranean with few or no natural predators. In 2025 researchers published the first records of wild common octopuses preying on adult blue crabs, filmed by divers at Calpe, Spain.\nIn aquarium trials, adult octopuses ate about 415 g of crab soft tissue a day, around 16% of their body weight, leaving the empty shell behind.\nCould octopuses keep the blue crab invasion in check?",
+  "tags": [
+    "common octopus",
+    "octopus",
+    "blue crab",
+    "invasive species",
+    "mediterranean sea",
+    "octopus hunting",
+    "callinectes sapidus",
+    "predator prey",
+    "ocean animals",
+    "marine biology",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#octopus",
+    "#ocean",
+    "#animals"
+  ],
+  "sources": [
+    "https://ba.ieo.es/ultimas-publicaciones/3156-first-records-of-wild-octopus-octopus-vulgaris-preying-on-adult-invasive-blue-crabs-callinectes-sapidus",
+    "https://www.mdpi.com/2076-2615/15/24/3566"
+  ],
+  "thumbnail_text": "OCTOPUS VS INVADER CRAB",
+  "priority": 0,
+  "first_comment": "Loggerhead sea turtles were tested too and ate blue crabs whole, shell and all. Who would win: octopus or crab?",
+  "id": "2028-05-21-octopus-tears-open-invasive-blue-crab"
+}

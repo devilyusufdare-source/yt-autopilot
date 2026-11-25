@@ -1,0 +1,63 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "lion",
+  "title": "A Three-Legged Lion Swam Over a Kilometre Through Crocodiles",
+  "scenes": [
+    {
+      "text": "A three-legged lion did something no lion had been filmed doing.",
+      "keywords": "lion"
+    },
+    {
+      "text": "Jacob lost a leg to a poacher's trap. A buffalo once gored him.",
+      "keywords": "lion"
+    },
+    {
+      "text": "One night in Uganda, he and his brother waded into a channel full of hippos and crocodiles.",
+      "keywords": "lion swimming"
+    },
+    {
+      "text": "Lions usually swim a hundred metres at most. Jacob swam more than a kilometre, on three legs.",
+      "keywords": "lion swimming"
+    },
+    {
+      "text": "A heat camera drone filmed it. The prize on the far side: lionesses.",
+      "keywords": "lion"
+    },
+    {
+      "text": "There was a bridge, with armed guards. To Jacob, people were scarier than crocodiles.",
+      "keywords": "Nile crocodile"
+    }
+  ],
+  "description": "Two lion brothers in Uganda's Queen Elizabeth National Park swam across the Kazinga Channel at night, a crossing of more than a kilometre through water full of hippos and Nile crocodiles. One of them, Jacob, has only three legs after a poacher's trap.\nPreviously documented lion swims were only about 10 to 100 metres. A nearby bridge was guarded by people, so researchers think the lions chose the water to avoid humans.\nWould you call Jacob brave or desperate?",
+  "tags": [
+    "three legged lion",
+    "lion swimming",
+    "Jacob the lion",
+    "Kazinga Channel",
+    "Queen Elizabeth National Park",
+    "Uganda wildlife",
+    "lion facts",
+    "Nile crocodile",
+    "hippo",
+    "survival story",
+    "big cats",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#lion",
+    "#wildlife",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.livescience.com/animals/lions/its-pretty-incredible-the-guys-got-three-legs-watch-lion-looking-for-sex-make-record-breaking-swim-across-treacherous-river-filled-with-crocs-and-hippos",
+    "https://news.mongabay.com/short-article/2024/08/three-legged-lion-makes-the-longest-known-swim-across-croc-filled-water/"
+  ],
+  "thumbnail_text": "3 LEGS. 1 KM. CROCODILES.",
+  "priority": 7,
+  "first_comment": "Jacob and his brother tried the crossing three times and turned back after meeting hippos or crocodiles before they made it. Would you have tried a fourth time?",
+  "id": "2028-05-22-three-legged-lion-swims-crocodile-channel"
+}

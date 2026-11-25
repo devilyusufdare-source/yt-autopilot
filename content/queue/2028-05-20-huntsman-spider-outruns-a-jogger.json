@@ -1,0 +1,58 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "huntsman spider",
+  "title": "Scientists Raced 258 Spiders. The Winner Can Outrun a Jogger",
+  "scenes": [
+    {
+      "text": "There's a spider that could outrun you on a morning jog.",
+      "keywords": "huntsman spider"
+    },
+    {
+      "text": "Scientists clocked two hundred and fifty-eight species. The winner: Australia's brown huntsman, about eight miles an hour.",
+      "keywords": "huntsman spider"
+    },
+    {
+      "text": "A typical jogger manages four to six. The old record holder hit half that, and only by cartwheeling downhill.",
+      "keywords": "huntsman spider"
+    },
+    {
+      "text": "The huntsman's secret is very long legs on a light, three gram body.",
+      "keywords": "huntsman spider"
+    },
+    {
+      "text": "A fifty-two gram bird-eater managed under one mile an hour. So the spider that outruns you isn't the biggest.",
+      "keywords": "tarantula"
+    }
+  ],
+  "description": "A study of 258 spider species from the University of Greifswald and Imperial College London found the fastest runner is Australia's brown huntsman (Heteropoda), with a top speed of about 3.6 metres per second, a little over 8 mph. A typical jogger does 4 to 6 mph.\nThe old record holder, the Moroccan flic-flac spider, reached about 3.8 mph by tumbling downhill, while a 52-gram salmon pink bird-eater moved under 1 mph. The results are a preprint and not yet peer reviewed.\nWould you race a huntsman?",
+  "tags": [
+    "huntsman spider",
+    "fastest spider",
+    "brown huntsman",
+    "heteropoda",
+    "spider speed",
+    "flic flac spider",
+    "tarantula",
+    "australian spiders",
+    "spider facts",
+    "animal records",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#spider",
+    "#animals",
+    "#australia"
+  ],
+  "sources": [
+    "https://www.smithsonianmag.com/smart-news/scientists-ranked-hundreds-of-spider-species-by-running-speed-australias-huge-hairy-brown-huntsman-came-out-on-top-180989132/",
+    "https://sciencealert.com/the-worlds-fastest-spider-has-been-identified-and-it-can-can-outrun-a-human"
+  ],
+  "thumbnail_text": "SPIDER: 8 MPH",
+  "priority": 5,
+  "first_comment": "Bonus: a goblin spider weighing a tenth of a milligram still hit almost half a mile an hour. Would you outrun a huntsman?",
+  "id": "2028-05-20-huntsman-spider-outruns-a-jogger"
+}

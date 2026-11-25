@@ -1,0 +1,62 @@
+{
+  "format": "fact",
+  "topic": "animals",
+  "subject": "cougar",
+  "title": "Wolves Kept Stealing Their Elk, So Yellowstone Cougars Changed Prey",
+  "scenes": [
+    {
+      "text": "Yellowstone's cougars changed their whole diet because of one thief.",
+      "keywords": "cougar attack"
+    },
+    {
+      "text": "In the early two thousands, eight in ten cougar meals were elk.",
+      "keywords": "cougar"
+    },
+    {
+      "text": "Today it's barely half. Deer jumped from fifteen percent to forty-two.",
+      "keywords": "cougar"
+    },
+    {
+      "text": "The reason is wolves. Four in ten run-ins happen at the cat's kill. Almost none at the wolves'.",
+      "keywords": "gray wolf"
+    },
+    {
+      "text": "A pack takes the carcass. With no cliff to escape to, the cougar can die too.",
+      "keywords": "gray wolf"
+    },
+    {
+      "text": "So the cats hunt smaller deer they can finish fast. Before the thieves arrive.",
+      "keywords": "cougar"
+    }
+  ],
+  "description": "A nine-year GPS study in Yellowstone found that wolves regularly take over cougar kills: 42 percent of wolf and cougar encounters happened at cougar kill sites, and only one at a wolf kill.\nCougars cut elk from 80 percent to 52 percent of their diet and raised deer from 15 to 42 percent, since deer are faster to eat. Wolves caused two of twelve adult cougar deaths, while no wolf deaths were caused by cougars.\nWho would you bet on in a one on one fight, a cougar or a wolf?",
+  "tags": [
+    "cougar",
+    "mountain lion",
+    "gray wolf",
+    "Yellowstone",
+    "wolves vs cougars",
+    "predator facts",
+    "elk",
+    "mule deer",
+    "apex predators",
+    "wildlife study",
+    "animal facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#wolves",
+    "#yellowstone",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.sciencedaily.com/releases/2026/03/260303050628.htm",
+    "https://www.eurekalert.org/news-releases/1113729"
+  ],
+  "thumbnail_text": "WOLVES STEAL. COUGARS ADAPT.",
+  "priority": 6,
+  "first_comment": "In the study period, wolves caused two of twelve adult cougar deaths, and cougars caused zero of ninety wolf deaths. One on one, who do you think wins?",
+  "id": "2028-05-23-wolves-steal-cougar-kills-cougars-switch-to-deer"
+}
