@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-25T22:38:50+00:00",
+  "updated_at": "2026-11-25T23:23:11+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 22,
     "channel_views": 20131,
-    "video_count": 149
+    "video_count": 150
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/eZLgnXtnC-M"
+      "https://youtube.com/shorts/3PQcUd6U0Ss"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/eZLgnXtnC-M"
+      "https://youtube.com/shorts/3PQcUd6U0Ss"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/eZLgnXtnC-M"
+      "https://youtube.com/shorts/3PQcUd6U0Ss"
     ]
   },
   "retention": {
@@ -90,12 +90,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 150,
-  "total_views": 21204,
+  "total_videos": 151,
+  "total_views": 21256,
   "by_topic": {
     "earth": {
-      "videos": 16,
-      "avg_views": 297,
+      "videos": 17,
+      "avg_views": 279,
       "best_views": 1175
     },
     "space": {
@@ -106,7 +106,7 @@
     "society": {
       "videos": 12,
       "avg_views": 148,
-      "best_views": 927
+      "best_views": 926
     },
     "animals": {
       "videos": 16,
@@ -115,8 +115,8 @@
     },
     "body": {
       "videos": 38,
-      "avg_views": 82,
-      "best_views": 872
+      "avg_views": 83,
+      "best_views": 873
     },
     "technology": {
       "videos": 21,
@@ -126,14 +126,14 @@
   },
   "by_style": {
     "classic": {
-      "videos": 150,
+      "videos": 151,
       "avg_views": 141,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 149,
+      "videos": 150,
       "avg_views": 135
     },
     "en-US-EricNeural": {
@@ -187,7 +187,7 @@
     {
       "title": "What If You Never Replaced Your Kitchen Sponge?",
       "topic": "society",
-      "views": 927,
+      "views": 926,
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you."
     },
     {
@@ -199,7 +199,7 @@
     {
       "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
       "topic": "body",
-      "views": 872,
+      "views": 873,
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
     }
   ],
@@ -2883,7 +2883,7 @@
       "hook": "What if Apollo 11 had failed? The speech for that night was already typed.",
       "published_at": "2026-11-18T22:50:38Z",
       "privacy": "public",
-      "views": 40,
+      "views": 41,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/YMuek63kT5Q",
@@ -3779,7 +3779,7 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 872,
+      "views": 873,
       "likes": 20,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc",
@@ -4087,7 +4087,7 @@
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
       "published_at": "2026-11-23T23:30:38Z",
       "privacy": "public",
-      "views": 68,
+      "views": 67,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uA4BiNGtBCI",
@@ -4219,7 +4219,7 @@
       "hook": "What if Earth sat five percent closer to the Sun? You wouldn't boil. Something slower would happen.",
       "published_at": "2026-11-24T22:00:38Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TF7RF4CnmiY"
@@ -4243,7 +4243,7 @@
       "hook": "What if you held in every sneeze? The pressure has to go somewhere.",
       "published_at": "2026-11-24T23:40:33Z",
       "privacy": "public",
-      "views": 26,
+      "views": 27,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JAwig_ZbLc"
@@ -4291,7 +4291,7 @@
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you.",
       "published_at": "2026-11-25T09:30:17Z",
       "privacy": "public",
-      "views": 927,
+      "views": 926,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/8Xl382-MJ4E"
@@ -4315,7 +4315,7 @@
       "hook": "What if you drank way too much water, too fast? The danger isn't your stomach. It's your brain.",
       "published_at": "2026-11-25T12:10:30Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U_iEQTGWVEA"
@@ -4339,12 +4339,36 @@
       "hook": "What if you never cleaned your belly button? You'd be growing a tiny rainforest.",
       "published_at": "2026-11-25T21:10:16Z",
       "privacy": "public",
-      "views": 69,
-      "likes": 0,
+      "views": 116,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/xMq0LUr2j1E"
     },
     "eZLgnXtnC-M": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT30S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Never Stopped Growing?",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you never stopped growing? Your own size would turn against you.",
+      "published_at": "2026-11-25T23:10:38Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/eZLgnXtnC-M"
+    },
+    "3PQcUd6U0Ss": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -4356,17 +4380,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Never Stopped Growing?",
-      "topic": "body",
+      "title": "What If You Never Opened a Window?",
+      "topic": "earth",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you never stopped growing? Your own size would turn against you.",
-      "published_at": "2026-11-25T22:38:47Z",
+      "hook": "What if you never opened a window? The oxygen wouldn't run out. Your breath would pile up.",
+      "published_at": "2026-11-25T23:23:06Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/eZLgnXtnC-M"
+      "url": "https://youtube.com/shorts/3PQcUd6U0Ss"
     }
   }
 }
