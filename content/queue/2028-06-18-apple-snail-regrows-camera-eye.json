@@ -1,0 +1,63 @@
+{
+  "id": "2028-06-18-apple-snail-regrows-camera-eye",
+  "format": "fact",
+  "topic": "animals",
+  "subject": "apple snail",
+  "title": "A Snail Lost an Eye Built Like Yours. A Month Later It Was Back",
+  "scenes": [
+    {
+      "text": "A snail lost its eye. A month later, it was back.",
+      "keywords": "apple snail"
+    },
+    {
+      "text": "Not a simple eye spot. It has a cornea, a lens and a retina, like yours.",
+      "keywords": "apple snail"
+    },
+    {
+      "text": "The wound heals in a day. By day fifteen, every part is back, even the optic nerve.",
+      "keywords": "apple snail crawling"
+    },
+    {
+      "text": "How? In 2025, scientists found this snail shares a master eye gene with us, pax6.",
+      "keywords": "apple snail"
+    },
+    {
+      "text": "Switch off both copies in an embryo, and the snail grows no eyes at all.",
+      "keywords": "apple snail"
+    },
+    {
+      "text": "Same eye, same gene. The snail regrows it. Scientists now want to know why you can't.",
+      "keywords": "apple snail crawling"
+    }
+  ],
+  "description": "A 2025 Nature Communications study from UC Davis showed the golden apple snail, Pomacea canaliculata, fully regrows an amputated camera-type eye, with cornea, lens and retina, in about a month.\nThe team also used CRISPR to show the pax6 gene, which controls eye development in humans too, is essential for the snail's eyes.\nWhich animal regrowth surprises you most?",
+  "tags": [
+    "apple snail",
+    "golden apple snail",
+    "snail facts",
+    "eye regeneration",
+    "regeneration",
+    "pax6",
+    "CRISPR",
+    "animal abilities",
+    "biology facts",
+    "animal facts",
+    "science facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#snail",
+    "#science",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.ucdavis.edu/news/snails-eyes-grow-back-could-they-help-humans-do-same",
+    "https://www.sciencedaily.com/releases/2025/08/250806094112.htm",
+    "https://pubmed.ncbi.nlm.nih.gov/40770180/"
+  ],
+  "thumbnail_text": "SNAIL REGROWS ITS EYE",
+  "priority": 6,
+  "first_comment": "Back in 1766 a researcher noticed beheaded garden snails could regrow their whole heads. Would you want this power?"
+}
