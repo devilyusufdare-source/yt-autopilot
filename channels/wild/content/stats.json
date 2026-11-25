@@ -1,40 +1,45 @@
 {
-  "updated_at": "2026-11-25T11:47:33+00:00",
+  "updated_at": "2026-11-25T20:45:20+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 22,
-    "channel_views": 20072,
-    "video_count": 147
+    "channel_views": 20131,
+    "video_count": 148
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/U_iEQTGWVEA"
+      "https://youtube.com/shorts/xMq0LUr2j1E"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/U_iEQTGWVEA"
+      "https://youtube.com/shorts/xMq0LUr2j1E"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/U_iEQTGWVEA"
+      "https://youtube.com/shorts/xMq0LUr2j1E"
     ]
   },
   "retention": {
-    "videos_with_data": 131,
-    "avg_view_percent": 54.6,
+    "videos_with_data": 137,
+    "avg_view_percent": 58.5,
     "by_topic": {
-      "earth": 65.4,
-      "space": 58.8,
+      "earth": 65.1,
+      "space": 59.4,
       "society": 42.4,
-      "animals": 48.8,
-      "body": 48.1,
-      "technology": 57.9
+      "animals": 47.7,
+      "body": 48.3,
+      "technology": 86.9
     },
     "best": [
+      {
+        "title": "What If Your Heart Ran on Plutonium? In the 1970s, Thousands Did",
+        "avg_view_percent": 622.5,
+        "views": 24
+      },
       {
         "title": "What If You Lived Inside a Cave on the Moon?",
         "avg_view_percent": 208.5,
@@ -54,14 +59,14 @@
         "title": "What If You Could Visit a Neutron Star?",
         "avg_view_percent": 99.4,
         "views": 76
-      },
-      {
-        "title": "What If You Were Frozen After Death? About 200 People Are Waiting in Arizona",
-        "avg_view_percent": 98.7,
-        "views": 48
       }
     ],
     "worst": [
+      {
+        "title": "What If a Particle Beam Went Through Your Head? In 1978 One Did",
+        "avg_view_percent": 10.3,
+        "views": 5
+      },
       {
         "title": "What If a Country Lost Its Vultures? India Did. 500,000 People Died",
         "avg_view_percent": 10.5,
@@ -71,11 +76,6 @@
         "title": "What If You Drank a Cup of Bacteria to Prove a Point? It Won a Nobel",
         "avg_view_percent": 10.7,
         "views": 10
-      },
-      {
-        "title": "What If You Could Smell a Disease Years Before Doctors Found It? One Woman Can",
-        "avg_view_percent": 11.8,
-        "views": 3
       },
       {
         "title": "What If a Marathon Took 54 Years? One Olympic Runner's Really Did",
@@ -90,12 +90,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 148,
-  "total_views": 20671,
+  "total_videos": 149,
+  "total_views": 21126,
   "by_topic": {
     "earth": {
       "videos": 16,
-      "avg_views": 296,
+      "avg_views": 297,
       "best_views": 1175
     },
     "space": {
@@ -105,18 +105,18 @@
     },
     "society": {
       "videos": 12,
-      "avg_views": 116,
-      "best_views": 542
+      "avg_views": 148,
+      "best_views": 924
     },
     "animals": {
       "videos": 16,
-      "avg_views": 250,
+      "avg_views": 251,
       "best_views": 1428
     },
     "body": {
-      "videos": 36,
-      "avg_views": 83,
-      "best_views": 866
+      "videos": 37,
+      "avg_views": 82,
+      "best_views": 871
     },
     "technology": {
       "videos": 21,
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 148,
-      "avg_views": 140,
+      "videos": 149,
+      "avg_views": 142,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 147,
-      "avg_views": 133
+      "videos": 148,
+      "avg_views": 136
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
       "topic": "animals",
-      "views": 1204,
+      "views": 1219,
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
@@ -185,6 +185,12 @@
       "hook": "What if the asteroid that killed the dinosaurs hit today? The worst part isn't the blast."
     },
     {
+      "title": "What If You Never Replaced Your Kitchen Sponge?",
+      "topic": "society",
+      "views": 924,
+      "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you."
+    },
+    {
       "title": "What If the Earth Were Actually Flat? It Would Last About an Hour",
       "topic": "earth",
       "views": 907,
@@ -193,14 +199,8 @@
     {
       "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
       "topic": "body",
-      "views": 866,
+      "views": 871,
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
-    },
-    {
-      "title": "What If You Never Cut Your Nails? Unlike Hair, They Never Stop",
-      "topic": "body",
-      "views": 654,
-      "hook": "What if you never cut your nails again? Hair would eventually stop. Nails never do."
     }
   ],
   "videos": {
@@ -536,7 +536,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/vvwy7bHBZt4",
       "avg_view_seconds": 30.0,
-      "avg_view_percent": 86.0,
+      "avg_view_percent": 85.9,
       "shares": 0,
       "subscribers_gained": 6
     },
@@ -1012,7 +1012,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 80.2,
+      "avg_view_percent": 80.1,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -1175,12 +1175,12 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 100,
+      "views": 102,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
       "avg_view_seconds": 23.0,
-      "avg_view_percent": 61.2,
+      "avg_view_percent": 62.0,
       "shares": 1,
       "subscribers_gained": 0
     },
@@ -1711,8 +1711,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/CHUrhsz0PzU",
-      "avg_view_seconds": 37.0,
-      "avg_view_percent": 86.4,
+      "avg_view_seconds": 35.0,
+      "avg_view_percent": 81.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -1847,7 +1847,7 @@
       "hook": "What if we brought an extinct animal back? We did, in 2003. It lived about ten minutes.",
       "published_at": "2026-11-07T14:50:17Z",
       "privacy": "public",
-      "views": 315,
+      "views": 318,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/3pXCccgL-0I",
@@ -2155,7 +2155,7 @@
       "hook": "What if every police officer in a city walked out at once? Montreal tried it. Sixteen hours.",
       "published_at": "2026-11-08T21:00:01Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/BN6tRrVJNQs",
@@ -2771,7 +2771,7 @@
       "hook": "What if the only doctor on an Antarctic base needed surgery? In 1961, he operated on himself.",
       "published_at": "2026-11-18T21:00:14Z",
       "privacy": "public",
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUDRGIKuf40",
@@ -2971,8 +2971,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/asNdmpC5F_U",
-      "avg_view_seconds": 5.0,
-      "avg_view_percent": 11.8,
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 24.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2995,7 +2995,7 @@
       "hook": "What if one spade could knock a whole country offline? In 2011, one did.",
       "published_at": "2026-11-19T02:15:09Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rohSocsXH2M",
@@ -3391,8 +3391,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/GA_mNTqtArc",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 4.0,
+      "avg_view_percent": 10.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3443,12 +3443,12 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1204,
+      "views": 1219,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 53.6,
+      "avg_view_percent": 53.4,
       "shares": 0,
       "subscribers_gained": 2
     },
@@ -3611,7 +3611,7 @@
       "hook": "What if a tree were the only one for 250 miles? Somebody still drove into it.",
       "published_at": "2026-11-22T10:50:07Z",
       "privacy": "public",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1kSlgoBaYOE",
@@ -3671,8 +3671,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/boMYdIENFW4",
-      "avg_view_seconds": 27.0,
-      "avg_view_percent": 65.7,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 56.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3779,12 +3779,12 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 866,
+      "views": 871,
       "likes": 20,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 54.5,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 55.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3811,8 +3811,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/XEtNh6GXHWY",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 42.3,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 37.8,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -3919,10 +3919,14 @@
       "hook": "What if a disease could be wiped out with no vaccine and no drug? One nearly was.",
       "published_at": "2026-11-23T08:40:05Z",
       "privacy": "public",
-      "views": 32,
+      "views": 34,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/0ENjWrNbpz4"
+      "url": "https://youtube.com/shorts/0ENjWrNbpz4",
+      "avg_view_seconds": 40.0,
+      "avg_view_percent": 88.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "vOcdQlrviSg": {
       "upload_status": "processed",
@@ -4058,7 +4062,11 @@
       "views": 4,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/FdfnsKuwHF4"
+      "url": "https://youtube.com/shorts/FdfnsKuwHF4",
+      "avg_view_seconds": 42.0,
+      "avg_view_percent": 85.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "uA4BiNGtBCI": {
       "upload_status": "processed",
@@ -4079,10 +4087,14 @@
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
       "published_at": "2026-11-23T23:30:38Z",
       "privacy": "public",
-      "views": 59,
+      "views": 65,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/uA4BiNGtBCI"
+      "url": "https://youtube.com/shorts/uA4BiNGtBCI",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 39.6,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "OpmJ3yfz1lc": {
       "upload_status": "processed",
@@ -4103,10 +4115,14 @@
       "hook": "What if the device keeping your heart beating ran on plutonium? For thousands of people, it did.",
       "published_at": "2026-11-23T23:50:38Z",
       "privacy": "public",
-      "views": 22,
+      "views": 24,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/OpmJ3yfz1lc"
+      "url": "https://youtube.com/shorts/OpmJ3yfz1lc",
+      "avg_view_seconds": 336.0,
+      "avg_view_percent": 622.5,
+      "shares": 1,
+      "subscribers_gained": 0
     },
     "qDc5aUNOZlk": {
       "upload_status": "processed",
@@ -4127,10 +4143,14 @@
       "hook": "What if you put every living thing on Earth on one scale? Humans would barely move the needle.",
       "published_at": "2026-11-24T02:15:36Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/qDc5aUNOZlk"
+      "url": "https://youtube.com/shorts/qDc5aUNOZlk",
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 30.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "hvp6pNquLG4": {
       "upload_status": "processed",
@@ -4175,7 +4195,7 @@
       "hook": "What if an asteroid hit the ocean? The tsunami isn't the problem. The sky is.",
       "published_at": "2026-11-24T13:30:36Z",
       "privacy": "public",
-      "views": 4,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/gF1OnIb8rI4"
@@ -4199,7 +4219,7 @@
       "hook": "What if Earth sat five percent closer to the Sun? You wouldn't boil. Something slower would happen.",
       "published_at": "2026-11-24T22:00:38Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TF7RF4CnmiY"
@@ -4223,8 +4243,8 @@
       "hook": "What if you held in every sneeze? The pressure has to go somewhere.",
       "published_at": "2026-11-24T23:40:33Z",
       "privacy": "public",
-      "views": 13,
-      "likes": 1,
+      "views": 27,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JAwig_ZbLc"
     },
@@ -4247,8 +4267,8 @@
       "hook": "What if you never looked up from your phone? Your neck would carry a second head.",
       "published_at": "2026-11-25T00:10:12Z",
       "privacy": "public",
-      "views": 6,
-      "likes": 1,
+      "views": 11,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/gMwEXEowZOI"
     },
@@ -4271,20 +4291,20 @@
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you.",
       "published_at": "2026-11-25T09:30:17Z",
       "privacy": "public",
-      "views": 542,
+      "views": 924,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/8Xl382-MJ4E"
     },
     "U_iEQTGWVEA": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT36S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4293,12 +4313,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you drank way too much water, too fast? The danger isn't your stomach. It's your brain.",
-      "published_at": "2026-11-25T11:47:28Z",
+      "published_at": "2026-11-25T12:10:30Z",
+      "privacy": "public",
+      "views": 10,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/U_iEQTGWVEA"
+    },
+    "xMq0LUr2j1E": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Never Cleaned Your Belly Button?",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you never cleaned your belly button? You'd be growing a tiny rainforest.",
+      "published_at": "2026-11-25T20:45:15Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/U_iEQTGWVEA"
+      "url": "https://youtube.com/shorts/xMq0LUr2j1E"
     }
   }
 }
