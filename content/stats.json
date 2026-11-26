@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-26T01:46:20+00:00",
+  "updated_at": "2026-11-26T02:22:48+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 92,
     "channel_views": 125563,
-    "video_count": 457
+    "video_count": 458
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/U7uT6bTCo2Y",
+      "https://youtube.com/shorts/zn1WRK1MhSg",
       "https://youtube.com/shorts/pC9hsHVWFZc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/pC9hsHVWFZc"
+      "https://youtube.com/shorts/zn1WRK1MhSg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/pC9hsHVWFZc"
+      "https://youtube.com/shorts/zn1WRK1MhSg"
     ]
   },
   "retention": {
@@ -93,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 457,
-  "total_views": 125958,
+  "total_videos": 458,
+  "total_views": 125974,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,7 +107,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 348,
+      "videos": 349,
       "avg_views": 295,
       "best_views": 1507
     },
@@ -139,7 +139,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 441,
+      "videos": 442,
       "avg_views": 270,
       "over_1500": 3
     },
@@ -151,7 +151,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 371,
+      "videos": 372,
       "avg_views": 236
     },
     "en-US-BrianNeural": {
@@ -9905,7 +9905,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 1156,
+      "views": 1155,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8",
@@ -10169,7 +10169,7 @@
       "hook": "This spiny animal should die on a hot Australian afternoon. It doesn't.",
       "published_at": "2026-11-25T05:50:03Z",
       "privacy": "public",
-      "views": 20,
+      "views": 21,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/q08kkaiZFUM"
@@ -10269,10 +10269,34 @@
       "hook": "Every winter, this tiny animal shrinks its own skull.",
       "published_at": "2026-11-25T10:50:35Z",
       "privacy": "public",
-      "views": 6,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/59sLe__3Ywk"
+    },
+    "zn1WRK1MhSg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Orcas Snap Off Kelp and Use It to Scrub Each Other",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Orcas were filmed making tools. No sea mammal had ever been seen doing that.",
+      "published_at": "2026-11-26T02:22:40Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/zn1WRK1MhSg"
     },
     "oHOSiC4XktU": {
       "upload_status": "processed",
@@ -11667,22 +11691,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This dolphin hunts fish all day, but never eats them.",
-      "published_at": "2026-11-26T01:00:25Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-26T02:15:13Z",
+      "privacy": "public",
+      "views": 18,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/U7uT6bTCo2Y"
     },
     "pC9hsHVWFZc": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT32S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -11717,7 +11741,7 @@
       "hook": "The five oldest cave paintings ever found. France doesn't make the list.",
       "published_at": "2026-11-26T00:00:23Z",
       "privacy": "public",
-      "views": 3,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/anjtwli9-Gg"
