@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "WOLVES VS A BISON HERD",
   "priority": 6,
-  "first_comment": "Over 870 bison live on the Polish side of this forest. Would you bet on the wolves or the herd?"
+  "first_comment": "Over 870 bison live on the Polish side of this forest. Would you bet on the wolves or the herd?",
+  "youtube_id": "WwM1elNJYko",
+  "url": "https://youtube.com/shorts/WwM1elNJYko",
+  "uploaded_at": "2026-11-26T03:07:25+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-26T03:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 10,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 27.2,
+  "style": "classic",
+  "kind": "shorts"
 }
