@@ -1,0 +1,59 @@
+{
+  "id": "2028-07-31-giant-tunnel-drill-stuck-under-seattle",
+  "format": "fact",
+  "topic": "technology",
+  "subject": "tunnel boring machine",
+  "title": "A 6,700-Ton Tunnel Drill Got Stuck Under Seattle for Two Years",
+  "scenes": [
+    {
+      "text": "A 6,700-ton drill stopped dead under Seattle. For two years.",
+      "keywords": "tunnel boring machine"
+    },
+    {
+      "text": "Bertha's cutting face was 57 feet across, boring a 1.7-mile highway tunnel under downtown.",
+      "keywords": "tunnel boring machine"
+    },
+    {
+      "text": "In December 2013, about a thousand feet in, it overheated and stopped.",
+      "keywords": "tunnel boring machine"
+    },
+    {
+      "text": "It had struck a forgotten steel pipe, and grit had wrecked the seals around its main bearing.",
+      "keywords": "tunnel boring machine"
+    },
+    {
+      "text": "So engineers dug a 120-foot pit in front of it and lifted its 2,000-ton front end out.",
+      "keywords": "giant crane lifting"
+    },
+    {
+      "text": "Repaired, Bertha started digging again in December 2015, and finished the tunnel in 2017.",
+      "keywords": "tunnel boring machine"
+    }
+  ],
+  "description": "Bertha, a 57.5-foot-wide tunnel boring machine weighing 6,700 tons, stalled under Seattle in December 2013 after about 1,000 feet.\nEngineers dug a 120-foot rescue shaft and hoisted its front end, a lift of about 2,200 tons, to the surface in March 2015. It resumed in December 2015 and broke through in April 2017.\nWould you have tried to fix it or start over?",
+  "tags": [
+    "Bertha",
+    "tunnel boring machine",
+    "Seattle tunnel",
+    "SR 99 tunnel",
+    "engineering",
+    "giant machines",
+    "technology facts",
+    "engineering fails",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#engineering",
+    "#technology",
+    "#machines"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bertha_(tunnel_boring_machine)",
+    "https://enr.com/articles/5579-highway-99-tunnel-builder-rescued-in-seattle-at-last"
+  ],
+  "thumbnail_text": "6,700 TONS. STUCK 2 YEARS",
+  "priority": 5,
+  "first_comment": "The steel pipe it hit was an 8-inch well casing left behind by a groundwater study in 2002. After the tunnel was done, most of Bertha was melted down for scrap. Should they have kept it as a monument?"
+}
