@@ -1,0 +1,62 @@
+{
+  "id": "2028-01-05-what-if-you-never-changed-your-cars-oil",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "engine oil",
+  "title": "What If You Never Changed Your Car's Oil?",
+  "scenes": [
+    {
+      "text": "What if you never changed your car's oil? The engine wouldn't die fast. It would die from inside.",
+      "keywords": "car engine closeup"
+    },
+    {
+      "text": "AAA says most cars need fresh oil every 5,000 to 7,500 miles. After that, its protective additives wear out.",
+      "keywords": "engine oil pouring"
+    },
+    {
+      "text": "Over thousands of miles, dirt and soot clog the filter. A bypass valve sends dirty oil around it.",
+      "keywords": "dirty oil filter"
+    },
+    {
+      "text": "Then the oil thickens into black sludge, like tar, and starts blocking the narrow passages that feed the engine.",
+      "keywords": "black engine sludge"
+    },
+    {
+      "text": "With no slippery film left, metal rubs on metal. Friction turns into heat, and wear speeds up.",
+      "keywords": "engine pistons moving"
+    },
+    {
+      "text": "Eventually hot parts can weld together and the engine seizes for good. Even a parked car needs fresh oil once a year.",
+      "keywords": "broken car engine"
+    }
+  ],
+  "description": "What if you never changed your car's oil? Additives wear out, dirt bypasses a clogged filter, oil turns to sludge, and metal-on-metal friction can finally seize the engine.\nAAA suggests changing oil every 5,000 to 7,500 miles, and at least once a year.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "engine oil",
+    "oil change",
+    "car maintenance",
+    "engine sludge",
+    "engine seized",
+    "cars",
+    "car care",
+    "how engines work",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#cars",
+    "#science"
+  ],
+  "sources": [
+    "https://www.aaa.com/autorepair/articles/how-often-should-you-change-engine-oil",
+    "https://auto.howstuffworks.com/car-driving-safety/safety-regulatory-devices/never-changed-oil.htm",
+    "https://www.racq.com.au/articles/drive/2023/1/Engine-sludge-can-be-fatal-for-your-car"
+  ],
+  "thumbnail_text": "WHAT IF YOU NEVER CHANGED OIL?",
+  "priority": 5,
+  "first_comment": "How many miles has your car gone since its last oil change? Tell us the car habit we should run through next."
+}
