@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-26T20:36:33+00:00",
+  "updated_at": "2026-11-26T22:27:48+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 23,
     "channel_views": 21641,
-    "video_count": 153
+    "video_count": 154
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/0qQEEjVGGAY"
+      "https://youtube.com/shorts/UqxuPkg__aU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/0qQEEjVGGAY"
+      "https://youtube.com/shorts/UqxuPkg__aU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/0qQEEjVGGAY"
+      "https://youtube.com/shorts/UqxuPkg__aU"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 154,
-  "total_views": 22030,
+  "total_videos": 155,
+  "total_views": 22019,
   "by_topic": {
     "earth": {
       "videos": 17,
@@ -114,9 +114,9 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 40,
-      "avg_views": 98,
-      "best_views": 879
+      "videos": 41,
+      "avg_views": 95,
+      "best_views": 880
     },
     "technology": {
       "videos": 21,
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 154,
-      "avg_views": 143,
+      "videos": 155,
+      "avg_views": 142,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 153,
-      "avg_views": 137
+      "videos": 154,
+      "avg_views": 136
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -199,7 +199,7 @@
     {
       "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
       "topic": "body",
-      "views": 879,
+      "views": 880,
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
     }
   ],
@@ -3779,7 +3779,7 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 879,
+      "views": 880,
       "likes": 20,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc",
@@ -4335,7 +4335,7 @@
       "hook": "What if you drank way too much water, too fast? The danger isn't your stomach. It's your brain.",
       "published_at": "2026-11-25T12:10:30Z",
       "privacy": "public",
-      "views": 28,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U_iEQTGWVEA"
@@ -4359,7 +4359,7 @@
       "hook": "What if you never cleaned your belly button? You'd be growing a tiny rainforest.",
       "published_at": "2026-11-25T21:10:16Z",
       "privacy": "public",
-      "views": 707,
+      "views": 696,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/xMq0LUr2j1E"
@@ -4431,7 +4431,7 @@
       "hook": "What if you never wore deodorant? Your sweat wouldn't be the problem. It barely smells at all.",
       "published_at": "2026-11-26T09:20:11Z",
       "privacy": "public",
-      "views": 29,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Derj2NcilJM"
@@ -4461,6 +4461,30 @@
       "url": "https://youtube.com/shorts/PGj37PnyEsQ"
     },
     "0qQEEjVGGAY": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT36S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Burped in Space?",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you burped in space? It wouldn't just be air.",
+      "published_at": "2026-11-26T21:00:38Z",
+      "privacy": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/0qQEEjVGGAY"
+    },
+    "UqxuPkg__aU": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -4472,17 +4496,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Burped in Space?",
-      "topic": "space",
+      "title": "What If You Never Changed Your Socks?",
+      "topic": "body",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you burped in space? It wouldn't just be air.",
-      "published_at": "2026-11-26T20:36:28Z",
+      "hook": "What if you never changed your socks? Your feet sweat more than you think.",
+      "published_at": "2026-11-26T22:27:43Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/0qQEEjVGGAY"
+      "url": "https://youtube.com/shorts/UqxuPkg__aU"
     }
   }
 }
