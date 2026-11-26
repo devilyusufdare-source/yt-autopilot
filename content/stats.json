@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-25T23:48:55+00:00",
+  "updated_at": "2026-11-26T01:00:34+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 92,
     "channel_views": 125563,
-    "video_count": 455
+    "video_count": 457
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/NyxwrkQfC8E",
-      "https://youtube.com/shorts/anjtwli9-Gg"
+      "https://youtube.com/shorts/U7uT6bTCo2Y"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/NyxwrkQfC8E"
+      "https://youtube.com/shorts/U7uT6bTCo2Y"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/NyxwrkQfC8E"
+      "https://youtube.com/shorts/U7uT6bTCo2Y"
     ]
   },
   "retention": {
@@ -93,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 455,
-  "total_views": 125890,
+  "total_videos": 456,
+  "total_views": 125936,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 346,
-      "avg_views": 297,
+      "videos": 347,
+      "avg_views": 296,
       "best_views": 1507
     },
     "human body": {
@@ -139,7 +138,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 439,
+      "videos": 440,
       "avg_views": 271,
       "over_1500": 3
     },
@@ -151,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 369,
+      "videos": 370,
       "avg_views": 237
     },
     "en-US-BrianNeural": {
@@ -4457,7 +4456,7 @@
       "hook": "In 1999, a tornado hit 302 miles an hour. The fastest wind ever measured.",
       "published_at": "2026-10-21T13:30:38Z",
       "privacy": "public",
-      "views": 29,
+      "views": 32,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q",
@@ -7341,7 +7340,7 @@
       "hook": "In 1876, it rained meat in Kentucky.",
       "published_at": "2026-11-07T14:00:17Z",
       "privacy": "public",
-      "views": 35,
+      "views": 36,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5kHqm6dqHdk",
@@ -7817,7 +7816,7 @@
       "hook": "Almost every hawk hunts alone. One species hunts like a wolf pack.",
       "published_at": "2026-11-18T21:20:37Z",
       "privacy": "public",
-      "views": 12,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xN4pLHNtTGY",
@@ -10193,7 +10192,7 @@
       "hook": "A wild cat in Spain does something no carnivore was ever seen doing.",
       "published_at": "2026-11-25T06:20:38Z",
       "privacy": "public",
-      "views": 14,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/otgPu858_iI"
@@ -10496,7 +10495,7 @@
       "avg_view_seconds": 17.0,
       "avg_view_percent": 51.2,
       "shares": 0,
-      "subscribers_gained": 0
+      "subscribers_gained": 1
     },
     "0wfI9vjWDs0": {
       "upload_status": "processed",
@@ -10741,7 +10740,7 @@
       "hook": "Cane toads are covered in poison. This rat eats their hearts.",
       "published_at": "2026-11-22T03:40:18Z",
       "privacy": "public",
-      "views": 43,
+      "views": 44,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/COLUcCiSS2c",
@@ -11541,7 +11540,7 @@
       "hook": "City birds treat women differently from men. Nobody knows why.",
       "published_at": "2026-11-25T03:50:15Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ImDa8hIXciU"
@@ -11599,14 +11598,14 @@
       "url": "https://youtube.com/shorts/Lcguh13-9Xk"
     },
     "NyxwrkQfC8E": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT30S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -11615,11 +11614,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
-      "published_at": "2026-11-25T23:48:47Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-26T00:20:35Z",
+      "privacy": "public",
+      "views": 39,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E"
     },
     "O2zL5iipSFs": {
@@ -11650,6 +11649,30 @@
       "shares": 0,
       "subscribers_gained": 0
     },
+    "U7uT6bTCo2Y": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Dolphin Hunts Fish All Day but Never Eats Them",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This dolphin hunts fish all day, but never eats them.",
+      "published_at": "2026-11-26T01:00:25Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/U7uT6bTCo2Y"
+    },
     "anjtwli9-Gg": {
       "upload_status": "processed",
       "rejection_reason": null,
@@ -11667,11 +11690,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five oldest cave paintings ever found. France doesn't make the list.",
-      "published_at": "2026-11-25T23:05:53Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-26T00:00:23Z",
+      "privacy": "public",
+      "views": 2,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/anjtwli9-Gg"
     },
     "sSBPt5yFR_c": {
