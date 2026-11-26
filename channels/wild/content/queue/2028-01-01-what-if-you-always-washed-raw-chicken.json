@@ -1,0 +1,61 @@
+{
+  "id": "2028-01-01-what-if-you-always-washed-raw-chicken",
+  "format": "whatif",
+  "topic": "society",
+  "subject": "washing raw chicken in a sink",
+  "title": "What If You Always Washed Raw Chicken?",
+  "scenes": [
+    {
+      "text": "What if you always rinsed raw chicken before cooking? You'd be cleaning it onto everything else.",
+      "keywords": "raw chicken"
+    },
+    {
+      "text": "Tap water splashes off the meat. Studies suggest droplets can travel up to about three feet.",
+      "keywords": "kitchen sink tap water"
+    },
+    {
+      "text": "In a USDA kitchen study, sixty percent of people who washed chicken left bacteria in the sink.",
+      "keywords": "kitchen sink"
+    },
+    {
+      "text": "Fourteen percent still had bacteria in the sink even after they tried to clean it.",
+      "keywords": "cleaning sink sponge"
+    },
+    {
+      "text": "And twenty-six percent got chicken bacteria onto the salad they made next.",
+      "keywords": "salad lettuce"
+    },
+    {
+      "text": "The twist? Even washing didn't make it cleaner. Only cooking to seventy-four degrees Celsius kills the bacteria.",
+      "keywords": "chicken cooking pan"
+    }
+  ],
+  "description": "What if you always washed raw chicken? In a USDA study, 60% of people who washed poultry had bacteria in the sink afterwards, 14% still did after cleaning it, and 26% transferred bacteria to their salad.\nSplashing can spread germs up to about 3 feet; food agencies advise not washing raw chicken and cooking it to 74 degrees Celsius (165 F).\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "raw chicken",
+    "washing chicken",
+    "food safety",
+    "campylobacter",
+    "kitchen hygiene",
+    "cooking",
+    "bacteria",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#foodsafety",
+    "#cooking"
+  ],
+  "sources": [
+    "https://www.usda.gov/article/washing-raw-poultry-our-science-your-choice",
+    "https://cfaes.osu.edu/news/articles/chow-line-new-research-shows-washing-raw-poultry-dangers-0",
+    "https://www.npr.org/blogs/thesalt/2013/08/27/213578553/julia-child-was-wrong-don-t-wash-your-raw-chicken-folks"
+  ],
+  "thumbnail_text": "WHAT IF YOU WASHED RAW CHICKEN?",
+  "priority": 6,
+  "first_comment": "In the same study, 31% of people who did NOT wash their chicken still got bacteria on their salad. Team rinse or team no-rinse?"
+}

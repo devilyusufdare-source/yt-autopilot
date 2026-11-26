@@ -1,0 +1,62 @@
+{
+  "id": "2027-12-31-what-if-you-always-reheated-leftover-rice",
+  "format": "whatif",
+  "topic": "body",
+  "subject": "leftover cooked rice",
+  "title": "What If You Always Reheated Leftover Rice?",
+  "scenes": [
+    {
+      "text": "What if you always reheated rice that sat out overnight? The microwave can't save it.",
+      "keywords": "bowl of rice"
+    },
+    {
+      "text": "Raw rice carries Bacillus cereus spores. They survive boiling, sometimes an hour at ninety degrees.",
+      "keywords": "cooking rice pot"
+    },
+    {
+      "text": "On the counter, they wake up and multiply fastest around thirty to forty degrees Celsius. Room temperature is plenty.",
+      "keywords": "rice on kitchen counter"
+    },
+    {
+      "text": "After a few hours, the bacteria make a toxin. It survives one hundred twenty-one degrees for over an hour.",
+      "keywords": "microwave oven"
+    },
+    {
+      "text": "So reheating kills bacteria, not the poison. Thirty minutes to six hours later, the vomiting starts.",
+      "keywords": "person feeling sick"
+    },
+    {
+      "text": "The danger was never the reheating. It was the hours the rice sat out. Food agencies say cool it within one hour.",
+      "keywords": "refrigerator food containers"
+    }
+  ],
+  "description": "What if you always reheated rice that was left out? Bacillus cereus spores survive cooking, multiply at room temperature, and make a vomiting toxin that survives about 121 degrees Celsius for over an hour, so reheating cannot remove it.\nSymptoms start 0.5 to 6 hours after eating; Food Standards Scotland advises cooling rice within an hour, refrigerating it and reheating only once.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "leftover rice",
+    "reheating rice",
+    "fried rice syndrome",
+    "bacillus cereus",
+    "food safety",
+    "food poisoning",
+    "kitchen",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#foodsafety",
+    "#rice"
+  ],
+  "sources": [
+    "https://www.foodstandards.gov.scot/consumers/food-safety/at-home/rice",
+    "https://www.mpi.govt.nz/dmsdocument/21545/direct",
+    "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/micro/bachiru.html",
+    "https://www.bfr.bund.de/en/food-safety/assessment-of-microbial-risks-in-foods/bacteria/bacillus-cereus/"
+  ],
+  "thumbnail_text": "WHAT IF YOU REHEATED OLD RICE?",
+  "priority": 7,
+  "first_comment": "Be honest: how long has your leftover rice sat out before it went in the fridge? Tell us the kitchen habit we should test next."
+}

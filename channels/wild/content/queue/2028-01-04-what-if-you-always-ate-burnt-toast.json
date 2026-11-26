@@ -1,0 +1,62 @@
+{
+  "id": "2028-01-04-what-if-you-always-ate-burnt-toast",
+  "format": "whatif",
+  "topic": "body",
+  "subject": "burnt toast",
+  "title": "What If You Always Ate Burnt Toast?",
+  "scenes": [
+    {
+      "text": "What if you always ate burnt toast? What makes it tasty is the problem.",
+      "keywords": "burnt toast"
+    },
+    {
+      "text": "Above about one hundred twenty degrees Celsius, sugars and an amino acid in bread react and form acrylamide.",
+      "keywords": "toaster bread"
+    },
+    {
+      "text": "The darker the toast, the more acrylamide. Swedish scientists first found it in food in 2002.",
+      "keywords": "toast smoke"
+    },
+    {
+      "text": "Experts list it as probably cancer-causing in humans, because high doses caused tumours in rats and mice.",
+      "keywords": "laboratory rat"
+    },
+    {
+      "text": "But those doses were huge. Studies in people so far have found no consistent link.",
+      "keywords": "scientist laboratory"
+    },
+    {
+      "text": "So the UK's advice is simply to toast to golden, not black. That browning reaction is also why burnt toast tastes so good.",
+      "keywords": "golden toast"
+    }
+  ],
+  "description": "What if you always ate burnt toast? Browning above about 120 degrees Celsius forms acrylamide, which IARC classes as probably carcinogenic to humans based on high-dose animal studies; human studies so far are inconclusive.\nThe UK Food Standards Agency's Go for Gold advice is to toast starchy foods to golden yellow or lighter.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "burnt toast",
+    "acrylamide",
+    "toast",
+    "breakfast",
+    "food science",
+    "cooking chemistry",
+    "maillard reaction",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#food",
+    "#science"
+  ],
+  "sources": [
+    "https://www.efsa.europa.eu/fi/press/news/150604",
+    "https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/acrylamide-fact-sheet",
+    "https://fullfact.org/health/how-dangerous-burnt-toast/",
+    "https://www.food.gov.uk/print/pdf/node/281"
+  ],
+  "thumbnail_text": "WHAT IF YOU ATE BURNT TOAST?",
+  "priority": 0,
+  "first_comment": "How do you like your toast: pale, golden or charcoal? Tell us the breakfast habit we should run through next."
+}
