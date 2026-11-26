@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "WHAT IF YOU BURPED IN SPACE?",
   "priority": 7,
-  "first_comment": "Pushing off a wall works because it gives your stomach a direction for a moment. What everyday thing would you want to try in zero gravity?"
+  "first_comment": "Pushing off a wall works because it gives your stomach a direction for a moment. What everyday thing would you want to try in zero gravity?",
+  "youtube_id": "0qQEEjVGGAY",
+  "url": "https://youtube.com/shorts/0qQEEjVGGAY",
+  "uploaded_at": "2026-11-26T20:36:31+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-26T21:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#C4B5FD",
+  "duration_seconds": 35.0,
+  "style": "classic",
+  "kind": "shorts"
 }

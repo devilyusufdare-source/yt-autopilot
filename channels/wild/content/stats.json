@@ -1,43 +1,43 @@
 {
-  "updated_at": "2026-11-26T11:33:09+00:00",
+  "updated_at": "2026-11-26T20:36:33+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 23,
-    "channel_views": 21144,
-    "video_count": 152
+    "channel_views": 21641,
+    "video_count": 153
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/PGj37PnyEsQ"
+      "https://youtube.com/shorts/0qQEEjVGGAY"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/PGj37PnyEsQ"
+      "https://youtube.com/shorts/0qQEEjVGGAY"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/PGj37PnyEsQ"
+      "https://youtube.com/shorts/0qQEEjVGGAY"
     ]
   },
   "retention": {
-    "videos_with_data": 137,
-    "avg_view_percent": 58.5,
+    "videos_with_data": 139,
+    "avg_view_percent": 57.9,
     "by_topic": {
-      "earth": 65.1,
-      "space": 59.4,
-      "society": 42.4,
-      "animals": 47.7,
-      "body": 48.3,
-      "technology": 86.9
+      "earth": 61.9,
+      "space": 59.2,
+      "society": 42.8,
+      "animals": 48.2,
+      "body": 48.9,
+      "technology": 83.7
     },
     "best": [
       {
         "title": "What If Your Heart Ran on Plutonium? In the 1970s, Thousands Did",
-        "avg_view_percent": 622.5,
+        "avg_view_percent": 564.1,
         "views": 24
       },
       {
@@ -47,7 +47,7 @@
       },
       {
         "title": "What If the Sky Went Black at Noon? It Did in 1780, and People Thought It Was the End",
-        "avg_view_percent": 205.0,
+        "avg_view_percent": 156.4,
         "views": 9
       },
       {
@@ -78,20 +78,20 @@
         "views": 10
       },
       {
-        "title": "What If a Marathon Took 54 Years? One Olympic Runner's Really Did",
-        "avg_view_percent": 13.7,
-        "views": 12
-      },
-      {
         "title": "What If You Swam in a Pool on the Moon? You Could Leap Like a Dolphin",
         "avg_view_percent": 13.7,
         "views": 7
+      },
+      {
+        "title": "What If a Computer Said Five Nukes Were Coming? In 1983 One Did",
+        "avg_view_percent": 14.0,
+        "views": 8
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 153,
-  "total_views": 21616,
+  "total_videos": 154,
+  "total_views": 22030,
   "by_topic": {
     "earth": {
       "videos": 17,
@@ -99,14 +99,14 @@
       "best_views": 1175
     },
     "space": {
-      "videos": 47,
-      "avg_views": 120,
+      "videos": 48,
+      "avg_views": 118,
       "best_views": 1281
     },
     "society": {
       "videos": 12,
       "avg_views": 148,
-      "best_views": 929
+      "best_views": 928
     },
     "animals": {
       "videos": 16,
@@ -115,8 +115,8 @@
     },
     "body": {
       "videos": 40,
-      "avg_views": 87,
-      "best_views": 876
+      "avg_views": 98,
+      "best_views": 879
     },
     "technology": {
       "videos": 21,
@@ -126,15 +126,15 @@
   },
   "by_style": {
     "classic": {
-      "videos": 153,
-      "avg_views": 141,
+      "videos": 154,
+      "avg_views": 143,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 152,
-      "avg_views": 135
+      "videos": 153,
+      "avg_views": 137
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -157,7 +157,7 @@
     {
       "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
       "topic": "animals",
-      "views": 1220,
+      "views": 1221,
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
@@ -187,7 +187,7 @@
     {
       "title": "What If You Never Replaced Your Kitchen Sponge?",
       "topic": "society",
-      "views": 929,
+      "views": 928,
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you."
     },
     {
@@ -199,7 +199,7 @@
     {
       "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
       "topic": "body",
-      "views": 876,
+      "views": 879,
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
     }
   ],
@@ -1012,7 +1012,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
       "avg_view_seconds": 29.0,
-      "avg_view_percent": 80.1,
+      "avg_view_percent": 80.2,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -2299,8 +2299,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/QrA3jMszKEw",
-      "avg_view_seconds": 102.0,
-      "avg_view_percent": 205.0,
+      "avg_view_seconds": 78.0,
+      "avg_view_percent": 156.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2495,8 +2495,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/rZvHcmJwADY",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 56.0,
+      "avg_view_seconds": 27.0,
+      "avg_view_percent": 62.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3443,12 +3443,12 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1220,
+      "views": 1221,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 53.5,
+      "avg_view_percent": 53.6,
       "shares": 0,
       "subscribers_gained": 2
     },
@@ -3559,8 +3559,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/JGgtBD3I01M",
-      "avg_view_seconds": 5.0,
-      "avg_view_percent": 13.7,
+      "avg_view_seconds": 7.0,
+      "avg_view_percent": 17.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3779,12 +3779,12 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 876,
+      "views": 879,
       "likes": 20,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 55.0,
+      "avg_view_percent": 56.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -3812,7 +3812,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/XEtNh6GXHWY",
       "avg_view_seconds": 15.0,
-      "avg_view_percent": 37.8,
+      "avg_view_percent": 36.8,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -3923,8 +3923,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ENjWrNbpz4",
-      "avg_view_seconds": 40.0,
-      "avg_view_percent": 88.9,
+      "avg_view_seconds": 36.0,
+      "avg_view_percent": 79.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4063,8 +4063,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/FdfnsKuwHF4",
-      "avg_view_seconds": 42.0,
-      "avg_view_percent": 85.3,
+      "avg_view_seconds": 30.0,
+      "avg_view_percent": 61.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4087,12 +4087,12 @@
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
       "published_at": "2026-11-23T23:30:38Z",
       "privacy": "public",
-      "views": 68,
+      "views": 72,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uA4BiNGtBCI",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 39.6,
+      "avg_view_seconds": 31.0,
+      "avg_view_percent": 70.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4119,8 +4119,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/OpmJ3yfz1lc",
-      "avg_view_seconds": 336.0,
-      "avg_view_percent": 622.5,
+      "avg_view_seconds": 304.0,
+      "avg_view_percent": 564.1,
       "shares": 1,
       "subscribers_gained": 0
     },
@@ -4147,8 +4147,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qDc5aUNOZlk",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 30.0,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 37.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4171,10 +4171,14 @@
       "hook": "What if Earth were a cube? Every ocean would gather into six round puddles.",
       "published_at": "2026-11-24T10:50:19Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/hvp6pNquLG4"
+      "url": "https://youtube.com/shorts/hvp6pNquLG4",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "gF1OnIb8rI4": {
       "upload_status": "processed",
@@ -4198,7 +4202,11 @@
       "views": 7,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/gF1OnIb8rI4"
+      "url": "https://youtube.com/shorts/gF1OnIb8rI4",
+      "avg_view_seconds": 32.0,
+      "avg_view_percent": 77.5,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "TF7RF4CnmiY": {
       "upload_status": "processed",
@@ -4222,7 +4230,11 @@
       "views": 5,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/TF7RF4CnmiY"
+      "url": "https://youtube.com/shorts/TF7RF4CnmiY",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "3JAwig_ZbLc": {
       "upload_status": "processed",
@@ -4246,7 +4258,11 @@
       "views": 33,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/3JAwig_ZbLc"
+      "url": "https://youtube.com/shorts/3JAwig_ZbLc",
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 39.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "gMwEXEowZOI": {
       "upload_status": "processed",
@@ -4270,7 +4286,11 @@
       "views": 16,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/gMwEXEowZOI"
+      "url": "https://youtube.com/shorts/gMwEXEowZOI",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "8Xl382-MJ4E": {
       "upload_status": "processed",
@@ -4291,7 +4311,7 @@
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you.",
       "published_at": "2026-11-25T09:30:17Z",
       "privacy": "public",
-      "views": 929,
+      "views": 928,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/8Xl382-MJ4E"
@@ -4315,7 +4335,7 @@
       "hook": "What if you drank way too much water, too fast? The danger isn't your stomach. It's your brain.",
       "published_at": "2026-11-25T12:10:30Z",
       "privacy": "public",
-      "views": 27,
+      "views": 28,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U_iEQTGWVEA"
@@ -4339,8 +4359,8 @@
       "hook": "What if you never cleaned your belly button? You'd be growing a tiny rainforest.",
       "published_at": "2026-11-25T21:10:16Z",
       "privacy": "public",
-      "views": 385,
-      "likes": 1,
+      "views": 707,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/xMq0LUr2j1E"
     },
@@ -4363,7 +4383,7 @@
       "hook": "What if you never stopped growing? Your own size would turn against you.",
       "published_at": "2026-11-25T23:10:38Z",
       "privacy": "public",
-      "views": 25,
+      "views": 86,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eZLgnXtnC-M"
@@ -4387,7 +4407,7 @@
       "hook": "What if you never opened a window? The oxygen wouldn't run out. Your breath would pile up.",
       "published_at": "2026-11-25T23:50:34Z",
       "privacy": "public",
-      "views": 12,
+      "views": 14,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/3PQcUd6U0Ss"
@@ -4411,20 +4431,20 @@
       "hook": "What if you never wore deodorant? Your sweat wouldn't be the problem. It barely smells at all.",
       "published_at": "2026-11-26T09:20:11Z",
       "privacy": "public",
-      "views": 10,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Derj2NcilJM"
     },
     "PGj37PnyEsQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT37S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4433,12 +4453,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you never flossed? The surprising part: science argued about this for years.",
-      "published_at": "2026-11-26T11:33:04Z",
+      "published_at": "2026-11-26T12:00:21Z",
+      "privacy": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/PGj37PnyEsQ"
+    },
+    "0qQEEjVGGAY": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Burped in Space?",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you burped in space? It wouldn't just be air.",
+      "published_at": "2026-11-26T20:36:28Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/PGj37PnyEsQ"
+      "url": "https://youtube.com/shorts/0qQEEjVGGAY"
     }
   }
 }
