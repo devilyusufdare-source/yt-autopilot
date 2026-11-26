@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T01:00:34+00:00",
+  "updated_at": "2026-11-26T01:46:20+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
@@ -10,17 +10,18 @@
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/U7uT6bTCo2Y"
+      "https://youtube.com/shorts/U7uT6bTCo2Y",
+      "https://youtube.com/shorts/pC9hsHVWFZc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/U7uT6bTCo2Y"
+      "https://youtube.com/shorts/pC9hsHVWFZc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/U7uT6bTCo2Y"
+      "https://youtube.com/shorts/pC9hsHVWFZc"
     ]
   },
   "retention": {
@@ -92,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 456,
-  "total_views": 125936,
+  "total_videos": 457,
+  "total_views": 125958,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 347,
-      "avg_views": 296,
+      "videos": 348,
+      "avg_views": 295,
       "best_views": 1507
     },
     "human body": {
@@ -117,7 +118,7 @@
     },
     "history": {
       "videos": 19,
-      "avg_views": 108,
+      "avg_views": 109,
       "best_views": 1115
     },
     "space": {
@@ -138,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 440,
-      "avg_views": 271,
+      "videos": 441,
+      "avg_views": 270,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 370,
-      "avg_views": 237
+      "videos": 371,
+      "avg_views": 236
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1796,7 +1797,7 @@
       "hook": "This bug eats turtles. And snakes. And ducklings.",
       "published_at": "2026-11-09T20:00:15Z",
       "privacy": "public",
-      "views": 357,
+      "views": 359,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY",
@@ -7816,7 +7817,7 @@
       "hook": "Almost every hawk hunts alone. One species hunts like a wolf pack.",
       "published_at": "2026-11-18T21:20:37Z",
       "privacy": "public",
-      "views": 9,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xN4pLHNtTGY",
@@ -9904,7 +9905,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 1155,
+      "views": 1156,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8",
@@ -10012,7 +10013,7 @@
       "hook": "The five oldest photographs on Earth, ranked. Number one needed at least eight hours of light.",
       "published_at": "2026-11-25T02:40:09Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1-Tq6_60EWQ"
@@ -10088,7 +10089,7 @@
       "hook": "An aquarium animal refused every meal for five years. And it looked perfectly fine.",
       "published_at": "2026-11-25T04:40:31Z",
       "privacy": "public",
-      "views": 22,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/4RbyZ2WP2lg"
@@ -10192,7 +10193,7 @@
       "hook": "A wild cat in Spain does something no carnivore was ever seen doing.",
       "published_at": "2026-11-25T06:20:38Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/otgPu858_iI"
@@ -10244,7 +10245,7 @@
       "hook": "A bird smaller than your fist walks up to a raccoon and starts pulling its fur.",
       "published_at": "2026-11-25T10:20:07Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/NaRqPn4-tVM"
@@ -10268,7 +10269,7 @@
       "hook": "Every winter, this tiny animal shrinks its own skull.",
       "published_at": "2026-11-25T10:50:35Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/59sLe__3Ywk"
@@ -10460,7 +10461,7 @@
       "hook": "A fly the size of a grain of rice hunts like a guided missile.",
       "published_at": "2026-11-21T00:00:26Z",
       "privacy": "public",
-      "views": 145,
+      "views": 147,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6RusQeLzNC8",
@@ -10628,7 +10629,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 1109,
+      "views": 1110,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo",
@@ -10936,7 +10937,7 @@
       "hook": "A spider near Lake Victoria craves human blood. It can't pierce your skin.",
       "published_at": "2026-11-22T20:30:04Z",
       "privacy": "public",
-      "views": 906,
+      "views": 907,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M7aCq1QH0Ho",
@@ -11076,7 +11077,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 361,
+      "views": 362,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU",
@@ -11300,7 +11301,7 @@
       "hook": "Orcas are top predators. Some keep handing their food to humans.",
       "published_at": "2026-11-24T04:30:28Z",
       "privacy": "public",
-      "views": 761,
+      "views": 762,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/L-m0jBWJt7M",
@@ -11616,8 +11617,8 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 39,
-      "likes": 0,
+      "views": 42,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E"
     },
@@ -11650,14 +11651,14 @@
       "subscribers_gained": 0
     },
     "U7uT6bTCo2Y": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT27S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -11672,6 +11673,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/U7uT6bTCo2Y"
+    },
+    "pC9hsHVWFZc": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Seals Can Feel Their Own Oxygen Running Out. Humans Can't",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Seals can feel something your body is completely blind to.",
+      "published_at": "2026-11-26T01:46:01Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/pC9hsHVWFZc"
     },
     "anjtwli9-Gg": {
       "upload_status": "processed",
@@ -11692,7 +11717,7 @@
       "hook": "The five oldest cave paintings ever found. France doesn't make the list.",
       "published_at": "2026-11-26T00:00:23Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/anjtwli9-Gg"
