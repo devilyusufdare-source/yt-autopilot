@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "SNAKES HUNT AS A TEAM",
   "priority": 7,
-  "first_comment": "Only a handful of the roughly 3,650 snake species have ever been seen hunting in groups. Which animal would you least want hunting in a pack?"
+  "first_comment": "Only a handful of the roughly 3,650 snake species have ever been seen hunting in groups. Which animal would you least want hunting in a pack?",
+  "youtube_id": "X0nAilZAqek",
+  "url": "https://youtube.com/shorts/X0nAilZAqek",
+  "uploaded_at": "2026-11-26T20:10:44+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-26T21:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 10,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 27.3,
+  "style": "classic",
+  "kind": "shorts"
 }
