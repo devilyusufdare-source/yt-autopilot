@@ -59,5 +59,22 @@
   ],
   "thumbnail_text": "WHAT IF YOU NEVER WORE DEODORANT?",
   "priority": 7,
-  "first_comment": "The same gene decides whether your earwax is wet or dry: people with the odour-free variant usually have dry earwax. Which one are you? And what should we run through next?"
+  "first_comment": "The same gene decides whether your earwax is wet or dry: people with the odour-free variant usually have dry earwax. Which one are you? And what should we run through next?",
+  "youtube_id": "Derj2NcilJM",
+  "url": "https://youtube.com/shorts/Derj2NcilJM",
+  "uploaded_at": "2026-11-26T08:51:58+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-26T09:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "pixabay-photo": 1,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FDA4AF",
+  "duration_seconds": 35.6,
+  "style": "classic",
+  "kind": "shorts"
 }

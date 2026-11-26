@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-25T23:23:11+00:00",
+  "updated_at": "2026-11-26T08:52:00+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
-    "subscribers": 22,
-    "channel_views": 20131,
-    "video_count": 150
+    "subscribers": 23,
+    "channel_views": 21144,
+    "video_count": 151
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/3PQcUd6U0Ss"
+      "https://youtube.com/shorts/Derj2NcilJM"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/3PQcUd6U0Ss"
+      "https://youtube.com/shorts/Derj2NcilJM"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/3PQcUd6U0Ss"
+      "https://youtube.com/shorts/Derj2NcilJM"
     ]
   },
   "retention": {
@@ -90,12 +90,12 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 151,
-  "total_views": 21256,
+  "total_videos": 152,
+  "total_views": 21484,
   "by_topic": {
     "earth": {
       "videos": 17,
-      "avg_views": 279,
+      "avg_views": 280,
       "best_views": 1175
     },
     "space": {
@@ -106,7 +106,7 @@
     "society": {
       "videos": 12,
       "avg_views": 148,
-      "best_views": 926
+      "best_views": 929
     },
     "animals": {
       "videos": 16,
@@ -114,9 +114,9 @@
       "best_views": 1428
     },
     "body": {
-      "videos": 38,
-      "avg_views": 83,
-      "best_views": 873
+      "videos": 39,
+      "avg_views": 86,
+      "best_views": 874
     },
     "technology": {
       "videos": 21,
@@ -126,14 +126,14 @@
   },
   "by_style": {
     "classic": {
-      "videos": 151,
+      "videos": 152,
       "avg_views": 141,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 150,
+      "videos": 151,
       "avg_views": 135
     },
     "en-US-EricNeural": {
@@ -157,7 +157,7 @@
     {
       "title": "What If You Raised a Chimp With Your Baby? In 1931 a Scientist Did",
       "topic": "animals",
-      "views": 1219,
+      "views": 1220,
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired."
     },
     {
@@ -187,7 +187,7 @@
     {
       "title": "What If You Never Replaced Your Kitchen Sponge?",
       "topic": "society",
-      "views": 926,
+      "views": 929,
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you."
     },
     {
@@ -199,7 +199,7 @@
     {
       "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
       "topic": "body",
-      "views": 873,
+      "views": 874,
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
     }
   ],
@@ -1175,7 +1175,7 @@
       "hook": "What if one fish was added to Africa's biggest lake? Hundreds of species disappeared.",
       "published_at": "2026-11-02T19:30:30Z",
       "privacy": "public",
-      "views": 102,
+      "views": 103,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/V1bjB6HEpF8",
@@ -1568,7 +1568,7 @@
       "published_at": "2026-11-12T20:00:21Z",
       "privacy": "public",
       "views": 654,
-      "likes": 13,
+      "likes": 14,
       "comments": 1,
       "url": "https://youtube.com/shorts/rhBb6oJbqXE",
       "avg_view_seconds": 17.0,
@@ -3247,7 +3247,7 @@
       "hook": "What if a soldier never heard his war had ended? One kept fighting for 29 years.",
       "published_at": "2026-11-20T19:50:05Z",
       "privacy": "public",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4M2mpzTtAI",
@@ -3443,7 +3443,7 @@
       "hook": "What if you raised a chimp alongside your baby? In 1931 a psychologist did. It backfired.",
       "published_at": "2026-11-21T18:50:10Z",
       "privacy": "public",
-      "views": 1219,
+      "views": 1220,
       "likes": 21,
       "comments": 1,
       "url": "https://youtube.com/shorts/hAffA8OTw7w",
@@ -3611,7 +3611,7 @@
       "hook": "What if a tree were the only one for 250 miles? Somebody still drove into it.",
       "published_at": "2026-11-22T10:50:07Z",
       "privacy": "public",
-      "views": 14,
+      "views": 16,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1kSlgoBaYOE",
@@ -3779,7 +3779,7 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 873,
+      "views": 874,
       "likes": 20,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc",
@@ -3919,7 +3919,7 @@
       "hook": "What if a disease could be wiped out with no vaccine and no drug? One nearly was.",
       "published_at": "2026-11-23T08:40:05Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/0ENjWrNbpz4",
@@ -4031,7 +4031,7 @@
       "hook": "What if you closed your eyes and could picture nothing at all? Millions can't, and never knew.",
       "published_at": "2026-11-17T23:40:02Z",
       "privacy": "public",
-      "views": 50,
+      "views": 51,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/AzRKI-WYycw",
@@ -4087,7 +4087,7 @@
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
       "published_at": "2026-11-23T23:30:38Z",
       "privacy": "public",
-      "views": 67,
+      "views": 68,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uA4BiNGtBCI",
@@ -4219,7 +4219,7 @@
       "hook": "What if Earth sat five percent closer to the Sun? You wouldn't boil. Something slower would happen.",
       "published_at": "2026-11-24T22:00:38Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/TF7RF4CnmiY"
@@ -4243,7 +4243,7 @@
       "hook": "What if you held in every sneeze? The pressure has to go somewhere.",
       "published_at": "2026-11-24T23:40:33Z",
       "privacy": "public",
-      "views": 27,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JAwig_ZbLc"
@@ -4267,7 +4267,7 @@
       "hook": "What if you never looked up from your phone? Your neck would carry a second head.",
       "published_at": "2026-11-25T00:10:12Z",
       "privacy": "public",
-      "views": 13,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/gMwEXEowZOI"
@@ -4291,7 +4291,7 @@
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you.",
       "published_at": "2026-11-25T09:30:17Z",
       "privacy": "public",
-      "views": 926,
+      "views": 929,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/8Xl382-MJ4E"
@@ -4315,7 +4315,7 @@
       "hook": "What if you drank way too much water, too fast? The danger isn't your stomach. It's your brain.",
       "published_at": "2026-11-25T12:10:30Z",
       "privacy": "public",
-      "views": 11,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U_iEQTGWVEA"
@@ -4339,8 +4339,8 @@
       "hook": "What if you never cleaned your belly button? You'd be growing a tiny rainforest.",
       "published_at": "2026-11-25T21:10:16Z",
       "privacy": "public",
-      "views": 116,
-      "likes": 1,
+      "views": 275,
+      "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xMq0LUr2j1E"
     },
@@ -4363,12 +4363,36 @@
       "hook": "What if you never stopped growing? Your own size would turn against you.",
       "published_at": "2026-11-25T23:10:38Z",
       "privacy": "public",
-      "views": 1,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eZLgnXtnC-M"
     },
     "3PQcUd6U0Ss": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT40S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Never Opened a Window?",
+      "topic": "earth",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you never opened a window? The oxygen wouldn't run out. Your breath would pile up.",
+      "published_at": "2026-11-25T23:50:34Z",
+      "privacy": "public",
+      "views": 12,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/3PQcUd6U0Ss"
+    },
+    "Derj2NcilJM": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -4380,17 +4404,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If You Never Opened a Window?",
-      "topic": "earth",
+      "title": "What If You Never Wore Deodorant?",
+      "topic": "body",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if you never opened a window? The oxygen wouldn't run out. Your breath would pile up.",
-      "published_at": "2026-11-25T23:23:06Z",
+      "hook": "What if you never wore deodorant? Your sweat wouldn't be the problem. It barely smells at all.",
+      "published_at": "2026-11-26T08:51:55Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/3PQcUd6U0Ss"
+      "url": "https://youtube.com/shorts/Derj2NcilJM"
     }
   }
 }
