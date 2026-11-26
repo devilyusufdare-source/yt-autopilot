@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-26T22:27:48+00:00",
+  "updated_at": "2026-11-26T23:21:59+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 23,
     "channel_views": 21641,
-    "video_count": 154
+    "video_count": 155
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/UqxuPkg__aU"
+      "https://youtube.com/shorts/QYdHwik4kG0"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/UqxuPkg__aU"
+      "https://youtube.com/shorts/QYdHwik4kG0"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/UqxuPkg__aU"
+      "https://youtube.com/shorts/QYdHwik4kG0"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 155,
-  "total_views": 22019,
+  "total_videos": 156,
+  "total_views": 22204,
   "by_topic": {
     "earth": {
       "videos": 17,
@@ -109,14 +109,14 @@
       "best_views": 928
     },
     "animals": {
-      "videos": 16,
-      "avg_views": 251,
+      "videos": 17,
+      "avg_views": 237,
       "best_views": 1428
     },
     "body": {
       "videos": 41,
-      "avg_views": 95,
-      "best_views": 880
+      "avg_views": 99,
+      "best_views": 879
     },
     "technology": {
       "videos": 21,
@@ -126,14 +126,14 @@
   },
   "by_style": {
     "classic": {
-      "videos": 155,
+      "videos": 156,
       "avg_views": 142,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 154,
+      "videos": 155,
       "avg_views": 136
     },
     "en-US-EricNeural": {
@@ -199,7 +199,7 @@
     {
       "title": "What If Snakes Bit You 200 Times? Scientists Wanted One Man's Blood",
       "topic": "body",
-      "views": 880,
+      "views": 879,
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood."
     }
   ],
@@ -671,7 +671,7 @@
       "hook": "What if sound traveled through space? You'd hear the Sun, and it would arrive years late.",
       "published_at": "2026-10-29T14:10:27Z",
       "privacy": "public",
-      "views": 183,
+      "views": 184,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/tbvnEMmFn7Y",
@@ -3779,7 +3779,7 @@
       "hook": "What if you let deadly snakes bite you 200 times? One man did. Scientists wanted his blood.",
       "published_at": "2026-11-22T21:00:35Z",
       "privacy": "public",
-      "views": 880,
+      "views": 879,
       "likes": 20,
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc",
@@ -4335,7 +4335,7 @@
       "hook": "What if you drank way too much water, too fast? The danger isn't your stomach. It's your brain.",
       "published_at": "2026-11-25T12:10:30Z",
       "privacy": "public",
-      "views": 30,
+      "views": 31,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U_iEQTGWVEA"
@@ -4359,8 +4359,8 @@
       "hook": "What if you never cleaned your belly button? You'd be growing a tiny rainforest.",
       "published_at": "2026-11-25T21:10:16Z",
       "privacy": "public",
-      "views": 696,
-      "likes": 3,
+      "views": 796,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/xMq0LUr2j1E"
     },
@@ -4383,7 +4383,7 @@
       "hook": "What if you never stopped growing? Your own size would turn against you.",
       "published_at": "2026-11-25T23:10:38Z",
       "privacy": "public",
-      "views": 86,
+      "views": 88,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eZLgnXtnC-M"
@@ -4431,7 +4431,7 @@
       "hook": "What if you never wore deodorant? Your sweat wouldn't be the problem. It barely smells at all.",
       "published_at": "2026-11-26T09:20:11Z",
       "privacy": "public",
-      "views": 24,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Derj2NcilJM"
@@ -4455,7 +4455,7 @@
       "hook": "What if you never flossed? The surprising part: science argued about this for years.",
       "published_at": "2026-11-26T12:00:21Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PGj37PnyEsQ"
@@ -4485,14 +4485,14 @@
       "url": "https://youtube.com/shorts/0qQEEjVGGAY"
     },
     "UqxuPkg__aU": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT36S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4501,12 +4501,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you never changed your socks? Your feet sweat more than you think.",
-      "published_at": "2026-11-26T22:27:43Z",
+      "published_at": "2026-11-26T23:00:11Z",
+      "privacy": "public",
+      "views": 76,
+      "likes": 1,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/UqxuPkg__aU"
+    },
+    "QYdHwik4kG0": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If You Really Swallowed Spiders in Your Sleep?",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if you swallow eight spiders a year in your sleep? Even the story behind it is fake.",
+      "published_at": "2026-11-26T23:21:54Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/UqxuPkg__aU"
+      "url": "https://youtube.com/shorts/QYdHwik4kG0"
     }
   }
 }
