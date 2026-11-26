@@ -1,0 +1,61 @@
+{
+  "id": "2028-07-05-mallards-poop-out-live-fish-eggs",
+  "format": "fact",
+  "topic": "animals",
+  "subject": "mallard duck",
+  "title": "Ducks Ate 8,000 Fish Eggs. A Few Came Out Alive and Hatched",
+  "scenes": [
+    {
+      "text": "Fish appear in ponds nobody stocked. Ducks may be carrying them, inside.",
+      "keywords": "mallard duck"
+    },
+    {
+      "text": "Scientists in Hungary fed about eight thousand carp eggs to eight mallard ducks.",
+      "keywords": "mallard duck eating"
+    },
+    {
+      "text": "Eighteen eggs came out intact in the droppings, up to a day later.",
+      "keywords": "mallard duck"
+    },
+    {
+      "text": "Twelve still had living embryos inside. Three of them hatched into baby fish.",
+      "keywords": "carp"
+    },
+    {
+      "text": "That's only one egg in a few hundred. But a single carp can lay over a million eggs at once.",
+      "keywords": "carp underwater"
+    },
+    {
+      "text": "And a mallard can fly hundreds of kilometres between stops. That's how fish can fly.",
+      "keywords": "mallard duck flying"
+    }
+  ],
+  "description": "In a 2020 PNAS study, Hungarian researchers fed about 8,000 common and Prussian carp eggs to eight mallards; 18 eggs (0.2%) passed intact, 12 had living embryos, and three hatched.\nWith carp laying up to about 1.5 million eggs and mallards travelling long distances, ducks may explain fish turning up in isolated ponds.\nHave you ever wondered how fish got into a pond?",
+  "tags": [
+    "mallard duck",
+    "carp",
+    "fish eggs",
+    "ducks",
+    "pond fish",
+    "animal dispersal",
+    "bird facts",
+    "fish facts",
+    "animal facts",
+    "nature facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#ducks",
+    "#fish",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.eurekalert.org/news-releases/690733",
+    "https://www.audubon.org/news/mallards-ferry-fish-eggs-between-waterbodies-through-their-poop"
+  ],
+  "thumbnail_text": "DUCKS POOP OUT LIVE FISH",
+  "priority": 6,
+  "first_comment": "Only 0.2% made it through, but ducks eat a lot of eggs. Have you ever found fish in a pond nobody stocked?"
+}
