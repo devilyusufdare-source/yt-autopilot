@@ -1,0 +1,26 @@
+{
+  "id": "2028-07-19-lighter-invented-before-the-match",
+  "format": "fact",
+  "topic": "technology",
+  "subject": "flame lighter",
+  "title": "The Lighter Was Invented 3 Years Before the Friction Match",
+  "scenes": [
+    {"text": "The lighter came first. The match came later.", "keywords": "lighter flame"},
+    {"text": "In 1823, a German chemist named Döbereiner built a lighter the size of a lamp.", "keywords": "laboratory glassware"},
+    {"text": "Inside, zinc sat in acid, making hydrogen gas. Turn a valve, and the gas flowed out.", "keywords": "chemistry bubbles"},
+    {"text": "It hit a tiny piece of platinum, which made the hydrogen burst into flame. No spark needed.", "keywords": "flame close up"},
+    {"text": "Three years later, in 1826, an English chemist scraped a coated stick and invented the friction match.", "keywords": "match striking"},
+    {"text": "So when someone strikes a match, they're using the newer invention.", "keywords": "match flame"}
+  ],
+  "description": "The first lighter, Döbereiner's lamp, was built in 1823: hydrogen made from zinc and acid flowed onto a platinum catalyst and caught fire.\nJohn Walker's friction match came in 1826, three years later, and went on sale in 1827.\nWhich invention would you have guessed came first?",
+  "tags": ["lighter", "match", "dobereiner lamp", "john walker", "inventions", "history of technology", "chemistry", "fire", "technology facts", "history facts", "mind blowing facts", "shorts facts"],
+  "hashtags": ["#shorts", "#inventions", "#history", "#science"],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Walker_(inventor)",
+    "https://www.chm.bris.ac.uk/webprojects2001/osullivan/doblamp.htm",
+    "https://historyfacts.com/?p=10953"
+  ],
+  "thumbnail_text": "LIGHTER CAME BEFORE MATCHES",
+  "priority": 5,
+  "first_comment": "Did you guess the match came first? Which everyday invention do you think is older than it seems?"
+}
