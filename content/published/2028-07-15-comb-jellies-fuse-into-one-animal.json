@@ -58,5 +58,22 @@
   ],
   "thumbnail_text": "TWO ANIMALS. ONE BODY.",
   "priority": 7,
-  "first_comment": "The fused jellies lived for at least three weeks. If two animals share one body and one nervous system, is it still two animals?"
+  "first_comment": "The fused jellies lived for at least three weeks. If two animals share one body and one nervous system, is it still two animals?",
+  "youtube_id": "PAuHiRuFCdc",
+  "url": "https://youtube.com/shorts/PAuHiRuFCdc",
+  "uploaded_at": "2026-11-26T22:58:18+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-27T00:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 8,
+    "pixabay-photo": 1,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 26.0,
+  "style": "classic",
+  "kind": "shorts"
 }

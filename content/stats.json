@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-26T21:54:41+00:00",
+  "updated_at": "2026-11-26T22:58:21+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 96,
     "channel_views": 127729,
-    "video_count": 467
+    "video_count": 468
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/EW_CJCY07xc"
+      "https://youtube.com/shorts/PAuHiRuFCdc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/EW_CJCY07xc"
+      "https://youtube.com/shorts/PAuHiRuFCdc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/EW_CJCY07xc"
+      "https://youtube.com/shorts/PAuHiRuFCdc"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 466,
-  "total_views": 128808,
+  "total_videos": 467,
+  "total_views": 128930,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -106,7 +106,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 355,
+      "videos": 356,
       "avg_views": 297,
       "best_views": 1507
     },
@@ -138,7 +138,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 450,
+      "videos": 451,
       "avg_views": 271,
       "over_1500": 3
     },
@@ -150,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 380,
+      "videos": 381,
       "avg_views": 238
     },
     "en-US-BrianNeural": {
@@ -8816,7 +8816,7 @@
       "hook": "This frog ate her own eggs. Six weeks later, she spat out frogs.",
       "published_at": "2026-11-20T04:30:09Z",
       "privacy": "public",
-      "views": 931,
+      "views": 932,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/BLgz-A_5c6U",
@@ -9936,7 +9936,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 1181,
+      "views": 1184,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8",
@@ -10324,7 +10324,7 @@
       "hook": "Every winter, this tiny animal shrinks its own skull.",
       "published_at": "2026-11-25T10:50:35Z",
       "privacy": "public",
-      "views": 11,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/59sLe__3Ywk"
@@ -10372,7 +10372,7 @@
       "hook": "Wolves grabbed a newborn bison calf. Then the herd turned around.",
       "published_at": "2026-11-26T03:40:28Z",
       "privacy": "public",
-      "views": 561,
+      "views": 664,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/WwM1elNJYko"
@@ -11760,8 +11760,8 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 84,
-      "likes": 3,
+      "views": 97,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E"
     },
@@ -11812,7 +11812,7 @@
       "hook": "This dolphin hunts fish all day, but never eats them.",
       "published_at": "2026-11-26T02:15:13Z",
       "privacy": "public",
-      "views": 935,
+      "views": 938,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/U7uT6bTCo2Y"
@@ -11990,6 +11990,30 @@
       "url": "https://youtube.com/shorts/X0nAilZAqek"
     },
     "EW_CJCY07xc": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT29S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Lions Now Kill Zebras 3 Times Less Often, Because of an Ant",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Kenya's lions are losing their hunts to an ant.",
+      "published_at": "2026-11-26T22:20:01Z",
+      "privacy": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/EW_CJCY07xc"
+    },
+    "PAuHiRuFCdc": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -12001,17 +12025,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "Lions Now Kill Zebras 3 Times Less Often, Because of an Ant",
+      "title": "Cut Two Comb Jellies and 9 Times in 10 They Become One Animal",
       "topic": "animals",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "Kenya's lions are losing their hunts to an ant.",
-      "published_at": "2026-11-26T21:54:27Z",
+      "hook": "One comb jelly had two mouths. Nobody knew why.",
+      "published_at": "2026-11-26T22:58:10Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/EW_CJCY07xc"
+      "url": "https://youtube.com/shorts/PAuHiRuFCdc"
     },
     "7E64Z48yaAs": {
       "upload_status": "processed",
