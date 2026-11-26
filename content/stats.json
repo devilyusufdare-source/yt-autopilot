@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-26T05:01:54+00:00",
+  "updated_at": "2026-11-26T09:42:22+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 93,
-    "channel_views": 125563,
-    "video_count": 461
+    "subscribers": 94,
+    "channel_views": 126008,
+    "video_count": 463
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/uXXLUZsGuvM",
-      "https://youtube.com/shorts/-fWN5Y7mrIg"
+      "https://youtube.com/shorts/DYaBvqqnwVE",
+      "https://youtube.com/shorts/EE-2yaHh1Qw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/-fWN5Y7mrIg"
+      "https://youtube.com/shorts/DYaBvqqnwVE"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/-fWN5Y7mrIg"
+      "https://youtube.com/shorts/DYaBvqqnwVE"
     ]
   },
   "retention": {
@@ -46,7 +46,7 @@
       {
         "title": "The Fastest Shark Sometimes Ends Up Inside the Fishing Boat",
         "avg_view_percent": 311.7,
-        "views": 863
+        "views": 864
       },
       {
         "title": "A Parasite Lives Inside a Wasp's Belly. Its Mate Has 5 Hours to Find It",
@@ -93,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 461,
-  "total_views": 126932,
+  "total_videos": 463,
+  "total_views": 127418,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,7 +107,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 352,
+      "videos": 353,
       "avg_views": 295,
       "best_views": 1507
     },
@@ -117,8 +117,8 @@
       "best_views": 1384
     },
     "history": {
-      "videos": 19,
-      "avg_views": 109,
+      "videos": 20,
+      "avg_views": 104,
       "best_views": 1115
     },
     "space": {
@@ -139,7 +139,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 445,
+      "videos": 447,
       "avg_views": 270,
       "over_1500": 3
     },
@@ -151,7 +151,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 375,
+      "videos": 377,
       "avg_views": 236
     },
     "en-US-BrianNeural": {
@@ -4037,7 +4037,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 1123,
+      "views": 1124,
       "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
@@ -4653,7 +4653,7 @@
       "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
-      "views": 24,
+      "views": 22,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM",
@@ -7906,7 +7906,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/nxgC5XgtZKk",
       "avg_view_seconds": 22.0,
-      "avg_view_percent": 59.0,
+      "avg_view_percent": 59.6,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -7929,7 +7929,7 @@
       "hook": "A caterpillar fires its own poop five feet through the air. It has a good reason.",
       "published_at": "2026-11-19T00:00:22Z",
       "privacy": "public",
-      "views": 984,
+      "views": 987,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/qvqXjZ5X8GI",
@@ -8037,7 +8037,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 461,
+      "views": 462,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -8069,6 +8069,30 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/qzZAIhnbG5M"
+    },
+    "DYaBvqqnwVE": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Soldier Kept Fighting World War II Until 1974. One Order Ended It",
+      "topic": "history",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "One soldier kept fighting World War Two until 1974.",
+      "published_at": "2026-11-26T09:42:12Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/DYaBvqqnwVE"
     },
     "UMDanzgQzVk": {
       "upload_status": "processed",
@@ -8150,7 +8174,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/DHn0xENEgaY",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 55.8,
+      "avg_view_percent": 55.6,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -8822,7 +8846,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 56.4,
+      "avg_view_percent": 56.7,
       "shares": 1,
       "subscribers_gained": 0
     },
@@ -8905,8 +8929,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M4rnYbMm98E",
-      "avg_view_seconds": 17.0,
-      "avg_view_percent": 39.9,
+      "avg_view_seconds": 18.0,
+      "avg_view_percent": 40.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -9074,7 +9098,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/6FAMi2C_sHs",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 39.5,
+      "avg_view_percent": 39.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -9125,7 +9149,7 @@
       "hook": "This fish can survive four years without food or water.",
       "published_at": "2026-10-23T15:30:19Z",
       "privacy": "public",
-      "views": 1078,
+      "views": 1079,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/ATRf5itBVC0",
@@ -9629,7 +9653,7 @@
       "hook": "This turtle breathes through its backside.",
       "published_at": "2026-11-24T05:30:34Z",
       "privacy": "public",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Z-s7KnUAY5M",
@@ -9905,7 +9929,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 1156,
+      "views": 1161,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8",
@@ -10037,7 +10061,7 @@
       "hook": "A worm lives its whole life inside a glacier. Hold it in your hand and it dies.",
       "published_at": "2026-11-25T04:20:27Z",
       "privacy": "public",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VaNe8GcU9OA"
@@ -10113,7 +10137,7 @@
       "hook": "Scotland's dolphins keep killing another animal. They never eat it.",
       "published_at": "2026-11-19T22:40:00Z",
       "privacy": "public",
-      "views": 10,
+      "views": 12,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/2k6-MnJn4jo",
@@ -10169,7 +10193,7 @@
       "hook": "This spiny animal should die on a hot Australian afternoon. It doesn't.",
       "published_at": "2026-11-25T05:50:03Z",
       "privacy": "public",
-      "views": 21,
+      "views": 28,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/q08kkaiZFUM"
@@ -10193,7 +10217,7 @@
       "hook": "A wild cat in Spain does something no carnivore was ever seen doing.",
       "published_at": "2026-11-25T06:20:38Z",
       "privacy": "public",
-      "views": 19,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/otgPu858_iI"
@@ -10293,7 +10317,7 @@
       "hook": "Orcas were filmed making tools. No sea mammal had ever been seen doing that.",
       "published_at": "2026-11-26T03:20:07Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/zn1WRK1MhSg"
@@ -10317,10 +10341,34 @@
       "hook": "Wolves grabbed a newborn bison calf. Then the herd turned around.",
       "published_at": "2026-11-26T03:40:28Z",
       "privacy": "public",
-      "views": 171,
-      "likes": 5,
+      "views": 351,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/WwM1elNJYko"
+    },
+    "EE-2yaHh1Qw": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT28S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "One Leopard Hunts a Cave of 40,000 Bats, Up to 40 in a Night",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "One leopard found a meal that flies straight past its nose.",
+      "published_at": "2026-11-26T09:40:39Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/EE-2yaHh1Qw"
     },
     "oHOSiC4XktU": {
       "upload_status": "processed",
@@ -10374,7 +10422,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/x2_mV8zrkn8",
       "avg_view_seconds": 19.0,
-      "avg_view_percent": 62.9,
+      "avg_view_percent": 63.1,
       "shares": 0,
       "subscribers_gained": 2
     },
@@ -10397,7 +10445,7 @@
       "hook": "This ant queen takes over a colony without killing anyone herself.",
       "published_at": "2026-11-20T21:10:18Z",
       "privacy": "public",
-      "views": 19,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Qb2jGjZqCQ",
@@ -10453,7 +10501,7 @@
       "hook": "Orcas hunt great whites. But off Iceland, they run from something smaller.",
       "published_at": "2026-11-20T22:50:31Z",
       "privacy": "public",
-      "views": 28,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/F6jrJbuKAWQ",
@@ -10621,7 +10669,7 @@
       "hook": "Fishermen fear one shark for a strange reason: it might land in the boat.",
       "published_at": "2026-11-21T08:50:03Z",
       "privacy": "public",
-      "views": 863,
+      "views": 864,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/gjWX134b_AU",
@@ -10654,7 +10702,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/0vJdogyC_lY",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 44.6,
+      "avg_view_percent": 44.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -11097,7 +11145,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 124,
+      "views": 125,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo",
@@ -11457,7 +11505,7 @@
       "hook": "A pride of lions couldn't open this animal.",
       "published_at": "2026-11-25T00:00:27Z",
       "privacy": "public",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VGuE6YMJ58k"
@@ -11589,7 +11637,7 @@
       "hook": "City birds treat women differently from men. Nobody knows why.",
       "published_at": "2026-11-25T03:50:15Z",
       "privacy": "public",
-      "views": 17,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ImDa8hIXciU"
@@ -11665,7 +11713,7 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 58,
+      "views": 62,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E"
@@ -11717,7 +11765,7 @@
       "hook": "This dolphin hunts fish all day, but never eats them.",
       "published_at": "2026-11-26T02:15:13Z",
       "privacy": "public",
-      "views": 709,
+      "views": 926,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/U7uT6bTCo2Y"
@@ -11765,7 +11813,7 @@
       "hook": "The five oldest cave paintings ever found. France doesn't make the list.",
       "published_at": "2026-11-26T00:00:23Z",
       "privacy": "public",
-      "views": 9,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/anjtwli9-Gg"
@@ -11787,11 +11835,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A bumblebee digs a hole, climbs in, and buries itself. It didn't choose to.",
-      "published_at": "2026-11-26T05:00:29Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-26T05:30:19Z",
+      "privacy": "public",
+      "views": 6,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/uXXLUZsGuvM"
     },
     "sSBPt5yFR_c": {
@@ -11823,14 +11871,14 @@
       "subscribers_gained": 0
     },
     "-fWN5Y7mrIg": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT30S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -11839,11 +11887,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This owl is the size of a soda can. Birds twice its weight are on the menu.",
-      "published_at": "2026-11-26T05:01:46Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-26T05:50:13Z",
+      "privacy": "public",
+      "views": 44,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/-fWN5Y7mrIg"
     },
     "7E64Z48yaAs": {
