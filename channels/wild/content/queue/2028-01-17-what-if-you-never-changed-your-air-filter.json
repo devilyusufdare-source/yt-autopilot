@@ -1,0 +1,62 @@
+{
+  "id": "2028-01-17-what-if-you-never-changed-your-air-filter",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "home air filter",
+  "title": "What If You Never Changed Your Air Filter?",
+  "scenes": [
+    {
+      "text": "What if you never changed your air filter? Your home keeps breathing, through a dirtier and dirtier mask.",
+      "keywords": "furnace air filter"
+    },
+    {
+      "text": "The US Department of Energy says to clean or replace it every month or two in cooling season.",
+      "keywords": "air vent ceiling"
+    },
+    {
+      "text": "After a few months it clogs. Less air squeezes through, and the system has to work harder to cool.",
+      "keywords": "clogged dusty filter"
+    },
+    {
+      "text": "Then air sneaks around the filter, dumping dirt straight onto the cooling coil and insulating it.",
+      "keywords": "air conditioner coil"
+    },
+    {
+      "text": "A clean filter can cut air conditioner energy use by 5 to 15 percent. A clogged one throws that away.",
+      "keywords": "electric meter spinning"
+    },
+    {
+      "text": "Energy Star warns a dirty filter can damage the equipment and cause early failure. A cheap filter, an expensive mistake.",
+      "keywords": "broken air conditioner unit"
+    }
+  ],
+  "description": "What if you never changed your air filter? The US Department of Energy says a clogged filter cuts airflow, lets dirt bypass onto the evaporator coil, and that replacing it can lower air conditioner energy use by 5 to 15 percent.\nEnergy Star warns a dirty filter can also damage the equipment and lead to early failure.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "air filter",
+    "HVAC filter",
+    "furnace filter",
+    "air conditioner",
+    "energy saving",
+    "home maintenance",
+    "indoor air",
+    "household science",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#home",
+    "#science"
+  ],
+  "sources": [
+    "https://www.energy.gov/energysaver/maintaining-your-air-conditioner",
+    "https://www.energy.gov/sites/prod/files/2014/06/f16/HomeCooling101.pdf",
+    "https://www.energystar.gov/saveathome/heating-cooling/maintenance-checklist"
+  ],
+  "thumbnail_text": "DIRTY FILTER: UP TO 15% MORE",
+  "priority": 0,
+  "first_comment": "When did you last check your air filter? Tell us the home habit we should run through next."
+}

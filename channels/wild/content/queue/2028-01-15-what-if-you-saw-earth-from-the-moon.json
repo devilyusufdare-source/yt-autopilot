@@ -1,0 +1,63 @@
+{
+  "id": "2028-01-15-what-if-you-saw-earth-from-the-moon",
+  "format": "whatif",
+  "topic": "space",
+  "subject": "Earth from Moon",
+  "title": "What If You Saw Earth From the Moon?",
+  "scenes": [
+    {
+      "text": "What if you stood on the Moon and looked up at Earth? It would never move.",
+      "keywords": "Earth from lunar surface"
+    },
+    {
+      "text": "First, the size. Earth looks about four times wider than a full Moon does from here.",
+      "keywords": "full moon night sky"
+    },
+    {
+      "text": "At its fullest, Earth shines roughly fifteen times brighter than our full Moon, and you'd watch it spin every day.",
+      "keywords": "rotating Earth from space"
+    },
+    {
+      "text": "But it never rises or sets. The Moon keeps one face toward us, so Earth hangs in one spot.",
+      "keywords": "astronaut on moon"
+    },
+    {
+      "text": "Over each month it runs through phases, backwards. When we see a new Moon, you'd see a full Earth.",
+      "keywords": "moon phases sequence"
+    },
+    {
+      "text": "And on the Moon's far side? You could live your whole life there and never see Earth once.",
+      "keywords": "far side of moon"
+    }
+  ],
+  "description": "What if you saw Earth from the Moon? Earth would look about 3.7 times wider than the full Moon looks to us and up to about 15 times brighter.\nBecause the Moon is tidally locked, Earth stays nearly fixed in the sky over most of the near side, its phases run opposite to the Moon's, and it is never visible from the far side.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "earth from the moon",
+    "moon",
+    "earth phases",
+    "tidal locking",
+    "far side of the moon",
+    "lunar sky",
+    "astronomy",
+    "space facts",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#space",
+    "#science"
+  ],
+  "sources": [
+    "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question58.html",
+    "https://www.livescience.com/65831-earth-phases-from-moon.html",
+    "https://skyandtelescope.org/astronomy-blogs/explore-night-bob-king/observing-earth-from-the-moon/",
+    "https://earthsky.org/space/what-would-earth-look-like-from-the-moon"
+  ],
+  "thumbnail_text": "EARTH NEVER SETS ON THE MOON",
+  "priority": 7,
+  "first_comment": "Would you rather live on the near side with Earth always overhead, or the far side with the darkest skies? Tell us the space what-if we should run through next."
+}
