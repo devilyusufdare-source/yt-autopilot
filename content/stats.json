@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-26T20:12:37+00:00",
+  "updated_at": "2026-11-26T21:54:41+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 96,
     "channel_views": 127729,
-    "video_count": 465
+    "video_count": 467
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/KIMdvM7R0DI",
-      "https://youtube.com/shorts/X0nAilZAqek"
+      "https://youtube.com/shorts/EW_CJCY07xc"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/KIMdvM7R0DI"
+      "https://youtube.com/shorts/EW_CJCY07xc"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/KIMdvM7R0DI"
+      "https://youtube.com/shorts/EW_CJCY07xc"
     ]
   },
   "retention": {
@@ -93,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 465,
-  "total_views": 128787,
+  "total_videos": 466,
+  "total_views": 128808,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 354,
-      "avg_views": 298,
+      "videos": 355,
+      "avg_views": 297,
       "best_views": 1507
     },
     "human body": {
@@ -139,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 449,
-      "avg_views": 272,
+      "videos": 450,
+      "avg_views": 271,
       "over_1500": 3
     },
     "punch": {
@@ -151,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 379,
-      "avg_views": 239
+      "videos": 380,
+      "avg_views": 238
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -5829,7 +5828,7 @@
       "hook": "One meal turns these tadpoles into cannibals.",
       "published_at": "2026-11-16T08:50:22Z",
       "privacy": "public",
-      "views": 155,
+      "views": 156,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/d2tLlNejRRM",
@@ -6249,7 +6248,7 @@
       "hook": "The five highest bridges on Earth. All five were built by the same country.",
       "published_at": "2026-11-15T03:10:20Z",
       "privacy": "public",
-      "views": 97,
+      "views": 98,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/Fo0DQwKYbGI",
@@ -8093,7 +8092,7 @@
       "hook": "One soldier kept fighting World War Two until 1974.",
       "published_at": "2026-11-26T10:30:33Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DYaBvqqnwVE"
@@ -9853,7 +9852,7 @@
       "hook": "A deadly sea snake chases divers. It isn't hunting them.",
       "published_at": "2026-11-24T06:10:36Z",
       "privacy": "public",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Jg1yd4qKmLk",
@@ -9937,7 +9936,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 1172,
+      "views": 1181,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8",
@@ -10245,7 +10244,7 @@
       "hook": "A wild cat in Spain does something no carnivore was ever seen doing.",
       "published_at": "2026-11-25T06:20:38Z",
       "privacy": "public",
-      "views": 27,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/otgPu858_iI",
@@ -10325,7 +10324,7 @@
       "hook": "Every winter, this tiny animal shrinks its own skull.",
       "published_at": "2026-11-25T10:50:35Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/59sLe__3Ywk"
@@ -10397,7 +10396,7 @@
       "hook": "One leopard found a meal that flies straight past its nose.",
       "published_at": "2026-11-26T10:10:25Z",
       "privacy": "public",
-      "views": 902,
+      "views": 905,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/EE-2yaHh1Qw"
@@ -11065,7 +11064,7 @@
       "hook": "A spider near Lake Victoria craves human blood. It can't pierce your skin.",
       "published_at": "2026-11-22T20:30:04Z",
       "privacy": "public",
-      "views": 907,
+      "views": 906,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/M7aCq1QH0Ho",
@@ -11401,7 +11400,7 @@
       "hook": "Alchemists failed for centuries. Physicists finally turned lead into gold.",
       "published_at": "2026-11-24T03:20:19Z",
       "privacy": "public",
-      "views": 43,
+      "views": 44,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hO2AhQOFOpg",
@@ -11761,8 +11760,8 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 87,
-      "likes": 2,
+      "views": 84,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E"
     },
@@ -11837,7 +11836,7 @@
       "hook": "Seals can feel something your body is completely blind to.",
       "published_at": "2026-11-26T02:50:05Z",
       "privacy": "public",
-      "views": 171,
+      "views": 173,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/pC9hsHVWFZc"
@@ -11885,7 +11884,7 @@
       "hook": "A bumblebee digs a hole, climbs in, and buries itself. It didn't choose to.",
       "published_at": "2026-11-26T05:30:19Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXXLUZsGuvM"
@@ -11943,14 +11942,14 @@
       "url": "https://youtube.com/shorts/-fWN5Y7mrIg"
     },
     "KIMdvM7R0DI": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT36S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -11959,11 +11958,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five youngest monarchs in history. Number one was crowned before he was born.",
-      "published_at": "2026-11-26T20:12:26Z",
-      "privacy": "private",
+      "published_at": "2026-11-26T20:40:35Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/KIMdvM7R0DI"
     },
     "X0nAilZAqek": {
@@ -11983,12 +11982,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Snakes almost always hunt alone. In one Cuban cave, they team up.",
-      "published_at": "2026-11-26T20:10:38Z",
+      "published_at": "2026-11-26T21:00:26Z",
+      "privacy": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/X0nAilZAqek"
+    },
+    "EW_CJCY07xc": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Lions Now Kill Zebras 3 Times Less Often, Because of an Ant",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Kenya's lions are losing their hunts to an ant.",
+      "published_at": "2026-11-26T21:54:27Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/X0nAilZAqek"
+      "url": "https://youtube.com/shorts/EW_CJCY07xc"
     },
     "7E64Z48yaAs": {
       "upload_status": "processed",
