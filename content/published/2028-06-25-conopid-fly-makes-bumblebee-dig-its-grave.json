@@ -57,5 +57,21 @@
   ],
   "thumbnail_text": "FLY MAKES BEE DIG ITS GRAVE",
   "priority": 7,
-  "first_comment": "Brown-belted bumblebees fight back: they kill about 30% of the larvae inside them by walling them off. Which parasite creeps you out the most?"
+  "first_comment": "Brown-belted bumblebees fight back: they kill about 30% of the larvae inside them by walling them off. Which parasite creeps you out the most?",
+  "youtube_id": "uXXLUZsGuvM",
+  "url": "https://youtube.com/shorts/uXXLUZsGuvM",
+  "uploaded_at": "2026-11-26T05:00:33+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-26T05:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 31.9,
+  "style": "classic",
+  "kind": "shorts"
 }

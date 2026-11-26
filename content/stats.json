@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-26T03:07:29+00:00",
+  "updated_at": "2026-11-26T05:01:54+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 92,
+    "subscribers": 93,
     "channel_views": 125563,
-    "video_count": 459
+    "video_count": 461
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/zn1WRK1MhSg",
-      "https://youtube.com/shorts/WwM1elNJYko"
+      "https://youtube.com/shorts/uXXLUZsGuvM",
+      "https://youtube.com/shorts/-fWN5Y7mrIg"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/WwM1elNJYko"
+      "https://youtube.com/shorts/-fWN5Y7mrIg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/WwM1elNJYko"
+      "https://youtube.com/shorts/-fWN5Y7mrIg"
     ]
   },
   "retention": {
@@ -93,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 459,
-  "total_views": 126217,
+  "total_videos": 461,
+  "total_views": 126932,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 350,
-      "avg_views": 294,
+      "videos": 352,
+      "avg_views": 295,
       "best_views": 1507
     },
     "human body": {
@@ -118,7 +118,7 @@
     },
     "history": {
       "videos": 19,
-      "avg_views": 108,
+      "avg_views": 109,
       "best_views": 1115
     },
     "space": {
@@ -139,7 +139,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 443,
+      "videos": 445,
       "avg_views": 270,
       "over_1500": 3
     },
@@ -151,7 +151,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 373,
+      "videos": 375,
       "avg_views": 236
     },
     "en-US-BrianNeural": {
@@ -2161,7 +2161,7 @@
       "hook": "This fish eats birds, breathes air, and crawls to the next pond when it's done.",
       "published_at": "2026-11-10T18:00:36Z",
       "privacy": "public",
-      "views": 119,
+      "views": 120,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/IN5A3Mj60ok",
@@ -4317,7 +4317,7 @@
       "hook": "This fish eats meals bigger than its own body. Then the meal fights back.",
       "published_at": "2026-11-14T19:00:20Z",
       "privacy": "public",
-      "views": 830,
+      "views": 831,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg",
@@ -4653,7 +4653,7 @@
       "hook": "The biggest bomb ever tested shattered windows 560 miles away.",
       "published_at": "2026-10-21T18:00:08Z",
       "privacy": "public",
-      "views": 22,
+      "views": 24,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/FVTCw9Lx6wM",
@@ -8817,7 +8817,7 @@
       "hook": "Something inside this fish wants it to get eaten.",
       "published_at": "2026-11-20T09:10:17Z",
       "privacy": "public",
-      "views": 528,
+      "views": 529,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM",
@@ -10037,7 +10037,7 @@
       "hook": "A worm lives its whole life inside a glacier. Hold it in your hand and it dies.",
       "published_at": "2026-11-25T04:20:27Z",
       "privacy": "public",
-      "views": 8,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VaNe8GcU9OA"
@@ -10089,7 +10089,7 @@
       "hook": "An aquarium animal refused every meal for five years. And it looked perfectly fine.",
       "published_at": "2026-11-25T04:40:31Z",
       "privacy": "public",
-      "views": 22,
+      "views": 23,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/4RbyZ2WP2lg"
@@ -10113,7 +10113,7 @@
       "hook": "Scotland's dolphins keep killing another animal. They never eat it.",
       "published_at": "2026-11-19T22:40:00Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/2k6-MnJn4jo",
@@ -10170,7 +10170,7 @@
       "published_at": "2026-11-25T05:50:03Z",
       "privacy": "public",
       "views": 21,
-      "likes": 1,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/q08kkaiZFUM"
     },
@@ -10193,7 +10193,7 @@
       "hook": "A wild cat in Spain does something no carnivore was ever seen doing.",
       "published_at": "2026-11-25T06:20:38Z",
       "privacy": "public",
-      "views": 17,
+      "views": 19,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/otgPu858_iI"
@@ -10291,22 +10291,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Orcas were filmed making tools. No sea mammal had ever been seen doing that.",
-      "published_at": "2026-11-26T02:22:40Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-26T03:20:07Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/zn1WRK1MhSg"
     },
     "WwM1elNJYko": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10315,11 +10315,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Wolves grabbed a newborn bison calf. Then the herd turned around.",
-      "published_at": "2026-11-26T03:07:21Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-26T03:40:28Z",
+      "privacy": "public",
+      "views": 171,
+      "likes": 5,
+      "comments": 1,
       "url": "https://youtube.com/shorts/WwM1elNJYko"
     },
     "oHOSiC4XktU": {
@@ -10509,7 +10509,7 @@
       "hook": "A fly the size of a grain of rice hunts like a guided missile.",
       "published_at": "2026-11-21T00:00:26Z",
       "privacy": "public",
-      "views": 145,
+      "views": 147,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6RusQeLzNC8",
@@ -11097,7 +11097,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 125,
+      "views": 124,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo",
@@ -11665,7 +11665,7 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 42,
+      "views": 58,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E"
@@ -11717,8 +11717,8 @@
       "hook": "This dolphin hunts fish all day, but never eats them.",
       "published_at": "2026-11-26T02:15:13Z",
       "privacy": "public",
-      "views": 238,
-      "likes": 1,
+      "views": 709,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/U7uT6bTCo2Y"
     },
@@ -11741,9 +11741,9 @@
       "hook": "Seals can feel something your body is completely blind to.",
       "published_at": "2026-11-26T02:50:05Z",
       "privacy": "public",
-      "views": 23,
+      "views": 56,
       "likes": 1,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/pC9hsHVWFZc"
     },
     "anjtwli9-Gg": {
@@ -11765,10 +11765,34 @@
       "hook": "The five oldest cave paintings ever found. France doesn't make the list.",
       "published_at": "2026-11-26T00:00:23Z",
       "privacy": "public",
-      "views": 2,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/anjtwli9-Gg"
+    },
+    "uXXLUZsGuvM": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT32S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Fly Turns a Bumblebee Into a Zombie That Digs Its Own Grave",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A bumblebee digs a hole, climbs in, and buries itself. It didn't choose to.",
+      "published_at": "2026-11-26T05:00:29Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/uXXLUZsGuvM"
     },
     "sSBPt5yFR_c": {
       "upload_status": "processed",
@@ -11797,6 +11821,30 @@
       "avg_view_percent": 63.0,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "-fWN5Y7mrIg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "An Owl the Size of a Soda Can Kills Birds Twice Its Weight",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This owl is the size of a soda can. Birds twice its weight are on the menu.",
+      "published_at": "2026-11-26T05:01:46Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/-fWN5Y7mrIg"
     },
     "7E64Z48yaAs": {
       "upload_status": "processed",
