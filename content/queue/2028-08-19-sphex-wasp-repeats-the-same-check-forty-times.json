@@ -1,0 +1,62 @@
+{
+  "id": "2028-08-19-sphex-wasp-repeats-the-same-check-forty-times",
+  "format": "fact",
+  "topic": "animals",
+  "subject": "digger wasp",
+  "title": "A Scientist Fooled This Wasp 40 Times in a Row With the Same Trick",
+  "scenes": [
+    {
+      "text": "A scientist fooled this wasp forty times in a row, with the same trick.",
+      "keywords": "digger wasp"
+    },
+    {
+      "text": "The Sphex wasp stings a cricket so it's paralysed but still alive, then drags it home.",
+      "keywords": "wasp carrying cricket"
+    },
+    {
+      "text": "At the burrow, it drops the cricket at the door and goes inside to check.",
+      "keywords": "digger wasp burrow"
+    },
+    {
+      "text": "Jean-Henri Fabre slid the cricket a few inches away while the wasp was inside.",
+      "keywords": "cricket insect ground"
+    },
+    {
+      "text": "The wasp came out, dragged it back to the door, and went in to check all over again.",
+      "keywords": "digger wasp"
+    },
+    {
+      "text": "Forty times, the same wasp, the same check. It never just pulled the cricket in.",
+      "keywords": "digger wasp close up"
+    }
+  ],
+  "description": "The French naturalist Jean-Henri Fabre moved a Sphex wasp's paralysed cricket a few inches every time the wasp went into its burrow to inspect it.\nOne wasp repeated the whole routine forty times. Its larva later feeds on the living, paralysed cricket.\nWould you call that instinct or stubbornness?",
+  "tags": [
+    "sphex wasp",
+    "digger wasp",
+    "Fabre",
+    "wasp behavior",
+    "insect instinct",
+    "cricket",
+    "sphexish",
+    "insect facts",
+    "animal facts",
+    "weird animals",
+    "nature facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#insects",
+    "#wasp",
+    "#animals"
+  ],
+  "sources": [
+    "https://gwern.net/doc/philosophy/mind/2013-keijzer.pdf",
+    "https://en.wikipedia.org/wiki/Sphex"
+  ],
+  "thumbnail_text": "FOOLED 40 TIMES IN A ROW",
+  "priority": 6,
+  "first_comment": "Later experiments found some wasps give up and drag the cricket straight in after a few tries. How many times would you check?"
+}
