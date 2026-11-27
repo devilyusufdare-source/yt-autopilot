@@ -1,28 +1,27 @@
 {
-  "updated_at": "2026-11-27T02:09:51+00:00",
+  "updated_at": "2026-11-27T02:51:10+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 97,
-    "channel_views": 127729,
-    "video_count": 471
+    "channel_views": 129149,
+    "video_count": 473
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/vekm1K42Fr8",
-      "https://youtube.com/shorts/-hNPmwMTw5A",
-      "https://youtube.com/shorts/l4uoo9tjBLw"
+      "https://youtube.com/shorts/l4uoo9tjBLw",
+      "https://youtube.com/shorts/gt6OcmhFvRU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/l4uoo9tjBLw"
+      "https://youtube.com/shorts/gt6OcmhFvRU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/l4uoo9tjBLw"
+      "https://youtube.com/shorts/gt6OcmhFvRU"
     ]
   },
   "retention": {
@@ -94,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 472,
-  "total_views": 129398,
+  "total_videos": 473,
+  "total_views": 129517,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -108,7 +107,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 361,
+      "videos": 362,
       "avg_views": 294,
       "best_views": 1507
     },
@@ -140,7 +139,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 456,
+      "videos": 457,
       "avg_views": 269,
       "over_1500": 3
     },
@@ -152,7 +151,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 386,
+      "videos": 387,
       "avg_views": 236
     },
     "en-US-BrianNeural": {
@@ -8094,7 +8093,7 @@
       "hook": "One soldier kept fighting World War Two until 1974.",
       "published_at": "2026-11-26T10:30:33Z",
       "privacy": "public",
-      "views": 7,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DYaBvqqnwVE"
@@ -9210,7 +9209,7 @@
       "hook": "Science once named a worm. It was an octopus's arm.",
       "published_at": "2026-11-22T00:30:01Z",
       "privacy": "public",
-      "views": 124,
+      "views": 125,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc",
@@ -10374,7 +10373,7 @@
       "hook": "Wolves grabbed a newborn bison calf. Then the herd turned around.",
       "published_at": "2026-11-26T03:40:28Z",
       "privacy": "public",
-      "views": 819,
+      "views": 817,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/WwM1elNJYko"
@@ -10450,7 +10449,7 @@
       "hook": "A cow in Austria uses a tool. And she knows which end to hold.",
       "published_at": "2026-11-27T00:50:12Z",
       "privacy": "public",
-      "views": 55,
+      "views": 78,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1s6S1orvGio"
@@ -10528,11 +10527,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "On one island, young monkeys started stealing babies, and they don't eat them.",
-      "published_at": "2026-11-27T01:01:16Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-27T02:15:35Z",
+      "privacy": "public",
+      "views": 8,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/vekm1K42Fr8"
     },
     "tJd06ONsRyk": {
@@ -10580,8 +10579,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This fly flies exactly once in its life. Then it throws its wings away.",
-      "published_at": "2026-11-27T01:41:36Z",
-      "privacy": "private",
+      "published_at": "2026-11-27T02:50:00Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -10616,14 +10615,14 @@
       "subscribers_gained": 0
     },
     "l4uoo9tjBLw": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10638,6 +10637,30 @@
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/l4uoo9tjBLw"
+    },
+    "gt6OcmhFvRU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Spider Makes Its Captured Firefly Flash Like a Female",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This spider catches one firefly, then uses it to catch more.",
+      "published_at": "2026-11-27T02:51:01Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/gt6OcmhFvRU"
     },
     "wgJfNru7RlQ": {
       "upload_status": "processed",
@@ -11274,7 +11297,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 126,
+      "views": 125,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo",
@@ -11302,7 +11325,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 369,
+      "views": 368,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU",
@@ -11470,7 +11493,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 510,
+      "views": 509,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg",
@@ -11526,7 +11549,7 @@
       "hook": "Orcas are top predators. Some keep handing their food to humans.",
       "published_at": "2026-11-24T04:30:28Z",
       "privacy": "public",
-      "views": 763,
+      "views": 762,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/L-m0jBWJt7M",
@@ -11858,7 +11881,7 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 97,
+      "views": 105,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E"
@@ -11910,7 +11933,7 @@
       "hook": "This dolphin hunts fish all day, but never eats them.",
       "published_at": "2026-11-26T02:15:13Z",
       "privacy": "public",
-      "views": 938,
+      "views": 939,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/U7uT6bTCo2Y"
@@ -11934,7 +11957,7 @@
       "hook": "Seals can feel something your body is completely blind to.",
       "published_at": "2026-11-26T02:50:05Z",
       "privacy": "public",
-      "views": 195,
+      "views": 219,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/pC9hsHVWFZc"
@@ -11982,7 +12005,7 @@
       "hook": "A bumblebee digs a hole, climbs in, and buries itself. It didn't choose to.",
       "published_at": "2026-11-26T05:30:19Z",
       "privacy": "public",
-      "views": 18,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXXLUZsGuvM"
@@ -12130,7 +12153,7 @@
       "hook": "One comb jelly had two mouths. Nobody knew why.",
       "published_at": "2026-11-27T00:00:18Z",
       "privacy": "public",
-      "views": 24,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PAuHiRuFCdc"
@@ -12154,8 +12177,8 @@
       "hook": "This wasp hunts ants that could tear it apart.",
       "published_at": "2026-11-27T00:30:20Z",
       "privacy": "public",
-      "views": 184,
-      "likes": 5,
+      "views": 249,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/Nk3pj_sw7bU"
     },
