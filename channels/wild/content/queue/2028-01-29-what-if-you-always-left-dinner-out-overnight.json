@@ -1,0 +1,63 @@
+{
+  "id": "2028-01-29-what-if-you-always-left-dinner-out-overnight",
+  "format": "whatif",
+  "topic": "body",
+  "subject": "leftover food",
+  "title": "What If You Always Left Dinner Out Overnight?",
+  "scenes": [
+    {
+      "text": "What if you always left dinner on the counter overnight? Reheating it won't save you.",
+      "keywords": "leftover food on counter"
+    },
+    {
+      "text": "Between 40 and 140 degrees Fahrenheit, food bacteria can double every 20 minutes.",
+      "keywords": "bacteria growing petri dish"
+    },
+    {
+      "text": "That's why food safety experts set the limit at two hours out, or one hour above 90 degrees.",
+      "keywords": "kitchen clock"
+    },
+    {
+      "text": "By morning, after eight hours, a few bacteria could have doubled 24 times, into millions.",
+      "keywords": "leftover pizza box"
+    },
+    {
+      "text": "Some, like staph, leave behind a toxin that heat can't destroy.",
+      "keywords": "microwave reheating food"
+    },
+    {
+      "text": "So you can kill the bacteria and still get sick from what they left. The fridge was the real cooking step.",
+      "keywords": "refrigerator food shelves"
+    }
+  ],
+  "description": "What if you always left dinner out overnight? In the danger zone of 40 to 140 degrees Fahrenheit, bacteria can double about every 20 minutes, so the USDA advises no more than two hours out, one hour above 90 degrees.\nSome bacteria, such as Staphylococcus aureus, make a heat-resistant toxin, so reheating doesn't make the food safe again.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "food left out overnight",
+    "food safety",
+    "danger zone",
+    "leftovers",
+    "bacteria",
+    "two hour rule",
+    "kitchen tips",
+    "food poisoning",
+    "everyday science",
+    "USDA",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#food",
+    "#science"
+  ],
+  "sources": [
+    "https://www.fsis.usda.gov/news-events/news-press-releases/usda-urges-consumers-keep-clear-danger-zone-summer",
+    "https://food.unl.edu/article/will-reheating-food-make-it-safe-if-you-forget-refrigerate-it",
+    "https://extension.illinois.edu/blogs/live-well-eat-well/2016-09-16-how-important-2-hour-rule"
+  ],
+  "thumbnail_text": "REHEATING WON'T SAVE IT",
+  "priority": 6,
+  "first_comment": "Be honest: pizza left out overnight, would you eat it? Tell us the what-if you want next."
+}
