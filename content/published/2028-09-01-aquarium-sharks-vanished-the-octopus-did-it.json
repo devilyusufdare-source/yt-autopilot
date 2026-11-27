@@ -57,5 +57,21 @@
   ],
   "thumbnail_text": "OCTOPUS VS SHARK",
   "priority": 7,
-  "first_comment": "Each arm of a giant Pacific octopus carries up to 280 suckers. Octopus or shark: who wins in open water?"
+  "first_comment": "Each arm of a giant Pacific octopus carries up to 280 suckers. Octopus or shark: who wins in open water?",
+  "youtube_id": "5y1u_IU3E44",
+  "url": "https://youtube.com/shorts/5y1u_IU3E44",
+  "uploaded_at": "2026-11-27T21:38:58+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-27T22:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 9,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 24.0,
+  "style": "classic",
+  "kind": "shorts"
 }

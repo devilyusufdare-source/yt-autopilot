@@ -1,37 +1,38 @@
 {
-  "updated_at": "2026-11-27T19:56:09+00:00",
+  "updated_at": "2026-11-27T21:39:03+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 97,
     "channel_views": 133330,
-    "video_count": 478
+    "video_count": 479
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/mgxevWGmVro"
+      "https://youtube.com/shorts/3IMQEB2rmEY",
+      "https://youtube.com/shorts/5y1u_IU3E44"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/mgxevWGmVro"
+      "https://youtube.com/shorts/5y1u_IU3E44"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/mgxevWGmVro"
+      "https://youtube.com/shorts/5y1u_IU3E44"
     ]
   },
   "retention": {
-    "videos_with_data": 434,
-    "avg_view_percent": 55.0,
+    "videos_with_data": 448,
+    "avg_view_percent": 54.9,
     "by_topic": {
-      "psychology": 68.1,
-      "science": 59.1,
-      "animals": 52.4,
+      "psychology": 67.8,
+      "science": 59.2,
+      "animals": 52.7,
       "human body": 83.7,
-      "history": 60.2,
+      "history": 55.6,
       "space": 63.8,
       "technology": 57.9,
       "games": 23.8
@@ -85,15 +86,15 @@
         "views": 8
       },
       {
-        "title": "This Male Fish Merges Into a Female and Her Body Doesn't Fight Back",
-        "avg_view_percent": 20.9,
-        "views": 64
+        "title": "The 5 Oldest Photographs Ever Taken, Ranked (#1 Took Hours to Expose)",
+        "avg_view_percent": 18.3,
+        "views": 3
       }
     ]
   },
   "retention_note": null,
-  "total_videos": 477,
-  "total_views": 134649,
+  "total_videos": 479,
+  "total_views": 134724,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 364,
-      "avg_views": 305,
+      "videos": 366,
+      "avg_views": 304,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 461,
-      "avg_views": 277,
+      "videos": 463,
+      "avg_views": 276,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 391,
-      "avg_views": 246
+      "videos": 393,
+      "avg_views": 245
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -224,16 +225,16 @@
       "hook": "Scientists shot tiny animals into open space. They came back alive."
     },
     {
+      "title": "The 5 Longest Snakes Alive, Ranked (The Anaconda Is Only #5)",
+      "topic": "animals",
+      "views": 1275,
+      "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five."
+    },
+    {
       "title": "There's a Planet Where It Rains Glass Sideways",
       "topic": "space",
       "views": 1269,
       "hook": "There's a planet where it rains glass. Sideways."
-    },
-    {
-      "title": "A Snake Longer Than a School Bus Once Lived in India",
-      "topic": "animals",
-      "views": 1248,
-      "hook": "A snake longer than a school bus once slithered through India."
     }
   ],
   "videos": {
@@ -1801,7 +1802,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/lbhBeVsyfDY",
       "avg_view_seconds": 20.0,
-      "avg_view_percent": 51.8,
+      "avg_view_percent": 51.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -2949,7 +2950,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/_qJaFqDvZBE",
       "avg_view_seconds": 20.0,
-      "avg_view_percent": 55.8,
+      "avg_view_percent": 54.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4321,7 +4322,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/jFIEFy2VsJg",
       "avg_view_seconds": 20.0,
-      "avg_view_percent": 45.9,
+      "avg_view_percent": 45.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4461,7 +4462,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/DnIkr_Mim1Q",
       "avg_view_seconds": 8.0,
-      "avg_view_percent": 26.0,
+      "avg_view_percent": 26.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -5245,7 +5246,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/l57MjoYS9NY",
       "avg_view_seconds": 11.0,
-      "avg_view_percent": 38.0,
+      "avg_view_percent": 36.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -6140,8 +6141,8 @@
       "likes": 12,
       "comments": 1,
       "url": "https://youtube.com/shorts/KBYp_uwN89M",
-      "avg_view_seconds": 15.0,
-      "avg_view_percent": 48.4,
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 48.9,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -7316,8 +7317,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/E-1SVtzKHG8",
-      "avg_view_seconds": 30.0,
-      "avg_view_percent": 98.5,
+      "avg_view_seconds": 29.0,
+      "avg_view_percent": 96.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -7485,7 +7486,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Zubwd7G6EI0",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 41.3,
+      "avg_view_percent": 41.0,
       "shares": 1,
       "subscribers_gained": 0
     },
@@ -7508,7 +7509,7 @@
       "hook": "Dead seals kept washing ashore with one perfect spiral cut.",
       "published_at": "2026-11-18T03:10:17Z",
       "privacy": "public",
-      "views": 183,
+      "views": 184,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/vi3MeY9XEsg",
@@ -7541,7 +7542,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/ELTlAcIa1Rs",
       "avg_view_seconds": 16.0,
-      "avg_view_percent": 56.6,
+      "avg_view_percent": 56.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -7708,8 +7709,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/sr9gf5YccLc",
-      "avg_view_seconds": 14.0,
-      "avg_view_percent": 42.2,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 45.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -7820,8 +7821,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/xN4pLHNtTGY",
-      "avg_view_seconds": 18.0,
-      "avg_view_percent": 55.6,
+      "avg_view_seconds": 15.0,
+      "avg_view_percent": 48.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -7933,7 +7934,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/qvqXjZ5X8GI",
       "avg_view_seconds": 16.0,
-      "avg_view_percent": 46.0,
+      "avg_view_percent": 46.1,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -8045,7 +8046,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
       "avg_view_seconds": 14.0,
-      "avg_view_percent": 54.6,
+      "avg_view_percent": 54.5,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -8071,7 +8072,11 @@
       "views": 0,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/qzZAIhnbG5M"
+      "url": "https://youtube.com/shorts/qzZAIhnbG5M",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "DYaBvqqnwVE": {
       "upload_status": "processed",
@@ -8341,7 +8346,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/vASc6xS-jZI",
       "avg_view_seconds": 10.0,
-      "avg_view_percent": 29.9,
+      "avg_view_percent": 30.0,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -8364,7 +8369,7 @@
       "hook": "They're one day old. Now they have to jump.",
       "published_at": "2026-11-19T04:40:13Z",
       "privacy": "public",
-      "views": 910,
+      "views": 912,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/cXzy_DCv0Rg",
@@ -8420,7 +8425,7 @@
       "hook": "A giant catfish throws itself onto land to catch pigeons.",
       "published_at": "2026-10-28T18:20:25Z",
       "privacy": "public",
-      "views": 502,
+      "views": 503,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/78YbRLetQWA",
@@ -8761,7 +8766,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/rQZIO4AScUM",
       "avg_view_seconds": 17.0,
-      "avg_view_percent": 47.1,
+      "avg_view_percent": 46.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -8868,12 +8873,12 @@
       "hook": "Something inside this fish wants it to get eaten.",
       "published_at": "2026-11-20T09:10:17Z",
       "privacy": "public",
-      "views": 535,
+      "views": 536,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/FA4ZxM1djlM",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 56.7,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 57.2,
       "shares": 1,
       "subscribers_gained": 0
     },
@@ -8928,8 +8933,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/lNpn_w2Fesg",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 29.5,
+      "avg_view_seconds": 13.0,
+      "avg_view_percent": 30.5,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -9404,8 +9409,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/TRO7NWyuM5Q",
-      "avg_view_seconds": 42.0,
-      "avg_view_percent": 107.4,
+      "avg_view_seconds": 23.0,
+      "avg_view_percent": 58.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -9484,7 +9489,7 @@
       "hook": "Millions of these crayfish exist. They're all one animal.",
       "published_at": "2026-11-23T00:40:22Z",
       "privacy": "public",
-      "views": 228,
+      "views": 229,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM",
@@ -9568,12 +9573,12 @@
       "hook": "Spiders eat snakes. On every continent but one.",
       "published_at": "2026-11-23T09:40:26Z",
       "privacy": "public",
-      "views": 131,
+      "views": 132,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BU5Vn7FN7oY",
-      "avg_view_seconds": 19.0,
-      "avg_view_percent": 44.1,
+      "avg_view_seconds": 20.0,
+      "avg_view_percent": 45.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -9629,7 +9634,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/QjopkSF-yI8",
       "avg_view_seconds": 13.0,
-      "avg_view_percent": 34.9,
+      "avg_view_percent": 35.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -9881,7 +9886,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/Jg1yd4qKmLk",
       "avg_view_seconds": 12.0,
-      "avg_view_percent": 40.0,
+      "avg_view_percent": 41.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -9960,7 +9965,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 1236,
+      "views": 1275,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8",
@@ -9992,8 +9997,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZyM3TzsL-bQ",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 42.0,
+      "avg_view_percent": 109.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -10076,8 +10081,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1-Tq6_60EWQ",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 18.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -10104,8 +10109,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VaNe8GcU9OA",
-      "avg_view_seconds": 12.0,
-      "avg_view_percent": 39.7,
+      "avg_view_seconds": 30.0,
+      "avg_view_percent": 94.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -10160,8 +10165,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/4RbyZ2WP2lg",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 35.3,
+      "avg_view_seconds": 38.0,
+      "avg_view_percent": 100.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -10188,8 +10193,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/2k6-MnJn4jo",
-      "avg_view_seconds": 24.0,
-      "avg_view_percent": 66.8,
+      "avg_view_seconds": 25.0,
+      "avg_view_percent": 69.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -10244,8 +10249,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/q08kkaiZFUM",
-      "avg_view_seconds": 10.0,
-      "avg_view_percent": 33.3,
+      "avg_view_seconds": 7.0,
+      "avg_view_percent": 23.2,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -10272,8 +10277,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/otgPu858_iI",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 14.0,
+      "avg_view_percent": 50.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -10327,7 +10332,11 @@
       "views": 6,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/NaRqPn4-tVM"
+      "url": "https://youtube.com/shorts/NaRqPn4-tVM",
+      "avg_view_seconds": 17.0,
+      "avg_view_percent": 55.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "59sLe__3Ywk": {
       "upload_status": "processed",
@@ -10348,10 +10357,14 @@
       "hook": "Every winter, this tiny animal shrinks its own skull.",
       "published_at": "2026-11-25T10:50:35Z",
       "privacy": "public",
-      "views": 16,
+      "views": 20,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/59sLe__3Ywk"
+      "url": "https://youtube.com/shorts/59sLe__3Ywk",
+      "avg_view_seconds": 5.0,
+      "avg_view_percent": 18.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "zn1WRK1MhSg": {
       "upload_status": "processed",
@@ -10375,7 +10388,11 @@
       "views": 12,
       "likes": 1,
       "comments": 1,
-      "url": "https://youtube.com/shorts/zn1WRK1MhSg"
+      "url": "https://youtube.com/shorts/zn1WRK1MhSg",
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 36.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "WwM1elNJYko": {
       "upload_status": "processed",
@@ -10396,10 +10413,14 @@
       "hook": "Wolves grabbed a newborn bison calf. Then the herd turned around.",
       "published_at": "2026-11-26T03:40:28Z",
       "privacy": "public",
-      "views": 968,
+      "views": 969,
       "likes": 8,
       "comments": 1,
-      "url": "https://youtube.com/shorts/WwM1elNJYko"
+      "url": "https://youtube.com/shorts/WwM1elNJYko",
+      "avg_view_seconds": 16.0,
+      "avg_view_percent": 58.8,
+      "shares": 0,
+      "subscribers_gained": 2
     },
     "EE-2yaHh1Qw": {
       "upload_status": "processed",
@@ -10472,7 +10493,7 @@
       "hook": "A cow in Austria uses a tool. And she knows which end to hold.",
       "published_at": "2026-11-27T00:50:12Z",
       "privacy": "public",
-      "views": 776,
+      "views": 774,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/1s6S1orvGio"
@@ -10528,8 +10549,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/2Qb2jGjZqCQ",
-      "avg_view_seconds": 23.0,
-      "avg_view_percent": 85.4,
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 86.7,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -10604,7 +10625,7 @@
       "hook": "This fly flies exactly once in its life. Then it throws its wings away.",
       "published_at": "2026-11-27T02:50:00Z",
       "privacy": "public",
-      "views": 427,
+      "views": 436,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-hNPmwMTw5A"
@@ -10656,7 +10677,7 @@
       "hook": "A hippo can weigh over two tons. When it runs, it leaves the ground.",
       "published_at": "2026-11-27T03:20:07Z",
       "privacy": "public",
-      "views": 925,
+      "views": 921,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/l4uoo9tjBLw"
@@ -10680,7 +10701,7 @@
       "hook": "This spider catches one firefly, then uses it to catch more.",
       "published_at": "2026-11-27T03:40:33Z",
       "privacy": "public",
-      "views": 935,
+      "views": 931,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/gt6OcmhFvRU"
@@ -11016,8 +11037,8 @@
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/COLUcCiSS2c",
-      "avg_view_seconds": 13.0,
-      "avg_view_percent": 42.9,
+      "avg_view_seconds": 12.0,
+      "avg_view_percent": 40.8,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -11045,7 +11066,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ",
       "avg_view_seconds": 17.0,
-      "avg_view_percent": 57.6,
+      "avg_view_percent": 57.8,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -11320,12 +11341,12 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 129,
+      "views": 130,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo",
       "avg_view_seconds": 17.0,
-      "avg_view_percent": 64.4,
+      "avg_view_percent": 63.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -11353,7 +11374,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU",
       "avg_view_seconds": 10.0,
-      "avg_view_percent": 40.4,
+      "avg_view_percent": 39.9,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -11436,8 +11457,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/siGA3-PQ2IY",
-      "avg_view_seconds": 9.0,
-      "avg_view_percent": 38.4,
+      "avg_view_seconds": 10.0,
+      "avg_view_percent": 38.8,
       "shares": 0,
       "subscribers_gained": 1
     },
@@ -11688,8 +11709,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/VGuE6YMJ58k",
-      "avg_view_seconds": 0.0,
-      "avg_view_percent": 0.0,
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 33.3,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -11772,8 +11793,8 @@
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/K3Zno95QGTk",
-      "avg_view_seconds": 9.0,
-      "avg_view_percent": 31.1,
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 37.0,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -11828,8 +11849,8 @@
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/ImDa8hIXciU",
-      "avg_view_seconds": 20.0,
-      "avg_view_percent": 63.0,
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 59.4,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -11883,7 +11904,11 @@
       "views": 4,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/Lcguh13-9Xk"
+      "url": "https://youtube.com/shorts/Lcguh13-9Xk",
+      "avg_view_seconds": 19.0,
+      "avg_view_percent": 72.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "NyxwrkQfC8E": {
       "upload_status": "processed",
@@ -11904,10 +11929,14 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 140,
+      "views": 144,
       "likes": 2,
       "comments": 1,
-      "url": "https://youtube.com/shorts/NyxwrkQfC8E"
+      "url": "https://youtube.com/shorts/NyxwrkQfC8E",
+      "avg_view_seconds": 11.0,
+      "avg_view_percent": 37.8,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "O2zL5iipSFs": {
       "upload_status": "processed",
@@ -11959,7 +11988,11 @@
       "views": 961,
       "likes": 5,
       "comments": 1,
-      "url": "https://youtube.com/shorts/U7uT6bTCo2Y"
+      "url": "https://youtube.com/shorts/U7uT6bTCo2Y",
+      "avg_view_seconds": 9.0,
+      "avg_view_percent": 33.9,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "pC9hsHVWFZc": {
       "upload_status": "processed",
@@ -11980,10 +12013,14 @@
       "hook": "Seals can feel something your body is completely blind to.",
       "published_at": "2026-11-26T02:50:05Z",
       "privacy": "public",
-      "views": 332,
+      "views": 334,
       "likes": 4,
       "comments": 1,
-      "url": "https://youtube.com/shorts/pC9hsHVWFZc"
+      "url": "https://youtube.com/shorts/pC9hsHVWFZc",
+      "avg_view_seconds": 24.0,
+      "avg_view_percent": 77.1,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "anjtwli9-Gg": {
       "upload_status": "processed",
@@ -12007,7 +12044,11 @@
       "views": 16,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/anjtwli9-Gg"
+      "url": "https://youtube.com/shorts/anjtwli9-Gg",
+      "avg_view_seconds": 8.0,
+      "avg_view_percent": 19.4,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "uXXLUZsGuvM": {
       "upload_status": "processed",
@@ -12031,7 +12072,11 @@
       "views": 34,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/uXXLUZsGuvM"
+      "url": "https://youtube.com/shorts/uXXLUZsGuvM",
+      "avg_view_seconds": 0.0,
+      "avg_view_percent": 0.0,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "sSBPt5yFR_c": {
       "upload_status": "processed",
@@ -12083,7 +12128,11 @@
       "views": 58,
       "likes": 0,
       "comments": 1,
-      "url": "https://youtube.com/shorts/-fWN5Y7mrIg"
+      "url": "https://youtube.com/shorts/-fWN5Y7mrIg",
+      "avg_view_seconds": 21.0,
+      "avg_view_percent": 71.3,
+      "shares": 0,
+      "subscribers_gained": 0
     },
     "KIMdvM7R0DI": {
       "upload_status": "processed",
@@ -12128,7 +12177,7 @@
       "hook": "Snakes almost always hunt alone. In one Cuban cave, they team up.",
       "published_at": "2026-11-26T21:00:26Z",
       "privacy": "public",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/X0nAilZAqek"
@@ -12152,7 +12201,7 @@
       "hook": "Kenya's lions are losing their hunts to an ant.",
       "published_at": "2026-11-26T22:20:01Z",
       "privacy": "public",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EW_CJCY07xc"
@@ -12200,7 +12249,7 @@
       "hook": "The planets closest to Earth, on average. Venus doesn't win.",
       "published_at": "2026-11-27T10:30:37Z",
       "privacy": "public",
-      "views": 179,
+      "views": 200,
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/-0FIGaAgCXg"
@@ -12224,7 +12273,7 @@
       "hook": "This wasp hunts ants that could tear it apart.",
       "published_at": "2026-11-27T00:30:20Z",
       "privacy": "public",
-      "views": 958,
+      "views": 951,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/Nk3pj_sw7bU"
@@ -12310,14 +12359,14 @@
       "subscribers_gained": 0
     },
     "mgxevWGmVro": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT23S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -12326,11 +12375,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This hawk gets about half an hour to hunt each day.",
-      "published_at": "2026-11-27T19:56:00Z",
-      "privacy": "private",
+      "published_at": "2026-11-27T21:00:22Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/mgxevWGmVro"
     },
     "TjxKsQKmMj4": {
@@ -12472,6 +12521,54 @@
       "avg_view_percent": 60.9,
       "shares": 0,
       "subscribers_gained": 1
+    },
+    "3IMQEB2rmEY": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT25S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Chimps in Senegal Sharpen Spears With Their Teeth to Hunt",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Some chimpanzees make weapons, and it isn't the big males.",
+      "published_at": "2026-11-27T21:37:35Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/3IMQEB2rmEY"
+    },
+    "5y1u_IU3E44": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Sharks Kept Vanishing From an Aquarium Tank. The Killer Had No Bones",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Sharks kept dying in one aquarium tank. Nobody saw who did it.",
+      "published_at": "2026-11-27T21:38:53Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/5y1u_IU3E44"
     },
     "c1_iRJblyEI": {
       "upload_status": "processed",
@@ -13220,7 +13317,7 @@
       "hook": "There's a shark that eats salad.",
       "published_at": "2026-11-02T16:30:00Z",
       "privacy": "public",
-      "views": 72,
+      "views": 73,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/8oPON8E6LtM",
