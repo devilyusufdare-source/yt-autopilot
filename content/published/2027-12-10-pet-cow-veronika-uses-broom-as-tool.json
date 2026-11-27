@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "THIS COW USES TOOLS",
   "priority": 6,
-  "first_comment": "Veronika is about 13 years old and lives as a pet, not on a working farm. Could that be why she figured it out?"
+  "first_comment": "Veronika is about 13 years old and lives as a pet, not on a working farm. Could that be why she figured it out?",
+  "youtube_id": "1s6S1orvGio",
+  "url": "https://youtube.com/shorts/1s6S1orvGio",
+  "uploaded_at": "2026-11-27T00:03:04+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-27T00:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 9,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 27.6,
+  "style": "classic",
+  "kind": "shorts"
 }

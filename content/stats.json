@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-26T22:58:21+00:00",
+  "updated_at": "2026-11-27T00:03:08+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 96,
     "channel_views": 127729,
-    "video_count": 468
+    "video_count": 469
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/PAuHiRuFCdc"
+      "https://youtube.com/shorts/1s6S1orvGio",
+      "https://youtube.com/shorts/Nk3pj_sw7bU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/PAuHiRuFCdc"
+      "https://youtube.com/shorts/1s6S1orvGio"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/PAuHiRuFCdc"
+      "https://youtube.com/shorts/1s6S1orvGio"
     ]
   },
   "retention": {
@@ -92,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 467,
-  "total_views": 128930,
+  "total_videos": 469,
+  "total_views": 128931,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 356,
-      "avg_views": 297,
+      "videos": 358,
+      "avg_views": 295,
       "best_views": 1507
     },
     "human body": {
@@ -138,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 451,
-      "avg_views": 271,
+      "videos": 453,
+      "avg_views": 270,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 381,
-      "avg_views": 238
+      "videos": 383,
+      "avg_views": 237
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -10244,7 +10245,7 @@
       "hook": "A wild cat in Spain does something no carnivore was ever seen doing.",
       "published_at": "2026-11-25T06:20:38Z",
       "privacy": "public",
-      "views": 29,
+      "views": 30,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/otgPu858_iI",
@@ -10324,7 +10325,7 @@
       "hook": "Every winter, this tiny animal shrinks its own skull.",
       "published_at": "2026-11-25T10:50:35Z",
       "privacy": "public",
-      "views": 10,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/59sLe__3Ywk"
@@ -10348,7 +10349,7 @@
       "hook": "Orcas were filmed making tools. No sea mammal had ever been seen doing that.",
       "published_at": "2026-11-26T03:20:07Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zn1WRK1MhSg"
@@ -10372,7 +10373,7 @@
       "hook": "Wolves grabbed a newborn bison calf. Then the herd turned around.",
       "published_at": "2026-11-26T03:40:28Z",
       "privacy": "public",
-      "views": 664,
+      "views": 658,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/WwM1elNJYko"
@@ -10428,6 +10429,30 @@
       "avg_view_percent": 65.9,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "1s6S1orvGio": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Pet Cow Uses a Broom, and She Picks Which End on Purpose",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A cow in Austria uses a tool. And she knows which end to hold.",
+      "published_at": "2026-11-27T00:02:59Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/1s6S1orvGio"
     },
     "x2_mV8zrkn8": {
       "upload_status": "processed",
@@ -10980,7 +11005,7 @@
       "hook": "A robot beat Usain Bolt's 100 meter time. The finish didn't go well.",
       "published_at": "2026-11-23T00:00:17Z",
       "privacy": "public",
-      "views": 131,
+      "views": 130,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/8ZUGSlyxN1g",
@@ -11120,7 +11145,7 @@
       "hook": "Swallows skim this African lake to drink. Some never fly back up.",
       "published_at": "2026-11-23T04:10:04Z",
       "privacy": "public",
-      "views": 614,
+      "views": 613,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/n1zH-Jpia10",
@@ -11372,7 +11397,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 510,
+      "views": 509,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg",
@@ -11760,7 +11785,7 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 97,
+      "views": 89,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E"
@@ -11836,7 +11861,7 @@
       "hook": "Seals can feel something your body is completely blind to.",
       "published_at": "2026-11-26T02:50:05Z",
       "privacy": "public",
-      "views": 173,
+      "views": 185,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/pC9hsHVWFZc"
@@ -11936,7 +11961,7 @@
       "hook": "This owl is the size of a soda can. Birds twice its weight are on the menu.",
       "published_at": "2026-11-26T05:50:13Z",
       "privacy": "public",
-      "views": 56,
+      "views": 58,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/-fWN5Y7mrIg"
@@ -12014,14 +12039,14 @@
       "url": "https://youtube.com/shorts/EW_CJCY07xc"
     },
     "PAuHiRuFCdc": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT26S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -12030,12 +12055,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "One comb jelly had two mouths. Nobody knew why.",
-      "published_at": "2026-11-26T22:58:10Z",
-      "privacy": "private",
+      "published_at": "2026-11-27T00:00:18Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
       "url": "https://youtube.com/shorts/PAuHiRuFCdc"
+    },
+    "Nk3pj_sw7bU": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT28S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Wasp Smaller Than a Rice Grain Lays Eggs in Ants in 0.05 Seconds",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This wasp hunts ants that could tear it apart.",
+      "published_at": "2026-11-27T00:01:29Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/Nk3pj_sw7bU"
     },
     "7E64Z48yaAs": {
       "upload_status": "processed",

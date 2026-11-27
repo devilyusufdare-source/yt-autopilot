@@ -57,5 +57,21 @@
   ],
   "thumbnail_text": "0.05 SECONDS. EGG INJECTED.",
   "priority": 7,
-  "first_comment": "The wasp was only discovered and named in 2011, after a researcher filmed it at ant nests near Madrid. What's the fastest thing you've ever seen an insect do?"
+  "first_comment": "The wasp was only discovered and named in 2011, after a researcher filmed it at ant nests near Madrid. What's the fastest thing you've ever seen an insect do?",
+  "youtube_id": "Nk3pj_sw7bU",
+  "url": "https://youtube.com/shorts/Nk3pj_sw7bU",
+  "uploaded_at": "2026-11-27T00:01:38+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-27T00:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 10,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 28.0,
+  "style": "classic",
+  "kind": "shorts"
 }
