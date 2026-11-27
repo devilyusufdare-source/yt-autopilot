@@ -1,0 +1,60 @@
+{
+  "id": "2028-08-15-sodium-acetate-hot-ice-freezes-at-54-degrees",
+  "format": "fact",
+  "topic": "science",
+  "subject": "hand warmer crystals",
+  "title": "This Liquid Turns to Ice in Seconds, and the Ice Is Hot",
+  "scenes": [
+    {
+      "text": "This liquid freezes when you touch it, and the ice is hot.",
+      "keywords": "clear liquid crystallizing"
+    },
+    {
+      "text": "Click the little metal disc inside a hand warmer, and white crystals race through the whole pack.",
+      "keywords": "hand warmer pack"
+    },
+    {
+      "text": "Within seconds it climbs to about 54 degrees Celsius, almost 130 Fahrenheit.",
+      "keywords": "crystals spreading close up"
+    },
+    {
+      "text": "The liquid is sodium acetate, and it's already colder than its own freezing point.",
+      "keywords": "chemistry lab beaker"
+    },
+    {
+      "text": "It's stuck as a liquid until a tiny shock gives the crystals somewhere to start, and freezing releases the heat.",
+      "keywords": "ice crystals forming"
+    },
+    {
+      "text": "Boil the pack, and the heat goes back in. The same ice, ready to burn again.",
+      "keywords": "boiling water pot"
+    }
+  ],
+  "description": "Reusable hand warmers hold sodium acetate cooled below its own freezing point of about 54 degrees Celsius.\nClick the metal disc and crystals spread through the pack, releasing heat as it freezes. Boiling it melts the crystals and resets it.\nWould you call it ice if it's hot?",
+  "tags": [
+    "hot ice",
+    "sodium acetate",
+    "hand warmer",
+    "supercooling",
+    "crystallization",
+    "chemistry facts",
+    "science facts",
+    "cool science",
+    "science experiment",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#science",
+    "#chemistry",
+    "#facts"
+  ],
+  "sources": [
+    "https://antoine.frostburg.edu/chem/senese/101/consumer/faq/how-do-handwarmers-work.shtml",
+    "https://www.stonybrook.edu/commcms/physics-lab-demo/i.-thermodynamics/i4.-changes-of-state/hand_warmer.php"
+  ],
+  "thumbnail_text": "ICE THAT'S 54°C HOT",
+  "priority": 6,
+  "first_comment": "Bonus: the same liquid can be poured slowly onto a crystal and it builds a tower as it falls. What should we freeze next?"
+}

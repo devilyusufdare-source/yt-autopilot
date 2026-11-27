@@ -1,0 +1,74 @@
+{
+  "id": "2028-08-17-five-elements-in-your-body-ranked",
+  "format": "ranking",
+  "topic": "human body",
+  "subject": "human body",
+  "ranking_by": "share of adult body mass",
+  "title": "The 5 Elements Your Body Is Made Of, Ranked (#1 Isn't Carbon)",
+  "scenes": [
+    {
+      "text": "The five elements your body is made of. Number one isn't carbon.",
+      "keywords": "human body scan"
+    },
+    {
+      "text": "Number five: calcium. About one percent of you, most of it locked in your bones.",
+      "keywords": "human skeleton",
+      "rank": 5,
+      "label": "Calcium · about 1%"
+    },
+    {
+      "text": "Number four: nitrogen. About three percent, built into every protein and every strand of DNA.",
+      "keywords": "dna strand",
+      "rank": 4,
+      "label": "Nitrogen · about 3%"
+    },
+    {
+      "text": "Number three: hydrogen. Only ten percent of your weight, but six in ten of your atoms.",
+      "keywords": "water droplets",
+      "rank": 3,
+      "label": "Hydrogen · about 10%"
+    },
+    {
+      "text": "Number two: carbon. About eighteen percent, the backbone of every cell.",
+      "keywords": "human cells microscope",
+      "rank": 2,
+      "label": "Carbon · about 18%"
+    },
+    {
+      "text": "Number one: oxygen. About sixty-five percent of you, because you're mostly water.",
+      "keywords": "glass of water",
+      "rank": 1,
+      "label": "Oxygen · about 65%"
+    }
+  ],
+  "description": "By weight, you are mostly oxygen: about 65 percent, because most of your body is water.\nCarbon is about 18 percent, hydrogen about 10, nitrogen about 3 and calcium about 1. Count atoms instead, and hydrogen wins by far.\nWhich element surprised you most?",
+  "tags": [
+    "elements in the human body",
+    "human body composition",
+    "oxygen",
+    "carbon",
+    "hydrogen",
+    "nitrogen",
+    "calcium",
+    "body facts",
+    "chemistry facts",
+    "science facts",
+    "ranked",
+    "top 5",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#humanbody",
+    "#science",
+    "#facts"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Composition_of_the_human_body",
+    "https://www.livescience.com/common-elements-in-human-body"
+  ],
+  "thumbnail_text": "YOUR BODY'S 5 ELEMENTS, RANKED",
+  "priority": 5,
+  "first_comment": "Phosphorus would be number six, at under one percent. Which would you have guessed at number one, and what should we rank next?"
+}
