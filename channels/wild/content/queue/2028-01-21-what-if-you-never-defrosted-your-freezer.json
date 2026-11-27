@@ -1,0 +1,62 @@
+{
+  "id": "2028-01-21-what-if-you-never-defrosted-your-freezer",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "chest freezer",
+  "title": "What If You Never Defrosted Your Freezer?",
+  "scenes": [
+    {
+      "text": "What if you never defrosted your freezer? All that ice isn't helping. It's costing you.",
+      "keywords": "frosted freezer ice"
+    },
+    {
+      "text": "Each time the door opens, warm, moist air rushes in. Its water condenses and freezes onto the walls.",
+      "keywords": "opening freezer door"
+    },
+    {
+      "text": "Over weeks and months the frost thickens. Energy Star says never let it pass a quarter of an inch.",
+      "keywords": "thick frost freezer wall"
+    },
+    {
+      "text": "Past that, the freezer has to work harder, and ice buildup can significantly cut its efficiency.",
+      "keywords": "electric meter spinning"
+    },
+    {
+      "text": "Thick frost can also block airflow inside, so it runs longer just to hold the same temperature.",
+      "keywords": "frozen food freezer"
+    },
+    {
+      "text": "The twist: manual defrost freezers use roughly half the energy of automatic ones. But only if you actually defrost them.",
+      "keywords": "scraping ice freezer"
+    }
+  ],
+  "description": "What if you never defrosted your freezer? Moist air that enters with every door opening freezes onto the walls, and Energy Star says frost should never build up past a quarter of an inch.\nThicker ice makes the freezer work harder and less efficiently, even though manual-defrost models use far less energy than automatic ones when they are kept defrosted.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "freezer",
+    "defrost freezer",
+    "freezer frost",
+    "energy saving",
+    "home appliances",
+    "chest freezer",
+    "electricity bill",
+    "household science",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#home",
+    "#science"
+  ],
+  "sources": [
+    "https://www.energystar.gov/products/freezers",
+    "https://www.pubs.ext.vt.edu/2908/2908-9022/2908-9022.html",
+    "https://courses.ems.psu.edu/egee102/node/2403"
+  ],
+  "thumbnail_text": "QUARTER INCH OF ICE: TOO MUCH",
+  "priority": 0,
+  "first_comment": "How thick is the ice in your freezer right now? Tell us the what-if you want us to run through next."
+}
