@@ -1,0 +1,27 @@
+{
+  "id": "2028-08-02-five-heaviest-whales-ranked",
+  "format": "ranking",
+  "topic": "animals",
+  "subject": "bowhead whale",
+  "ranking_by": "maximum adult weight in tons",
+  "title": "The 5 Heaviest Whales, Ranked (Most People Never Heard of #2)",
+  "scenes": [
+    {"text": "The five heaviest whales. Most people have never heard of number two.", "keywords": "whale breaching"},
+    {"text": "Number five: the sperm whale. Big males reach about forty-five tons, just beating the humpback.", "keywords": "sperm whale", "rank": 5, "label": "Sperm whale · 45 tons"},
+    {"text": "Number four: the fin whale. Up to eighty tons, and the second-longest whale alive.", "keywords": "fin whale", "rank": 4, "label": "Fin whale · 80 tons"},
+    {"text": "Number three: the North Pacific right whale. Up to a hundred tons, and one of the rarest whales on Earth.", "keywords": "right whale", "rank": 3, "label": "N. Pacific right · 100 tons"},
+    {"text": "Number two: the bowhead. A hundred tons or more, with a skull that punches through Arctic ice.", "keywords": "bowhead whale", "rank": 2, "label": "Bowhead · 100+ tons"},
+    {"text": "Number one: the blue whale. Up to about a hundred and sixty-five tons, over sixty tons more than the bowhead.", "keywords": "blue whale", "rank": 1, "label": "Blue whale · 165 tons"}
+  ],
+  "description": "The second-heaviest whale on Earth is one most people have never heard of: the Arctic bowhead.\nNOAA Fisheries lists bowheads and North Pacific right whales at up to about 100 tons, fin whales at up to 80, and big male sperm whales at about 45. The blue whale tops them all at up to about 330,000 pounds.\nWhich whale did you expect at number two?",
+  "tags": ["heaviest whales", "bowhead whale", "blue whale", "fin whale", "sperm whale", "right whale", "whales ranked", "biggest animals", "whale facts", "ocean animals", "animal facts", "mind blowing facts", "shorts facts", "top 5"],
+  "hashtags": ["#shorts", "#whales", "#animals", "#ocean"],
+  "sources": [
+    "https://www.fisheries.noaa.gov/species/bowhead-whale",
+    "https://www.fisheries.noaa.gov/species/blue-whale",
+    "https://animals.howstuffworks.com/mammals/biggest-whale.htm"
+  ],
+  "thumbnail_text": "5 HEAVIEST WHALES, RANKED",
+  "priority": 6,
+  "first_comment": "Bowheads may also live 200 years or more. Which whale would you have put at number one, and what should we rank next?"
+}
