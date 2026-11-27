@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "MONKEYS STEALING BABIES",
   "priority": 6,
-  "first_comment": "Boredom, practice for parenting, or a fad? What's your theory?"
+  "first_comment": "Boredom, practice for parenting, or a fad? What's your theory?",
+  "youtube_id": "vekm1K42Fr8",
+  "url": "https://youtube.com/shorts/vekm1K42Fr8",
+  "uploaded_at": "2026-11-27T01:01:20+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-27T02:15:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 30.3,
+  "style": "classic",
+  "kind": "shorts"
 }

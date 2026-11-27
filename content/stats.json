@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-27T00:03:08+00:00",
+  "updated_at": "2026-11-27T01:01:25+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 96,
     "channel_views": 127729,
-    "video_count": 469
+    "video_count": 471
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/1s6S1orvGio",
-      "https://youtube.com/shorts/Nk3pj_sw7bU"
+      "https://youtube.com/shorts/vekm1K42Fr8"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/1s6S1orvGio"
+      "https://youtube.com/shorts/vekm1K42Fr8"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/1s6S1orvGio"
+      "https://youtube.com/shorts/vekm1K42Fr8"
     ]
   },
   "retention": {
@@ -93,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 469,
-  "total_views": 128931,
+  "total_videos": 470,
+  "total_views": 128988,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,7 +106,7 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 358,
+      "videos": 359,
       "avg_views": 295,
       "best_views": 1507
     },
@@ -139,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 453,
-      "avg_views": 270,
+      "videos": 454,
+      "avg_views": 269,
       "over_1500": 3
     },
     "punch": {
@@ -151,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 383,
-      "avg_views": 237
+      "videos": 384,
+      "avg_views": 236
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -4037,7 +4036,7 @@
       "hook": "This tiny bird teaches her chicks a password before they hatch.",
       "published_at": "2026-11-14T00:20:26Z",
       "privacy": "public",
-      "views": 1124,
+      "views": 1125,
       "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/LUOO26aXB0Q",
@@ -7677,7 +7676,7 @@
       "hook": "The five biggest asteroid scars on Earth. The one that killed the dinosaurs isn't number one.",
       "published_at": "2026-11-18T00:20:16Z",
       "privacy": "public",
-      "views": 10,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/K9Um5LVzrtw",
@@ -8093,7 +8092,7 @@
       "hook": "One soldier kept fighting World War Two until 1974.",
       "published_at": "2026-11-26T10:30:33Z",
       "privacy": "public",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DYaBvqqnwVE"
@@ -8173,7 +8172,7 @@
       "hook": "Some mammals raise their young in four days.",
       "published_at": "2026-11-19T01:00:39Z",
       "privacy": "public",
-      "views": 662,
+      "views": 663,
       "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/DHn0xENEgaY",
@@ -9237,7 +9236,7 @@
       "hook": "For this cricket, singing is suicide. The killer's a fly.",
       "published_at": "2026-11-22T21:30:38Z",
       "privacy": "public",
-      "views": 167,
+      "views": 166,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/1ZdY68_jeKU",
@@ -10397,7 +10396,7 @@
       "hook": "One leopard found a meal that flies straight past its nose.",
       "published_at": "2026-11-26T10:10:25Z",
       "privacy": "public",
-      "views": 905,
+      "views": 907,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/EE-2yaHh1Qw"
@@ -10431,14 +10430,14 @@
       "subscribers_gained": 0
     },
     "1s6S1orvGio": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT28S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10447,11 +10446,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "A cow in Austria uses a tool. And she knows which end to hold.",
-      "published_at": "2026-11-27T00:02:59Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-27T00:50:12Z",
+      "privacy": "public",
+      "views": 9,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/1s6S1orvGio"
     },
     "x2_mV8zrkn8": {
@@ -10509,6 +10508,30 @@
       "avg_view_percent": 85.4,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "vekm1K42Fr8": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Young Monkeys on an Island Started Kidnapping Babies. Nobody Knows Why",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "On one island, young monkeys started stealing babies, and they don't eat them.",
+      "published_at": "2026-11-27T01:01:16Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/vekm1K42Fr8"
     },
     "tJd06ONsRyk": {
       "upload_status": "processed",
@@ -11229,7 +11252,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 364,
+      "views": 368,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU",
@@ -11785,7 +11808,7 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 89,
+      "views": 105,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E"
@@ -11861,7 +11884,7 @@
       "hook": "Seals can feel something your body is completely blind to.",
       "published_at": "2026-11-26T02:50:05Z",
       "privacy": "public",
-      "views": 185,
+      "views": 192,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/pC9hsHVWFZc"
@@ -11909,7 +11932,7 @@
       "hook": "A bumblebee digs a hole, climbs in, and buries itself. It didn't choose to.",
       "published_at": "2026-11-26T05:30:19Z",
       "privacy": "public",
-      "views": 17,
+      "views": 20,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXXLUZsGuvM"
@@ -12057,9 +12080,9 @@
       "hook": "One comb jelly had two mouths. Nobody knew why.",
       "published_at": "2026-11-27T00:00:18Z",
       "privacy": "public",
-      "views": 0,
+      "views": 3,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/PAuHiRuFCdc"
     },
     "Nk3pj_sw7bU": {
@@ -12079,11 +12102,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This wasp hunts ants that could tear it apart.",
-      "published_at": "2026-11-27T00:01:29Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-27T00:30:20Z",
+      "privacy": "public",
+      "views": 8,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/Nk3pj_sw7bU"
     },
     "7E64Z48yaAs": {
