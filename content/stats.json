@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-27T21:39:03+00:00",
+  "updated_at": "2026-11-27T22:40:38+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 97,
     "channel_views": 133330,
-    "video_count": 479
+    "video_count": 481
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/3IMQEB2rmEY",
-      "https://youtube.com/shorts/5y1u_IU3E44"
+      "https://youtube.com/shorts/vlqZ1u35Z04"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/5y1u_IU3E44"
+      "https://youtube.com/shorts/vlqZ1u35Z04"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/5y1u_IU3E44"
+      "https://youtube.com/shorts/vlqZ1u35Z04"
     ]
   },
   "retention": {
@@ -93,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 479,
-  "total_views": 134724,
+  "total_videos": 480,
+  "total_views": 134733,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 366,
-      "avg_views": 304,
+      "videos": 367,
+      "avg_views": 303,
       "best_views": 1507
     },
     "human body": {
@@ -139,7 +138,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 463,
+      "videos": 464,
       "avg_views": 276,
       "over_1500": 3
     },
@@ -151,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 393,
+      "videos": 394,
       "avg_views": 245
     },
     "en-US-BrianNeural": {
@@ -9489,7 +9488,7 @@
       "hook": "Millions of these crayfish exist. They're all one animal.",
       "published_at": "2026-11-23T00:40:22Z",
       "privacy": "public",
-      "views": 229,
+      "views": 228,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/p2WN5v3a5YM",
@@ -9573,7 +9572,7 @@
       "hook": "Spiders eat snakes. On every continent but one.",
       "published_at": "2026-11-23T09:40:26Z",
       "privacy": "public",
-      "views": 132,
+      "views": 131,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BU5Vn7FN7oY",
@@ -10705,6 +10704,30 @@
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/gt6OcmhFvRU"
+    },
+    "vlqZ1u35Z04": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "This Vulture Eats Almost Nothing but Bones, and Swallows Them Whole",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "One bird lives on a diet that's almost all bone.",
+      "published_at": "2026-11-27T22:40:29Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/vlqZ1u35Z04"
     },
     "wgJfNru7RlQ": {
       "upload_status": "processed",
@@ -12013,8 +12036,8 @@
       "hook": "Seals can feel something your body is completely blind to.",
       "published_at": "2026-11-26T02:50:05Z",
       "privacy": "public",
-      "views": 334,
-      "likes": 4,
+      "views": 344,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/pC9hsHVWFZc",
       "avg_view_seconds": 24.0,
@@ -12069,7 +12092,7 @@
       "hook": "A bumblebee digs a hole, climbs in, and buries itself. It didn't choose to.",
       "published_at": "2026-11-26T05:30:19Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXXLUZsGuvM",
@@ -12539,22 +12562,22 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Some chimpanzees make weapons, and it isn't the big males.",
-      "published_at": "2026-11-27T21:37:35Z",
-      "privacy": "private",
+      "published_at": "2026-11-27T22:10:31Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/3IMQEB2rmEY"
     },
     "5y1u_IU3E44": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT25S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -12563,11 +12586,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Sharks kept dying in one aquarium tank. Nobody saw who did it.",
-      "published_at": "2026-11-27T21:38:53Z",
-      "privacy": "private",
+      "published_at": "2026-11-27T22:30:08Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/5y1u_IU3E44"
     },
     "c1_iRJblyEI": {
