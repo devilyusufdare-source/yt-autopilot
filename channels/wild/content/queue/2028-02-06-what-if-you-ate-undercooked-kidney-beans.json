@@ -1,0 +1,60 @@
+{
+  "id": "2028-02-06-what-if-you-ate-undercooked-kidney-beans",
+  "format": "whatif",
+  "topic": "body",
+  "subject": "red kidney beans",
+  "title": "What If You Ate Undercooked Kidney Beans?",
+  "scenes": [
+    {
+      "text": "What if you ate undercooked kidney beans? A slow cooker might be the worst way to cook them.",
+      "keywords": "red kidney beans"
+    },
+    {
+      "text": "Raw kidney beans carry a natural toxin called phytohaemagglutinin.",
+      "keywords": "dry kidney beans"
+    },
+    {
+      "text": "As few as four undercooked beans can bring on nausea, cramps and vomiting within hours.",
+      "keywords": "person stomach ache"
+    },
+    {
+      "text": "Boiling at full heat for at least ten minutes destroys the toxin.",
+      "keywords": "boiling pot"
+    },
+    {
+      "text": "But many slow cookers only reach about 167 degrees Fahrenheit inside the food, not enough.",
+      "keywords": "slow cooker"
+    },
+    {
+      "text": "You'd usually recover in a few hours. Canned beans are already cooked, so they're safe.",
+      "keywords": "canned beans"
+    }
+  ],
+  "description": "What if you ate undercooked kidney beans? They contain phytohaemagglutinin, and as few as four undercooked beans can cause nausea, cramps and vomiting.\nThe toxin is destroyed by at least 10 minutes at a full boil, but slow cookers may only reach about 167°F inside the food. Canned beans are already cooked.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "kidney beans",
+    "phytohaemagglutinin",
+    "slow cooker",
+    "food poisoning",
+    "food safety",
+    "cooking",
+    "everyday science",
+    "kitchen science",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#food",
+    "#cooking"
+  ],
+  "sources": [
+    "https://extension.illinois.edu/blogs/live-well-eat-well/2024-02-29-kidney-beans-and-slow-cookers",
+    "https://www.k-state.edu/news/you-asked-it/articles/2017/10/cooking-dry-beans-safely.html"
+  ],
+  "thumbnail_text": "4 BEANS. ONE BAD NIGHT.",
+  "priority": 5,
+  "first_comment": "Do you cook dried beans or always grab the can? Tell us the what-if you want next."
+}

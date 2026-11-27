@@ -1,0 +1,60 @@
+{
+  "id": "2028-02-04-what-if-you-ate-black-licorice-every-day",
+  "format": "whatif",
+  "topic": "body",
+  "subject": "black licorice",
+  "title": "What If You Ate Black Licorice Every Day?",
+  "scenes": [
+    {
+      "text": "What if you ate black licorice every day? It's not the sugar that's the problem.",
+      "keywords": "black licorice candy"
+    },
+    {
+      "text": "Real black licorice contains glycyrrhizin, a compound from licorice root.",
+      "keywords": "licorice root"
+    },
+    {
+      "text": "Day after day, it makes your body flush out potassium.",
+      "keywords": "kidney medical illustration"
+    },
+    {
+      "text": "Your heart needs potassium to keep its rhythm. Within about two weeks, it can start to stumble.",
+      "keywords": "heart monitor"
+    },
+    {
+      "text": "A US warning says two ounces a day for two weeks can cause heart rhythm problems in people over 40.",
+      "keywords": "candy store"
+    },
+    {
+      "text": "In 2020, doctors reported a 54-year-old man whose heart stopped after weeks of eating black licorice daily.",
+      "keywords": "hospital emergency"
+    }
+  ],
+  "description": "What if you ate black licorice every day? Glycyrrhizin from licorice root lowers potassium, which can lead to high blood pressure and abnormal heart rhythms.\nThe FDA warns that two ounces a day for two weeks can cause heart rhythm problems in people over 40, and a 2020 NEJM case described a 54-year-old man who died after weeks of eating it.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "black licorice",
+    "licorice",
+    "glycyrrhizin",
+    "potassium",
+    "heart health",
+    "candy",
+    "everyday science",
+    "human body",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#candy",
+    "#science"
+  ],
+  "sources": [
+    "https://www.livescience.com/black-licorice-death.html",
+    "https://www.fda.gov/consumers/consumer-updates/black-licorice-trick-or-treat"
+  ],
+  "thumbnail_text": "WHAT IF YOU ATE LICORICE DAILY?",
+  "priority": 5,
+  "first_comment": "Black licorice: love it or hate it? Tell us the what-if you want next."
+}

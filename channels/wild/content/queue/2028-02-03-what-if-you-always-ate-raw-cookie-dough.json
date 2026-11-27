@@ -1,0 +1,60 @@
+{
+  "id": "2028-02-03-what-if-you-always-ate-raw-cookie-dough",
+  "format": "whatif",
+  "topic": "body",
+  "subject": "raw cookie dough",
+  "title": "What If You Always Ate Raw Cookie Dough?",
+  "scenes": [
+    {
+      "text": "What if you always ate raw cookie dough? Everyone blames the eggs. Look at the flour.",
+      "keywords": "cookie dough bowl"
+    },
+    {
+      "text": "Flour is a raw farm product. Nothing in normal milling kills the germs from the field.",
+      "keywords": "wheat field harvest"
+    },
+    {
+      "text": "Bacteria like E. coli can survive in dry flour for months, then wake up when you add water.",
+      "keywords": "flour bag kitchen"
+    },
+    {
+      "text": "In 2016, flour from one mill sickened 63 people across 24 states. Seventeen went to hospital.",
+      "keywords": "hospital bed"
+    },
+    {
+      "text": "One developed a type of kidney failure, and more than 250 flour products were recalled.",
+      "keywords": "grocery store shelves"
+    },
+    {
+      "text": "Baking kills the germs in minutes. The danger was the part you thought was safe.",
+      "keywords": "cookies baking oven"
+    }
+  ],
+  "description": "What if you always ate raw cookie dough? The usual worry is raw eggs, but raw flour is not treated to kill germs, and E. coli can survive in it for months.\nIn 2016 a flour-linked E. coli outbreak sickened 63 people in 24 states, sending 17 to hospital, and led to recalls of more than 250 products.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "cookie dough",
+    "raw flour",
+    "e coli",
+    "food safety",
+    "baking",
+    "food poisoning",
+    "everyday science",
+    "kitchen science",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#food",
+    "#science"
+  ],
+  "sources": [
+    "https://archive.cdc.gov/www_cdc_gov/ecoli/2016/o121-06-16/index.html",
+    "https://www.sciencenews.org/article/cookie-dough-e-coli-outbreaks-raw-flour"
+  ],
+  "thumbnail_text": "THE RISK ISN'T THE EGGS",
+  "priority": 6,
+  "first_comment": "Be honest: do you sneak the dough before it goes in the oven? Tell us the what-if you want next."
+}
