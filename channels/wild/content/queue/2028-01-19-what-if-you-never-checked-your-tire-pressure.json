@@ -1,0 +1,62 @@
+{
+  "id": "2028-01-19-what-if-you-never-checked-your-tire-pressure",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "car tire",
+  "title": "What If You Never Checked Your Tire Pressure?",
+  "scenes": [
+    {
+      "text": "What if you never checked your tire pressure? Your tires would look fine. Until they didn't.",
+      "keywords": "car tire gauge"
+    },
+    {
+      "text": "Every month, a typical tire quietly loses about 1 psi of air, even without a puncture.",
+      "keywords": "car tire close up"
+    },
+    {
+      "text": "Cold weather takes more: roughly another 1 psi for every 10 degree Fahrenheit drop in temperature.",
+      "keywords": "snowy road car"
+    },
+    {
+      "text": "After a year, that adds up, and each psi lost cuts your gas mileage by about zero point two percent.",
+      "keywords": "gas pump fueling car"
+    },
+    {
+      "text": "Soft tires flex and build up extra heat, wearing the edges unevenly and raising the risk of a blowout.",
+      "keywords": "worn tire tread"
+    },
+    {
+      "text": "In a federal crash study, tires 25 percent underinflated were three times as likely to have trouble before a crash.",
+      "keywords": "highway traffic cars"
+    }
+  ],
+  "description": "What if you never checked your tire pressure? Tires lose about 1 psi a month and roughly 1 psi per 10 degree F drop, and the US Department of Energy says each psi of underinflation costs about 0.2 percent of your gas mileage.\nIn NHTSA's crash causation study, tires underinflated by 25 percent or more were three times as likely to have problems before a crash.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "tire pressure",
+    "underinflated tires",
+    "car maintenance",
+    "gas mileage",
+    "fuel economy",
+    "tire safety",
+    "car tires",
+    "driving tips",
+    "car science",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#cars",
+    "#science"
+  ],
+  "sources": [
+    "https://www.fueleconomy.gov/feg/maintain.jsp",
+    "https://www.nhtsa.gov/document/tirewise-safety-garage-infographic",
+    "https://crashstats.nhtsa.dot.gov/Api/Public/Publication/811617"
+  ],
+  "thumbnail_text": "25% LOW. 3X THE TIRE TROUBLE",
+  "priority": 0,
+  "first_comment": "When did you last check your tire pressure? Tell us the what-if you want us to run through next."
+}
