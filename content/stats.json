@@ -1,27 +1,28 @@
 {
-  "updated_at": "2026-11-27T01:41:51+00:00",
+  "updated_at": "2026-11-27T02:09:51+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 96,
+    "subscribers": 97,
     "channel_views": 127729,
     "video_count": 471
   },
   "diagnosis": {
     "not_public": [
       "https://youtube.com/shorts/vekm1K42Fr8",
-      "https://youtube.com/shorts/-hNPmwMTw5A"
+      "https://youtube.com/shorts/-hNPmwMTw5A",
+      "https://youtube.com/shorts/l4uoo9tjBLw"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/-hNPmwMTw5A"
+      "https://youtube.com/shorts/l4uoo9tjBLw"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/-hNPmwMTw5A"
+      "https://youtube.com/shorts/l4uoo9tjBLw"
     ]
   },
   "retention": {
@@ -93,8 +94,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 471,
-  "total_views": 129250,
+  "total_videos": 472,
+  "total_views": 129398,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,8 +108,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 360,
-      "avg_views": 295,
+      "videos": 361,
+      "avg_views": 294,
       "best_views": 1507
     },
     "human body": {
@@ -139,7 +140,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 455,
+      "videos": 456,
       "avg_views": 269,
       "over_1500": 3
     },
@@ -151,7 +152,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 385,
+      "videos": 386,
       "avg_views": 236
     },
     "en-US-BrianNeural": {
@@ -8093,7 +8094,7 @@
       "hook": "One soldier kept fighting World War Two until 1974.",
       "published_at": "2026-11-26T10:30:33Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DYaBvqqnwVE"
@@ -9937,7 +9938,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 1186,
+      "views": 1187,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8",
@@ -10373,7 +10374,7 @@
       "hook": "Wolves grabbed a newborn bison calf. Then the herd turned around.",
       "published_at": "2026-11-26T03:40:28Z",
       "privacy": "public",
-      "views": 816,
+      "views": 819,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/WwM1elNJYko"
@@ -10449,7 +10450,7 @@
       "hook": "A cow in Austria uses a tool. And she knows which end to hold.",
       "published_at": "2026-11-27T00:50:12Z",
       "privacy": "public",
-      "views": 33,
+      "views": 55,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1s6S1orvGio"
@@ -10563,14 +10564,14 @@
       "subscribers_gained": 0
     },
     "-hNPmwMTw5A": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT29S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10613,6 +10614,30 @@
       "avg_view_percent": 28.6,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "l4uoo9tjBLw": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A Hippo Can Weigh 2 Tons, and It Still Flies When It Runs",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "A hippo can weigh over two tons. When it runs, it leaves the ground.",
+      "published_at": "2026-11-27T02:09:38Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/l4uoo9tjBLw"
     },
     "wgJfNru7RlQ": {
       "upload_status": "processed",
@@ -11249,7 +11274,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 125,
+      "views": 126,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo",
@@ -11277,7 +11302,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 368,
+      "views": 369,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU",
@@ -11445,7 +11470,7 @@
       "hook": "A shark's tracking tag suddenly got warm, deep underwater.",
       "published_at": "2026-11-24T02:50:09Z",
       "privacy": "public",
-      "views": 509,
+      "views": 510,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/lYnIq7kMPdg",
@@ -11501,7 +11526,7 @@
       "hook": "Orcas are top predators. Some keep handing their food to humans.",
       "published_at": "2026-11-24T04:30:28Z",
       "privacy": "public",
-      "views": 762,
+      "views": 763,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/L-m0jBWJt7M",
@@ -11833,7 +11858,7 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 105,
+      "views": 97,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E"
@@ -11909,7 +11934,7 @@
       "hook": "Seals can feel something your body is completely blind to.",
       "published_at": "2026-11-26T02:50:05Z",
       "privacy": "public",
-      "views": 192,
+      "views": 195,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/pC9hsHVWFZc"
@@ -11957,7 +11982,7 @@
       "hook": "A bumblebee digs a hole, climbs in, and buries itself. It didn't choose to.",
       "published_at": "2026-11-26T05:30:19Z",
       "privacy": "public",
-      "views": 20,
+      "views": 18,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXXLUZsGuvM"
@@ -12105,7 +12130,7 @@
       "hook": "One comb jelly had two mouths. Nobody knew why.",
       "published_at": "2026-11-27T00:00:18Z",
       "privacy": "public",
-      "views": 17,
+      "views": 24,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PAuHiRuFCdc"
@@ -12129,8 +12154,8 @@
       "hook": "This wasp hunts ants that could tear it apart.",
       "published_at": "2026-11-27T00:30:20Z",
       "privacy": "public",
-      "views": 67,
-      "likes": 3,
+      "views": 184,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/Nk3pj_sw7bU"
     },
