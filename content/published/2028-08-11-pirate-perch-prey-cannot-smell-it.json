@@ -58,5 +58,22 @@
   ],
   "thumbnail_text": "PREY CAN'T SMELL IT",
   "priority": 7,
-  "first_comment": "The pirate perch is only about four to five inches long and lives in swamps and slow streams in the eastern US. Ever seen one?"
+  "first_comment": "The pirate perch is only about four to five inches long and lives in swamps and slow streams in the eastern US. Ever seen one?",
+  "youtube_id": "PppcntxnRSk",
+  "url": "https://youtube.com/shorts/PppcntxnRSk",
+  "uploaded_at": "2026-11-27T09:45:41+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-27T10:10:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 5,
+    "pixabay-photo": 5,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 28.1,
+  "style": "classic",
+  "kind": "shorts"
 }

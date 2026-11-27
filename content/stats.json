@@ -1,26 +1,27 @@
 {
-  "updated_at": "2026-11-27T05:01:52+00:00",
+  "updated_at": "2026-11-27T09:46:57+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
-    "subscribers": 97,
+    "subscribers": 98,
     "channel_views": 129149,
-    "video_count": 475
+    "video_count": 476
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/TCjsZJf-X08"
+      "https://youtube.com/shorts/-0FIGaAgCXg",
+      "https://youtube.com/shorts/PppcntxnRSk"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/TCjsZJf-X08"
+      "https://youtube.com/shorts/-0FIGaAgCXg"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/TCjsZJf-X08"
+      "https://youtube.com/shorts/-0FIGaAgCXg"
     ]
   },
   "retention": {
@@ -92,8 +93,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 474,
-  "total_views": 130470,
+  "total_videos": 476,
+  "total_views": 132615,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -106,8 +107,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 362,
-      "avg_views": 296,
+      "videos": 363,
+      "avg_views": 301,
       "best_views": 1507
     },
     "human body": {
@@ -121,13 +122,13 @@
       "best_views": 1115
     },
     "space": {
-      "videos": 32,
-      "avg_views": 282,
+      "videos": 33,
+      "avg_views": 273,
       "best_views": 1513
     },
     "technology": {
       "videos": 10,
-      "avg_views": 99,
+      "avg_views": 106,
       "best_views": 286
     },
     "games": {
@@ -138,8 +139,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 458,
-      "avg_views": 270,
+      "videos": 460,
+      "avg_views": 273,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +151,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 388,
-      "avg_views": 238
+      "videos": 390,
+      "avg_views": 242
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -1264,7 +1265,7 @@
       "hook": "A frog swallows this beetle whole. Hours later, the beetle walks out alive.",
       "published_at": "2026-10-27T22:40:13Z",
       "privacy": "public",
-      "views": 93,
+      "views": 94,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/pNq_22cuP4E",
@@ -5800,7 +5801,7 @@
       "hook": "This wasp leaves its nursery through another wasp's head.",
       "published_at": "2026-11-07T20:00:36Z",
       "privacy": "public",
-      "views": 186,
+      "views": 187,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EEYpF25ly4o",
@@ -6556,7 +6557,7 @@
       "hook": "These baby spiders never hunt. They still grow fast.",
       "published_at": "2026-11-17T03:20:27Z",
       "privacy": "public",
-      "views": 948,
+      "views": 949,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/00WR-lhcyaY",
@@ -8040,7 +8041,7 @@
       "hook": "A python swallowed an alligator. Then it burst.",
       "published_at": "2026-10-28T18:00:24Z",
       "privacy": "public",
-      "views": 462,
+      "views": 464,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/q18WSuE5NJ0",
@@ -8092,7 +8093,7 @@
       "hook": "One soldier kept fighting World War Two until 1974.",
       "published_at": "2026-11-26T10:30:33Z",
       "privacy": "public",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DYaBvqqnwVE"
@@ -8126,14 +8127,14 @@
       "subscribers_gained": 0
     },
     "TCjsZJf-X08": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT36S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -8142,11 +8143,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "Your GPS would be wrong by ten kilometers a day without Einstein.",
-      "published_at": "2026-11-27T05:01:42Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-27T05:30:02Z",
+      "privacy": "public",
+      "views": 66,
+      "likes": 1,
+      "comments": 2,
       "url": "https://youtube.com/shorts/TCjsZJf-X08"
     },
     "OW7wC96MHAo": {
@@ -8336,7 +8337,7 @@
       "hook": "This frog turns its own skin into flypaper.",
       "published_at": "2026-11-19T03:00:25Z",
       "privacy": "public",
-      "views": 956,
+      "views": 957,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/vASc6xS-jZI",
@@ -8756,7 +8757,7 @@
       "hook": "This male spider brings his date a present. A third of the time, it's garbage.",
       "published_at": "2026-11-20T02:40:19Z",
       "privacy": "public",
-      "views": 497,
+      "views": 498,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/rQZIO4AScUM",
@@ -9232,7 +9233,7 @@
       "hook": "Science once named a worm. It was an octopus's arm.",
       "published_at": "2026-11-22T00:30:01Z",
       "privacy": "public",
-      "views": 125,
+      "views": 128,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc",
@@ -9568,7 +9569,7 @@
       "hook": "Spiders eat snakes. On every continent but one.",
       "published_at": "2026-11-23T09:40:26Z",
       "privacy": "public",
-      "views": 129,
+      "views": 131,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/BU5Vn7FN7oY",
@@ -9960,7 +9961,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 1189,
+      "views": 1200,
       "likes": 15,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8",
@@ -10268,7 +10269,7 @@
       "hook": "A wild cat in Spain does something no carnivore was ever seen doing.",
       "published_at": "2026-11-25T06:20:38Z",
       "privacy": "public",
-      "views": 32,
+      "views": 33,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/otgPu858_iI",
@@ -10372,7 +10373,7 @@
       "hook": "Orcas were filmed making tools. No sea mammal had ever been seen doing that.",
       "published_at": "2026-11-26T03:20:07Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/zn1WRK1MhSg"
@@ -10396,7 +10397,7 @@
       "hook": "Wolves grabbed a newborn bison calf. Then the herd turned around.",
       "published_at": "2026-11-26T03:40:28Z",
       "privacy": "public",
-      "views": 884,
+      "views": 950,
       "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/WwM1elNJYko"
@@ -10420,7 +10421,7 @@
       "hook": "One leopard found a meal that flies straight past its nose.",
       "published_at": "2026-11-26T10:10:25Z",
       "privacy": "public",
-      "views": 909,
+      "views": 910,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/EE-2yaHh1Qw"
@@ -10472,8 +10473,8 @@
       "hook": "A cow in Austria uses a tool. And she knows which end to hold.",
       "published_at": "2026-11-27T00:50:12Z",
       "privacy": "public",
-      "views": 192,
-      "likes": 1,
+      "views": 437,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/1s6S1orvGio"
     },
@@ -10552,8 +10553,8 @@
       "hook": "On one island, young monkeys started stealing babies, and they don't eat them.",
       "published_at": "2026-11-27T02:15:35Z",
       "privacy": "public",
-      "views": 135,
-      "likes": 3,
+      "views": 243,
+      "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/vekm1K42Fr8"
     },
@@ -10604,8 +10605,8 @@
       "hook": "This fly flies exactly once in its life. Then it throws its wings away.",
       "published_at": "2026-11-27T02:50:00Z",
       "privacy": "public",
-      "views": 141,
-      "likes": 1,
+      "views": 320,
+      "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-hNPmwMTw5A"
     },
@@ -10656,8 +10657,8 @@
       "hook": "A hippo can weigh over two tons. When it runs, it leaves the ground.",
       "published_at": "2026-11-27T03:20:07Z",
       "privacy": "public",
-      "views": 80,
-      "likes": 0,
+      "views": 785,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/l4uoo9tjBLw"
     },
@@ -10680,8 +10681,8 @@
       "hook": "This spider catches one firefly, then uses it to catch more.",
       "published_at": "2026-11-27T03:40:33Z",
       "privacy": "public",
-      "views": 19,
-      "likes": 0,
+      "views": 384,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/gt6OcmhFvRU"
     },
@@ -10900,7 +10901,7 @@
       "hook": "This animal's head walks away from its body. On purpose.",
       "published_at": "2026-11-21T21:00:03Z",
       "privacy": "public",
-      "views": 1111,
+      "views": 1112,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/1o5TYYjytTo",
@@ -11348,7 +11349,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 369,
+      "views": 371,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU",
@@ -11544,7 +11545,7 @@
       "hook": "Alchemists failed for centuries. Physicists finally turned lead into gold.",
       "published_at": "2026-11-24T03:20:19Z",
       "privacy": "public",
-      "views": 44,
+      "views": 45,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hO2AhQOFOpg",
@@ -11904,7 +11905,7 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 114,
+      "views": 119,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E"
@@ -11956,7 +11957,7 @@
       "hook": "This dolphin hunts fish all day, but never eats them.",
       "published_at": "2026-11-26T02:15:13Z",
       "privacy": "public",
-      "views": 939,
+      "views": 947,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/U7uT6bTCo2Y"
@@ -11980,7 +11981,7 @@
       "hook": "Seals can feel something your body is completely blind to.",
       "published_at": "2026-11-26T02:50:05Z",
       "privacy": "public",
-      "views": 225,
+      "views": 243,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/pC9hsHVWFZc"
@@ -12004,7 +12005,7 @@
       "hook": "The five oldest cave paintings ever found. France doesn't make the list.",
       "published_at": "2026-11-26T00:00:23Z",
       "privacy": "public",
-      "views": 13,
+      "views": 15,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/anjtwli9-Gg"
@@ -12028,7 +12029,7 @@
       "hook": "A bumblebee digs a hole, climbs in, and buries itself. It didn't choose to.",
       "published_at": "2026-11-26T05:30:19Z",
       "privacy": "public",
-      "views": 26,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/uXXLUZsGuvM"
@@ -12176,10 +12177,34 @@
       "hook": "One comb jelly had two mouths. Nobody knew why.",
       "published_at": "2026-11-27T00:00:18Z",
       "privacy": "public",
-      "views": 24,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PAuHiRuFCdc"
+    },
+    "-0FIGaAgCXg": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "The 5 Planets Closest to Earth on Average, Ranked (#1 Isn't Venus)",
+      "topic": "space",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "The planets closest to Earth, on average. Venus doesn't win.",
+      "published_at": "2026-11-27T09:46:45Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/-0FIGaAgCXg"
     },
     "Nk3pj_sw7bU": {
       "upload_status": "processed",
@@ -12200,8 +12225,8 @@
       "hook": "This wasp hunts ants that could tear it apart.",
       "published_at": "2026-11-27T00:30:20Z",
       "privacy": "public",
-      "views": 614,
-      "likes": 8,
+      "views": 950,
+      "likes": 10,
       "comments": 1,
       "url": "https://youtube.com/shorts/Nk3pj_sw7bU"
     },
@@ -12232,6 +12257,30 @@
       "avg_view_percent": 28.3,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "PppcntxnRSk": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT29S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Frogs Avoid 10 Kinds of Fish by Smell. This One Sneaks Right Past",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "Frogs avoid ponds with fish. This fish is the exception.",
+      "published_at": "2026-11-27T09:45:34Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/PppcntxnRSk"
     },
     "Y6sGcLt5JUI": {
       "upload_status": "processed",
