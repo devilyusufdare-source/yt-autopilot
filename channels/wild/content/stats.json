@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-27T20:22:46+00:00",
+  "updated_at": "2026-11-27T22:08:45+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 24,
-    "channel_views": 22164,
-    "video_count": 158
+    "channel_views": 22774,
+    "video_count": 159
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/c0mSsz00mDQ"
+      "https://youtube.com/shorts/cqEk2mJ1q_U"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/c0mSsz00mDQ"
+      "https://youtube.com/shorts/cqEk2mJ1q_U"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/c0mSsz00mDQ"
+      "https://youtube.com/shorts/cqEk2mJ1q_U"
     ]
   },
   "retention": {
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 159,
-  "total_views": 22987,
+  "total_videos": 160,
+  "total_views": 23099,
   "by_topic": {
     "earth": {
       "videos": 17,
@@ -106,16 +106,16 @@
     "society": {
       "videos": 12,
       "avg_views": 155,
-      "best_views": 1005
+      "best_views": 1006
     },
     "animals": {
       "videos": 18,
-      "avg_views": 243,
+      "avg_views": 248,
       "best_views": 1428
     },
     "body": {
-      "videos": 42,
-      "avg_views": 104,
+      "videos": 43,
+      "avg_views": 102,
       "best_views": 916
     },
     "technology": {
@@ -126,14 +126,14 @@
   },
   "by_style": {
     "classic": {
-      "videos": 159,
-      "avg_views": 145,
+      "videos": 160,
+      "avg_views": 144,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 158,
+      "videos": 159,
       "avg_views": 139
     },
     "en-US-EricNeural": {
@@ -187,7 +187,7 @@
     {
       "title": "What If You Never Replaced Your Kitchen Sponge?",
       "topic": "society",
-      "views": 1005,
+      "views": 1006,
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you."
     },
     {
@@ -532,7 +532,7 @@
       "published_at": "2026-10-27T16:50:07Z",
       "privacy": "public",
       "views": 1097,
-      "likes": 36,
+      "likes": 35,
       "comments": 1,
       "url": "https://youtube.com/shorts/vvwy7bHBZt4",
       "avg_view_seconds": 30.0,
@@ -4311,7 +4311,7 @@
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you.",
       "published_at": "2026-11-25T09:30:17Z",
       "privacy": "public",
-      "views": 1005,
+      "views": 1006,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/8Xl382-MJ4E",
@@ -4339,7 +4339,7 @@
       "hook": "What if you drank way too much water, too fast? The danger isn't your stomach. It's your brain.",
       "published_at": "2026-11-25T12:10:30Z",
       "privacy": "public",
-      "views": 33,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U_iEQTGWVEA",
@@ -4395,7 +4395,7 @@
       "hook": "What if you never stopped growing? Your own size would turn against you.",
       "published_at": "2026-11-25T23:10:38Z",
       "privacy": "public",
-      "views": 106,
+      "views": 108,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eZLgnXtnC-M",
@@ -4451,7 +4451,7 @@
       "hook": "What if you never wore deodorant? Your sweat wouldn't be the problem. It barely smells at all.",
       "published_at": "2026-11-26T09:20:11Z",
       "privacy": "public",
-      "views": 68,
+      "views": 84,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Derj2NcilJM"
@@ -4475,8 +4475,8 @@
       "hook": "What if you never flossed? The surprising part: science argued about this for years.",
       "published_at": "2026-11-26T12:00:21Z",
       "privacy": "public",
-      "views": 13,
-      "likes": 0,
+      "views": 14,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/PGj37PnyEsQ"
     },
@@ -4499,7 +4499,7 @@
       "hook": "What if you burped in space? It wouldn't just be air.",
       "published_at": "2026-11-26T21:00:38Z",
       "privacy": "public",
-      "views": 32,
+      "views": 34,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0qQEEjVGGAY"
@@ -4523,8 +4523,8 @@
       "hook": "What if you never changed your socks? Your feet sweat more than you think.",
       "published_at": "2026-11-26T23:00:11Z",
       "privacy": "public",
-      "views": 127,
-      "likes": 0,
+      "views": 129,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UqxuPkg__aU"
     },
@@ -4547,7 +4547,7 @@
       "hook": "What if you swallow eight spiders a year in your sleep? Even the story behind it is fake.",
       "published_at": "2026-11-26T23:50:09Z",
       "privacy": "public",
-      "views": 322,
+      "views": 402,
       "likes": 13,
       "comments": 1,
       "url": "https://youtube.com/shorts/QYdHwik4kG0"
@@ -4571,7 +4571,7 @@
       "hook": "What if every dog on Earth vanished tonight? One deadly disease would almost disappear with them.",
       "published_at": "2026-11-27T09:30:13Z",
       "privacy": "public",
-      "views": 27,
+      "views": 29,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Iq7-jW3DjlY"
@@ -4595,20 +4595,20 @@
       "hook": "What if you only slept six hours every night? You wouldn't feel the worst part.",
       "published_at": "2026-11-27T12:00:24Z",
       "privacy": "public",
-      "views": 64,
+      "views": 66,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EnixXZPVbnI"
     },
     "c0mSsz00mDQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT31S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -4617,12 +4617,36 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "What if you tried to open a plane door at 35,000 feet? You'd lose to the air.",
-      "published_at": "2026-11-27T20:22:42Z",
+      "published_at": "2026-11-27T21:00:36Z",
+      "privacy": "public",
+      "views": 3,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/c0mSsz00mDQ"
+    },
+    "cqEk2mJ1q_U": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If the 5-Second Rule Were Real?",
+      "topic": "body",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if the five-second rule were true? Scientists tested it 2,560 times.",
+      "published_at": "2026-11-27T22:08:41Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/c0mSsz00mDQ"
+      "url": "https://youtube.com/shorts/cqEk2mJ1q_U"
     }
   }
 }

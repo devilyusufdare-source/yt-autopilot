@@ -57,5 +57,22 @@
   "thumbnail_text": "WHAT IF THE 5-SECOND RULE WORKED?",
   "priority": 7,
   "first_comment": "Be honest: what's the longest you've left food on the floor and still eaten it?",
-  "id": "2027-12-03-what-if-the-5-second-rule-were-real"
+  "id": "2027-12-03-what-if-the-5-second-rule-were-real",
+  "youtube_id": "cqEk2mJ1q_U",
+  "url": "https://youtube.com/shorts/cqEk2mJ1q_U",
+  "uploaded_at": "2026-11-27T22:08:43+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-27T22:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 12,
+    "pixabay-photo": 2,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FDA4AF",
+  "duration_seconds": 36.9,
+  "style": "classic",
+  "kind": "shorts"
 }
