@@ -69,5 +69,21 @@
   ],
   "thumbnail_text": "5 HOTTEST PEPPERS, RANKED",
   "priority": 6,
-  "first_comment": "Which would you put at number one? Only five people have ever eaten a whole Pepper X. What should we rank next?"
+  "first_comment": "Which would you put at number one? Only five people have ever eaten a whole Pepper X. What should we rank next?",
+  "youtube_id": "TeMMQqzlU0o",
+  "url": "https://youtube.com/shorts/TeMMQqzlU0o",
+  "uploaded_at": "2026-11-28T04:45:26+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-28T05:10:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 15,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FFD400",
+  "duration_seconds": 43.5,
+  "style": "classic",
+  "kind": "shorts"
 }
