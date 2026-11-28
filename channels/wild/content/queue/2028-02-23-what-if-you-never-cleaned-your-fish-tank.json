@@ -1,0 +1,62 @@
+{
+  "id": "2028-02-23-what-if-you-never-cleaned-your-fish-tank",
+  "format": "whatif",
+  "topic": "animals",
+  "subject": "goldfish aquarium",
+  "title": "What If You Never Cleaned Your Fish Tank?",
+  "scenes": [
+    {
+      "text": "What if you never cleaned your fish tank? The water could look clear while it poisons the fish.",
+      "keywords": "goldfish aquarium"
+    },
+    {
+      "text": "Fish breathe out ammonia through their gills. Above a tiny 0.05 milligrams per litre, it starts damaging their tissue.",
+      "keywords": "fish gills closeup"
+    },
+    {
+      "text": "Bacteria in the filter turn it into nitrite, then nitrate. That team takes six to eight weeks to grow.",
+      "keywords": "aquarium filter"
+    },
+    {
+      "text": "Skip water changes for months and nitrate piles up. Algae explodes, and the water slowly turns acidic.",
+      "keywords": "green algae aquarium"
+    },
+    {
+      "text": "Then the trap: a sudden huge clean swings the chemistry back, and fish can die right after.",
+      "keywords": "cleaning fish tank"
+    },
+    {
+      "text": "Yet a sealed glass ball with shrimp and algae can run for years without cleaning. Balance beats scrubbing.",
+      "keywords": "glass sphere shrimp"
+    }
+  ],
+  "description": "What if you never cleaned your fish tank? Fish release ammonia through their gills, and University of Florida experts say tissue damage can start above 0.05 mg/L of un-ionised ammonia.\nFilter bacteria take six to eight weeks to establish, nitrate builds up between water changes, and a neglected tank can turn acidic, so one sudden big clean can shock the fish.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "fish tank",
+    "aquarium",
+    "goldfish",
+    "ammonia",
+    "nitrogen cycle",
+    "water change",
+    "pet fish",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#aquarium",
+    "#fish"
+  ],
+  "sources": [
+    "https://ask.ifas.ufl.edu/publication/FA031",
+    "https://extension.rwfm.tamu.edu/wp-content/uploads/sites/8/2013/09/Ammonia-in-Aquatic-Systems.pdf",
+    "https://www.tfhmagazine.com/articles/freshwater/old-tank-syndrome-problems-solutions",
+    "https://en.wikipedia.org/wiki/Ecosphere_(aquarium)"
+  ],
+  "thumbnail_text": "WHAT IF YOU NEVER CLEANED IT?",
+  "priority": 5,
+  "first_comment": "How often do you change your tank water? What should we run through next?"
+}

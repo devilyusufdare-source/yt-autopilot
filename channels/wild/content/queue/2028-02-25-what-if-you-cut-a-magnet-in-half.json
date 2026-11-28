@@ -1,0 +1,62 @@
+{
+  "id": "2028-02-25-what-if-you-cut-a-magnet-in-half",
+  "format": "whatif",
+  "topic": "technology",
+  "subject": "bar magnet",
+  "title": "What If You Cut a Magnet in Half?",
+  "scenes": [
+    {
+      "text": "What if you cut a magnet in half? You'd never get a lonely north pole.",
+      "keywords": "bar magnet"
+    },
+    {
+      "text": "Snap a bar magnet and both pieces instantly have a north and a south. Two new magnets.",
+      "keywords": "bar magnet iron filings"
+    },
+    {
+      "text": "Inside, billions of tiny regions called domains already point the same way. The break just exposes them.",
+      "keywords": "magnet closeup"
+    },
+    {
+      "text": "Keep cutting, down to a single electron. It's still a tiny magnet with two poles.",
+      "keywords": "microscope lab"
+    },
+    {
+      "text": "A lone pole, a monopole, was predicted in the 1930s. In 1982 a Stanford detector saw one possible hit. Never again.",
+      "keywords": "particle detector"
+    },
+    {
+      "text": "Want to really kill a magnet? Don't cut it. Heat iron past 770 degrees Celsius and the magnetism vanishes.",
+      "keywords": "red hot metal"
+    }
+  ],
+  "description": "What if you cut a magnet in half? Each piece becomes a complete magnet with its own north and south pole, because the magnetism comes from aligned domains and ultimately from electrons, which are tiny dipoles themselves.\nNo magnetic monopole has ever been confirmed; one candidate event at Stanford in 1982 was never repeated. Heating iron above its 770 C Curie point destroys its magnetism.\nWhat should we run through next?",
+  "tags": [
+    "what if",
+    "magnet",
+    "cut a magnet in half",
+    "magnetic monopole",
+    "magnetic domains",
+    "curie point",
+    "physics",
+    "technology",
+    "science explained",
+    "what would happen",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#whatif",
+    "#magnet",
+    "#physics"
+  ],
+  "sources": [
+    "https://van.physics.illinois.edu/ask/listing/437",
+    "https://home.cern/news/news/experiments/moedal-closes-search-magnetic-particle",
+    "https://physicstoday.aip.org/news/cabrera-counts-flux-quanta-to-find-a-dirac-monopole",
+    "https://www.britannica.com/science/Curie-point"
+  ],
+  "thumbnail_text": "WHAT IF YOU CUT A MAGNET?",
+  "priority": 6,
+  "first_comment": "What do you think: will anyone ever find a magnetic monopole? What should we run through next?"
+}
