@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-11-28T00:33:18+00:00",
+  "updated_at": "2026-11-28T01:22:24+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 97,
     "channel_views": 133330,
-    "video_count": 483
+    "video_count": 485
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/a65XwMJytsQ",
-      "https://youtube.com/shorts/1iiZqlQloIQ"
+      "https://youtube.com/shorts/hSVl0GvMFhU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/1iiZqlQloIQ"
+      "https://youtube.com/shorts/hSVl0GvMFhU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/1iiZqlQloIQ"
+      "https://youtube.com/shorts/hSVl0GvMFhU"
     ]
   },
   "retention": {
@@ -93,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 483,
-  "total_views": 134855,
+  "total_videos": 484,
+  "total_views": 134902,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -107,8 +106,8 @@
       "best_views": 1648
     },
     "animals": {
-      "videos": 370,
-      "avg_views": 301,
+      "videos": 371,
+      "avg_views": 300,
       "best_views": 1507
     },
     "human body": {
@@ -139,7 +138,7 @@
   },
   "by_style": {
     "classic": {
-      "videos": 467,
+      "videos": 468,
       "avg_views": 274,
       "over_1500": 3
     },
@@ -151,7 +150,7 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 397,
+      "videos": 398,
       "avg_views": 243
     },
     "en-US-BrianNeural": {
@@ -227,7 +226,7 @@
     {
       "title": "The 5 Longest Snakes Alive, Ranked (The Anaconda Is Only #5)",
       "topic": "animals",
-      "views": 1270,
+      "views": 1289,
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five."
     },
     {
@@ -5745,7 +5744,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 974,
+      "views": 976,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg",
@@ -8097,7 +8096,7 @@
       "hook": "One soldier kept fighting World War Two until 1974.",
       "published_at": "2026-11-26T10:30:33Z",
       "privacy": "public",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/DYaBvqqnwVE"
@@ -9965,7 +9964,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 1270,
+      "views": 1289,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8",
@@ -10329,7 +10328,7 @@
       "hook": "A bird smaller than your fist walks up to a raccoon and starts pulling its fur.",
       "published_at": "2026-11-25T10:20:07Z",
       "privacy": "public",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/NaRqPn4-tVM",
@@ -10357,7 +10356,7 @@
       "hook": "Every winter, this tiny animal shrinks its own skull.",
       "published_at": "2026-11-25T10:50:35Z",
       "privacy": "public",
-      "views": 18,
+      "views": 21,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/59sLe__3Ywk",
@@ -10493,7 +10492,7 @@
       "hook": "A cow in Austria uses a tool. And she knows which end to hold.",
       "published_at": "2026-11-27T00:50:12Z",
       "privacy": "public",
-      "views": 774,
+      "views": 778,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/1s6S1orvGio"
@@ -10573,8 +10572,8 @@
       "hook": "On one island, young monkeys started stealing babies, and they don't eat them.",
       "published_at": "2026-11-27T02:15:35Z",
       "privacy": "public",
-      "views": 512,
-      "likes": 6,
+      "views": 514,
+      "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/vekm1K42Fr8"
     },
@@ -10625,7 +10624,7 @@
       "hook": "This fly flies exactly once in its life. Then it throws its wings away.",
       "published_at": "2026-11-27T02:50:00Z",
       "privacy": "public",
-      "views": 436,
+      "views": 437,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-hNPmwMTw5A"
@@ -10701,7 +10700,7 @@
       "hook": "This spider catches one firefly, then uses it to catch more.",
       "published_at": "2026-11-27T03:40:33Z",
       "privacy": "public",
-      "views": 931,
+      "views": 933,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/gt6OcmhFvRU"
@@ -10725,9 +10724,9 @@
       "hook": "One bird lives on a diet that's almost all bone.",
       "published_at": "2026-11-28T00:00:37Z",
       "privacy": "public",
-      "views": 4,
+      "views": 1,
       "likes": 1,
-      "comments": 1,
+      "comments": 0,
       "url": "https://youtube.com/shorts/vlqZ1u35Z04"
     },
     "GxA5nIc9oX4": {
@@ -10749,9 +10748,9 @@
       "hook": "Some wolves don't chase their dinner. They wait for it.",
       "published_at": "2026-11-28T00:30:01Z",
       "privacy": "public",
-      "views": 0,
+      "views": 9,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/GxA5nIc9oX4"
     },
     "wgJfNru7RlQ": {
@@ -10855,11 +10854,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The world's ugliest animal doesn't actually look like that.",
-      "published_at": "2026-11-28T00:32:09Z",
-      "privacy": "private",
-      "views": 0,
+      "published_at": "2026-11-28T01:00:07Z",
+      "privacy": "public",
+      "views": 4,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "url": "https://youtube.com/shorts/a65XwMJytsQ"
     },
     "0wfI9vjWDs0": {
@@ -10891,14 +10890,14 @@
       "subscribers_gained": 0
     },
     "1iiZqlQloIQ": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
       "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT26S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10907,8 +10906,8 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "This bug bites people on the face at night. The bite isn't what makes you sick.",
-      "published_at": "2026-11-28T00:33:08Z",
-      "privacy": "private",
+      "published_at": "2026-11-28T01:20:38Z",
+      "privacy": "public",
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -10969,6 +10968,30 @@
       "avg_view_percent": 311.7,
       "shares": 0,
       "subscribers_gained": 0
+    },
+    "hSVl0GvMFhU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": null,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "A 40-Pound Wild Dog Hunts Deer Ten Times Its Size by Whistling",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "In Asia's forests, hunters whistle to each other. They aren't human.",
+      "published_at": "2026-11-28T01:22:15Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/hSVl0GvMFhU"
     },
     "0vJdogyC_lY": {
       "upload_status": "processed",
@@ -11717,7 +11740,7 @@
       "hook": "This larva kills termites without biting first.",
       "published_at": "2026-11-24T12:00:05Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1kZFpfwsvaY",
@@ -12273,7 +12296,7 @@
       "hook": "Snakes almost always hunt alone. In one Cuban cave, they team up.",
       "published_at": "2026-11-26T21:00:26Z",
       "privacy": "public",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/X0nAilZAqek"
