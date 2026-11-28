@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-27T23:00:36+00:00",
+  "updated_at": "2026-11-28T08:24:04+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 24,
-    "channel_views": 22774,
-    "video_count": 160
+    "channel_views": 23166,
+    "video_count": 161
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/-KTGbFYQcu4"
+      "https://youtube.com/shorts/RynvKIPJrNo"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/-KTGbFYQcu4"
+      "https://youtube.com/shorts/RynvKIPJrNo"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/-KTGbFYQcu4"
+      "https://youtube.com/shorts/RynvKIPJrNo"
     ]
   },
   "retention": {
@@ -90,13 +90,13 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 161,
-  "total_views": 23151,
+  "total_videos": 162,
+  "total_views": 23902,
   "by_topic": {
     "earth": {
       "videos": 17,
       "avg_views": 281,
-      "best_views": 1175
+      "best_views": 1177
     },
     "space": {
       "videos": 48,
@@ -110,31 +110,31 @@
     },
     "animals": {
       "videos": 19,
-      "avg_views": 234,
+      "avg_views": 267,
       "best_views": 1428
     },
     "body": {
       "videos": 43,
-      "avg_views": 104,
-      "best_views": 916
+      "avg_views": 107,
+      "best_views": 922
     },
     "technology": {
-      "videos": 22,
-      "avg_views": 87,
+      "videos": 23,
+      "avg_views": 84,
       "best_views": 1047
     }
   },
   "by_style": {
     "classic": {
-      "videos": 161,
-      "avg_views": 144,
+      "videos": 162,
+      "avg_views": 148,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 160,
-      "avg_views": 138
+      "videos": 161,
+      "avg_views": 142
     },
     "en-US-EricNeural": {
       "videos": 1,
@@ -163,7 +163,7 @@
     {
       "title": "What If the Siberian Traps Erupted Again?",
       "topic": "earth",
-      "views": 1175,
+      "views": 1177,
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano."
     },
     {
@@ -193,7 +193,7 @@
     {
       "title": "What If You Never Cleaned Your Belly Button?",
       "topic": "body",
-      "views": 916,
+      "views": 922,
       "hook": "What if you never cleaned your belly button? You'd be growing a tiny rainforest."
     },
     {
@@ -1007,7 +1007,7 @@
       "hook": "What if the volcano that nearly ended life on Earth erupted again? It wasn't one volcano.",
       "published_at": "2026-10-30T02:40:39Z",
       "privacy": "public",
-      "views": 1175,
+      "views": 1177,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/ZUqekDSPv74",
@@ -1427,7 +1427,7 @@
       "hook": "What if you had a chimpanzee's muscles? You'd be stronger. Just not the way the internet says.",
       "published_at": "2026-11-12T08:10:36Z",
       "privacy": "public",
-      "views": 63,
+      "views": 64,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tT9xVmnTaBE",
@@ -3784,7 +3784,7 @@
       "comments": 1,
       "url": "https://youtube.com/shorts/rnrf8cSlOmc",
       "avg_view_seconds": 24.0,
-      "avg_view_percent": 56.4,
+      "avg_view_percent": 56.6,
       "shares": 0,
       "subscribers_gained": 0
     },
@@ -4087,7 +4087,7 @@
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
       "published_at": "2026-11-23T23:30:38Z",
       "privacy": "public",
-      "views": 72,
+      "views": 75,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uA4BiNGtBCI",
@@ -4255,7 +4255,7 @@
       "hook": "What if you held in every sneeze? The pressure has to go somewhere.",
       "published_at": "2026-11-24T23:40:33Z",
       "privacy": "public",
-      "views": 33,
+      "views": 34,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3JAwig_ZbLc",
@@ -4339,7 +4339,7 @@
       "hook": "What if you drank way too much water, too fast? The danger isn't your stomach. It's your brain.",
       "published_at": "2026-11-25T12:10:30Z",
       "privacy": "public",
-      "views": 34,
+      "views": 35,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/U_iEQTGWVEA",
@@ -4367,7 +4367,7 @@
       "hook": "What if you never cleaned your belly button? You'd be growing a tiny rainforest.",
       "published_at": "2026-11-25T21:10:16Z",
       "privacy": "public",
-      "views": 916,
+      "views": 922,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/xMq0LUr2j1E",
@@ -4395,7 +4395,7 @@
       "hook": "What if you never stopped growing? Your own size would turn against you.",
       "published_at": "2026-11-25T23:10:38Z",
       "privacy": "public",
-      "views": 108,
+      "views": 109,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eZLgnXtnC-M",
@@ -4451,8 +4451,8 @@
       "hook": "What if you never wore deodorant? Your sweat wouldn't be the problem. It barely smells at all.",
       "published_at": "2026-11-26T09:20:11Z",
       "privacy": "public",
-      "views": 86,
-      "likes": 0,
+      "views": 102,
+      "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Derj2NcilJM"
     },
@@ -4475,7 +4475,7 @@
       "hook": "What if you never flossed? The surprising part: science argued about this for years.",
       "published_at": "2026-11-26T12:00:21Z",
       "privacy": "public",
-      "views": 15,
+      "views": 17,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/PGj37PnyEsQ"
@@ -4499,7 +4499,7 @@
       "hook": "What if you burped in space? It wouldn't just be air.",
       "published_at": "2026-11-26T21:00:38Z",
       "privacy": "public",
-      "views": 34,
+      "views": 38,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0qQEEjVGGAY"
@@ -4523,7 +4523,7 @@
       "hook": "What if you never changed your socks? Your feet sweat more than you think.",
       "published_at": "2026-11-26T23:00:11Z",
       "privacy": "public",
-      "views": 129,
+      "views": 135,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/UqxuPkg__aU"
@@ -4547,8 +4547,8 @@
       "hook": "What if you swallow eight spiders a year in your sleep? Even the story behind it is fake.",
       "published_at": "2026-11-26T23:50:09Z",
       "privacy": "public",
-      "views": 396,
-      "likes": 13,
+      "views": 508,
+      "likes": 14,
       "comments": 1,
       "url": "https://youtube.com/shorts/QYdHwik4kG0"
     },
@@ -4571,7 +4571,7 @@
       "hook": "What if every dog on Earth vanished tonight? One deadly disease would almost disappear with them.",
       "published_at": "2026-11-27T09:30:13Z",
       "privacy": "public",
-      "views": 24,
+      "views": 40,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Iq7-jW3DjlY"
@@ -4595,7 +4595,7 @@
       "hook": "What if you only slept six hours every night? You wouldn't feel the worst part.",
       "published_at": "2026-11-27T12:00:24Z",
       "privacy": "public",
-      "views": 66,
+      "views": 76,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EnixXZPVbnI"
@@ -4619,7 +4619,7 @@
       "hook": "What if you tried to open a plane door at 35,000 feet? You'd lose to the air.",
       "published_at": "2026-11-27T21:00:36Z",
       "privacy": "public",
-      "views": 3,
+      "views": 14,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/c0mSsz00mDQ"
@@ -4643,12 +4643,36 @@
       "hook": "What if the five-second rule were true? Scientists tested it 2,560 times.",
       "published_at": "2026-11-27T22:40:13Z",
       "privacy": "public",
-      "views": 59,
+      "views": 129,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/cqEk2mJ1q_U"
     },
     "-KTGbFYQcu4": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT32S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If a Swarm of Bees Chased You?",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if a swarm of angry bees chased you? Jumping into water is the worst move.",
+      "published_at": "2026-11-27T23:30:27Z",
+      "privacy": "public",
+      "views": 489,
+      "likes": 5,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/-KTGbFYQcu4"
+    },
+    "RynvKIPJrNo": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": null,
@@ -4660,17 +4684,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If a Swarm of Bees Chased You?",
-      "topic": "animals",
+      "title": "What If You Microwaved Two Grapes?",
+      "topic": "technology",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if a swarm of angry bees chased you? Jumping into water is the worst move.",
-      "published_at": "2026-11-27T23:00:32Z",
+      "hook": "What if you put two grapes in a microwave? You'd make the same glowing stuff as lightning.",
+      "published_at": "2026-11-28T08:24:00Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/-KTGbFYQcu4"
+      "url": "https://youtube.com/shorts/RynvKIPJrNo"
     }
   }
 }

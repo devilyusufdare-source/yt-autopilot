@@ -58,5 +58,21 @@
   "thumbnail_text": "WHAT IF YOU MICROWAVED GRAPES?",
   "priority": 7,
   "first_comment": "What everyday object would you want scientists to put in a microwave next? Give us your what-if.",
-  "id": "2027-12-07-what-if-you-microwaved-two-grapes"
+  "id": "2027-12-07-what-if-you-microwaved-two-grapes",
+  "youtube_id": "RynvKIPJrNo",
+  "url": "https://youtube.com/shorts/RynvKIPJrNo",
+  "uploaded_at": "2026-11-28T08:24:03+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-28T08:50:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 13,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#67E8F9",
+  "duration_seconds": 36.0,
+  "style": "classic",
+  "kind": "shorts"
 }
