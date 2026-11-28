@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-28T04:45:30+00:00",
+  "updated_at": "2026-11-28T08:59:33+00:00",
   "channel": {
     "title": "MIND UNLOCKED FACTS",
     "id": "UCRYbLH8KGHKxCZv6nYiuCXw",
     "handle": "@mindunlockedfacts123",
     "subscribers": 99,
-    "channel_views": 133330,
-    "video_count": 488
+    "channel_views": 134961,
+    "video_count": 489
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/TeMMQqzlU0o"
+      "https://youtube.com/shorts/IgHCa-uduDU"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/TeMMQqzlU0o"
+      "https://youtube.com/shorts/IgHCa-uduDU"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/TeMMQqzlU0o"
+      "https://youtube.com/shorts/IgHCa-uduDU"
     ]
   },
   "retention": {
@@ -92,8 +92,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 487,
-  "total_views": 136144,
+  "total_videos": 488,
+  "total_views": 137808,
   "by_topic": {
     "psychology": {
       "videos": 6,
@@ -102,12 +102,12 @@
     },
     "science": {
       "videos": 33,
-      "avg_views": 195,
+      "avg_views": 196,
       "best_views": 1648
     },
     "animals": {
-      "videos": 372,
-      "avg_views": 303,
+      "videos": 373,
+      "avg_views": 306,
       "best_views": 1507
     },
     "human body": {
@@ -122,12 +122,12 @@
     },
     "space": {
       "videos": 34,
-      "avg_views": 273,
+      "avg_views": 275,
       "best_views": 1513
     },
     "technology": {
       "videos": 10,
-      "avg_views": 109,
+      "avg_views": 110,
       "best_views": 286
     },
     "games": {
@@ -138,8 +138,8 @@
   },
   "by_style": {
     "classic": {
-      "videos": 471,
-      "avg_views": 275,
+      "videos": 472,
+      "avg_views": 278,
       "over_1500": 3
     },
     "punch": {
@@ -150,8 +150,8 @@
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 401,
-      "avg_views": 244
+      "videos": 402,
+      "avg_views": 248
     },
     "en-US-BrianNeural": {
       "videos": 29,
@@ -220,7 +220,7 @@
     {
       "title": "The 5 Longest Snakes Alive, Ranked (The Anaconda Is Only #5)",
       "topic": "animals",
-      "views": 1293,
+      "views": 1305,
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five."
     },
     {
@@ -956,7 +956,7 @@
       "hook": "This animal looks like a guinea pig. Its closest cousins are elephants.",
       "published_at": "2026-10-26T18:00:13Z",
       "privacy": "public",
-      "views": 53,
+      "views": 54,
       "likes": 2,
       "comments": 2,
       "url": "https://youtube.com/shorts/LCa_cpMsZOQ",
@@ -5604,7 +5604,7 @@
       "hook": "Baby tiger sharks eat woodpeckers. Out at sea.",
       "published_at": "2026-11-16T00:20:39Z",
       "privacy": "public",
-      "views": 76,
+      "views": 77,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/1J5b6SERGtE",
@@ -5632,7 +5632,7 @@
       "hook": "The slowest hunt ever filmed still ended with a kill.",
       "published_at": "2026-11-07T15:00:39Z",
       "privacy": "public",
-      "views": 977,
+      "views": 979,
       "likes": 11,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ww1LdzP7oCk",
@@ -5744,7 +5744,7 @@
       "hook": "This scorpion can snap off its own tail. The price is horrifying.",
       "published_at": "2026-11-07T19:00:21Z",
       "privacy": "public",
-      "views": 976,
+      "views": 977,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/3jLJ84OAdqg",
@@ -7732,7 +7732,7 @@
       "hook": "A satellite that died in 1967 is transmitting again.",
       "published_at": "2026-11-20T04:50:16Z",
       "privacy": "public",
-      "views": 282,
+      "views": 283,
       "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/OcstKSV45J0",
@@ -7844,7 +7844,7 @@
       "hook": "A newly found spider doesn't chase ants. It launches them.",
       "published_at": "2026-11-05T12:30:24Z",
       "privacy": "public",
-      "views": 20,
+      "views": 22,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/cHsF4Dcrv30",
@@ -8452,7 +8452,7 @@
       "hook": "Six American flags stand on the Moon. None has any colour left.",
       "published_at": "2026-11-28T02:40:12Z",
       "privacy": "public",
-      "views": 33,
+      "views": 104,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Ug9-r7Udzfc"
@@ -9260,7 +9260,7 @@
       "hook": "Science once named a worm. It was an octopus's arm.",
       "published_at": "2026-11-22T00:30:01Z",
       "privacy": "public",
-      "views": 129,
+      "views": 133,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EfrF1VO5eqc",
@@ -9484,7 +9484,7 @@
       "hook": "Thousands of spiders share one web. And they hunt in step.",
       "published_at": "2026-11-22T23:00:19Z",
       "privacy": "public",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/h9Bg2t9zZIo",
@@ -9988,7 +9988,7 @@
       "hook": "The five longest snakes alive, ranked by the longest measured specimen. The anaconda only makes number five.",
       "published_at": "2026-11-24T04:10:30Z",
       "privacy": "public",
-      "views": 1293,
+      "views": 1305,
       "likes": 17,
       "comments": 1,
       "url": "https://youtube.com/shorts/rc6PXu-F2v8",
@@ -10222,14 +10222,14 @@
       "subscribers_gained": 0
     },
     "TeMMQqzlU0o": {
-      "upload_status": "uploaded",
+      "upload_status": "processed",
       "rejection_reason": null,
-      "made_for_kids": null,
+      "made_for_kids": false,
       "self_declared_made_for_kids": false,
       "embeddable": true,
       "license": "youtube",
-      "duration": "P0D",
-      "definition": "sd",
+      "duration": "PT44S",
+      "definition": "hd",
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
@@ -10238,11 +10238,11 @@
       "style": "classic",
       "voice": "en-US-AndrewNeural",
       "hook": "The five hottest record-breaking peppers, ranked. Number one floored the man who bred it.",
-      "published_at": "2026-11-28T04:45:22Z",
-      "privacy": "private",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
+      "published_at": "2026-11-28T05:10:21Z",
+      "privacy": "public",
+      "views": 25,
+      "likes": 1,
+      "comments": 1,
       "url": "https://youtube.com/shorts/TeMMQqzlU0o"
     },
     "nH-9GNDFIFU": {
@@ -10320,7 +10320,7 @@
       "hook": "A wild cat in Spain does something no carnivore was ever seen doing.",
       "published_at": "2026-11-25T06:20:38Z",
       "privacy": "public",
-      "views": 45,
+      "views": 47,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/otgPu858_iI",
@@ -10460,8 +10460,8 @@
       "hook": "Wolves grabbed a newborn bison calf. Then the herd turned around.",
       "published_at": "2026-11-26T03:40:28Z",
       "privacy": "public",
-      "views": 987,
-      "likes": 8,
+      "views": 1010,
+      "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/WwM1elNJYko",
       "avg_view_seconds": 16.0,
@@ -10620,7 +10620,7 @@
       "hook": "On one island, young monkeys started stealing babies, and they don't eat them.",
       "published_at": "2026-11-27T02:15:35Z",
       "privacy": "public",
-      "views": 516,
+      "views": 518,
       "likes": 7,
       "comments": 1,
       "url": "https://youtube.com/shorts/vekm1K42Fr8"
@@ -10672,7 +10672,7 @@
       "hook": "This fly flies exactly once in its life. Then it throws its wings away.",
       "published_at": "2026-11-27T02:50:00Z",
       "privacy": "public",
-      "views": 439,
+      "views": 440,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/-hNPmwMTw5A"
@@ -10748,7 +10748,7 @@
       "hook": "This spider catches one firefly, then uses it to catch more.",
       "published_at": "2026-11-27T03:40:33Z",
       "privacy": "public",
-      "views": 933,
+      "views": 935,
       "likes": 9,
       "comments": 1,
       "url": "https://youtube.com/shorts/gt6OcmhFvRU"
@@ -10772,7 +10772,7 @@
       "hook": "One bird lives on a diet that's almost all bone.",
       "published_at": "2026-11-28T00:00:37Z",
       "privacy": "public",
-      "views": 75,
+      "views": 146,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/vlqZ1u35Z04"
@@ -10796,7 +10796,7 @@
       "hook": "Some wolves don't chase their dinner. They wait for it.",
       "published_at": "2026-11-28T00:30:01Z",
       "privacy": "public",
-      "views": 205,
+      "views": 365,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/GxA5nIc9oX4"
@@ -10848,7 +10848,7 @@
       "hook": "A fly the size of a grain of rice hunts like a guided missile.",
       "published_at": "2026-11-21T00:00:26Z",
       "privacy": "public",
-      "views": 147,
+      "views": 151,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/6RusQeLzNC8",
@@ -10904,8 +10904,8 @@
       "hook": "The world's ugliest animal doesn't actually look like that.",
       "published_at": "2026-11-28T01:00:07Z",
       "privacy": "public",
-      "views": 256,
-      "likes": 3,
+      "views": 604,
+      "likes": 8,
       "comments": 1,
       "url": "https://youtube.com/shorts/a65XwMJytsQ"
     },
@@ -10956,8 +10956,8 @@
       "hook": "This bug bites people on the face at night. The bite isn't what makes you sick.",
       "published_at": "2026-11-28T01:20:38Z",
       "privacy": "public",
-      "views": 336,
-      "likes": 3,
+      "views": 860,
+      "likes": 4,
       "comments": 1,
       "url": "https://youtube.com/shorts/1iiZqlQloIQ"
     },
@@ -11036,8 +11036,8 @@
       "hook": "In Asia's forests, hunters whistle to each other. They aren't human.",
       "published_at": "2026-11-28T02:15:21Z",
       "privacy": "public",
-      "views": 180,
-      "likes": 1,
+      "views": 428,
+      "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/hSVl0GvMFhU"
     },
@@ -11060,10 +11060,34 @@
       "hook": "Lizards and doves ignore these birds overhead. That's a mistake.",
       "published_at": "2026-11-28T03:10:30Z",
       "privacy": "public",
-      "views": 44,
-      "likes": 0,
+      "views": 168,
+      "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/lyhjfpvAhx4"
+    },
+    "IgHCa-uduDU": {
+      "upload_status": "uploaded",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "P0D",
+      "definition": "sd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "Burrowing Owls Spread Dung Around Their Door, and It Works",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "This owl decorates its front door with something disgusting.",
+      "published_at": "2026-11-28T08:59:24Z",
+      "privacy": "private",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://youtube.com/shorts/IgHCa-uduDU"
     },
     "0vJdogyC_lY": {
       "upload_status": "processed",
@@ -11252,7 +11276,7 @@
       "hook": "On one Scottish island, red deer bite the heads off baby birds. There's a reason.",
       "published_at": "2026-11-22T19:00:26Z",
       "privacy": "public",
-      "views": 758,
+      "views": 759,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/aeYWyH7qqQQ",
@@ -11532,7 +11556,7 @@
       "hook": "One hornet sting can kill a mouse. This frog eats hornets.",
       "published_at": "2026-11-23T23:10:02Z",
       "privacy": "public",
-      "views": 131,
+      "views": 132,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/hsIoAzF-Tyo",
@@ -11560,7 +11584,7 @@
       "hook": "This parrot lost half his beak. Now he's the boss.",
       "published_at": "2026-11-24T00:50:09Z",
       "privacy": "public",
-      "views": 372,
+      "views": 373,
       "likes": 3,
       "comments": 1,
       "url": "https://youtube.com/shorts/C-B8qGMgpYU",
@@ -12120,7 +12144,7 @@
       "hook": "Two hurricanes accidentally ran a perfect experiment on these lizards.",
       "published_at": "2026-11-26T00:20:35Z",
       "privacy": "public",
-      "views": 165,
+      "views": 166,
       "likes": 2,
       "comments": 1,
       "url": "https://youtube.com/shorts/NyxwrkQfC8E",
@@ -12204,7 +12228,7 @@
       "hook": "Seals can feel something your body is completely blind to.",
       "published_at": "2026-11-26T02:50:05Z",
       "privacy": "public",
-      "views": 479,
+      "views": 501,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/pC9hsHVWFZc",
@@ -12368,7 +12392,7 @@
       "hook": "Snakes almost always hunt alone. In one Cuban cave, they team up.",
       "published_at": "2026-11-26T21:00:26Z",
       "privacy": "public",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/X0nAilZAqek"
@@ -12416,7 +12440,7 @@
       "hook": "One comb jelly had two mouths. Nobody knew why.",
       "published_at": "2026-11-27T00:00:18Z",
       "privacy": "public",
-      "views": 30,
+      "views": 32,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PAuHiRuFCdc"
@@ -12516,7 +12540,7 @@
       "hook": "Frogs avoid ponds with fish. This fish is the exception.",
       "published_at": "2026-11-27T10:10:13Z",
       "privacy": "public",
-      "views": 180,
+      "views": 181,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/PppcntxnRSk"
@@ -12568,7 +12592,7 @@
       "hook": "This hawk gets about half an hour to hunt each day.",
       "published_at": "2026-11-27T21:00:22Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/mgxevWGmVro"
@@ -12732,7 +12756,7 @@
       "hook": "Some chimpanzees make weapons, and it isn't the big males.",
       "published_at": "2026-11-27T22:10:31Z",
       "privacy": "public",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/3IMQEB2rmEY"
@@ -12756,7 +12780,7 @@
       "hook": "Sharks kept dying in one aquarium tank. Nobody saw who did it.",
       "published_at": "2026-11-27T22:30:08Z",
       "privacy": "public",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/5y1u_IU3E44"

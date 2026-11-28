@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "DUNG AT THE DOOR. 10X MORE PREY",
   "priority": 6,
-  "first_comment": "Owls also drag squashed toads home from the road. Would you call this tool use?"
+  "first_comment": "Owls also drag squashed toads home from the road. Would you call this tool use?",
+  "youtube_id": "IgHCa-uduDU",
+  "url": "https://youtube.com/shorts/IgHCa-uduDU",
+  "uploaded_at": "2026-11-28T08:59:29+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-28T09:30:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 10,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 27.0,
+  "style": "classic",
+  "kind": "shorts"
 }
