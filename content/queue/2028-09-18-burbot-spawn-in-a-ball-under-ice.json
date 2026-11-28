@@ -1,0 +1,62 @@
+{
+  "id": "2028-09-18-burbot-spawn-in-a-ball-under-ice",
+  "format": "fact",
+  "topic": "animals",
+  "subject": "burbot fish",
+  "title": "This Fish Only Spawns Under Ice, in a Writhing Ball in Late Winter",
+  "scenes": [
+    {
+      "text": "Under a frozen lake in February, a ball of fish is twisting in the dark.",
+      "keywords": "frozen lake"
+    },
+    {
+      "text": "They're burbot, the only cod that lives its whole life in fresh water.",
+      "keywords": "burbot"
+    },
+    {
+      "text": "Many fish wait for spring. Burbot pick the coldest, darkest stretch of the year.",
+      "keywords": "ice fishing"
+    },
+    {
+      "text": "In late winter, under the ice, they crowd together into a big writhing ball.",
+      "keywords": "burbot"
+    },
+    {
+      "text": "Then they release eggs and sperm all at once. One big female can make over a million eggs.",
+      "keywords": "burbot"
+    },
+    {
+      "text": "So that silent frozen lake isn't dead. Something under your feet is spawning.",
+      "keywords": "frozen lake"
+    }
+  ],
+  "description": "Burbot, the only freshwater member of the cod family in North America, spawn under the ice in late winter, roughly February to March.\nThey gather into a large writhing ball and broadcast eggs and milt into the water; a big female can produce more than a million tiny eggs.\nWould you go ice fishing knowing this was happening below you?",
+  "tags": [
+    "burbot",
+    "freshwater cod",
+    "lota lota",
+    "fish facts",
+    "winter animals",
+    "frozen lake",
+    "ice fishing",
+    "freshwater fish",
+    "animal facts",
+    "nature facts",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": [
+    "#shorts",
+    "#fish",
+    "#winter",
+    "#animals"
+  ],
+  "sources": [
+    "https://www.adfg.alaska.gov/index.cfm?adfg=burbot.main",
+    "https://www.fws.gov/story/burbot-singsong-gadoid",
+    "https://www.vermontpublic.org/local-news/2024-02-28/meet-the-burbot-the-slimy-fish-that-only-spawns-in-winter"
+  ],
+  "thumbnail_text": "SPAWNS UNDER THE ICE",
+  "priority": 0,
+  "first_comment": "Burbot can live 20 years or more, and they don't spawn until about age six. What's the strangest fish you've ever caught or seen?"
+}

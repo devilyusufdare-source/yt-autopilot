@@ -1,0 +1,70 @@
+{
+  "id": "2028-09-14-five-busiest-container-ports-ranked",
+  "format": "ranking",
+  "topic": "technology",
+  "subject": "container port",
+  "ranking_by": "containers handled in 2024, in twenty-foot units (TEU)",
+  "title": "The 5 Busiest Container Ports on Earth, Ranked (4 Are in One Country)",
+  "scenes": [
+    {
+      "text": "The five busiest ports on Earth. Four of them are in one country.",
+      "keywords": "container ship port"
+    },
+    {
+      "text": "Number five: Qingdao. About thirty-one million container loads in one year.",
+      "keywords": "container port cranes",
+      "rank": 5,
+      "label": "Qingdao · 30.9M TEU"
+    },
+    {
+      "text": "Number four: Shenzhen. Thirty-three million, right next door to Hong Kong.",
+      "keywords": "container terminal aerial",
+      "rank": 4,
+      "label": "Shenzhen · 33.4M TEU"
+    },
+    {
+      "text": "Number three: Ningbo-Zhoushan. Thirty-nine million, and it's catching up with number two fast.",
+      "keywords": "container ship loading",
+      "rank": 3,
+      "label": "Ningbo-Zhoushan · 39.3M TEU"
+    },
+    {
+      "text": "Number two: Singapore. Forty-one million, the only one outside China.",
+      "keywords": "singapore port",
+      "rank": 2,
+      "label": "Singapore · 41.1M TEU"
+    },
+    {
+      "text": "Number one: Shanghai. Over fifty-one million. That's more than one and a half container loads every second, all year.",
+      "keywords": "shanghai port",
+      "rank": 1,
+      "label": "Shanghai · 51.5M TEU"
+    }
+  ],
+  "description": "Four of the world's five busiest container ports are in China.\nIn 2024 Shanghai handled about 51.5 million twenty-foot container units, Singapore 41.1 million, Ningbo-Zhoushan 39.3 million, Shenzhen 33.4 million and Qingdao 30.9 million.\nWhich port would you have guessed at number one?",
+  "tags": [
+    "busiest ports in the world",
+    "container ports",
+    "port of shanghai",
+    "port of singapore",
+    "ningbo zhoushan",
+    "shenzhen port",
+    "qingdao port",
+    "shipping containers",
+    "container ships",
+    "technology facts",
+    "ranked",
+    "top 5",
+    "mind blowing facts",
+    "shorts facts"
+  ],
+  "hashtags": ["#shorts", "#shipping", "#ports", "#facts"],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_busiest_container_ports",
+    "https://english.shanghai.gov.cn/en-ShanghaiinNumbers/20250521/80264501f1f14b8d87a472ce826d992e.html",
+    "https://www.freightwaves.com/news/china-gains-as-geopolitics-redraws-new-global-container-port-rankings"
+  ],
+  "thumbnail_text": "5 BUSIEST PORTS, RANKED",
+  "priority": 5,
+  "first_comment": "In 2025 Shanghai went past 55 million, and Ningbo-Zhoushan finished less than a million behind Singapore. Will Singapore lose number two? What should we rank next?"
+}
