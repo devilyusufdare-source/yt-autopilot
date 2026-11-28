@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "IT BITES YOUR FACE AT NIGHT",
   "priority": 6,
-  "first_comment": "32 US states have kissing bugs. Have you ever seen one where you live?"
+  "first_comment": "32 US states have kissing bugs. Have you ever seen one where you live?",
+  "youtube_id": "1iiZqlQloIQ",
+  "url": "https://youtube.com/shorts/1iiZqlQloIQ",
+  "uploaded_at": "2026-11-28T00:33:13+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-28T01:20:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 9,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 25.4,
+  "style": "classic",
+  "kind": "shorts"
 }

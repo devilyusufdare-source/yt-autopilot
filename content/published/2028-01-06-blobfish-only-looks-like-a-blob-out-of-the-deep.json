@@ -58,5 +58,21 @@
   ],
   "thumbnail_text": "THE BLOBFISH ISN'T A BLOB",
   "priority": 6,
-  "first_comment": "Now you know the blobfish's secret. Which deep-sea animal should we look at next?"
+  "first_comment": "Now you know the blobfish's secret. Which deep-sea animal should we look at next?",
+  "youtube_id": "a65XwMJytsQ",
+  "url": "https://youtube.com/shorts/a65XwMJytsQ",
+  "uploaded_at": "2026-11-28T00:32:14+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-28T01:00:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 11,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#86EFAC",
+  "duration_seconds": 28.4,
+  "style": "classic",
+  "kind": "shorts"
 }
