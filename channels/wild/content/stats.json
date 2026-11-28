@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-28T10:56:14+00:00",
+  "updated_at": "2026-11-28T19:11:44+00:00",
   "channel": {
     "title": "WHAT IF FACTZ",
     "id": "UCL0SMowAuRlVgewaLekCsRA",
     "handle": "@whatiffact0",
     "subscribers": 24,
-    "channel_views": 23166,
-    "video_count": 162
+    "channel_views": 24012,
+    "video_count": 163
   },
   "diagnosis": {
     "not_public": [
-      "https://youtube.com/shorts/z-HvsyDyddE"
+      "https://youtube.com/shorts/rm2Im05mPp4"
     ],
     "made_for_kids": [],
     "not_processed": [
-      "https://youtube.com/shorts/z-HvsyDyddE"
+      "https://youtube.com/shorts/rm2Im05mPp4"
     ],
     "rejected": [],
     "region_restricted": [],
     "age_restricted": [],
     "sd_only": [
-      "https://youtube.com/shorts/z-HvsyDyddE"
+      "https://youtube.com/shorts/rm2Im05mPp4"
     ]
   },
   "retention": {
@@ -75,7 +75,7 @@
       {
         "title": "What If You Drank a Cup of Bacteria to Prove a Point? It Won a Nobel",
         "avg_view_percent": 10.7,
-        "views": 10
+        "views": 12
       },
       {
         "title": "What If Earth Were 5% Closer to the Sun? The Oceans Would Leak Into Space",
@@ -90,8 +90,8 @@
     ]
   },
   "retention_note": null,
-  "total_videos": 163,
-  "total_views": 24016,
+  "total_videos": 164,
+  "total_views": 24186,
   "by_topic": {
     "earth": {
       "videos": 17,
@@ -106,34 +106,34 @@
     "society": {
       "videos": 12,
       "avg_views": 155,
-      "best_views": 1009
+      "best_views": 1012
     },
     "animals": {
       "videos": 20,
-      "avg_views": 256,
+      "avg_views": 262,
       "best_views": 1428
     },
     "body": {
-      "videos": 43,
-      "avg_views": 107,
-      "best_views": 923
+      "videos": 44,
+      "avg_views": 105,
+      "best_views": 925
     },
     "technology": {
       "videos": 23,
-      "avg_views": 86,
+      "avg_views": 87,
       "best_views": 1047
     }
   },
   "by_style": {
     "classic": {
-      "videos": 163,
+      "videos": 164,
       "avg_views": 147,
       "over_1500": 0
     }
   },
   "by_voice": {
     "en-US-AndrewNeural": {
-      "videos": 162,
+      "videos": 163,
       "avg_views": 142
     },
     "en-US-EricNeural": {
@@ -187,13 +187,13 @@
     {
       "title": "What If You Never Replaced Your Kitchen Sponge?",
       "topic": "society",
-      "views": 1009,
+      "views": 1012,
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you."
     },
     {
       "title": "What If You Never Cleaned Your Belly Button?",
       "topic": "body",
-      "views": 923,
+      "views": 925,
       "hook": "What if you never cleaned your belly button? You'd be growing a tiny rainforest."
     },
     {
@@ -2127,7 +2127,7 @@
       "hook": "What if we crashed a spacecraft into an asteroid to push it? NASA tried. It overshot.",
       "published_at": "2026-11-08T17:40:28Z",
       "privacy": "public",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/SO9aGqEpzdg",
@@ -3191,7 +3191,7 @@
       "hook": "What if you lost 17,000 wallets on purpose? Scientists did, and the experts called it wrong.",
       "published_at": "2026-11-20T11:00:04Z",
       "privacy": "public",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/tVcSP2FFguw",
@@ -3835,7 +3835,7 @@
       "hook": "What if you drank bacteria just to win an argument? In 1984, one doctor did.",
       "published_at": "2026-11-17T00:00:17Z",
       "privacy": "public",
-      "views": 10,
+      "views": 12,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/z5Wsjl7ctCY",
@@ -4087,7 +4087,7 @@
       "hook": "What if you lost a tooth and simply grew another? A trial in Japan is testing that.",
       "published_at": "2026-11-23T23:30:38Z",
       "privacy": "public",
-      "views": 75,
+      "views": 77,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/uA4BiNGtBCI",
@@ -4311,7 +4311,7 @@
       "hook": "What if you never threw out your kitchen sponge? Cleaning it wouldn't save you.",
       "published_at": "2026-11-25T09:30:17Z",
       "privacy": "public",
-      "views": 1009,
+      "views": 1012,
       "likes": 6,
       "comments": 1,
       "url": "https://youtube.com/shorts/8Xl382-MJ4E",
@@ -4367,7 +4367,7 @@
       "hook": "What if you never cleaned your belly button? You'd be growing a tiny rainforest.",
       "published_at": "2026-11-25T21:10:16Z",
       "privacy": "public",
-      "views": 923,
+      "views": 925,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/xMq0LUr2j1E",
@@ -4395,7 +4395,7 @@
       "hook": "What if you never stopped growing? Your own size would turn against you.",
       "published_at": "2026-11-25T23:10:38Z",
       "privacy": "public",
-      "views": 109,
+      "views": 110,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/eZLgnXtnC-M",
@@ -4423,7 +4423,7 @@
       "hook": "What if you never opened a window? The oxygen wouldn't run out. Your breath would pile up.",
       "published_at": "2026-11-25T23:50:34Z",
       "privacy": "public",
-      "views": 24,
+      "views": 29,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/3PQcUd6U0Ss",
@@ -4451,7 +4451,7 @@
       "hook": "What if you never wore deodorant? Your sweat wouldn't be the problem. It barely smells at all.",
       "published_at": "2026-11-26T09:20:11Z",
       "privacy": "public",
-      "views": 102,
+      "views": 108,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/Derj2NcilJM"
@@ -4499,7 +4499,7 @@
       "hook": "What if you burped in space? It wouldn't just be air.",
       "published_at": "2026-11-26T21:00:38Z",
       "privacy": "public",
-      "views": 38,
+      "views": 42,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/0qQEEjVGGAY"
@@ -4547,8 +4547,8 @@
       "hook": "What if you swallow eight spiders a year in your sleep? Even the story behind it is fake.",
       "published_at": "2026-11-26T23:50:09Z",
       "privacy": "public",
-      "views": 524,
-      "likes": 14,
+      "views": 603,
+      "likes": 16,
       "comments": 1,
       "url": "https://youtube.com/shorts/QYdHwik4kG0"
     },
@@ -4571,7 +4571,7 @@
       "hook": "What if every dog on Earth vanished tonight? One deadly disease would almost disappear with them.",
       "published_at": "2026-11-27T09:30:13Z",
       "privacy": "public",
-      "views": 40,
+      "views": 44,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/Iq7-jW3DjlY"
@@ -4595,7 +4595,7 @@
       "hook": "What if you only slept six hours every night? You wouldn't feel the worst part.",
       "published_at": "2026-11-27T12:00:24Z",
       "privacy": "public",
-      "views": 77,
+      "views": 80,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/EnixXZPVbnI"
@@ -4643,7 +4643,7 @@
       "hook": "What if the five-second rule were true? Scientists tested it 2,560 times.",
       "published_at": "2026-11-27T22:40:13Z",
       "privacy": "public",
-      "views": 130,
+      "views": 143,
       "likes": 1,
       "comments": 1,
       "url": "https://youtube.com/shorts/cqEk2mJ1q_U"
@@ -4667,7 +4667,7 @@
       "hook": "What if a swarm of angry bees chased you? Jumping into water is the worst move.",
       "published_at": "2026-11-27T23:30:27Z",
       "privacy": "public",
-      "views": 531,
+      "views": 554,
       "likes": 5,
       "comments": 1,
       "url": "https://youtube.com/shorts/-KTGbFYQcu4"
@@ -4691,12 +4691,36 @@
       "hook": "What if you put two grapes in a microwave? You'd make the same glowing stuff as lightning.",
       "published_at": "2026-11-28T08:50:07Z",
       "privacy": "public",
-      "views": 48,
+      "views": 67,
       "likes": 0,
       "comments": 1,
       "url": "https://youtube.com/shorts/RynvKIPJrNo"
     },
     "z-HvsyDyddE": {
+      "upload_status": "processed",
+      "rejection_reason": null,
+      "made_for_kids": false,
+      "self_declared_made_for_kids": false,
+      "embeddable": true,
+      "license": "youtube",
+      "duration": "PT40S",
+      "definition": "hd",
+      "region_restriction": null,
+      "content_rating": null,
+      "category_id": "27",
+      "title": "What If Your Dog Ate Your Chocolate?",
+      "topic": "animals",
+      "style": "classic",
+      "voice": "en-US-AndrewNeural",
+      "hook": "What if your dog ate your chocolate? Nothing might happen for hours. That's the trap.",
+      "published_at": "2026-11-28T11:20:15Z",
+      "privacy": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 1,
+      "url": "https://youtube.com/shorts/z-HvsyDyddE"
+    },
+    "rm2Im05mPp4": {
       "upload_status": "uploaded",
       "rejection_reason": null,
       "made_for_kids": false,
@@ -4708,17 +4732,17 @@
       "region_restriction": null,
       "content_rating": null,
       "category_id": "27",
-      "title": "What If Your Dog Ate Your Chocolate?",
-      "topic": "animals",
+      "title": "What If You Swallowed a Watermelon Seed?",
+      "topic": "body",
       "style": "classic",
       "voice": "en-US-AndrewNeural",
-      "hook": "What if your dog ate your chocolate? Nothing might happen for hours. That's the trap.",
-      "published_at": "2026-11-28T10:56:09Z",
+      "hook": "What if you swallowed a watermelon seed? The old warning says it sprouts. Your gut disagrees.",
+      "published_at": "2026-11-28T19:11:40Z",
       "privacy": "private",
       "views": 0,
       "likes": 0,
       "comments": 0,
-      "url": "https://youtube.com/shorts/z-HvsyDyddE"
+      "url": "https://youtube.com/shorts/rm2Im05mPp4"
     }
   }
 }

@@ -59,5 +59,21 @@
   "thumbnail_text": "WHAT IF YOU SWALLOWED A SEED?",
   "priority": 7,
   "first_comment": "Did someone tell you a watermelon would grow in your stomach? Tell us the childhood warning we should run through next.",
-  "id": "2027-12-17-what-if-you-swallowed-a-watermelon-seed"
+  "id": "2027-12-17-what-if-you-swallowed-a-watermelon-seed",
+  "youtube_id": "rm2Im05mPp4",
+  "url": "https://youtube.com/shorts/rm2Im05mPp4",
+  "uploaded_at": "2026-11-28T19:11:42+00:00",
+  "privacy_requested": "private",
+  "publish_at": "2026-11-28T19:40:00Z",
+  "tts_engine": "edge",
+  "voice_used": "en-US-AndrewNeural",
+  "footage": {
+    "pixabay-video": 14,
+    "animated-background": 0,
+    "look": "footage"
+  },
+  "highlight_color": "#FDA4AF",
+  "duration_seconds": 37.0,
+  "style": "classic",
+  "kind": "shorts"
 }
